@@ -2,7 +2,8 @@
 
     .venv/bin/python viz/export.py [--village DIR] [--replay DIR] [--scorer DIR] [--out DIR]
 
-Writes <out>/index.json (town, principals, gate, scorer status, scorecard summary) and <out>/p/<pid>.json (sessions,
+Writes <out>/index.json (town, principals, gate, scorer status, scorecard summary, the optimization round-1 panel from
+viz/round1.json and its candidates' scorecards) and <out>/p/<pid>.json (sessions,
 memory commits with diff + full snapshot, ground truth, probes with answers and verdicts). Read-only on every input:
 the replay repos are only read with `git ls-tree`, `git diff` and `git cat-file`. Re-run it as scorer files appear;
 any missing scorer file is reported as absent, never filled in.
@@ -167,6 +168,59 @@ def _scorecard_summary(card: dict | None) -> dict | None:
     ev = card.get("eval", {})
     return {"probes": ev.get("probes"), "provisional": ev.get("provisional"), "rubric_version": ev.get("rubric_version"),
             "systems": systems}  # fmt: skip
+
+
+# ------------------------------------------------------------------ optimization round 1
+
+PAIRED_DIMS = ("remembering", "understanding", "restraint")  # the scorer pairs check dimensions only, never integrity
+
+
+def _points(x: float | None) -> float | None:
+    """A fraction as points: x100, one decimal (never -0.0)."""
+    return None if x is None else round(x * 100, 1) + 0.0
+
+
+def _comparison_run(root: Path, rel: str) -> dict:
+    """One candidate scorecard's comparison with v0, in points. A check dimension is its `paired` delta (on the checks
+    both runs decided) with that pair's CI over principals; integrity is the scorer's unpaired delta, with no CI. A
+    missing scorecard is absent and never filled in."""
+    card = _read_json(root / rel / "scorecard.json")
+    out = {"scorecard": rel, "present": card is not None, "probes": None, "principals": None, "provisional": None,
+           "dims": None}  # fmt: skip
+    if card is None:
+        return out
+    cmp = card.get("comparison")
+    integ = (card.get("systems", {}).get((cmp or {}).get("system", "v0")) or {}).get("integrity") or {}
+    out["probes"] = card.get("eval", {}).get("probes")
+    out["principals"] = sorted(integ.get("final") or {}) or None
+    if not cmp:
+        return out
+    out["provisional"] = cmp.get("provisional")
+    paired = cmp.get("paired") or {}
+    dims: dict[str, dict | None] = {}
+    for d in PAIRED_DIMS:
+        p = paired.get(d)
+        dims[d] = None if p is None else {"delta": _points(p.get("delta")), "source": "paired",
+                                          "ci": [_points(x) for x in p["ci_principals"]] if p.get("ci_principals") else None}  # fmt: skip
+    integ_delta = (cmp.get("deltas") or {}).get("integrity")
+    dims["integrity"] = None if integ_delta is None else {"delta": _points(integ_delta), "ci": None, "source": "deltas"}
+    out["dims"] = dims
+    return out
+
+
+def round1_summary(spec: dict, root: Path) -> dict:
+    """The optimization round-1 panel: the hand-authored lesson, rule and verdicts from `spec` (viz/round1.json), with
+    each candidate's screen and confirm comparison and the A/A noise floor read from scorecards whose repo-relative
+    paths resolve against `root` (the checkout that holds runs/)."""
+    nf = spec["noise_floor"]
+    return {
+        "lesson": spec["lesson"], "rule": spec["rule"],
+        "noise_floor": {"label": nf.get("label"), **_comparison_run(root, nf["scorecard"])},
+        "candidates": [{**{k: c.get(k) for k in ("id", "change", "verdict", "reason")},
+                        "screen": _comparison_run(root, c["screen"]) if c.get("screen") else None,
+                        "confirm": _comparison_run(root, c["confirm"]) if c.get("confirm") else None}
+                       for c in spec["candidates"]],
+    }  # fmt: skip
 
 
 # ------------------------------------------------------------------ town: places, homes, where each principal is each day
@@ -338,7 +392,7 @@ def _public_path(path: Path) -> str:
         return path.name
 
 
-def export(village: Path, replay: Path, scorer: Path, out: Path) -> dict:
+def export(village: Path, replay: Path, scorer: Path, out: Path, round1: Path | None = None) -> dict:
     from scorer.gold import Gold
 
     gold = Gold(village)
@@ -353,7 +407,7 @@ def export(village: Path, replay: Path, scorer: Path, out: Path) -> dict:
     verdicts = _read_jsonl(scorer / "verdicts.jsonl")
     card = _read_json(scorer / "scorecard.json")
     scorer_status = {
-        "dir": str(scorer), "files": {f: (scorer / f).exists() for f in SCORER_FILES},
+        "dir": _public_path(scorer), "files": {f: (scorer / f).exists() for f in SCORER_FILES},
         "probes": len(probes) if probes is not None else None,
         "answers": None if answers is None else {s: sum(a["system"] == s for a in answers)
                                                  for s in sorted({a["system"] for a in answers})},
@@ -473,6 +527,8 @@ def export(village: Path, replay: Path, scorer: Path, out: Path) -> dict:
         "redactions": redact.hits,
         "sources": {"village": _public_path(village), "replay": _public_path(replay), "scorer": _public_path(scorer)},
     }  # fmt: skip
+    spec = _read_json(round1) if round1 else None
+    index["round1"] = round1_summary(spec, main_root()) if spec else None
     town = town_bundle(village, gold, people, world, town_inputs, redact)
     (out / "town.json").write_text(json.dumps(town, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (out / "index.json").write_text(json.dumps(index, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -497,8 +553,9 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--replay", type=Path, default=root / "runs/replays/full13-v1-v0")
     ap.add_argument("--scorer", type=Path, default=root / "runs/scorer/full13-v1-v0")
     ap.add_argument("--out", type=Path, default=HERE / "public/data")
+    ap.add_argument("--round1", type=Path, default=HERE / "round1.json", help="the round-1 panel's hand-authored part")
     a = ap.parse_args(argv)
-    export(a.village, a.replay, a.scorer, a.out)
+    export(a.village, a.replay, a.scorer, a.out, a.round1)
     return 0
 
 

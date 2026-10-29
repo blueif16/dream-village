@@ -4,6 +4,7 @@ and the full-village spec follows design §2 (12 principals by age and usage, ev
 from __future__ import annotations
 
 import hashlib
+import json
 import re
 from collections import Counter
 from datetime import date
@@ -99,3 +100,98 @@ def test_full13_horizon_holidays():
 
     got = g.holidays(g.horizon_days(FULL13.start, FULL13.weeks))
     assert sorted(d.isoformat() for d in got) == ["2025-09-01", "2025-10-13", "2025-11-11"]  # Thanksgiving is 11-27
+
+
+# --------------------------------------------------------------------------- heldout: the second, smaller town (D16)
+
+
+def _heldout():
+    from village.spec import VILLAGES
+
+    spec = VILLAGES.get("heldout")
+    assert spec is not None, "no heldout village spec"
+    return spec
+
+
+def test_heldout_is_a_smaller_town_over_the_dev_horizon():
+    """D16: 4-6 principals; the same 13 weeks as full13, so lag strata compare across the two towns."""
+    from village.spec import FULL13
+
+    spec = _heldout()
+    assert 4 <= len(spec.principals) <= 6
+    assert g.horizon_days(spec.start, spec.weeks) == g.horizon_days(FULL13.start, FULL13.weeks)
+
+
+def test_every_heldout_principal_is_linked_to_another():
+    spec = _heldout()
+    linked = {i for pair in spec.required_links for i in pair}
+    assert linked == set(range(1, len(spec.principals) + 1))
+
+
+def test_heldout_keeps_the_dev_usage_mix_and_a_minor():
+    """Every usage tier appears (D15), and a minor, so the minors-without-age rule (C2) is tested on held-out too."""
+    spec = _heldout()
+    assert {p.frequency for p in spec.principals} == {"daily", "several_per_week", "weekly"}
+    assert any(p.minor for p in spec.principals)
+    assert all(p.minor == (p.ages[1] < 18) for p in spec.principals)
+
+
+def test_heldout_principals_are_not_the_dev_cast():
+    """A held-out resident who is a dev resident's description would let the loop tune to them."""
+    spec = _heldout()
+    assert not {p.life for p in spec.principals} & {p.life for p in FULL.principals}
+
+
+def test_heldout_cast_prompt_is_sized_for_its_principals():
+    from village.spec import FULL13
+
+    spec = _heldout()
+    for name in ("world", "cast", "bible"):
+        assert not re.search(r"\$[a-z_]+", g.prompt(name, spec)), name
+    tiers = lambda s: [tuple(map(int, m)) for m in re.findall(r"(?:bosses|manager's manager): (\d+)-(\d+)", g.prompt("cast", s))]  # noqa: E731
+    (inner, periphery), (dev_inner, dev_periphery) = tiers(spec), tiers(FULL13)
+    assert inner[1] < dev_inner[0] and periphery[1] < dev_periphery[0], "a 5-principal town asks for a 12-principal cast"
+
+
+# The full13-v1 world request, as logged in data/villages/full13-v1/llm/logs/requests.jsonl (its cache holds it).
+FULL13_V1_R1_KEY = "270c81d20e616bff19d72e582af5a68491160692c6f9e6376bf50a8d11ec2267"
+
+
+def _dev_village(tmp_path):
+    (tmp_path / "world.json").write_text(json.dumps({
+        "town": "Alcaraz Flats", "region": "southern edge of invented Tamsen County",
+        "places": [{"id": "pl-a", "name": "Calle Ortega"}, {"id": "pl-b", "name": "Taquería Colima"}]}))  # fmt: skip
+    (tmp_path / "cast.json").write_text(json.dumps({"people": [{"id": "isabel", "name": "Isabel Tolentino"},
+                                                               {"id": "grace", "name": "Grace Tolentino"}]}))  # fmt: skip
+    return tmp_path
+
+
+def test_full13_world_request_is_the_one_full13_v1_cached():
+    from village.spec import FULL13
+
+    assert g.r1_request(FULL13).key == FULL13_V1_R1_KEY
+
+
+def test_heldout_is_generated_distinct_from_the_dev_village():
+    assert _heldout().distinct_from == "data/villages/full13-v1"
+
+
+def test_heldout_world_request_rules_out_the_dev_town_and_its_places(tmp_path):
+    """heldout-v1's first world came back as the dev town (same name): the request must name what to avoid."""
+    import dataclasses
+
+    spec = dataclasses.replace(_heldout(), distinct_from=str(_dev_village(tmp_path)))
+    user = g.r1_request(spec).params["messages"][0]["content"]
+    for name in ("Alcaraz Flats", "Tamsen County", "Calle Ortega", "Taquería Colima"):
+        assert name in user, name
+
+
+def test_heldout_cast_request_rules_out_the_dev_cast_names(tmp_path):
+    import dataclasses
+
+    from village.schema import Place, World
+
+    spec = dataclasses.replace(_heldout(), distinct_from=str(_dev_village(tmp_path)))
+    world = World("Other Town", "", "", [], [Place("pl-x", "Marsh Light Coffee", "cafe", "")], [])
+    user = g.r2_request(spec, world).params["messages"][0]["content"]
+    assert "Isabel Tolentino" in user and "Grace Tolentino" in user

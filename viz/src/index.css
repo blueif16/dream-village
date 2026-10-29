@@ -1646,3 +1646,66 @@ details.plan p {
     transition: none !important;
   }
 }
+
+/* optimization round 1: candidate minus v0, screen and confirm side by side */
+.round1-lesson {
+  font-family: var(--serif);
+  font-size: 22px;
+  line-height: 1.25;
+  margin: 2px 0 8px;
+  max-width: 70ch;
+}
+
+table.round1 th,
+table.round1 td {
+  padding: 7px 8px;
+}
+
+table.round1 th.group {
+  text-align: center;
+}
+
+table.round1 abbr {
+  text-decoration: none;
+}
+
+table.round1 .gstart {
+  border-left: 1px solid var(--rule);
+}
+
+table.round1 td.num .ci {
+  display: block;
+  font-size: 11px;
+  color: var(--muted);
+}
+
+table.round1 td.change {
+  min-width: 160px;
+  max-width: 240px;
+}
+
+table.round1 .verdict {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
+table.round1 .reason {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  margin-top: 2px;
+  min-width: 200px;
+}
+
+.round1-notes {
+  margin: 10px 0 0;
+  padding: 0;
+  list-style: none;
+  color: var(--muted);
+  font-size: 12.5px;
+}
+
+.round1-notes li {
+  padding: 2px 0;
+}
+

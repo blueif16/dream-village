@@ -68,6 +68,41 @@ export interface Index {
   scorecard: { probes: number | null; provisional: boolean | null; rubric_version: string | null; systems: Record<string, ScorecardSystem> } | null
   redactions: number
   sources: Record<string, string>
+  round1?: Round1 | null // absent from bundles exported before the panel existed
+}
+
+// Optimization round 1: candidate minus v0 in points (x100, one decimal), read from each candidate's scorecard.
+export type Round1Dim = 'remembering' | 'understanding' | 'restraint' | 'integrity'
+
+export interface Round1Cell {
+  delta: number | null
+  ci: [number, number] | null // over principals; null for integrity, which the scorer does not pair
+  source: 'paired' | 'deltas'
+}
+
+export interface Round1Run {
+  scorecard: string // repo-relative
+  present: boolean // false: scorecard.json missing, nothing filled in
+  probes: number | null
+  principals: string[] | null
+  provisional: string | null
+  dims: Record<Round1Dim, Round1Cell | null> | null // null: absent, or the scorecard has no comparison
+}
+
+export interface Round1Candidate {
+  id: string
+  change: string
+  verdict: string
+  reason: string | null
+  screen: Round1Run | null // null: not run
+  confirm: Round1Run | null
+}
+
+export interface Round1 {
+  lesson: string
+  rule: string
+  noise_floor: Round1Run & { label: string | null }
+  candidates: Round1Candidate[]
 }
 
 export interface Turn {

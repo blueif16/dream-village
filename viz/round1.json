@@ -1,0 +1,47 @@
+{
+  "lesson": "Round 1: no single change beat v0 beyond noise; combining them raised recall but cost integrity.",
+  "rule": "Acceptance rule, fixed before the runs: the target gain is beyond the A/A noise and no dimension drops beyond it.",
+  "noise_floor": {"label": "D38, measured on eval v1", "scorecard": "runs/scorer/full13-v1-v0-B"},
+  "candidates": [
+    {
+      "id": "C1",
+      "change": "the answer step must read memory before answering",
+      "verdict": "screened out (4 principals)",
+      "reason": null,
+      "screen": "runs/scorer/screen-c1",
+      "confirm": null
+    },
+    {
+      "id": "C2",
+      "change": "file on first mention, and update the profile every session (minors stored without age)",
+      "verdict": "screened out",
+      "reason": null,
+      "screen": "runs/scorer/screen-c2",
+      "confirm": null
+    },
+    {
+      "id": "C3",
+      "change": "the nightly dream writes `[inferred]` lines",
+      "verdict": "screened out",
+      "reason": null,
+      "screen": "runs/scorer/screen-c3",
+      "confirm": null
+    },
+    {
+      "id": "C4",
+      "change": "forget masks the forgotten span in the raw window and archive",
+      "verdict": "not accepted",
+      "reason": "missed its own target (forgotten-item checks 34/38 vs v0 35/38); the other gains are inside the A/A noise",
+      "screen": "runs/scorer/screen-c4",
+      "confirm": "runs/scorer/confirm-c4"
+    },
+    {
+      "id": "C5",
+      "change": "C1–C4 combined",
+      "verdict": "not accepted",
+      "reason": "integrity dropped 4.2 points, beyond the A/A run's −1.0, despite Remembering +4.2 and memory recall 75.5% vs 63.8%",
+      "screen": "runs/scorer/screen-c5",
+      "confirm": "runs/scorer/confirm-c5"
+    }
+  ]
+}

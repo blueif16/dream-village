@@ -1051,9 +1051,29 @@ def _count(n: int) -> str:
     return {2: "two", 12: "twelve"}.get(n, str(n))
 
 
+def distinct_note(spec: VillageSpec, what: str) -> str:
+    """For a second town (spec.distinct_from): the first town's names that the world ("world") or cast ("cast")
+    request must not reuse. Empty otherwise, so every other village's requests stay byte-identical."""
+    if not spec.distinct_from:
+        return ""
+    root = Path(spec.distinct_from)
+    if what == "world":
+        w = json.loads((root / "world.json").read_text())
+        names = [w["town"], *re.findall(r"[A-Z][\w'-]*(?: [A-Z][\w'-]*)* County", w.get("region", ""))]
+        names += [p["name"] for p in w["places"]]
+        ask = ("This is a second, separate town in the same study. Invent a different town: a different name, county "
+               "and geography, and different names for every place, business, street and event. Reuse none of these "
+               "names from the first town, nor close variants of them:")  # fmt: skip
+    else:
+        names = [p["name"] for p in json.loads((root / "cast.json").read_text())["people"]]
+        ask = ("This town's people are not the first town's. Reuse none of these people's first or last names from "
+               "the first town's cast:")  # fmt: skip
+    return f"<distinct_from>\n{ask} {'; '.join(names)}.\n</distinct_from>\n\n"
+
+
 def r1_request(spec: VillageSpec) -> Req:
     days = horizon_days(spec.start, spec.weeks)
-    user = (f"<horizon>\n{spec.weeks} weeks: {days[0]:%A} {days[0]} through {days[-1]:%A} {days[-1]}. The first "
+    user = distinct_note(spec, "world") + (f"<horizon>\n{spec.weeks} weeks: {days[0]:%A} {days[0]} through {days[-1]:%A} {days[-1]}. The first "
             f"school week starts {days[0]}.\n</horizon>\n\n<calendar>\n{calendar_text(days)}\n</calendar>\n\n"
             "Write the town and its event calendar for this horizon.")  # fmt: skip
     return build_req(stage(spec, "r1_world"), [prompt("world", spec)], user, World, meta={"principal": "-", "item": "world"})  # fmt: skip
@@ -1071,7 +1091,7 @@ def r2_request(spec: VillageSpec, world: World) -> Req:
     n = _count(len(spec.principals))
     lines = "\n".join(f"{i}. Age {p.ages[0]}-{p.ages[1]}: {p.life}. Uses an AI assistant "
                       f"{p.frequency.replace('_', ' ')}." for i, p in enumerate(spec.principals, 1))  # fmt: skip
-    user = (f"<principals>\nCreate exactly these {n} principals. {spec.links}\n{lines}\n</principals>\n\n"
+    user = distinct_note(spec, "cast") + (f"<principals>\nCreate exactly these {n} principals. {spec.links}\n{lines}\n</principals>\n\n"
             f"Create the cast: the {n} principals plus only the inner-circle and periphery people who touch their "
             "lives, the links, and the shared fact sheet.")  # fmt: skip
     return build_req(stage(spec, "r2_cast"), [prompt("cast", spec), world_block(world)], user, Cast,

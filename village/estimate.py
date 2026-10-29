@@ -52,6 +52,17 @@ GROWTH = {
         "r8_recover": (1.5, 2, 1, 1.5),
         "r8_judge": (1, 1.5, 1, 1),
     },
+    "heldout": {  # vs full13-v1 MEASURED (--measured data/villages/full13-v1): same world, a ~40-person cast
+        "r1_world": (1, 1, 1, 1),
+        "r2_cast": (1, 1, 0.35, 0.6),  # the same world in; ~40 people out instead of ~100
+        "r3_bible": (0.5, 0.9, 1, 1),  # the smaller cast in; the same per-principal bible out
+        "r4_life_log": (0.6, 1, 1, 1),
+        "r5_plan": (0.5, 1, 1, 1),  # fewer other principals' facts in the prefix
+        "r6_render": (0.6, 1, 1, 1),
+        "r7_verify": (0.6, 1, 1, 1),
+        "r8_recover": (1, 1, 1, 1),
+        "r8_judge": (1, 1, 1, 1),
+    },
 }
 
 

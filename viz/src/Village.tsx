@@ -1,5 +1,5 @@
 import { DAY, fmtDay, fmtPct, ms } from './data'
-import type { Index, ScorecardSystem } from './types'
+import type { Index, Round1, Round1Cell, Round1Dim, Round1Run, ScorecardSystem } from './types'
 
 const FREQ: Record<string, string> = { daily: 'daily', several_per_week: 'several / week', weekly: 'weekly' }
 const DIMS = ['remembering', 'understanding', 'restraint', 'task'] as const
@@ -82,6 +82,138 @@ function Scorecard({ index }: { index: Index }) {
       </table>
       </div>
     </>
+  )
+}
+
+// ------------------------------------------------------------------ optimization round 1
+
+const R1_DIMS: [Round1Dim, string, string][] = [
+  ['remembering', 'Remembering', 'Rem.'],
+  ['understanding', 'Understanding', 'Und.'],
+  ['restraint', 'Restraint', 'Restr.'],
+  ['integrity', 'Integrity', 'Integ.'],
+]
+
+/** Points as the exporter wrote them (already rounded), with a typographic minus. */
+function pts(x: number | null | undefined, plus = true): string {
+  if (x === null || x === undefined) return '—'
+  const s = Math.abs(x).toFixed(1)
+  return x < 0 ? `−${s}` : x > 0 && plus ? `+${s}` : s
+}
+
+const ciText = (ci: [number, number]) => `[${pts(ci[0], false)}, ${pts(ci[1], false)}]`
+
+/** Text with `backticked` spans set as code. */
+function Ticks({ text }: { text: string }) {
+  return <>{text.split('`').map((part, i) => (i % 2 ? <code key={i} className="mono">{part}</code> : part))}</>
+}
+
+/** The principal count shared by these runs, for a column header; nothing if they differ or none is known. */
+function nOf(runs: (Round1Run | null)[]): string {
+  const ns = [...new Set(runs.flatMap((r) => (r?.principals ? [r.principals.length] : [])))]
+  return ns.length === 1 ? ` (n=${ns[0]})` : ''
+}
+
+function Delta({ cell }: { cell: Round1Cell | null }) {
+  if (!cell) return <>—</>
+  return (
+    <>
+      {pts(cell.delta)}
+      {cell.source === 'deltas' && '†'}
+      {cell.ci && <span className="ci">{ciText(cell.ci)}</span>}
+    </>
+  )
+}
+
+function RunCells({ run }: { run: Round1Run | null }) {
+  if (!run) return <td colSpan={R1_DIMS.length} className="gstart muted">not run</td>
+  if (!run.present || !run.dims) {
+    return (
+      <td colSpan={R1_DIMS.length} className="gstart muted" title={run.scorecard}>
+        {run.present ? 'no comparison in the scorecard' : 'scorecard absent'}
+      </td>
+    )
+  }
+  return (
+    <>
+      {R1_DIMS.map(([d], i) => (
+        <td key={d} className={i === 0 ? 'num gstart' : 'num'} title={`${run.scorecard}/scorecard.json`}>
+          <Delta cell={run.dims![d]} />
+        </td>
+      ))}
+    </>
+  )
+}
+
+function Round1Panel({ r }: { r: Round1 }) {
+  const nf = r.noise_floor
+  const runs = [nf, ...r.candidates.flatMap((c) => [c.screen, c.confirm])]
+  const provisional = [...new Set(runs.flatMap((x) => (x?.provisional ? [x.provisional] : [])))]
+  const dagger = runs.some((x) => x?.dims && Object.values(x.dims).some((c) => c?.source === 'deltas'))
+  return (
+    <section className="round1">
+      <h2 className="section-title">Optimization round 1</h2>
+      <p className="round1-lesson">{r.lesson}</p>
+      <p className="section-note">
+        Each candidate changes v0. It is screened on a few principals and, if it passes, confirmed on all of them.
+        Δ is candidate minus v0 in points, with the CI over principals in brackets.
+      </p>
+      <div className="table-scroll">
+        <table className="data round1">
+          <thead>
+            <tr>
+              <th rowSpan={2}>candidate</th>
+              <th rowSpan={2}>change</th>
+              <th colSpan={R1_DIMS.length} className="group gstart">screen Δ{nOf(r.candidates.map((c) => c.screen))}</th>
+              <th colSpan={R1_DIMS.length} className="group gstart">confirm Δ{nOf(r.candidates.map((c) => c.confirm))}</th>
+              <th rowSpan={2} className="gstart">verdict</th>
+            </tr>
+            <tr>
+              {['screen', 'confirm'].flatMap((g) =>
+                R1_DIMS.map(([d, label, abbr], i) => (
+                  <th key={`${g}-${d}`} className={i === 0 ? 'num gstart' : 'num'}>
+                    <abbr title={label}>{abbr}</abbr>
+                  </th>
+                )),
+              )}
+            </tr>
+          </thead>
+          <tbody>
+            {r.candidates.map((c) => (
+              <tr key={c.id}>
+                <td className="mono">{c.id}</td>
+                <td className="change"><Ticks text={c.change} /></td>
+                <RunCells run={c.screen} />
+                <RunCells run={c.confirm} />
+                <td className="gstart">
+                  <span className="verdict">{c.verdict}</span>
+                  {c.reason && <span className="reason">{c.reason}</span>}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <ul className="round1-notes">
+        <li>{r.rule}</li>
+        <li title={`${nf.scorecard}/scorecard.json`}>
+          A/A noise floor{nf.label ? ` (${nf.label})` : ''}:{' '}
+          {nf.dims
+            ? R1_DIMS.map(([d, label]) => {
+                const c = nf.dims![d]
+                return `${label} ${c ? pts(c.delta) + (c.source === 'deltas' ? '†' : '') + (c.ci ? ' ' + ciText(c.ci) : '') : '—'}`
+              }).join(' · ')
+            : nf.present ? 'no comparison in the scorecard' : 'scorecard absent'}
+        </li>
+        {dagger && (
+          <li>
+            † Integrity has no CI: the scorer pairs only the check dimensions, so this is its unpaired delta. On a screen
+            it compares the screened principals with v0 on the whole village.
+          </li>
+        )}
+        {provisional.map((p) => <li key={p}>{p}</li>)}
+      </ul>
+    </section>
   )
 }
 
@@ -193,6 +325,8 @@ export function Village({ index, onOpen }: { index: Index; onOpen: (pid: string)
           <Scorecard index={index} />
         </div>
       </div>
+
+      {index.round1 && <Round1Panel r={index.round1} />}
     </div>
   )
 }

@@ -45,6 +45,7 @@ class VillageSpec:
     events_min: int
     never_store_per_month: int = 2  # D32(c): 1-3 task-driven never-store disclosures per principal per month
     max_tokens: dict[str, int] = field(default_factory=dict)  # per-stage overrides of generate.STAGES
+    distinct_from: str | None = None  # a generated village dir whose town and cast names this village must not reuse
 
 
 # pilot-v1's prompt text, verbatim (do not edit: it keys pilot-v1's response cache)
@@ -231,4 +232,40 @@ FULL13 = VillageSpec(
     max_tokens={"r1_world": 24000, "r2_cast": 64000, "r3_bible": 48000},
 )
 
-VILLAGES = {s.name: s for s in (PILOT, FULL, FULL13)}
+# D16: the held-out set is a second, smaller town from the same pipeline, frozen, used only to confirm winners. Same
+# horizon and per-principal bars as full13 (so lag strata compare); the cast is sized for five principals.
+HELDOUT = VillageSpec(
+    name="heldout",
+    start=FULL13.start,
+    weeks=FULL13.weeks,
+    principals=(
+        Principal((15, 17), "several_per_week", "a high-school freshman in the marching band, finding a new friend "
+                  "group; the child of principal 5 and a cousin of principal 2", minor=True),
+        Principal((18, 22), "daily", "a senior in civil engineering at the state-university campus who drives for a "
+                  "delivery app on weekends and is job hunting for after graduation; a cousin of principal 1 and the "
+                  "roommate of principal 3"),
+        Principal((23, 30), "daily", "a respiratory therapist on rotating shifts at the town hospital, planning a "
+                  "wedding on a tight budget; the roommate of principal 2 and a neighbor of principal 4"),
+        Principal((30, 39), "several_per_week", "a shift supervisor at the warehouse employer and single parent of two "
+                  "young children, juggling childcare around peak-season hours; a neighbor of principal 3"),
+        Principal((40, 49), "weekly", "the owner of a main-street hardware store, caring for an aging parent and "
+                  "weighing whether to sell the business; the parent of principal 1"),
+    ),
+    links=FULL.links,
+    required_links=((1, 5), (1, 2), (2, 3), (3, 4)),
+    prompt_vars=FULL13_PROMPT_VARS | {
+        "tier_bullet": (
+            "  - `tier`: `principal` (exactly the principals requested), `inner` (family, partners, close friends, bosses: 12-18\n"
+            "    people across all principals, some shared, some only one principal's), or `periphery` (coworkers,\n"
+            "    classmates, neighbors, a manager's manager: 18-24 people)."
+        ),
+        "cast_changes": "3-6",
+        "cast_never_store": "1-3",
+    },
+    bible_bar=FULL13.bible_bar,
+    events_min=FULL13.events_min,
+    max_tokens=FULL13.max_tokens,
+    distinct_from="data/villages/full13-v1",  # its first world sample, with an identical prompt, was the dev town
+)
+
+VILLAGES = {s.name: s for s in (PILOT, FULL, FULL13, HELDOUT)}
