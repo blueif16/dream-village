@@ -39,6 +39,7 @@ export interface EngineOpts {
 
 export const MIN_PER_SEC = 8 // at 1×, a day passes in three minutes
 const PIN_PX = 22 // a resident's pin is this tall on screen however far out the view is
+const CALLOUT_LEAD = 30 // px of hairline between a thing and its callout card (matches .callout in town.css)
 const REDUCED = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches
 const ISO = new THREE.Vector3(1, 1, 1).normalize()
 const ease = (t: number) => t * t * (3 - 2 * t)
@@ -772,17 +773,21 @@ export class TownEngine {
     return [((p.x + 1) / 2) * this.o.stage.clientWidth, ((1 - p.y) / 2) * this.o.stage.clientHeight]
   }
 
-  private labelOf(s: Sel): string {
-    if (!s) return ''
+  /** A callout's small label, its value, and its colour. */
+  private labelOf(s: Sel): [string, string, string] {
+    if (!s) return ['', '', '']
     if (s.kind === 'person') {
       const r = this.residents.find((x) => x.p.id === s.id)!
       const st = this.status(r)
       const where = (id: string | null) => (id ? this.plan.lots.get(id)?.place.name ?? '' : '')
-      const word = { asleep: 'asleep', here: `at ${where(st.at)}`, walking: `to ${where(st.to)}`, talking: 'talking to the assistant', dreaming: 'memory dreaming' }[st.mode]
-      return `${r.p.name.split(' ')[0]} · ${word}`
+      const word = { asleep: 'Asleep at home', here: `At ${where(st.at)}`, walking: `Walking to ${where(st.to)}`, talking: 'Talking to the assistant', dreaming: 'Memory dreaming' }[st.mode]
+      return [r.p.name.split(' ')[0], word, `#${r.color.toString(16).padStart(6, '0')}`]
     }
-    if (s.kind === 'place') return this.plan.lots.get(s.id)?.place.name ?? s.id
-    return s.kind === 'bus' ? 'Bus · town loop' : 'Tule Line'
+    if (s.kind === 'place') {
+      const p = this.plan.lots.get(s.id)?.place
+      return [(p?.kind ?? '').replace(/_/g, ' '), p?.name ?? s.id, '']
+    }
+    return s.kind === 'bus' ? ['Bus', 'Town loop', ''] : ['Train', 'Tule Line', '']
   }
 
   private anchor(s: Sel): THREE.Vector3 | null {
@@ -798,19 +803,31 @@ export class TownEngine {
     return this.worldOf(s)?.add(W(0, 0, 5)) ?? null
   }
 
+  /** A callout: a hairline up from the thing to a card with its label and value (a `.k` and a `.v` inside `.card`). */
   private placeTag(el: HTMLElement, s: Sel) {
     const a = this.anchor(s)
-    if (!s || !a) {
+    const w = this.o.stage.clientWidth
+    const h = this.o.stage.clientHeight
+    const [x, y] = a ? this.screenOf(a) : [-1, -1]
+    if (!s || !a || x < 0 || x > w || y < 0 || y > h) {
       el.hidden = true
       return
     }
-    const [x, y] = this.screenOf(a)
-    const text = this.labelOf(s)
-    if (el.textContent !== text) el.textContent = text
+    const [k, v, c] = this.labelOf(s)
+    const ke = el.querySelector<HTMLElement>('.k')
+    const ve = el.querySelector<HTMLElement>('.v')
+    if (ke && ke.textContent !== k) ke.textContent = k
+    if (ve && ve.textContent !== v) ve.textContent = v
+    el.style.setProperty('--c', c || 'transparent')
+    el.classList.toggle('tinted', !!c)
     el.hidden = false
-    const hw = el.offsetWidth / 2 + 6
-    el.style.left = `${clamp(x, hw, this.o.stage.clientWidth - hw)}px`
-    el.style.top = `${clamp(y, el.offsetHeight + 12, this.o.stage.clientHeight)}px`
+    const card = el.querySelector<HTMLElement>('.card')
+    const cw = card?.offsetWidth ?? 0
+    const ch = card?.offsetHeight ?? 0
+    el.style.left = `${x.toFixed(1)}px`
+    el.style.top = `${Math.max(y, ch + CALLOUT_LEAD + 8).toFixed(1)}px`
+    // the card keeps to the stage; the line stays on the thing
+    el.style.setProperty('--shift', `${Math.max(8 - x, Math.min(0, w - 8 - (x + cw))).toFixed(1)}px`)
   }
 
   private drawTags() {
