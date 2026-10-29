@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T04:45:18+00:00",
+ "generated_at": "2026-10-29T07:40:27+00:00",
  "village": "full13-v1",
  "town": {
   "name": "Alcaraz Flats",
@@ -757,5 +757,413 @@
   "village": "data/villages/full13-v1",
   "replay": "runs/replays/full13-v1-v0",
   "scorer": "runs/scorer/full13-v1-v0-evalv2"
+ },
+ "round1": {
+  "lesson": "Round 1: no single change beat v0 beyond noise; combining them raised recall but cost integrity.",
+  "rule": "Acceptance rule, fixed before the runs: the target gain is beyond the A/A noise and no dimension drops beyond it.",
+  "noise_floor": {
+   "label": "D38, measured on eval v1",
+   "scorecard": "runs/scorer/full13-v1-v0-B",
+   "present": true,
+   "probes": 212,
+   "principals": [
+    "arjun",
+    "dulce",
+    "elliot",
+    "grace",
+    "isabel",
+    "jun",
+    "linh",
+    "marcus",
+    "noemi",
+    "rafael",
+    "rochelle",
+    "thao"
+   ],
+   "provisional": "provisional (Claude-only judges, D28)",
+   "dims": {
+    "remembering": {
+     "delta": 1.2,
+     "source": "paired",
+     "ci": [
+      -4.0,
+      6.8
+     ]
+    },
+    "understanding": {
+     "delta": 1.9,
+     "source": "paired",
+     "ci": [
+      -3.5,
+      7.1
+     ]
+    },
+    "restraint": {
+     "delta": 2.2,
+     "source": "paired",
+     "ci": [
+      -2.2,
+      6.0
+     ]
+    },
+    "integrity": {
+     "delta": -1.0,
+     "ci": null,
+     "source": "deltas"
+    }
+   }
+  },
+  "candidates": [
+   {
+    "id": "C1",
+    "change": "the answer step must read memory before answering",
+    "verdict": "screened out (4 principals)",
+    "reason": null,
+    "screen": {
+     "scorecard": "runs/scorer/screen-c1",
+     "present": true,
+     "probes": 146,
+     "principals": [
+      "arjun",
+      "grace",
+      "isabel",
+      "rochelle"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": 0.0,
+       "source": "paired",
+       "ci": [
+        -4.9,
+        5.4
+       ]
+      },
+      "understanding": {
+       "delta": -5.2,
+       "source": "paired",
+       "ci": [
+        -16.7,
+        2.7
+       ]
+      },
+      "restraint": {
+       "delta": 1.0,
+       "source": "paired",
+       "ci": [
+        0.0,
+        3.0
+       ]
+      },
+      "integrity": {
+       "delta": -5.0,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    },
+    "confirm": null
+   },
+   {
+    "id": "C2",
+    "change": "file on first mention, and update the profile every session (minors stored without age)",
+    "verdict": "screened out",
+    "reason": null,
+    "screen": {
+     "scorecard": "runs/scorer/screen-c2",
+     "present": true,
+     "probes": 146,
+     "principals": [
+      "arjun",
+      "grace",
+      "isabel",
+      "rochelle"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": 1.1,
+       "source": "paired",
+       "ci": [
+        -2.6,
+        3.8
+       ]
+      },
+      "understanding": {
+       "delta": 3.9,
+       "source": "paired",
+       "ci": [
+        -8.9,
+        15.4
+       ]
+      },
+      "restraint": {
+       "delta": 1.0,
+       "source": "paired",
+       "ci": [
+        -3.0,
+        5.9
+       ]
+      },
+      "integrity": {
+       "delta": -4.2,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    },
+    "confirm": null
+   },
+   {
+    "id": "C3",
+    "change": "the nightly dream writes `[inferred]` lines",
+    "verdict": "screened out",
+    "reason": null,
+    "screen": {
+     "scorecard": "runs/scorer/screen-c3",
+     "present": true,
+     "probes": 146,
+     "principals": [
+      "arjun",
+      "grace",
+      "isabel",
+      "rochelle"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": -4.4,
+       "source": "paired",
+       "ci": [
+        -9.5,
+        0.0
+       ]
+      },
+      "understanding": {
+       "delta": 5.2,
+       "source": "paired",
+       "ci": [
+        -2.9,
+        11.6
+       ]
+      },
+      "restraint": {
+       "delta": 0.0,
+       "source": "paired",
+       "ci": [
+        -2.9,
+        3.0
+       ]
+      },
+      "integrity": {
+       "delta": -5.4,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    },
+    "confirm": null
+   },
+   {
+    "id": "C4",
+    "change": "forget masks the forgotten span in the raw window and archive",
+    "verdict": "not accepted",
+    "reason": "missed its own target (forgotten-item checks 34/38 vs v0 35/38); the other gains are inside the A/A noise",
+    "screen": {
+     "scorecard": "runs/scorer/screen-c4",
+     "present": true,
+     "probes": 146,
+     "principals": [
+      "arjun",
+      "grace",
+      "isabel",
+      "rochelle"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": 4.4,
+       "source": "paired",
+       "ci": [
+        1.5,
+        6.7
+       ]
+      },
+      "understanding": {
+       "delta": -2.6,
+       "source": "paired",
+       "ci": [
+        -14.1,
+        4.7
+       ]
+      },
+      "restraint": {
+       "delta": -1.0,
+       "source": "paired",
+       "ci": [
+        -6.5,
+        5.2
+       ]
+      },
+      "integrity": {
+       "delta": 3.7,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    },
+    "confirm": {
+     "scorecard": "runs/scorer/confirm-c4",
+     "present": true,
+     "probes": 443,
+     "principals": [
+      "arjun",
+      "dulce",
+      "elliot",
+      "grace",
+      "isabel",
+      "jun",
+      "linh",
+      "marcus",
+      "noemi",
+      "rafael",
+      "rochelle",
+      "thao"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": 3.4,
+       "source": "paired",
+       "ci": [
+        -0.7,
+        7.9
+       ]
+      },
+      "understanding": {
+       "delta": 4.6,
+       "source": "paired",
+       "ci": [
+        -4.4,
+        13.8
+       ]
+      },
+      "restraint": {
+       "delta": 1.8,
+       "source": "paired",
+       "ci": [
+        -1.1,
+        4.7
+       ]
+      },
+      "integrity": {
+       "delta": 3.5,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    }
+   },
+   {
+    "id": "C5",
+    "change": "C1–C4 combined",
+    "verdict": "not accepted",
+    "reason": "integrity dropped 4.2 points, beyond the A/A run's −1.0, despite Remembering +4.2 and memory recall 75.5% vs 63.8%",
+    "screen": {
+     "scorecard": "runs/scorer/screen-c5",
+     "present": true,
+     "probes": 146,
+     "principals": [
+      "arjun",
+      "grace",
+      "isabel",
+      "rochelle"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": 4.4,
+       "source": "paired",
+       "ci": [
+        -1.5,
+        8.0
+       ]
+      },
+      "understanding": {
+       "delta": 1.3,
+       "source": "paired",
+       "ci": [
+        -15.2,
+        17.6
+       ]
+      },
+      "restraint": {
+       "delta": 3.1,
+       "source": "paired",
+       "ci": [
+        0.0,
+        6.2
+       ]
+      },
+      "integrity": {
+       "delta": -8.6,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    },
+    "confirm": {
+     "scorecard": "runs/scorer/confirm-c5",
+     "present": true,
+     "probes": 443,
+     "principals": [
+      "arjun",
+      "dulce",
+      "elliot",
+      "grace",
+      "isabel",
+      "jun",
+      "linh",
+      "marcus",
+      "noemi",
+      "rafael",
+      "rochelle",
+      "thao"
+     ],
+     "provisional": "provisional (Claude-only judges, D28)",
+     "dims": {
+      "remembering": {
+       "delta": 4.2,
+       "source": "paired",
+       "ci": [
+        0.4,
+        7.3
+       ]
+      },
+      "understanding": {
+       "delta": 5.6,
+       "source": "paired",
+       "ci": [
+        -4.5,
+        15.4
+       ]
+      },
+      "restraint": {
+       "delta": 0.7,
+       "source": "paired",
+       "ci": [
+        -3.2,
+        3.7
+       ]
+      },
+      "integrity": {
+       "delta": -4.2,
+       "ci": null,
+       "source": "deltas"
+      }
+     }
+    }
+   }
+  ]
  }
 }
