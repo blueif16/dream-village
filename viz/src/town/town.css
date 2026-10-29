@@ -90,7 +90,8 @@
   border-radius: 15px;
 }
 
-.screen .note {
+/* the map's own note only: the data view's inspector, inside an expanded card, has .note spans of its own */
+.screen > .note {
   position: absolute;
   inset: 0;
   display: grid;

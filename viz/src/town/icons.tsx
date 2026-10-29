@@ -87,18 +87,6 @@ export function PlacesGlyph() {
   )
 }
 
-/** Dream Village's mark: the house, with a moon over it. */
-export function MarkGlyph() {
-  const [x0, x1, y0, y1, h, ridge] = [-4.5, 4.5, -3.5, 3.5, 6, 9.5]
-  return (
-    <Glyph>
-      {face([[x0, y1, 0], [x1, y1, 0], [x1, y1, h], [x0, y1, h]])}
-      {face([[x1, y0, 0], [x1, y1, 0], [x1, y1, h], [x1, 0, ridge], [x1, y0, h]])}
-      {face([[x0, y1, h], [x1, y1, h], [x1, 0, ridge], [x0, 0, ridge]], 'top')}
-      <path className="moon" d="M22.6 1.6a3.6 3.6 0 1 0 3.9 5 3 3 0 1 1-3.9-5z" />
-    </Glyph>
-  )
-}
 
 /** A pennant on a pole, planted on a paving square. */
 export function EventsGlyph() {

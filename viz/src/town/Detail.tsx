@@ -118,7 +118,7 @@ export function MemoryTab({ bundle, iso, file, setFile }: {
   )
 }
 
-export function TalksTab({ bundle, d, iso, pid }: { bundle: PrincipalBundle | null; d: string; iso: string; pid: string }) {
+export function TalksTab({ bundle, d, iso }: { bundle: PrincipalBundle | null; d: string; iso: string }) {
   const [open, setOpen] = useState<string | null>(null)
   if (!bundle) return <p className="empty">Reading their talks…</p>
   const today = bundle.sessions.filter((s) => s.start.slice(0, 10) === d)
@@ -141,7 +141,6 @@ export function TalksTab({ bundle, d, iso, pid }: { bundle: PrincipalBundle | nu
                 {s.turns.map((tn, i) => (
                   <p key={i} className={tn.role}><span>{tn.role === 'user' ? 'Them' : 'Assistant'}</span><Txt text={tn.text} /></p>
                 ))}
-                <a className="more" href={`#/p/${encodeURIComponent(pid)}/${encodeURIComponent(`s:${s.id}`)}`}>Open this talk in the data view <Out /></a>
               </div>
             )}
           </li>
