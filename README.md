@@ -23,7 +23,7 @@ We take that design as the basis and ask how to **optimize on top of it**: the s
 4. **Optimize:** one-change candidates are screened, then confirmed against the noise floor.
 
 The rest of the repo:
-- `viz/`: a read-only inspector with a git-style timeline, the dialogues and memory diffs, opening on the town as a live isometric control console.
+- `viz/`: a read-only inspector with a git-style timeline, the dialogues and memory diffs, plus a pixel-art town view.
 - `labels/`: a page for labeling context cards, used to validate the judges.
 
 ## Dataset

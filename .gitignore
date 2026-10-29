@@ -7,6 +7,5 @@ data/*
 runs-argon/
 viz/public/data/
 viz/node_modules/
-.tasks/HANDOFF-*.md
 !data/villages/
 !viz/public/data/
