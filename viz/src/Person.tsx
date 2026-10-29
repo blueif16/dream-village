@@ -46,7 +46,7 @@ function gist(ev: TimelineEvent, b: PrincipalBundle, cps: ReturnType<typeof chec
   return ['probes', `${cp.probes.length} probes: ${cp.probes.map((p) => p.kind).join(', ')}`]
 }
 
-function Log({ events, b, cps, selected, onSelect }: {
+export function Log({ events, b, cps, selected, onSelect }: {
   events: TimelineEvent[]
   b: PrincipalBundle
   cps: ReturnType<typeof checkpointsOf>

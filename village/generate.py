@@ -987,11 +987,14 @@ def parse_plan(text: str, week_sessions: list[ScheduledSession], pid: str = "", 
     mint_slots = sum(fid is None for _, fid in slots)
     if len(minted) != mint_slots:
         raise ValueError(f"minted {len(minted)} never-store facts; this week has {mint_slots} mint slot(s)")
-    for f in minted:  # planned nowhere (full13 grace.w4): state it in the week's lightest session instead of halting
-        if not any(d.item_id == f.id for p in plans for d in p.items):
+    # planned nowhere (full13 grace.w4 minted; heldout-v1 vicente.w2 a slot fact): state it in the week's lightest
+    # session instead of halting
+    notes = {fid: "the user states this in passing" for _, fid in slots if fid}
+    notes |= {f.id: f"the user states their {f.attribute.replace('_', ' ')} in passing" for f in minted}
+    for fid, note in notes.items():
+        if not any(d.item_id == fid for p in plans for d in p.items):
             i = min(range(len(plans)), key=lambda k: (len(plans[k].items), plans[k].session_id))
-            item = DisclosureItem(plans[i].session_id, f.id, "stated", plans[i].task_type,
-                                  f"the user states their {f.attribute.replace('_', ' ')} in passing", never_store=True)
+            item = DisclosureItem(plans[i].session_id, fid, "stated", plans[i].task_type, note, never_store=True)
             plans[i] = replace(plans[i], items=plans[i].items + [item])
     for fid in [fid for _, fid in slots if fid] + [f.id for f in minted]:
         n = sum(d.item_id == fid for p in plans for d in p.items)

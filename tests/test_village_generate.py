@@ -640,9 +640,18 @@ def I(item_id, mode="stated"):
 
 
 def test_plan_must_carry_its_never_store_slot_exactly_once():
-    text = plan_json([("kai.s05", [I("kai.f03")]), ("kai.s06", [I("kai.f01")])])
+    text = plan_json([("kai.s05", [I("kai.f80")]), ("kai.s06", [I("kai.f80")])])
     with pytest.raises(ValueError, match="kai.f80"):
         g.parse_plan(text, WEEK2, "kai", 2, [(2, "kai.f80")])
+
+
+def test_plan_places_a_never_store_slot_fact_the_planner_left_out():
+    # vicente.w2 in heldout-v1: a weekly principal's one session; twice the planner wrote the slot's account number into
+    # another item's note instead of planning the fact. Place it in the week's lightest session, as for minted facts.
+    text = plan_json([("kai.s05", [I("kai.f03"), I("kai.f01")]), ("kai.s06", [I("kai.f01")])])
+    plans, _ = g.parse_plan(text, WEEK2, "kai", 2, [(2, "kai.f80")])
+    placed = [(p.session_id, i.mode, i.never_store) for p in plans for i in p.items if i.item_id == "kai.f80"]
+    assert placed == [("kai.s06", "stated", True)]
 
 
 def test_plan_mints_a_never_store_fact_for_a_mint_slot():
