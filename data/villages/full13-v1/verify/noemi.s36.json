@@ -1,0 +1,328 @@
+{
+  "session_id": "noemi.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Trains Bao on scanner repairs 3-5 p.m.",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to finish the script before i train bao 3-5",
+      "support_quote": ""
+    },
+    {
+      "text": "Carla texts Noemi directly whenever a scanner dies",
+      "about": "carla",
+      "kind": "fact",
+      "item_id": "noemi.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she texts me directly every time a scanner dies",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi uses 'the cage' for the IT repair cage",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "last time all the pin lists just got dumped in the cage and sat there",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants firm security rules for others, like one password per person",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "add a line about one password per person too, same energy",
+      "support_quote": ""
+    },
+    {
+      "text": "PIN lists have been piling up in the cage",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "toss it in the cage",
+      "support_quote": "last time all the pin lists just got dumped in the cage and sat there"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i03",
+      "present": true,
+      "quote": "add a line about one password per person too, same energy"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "i have to finish the script before i train bao 3-5"
+    },
+    {
+      "item_id": "noemi.f52",
+      "present": true,
+      "quote": "carla's gonna be there too and she texts me directly every time a scanner dies"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "last time all the pin lists just got dumped in the cage and sat there"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

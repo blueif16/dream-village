@@ -1,0 +1,383 @@
+{
+  "session_id": "jun.s41",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "taking frozen lumpia preorders for Thanksgiving pickup Nov 26",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im taking frozen lumpia preorders for thanksgiving pickup on nov 26",
+      "support_quote": ""
+    },
+    {
+      "text": "mom's coworkers' orders on the fridge list total about 8 dozen",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom's coworkers orders on the fridge list already total like 8 dozen",
+      "support_quote": ""
+    },
+    {
+      "text": "drives a hatchback with a slow window",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my hatchback window is slow af",
+      "support_quote": ""
+    },
+    {
+      "text": "rent is $950",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rent is $950",
+      "support_quote": ""
+    },
+    {
+      "text": "Monday is his day off",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w12.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "monday is my day off and weekends",
+      "support_quote": ""
+    },
+    {
+      "text": "dropped a cafe shift for weekends, then asks about rent",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already dropped a shift for weekends, and only now im like oh how do i cover rent lol",
+      "support_quote": ""
+    },
+    {
+      "text": "defers sales tax",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll do the tax part later",
+      "support_quote": ""
+    },
+    {
+      "text": "assistant says rent is $950",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Cash and the $950 rent",
+      "support_quote": "rent is $950"
+    },
+    {
+      "text": "Monday is his day off",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w12.n03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Roll at home on your Monday and on weekends.",
+      "support_quote": "monday is my day off and weekends"
+    },
+    {
+      "text": "assistant says he'd settled to leave tax out",
+      "about": "jun",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "I'll leave it out of the post for now, as you said.",
+      "support_quote": "i'll do the tax part later"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.i01",
+      "present": true,
+      "quote": "people keep asking about sales tax lol, i'll do the tax part later"
+    },
+    {
+      "item_id": "jun.i05",
+      "present": true,
+      "quote": "i already dropped a shift for weekends, and only now im like oh how do i cover rent lol"
+    },
+    {
+      "item_id": "jun.f46",
+      "present": true,
+      "quote": "im taking frozen lumpia preorders for thanksgiving pickup on nov 26"
+    },
+    {
+      "item_id": "jun.f51",
+      "present": true,
+      "quote": "my mom's coworkers orders on the fridge list already total like 8 dozen"
+    },
+    {
+      "item_id": "jun.f27",
+      "present": true,
+      "quote": "it rained yesterday and my hatchback window is slow af, got late, so i want prep time that doesnt depend on me driving much"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

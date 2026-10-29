@@ -1,0 +1,103 @@
+{
+  "session_id": "arjun.s38",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun ran the marsh boardwalk loop, about 4 miles, this morning",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got back from th marsh boardwalk loop, about 4 miles",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun shops at Ruiz Family Market for meal prep, 4 containers",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then groceries at ruiz family market for meal prep, 4 containers for th week",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun has $450 a month for food and transit after rent",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have $450 a month for food and transit after rent",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is vegetarian and making rajma and rice",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rajma and rice, vegetarian",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun has a pharmacy pickup and pages to print",
+      "about": "arjun",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "errands are quick, pharmacy pickup and print a few pages",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Arjun's $450 covers food and transit",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If $450 covers food and transit for the month",
+      "support_quote": "i have $450 a month for food and transit after rent"
+    },
+    {
+      "text": "Assistant says Arjun will shop at Ruiz Family Market",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "9:45 Ruiz Family Market, buy for the meal prep",
+      "support_quote": "then groceries at ruiz family market for meal prep, 4 containers for th week"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f31",
+      "present": true,
+      "quote": "budget thing: i have $450 a month for food and transit after rent so groceries need to fit that"
+    },
+    {
+      "item_id": "arjun.f30",
+      "present": true,
+      "quote": "then groceries at ruiz family market for meal prep, 4 containers for th week"
+    },
+    {
+      "item_id": "arjun.f35",
+      "present": true,
+      "quote": "just got back from th marsh boardwalk loop, about 4 miles"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

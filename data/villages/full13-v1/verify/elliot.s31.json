@@ -1,0 +1,338 @@
+{
+  "session_id": "elliot.s31",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "switched to shared baby-tracker app with Hana and Judith, keeps weekly summary tab in old spreadsheet",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just switched to a shared baby-tracker app that hana and my mom (judith) can log in too, but i'm keeping a weekly summary tab in the old spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "uses 'the log' as the tracking spreadsheet",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want the numbers to line up with the log so nothing gets lost in the switch",
+      "support_quote": ""
+    },
+    {
+      "text": "went on Saturday market run with Theo in the carrier",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i logged a feed after the saturday market run, with theo in the carrier",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo cries most in the evening, roughly 5-8 pm",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's when theo cries most, roughly 5 to 8 pm",
+      "support_quote": ""
+    },
+    {
+      "text": "has a summary tab in his spreadsheet",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Update the matching row in your summary tab, too, so both sources agree.",
+      "support_quote": "i'm keeping a weekly summary tab in the old spreadsheet"
+    },
+    {
+      "text": "Theo has a fussy stretch 5-8 pm",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That puts a distinct marker in the 5-8 pm band.",
+      "support_quote": "it's when theo cries most, roughly 5 to 8 pm"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f10",
+      "present": true,
+      "quote": "i just switched to a shared baby-tracker app that hana and my mom (judith) can log in too, but i'm keeping a weekly summary tab in the old spreadsheet"
+    },
+    {
+      "item_id": "elliot.r01",
+      "present": true,
+      "quote": "i want the numbers to line up with the log so nothing gets lost in the switch"
+    },
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "i logged a feed after the saturday market run, with theo in the carrier"
+    },
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "i want the chart to show the evening fussy stretch clearly, it's when theo cries most, roughly 5 to 8 pm"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

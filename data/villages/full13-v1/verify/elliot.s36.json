@@ -1,0 +1,364 @@
+{
+  "session_id": "elliot.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Elliot is on parental leave from the county assessor's office",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm on parental leave from the county assessor's office",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot does residential reassessments as a property tax analyst",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do residential reassessments (property tax analyst)",
+      "support_quote": ""
+    },
+    {
+      "text": "Brenda is Elliot's supervisor",
+      "about": "brenda",
+      "kind": "fact",
+      "item_id": "cast.f134",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my supervisor brenda",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot must finish the reassessment-software training before returning",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to finish the online reassessment-software training before i come back",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot bookmarked the training portal",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w6.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i bookmarked the portal but never got login steps",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot's date of birth is 1991-03-14",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w6.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's 1991-03-14",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot wants to be caught up on reassessment rules efficiently, showing little enthusiasm about work",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "keep it efficient, no fluff please",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot bookmarked the portal",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w6.n03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I've bookmarked the portal but don't have my login steps yet.",
+      "support_quote": "i bookmarked the portal but never got login steps"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 uses the name 'Elliot' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "elliot.i05",
+      "present": true,
+      "quote": "keep it efficient, no fluff please"
+    },
+    {
+      "item_id": "elliot.f57",
+      "present": true,
+      "quote": "she emailed that i have to finish the online reassessment-software training before i come back, and i bookmarked the portal but never got login steps"
+    },
+    {
+      "item_id": "elliot.f01",
+      "present": true,
+      "quote": "i do residential reassessments (property tax analyst)"
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "present": true,
+      "quote": "it's 1991-03-14"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "it's 1991-03-14",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

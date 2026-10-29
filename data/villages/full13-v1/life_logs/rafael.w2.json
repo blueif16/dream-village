@@ -1,0 +1,297 @@
+{
+  "principal": "rafael",
+  "week": 2,
+  "entries": [
+    {
+      "id": "rafael.w2.l01",
+      "date": "2025-09-01",
+      "what": "Labor Day, no classes. Rafael sleeps in, then spends the morning under the Taco's hood checking the slow oil leak with a flashlight.",
+      "with": [],
+      "outcome": "Leak is still slow, so he decides it can wait.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f04",
+        "rafael.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l02",
+      "date": "2025-09-01",
+      "what": "Afternoon at Delgado Park with his parents and Ximena for the Labor Day picnic, plus pickup soccer in the evening.",
+      "with": [
+        "oscar",
+        "gladys",
+        "ximena"
+      ],
+      "outcome": "Gladys sends leftovers home with Ximena.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l03",
+      "date": "2025-09-01",
+      "what": "Late evening he watches an engine teardown video before bed.",
+      "with": [],
+      "outcome": "Falls asleep around midnight.",
+      "feeling": "sleepy",
+      "facts": [
+        "rafael.f32",
+        "rafael.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l04",
+      "date": "2025-09-02",
+      "what": "Brakes lab runs 8 to 11 at Tamsen Valley with Dante as his lab partner, since Monday was a holiday and the class moved.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "They finish a drum brake inspection.",
+      "feeling": "focused",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l05",
+      "date": "2025-09-02",
+      "what": "Engine performance with Roberto Salas, 1 to 4. Salas docks points for a messy bay during the teardown.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Rafael cleans up and learns to wipe down as he goes.",
+      "feeling": "chastened",
+      "facts": [
+        "rafael.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l06",
+      "date": "2025-09-02",
+      "what": "Evening he fills the Taco at the Ruel Road station and grabs a Mexican Coke.",
+      "with": [],
+      "outcome": "Spends about $50 on gas for the week.",
+      "feeling": "routine",
+      "facts": [
+        "rafael.f34",
+        "rafael.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l07",
+      "date": "2025-09-03",
+      "what": "Brakes lab 8 to 11, then a quick lunch at home. He brings Gladys a new hose clamp for the generator.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Generator is ready for the weekend.",
+      "feeling": "productive",
+      "facts": [
+        "rafael.f02",
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l08",
+      "date": "2025-09-03",
+      "what": "Evening he does the Wednesday prep for the stand, then watches teardown videos.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Everything is set for Thursday.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l09",
+      "date": "2025-09-04",
+      "what": "Engine performance 1 to 4 with Salas. Dante pitches the Civic-flipping idea again over lunch.",
+      "with": [
+        "roberto",
+        "dante"
+      ],
+      "outcome": "Rafael shrugs and says he'll think about it.",
+      "feeling": "curious but wary",
+      "facts": [
+        "rafael.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l10",
+      "date": "2025-09-04",
+      "what": "Thursday stand shift at the Delgado Park lot. He runs the griddle for the evening crowd.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "A decent night, and Gladys pays him cash later in the week.",
+      "feeling": "busy",
+      "facts": [
+        "rafael.f10",
+        "rafael.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l11",
+      "date": "2025-09-05",
+      "what": "Rafael helps Gladys prep masa and curtido. He picks up pork at Ruiz Family Market from Chuy at the family price.",
+      "with": [
+        "gladys",
+        "chuy"
+      ],
+      "outcome": "Stocks up for the weekend.",
+      "feeling": "efficient",
+      "facts": [
+        "rafael.f50",
+        "rafael.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l12",
+      "date": "2025-09-05",
+      "what": "Friday stand shift, and he leaves to pick up Dulce at Colima at 9. The football opener traffic slows the drive.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Dulce is home safe, though the stadium lights and traffic cost him ten minutes.",
+      "feeling": "patient",
+      "facts": [
+        "rafael.f25",
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l13",
+      "date": "2025-09-06",
+      "what": "Saturday at the stand with Ximena helping. The line is steady and he sets up the canopy.",
+      "with": [
+        "ximena",
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Good sales for the weekend.",
+      "feeling": "tired but happy",
+      "facts": [
+        "cast.f94",
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l14",
+      "date": "2025-09-06",
+      "what": "Gladys brings day-old bread from Lupe's bakery for the family meal. Rafael eats a revuelta pupusa with extra curtido.",
+      "with": [
+        "gladys",
+        "lupe"
+      ],
+      "outcome": "A relaxed dinner break.",
+      "feeling": "satisfied",
+      "facts": [
+        "rafael.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l15",
+      "date": "2025-09-07",
+      "what": "Sunday market at Delgado Park, 8 to 2. Luz parks the elote cart nearby and they trade jokes.",
+      "with": [
+        "oscar",
+        "gladys",
+        "luz"
+      ],
+      "outcome": "A strong market day.",
+      "feeling": "upbeat",
+      "facts": [
+        "rafael.f08",
+        "cast.f107"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l16",
+      "date": "2025-09-07",
+      "what": "Afternoon he tears down the canopy and tests the practice questions on his phone, but gets tired and stops after a few.",
+      "with": [],
+      "outcome": "Puts off the real studying again.",
+      "feeling": "restless",
+      "facts": [
+        "rafael.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w2.l17",
+      "date": "2025-09-07",
+      "what": "Evening at home he talks over next week's schedule with Oscar and checks the Taco before bed.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Plan set for Monday brakes lab.",
+      "feeling": "ready",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w2.n01",
+      "subject": "rafael",
+      "attribute": "lab_partner",
+      "value": "partnered with Dante on the brake drum inspection",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w2.n02",
+      "subject": "rafael",
+      "attribute": "stand_supplies",
+      "value": "bought a new hose clamp for the generator",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w2.n03",
+      "subject": "rafael",
+      "attribute": "weekend_sales",
+      "value": "Saturday sales strong at the stand",
+      "valid_from": "2025-09-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w2.n04",
+      "subject": "rafael",
+      "attribute": "study_plan",
+      "value": "wants to start G1 practice questions this week",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

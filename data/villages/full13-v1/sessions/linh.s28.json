@@ -1,0 +1,47 @@
+{
+  "id": "linh.s28",
+  "principal": "linh",
+  "start": "2025-09-24T12:38:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i just came from anatomy at 9 w dr okoye and my brain is mush 🫠 can u quiz me on structures for the practical? i only have like a short window before my noon shift at the cafe.. actually i start at 12 so basically now. ok i have ~20 min"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, let's do a fast one. Quick setup so I can aim it right: which region or system is the practical covering (bones, muscles, nerves, a mix)? And paste whatever list you're working from. I'll quiz you in short rounds and then tell you what to drill first."
+    },
+    {
+      "role": "user",
+      "text": "mix of bones and muscles mostly. the yellow list is only two pages so far but heres some:\n\nfemur, tibia, fibula, patella\ndeltoid, biceps brachii, brachialis\nradius, ulna, humerus\ngluteus maximus, gluteus medius\ntrapezius, latissimus dorsi\nscapula, clavicle"
+    },
+    {
+      "role": "assistant",
+      "text": "Great, that's a solid base. Round 1, answer in one line each:\n\n1. Which bone is the longest in the body?\n2. Which of the two lower-leg bones is medial and weight-bearing?\n3. Which muscle abducts the arm to 90°?\n4. Which forearm bone is on the thumb side in anatomical position?\n5. Which muscle is the main hip extensor?\n6. Which two bones form the shoulder girdle?\n\nSend your answers and I'll score them."
+    },
+    {
+      "role": "user",
+      "text": "1 femur 2 tibia 3 deltoid 4 radius 5 gluteus maximus 6 scapula and clavicle\n\nlol a regular at work calls me Doc bc of my flashcards so i better get these right"
+    },
+    {
+      "role": "assistant",
+      "text": "6/6, Doc earned. 😄\n\nRound 2, a little harder:\n\n1. Brachialis: origin and main action?\n2. Which muscle does the glute medius's job of stabilizing the pelvis when you stand on one leg?\n3. Which bone sits in the quadriceps tendon?\n4. Trapezius vs. latissimus dorsi: which one elevates the scapula, and which extends and adducts the arm?\n\nGo ahead."
+    },
+    {
+      "role": "user",
+      "text": "1 anterior humerus, flexes elbow\n2 glute medius itself?\n3 patella\n4 trap elevates, lats extends/adducts\n\nbrachialis origin i guess i blanked on the other part"
+    },
+    {
+      "role": "assistant",
+      "text": "Scores:\n1. Mostly right: anterior distal humerus, flexes the elbow (inserts on the ulna). Say 'ulna' when you describe it.\n2. Yes, glute medius itself, with minimus helping.\n3. Correct.\n4. Correct.\n\nDrill order for your list:\n- **First (weakest): attachments**: brachialis, biceps brachii, glute medius. Write origin, insertion, action on one card each.\n- **Second: paired bones**: radius/ulna and tibia/fibula, medial vs. lateral. Quick to lock in.\n- **Third: big movers**: trapezius, lats, deltoid, gluteus maximus. You already know these.\n- **Last: single bones**: femur, patella, scapula, clavicle. You're solid.\n\nSince your yellow list is still two pages, mark the attachment items with a star and cycle those first when you have a few minutes."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. thank u!! ok im gonna eat now 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan, go eat before your shift! Good luck with the cafe rush. ☕"
+    }
+  ]
+}

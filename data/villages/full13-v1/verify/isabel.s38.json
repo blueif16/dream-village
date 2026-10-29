@@ -1,0 +1,143 @@
+{
+  "session_id": "isabel.s38",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Isabel is bringing up the Mom sheet with Grace",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need advice on how to bring up the Mom sheet with grace tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel has net price figures for five schools",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w11.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have net price figures for five schools",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace is grading at the kitchen table on Sunday",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's grading at the kitchen table rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel has a list of twelve schools with safeties",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a list of twelve, six out of state, four UC, and bayshore state + the in-state polytechnic as safeties",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is still home by 9 on weekends",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f13",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "im still home by 9 on weekends",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace grades everything with rubrics",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "she grades everything like its a rubric",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel scorns Grace's grading yet wants the sheet to win her approval",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "honestly so tedious, every worksheet has like 14 columns of points. but make the sheet look like that??",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel ate sinigang at lunch and is skipping chicken",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "after two bowls of lola cora's sinigang at lunch and fish at dinner im also skipping any chicken talk lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Isabel has Bayshore as a safe baseline school",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Start with the safe baseline: Bayshore State net price.",
+      "support_quote": "bayshore state + the in-state polytechnic as safeties"
+    },
+    {
+      "text": "Grace is grading now",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Wait until she's done grading or at a natural pause, not mid-stack.",
+      "support_quote": "she's grading at the kitchen table rn"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "conflict",
+      "item_id": "isabel.f13",
+      "detail": "unplanned: Isabel is still home by 9 on weekends"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "isabel.r03",
+      "present": true,
+      "quote": "need advice on how to bring up the Mom sheet with grace tonight. i have net price figures for five schools"
+    },
+    {
+      "item_id": "isabel.f06",
+      "present": true,
+      "quote": "i have a list of twelve, six out of state, four UC, and bayshore state + the in-state polytechnic as safeties"
+    },
+    {
+      "item_id": "isabel.f12",
+      "present": true,
+      "quote": "im still home by 9 on weekends so i dont want to start a fight and get that reopened"
+    },
+    {
+      "item_id": "isabel.i02",
+      "present": true,
+      "quote": "she grades everything like its a rubric, honestly so tedious, every worksheet has like 14 columns of points. but make the sheet look like that?? like clean, labeled, sources cited so she cant dismiss it"
+    },
+    {
+      "item_id": "isabel.f37",
+      "present": true,
+      "quote": "after two bowls of lola cora's sinigang at lunch and fish at dinner im also skipping any chicken talk lol"
+    }
+  ],
+  "sensitive": []
+}

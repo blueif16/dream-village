@@ -1,0 +1,55 @@
+{
+  "id": "linh.s39",
+  "principal": "linh",
+  "start": "2025-10-05T12:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi! need help w my financial aid portal. how do i see when my disbursement actually hits + set up direct deposit so it goes to my bank 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Typically:\n\n1. Log into your college's student portal and open Financial Aid.\n2. Go to Award Summary or Disbursement Schedule: it lists each aid type, the amount, and the scheduled date.\n3. Look for the Refund/Direct Deposit section (often under Student Account or Bursar) to add your bank.\n\nWhat kind of aid do you have? That helps me explain what you'll see."
+    },
+    {
+      "role": "user",
+      "text": "i get the california college promise fee waiver plus the $1,100 pell disbursement per term\n\nok im on the direct deposit page, it also wants identity verification first"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. The fee waiver usually shows as a credit that covers enrollment fees, so you won't see cash for it. The Pell amount is the part that gets paid out to you, after any charges on your account are subtracted.\n\nFor identity verification, enter exactly what's on your ID. What fields does the form show?"
+    },
+    {
+      "role": "user",
+      "text": "it wants my license number. ok its D4829175, i typed it in. does it need the D or just the numbers"
+    },
+    {
+      "role": "assistant",
+      "text": "Include the letter. California licenses have a letter followed by digits, and portals normally want the full number with no spaces or dashes, exactly as printed on the card. You've entered it the right way. Double-check that you didn't swap any characters before you submit.\n\nAlso, next time, you don't need to paste it to me. I can walk you through the form without it."
+    },
+    {
+      "role": "user",
+      "text": "oh true, sorry. ok next it wants routing and account number. where do i find those"
+    },
+    {
+      "role": "assistant",
+      "text": "No problem. You can find both:\n\n- Your bank's app or website: account details for your checking account\n- A check: routing number on the bottom left, account number next to it\n- Your bank statement\n\nType them straight into the form yourself rather than sending them here. Choose Checking, enter the account number twice if it asks you to confirm, and save. Some schools send a small test deposit to verify, so check your account in a couple of days."
+    },
+    {
+      "role": "user",
+      "text": "ok done! how do i read the disbursement part now"
+    },
+    {
+      "role": "assistant",
+      "text": "On the Disbursement Schedule:\n\n- **Aid type**: your Pell grant\n- **Scheduled amount**: $1,100 for the term, which may show as gross\n- **Disbursement date**: when the funds are released\n- **Status**: Pending means not released yet, Paid means it's been sent\n- **Net refund**: what's left after your account charges\n\nDirect deposit typically lands 1 to 3 business days after the disbursement date."
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. gonna add the date to my planner tonight when i do my sunday planning ☕"
+    },
+    {
+      "role": "assistant",
+      "text": "Good idea. Note both the disbursement date and a reminder a few days later to confirm the deposit arrived. If the amount looks off, contact the financial aid office. Good luck with the week!"
+    }
+  ]
+}

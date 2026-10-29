@@ -1,0 +1,97 @@
+{
+  "session_id": "arjun.s63",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun is doing a Thursday night load in the card-only laundry room at Marisol Gardens",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im in th card-only laundry room at marisol gardens rn, thursday night load",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun has standing Tuesday mock interviews with Lena",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my tuesday mocks w lena are helping a lot",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant references Arjun's Tuesday sessions",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good instinct to add practice between your Tuesday sessions.",
+      "support_quote": "my tuesday mocks w lena are helping a lot but i want something for th other days"
+    },
+    {
+      "text": "Arjun used to rewrite written answers instead of speaking them",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i used to just rewrite my written answers over and over instead of saying them",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun visited Ashby's office hours today (Thursday)",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i stopped by ashby's office hours today",
+      "support_quote": ""
+    },
+    {
+      "text": "Ashby is writing Arjun's letter",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's writing my letter",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f46",
+      "present": true,
+      "quote": "im in th card-only laundry room at marisol gardens rn, thursday night load, got like 40 min to kill"
+    },
+    {
+      "item_id": "arjun.f17",
+      "present": true,
+      "quote": "my tuesday mocks w lena are helping a lot but i want something for th other days"
+    },
+    {
+      "item_id": "arjun.i01",
+      "present": true,
+      "quote": "i used to just rewrite my written answers over and over instead of saying them, ngl"
+    },
+    {
+      "item_id": "arjun.f56",
+      "present": true,
+      "quote": "i stopped by ashby's office hours today, he gave brief feedback and said to come prepared"
+    },
+    {
+      "item_id": "arjun.f22",
+      "present": true,
+      "quote": "he's writing my letter so i dont wanna look unprepared next time"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,1045 @@
+{
+  "principal": "rochelle",
+  "summary": "Rochelle Simmons is 36, a former Ridgeline RF-4 picker who quit after eight years when a back strain made the pick lines impossible, and who started nursing prerequisites at Tamsen Valley College this fall. She sits next to Linh in Dr. Okoye's MWF 9 a.m. anatomy section and is taking intro chemistry alongside it. She wants to get into a nursing program by fall 2027 and end up on a hospital floor like St. Anselm, with steady hours and a body that doesn't hurt. Her husband Andre still drives yard trucks at RF-4 and their savings are thin, so every dollar for books, parking and gas gets counted. Her daughter Aaliyah is at the same college and just started seasonal Ridgeline shifts, and her sister Keisha is her backup ride and her loudest critic. She is blunt and unafraid in a lecture hall but freezes when an online quiz timer starts. At the start of the horizon she is learning the college's online portal, the October lab practical is on the horizon, and Andre's overtime is about to swallow the family schedule.",
+  "facts": [
+    {
+      "id": "rochelle.f01",
+      "subject": "rochelle",
+      "attribute": "school_program",
+      "value": "Tamsen Valley College nursing prerequisites, first semester, 10 units",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f02",
+      "subject": "rochelle",
+      "attribute": "fall_courses",
+      "value": "Anatomy & Physiology I (Okoye, MWF 9 a.m. + Wed lab) and Intro Chemistry (Tue/Thu 11 a.m.)",
+      "valid_from": "2025-08-26",
+      "valid_to": "2025-09-12",
+      "superseded_by": "rochelle.f03",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f03",
+      "subject": "rochelle",
+      "attribute": "fall_courses",
+      "value": "Anatomy & Physiology I plus Intro Chemistry, and added a 1-unit medical terminology online course",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f04",
+      "subject": "rochelle",
+      "attribute": "career_goal",
+      "value": "get into an RN program by fall 2027, ideally work at St. Anselm",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f05",
+      "subject": "rochelle",
+      "attribute": "former_job",
+      "value": "picker at Ridgeline RF-4 for eight years, quit in June 2025",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f06",
+      "subject": "rochelle",
+      "attribute": "employment",
+      "value": "not working, full-time student",
+      "valid_from": "2025-06-15",
+      "valid_to": "2025-10-11",
+      "superseded_by": "rochelle.f07",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f07",
+      "subject": "rochelle",
+      "attribute": "employment",
+      "value": "Saturday shifts at the Vinca Avenue Community Center senior lunch program, 8 a.m.-1 p.m., $18/hr",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f08",
+      "subject": "rochelle",
+      "attribute": "home",
+      "value": "three-bedroom rented ranch house on Alder Court off Vinca Avenue",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f09",
+      "subject": "rochelle",
+      "attribute": "rent",
+      "value": "$2,950 a month, due on the 1st, landlord takes checks only",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f10",
+      "subject": "rochelle",
+      "attribute": "monthly_budget_for_school",
+      "value": "$250 a month for books, parking and supplies",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-10-01",
+      "superseded_by": "rochelle.f11",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f11",
+      "subject": "rochelle",
+      "attribute": "monthly_budget_for_school",
+      "value": "$175 a month after the car repair; buying used and renting e-texts",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f12",
+      "subject": "rochelle",
+      "attribute": "financial_aid",
+      "value": "Pell grant application pending; fee waiver approved",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-24",
+      "superseded_by": "rochelle.f13",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f13",
+      "subject": "rochelle",
+      "attribute": "financial_aid",
+      "value": "Pell grant approved, first disbursement $1,980 on Sept 24",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f14",
+      "subject": "rochelle",
+      "attribute": "car",
+      "value": "2011 silver Nissan minivan, 186,000 miles",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f15",
+      "subject": "rochelle",
+      "attribute": "car_status",
+      "value": "running, check-engine light on and ignored",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-26",
+      "superseded_by": "rochelle.f16",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f16",
+      "subject": "rochelle",
+      "attribute": "car_status",
+      "value": "in the shop on Ruel Road for a transmission solenoid; Keisha driving her",
+      "valid_from": "2025-09-26",
+      "valid_to": "2025-10-03",
+      "superseded_by": "rochelle.f17",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f17",
+      "subject": "rochelle",
+      "attribute": "car_status",
+      "value": "fixed for $640, paid from savings",
+      "valid_from": "2025-10-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f18",
+      "subject": "rochelle",
+      "attribute": "parking",
+      "value": "Tamsen Valley semester parking permit, $40, parks in Lot C by 8:15",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f19",
+      "subject": "rochelle",
+      "attribute": "back_injury",
+      "value": "lower back strain from lifting totes, still flares if she sits over two hours",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f20",
+      "subject": "rochelle",
+      "attribute": "study_method",
+      "value": "handwritten index cards color-banded by body system",
+      "valid_from": "2025-08-26",
+      "valid_to": "2025-10-20",
+      "superseded_by": "rochelle.f21",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f21",
+      "subject": "rochelle",
+      "attribute": "study_method",
+      "value": "index cards plus printed practice quizzes from the library, timing herself with a kitchen timer",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f22",
+      "subject": "rochelle",
+      "attribute": "study_group_attendance",
+      "value": "goes to Pedro's Tuesday 4 p.m. group when errands allow, about every other week",
+      "valid_from": "2025-09-02",
+      "valid_to": "2025-10-28",
+      "superseded_by": "rochelle.f23",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f23",
+      "subject": "rochelle",
+      "attribute": "study_group_attendance",
+      "value": "committed to every Tuesday group; Aaliyah covers the 4 p.m. pickups",
+      "valid_from": "2025-10-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f24",
+      "subject": "rochelle",
+      "attribute": "study_spot",
+      "value": "kitchen table after 9 p.m. when the house is quiet",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f25",
+      "subject": "rochelle",
+      "attribute": "grade_anatomy",
+      "value": "72% after first quiz block",
+      "valid_from": "2025-09-19",
+      "valid_to": "2025-10-17",
+      "superseded_by": "rochelle.f26",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f26",
+      "subject": "rochelle",
+      "attribute": "grade_anatomy",
+      "value": "scored 84 on the Oct 17 lab practical, overall B",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f27",
+      "subject": "rochelle",
+      "attribute": "anatomy_final",
+      "value": "Okoye's cumulative final scheduled for Dec 15",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f28",
+      "subject": "rochelle",
+      "attribute": "spring_registration",
+      "value": "registration window opens Nov 18; plans Anatomy II and Microbiology",
+      "valid_from": "2025-10-30",
+      "valid_to": "2025-11-18",
+      "superseded_by": "rochelle.f29",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f29",
+      "subject": "rochelle",
+      "attribute": "spring_registration",
+      "value": "registered for Anatomy II and Microbiology; microbiology waitlisted #4",
+      "valid_from": "2025-11-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f30",
+      "subject": "rochelle",
+      "attribute": "laptop",
+      "value": "hand-me-down laptop from Keisha with a cracked hinge and 40-minute battery",
+      "valid_from": null,
+      "valid_to": "2025-09-24",
+      "superseded_by": "rochelle.f31",
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f31",
+      "subject": "rochelle",
+      "attribute": "laptop",
+      "value": "refurbished laptop bought for $310 with Pell money",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f32",
+      "subject": "rochelle",
+      "attribute": "phone",
+      "value": "older Android with a cracked corner; uses it for most coursework",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f33",
+      "subject": "rochelle",
+      "attribute": "family_calendar",
+      "value": "paper wall calendar on the fridge, color pens per person",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f34",
+      "subject": "rochelle",
+      "attribute": "coffee",
+      "value": "drinks gas-station coffee with two creamers; thinks Heron & Grind is overpriced",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f35",
+      "subject": "rochelle",
+      "attribute": "lunch",
+      "value": "packs leftovers in a blue cooler bag, eats in the car in Lot C",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f36",
+      "subject": "rochelle",
+      "attribute": "cooking",
+      "value": "Sunday batch cooking: red beans and rice or baked chicken for the week",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f37",
+      "subject": "rochelle",
+      "attribute": "grocery_store",
+      "value": "Ruiz Family Market for meat, discount warehouse store for bulk",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f38",
+      "subject": "rochelle",
+      "attribute": "fitness",
+      "value": "walks Ulloa Salt Marsh boardwalk 30 min for her back, three mornings a week",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f39",
+      "subject": "rochelle",
+      "attribute": "tv_show",
+      "value": "rewatches an old hospital drama while folding laundry",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f40",
+      "subject": "rochelle",
+      "attribute": "church",
+      "value": "Sunday 11 a.m. service at a Baptist church on Pell Road, sometimes skips for errands",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f41",
+      "subject": "rochelle",
+      "attribute": "family_errands",
+      "value": "drives her mother-in-law Loretta to dialysis-free checkups and pharmacy Tuesdays at 3:30",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f42",
+      "subject": "rochelle",
+      "attribute": "mother_in_law",
+      "value": "Loretta Simmons, 71, lives alone in a fourplex off Vinca",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f43",
+      "subject": "rochelle",
+      "attribute": "thanksgiving_plan",
+      "value": "hosting 14 people at Alder Court on Nov 27",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f44",
+      "subject": "rochelle",
+      "attribute": "birthday",
+      "value": "March 9",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f45",
+      "subject": "rochelle",
+      "attribute": "wedding_anniversary",
+      "value": "married Andre June 2005",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f46",
+      "subject": "rochelle",
+      "attribute": "bank_account_number",
+      "value": "checking account ending 4417 at a credit union, full number written on her calendar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "rochelle.f47",
+      "subject": "rochelle",
+      "attribute": "debt_to_keisha",
+      "value": "owes Keisha $300 borrowed for textbooks in August, hasn't told Andre",
+      "valid_from": "2025-08-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "rochelle.f48",
+      "subject": "andre",
+      "attribute": "lunch_habit",
+      "value": "takes two sandwiches and a thermos of black coffee to the yard",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f49",
+      "subject": "andre",
+      "attribute": "weekend_routine",
+      "value": "watches football Sunday afternoons, falls asleep by the second half",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f50",
+      "subject": "aaliyah",
+      "attribute": "shift_schedule",
+      "value": "seasonal Ridgeline evening shifts 6 p.m.-2:30 a.m., four nights",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f51",
+      "subject": "aaliyah",
+      "attribute": "sport",
+      "value": "plays in a women's rec soccer league at Delgado Park Sunday mornings",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f52",
+      "subject": "keisha",
+      "attribute": "call_habit",
+      "value": "calls Rochelle on her 10 a.m. dispatch break almost daily",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f53",
+      "subject": "keisha",
+      "attribute": "car",
+      "value": "red pickup she lends nobody but Rochelle",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f54",
+      "subject": "luisa",
+      "attribute": "gossip_channel",
+      "value": "texts Rochelle warehouse news in voice notes during her lunch at 11:30",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f55",
+      "subject": "pedro",
+      "attribute": "study_tool",
+      "value": "brings a model skeleton nicknamed Gus to study group",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rochelle.f56",
+      "subject": "miriam",
+      "attribute": "office_hours",
+      "value": "Wednesdays 1-2 p.m., room S-214",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f57",
+      "subject": "denny",
+      "attribute": "rochelle_plan",
+      "value": "mapped a four-semester prereq plan for Rochelle ending spring 2027",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f58",
+      "subject": "rochelle",
+      "attribute": "teas_exam_plan",
+      "value": "plans to take the TEAS entrance exam summer 2026, $70 fee",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f59",
+      "subject": "rochelle",
+      "attribute": "opinion_of_okoye",
+      "value": "thinks Dr. Okoye is cold and 'enjoys watching people sweat'",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "rochelle.f60",
+      "subject": "rochelle",
+      "attribute": "household_size",
+      "value": "lives with Andre and Aaliyah; son DeShawn, 15, at Flats High",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rochelle.f61",
+      "subject": "rochelle",
+      "attribute": "son_school",
+      "value": "DeShawn is a Flats High sophomore, JV basketball tryouts in November",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "rochelle.i01",
+      "statement": "Puts everyone else's errands ahead of her own studying, then is hard on herself for falling behind.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i01.e1",
+          "date": "2025-09-09",
+          "description": "asks for a quick anatomy summary because she skipped study group to drive Loretta to the pharmacy"
+        },
+        {
+          "id": "rochelle.i01.e2",
+          "date": "2025-09-30",
+          "description": "rewrites her weekly study plan to fit around picking DeShawn up from practice and Andre's dinner"
+        },
+        {
+          "id": "rochelle.i01.e3",
+          "date": "2025-10-14",
+          "description": "wants a meal plan for Andre's 10-hour days before she asks anything about the practical three days away"
+        },
+        {
+          "id": "rochelle.i01.e4",
+          "date": "2025-11-12",
+          "description": "drafts a text telling Keisha she can't help move a couch, deletes it, and asks how to cram the brachial plexus in 40 minutes instead"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-28",
+      "changed_to": "Starts protecting her Tuesday study time, handing pickups to Aaliyah instead of doing everything herself",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rochelle.i02",
+      "statement": "Confident and loud in person but loses her nerve the moment something is timed on a screen.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i02.e1",
+          "date": "2025-09-05",
+          "description": "asks what happens if her browser freezes during a Canvas quiz, before it's even open"
+        },
+        {
+          "id": "rochelle.i02.e2",
+          "date": "2025-09-18",
+          "description": "says she got 9/10 when Okoye quizzed her out loud but 5/10 on the same material online"
+        },
+        {
+          "id": "rochelle.i02.e3",
+          "date": "2025-10-20",
+          "description": "asks for printable practice questions so she can 'do them like a real test' with a kitchen timer"
+        },
+        {
+          "id": "rochelle.i02.e4",
+          "date": "2025-11-06",
+          "description": "pastes a medical terminology quiz instruction screen and asks if the timer pauses if she leaves the tab"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rochelle.i03",
+      "statement": "Measures every expense against warehouse hours she used to work.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i03.e1",
+          "date": "2025-08-28",
+          "description": "calls the $160 lab manual 'seven and a half hours on the line' and asks if an older edition works"
+        },
+        {
+          "id": "rochelle.i03.e2",
+          "date": "2025-09-24",
+          "description": "compares three refurbished laptops down to the cost of the charger before spending Pell money"
+        },
+        {
+          "id": "rochelle.i03.e3",
+          "date": "2025-10-02",
+          "description": "asks whether $640 for a solenoid is fair and what she should have asked the shop"
+        },
+        {
+          "id": "rochelle.i03.e4",
+          "date": "2025-11-10",
+          "description": "wants a Thanksgiving menu for 14 under $120 and asks which sides people can be told to bring"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rochelle.i04",
+      "statement": "Wants answers straight and short, and gets impatient with hedging or gentle cushioning.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i04.e1",
+          "date": "2025-08-27",
+          "description": "replies 'ok but which one' after a long comparison of two study apps"
+        },
+        {
+          "id": "rochelle.i04.e2",
+          "date": "2025-09-16",
+          "description": "asks for just the three things to memorize for the heart chambers, 'no essay'"
+        },
+        {
+          "id": "rochelle.i04.e3",
+          "date": "2025-10-09",
+          "description": "says 'just tell me if this email to Denny sounds dumb' and only wants the fix"
+        },
+        {
+          "id": "rochelle.i04.e4",
+          "date": "2025-11-14",
+          "description": "cuts off a supportive preamble with 'I know I can do it, what's the answer'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rochelle.i05",
+      "statement": "Doesn't really care about her grades as long as she passes.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i05.e1",
+          "date": "2025-09-22",
+          "description": "says 'a C is a C, whatever' after a bad quiz week while the car was acting up"
+        },
+        {
+          "id": "rochelle.i05.e2",
+          "date": "2025-10-18",
+          "description": "asks how to compute exactly what she needs on the final to keep a B after the 84 on the practical"
+        },
+        {
+          "id": "rochelle.i05.e3",
+          "date": "2025-11-04",
+          "description": "asks which spring nursing programs weight prereq GPA and how much an A in Anatomy II would raise hers"
+        },
+        {
+          "id": "rochelle.i05.e4",
+          "date": "2025-11-19",
+          "description": "asks to email Okoye about two points on a lab quiz and wants the wording firm but polite"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "rochelle.i06",
+      "statement": "Keeps money strain from Andre to protect his pride, and quietly carries it herself.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i06.e1",
+          "date": "2025-09-03",
+          "description": "asks for a way to pay Keisha back in small amounts 'that don't show up on the joint account'"
+        },
+        {
+          "id": "rochelle.i06.e2",
+          "date": "2025-10-06",
+          "description": "builds a budget sheet but labels the car repair 'misc' before showing it to Andre"
+        },
+        {
+          "id": "rochelle.i06.e3",
+          "date": "2025-10-25",
+          "description": "asks how to tell Andre he doesn't need to take every overtime shift without sounding like money is tight"
+        },
+        {
+          "id": "rochelle.i06.e4",
+          "date": "2025-11-08",
+          "description": "asks if she should take more senior-center hours rather than ask Andre about the propane bill"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": true
+    },
+    {
+      "id": "rochelle.i07",
+      "statement": "Teaches by turning things into warehouse and family analogies, and remembers better when she does.",
+      "about": "rochelle",
+      "evidence": [
+        {
+          "id": "rochelle.i07.e1",
+          "date": "2025-09-11",
+          "description": "asks if the kidney nephron is basically a sort line with rejects going back on the belt"
+        },
+        {
+          "id": "rochelle.i07.e2",
+          "date": "2025-10-01",
+          "description": "explains ATP to Aaliyah as 'the scanner battery' and asks if that's close enough"
+        },
+        {
+          "id": "rochelle.i07.e3",
+          "date": "2025-10-16",
+          "description": "wants muscle origins and insertions explained like 'which end is bolted down'"
+        },
+        {
+          "id": "rochelle.i07.e4",
+          "date": "2025-11-17",
+          "description": "asks for a mnemonic for cranial nerves using names of her family members"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "rochelle.r01",
+      "term": "Gus",
+      "meaning": "the model skeleton Pedro brings to Tuesday study group",
+      "first_use": "2025-09-09"
+    },
+    {
+      "id": "rochelle.r02",
+      "term": "the practical",
+      "meaning": "Dr. Okoye's first anatomy lab practical on Oct 17",
+      "first_use": "2025-09-17"
+    },
+    {
+      "id": "rochelle.r03",
+      "term": "the van",
+      "meaning": "her 2011 Nissan minivan with the check-engine light",
+      "first_use": "2025-09-01"
+    },
+    {
+      "id": "rochelle.r04",
+      "term": "Denny's map",
+      "meaning": "the four-semester prereq plan Denny Wu laid out for her",
+      "first_use": "2025-09-04"
+    },
+    {
+      "id": "rochelle.r05",
+      "term": "Loretta Tuesdays",
+      "meaning": "the 3:30 p.m. pharmacy/checkup run with her mother-in-law that clashes with study group",
+      "first_use": "2025-09-09"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "rochelle.a01",
+      "title": "First semester back in school",
+      "summary": "Rochelle goes from shaky on online quizzes to a solid B, adds a course, and registers for spring.",
+      "beats": [
+        {
+          "date": "2025-08-26",
+          "what": "Starts anatomy and chemistry at Tamsen Valley",
+          "facts": [
+            "rochelle.f01",
+            "rochelle.f02",
+            "rochelle.f18"
+          ]
+        },
+        {
+          "date": "2025-09-04",
+          "what": "Denny maps her prerequisite sequence",
+          "facts": [
+            "rochelle.f57"
+          ]
+        },
+        {
+          "date": "2025-09-12",
+          "what": "Adds online medical terminology",
+          "facts": [
+            "rochelle.f03"
+          ]
+        },
+        {
+          "date": "2025-09-19",
+          "what": "Rough first quiz block",
+          "facts": [
+            "rochelle.f25",
+            "rochelle.f59"
+          ]
+        },
+        {
+          "date": "2025-10-17",
+          "what": "Scores 84 on the lab practical",
+          "facts": [
+            "rochelle.f26"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "Switches to timed paper practice",
+          "facts": [
+            "rochelle.f21"
+          ]
+        },
+        {
+          "date": "2025-10-28",
+          "what": "Commits to every Tuesday study group",
+          "facts": [
+            "rochelle.f23"
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "what": "Registers for spring, micro waitlisted",
+          "facts": [
+            "rochelle.f29"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rochelle.a02",
+      "title": "Thin money, one breakdown",
+      "summary": "Pell aid, a car repair and a small job reshape the household budget while Andre works mandatory overtime.",
+      "beats": [
+        {
+          "date": "2025-09-24",
+          "what": "Pell disbursement; buys a refurbished laptop",
+          "facts": [
+            "rochelle.f13",
+            "rochelle.f31"
+          ]
+        },
+        {
+          "date": "2025-09-26",
+          "what": "Van goes into the shop; Keisha drives her",
+          "facts": [
+            "rochelle.f16"
+          ]
+        },
+        {
+          "date": "2025-10-03",
+          "what": "Repair paid, school budget cut",
+          "facts": [
+            "rochelle.f17",
+            "rochelle.f11"
+          ]
+        },
+        {
+          "date": "2025-10-11",
+          "what": "Starts Saturday senior-lunch shifts",
+          "facts": [
+            "rochelle.f07"
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "what": "Takes on hosting Thanksgiving",
+          "facts": [
+            "rochelle.f43"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rochelle.a03",
+      "title": "Household under Ridgeline overtime",
+      "summary": "Andre's 10-hour days and Aaliyah's seasonal nights push Rochelle to hand off chores.",
+      "beats": [
+        {
+          "date": "2025-09-15",
+          "what": "Aaliyah starts evening Ridgeline shifts",
+          "facts": [
+            "rochelle.f50"
+          ]
+        },
+        {
+          "date": "2025-10-06",
+          "what": "Andre's mandatory overtime begins; Rochelle reworks meals",
+          "facts": [
+            "rochelle.f36"
+          ]
+        },
+        {
+          "date": "2025-10-28",
+          "what": "Aaliyah takes over Tuesday pickups",
+          "facts": [
+            "rochelle.f23",
+            "rochelle.f41"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "Mostly lowercase with random capitals for emphasis, few commas, lots of 'lol' and 'girl'; one or two 👀 or 🙏 emojis; short bursts, occasional autocorrect typos she doesn't fix.",
+    "with_assistant": "Jumps straight in with minimal context, sometimes pastes a quiz question or syllabus chunk; polite but brisk ('thank u'); pushes back on long answers asking for the short version.",
+    "quirks": [
+      "Converts prices into warehouse hours",
+      "Uses warehouse lingo for body systems",
+      "Says 'be honest' before asking for feedback",
+      "Sends follow-ups typed while waiting in the car",
+      "Signs off with 'ok bet'"
+    ],
+    "sample_lines": [
+      "ok be honest is this a dumb question or nah",
+      "give me the short version i have 20 min before pickup",
+      "lol why does every chem problem have moles in it",
+      "can u make this sound less mad its for a professor",
+      "what's cheaper renting the ebook or buying used. real numbers pls",
+      "explain it like im on the line at 3am",
+      "ok bet thank u"
+    ]
+  },
+  "usage": {
+    "frequency": "several_per_week",
+    "active_hours": [
+      7,
+      12,
+      15,
+      21,
+      22
+    ]
+  }
+}

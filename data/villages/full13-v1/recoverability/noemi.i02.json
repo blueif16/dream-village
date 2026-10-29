@@ -1,0 +1,91 @@
+{
+  "impression_id": "noemi.i02",
+  "evidence_sessions": [
+    "noemi.s12",
+    "noemi.s23",
+    "noemi.s29",
+    "noemi.s38",
+    "noemi.s42",
+    "noemi.s47",
+    "noemi.s48",
+    "noemi.s69",
+    "noemi.s77"
+  ],
+  "inferred": [
+    {
+      "statement": "Drafts sarcastic, blunt replies to demanding managers or colleagues and then asks the assistant to remove the rudeness while keeping the substance, so she gets frustration out in the draft but wants to stay professional.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s12",
+        "noemi.s48",
+        "noemi.s69",
+        "noemi.s77"
+      ]
+    },
+    {
+      "statement": "Is a patient, considerate trainer for her new hire Bao, asking for plain words, analogies and no jargon so he learns without being overwhelmed.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s12",
+        "noemi.s23",
+        "noemi.s29",
+        "noemi.s47"
+      ]
+    },
+    {
+      "statement": "Cares about the night-shift pickers and wants materials that are bilingual, friendly and never condescending, with the aim of cutting frozen units.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s38",
+        "noemi.s42"
+      ]
+    },
+    {
+      "statement": "Prefers short, fast, skimmable outputs, often asking for a tldr or a shorter version, and signs off tersely with 'gg ty' once the result works.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s29",
+        "noemi.s47",
+        "noemi.s48",
+        "noemi.s69",
+        "noemi.s77"
+      ]
+    },
+    {
+      "statement": "Works as a hands-on warehouse IT/scanner technician (about 620 handhelds, repair cage, RMA spreadsheet kept separately from the ticket queue) and is often stretched thin by reactive, urgent demands.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s23",
+        "noemi.s29",
+        "noemi.s48",
+        "noemi.s77"
+      ]
+    },
+    {
+      "statement": "Is quietly exploring other network technician jobs, framing it casually as 'just checking other servers'.",
+      "strength": "weak",
+      "sessions": [
+        "noemi.s69"
+      ]
+    },
+    {
+      "statement": "Uses data and her own tracking (RMA numbers, fleet counts) to back up her points, and wants a stat or evidence in communications.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s38",
+        "noemi.s48"
+      ]
+    },
+    {
+      "statement": "Double-checks tone before sending, rewriting drafts several times and asking whether a message still sounds curt, which suggests concern about how she comes across at work.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s69",
+        "noemi.s48"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Is a patient, considerate trainer for her new hire Bao, asking for plain words, analogies and no jargon so he learns without being overwhelmed.",
+  "rationale": "The reader listed both halves of the trait as separate strong statements: patient, plain-language explaining for new hire Bao and the night-shift pickers, and sarcastic, blunt drafts aimed at demanding managers. Together they cover the contrast of endless patience toward those below her and no patience for managers."
+}

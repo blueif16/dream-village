@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s28",
+  "principal": "noemi",
+  "start": "2025-09-22T12:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you build me a weekly study schedule for my network cert. i work mon-fri 2pm to 10:30pm so it has to be mornings. also dont put anything late at night, im usually asleep by 1 and up around 9. i use a practice test app plus a secondhand study guide with tabbed chapters. port numbers are still shaky so weight those heavier pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. With work 2 p.m. to 10:30 p.m. and you up around 9, mornings are your window. Here's a realistic week:\n\n**Mon-Fri (before work)**\n- 9:45-10:15: wake up, eat, get going\n- 10:15-11:15: study block (60 min)\n- 11:15 on: free time before heading to work\n\n**Block focus**\n- Mon: Port numbers. Make flashcards (port, protocol, TCP/UDP) and drill 20 minutes, then read one tabbed chapter in the guide\n- Tue: Port numbers again, quiz yourself cold, then 20 practice-app questions\n- Wed: Study guide chapter on a different topic, plus a short port review at the end\n- Thu: Port numbers drill, then a timed set in the practice app\n- Fri: Review everything you missed in the app this week, plus 10 minutes of ports\n\n**Weekends**\n- Sat: One full practice test in the app, then go through wrong answers\n- Sun: Light day. 30 minutes on the weakest topic from Saturday's test\n\nPorts get about 25-30 minutes of most sessions, which is the heaviest weighting in the plan. Nothing is scheduled after 11 p.m. so your sleep stays protected.\n\nTip for ports: group them by purpose (web, email, remote access, file transfer) instead of memorizing a flat list. Want a grouped cheat sheet to start your Monday flashcards?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. tldr format"
+    },
+    {
+      "role": "assistant",
+      "text": "**Ports cheat sheet**\n\n**Web**\n- 80 HTTP\n- 443 HTTPS\n\n**Email**\n- 25 SMTP\n- 110 POP3\n- 143 IMAP\n\n**Remote access**\n- 22 SSH\n- 23 Telnet\n- 3389 RDP\n\n**File transfer**\n- 20/21 FTP\n- 69 TFTP\n\n**Network services**\n- 53 DNS\n- 67/68 DHCP\n- 123 NTP\n- 161/162 SNMP\n\nDrill: cover the name, say the number, then flip it. Missed ones go in a separate pile for the next session."
+    },
+    {
+      "role": "user",
+      "text": "ty that's actually gg"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Good luck with the drills. If you want, I can make a quiz of 20 mixed port questions with the answers hidden until you ask."
+    }
+  ]
+}

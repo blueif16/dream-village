@@ -1,0 +1,107 @@
+{
+  "session_id": "thao.s26",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Greg Holloway used to run the Ridgeline IT desk and now supports the charting system at St. Anselm",
+      "about": "greg",
+      "kind": "fact",
+      "item_id": "cast.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "greg holloway used to run the IT desk at ridgeline, just started here at st anselm supporting the charting system",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is on Mon/Tue/Fri nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm back on mon/tue/fri nights now",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants to use a ticket portal or chat rather than phoning",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also can i submit this through a ticket portal or chat instead of phoning",
+      "support_quote": ""
+    },
+    {
+      "text": "Charting is still messy after go-live",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "things are still messy after go-live",
+      "support_quote": ""
+    },
+    {
+      "text": "Ruben's sheet covers most shortcuts but not downtime procedure",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ruben's sheet covers most shortcuts but not the downtime procedure",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao works nights as an RN and asks for replies by email or ticket",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Hi, I'm a night RN on [unit].",
+      "support_quote": "i'm back on mon/tue/fri nights now"
+    },
+    {
+      "text": "Thao has a shortcut sheet that doesn't cover downtime",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Our current shortcut sheet doesn't cover it.",
+      "support_quote": "ruben's sheet covers most shortcuts but not the downtime procedure"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "cast.f51",
+      "present": true,
+      "quote": "greg holloway used to run the IT desk at ridgeline, just started here at st anselm supporting the charting system"
+    },
+    {
+      "item_id": "thao.r01",
+      "present": true,
+      "quote": "things are still messy after go-live and i want to know who to page for charting glitches"
+    },
+    {
+      "item_id": "thao.r03",
+      "present": true,
+      "quote": "ruben's sheet covers most shortcuts but not the downtime procedure"
+    },
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "i'm back on mon/tue/fri nights now"
+    },
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "also can i submit this through a ticket portal or chat instead of phoning"
+    }
+  ],
+  "sensitive": []
+}

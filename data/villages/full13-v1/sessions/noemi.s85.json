@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s85",
+  "principal": "noemi",
+  "start": "2025-11-23T10:01:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you build me a study + meal prep plan for this week. exam got moved to dec 6 bc of overtime so i have like 2 weeks. i work 1pm to 11:30pm mon-fri rn, 10 hr swings so weekdays are cooked. want to use my practice-test app and the secondhand study guide w/ tabbed chapters. also my laundry is running in the unit rn so i'm doing this while the washer goes lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. With 1 p.m. to 11:30 p.m. shifts, your usable study windows are mornings before work and maybe a short block after you get home. Quick questions so I don't guess:\n\n1. What time do you usually wake up?\n2. Any weak chapters in the guide you want to prioritize?\n3. Do you want meals for weekday dinners only, or lunches too?"
+    },
+    {
+      "role": "user",
+      "text": "wake up around 9. weak spots are subnetting and port numbers. need lunch + dinner break food, i eat at work. keep sunday night free pls, i have my co-op game with the squad. dont touch that slot"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Sunday night stays untouched. Here's the week:\n\n**Study (mornings, ~9:45 to 11:45 a.m., Mon-Fri)**\n- Mon: subnetting chapter in the tabbed guide, then 20 practice-app questions on it\n- Tue: port numbers. Make a flash list from the guide tabs, then a short app quiz\n- Wed: mixed practice-test in the app, timed. Mark misses with a tab\n- Thu: redo only the missed questions, then re-read the tabbed sections for them\n- Fri: full-length timed practice test in the app\n- Sat: review Friday's misses for 60-90 min, nothing more\n- Sun: today, a light 30-45 min skim of your tabs before the game\n\n**Meal prep (today, while the laundry runs)**\n- Cook one big batch of rice plus two proteins, e.g. chicken thighs and beans\n- Portion 10 containers: 5 lunches, 5 dinner-break meals\n- Chop veggies and a sauce so you can mix and match\n- Midweek top-up Wednesday morning: a quick second batch of whichever ran low\n\n**Tips**\n- Put the hardest topic first, when you're freshest\n- After the shift, skip studying and sleep, since you're wrapped late\n- Keep a one-page cheat sheet of ports and subnet steps to glance at on breaks\n\nWant a tl;dr checklist version or a grocery list?"
+    },
+    {
+      "role": "user",
+      "text": "tldr checklist pls"
+    },
+    {
+      "role": "assistant",
+      "text": "**Checklist**\n- Today: skim tabs 30-45 min, cook rice + 2 proteins, portion 10 containers, game night free\n- Mon: subnetting + 20 app questions\n- Tue: ports flash list + quiz\n- Wed: timed mixed test, top-up meal prep\n- Thu: redo misses\n- Fri: full timed practice test\n- Sat: review misses 60-90 min\n\nGood luck on Dec 6!"
+    }
+  ]
+}

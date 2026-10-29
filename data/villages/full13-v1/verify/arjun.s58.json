@@ -1,0 +1,97 @@
+{
+  "session_id": "arjun.s58",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun is working on the Nov 8 regional case competition deck with a team of four",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nov 8 regional one, team of four so it needs to be clean enough that we can split it up",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term 'case comp' for the competition",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok need a slide layout + color palette for th case comp deck",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is on the case team",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "team of four so it needs to be clean enough that we can split it up",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun listens to lo-fi beats while working",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f44",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "lo-fi beats on rn so i have time lol 💀",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun tells teammates to sleep while he is up at 1 a.m.",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also go to sleep ppl, no all nighters, we need u sharp for th 8th",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the deck is for four people, four sections",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Perfect, four sections for four people works well.",
+      "support_quote": "probably 4 sections, one per person"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "nov 8 regional one, team of four so it needs to be clean enough that we can split it up"
+    },
+    {
+      "item_id": "arjun.r05",
+      "present": true,
+      "quote": "ok need a slide layout + color palette for th case comp deck"
+    },
+    {
+      "item_id": "arjun.f19",
+      "present": true,
+      "quote": "team of four so it needs to be clean enough that we can split it up"
+    },
+    {
+      "item_id": "arjun.f44",
+      "present": true,
+      "quote": "lo-fi beats on rn so i have time lol 💀"
+    },
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "also go to sleep ppl, no all nighters, we need u sharp for th 8th"
+    }
+  ],
+  "sensitive": []
+}

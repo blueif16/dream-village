@@ -1,0 +1,47 @@
+{
+  "id": "linh.s67",
+  "principal": "linh",
+  "start": "2025-11-04T23:03:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok can u help me map spring classes pls\n\ni want intro to nutrition in spring, i loved the digestion unit in anatomy this week"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Nutrition is a great fit alongside prerequisites. To map it out I need a few things:\n\n- Which prerequisites you still need for spring\n- Any times you can't take classes (work, etc.)\n- Whether you're aiming at a specific transfer school or program\n\nSend what you have and I'll build a schedule."
+    },
+    {
+      "role": "user",
+      "text": "ok wait\n\ni work mon/wed 3-9 closing so nothing can overlap that. sat/sun mornings too but those dont matter for classes\n\nand i spent lunch today looking up what a registered dietitian does day to day and the bayshore path for it. so how would spring classes count toward that"
+    },
+    {
+      "role": "assistant",
+      "text": "Good research. Here's the general picture. Dietitian paths usually need:\n\n- Chemistry (general and often organic or biochem)\n- Anatomy & physiology\n- Intro to nutrition\n- Statistics\n- Often microbiology\n\nSo a lot of what you're taking now already counts. Intro to Nutrition is typically a foundational course. One caveat: check Bayshore's published requirements and the transfer agreement for your exact courses, since they vary. Which prerequisites are left for you?"
+    },
+    {
+      "role": "user",
+      "text": "i have a two-track plan from denny, bayshore nursing vs bayshore public health. decide by feb\n\nstill need micro and the next chem i think. and stats is online so that one is fine"
+    },
+    {
+      "role": "assistant",
+      "text": "That two-track plan works well here, because a spring semester can serve both tracks:\n\n- **Microbiology**: required for nursing, and useful for nutrition and public health\n- **Next chemistry**: counts for both tracks\n- **Intro to Nutrition**: strong for public health, and often accepted as a nursing prerequisite too\n- **Statistics (online)**: needed for both, and it won't clash with work\n\nWhen you register, filter for sections that avoid Monday and Wednesday 3-9. Look at morning sections or Tuesday/Thursday ones first. Labs are the usual trouble spot, so check lab times separately.\n\nWant me to put it in a draft weekly grid with your work blocks marked?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls bullets\n\nalso how do i tell my mom about adding nutrition without making it a whole thing at home"
+    },
+    {
+      "role": "assistant",
+      "text": "Schedule skeleton:\n\n- **Mon/Wed 3-9**: work, blocked off\n- **Mon/Wed mornings**: microbiology lecture or lab (if a morning section exists)\n- **Tue/Thu**: next chemistry plus Intro to Nutrition, ideally before 3\n- **Online**: statistics, any evening\n- **Sat/Sun mornings**: work\n\nFor your mom, keep it low-key and factual. For example:\n\n\"I'm taking micro, chem and an intro nutrition class next semester. Nutrition counts toward my requirements.\"\n\nSay it in passing, such as over dinner, and give the schedule rather than a big announcement. If she asks more, say you're still deciding between tracks and will know more by Feb.\n\nOnce you have actual section times, send them and I'll fit them into the grid."
+    },
+    {
+      "role": "user",
+      "text": "ok thats actually helpful ty\n\nok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan! Eat something good. Send me the section times once registration opens and we'll lock it in."
+    }
+  ]
+}

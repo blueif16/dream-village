@@ -1,0 +1,102 @@
+{
+  "session_id": "thao.s31",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao has been doing all chores with no system until now",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Until now I've just been doing everything with no system and it's not working.",
+      "support_quote": ""
+    },
+    {
+      "text": "New chore split: Tomás dishes and trash, Thao laundry and groceries, on fridge whiteboard",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "you do dishes and trash, I do laundry and groceries. It's on the whiteboard on the fridge.",
+      "support_quote": ""
+    },
+    {
+      "text": "Tomás leaves for his 6:30 shift as Thao gets home",
+      "about": "tomas",
+      "kind": "fact",
+      "item_id": "thao.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he leaves for his 6:30 shift right as i get home",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is off Wednesday and Thursday and works Monday night",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm off wed and thurs so i want it to start monday night before my shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao is off Wednesday and Thursday",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you're off Wednesday and Thursday",
+      "support_quote": "i'm off wed and thurs so i want it to start monday night before my shift"
+    },
+    {
+      "text": "Thao has been doing everything with no system",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I've been doing it all with no system",
+      "support_quote": "Until now I've just been doing everything with no system and it's not working."
+    },
+    {
+      "text": "Thao wants short direct text, post-shift",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "good but needs to be shorter.",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f21",
+      "present": true,
+      "quote": "you do dishes and trash, I do laundry and groceries. It's on the whiteboard on the fridge."
+    },
+    {
+      "item_id": "thao.f20",
+      "present": true,
+      "quote": "Until now I've just been doing everything with no system and it's not working."
+    },
+    {
+      "item_id": "thao.f45",
+      "present": true,
+      "quote": "he leaves for his 6:30 shift right as i get home"
+    },
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "i'm off wed and thurs so i want it to start monday night before my shift"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,84 @@
+{
+  "impression_id": "rafael.i02",
+  "evidence_sessions": [
+    "rafael.s02",
+    "rafael.s04",
+    "rafael.s05",
+    "rafael.s07",
+    "rafael.s11"
+  ],
+  "inferred": [
+    {
+      "statement": "Rafael learns best through hands-on, in-the-bay framing and repeatedly asks for explanations as if he's looking at the car or screen rather than the book.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s02",
+        "rafael.s04",
+        "rafael.s07",
+        "rafael.s11"
+      ]
+    },
+    {
+      "statement": "He is skilled and confident at practical auto work (swapping an alternator, bleeding brakes, refrigerant recovery) but struggles with the wording of written tests and with test anxiety, such as changing right answers to wrong ones.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s05",
+        "rafael.s11"
+      ]
+    },
+    {
+      "statement": "He carries substantial family and work obligations, running a food stand with his parents on evenings and weekends and doing a pickup for Dulce, and he prioritizes covering those before his own studying.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s07",
+        "rafael.s11"
+      ]
+    },
+    {
+      "statement": "He prefers short, step-by-step, low-friction replies, asking for short steps when his phone was dying and for a shorter weekly version of a plan.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s02",
+        "rafael.s07"
+      ]
+    },
+    {
+      "statement": "He feels guilty or hesitant about asking others to accommodate him, such as requesting a different lab time or wondering whether mentioning family obligations sounds bad.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s11"
+      ]
+    },
+    {
+      "statement": "He is generous and dependable with friends and family, doing Ximena's brakes for free and repaying Dante for lost sockets, while staying cautious about risking his own cash on Dante's car-flipping pitch.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s05"
+      ]
+    },
+    {
+      "statement": "He is career-driven and plans ahead toward an ASE G1 credential and a shop internship, comparing prices and weighing money decisions carefully.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s02",
+        "rafael.s05",
+        "rafael.s11"
+      ]
+    },
+    {
+      "statement": "He casually pastes sensitive personal identifiers like student ID and driver's license numbers into chats, and tends to procrastinate on studying by doing helpful tasks for others, such as making a setup checklist for his parents.",
+      "strength": "weak",
+      "sessions": [
+        "rafael.s02",
+        "rafael.s04",
+        "rafael.s07"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Rafael learns best through hands-on, in-the-bay framing and repeatedly asks for explanations as if he's looking at the car or screen rather than the book.",
+  "rationale": "The first strong statement says Rafael learns best hands-on and asks for explanations as if looking at the car or screen rather than the book, and the second says he is skilled at practical work but struggles with written wording. Together they capture the same do-versus-read pattern."
+}

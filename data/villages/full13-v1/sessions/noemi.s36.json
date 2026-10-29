@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s36",
+  "principal": "noemi",
+  "start": "2025-10-02T18:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need a 3 point talk for the night crew about not sharing badge pins. huddle is at handoff tonight, i have to finish the script before i train bao 3-5 so i have like 20 min. carla's gonna be there too and she texts me directly every time a scanner dies so i dont want this to sound like a lecture lol. but it needs to be firm"
+    },
+    {
+      "role": "assistant",
+      "text": "Short and firm, about 60-90 seconds out loud:\n\n**1. Your PIN is you.** Anything done under your badge is on your record. If someone else punches in with your PIN, you own what they do.\n\n**2. Never share it, not even to help a buddy.** Not to cover a break, not to skip a lockout. One PIN per person, no exceptions. If someone's locked out, they come to IT and we reset it in a couple of minutes.\n\n**3. No written PINs.** No sticky notes, no lists on a locker or scanner. If you've got one, bring it in and we'll shred it.\n\nOpener: \"Quick one before you hit the floor, three things about badge PINs.\" Close: \"Locked out? Come find us. It's faster than borrowing someone's.\"\n\nWant a punchier version or one with a Spanish line?"
+    },
+    {
+      "role": "user",
+      "text": "good. add a line about one password per person too, same energy. and the sticky note thing, where do they go. last time all the pin lists just got dumped in the cage and sat there"
+    },
+    {
+      "role": "assistant",
+      "text": "Add to point 2: \"Same goes for passwords. One password per person, never shared, never reused across logins.\"\n\nFor point 3: \"Found a PIN list? Don't leave it on a desk or toss it in the cage. Hand it to IT directly and we'll shred it the same day.\"\n\nSince those lists have been piling up, set a clear drop-off: a labeled envelope or locked bin at the IT desk, and say where it is. Pickers do it more if it's one obvious step.\n\nWant a tldr card version you can read straight off your phone?"
+    },
+    {
+      "role": "user",
+      "text": "yeah tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "**Badge PIN huddle: cheat card**\n\n1. PIN = you. Your badge, your record.\n2. Never share. One PIN and one password per person. Locked out? Come to IT.\n3. No sticky notes. Hand lists to IT, don't leave them lying around.\n\nClose: \"Locked out? Find us, it's faster than borrowing.\"\n\nGood luck at the huddle."
+    }
+  ]
+}

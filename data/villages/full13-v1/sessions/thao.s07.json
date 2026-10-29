@@ -1,0 +1,31 @@
+{
+  "id": "thao.s07",
+  "principal": "thao",
+  "start": "2025-09-07T15:26:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok just got back from sunday dinner at my mom's, good time to do admin before the week. need help w the form to add my credit union checking to a payment app. i want the monthly $50 to my sister linh to go out cleanly on the 1st. my phone is old and cracked and the app keeps freezing so i'd rather not call anyone. here's what the form asks: routing number, account number, account type. my account number is 0038814471"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to walk you through it. I'll skip repeating your account number back to you. Here's how each field works:\n\n- Routing number: 9 digits, identifies your credit union. Find it on the bottom left of a check, in your credit union's online banking under account details, or on their website's contact/routing page.\n- Account number: the number you pasted looks like a normal length for a checking account. Enter it exactly as it appears, no spaces or dashes. Double-check it digit by digit, since one wrong digit causes a failed link.\n- Account type: choose Checking.\n\nAfter that, most apps verify with two small test deposits (1-3 business days) or an instant login to online banking. If you pick the test deposits, you'll confirm the amounts in the app once they land.\n\nFor the recurring payment: once linked, open your sister's contact, choose Send, enter $50, add a note like \"groceries,\" and look for a Repeat or Schedule option set to monthly on the 1st. Schedule it a day or two early if the deposit verification is still pending."
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically will it freeze on the verify step. also linh just texted that paolo missed another early prep session for jun's pop-up while i was waiting on this form lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Verification itself is light, but old phones can lag on login screens. To lower the odds:\n\n1. Close other apps and restart the phone first.\n2. Update the payment app, or clear its cache if you can.\n3. Use the test-deposit option rather than instant bank login, since it needs less loading.\n4. If it freezes mid-entry, reopen it; the form usually saves your progress. If not, retype the fields slowly.\n5. Backup: do it from the payment app's website in your phone browser or on a computer.\n\nAnd ugh, sorry about the prep session. Hopefully the pop-up gets sorted out."
+    },
+    {
+      "role": "user",
+      "text": "bullet it for when the deposits show up, what do i do"
+    },
+    {
+      "role": "assistant",
+      "text": "- Check your credit union account for two tiny deposits from the payment app.\n- Open the app, go to the linked bank, tap Verify.\n- Enter both amounts exactly.\n- Once confirmed, set your $50 payment to repeat monthly on the 1st.\n- Send a first test payment or check the schedule shows the next date correctly."
+    }
+  ]
+}

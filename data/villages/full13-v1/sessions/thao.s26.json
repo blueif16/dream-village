@@ -1,0 +1,39 @@
+{
+  "id": "thao.s26",
+  "principal": "thao",
+  "start": "2025-10-17T02:44:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 2:44 and i'm on a break. quick q. greg holloway used to run the IT desk at ridgeline, just started here at st anselm supporting the charting system. what does an IT systems analyst actually do for a charting system"
+    },
+    {
+      "role": "assistant",
+      "text": "Roughly, he's the bridge between the clinical staff and the software. Typical duties:\n\n- Troubleshoot user issues (login problems, orders not routing, slow screens)\n- Triage bugs and escalate them to the vendor\n- Configure the system: order sets, templates, user permissions\n- Monitor performance and downtime, and run downtime/recovery procedures\n- Train staff and gather feedback on workflow problems\n- Test updates before they roll out\n\nSo for glitches, he'd be someone who can fix things on the hospital side or push them to the vendor. Want help working out who to contact on nights?"
+    },
+    {
+      "role": "user",
+      "text": "yes. things are still messy after go-live and i want to know who to page for charting glitches. i'm back on mon/tue/fri nights now so i'm usually the one finding them lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Most hospitals set it up like this, but check against your own unit's policy:\n\n1. Your charge nurse is first stop, who may already know about the issue\n2. IT service desk / help line, usually staffed 24/7, often with an on-call analyst after hours\n3. A charting super-user on the unit, if there is one\n4. Downtime hotline if the system is fully down\n\nIf the glitch isn't urgent for patient care, log it so it gets tracked rather than paging someone at 3 a.m. Is there a posted number or intranet page on your unit?"
+    },
+    {
+      "role": "user",
+      "text": "ruben's sheet covers most shortcuts but not the downtime procedure. also can i submit this through a ticket portal or chat instead of phoning"
+    },
+    {
+      "role": "assistant",
+      "text": "Very likely. Many hospital IT departments have an intranet ticket portal, a chat widget, or a service-desk email, and tickets are often better for non-urgent glitches because they create a record. Phone is usually reserved for urgent or system-down situations.\n\nWhat to do:\n- Check the intranet homepage or the login screen for an IT help link\n- Ask your charge nurse or the super-user for the ticket link\n- Ask IT whether there's a downtime procedure doc to add to your cheat sheet\n\nHere's a short ticket template:\n\nSubject: Charting issue, [unit], night shift\nWhat happened: [describe]\nWhen: [date/time]\nPatient impact: [yes/no]\nWhat you tried: [steps]\nContact: [your name, text/badge number]\n\nWant a version for the downtime procedure request?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls, short"
+    },
+    {
+      "role": "assistant",
+      "text": "Subject: Request for downtime procedure quick-reference\n\nHi, I'm a night RN on [unit]. Could you send or point me to the charting downtime procedure in a one-page format? Our current shortcut sheet doesn't cover it. Please reply by email or ticket, as I work nights.\n\nThanks, [your name]"
+    }
+  ]
+}

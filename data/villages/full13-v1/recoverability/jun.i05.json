@@ -1,0 +1,84 @@
+{
+  "impression_id": "jun.i05",
+  "evidence_sessions": [
+    "jun.s02",
+    "jun.s27",
+    "jun.s34",
+    "jun.s41"
+  ],
+  "inferred": [
+    {
+      "statement": "Jun acts on impulse and commits first (bulk wrappers, a signed lease after one viewing, a canopy order), then checks affordability or constraints afterward.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s02",
+        "jun.s27",
+        "jun.s41"
+      ]
+    },
+    {
+      "statement": "Jun is building Lola's Roll, a lumpia business, as a serious side venture and keeps adding to it (pop-up, preorders, market table, canopy, a partner).",
+      "strength": "strong",
+      "sessions": [
+        "jun.s02",
+        "jun.s34",
+        "jun.s41"
+      ]
+    },
+    {
+      "statement": "Jun tends to put off or skip compliance and admin tasks like the cottage food permit and sales tax, even while selling, and needs the assistant to keep bringing them back up.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s02",
+        "jun.s41"
+      ]
+    },
+    {
+      "statement": "Jun prefers short, ready-to-use outputs such as checklists, brief drafts and short versions, often asking for them because of early shifts or limited time.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s02",
+        "jun.s27",
+        "jun.s41"
+      ]
+    },
+    {
+      "statement": "Jun works on planning late at night or before dawn, squeezed around early cafe shifts, which suggests a stretched schedule.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s02",
+        "jun.s27",
+        "jun.s41"
+      ]
+    },
+    {
+      "statement": "Jun is financially stretched and money-conscious, tracking a savings pool and budget cap, but hours cuts and rent pressure leave him scrambling to cover costs.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s02",
+        "jun.s27",
+        "jun.s41"
+      ]
+    },
+    {
+      "statement": "Jun is willing to be firm with a business partner and holds his position when offered a softer option, but still wants the tone to be not mean.",
+      "strength": "weak",
+      "sessions": [
+        "jun.s34"
+      ]
+    },
+    {
+      "statement": "Jun communicates casually and warmly, uses Filipino expressions and emojis, and often asks for warmer wording in messages meant for customers or landlords.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s02",
+        "jun.s27",
+        "jun.s34",
+        "jun.s41"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Jun acts on impulse and commits first (bulk wrappers, a signed lease after one viewing, a canopy order), then checks affordability or constraints afterward.",
+  "rationale": "The first inferred statement, rated strong, says Jun acts on impulse and commits first (bulk wrappers, a lease after one viewing, a canopy order) and then checks affordability afterward. That is substantially the same as taking big swings on gut feeling and sorting out the consequences later."
+}

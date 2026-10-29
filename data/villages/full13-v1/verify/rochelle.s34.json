@@ -1,0 +1,343 @@
+{
+  "session_id": "rochelle.s34",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Wants an RN program by fall 2027, ideally ending at St. Anselm",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want an RN program by fall 2027 ideally ending up at St. Anselm",
+      "support_quote": ""
+    },
+    {
+      "text": "Is in Anatomy I with Okoye and Intro Chem this term",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm in anatomy 1 with okoye and intro chem right now so anatomy 2 is next",
+      "support_quote": ""
+    },
+    {
+      "text": "Eats leftovers from blue cooler bag in the car in Lot C",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm typing this in the car in lot C eating my leftovers outta the blue cooler bag lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Will check programs against Denny's map",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll check the programs against denny's map before i register",
+      "support_quote": ""
+    },
+    {
+      "text": "Tracks GPA impact of an A closely for admission",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "how much would an A in anatomy 2 raise my GPA",
+      "support_quote": ""
+    },
+    {
+      "text": "Denny mapped a plan for her",
+      "about": "denny",
+      "kind": "reference_use",
+      "item_id": "rochelle.r04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Check each program against the plan Denny mapped before you register",
+      "support_quote": "i'll check the programs against denny's map before i register"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.i05",
+      "present": true,
+      "quote": "how much would an A in anatomy 2 raise my GPA"
+    },
+    {
+      "item_id": "rochelle.f04",
+      "present": true,
+      "quote": "i want an RN program by fall 2027 ideally ending up at St. Anselm"
+    },
+    {
+      "item_id": "rochelle.f57",
+      "present": true,
+      "quote": "i'll check the programs against denny's map before i register"
+    },
+    {
+      "item_id": "rochelle.f02",
+      "present": true,
+      "quote": "i'm in anatomy 1 with okoye and intro chem right now so anatomy 2 is next"
+    },
+    {
+      "item_id": "rochelle.f35",
+      "present": true,
+      "quote": "i'm typing this in the car in lot C eating my leftovers outta the blue cooler bag lol"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s02",
+  "principal": "isabel",
+  "start": "2025-08-27T00:59:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "need a realistic week by week plan. heat wave starts today and school has minimum days thru saturday i think. classes: AP Chem, AP Lang, AP Calc AB, APUSH, physics. need to fit calc problem sets, chem reading and essay brainstorming"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to build that. A few things would make it realistic: when minimum days end, what time you're home on them, and any fixed commitments after school. What does your sleep look like, and are there chores or evening obligations I should plan around?"
+    },
+    {
+      "role": "user",
+      "text": "min days wed-fri, regular again next week. home around 1pm. cant assume 8 hrs sleep lol, alarm is 6:50 and im usually out around 1am. also dishes every weeknight and on days my dad is working i have to make sure my grandma ate lunch so that eats into afternoons"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. I'll plan for about 5 to 6 hours of sleep on school nights, with dishes and a lunch check built in so your afternoons aren't overbooked. Anything about where you do each kind of work?"
+    },
+    {
+      "role": "user",
+      "text": "chem reading is for Mr. Ostrowski's class, not my mom's, genuinely so relieved about that. also essay stuff has to be late evening, thats when i can use my dads old desktop. school laptop for everything else"
+    },
+    {
+      "role": "assistant",
+      "text": "Perfect, that gives me a clear structure.\n\n**Week 1 (heat wave, min days Wed to Fri)**\n- Wed/Thu/Fri, 1:30 to 2:30 pm: lunch check for your grandma if your dad is working, then a short break. Heat makes afternoons drag, so stay inside.\n- 2:30 to 4:00 pm: AP Calc problem set, the hardest one first. Use the school laptop.\n- After dinner and dishes, 7:30 to 8:30 pm: AP Chem reading for Mr. Ostrowski's class, about 20 pages or one section a night, with 5 lines of notes each.\n- 10:30 to 11:30 pm: essay brainstorming on the desktop, Wed and Fri only. Freewrite, no editing.\n- Lights out by 12:30 at the latest on Thu so you aren't wrecked Friday.\n- Saturday: 1 to 2 hours total of APUSH and AP Lang catch-up, leaving the rest free.\n\n**Week 2 (regular schedule)**\n- Mon/Wed: Calc problem sets right after school, about 90 minutes.\n- Tue/Thu: Chem reading, 45 minutes after dishes.\n- Mon/Thu 10 to 11 pm: essay drafting on the desktop, capped at an hour.\n- Physics and APUSH: 30 minutes each, rotating on the open evenings.\n- One light night with nothing scheduled.\n\nThe essay slots sit late because that's when you have the desktop, and I capped them at an hour so they don't push your bedtime later. Want this as a checklist you can tick off?"
+    },
+    {
+      "role": "user",
+      "text": "short version as a checklist pls"
+    },
+    {
+      "role": "assistant",
+      "text": "**Week 1**\n- [ ] Wed to Fri: grandma lunch check, then Calc set 2:30 to 4\n- [ ] Wed to Fri: Chem reading 7:30 to 8:30 after dishes\n- [ ] Wed + Fri: essay freewrite on the desktop, 10:30 to 11:30\n- [ ] Sat: APUSH + AP Lang catch-up, 1 to 2 hrs\n\n**Week 2**\n- [ ] Mon/Wed: Calc after school\n- [ ] Tue/Thu: Chem reading\n- [ ] Mon/Thu: essay drafting on the desktop, 1 hr max\n- [ ] Physics + APUSH: 30 min each on open nights\n- [ ] One free night"
+    },
+    {
+      "role": "user",
+      "text": "ok that works. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the heat and the first full week. Bye!"
+    }
+  ]
+}

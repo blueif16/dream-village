@@ -1,0 +1,47 @@
+{
+  "id": "arjun.s12",
+  "principal": "arjun",
+  "start": "2025-09-07T22:46:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok need help planning th week. just got back from pell road, sunday dinner at my parents then langar. gurpreet uncle asked about my CDL again lol, 'just in case'"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, a CDL as a backup plan is thorough. Happy to help plan the week. What's on your plate: classes, work shifts, deadlines? Send me what's fixed and we'll build around it."
+    },
+    {
+      "role": "user",
+      "text": "classes MWF 9-12, tue/thu 10:30 ops management. front desk shift at career center 10 hrs/wk. just meal prepped four containers of rajma and rice so lunches are sorted, want to schedule around those"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, four containers covers four lunches, so you only need a plan for one more day. Here's a draft:\n\n| Day | Plan |\n|---|---|\n| Mon | Classes 9-12, lunch #1, evening: applications |\n| Tue | Ops management 10:30, lunch #2, desk shift if scheduled |\n| Wed | Classes 9-12, lunch #3, evening: resume |\n| Thu | Ops management 10:30, lunch #4, desk shift if scheduled |\n| Fri | Classes 9-12, buy or improvise lunch, light evening |\n\nWant me to fit your desk shift hours in once you tell me when they are?"
+    },
+    {
+      "role": "user",
+      "text": "desk shifts tue + fri afternoons. also th sunday call went th usual way, i promised another round of applications. so need to block time for that"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Tue and Fri afternoons are the desk. For the applications, a sustainable round might be:\n\n- Mon, Wed, Thu evenings: 60-90 minutes each, 2-3 applications per session\n- Tue evening: research and tailoring only\n- Fri: off, or just one quick submission\n\nThat could be 6-8 applications for the week without eating your weekend. For next Sunday, you could tell your mom your target number up front and report the result, so the call is a status update instead of a negotiation. Want a one-line script for that?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also separate thing, career center sent a direct deposit form for my job, can you help fill it. fields are: name, account type, routing number, account number. mine is checking, account number is 4471-0938-2215 at my credit union"
+    },
+    {
+      "role": "assistant",
+      "text": "Script for the call: \"This week I'm sending [number] applications, I'll tell you how many went out next Sunday.\"\n\nFor the form:\n\n- **Name:** exactly as it appears on your payroll/ID records\n- **Account type:** check Checking\n- **Routing number:** the 9-digit number for your credit union. It's on your checks or in your credit union's app or website under account details. It's the same for everyone at that branch, so double-check it there rather than guessing.\n- **Account number:** enter the one you gave me carefully, digit by digit, and compare it against your app or a check before submitting. Transposed digits are the most common cause of failed deposits.\n\nAlso, some forms want a voided check or a bank letter, so see if the career center asks for one. And only send the form through the secure channel the office specifies, not plain email. Want me to put the week plan into a clean final version?"
+    },
+    {
+      "role": "user",
+      "text": "thx, th final version would be great. keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "Week plan:\n\n- **Mon:** classes 9-12, lunch #1, 2-3 applications at night\n- **Tue:** ops mgmt 10:30, lunch #2, desk shift, tailor/research at night\n- **Wed:** classes 9-12, lunch #3, 2-3 applications\n- **Thu:** ops mgmt 10:30, lunch #4, 2-3 applications\n- **Fri:** classes 9-12, desk shift, buy lunch, one quick application\n- **Weekend:** rest, then next Sunday's update to your mom\n\nAnd finish the direct-deposit form this week so it's on file before the next pay cycle."
+    }
+  ]
+}

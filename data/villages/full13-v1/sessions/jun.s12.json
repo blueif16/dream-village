@@ -1,0 +1,39 @@
+{
+  "id": "jun.s12",
+  "principal": "jun",
+  "start": "2025-09-16T23:37:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "boss my payment app keeps failing on this wholesale supplier form and i need to pay for the next case of wrappers. phone is dying again (of course) and the cracked corner makes the bottom right fields a pain to tap so can we do this fast"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick fix mode. Plug the phone in if you can, then tell me exactly what happens: does the form show an error message, or does it just fail when you hit submit? And which field does it complain about, if any?"
+    },
+    {
+      "role": "user",
+      "text": "it just says 'invalid account number' every time. i pasted my credit union business checking number in the account field: 4471902836155. it was fine on the other form lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Thanks, that helps. Here's what usually causes that error on wholesale forms:\n\n1. Hidden spaces or characters. Pasting can bring along a trailing space. Tap into the field, delete the last character, and retype it by hand.\n2. Wrong field type. Many supplier forms want the routing number in one field and the account number in another. Check that you didn't paste into the routing box.\n3. Account vs. card. Some forms only accept a card number for payment, so look for a 'bank transfer / ACH' toggle.\n4. Autofill. Turn off your browser's autofill for this form, since it can overwrite what you paste.\n\nTry 1 and 2 first. Since your corner is cracked, zoom the page in so the bottom right fields are bigger targets. Does it go through?"
+    },
+    {
+      "role": "user",
+      "text": "ok the routing box thing was it lol i had them swapped 🔥 before i hit pay, i want to make sure this case still keeps me under my 1800 launch budget for lola's roll. my balance is around 3200 for the business so it should be fine?"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call checking first. To confirm the budget, I need two numbers: the total of what you've already spent on launch costs, and this case's price including shipping and tax. If the spent total plus this order is under $1,800, you're fine.\n\nOn the balance: roughly $3,200 easily covers the charge, so the question is just whether it stays under your launch cap. Send me the numbers and I'll add them up."
+    },
+    {
+      "role": "user",
+      "text": "ok actually spent so far is about 1,350 and the case is 142 with shipping. phone's at 4% so short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: $1,350 + $142 = $1,492. That's about $308 under your $1,800 target. Submit it, and keep the confirmation email. Then plug in your phone 🔌"
+    }
+  ]
+}

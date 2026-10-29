@@ -1,0 +1,97 @@
+{
+  "impression_id": "thao.i02",
+  "evidence_sessions": [
+    "thao.s04",
+    "thao.s10",
+    "thao.s23",
+    "thao.s24",
+    "thao.s28",
+    "thao.s38",
+    "thao.s40"
+  ],
+  "inferred": [
+    {
+      "statement": "Thao acts as a quiet protector and provider for her younger sister Linh, giving money, food, study help and gifts, and shielding her from their mother's pharmacy pressure.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s10",
+        "thao.s23",
+        "thao.s24",
+        "thao.s28",
+        "thao.s38",
+        "thao.s40"
+      ]
+    },
+    {
+      "statement": "Thao keeps her help to Linh and her own choices out of her mother's view (labeling the transfer 'textbook fund', asking Linh to stay quiet, shipping the gift to herself), preferring concealment to confrontation.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s23",
+        "thao.s38",
+        "thao.s40",
+        "thao.s10"
+      ]
+    },
+    {
+      "statement": "Thao avoids phone calls and voicemails, especially from her mother, and prefers text or chat, which she uses to set boundaries around her sleep schedule.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s10"
+      ]
+    },
+    {
+      "statement": "Thao wants brief, ready-to-use output (short drafts, bullets, 'short pls', 5 lines max) and pushes back when answers run long, often while tired or on a break.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s10",
+        "thao.s23",
+        "thao.s24",
+        "thao.s38"
+      ]
+    },
+    {
+      "statement": "Thao handles conflict by managing tone and information carefully: she prepares calm scripts, avoids drama, and controls who knows what (the union vote, the pharmacy deflection, the incident summary).",
+      "strength": "strong",
+      "sessions": [
+        "thao.s10",
+        "thao.s28",
+        "thao.s04"
+      ]
+    },
+    {
+      "statement": "Thao works night shifts as a nurse and organizes her life around sleeping by day, which brings tiredness, schedule strain and a sense of overload.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s04",
+        "thao.s24",
+        "thao.s28",
+        "thao.s38",
+        "thao.s40"
+      ]
+    },
+    {
+      "statement": "Thao is concerned about staffing and workload at work and is willing to act on it quietly, backing the union cause without becoming publicly aligned with a camp.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s28",
+        "thao.s04"
+      ]
+    },
+    {
+      "statement": "Thao keeps her Vietnamese heritage and family warmth in how she communicates, such as using 'Mẹ' and 'em bé' and insisting the endearment stay unchanged in edits.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s10",
+        "thao.s23",
+        "thao.s38"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Thao acts as a quiet protector and provider for her younger sister Linh, giving money, food, study help and gifts, and shielding her from their mother's pharmacy pressure.",
+  "rationale": "The first inferred statement, rated strong, says Thao acts as a quiet protector and provider for Linh, giving money, food, study help and shielding her from their mother's pressure. That matches the intended trait of mothering Linh and handling her problems behind the scenes."
+}

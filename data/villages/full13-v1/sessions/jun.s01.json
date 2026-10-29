@@ -1,0 +1,31 @@
+{
+  "id": "jun.s01",
+  "principal": "jun",
+  "start": "2025-08-26T05:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "boss i need the short version, shift starts in 10. what even is a cottage food permit? im starting lola's roll, its a lumpia pop-up named after my grandmother, and i have to be at the espresso bar at heron & grind by 6:15 (3 years there lol)"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- A cottage food permit lets you make certain low-risk foods in your home kitchen and sell them directly to customers. In California it's under the Cottage Food Operation (CFO) rules, and it comes in two classes: Class A (direct sales only) and Class B (direct plus indirect sales, like through a shop).\n- Only approved \"non-potentially hazardous\" foods qualify: baked goods, jams, dry mixes, and the like. Foods that need refrigeration or contain meat/seafood are generally not on the list.\n- Typical steps: complete the application with your county (or the state, depending on where you live), pass a food processor or food handler course, get your kitchen approved or self-certified, follow the labeling rules, and pay the fees.\n\nHeads up for lumpia: fried lumpia with pork or shrimp may not fit the cottage food list. If it doesn't, you'd probably need a commissary or commercial kitchen plus a county health permit instead. Check with your county environmental health office before you buy lots of supplies.\n\nWhat paperwork are you looking at? Do you want the full checklist after your shift?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yeah its pork and shrimp lol. what do the fees run? i wanna keep launch costs under $1,800 thru november"
+    },
+    {
+      "role": "assistant",
+      "text": "Fees vary a lot by county, so treat these as rough ranges and confirm locally:\n\n- Cottage food permit/registration: usually a few hundred dollars a year, depending on the class and county.\n- Food handler card: often $10-$20.\n- Health permit for a commissary-based or temporary food stall: can run from a couple hundred to over a thousand dollars, depending on the type.\n- Commissary kitchen time: usually hourly, so it adds up.\n- Plus supplies, labels, and possibly insurance.\n\nBecause pork and shrimp may push you toward a commissary route, I'd build your $1,800 budget around the more expensive path and treat anything cheaper as a bonus. A good first step is to call or email your county environmental health office and ask exactly which permit fits fried lumpia, and what it costs. Then we can map it all against your budget."
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥 ill call them after my shift"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds like a plan. When you call, ask:\n\n1. Does fried lumpia with pork and shrimp qualify as cottage food?\n2. If not, which permit do I need, and what does it cost?\n3. Are there commissary requirements?\n\nGood luck with your opening shift, and with Lola's Roll!"
+    }
+  ]
+}

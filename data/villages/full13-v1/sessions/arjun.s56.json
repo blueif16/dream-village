@@ -1,0 +1,23 @@
+{
+  "id": "arjun.s56",
+  "principal": "arjun",
+  "start": "2025-10-23T07:13:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "on the platform rn, need to catch the 7:02 so i have like 3 min. wait no, 6:48 lol, its 7:13 here?? nvm i'm on the 6:48 and its pulling in. can you make a one page diagram of bottleneck + tote flow formulas, midterm is in ashby's 10:30 class today. just want smth to glance at 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a one-page sheet you can glance at on the ride.\n\n[Image: A single portrait page titled \"Bottleneck & Tote Flow Cheat Sheet\", with a left-to-right process flow at the top: three boxes (Station A, Station B, Station C) joined by arrows, each labeled with its capacity in units/hour. The slowest box is outlined in red and tagged \"BOTTLENECK = min(capacities)\".\n\nBelow it, a two-column grid of formula cards:\n\nLEFT COLUMN (Bottleneck)\n- Process capacity = min(capacity of each step)\n- Capacity per step = (# of workers or machines) / (time per unit)\n- Utilization = actual output / capacity\n- Cycle time = 1 / throughput rate\n\nRIGHT COLUMN (Tote flow)\n- Throughput (R) = totes completed per hour\n- Flow time (T) = time a tote spends in the system\n- Inventory (I) = totes in the system (WIP)\n- Little's Law: I = R x T (rearrange: T = I / R, R = I / T)\n- Takt time = available time / demand\n\nBottom strip in a yellow box: \"Check units first (per min vs per hour). Output can't exceed the bottleneck. Speeding up a non-bottleneck step does nothing.\"]\n\nQuick example to lock it in: if the stations run at 120, 90 and 150 totes/hour, the system maxes out at 90/hour. If 45 totes are in the system, flow time is 45 / 90 = 0.5 hours.\n\nIf Dr. Ashby's notes use different symbols, tell me and I'll relabel the sheet. Good luck on the midterm!"
+    },
+    {
+      "role": "user",
+      "text": "nice thx. holding a large chai in one hand so typing is rough. can you add a tiny worked example w/ utilization on it"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's the updated version with a worked example box added.\n\n[Image: The same one-page sheet, now with a green box in the bottom-right corner titled \"Worked Example\":\n\nStations: A = 120/hr, B = 90/hr, C = 150/hr\n1. Bottleneck = B, so capacity = 90 totes/hr\n2. Demand = 60 totes/hr, so utilization of the system = 60 / 90 = 67%\n3. Station C utilization = 60 / 150 = 40%\n4. Little's Law: if I = 45 totes, T = 45 / 90 = 0.5 hr\n\nA small red arrow points to B with the note \"fix THIS first\".]\n\nSave it to your phone so it works offline on the train. Go grab a seat!"
+    }
+  ]
+}

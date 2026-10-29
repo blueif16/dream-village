@@ -1,0 +1,113 @@
+{
+  "session_id": "jun.s25",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Oat milk ran out during his close because he was focused on the permit packet",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w6.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it ran out last night during my close because my head was on this permit packet",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun is distracted at work and wants minimum effort fix",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just want the minimum effort fix",
+      "support_quote": ""
+    },
+    {
+      "text": "Beatrice left a note about oat milk",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "jun.w7.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "beatrice left a note on the counter",
+      "support_quote": ""
+    },
+    {
+      "text": "Works the 2-9 close on Wednesdays since extended hours",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work the 2-9 close on wednesdays now since they extended the hours",
+      "support_quote": ""
+    },
+    {
+      "text": "Beatrice's corgi Ledger naps in her office",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "jun.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ledger was napping in beatrice's office",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun's Wednesday closes will be smoother",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "your Wednesday closes should be much smoother",
+      "support_quote": "i work the 2-9 close on wednesdays now since they extended the hours"
+    },
+    {
+      "text": "Assistant references the permit packet",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w6.n02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the permit packet too!",
+      "support_quote": "my head was on this permit packet"
+    },
+    {
+      "text": "Assistant says the morning went well with napping corgi",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "jun.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A stocked fridge and a napping corgi sounds like a good start.",
+      "support_quote": "ledger was napping in beatrice's office and everything was stocked"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.i06",
+      "present": true,
+      "quote": "it ran out last night during my close because my head was on this permit packet, and beatrice left a note on the counter. i just want the minimum effort fix"
+    },
+    {
+      "item_id": "jun.f03",
+      "present": true,
+      "quote": "i work the 2-9 close on wednesdays now since they extended the hours"
+    },
+    {
+      "item_id": "jun.f57",
+      "present": true,
+      "quote": "ledger was napping in beatrice's office and everything was stocked"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

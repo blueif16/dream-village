@@ -1,0 +1,260 @@
+{
+  "principal": "rafael",
+  "week": 4,
+  "entries": [
+    {
+      "id": "rafael.w4.l01",
+      "date": "2025-09-15",
+      "what": "Brakes lab at Tamsen Valley College 8-11, then lunch in the truck and a quick shop-floor cleanup. Evening pickup soccer at Delgado Park.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Lab finished on time; Dante pitched his auction cars again between games.",
+      "feeling": "loose and tired",
+      "facts": [
+        "rafael.f02",
+        "rafael.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l02",
+      "date": "2025-09-15",
+      "what": "Home in the ranch house off Pell Road, he watched an engine teardown video before bed.",
+      "with": [],
+      "outcome": "Asleep a bit after midnight.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f32",
+        "rafael.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l03",
+      "date": "2025-09-16",
+      "what": "Engine performance class with Salas 1-4, where Rafael's bay got a cleanliness check. Afterward he heard Dulce's mom Yesenia say the hospital was chaos with the new charting system going live.",
+      "with": [
+        "roberto",
+        "yesenia"
+      ],
+      "outcome": "Kept his bay clean and avoided a point deduction.",
+      "feeling": "focused",
+      "facts": [
+        "rafael.f02",
+        "rafael.f48",
+        "cast.f105"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l04",
+      "date": "2025-09-16",
+      "what": "Evening at home helping Gladys prep masa tubs and checking the generator.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Generator ready for the weekend.",
+      "feeling": "dutiful",
+      "facts": [
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l05",
+      "date": "2025-09-17",
+      "what": "Brakes lab 8-11, then a stop at Ruiz Family Market where Chuy set aside pork shoulder for Oscar.",
+      "with": [
+        "chuy"
+      ],
+      "outcome": "Picked up pork at the family price for chicharrón.",
+      "feeling": "routine",
+      "facts": [
+        "rafael.f02",
+        "rafael.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l06",
+      "date": "2025-09-17",
+      "what": "Drove Ximena to a cosmetology class and checked her Corolla's tires.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "Tires fine.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l07",
+      "date": "2025-09-18",
+      "what": "The Taco's battery light flickered on the drive to class and the headlights dimmed at a red light; he diagnosed a failing alternator. He compared three alternator prices and picked a rebuilt one to save $80.",
+      "with": [],
+      "outcome": "Ordered the rebuilt alternator to install in the school lab; one-off price comparison for a needed repair.",
+      "feeling": "annoyed but practical",
+      "facts": [
+        "rafael.f05",
+        "rafael.f06",
+        "rafael.f04"
+      ],
+      "impressions": [
+        "rafael.i05"
+      ]
+    },
+    {
+      "id": "rafael.w4.l08",
+      "date": "2025-09-18",
+      "what": "Engine performance 1-4, then worked the Thursday stand shift on the griddle at Delgado Park prep and teardown.",
+      "with": [
+        "oscar",
+        "gladys",
+        "roberto"
+      ],
+      "outcome": "Got through the evening on a weak battery.",
+      "feeling": "tired",
+      "facts": [
+        "rafael.f02",
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l09",
+      "date": "2025-09-19",
+      "what": "Told the assistant over text the alternator whined, the voltage read low and the lights dimmed under load, then asked what the textbook calls that symptom.",
+      "with": [],
+      "outcome": "Learned the term and wrote it in his notes.",
+      "feeling": "curious",
+      "facts": [
+        "rafael.f06"
+      ],
+      "impressions": [
+        "rafael.i02"
+      ]
+    },
+    {
+      "id": "rafael.w4.l10",
+      "date": "2025-09-19",
+      "what": "Worked the Friday stand shift, then picked up Dulce from Taquería Colima at 9 p.m. so she wasn't waiting outside.",
+      "with": [
+        "dulce",
+        "efrain"
+      ],
+      "outcome": "Dulce got home before curfew.",
+      "feeling": "protective",
+      "facts": [
+        "rafael.f25",
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l11",
+      "date": "2025-09-20",
+      "what": "Worked the family booth at the Calle Ortega Street Fair, running the griddle all afternoon through crowds and music.",
+      "with": [
+        "oscar",
+        "gladys",
+        "ximena",
+        "luz"
+      ],
+      "outcome": "Sold out of revueltas by evening.",
+      "feeling": "busy and proud",
+      "facts": [
+        "rafael.f40",
+        "rafael.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l12",
+      "date": "2025-09-20",
+      "what": "Teardown of the canopy and generator after the fair, then a pan dulce from Lupe at Las Hermanas.",
+      "with": [
+        "lupe",
+        "gladys"
+      ],
+      "outcome": "Everything loaded by dark.",
+      "feeling": "worn out",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l13",
+      "date": "2025-09-21",
+      "what": "Sunday stand shift at the Delgado Park market 8-2.",
+      "with": [
+        "oscar",
+        "gladys",
+        "luz"
+      ],
+      "outcome": "Steady sales, no problems with the truck.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w4.l14",
+      "date": "2025-09-21",
+      "what": "Afternoon nap, then planned the rebuilt alternator install for the lab.",
+      "with": [],
+      "outcome": "Parts arrival expected soon.",
+      "feeling": "relieved",
+      "facts": [
+        "rafael.f06"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w4.n01",
+      "subject": "rafael",
+      "attribute": "fair_sales",
+      "value": "the booth sold out of revuelta pupusas at the Street Fair",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w4.n02",
+      "subject": "rafael",
+      "attribute": "alternator_part",
+      "value": "ordered a rebuilt alternator after comparing three prices, saving $80",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w4.n03",
+      "subject": "rafael",
+      "attribute": "soccer_game",
+      "value": "Dante pitched his auction cars again at Monday pickup soccer",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w4.n04",
+      "subject": "rafael",
+      "attribute": "textbook_term",
+      "value": "wrote the textbook term for the alternator symptom in his notes",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

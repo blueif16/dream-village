@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s12",
+  "principal": "rochelle",
+  "start": "2025-09-20T15:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest. just got my quiz block back in anatomy and my grade sits at 72% lol. dr okoye is cold i swear she enjoys watching people sweat 👀 anyway i need the conduction system locked down before the practical. give me just the three things to know, no essay"
+    },
+    {
+      "role": "assistant",
+      "text": "Three things:\n\n1. Path: SA node → AV node → bundle of His → bundle branches → Purkinje fibers.\n2. SA node is the pacemaker (fires fastest, sets the rhythm). The AV node delays the signal briefly so the atria finish emptying before the ventricles contract.\n3. Purkinje fibers spread the signal through the ventricles so they contract from the bottom up.\n\nWant a quick way to remember the order?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls short. also separate thing. i got 9/10 when she quizzed me out loud but 5/10 on the same stuff online. what happens if my browser freezes during a timed canvas quiz"
+    },
+    {
+      "role": "assistant",
+      "text": "Memory trick: \"Some Apples Hit Big Pears\" (SA, AV, His, Branches, Purkinje).\n\nFrozen browser in a timed Canvas quiz:\n- The timer keeps running on Canvas's server, even if your screen freezes.\n- Your answers save as you go, so reload or reopen the quiz and you can usually continue where you left off with the time that's left.\n- If you get kicked out or lose time, message your instructor right away. Only they can reopen the quiz or add time.\n- Screenshot any error message, and note the time.\n- Use a wired or steady connection, close extra tabs, and answer the easy ones first.\n\nIf you want, ask her before the next quiz what her policy is on tech problems."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck with the review."
+    }
+  ]
+}

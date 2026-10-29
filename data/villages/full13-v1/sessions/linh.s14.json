@@ -1,0 +1,47 @@
+{
+  "id": "linh.s14",
+  "principal": "linh",
+  "start": "2025-09-08T07:32:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok quick q pls, i have like 10 min before i have to bike to the cafe. how long does cold brew concentrate keep in the fridge"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick answer: homemade cold brew concentrate usually keeps about 7 to 10 days in the fridge in a sealed glass jar or bottle. Some people push to 2 weeks, but the flavor gets flat and a bit woody after the first week.\n\nA few tips:\n- Strain it well (fine filter) so grounds don't keep extracting\n- Keep it airtight and cold, at the back of the fridge\n- Diluted cold brew is best within 3 to 5 days\n\nWhat's the context, homemade or from the cafe?"
+    },
+    {
+      "role": "user",
+      "text": "cafe batch, i work 12-6 today at heron & grind. i biked to campus this morning so gotta head back over soon"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. For a cafe batch, the same rule holds: 7 to 10 days if it's strained, sealed and kept cold. Best practice is to label the container with the brew date and toss anything past about 10 days.\n\nIf you don't know when it was made, check for sour or off smells. Fresh concentrate smells rich and chocolatey, not sharp or stale."
+    },
+    {
+      "role": "user",
+      "text": "perfect. wes calls me 'doc' bc of my anatomy flashcards lol so hes def gonna quiz me on coffee facts today"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, then you'll have a good one ready for Doc. Fun facts for him:\n- Cold brew steeps 12 to 18 hours, and the low temperature gives lower perceived acidity\n- Concentrate is usually 1:4 to 1:8 coffee to water, so it's diluted before serving\n- Cold-brewed coffee can taste smoother, but it isn't necessarily lower in caffeine"
+    },
+    {
+      "role": "user",
+      "text": "also do u have serving notes for oat milk w it? like ratios. i hate when milk gets over-steamed and tastes burnt so id rather keep it cold or barely warm"
+    },
+    {
+      "role": "assistant",
+      "text": "Here are bullets:\n\n**Iced (best bet)**\n- 1 part concentrate : 1 to 1.5 parts water, over ice\n- Add oat milk last, about 2 to 3 oz, and stir gently\n- Barista-style oat milk blends in best and doesn't separate\n\n**Barely warm**\n- Heat oat milk only to about 130 to 140°F (warm, not hot)\n- Anything past 150°F can taste scorched and flat\n- Pour it into the diluted cold brew for a mellow hot-ish drink\n\n**Tip**\n- Shake oat milk before pouring since it settles\n- Don't add oat milk to very acidic coffee that's sat out, since it can curdle"
+    },
+    {
+      "role": "user",
+      "text": "ok thank u!! gotta go ☕"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome! Have a good shift, and good luck with Wes's quiz."
+    }
+  ]
+}

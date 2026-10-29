@@ -1,0 +1,39 @@
+{
+  "id": "thao.s06",
+  "principal": "thao",
+  "start": "2025-09-05T08:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:06 and i'm dead. draft a text to my unit scheduler and jasmine asking to swap shifts so i can get thanksgiving week covered. nice but firm"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A couple of quick things so the draft is accurate: which dates do you want off, and which shifts could you offer in return? Also, do you want one message to both of them or separate ones?"
+    },
+    {
+      "role": "user",
+      "text": "my request for thanksgiving week got denied so i need a swap. jasmine is first ask, we swap like twice a month by text anyway. i work tonight (sat night) so can't offer anything before that. dates tbd, leave a placeholder. one msg to both is fine"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\nHi Jasmine and [scheduler's name], my Thanksgiving week request got denied, so I'm hoping to swap to get that week covered. Jasmine, you and I swap pretty regularly, so I wanted to ask you first. I'm happy to take [shifts you can offer] in return, anything after tonight's shift works on my end. Could we sort out [dates] by text this week? If it needs to go through the scheduler, I'll submit the swap form right away. Thanks so much!\n\nWant it shorter or a little firmer?"
+    },
+    {
+      "role": "user",
+      "text": "shorter pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Hi Jasmine and [scheduler's name], my Thanksgiving week request was denied, so I need a swap. Jasmine, I'm asking you first since we swap often. I can cover [shifts you can offer] in return. Can we lock in [dates] by text this week? Thanks!"
+    },
+    {
+      "role": "user",
+      "text": "perfect. ok filling my thermos of cà phê sữa đá and going to bed"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Send it when you wake up, and sleep well!"
+    }
+  ]
+}

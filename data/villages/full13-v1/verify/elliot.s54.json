@@ -1,0 +1,378 @@
+{
+  "session_id": "elliot.s54",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Judith is staying weekdays in the spare room",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "cast.f73",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom judith is staying weekdays in our spare room now",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes Theo to Thursday 10:30 library story time",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f54",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thursday 10:30 baby story time, which i'd like to keep doing every week",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has three crib naps at 9, 12:30 and 4 with 90-minute wake windows",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "three crib naps around 9, 12:30 and 4, with 90 minute wake windows",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith and Elliot take turns pacing during the witching hour",
+      "about": "judith",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the witching hour, he and i... i mean judith and i take turns pacing the hallway for that",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo's evening crying is 5-8 pm",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's 5-8 pm, that's the worst stretch of the day",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith drives home Friday at 5 and returns Monday at 8",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "judith drives home to her condo friday at 5 and comes back monday at 8",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot's story time is Thursdays at 10:30",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f54",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You: story time at 10:30 (Thursdays)",
+      "support_quote": "thursday 10:30 baby story time"
+    },
+    {
+      "text": "Theo has evening crying 5-8",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "5:00-8:00 | Evening crying",
+      "support_quote": "it's 5-8 pm, that's the worst stretch of the day"
+    },
+    {
+      "text": "Judith leaves Friday as evening begins",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "she leaves right as the evening stretch begins on Friday",
+      "support_quote": "judith drives home to her condo friday at 5"
+    },
+    {
+      "text": "Theo's 9 a.m. nap ends around 10",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the 9 a.m. nap ends around 10",
+      "support_quote": "three crib naps around 9, 12:30 and 4"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f54",
+      "present": true,
+      "quote": "we just got back from the library, thursday 10:30 baby story time, which i'd like to keep doing every week"
+    },
+    {
+      "item_id": "elliot.r03",
+      "present": true,
+      "quote": "the hard part is the witching hour, he and i... i mean judith and i take turns pacing the hallway for that"
+    },
+    {
+      "item_id": "elliot.f48",
+      "present": true,
+      "quote": "judith drives home to her condo friday at 5 and comes back monday at 8, so weekends are just me and hana"
+    },
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "it's 5-8 pm, that's the worst stretch of the day"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

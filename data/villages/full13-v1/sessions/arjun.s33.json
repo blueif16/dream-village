@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s33",
+  "principal": "arjun",
+  "start": "2025-09-29T07:36:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "7:02 is late again so i only have till it shows up. typing one-handed bc im holding my large masala chai from anh's cart. how do phone screens with a 3PL recruiter usually run, and what does a regional cold chain logistics company actually do"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick version, since your train could roll in any minute.\n\n**Typical 3PL phone screen (20-30 min):**\n1. Intro and logistics: the recruiter says who they are and what the role is\n2. \"Tell me about yourself\": expect a 60-90 second answer\n3. Why this company and why logistics\n4. A couple of resume deep-dives: a project, a tool you used (Excel, WMS, etc.)\n5. Basic fit: availability, location, start dates, sometimes pay expectations\n6. Your questions for them\n\nIt's usually a screen for communication and genuine interest, not a technical grilling.\n\n**What a regional cold-chain company does:**\n- Stores and moves temperature-controlled goods (food, produce, pharma) in refrigerated and frozen warehouses\n- Runs refrigerated trucking between warehouses, distributors and retailers\n- Tracks temperatures and compliance (food safety, spoilage limits)\n- Handles cross-docking, inventory and delivery scheduling\n\nOn the intern side, that often means analyzing routes, dock times, inventory turns or temperature excursions.\n\nWant likely questions after this, or a short list of things to research about the company?"
+    },
+    {
+      "role": "user",
+      "text": "ok thats helpful. ngl the spreadsheet color coded by stage is getting long lol. how many applications is normal before you get a phone screen"
+    },
+    {
+      "role": "assistant",
+      "text": "There's no single number. It varies a lot by field, school and timing. For internships, a common rough pattern is that a small fraction of applications turn into a screen, often somewhere around 5-15%, so dozens of applications producing a few screens is pretty normal. Things that matter more than raw volume:\n\n- **Tailoring:** a resume matched to the posting beats a generic one\n- **Referrals:** they convert much better than cold applications\n- **Timing:** applying early in the cycle helps\n- **Follow-up:** reaching out to people at the company\n\nSo a long tracker isn't a bad sign, but if the stage columns are mostly stuck at \"applied,\" it can be worth putting more effort into fewer, better-targeted applications."
+    },
+    {
+      "role": "user",
+      "text": "fair. can you give me this as a short list i can paste into th spreadsheet as a new row. like company type, what they do, screen format"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a row-ready version, tab-separated so it should paste across cells:\n\nCompany type\tWhat they do\tScreen format\tPrep notes\nRegional cold-chain 3PL\tTemperature-controlled storage, refrigerated transport, cross-docking, compliance tracking\t20-30 min phone call: intro, tell me about yourself, why us, resume deep-dive, availability, your questions\tResearch their facilities and customers, prep a 60-90 sec intro, have 2 questions ready\n\nIf you tell me the company name, I can add a column with a few company-specific research points."
+    }
+  ]
+}

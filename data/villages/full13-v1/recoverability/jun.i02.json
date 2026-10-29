@@ -1,0 +1,94 @@
+{
+  "impression_id": "jun.i02",
+  "evidence_sessions": [
+    "jun.s07",
+    "jun.s08",
+    "jun.s26",
+    "jun.s30",
+    "jun.s36",
+    "jun.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Seeks his mother's approval of the lumpia recipe above almost everything else, reading her small signals (silence on wrappers, eating two turon pieces, the onion verdict) as verdicts on himself and his choices.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s07",
+        "jun.s08",
+        "jun.s26",
+        "jun.s30",
+        "jun.s36",
+        "jun.s43"
+      ]
+    },
+    {
+      "statement": "Is careful to credit his mother and grandmother for the recipe and business, and checks whether his wording honors them or diminishes his mom's authorship.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s08",
+        "jun.s36",
+        "jun.s43",
+        "jun.s30"
+      ]
+    },
+    {
+      "statement": "Tends to avoid direct confrontation with his mother, preparing scripts and indirect framings (food first, separate topics, offering swaps) instead of simply stating what he wants.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s07",
+        "jun.s26",
+        "jun.s30"
+      ]
+    },
+    {
+      "statement": "Wants brief, practical answers, often asking for the short version, and uses the assistant as a quick on-the-go helper around work shifts.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s26",
+        "jun.s30",
+        "jun.s08",
+        "jun.s07"
+      ]
+    },
+    {
+      "statement": "Is building the lumpia business seriously and methodically (price changes, permit application, vendor contact timing, weekly volume, profit split), while keeping his café job.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s08",
+        "jun.s26",
+        "jun.s30",
+        "jun.s43"
+      ]
+    },
+    {
+      "statement": "Insists on accuracy and honesty in public-facing claims, such as not implying the permit is approved, and is firm and direct with collaborators when reliability matters, wanting warmth without losing the firmness.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s08",
+        "jun.s43"
+      ]
+    },
+    {
+      "statement": "Is working toward independence from his family home and from his mother's career expectations (nursing), while worrying the move will be read as rejecting her or the family recipe.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s26",
+        "jun.s30"
+      ]
+    },
+    {
+      "statement": "Uses a casual, joking, Tagalog-peppered tone with the assistant (calling it 'boss', 'sige', 'lol', emojis) and downplays his worries with humor.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s07",
+        "jun.s08",
+        "jun.s26",
+        "jun.s36",
+        "jun.s43"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Seeks his mother's approval of the lumpia recipe above almost everything else, reading her small signals (silence on wrappers, eating two turon pieces, the onion verdict) as verdicts on himself and his choices.",
+  "rationale": "The first inferred statement, rated strong, says he seeks his mother's approval of the lumpia recipe above almost everything else and reads her small food-related signals as verdicts on himself and his choices. That matches the core trait of measuring his worth through her approval of the food. A separate statement about his independence from her expectations covers the arguing-against-her-plans part."
+}

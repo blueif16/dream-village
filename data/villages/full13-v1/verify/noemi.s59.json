@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s59",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Pay is now $31.90 an hour with lead duties differential",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hr confirmed my pay is now $31.90 an hour w the lead duties differential lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi keeps up subnetting drills between overtime days without quitting",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "just finished a chapter of subnetting drills between overtime days",
+      "support_quote": ""
+    },
+    {
+      "text": "Flyer goes on the wall by the cage at RF-4",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "going on the wall by the cage so pickers stop dumping frozen scanners in the wrong bin",
+      "support_quote": ""
+    },
+    {
+      "text": "Many handhelds in rotation, fleet constantly breaking",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we have so many handhelds in rotation the fleet never stops breaking lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi got a raise",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice, congrats on the raise.",
+      "support_quote": "hr confirmed my pay is now $31.90 an hour w the lead duties differential lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f05",
+      "present": true,
+      "quote": "hr confirmed my pay is now $31.90 an hour w the lead duties differential lol"
+    },
+    {
+      "item_id": "noemi.i05",
+      "present": true,
+      "quote": "just finished a chapter of subnetting drills between overtime days"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "going on the wall by the cage so pickers stop dumping frozen scanners in the wrong bin"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "we have so many handhelds in rotation the fleet never stops breaking lol"
+    }
+  ],
+  "sensitive": []
+}

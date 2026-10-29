@@ -1,0 +1,82 @@
+{
+  "session_id": "isabel.s37",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel is mechanical subteam lead and the proposal is her call to pitch",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im mechanical subteam lead so the proposal is my call to pitch",
+      "support_quote": ""
+    },
+    {
+      "text": "Team meets in room C7 Tue/Thu",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we meet in room C7 tue/thu",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel wants proposals that look stronger than Lucas's, competing with him",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "lucas is presenting his plan at the review too so i need ones that actually look stronger than his, not just standard stuff",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is presenting her proposal at an upcoming review",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Good luck at the review. Bring your test data and a one-page comparison.",
+      "support_quote": "lucas is presenting his plan at the review too so i need ones that actually look stronger than his, not just standard stuff"
+    },
+    {
+      "text": "Isabel needs sleep, being tired late at night",
+      "about": "isabel",
+      "kind": "other",
+      "item_id": "isabel.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Get some sleep.",
+      "support_quote": "short version pls, im wiped."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.i04",
+      "present": true,
+      "quote": "lucas is presenting his plan at the review too so i need ones that actually look stronger than his, not just standard stuff"
+    },
+    {
+      "item_id": "isabel.f15",
+      "present": true,
+      "quote": "im mechanical subteam lead so the proposal is my call to pitch"
+    },
+    {
+      "item_id": "isabel.f16",
+      "present": true,
+      "quote": "we meet in room C7 tue/thu and i have the list of weak spots from thursday's meeting"
+    },
+    {
+      "item_id": "isabel.f33",
+      "present": true,
+      "quote": "short version pls, im wiped."
+    }
+  ],
+  "sensitive": []
+}

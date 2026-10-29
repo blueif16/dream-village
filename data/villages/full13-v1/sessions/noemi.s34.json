@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s34",
+  "principal": "noemi",
+  "start": "2025-09-29T18:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need to fit 2 practice quizzes + subnetting drills around my swing shift this week. i start at 2pm mon-fri and get out at 10:30. i use a practice-test app and a secondhand study guide with tabbed chapters. subnetting and port numbers keep tripping me up so put extra time there. can u make a weekly plan"
+    },
+    {
+      "role": "assistant",
+      "text": "Yep, here's a plan built around a 2 p.m. start, with study blocks ending before you leave for work.\n\n**Mon-Fri mornings (before ~1 p.m.)**\n- Mon: Practice quiz #1 in the app (about 45 min), then review every miss against the matching tab in your study guide.\n- Tue: Subnetting drills, 45 min. Do CIDR notation and subnet masks by hand, no calculator.\n- Wed: Port numbers, 30 min of flashcards, plus a 20 min chapter skim from your tabbed guide.\n- Thu: Subnetting again, 45 min. Mix in problems that ask for the number of hosts per subnet.\n- Fri: Practice quiz #2 (about 45 min), then 15 min logging which topics you missed.\n\n**Weekend**\n- Sat: One longer block (60-90 min) on whatever Friday's quiz showed was weakest, with extra time on subnetting and port numbers.\n- Sun: Light review only, around 20 min.\n\n**Tips**\n- Stop everything about an hour before you head out so you're not rushing.\n- Keep a running list of missed port numbers and reread it each morning.\n\nWant me to generate some subnetting practice problems for Tuesday?"
+    },
+    {
+      "role": "user",
+      "text": "ty. also iris is out 8-5 weekdays so evenings and weekends are our time, dont want to eat into that. does this work"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, it does. Everything above sits in the mornings before your shift, so your evenings are untouched. The one weekend block is the only thing that overlaps with shared time.\n\nTo protect weekends further:\n- Do the Saturday block early, say 9-10:30 a.m., so the rest of the day is free.\n- If Sunday feels crowded, skip it and just glance at your missed-ports list for 10 min.\n- If a weekday morning gets eaten, move that session to Saturday instead of squeezing it into the evening.\n\nThat gives you two full quizzes, three subnetting sessions and a port-number session while keeping your time with Iris free. Want a one-page version to stick on your desk?"
+    },
+    {
+      "role": "user",
+      "text": "tldr bullets pls"
+    },
+    {
+      "role": "assistant",
+      "text": "- Mon: quiz #1 + review misses\n- Tue: subnetting (45 min)\n- Wed: port numbers flashcards + guide skim\n- Thu: subnetting again\n- Fri: quiz #2 + log weak spots\n- Sat AM: one block on the weakest topic\n- Sun: 10-20 min review, or skip\n- All study done before you leave for your shift; evenings stay free"
+    }
+  ]
+}

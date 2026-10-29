@@ -1,0 +1,353 @@
+{
+  "session_id": "marcus.s16",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus is at a D in Stats 120 after two quizzes",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im at a D after the first two quizzes",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus takes Stats 120, which drags down his classes",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its the one dragging my classes down",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus works a 10 pm shift tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to leave for my 10 pm shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus rationalizes a sneaker purchase as an investment",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "if i grab a pair would it hold resale value? like thats basically an investment right",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has stacked sneaker boxes in his closet, the box wall",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the box wall in my closet is proof i know about averages and outliers lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a shift tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Before your shift, remember the sample sd steps",
+      "support_quote": "i have to leave for my 10 pm shift so i got like an hour"
+    },
+    {
+      "text": "Marcus is short on time before his shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "since you're short on time",
+      "support_quote": "i got like an hour"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i03",
+      "present": true,
+      "quote": "if i grab a pair would it hold resale value? like thats basically an investment right"
+    },
+    {
+      "item_id": "marcus.r05",
+      "present": true,
+      "quote": "the box wall in my closet is proof i know about averages and outliers lol"
+    },
+    {
+      "item_id": "marcus.f26",
+      "present": true,
+      "quote": "im at a D after the first two quizzes"
+    },
+    {
+      "item_id": "marcus.f24",
+      "present": true,
+      "quote": "its the one dragging my classes down"
+    },
+    {
+      "item_id": "marcus.f04",
+      "present": true,
+      "quote": "i have to leave for my 10 pm shift so i got like an hour"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

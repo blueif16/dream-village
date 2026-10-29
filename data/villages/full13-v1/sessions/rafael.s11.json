@@ -1,0 +1,39 @@
+{
+  "id": "rafael.s11",
+  "principal": "rafael",
+  "start": "2025-11-05T22:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "bro need help writing an email. been doing G1 questions tonight and the book wording kills me, i only get it when its explained like what youd see in the bay. anyway"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help with the email. Who is it going to, and what do you want it to say? Tell me the main points and I'll draft it."
+    },
+    {
+      "role": "user",
+      "text": "its to ortega auto & tire. i already applied for the spring internship and theyre waiting on my ASE practice result before they decide. the G1 practice test is scheduled nov 18. i got a study block planned monday after the weekend stand shifts so ill have the result after that"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's a draft:\n\nSubject: Following up on my spring internship application\n\nHello,\n\nI'm following up on my application for the spring internship at Ortega Auto & Tire. I understand you'd like to see my ASE G1 practice result before making a decision. The practice test is scheduled for November 18, and I'll send you the result as soon as I have it.\n\nThanks for your time and consideration.\n\nSincerely,\n[your name]\n[your phone number]\n\nWant me to add anything about your availability or experience?"
+    },
+    {
+      "role": "user",
+      "text": "yeah add that i know the systems hands on. the test wording loses me but on the car i know it. also add a line that i can only start after family obligations, does that sound bad"
+    },
+    {
+      "role": "assistant",
+      "text": "It doesn't sound bad. Shops expect people to have commitments, and being upfront helps them plan. I'd just make it specific and positive. Here's the updated version:\n\nSubject: Following up on my spring internship application\n\nHello,\n\nI'm following up on my application for the spring internship at Ortega Auto & Tire. I understand you'd like to see my ASE G1 practice result before making a decision. The practice test is scheduled for November 18, and I'll send you the result right after.\n\nI'm confident in my hands-on knowledge of the systems, and I'm working to get that across on the written test as well. I'm also able to start once my weekend family obligations are covered, and I'll have my schedule ready to share with you.\n\nThanks for your time and consideration.\n\nSincerely,\n[your name]\n[your phone number]\n\nIf you want, I can also turn tonight's G1 questions into short explanations of what you'd actually see in the bay."
+    },
+    {
+      "role": "user",
+      "text": "nice thanks bro that helped fr 👍"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck on the 18th. Send it when you're ready, and ping me if you want to go over more G1 questions."
+    }
+  ]
+}

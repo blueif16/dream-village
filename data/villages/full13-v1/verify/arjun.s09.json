@@ -1,0 +1,363 @@
+{
+  "session_id": "arjun.s09",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun does laundry Thursday nights on the card-only machine",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just got back from th laundry room, card machine only, thursday night ritual lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun usually goes to bed around 2 a.m. on weeknights",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i havent gone to bed before 2 all week but thats normal for me on weeknights",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun advises sleep to his roommate while staying up late himself",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how do i convince him to fix his sleep without sounding like a lecture",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun shares a unit with a roommate who works nights",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my roommate works nights and is looking really run down",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun skipped Ashby's office hours because he isn't ready to ask about the letter",
+      "about": "stephen",
+      "kind": "fact",
+      "item_id": "arjun.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i skipped ashby's office hours again today, not ready to bring up th letter",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is protective of his roommate",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my roommate works nights and is looking really run down",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun's own late nights count, 2 a.m. bedtime",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the same tips apply to a 2 a.m. bedtime",
+      "support_quote": "i havent gone to bed before 2 all week but thats normal for me on weeknights"
+    },
+    {
+      "text": "Arjun needs a recommendation letter from Ashby",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm applying to internships and wondered if you'd be willing to write me a recommendation letter",
+      "support_quote": "not ready to bring up th letter"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "how do i convince him to fix his sleep without sounding like a lecture"
+    },
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "lowkey i havent gone to bed before 2 all week but thats normal for me on weeknights"
+    },
+    {
+      "item_id": "arjun.f46",
+      "present": true,
+      "quote": "i just got back from th laundry room, card machine only, thursday night ritual lol"
+    },
+    {
+      "item_id": "arjun.f56",
+      "present": true,
+      "quote": "i skipped ashby's office hours again today, not ready to bring up th letter"
+    },
+    {
+      "item_id": "arjun.f05",
+      "present": true,
+      "quote": "he's down th hall asleep rn (or trying to)"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

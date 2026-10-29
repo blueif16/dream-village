@@ -1,0 +1,31 @@
+{
+  "id": "thao.s21",
+  "principal": "thao",
+  "start": "2025-10-06T08:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:51 and i'm post-shift about to crash. need a short step by step plan. i'm bringing tomas to my mom's sunday dinner in 2 weeks and i want to handle it well. her pharmacy thing about my sister always comes up at dinner and i don't want it to blow up with him there"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. A few quick questions so the plan fits: do you want to tell your mom about Tomás ahead of time, or is that still open? And is the pharmacy topic something you want to head off, or just redirect when it starts?"
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically i don't know if i should tell her ahead or just show up. give me pros and cons of telling her ahead vs just showing up, like 3 different ways to look at it. i'll decide later"
+    },
+    {
+      "role": "assistant",
+      "text": "Three framings:\n\n**1. Her reaction**\n- Tell ahead: she gets time to adjust, so the dinner itself is calmer. Con: she has days to form opinions and ask questions.\n- Show up: no lead-up worry. Con: surprise guests can make a host defensive, in front of him.\n\n**2. Tomás's experience**\n- Tell ahead: he walks into a warm table, and you can prep him on what to expect.\n- Show up: he may feel like a surprise she has to manage.\n\n**3. The pharmacy topic**\n- Tell ahead: you can set the tone in the same message, so the evening has a different focus.\n- Show up: a new person at the table often shifts attention away from old topics, but it can also make her want to show off her opinions.\n\nShort version: telling ahead lowers the odds of a scene. Showing up lowers the days of dread. You can decide later."
+    },
+    {
+      "role": "user",
+      "text": "ok. she calls me at 1pm mid sleep and leaves vietnamese voicemails i never play. so if i tell her it has to be a text not a call"
+    },
+    {
+      "role": "assistant",
+      "text": "Then text it. Steps:\n\n1. Send a short text midweek, in the afternoon after you wake, not first thing. Draft: \"Hi Mẹ, I'd like to bring Tomás to Sunday dinner on [date]. Is that ok? Can't wait to see you.\" Swap the greeting for whatever you normally use.\n2. Keep the text to one topic, nothing else in it.\n3. Tell Tomás the dinner hour, what to bring (dessert or fruit), and that you'll steer conversation if it gets awkward.\n4. At dinner, have a ready redirect if the pharmacy topic starts: \"Let's talk about that another time, I want to hear about [something she likes].\"\n5. Sit next to him and leave early if it gets heavy.\n\nGo sleep. I can tweak the text whenever you want."
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "principal": "grace",
+  "week": 3,
+  "entries": [
+    {
+      "id": "grace.w3.l01",
+      "date": "2025-09-08",
+      "what": "Grace arrives at Flats High at 7:20 and teaches periods 1, 2, 3, 5 and 6 in B12. Patricia's office sends notice of a formal observation of her period 2 on Oct 16, and the district confirms the chemical-storage audit of B12 for Oct 30.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "Puts both dates on her planner and starts a to-do list for the audit.",
+      "feeling": "wary, a little stretched",
+      "facts": [
+        "grace.f22",
+        "grace.f53",
+        "grace.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l02",
+      "date": "2025-09-08",
+      "what": "Eats leftover rice and ulam in B12 during 4th period prep, then gets back to Unit 1 lab safety quizzes.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Grading is caught up for the day.",
+      "feeling": "steady",
+      "facts": [
+        "grace.f02",
+        "grace.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l03",
+      "date": "2025-09-08",
+      "what": "Cooks dinner at home with Lola Cora and watches the teleserye with her at 9.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Early night.",
+      "feeling": "calm",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l04",
+      "date": "2025-09-09",
+      "what": "Walks the Delgado Park loop after dinner, then runs Tuesday lunch lab makeups in B12 earlier in the day.",
+      "with": [],
+      "outcome": "Two students finish missed labs.",
+      "feeling": "tired but fine",
+      "facts": [
+        "grace.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l05",
+      "date": "2025-09-09",
+      "what": "Teaches the full day. Third period works through measurement stations with Dulce and Karina as lab partners.",
+      "with": [
+        "dulce",
+        "karina"
+      ],
+      "outcome": "Labs go smoothly.",
+      "feeling": "satisfied",
+      "facts": [
+        "grace.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l06",
+      "date": "2025-09-09",
+      "what": "Spends the evening at the kitchen table sorting lab supply receipts against the $900 budget.",
+      "with": [],
+      "outcome": "Roughly a third of the budget is already spent.",
+      "feeling": "worried about money",
+      "facts": [
+        "grace.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l07",
+      "date": "2025-09-10",
+      "what": "Teaches the day, then picks up Lola Cora's prescriptions at the Vinca Avenue drugstore after school as part of the every-other-Wednesday run.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Fills the pill organizer that night.",
+      "feeling": "dutiful",
+      "facts": [
+        "grace.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l08",
+      "date": "2025-09-10",
+      "what": "Co-advises Science Olympiad in B12 from 3:15 to 4:30.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Picks the event teams for the fall.",
+      "feeling": "engaged",
+      "facts": [
+        "grace.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l09",
+      "date": "2025-09-10",
+      "what": "Dinner with Isabel, Ramón and Lola Cora. Ramón is home between shifts.",
+      "with": [
+        "isabel",
+        "ramon",
+        "corazon"
+      ],
+      "outcome": "Quiet and pleasant.",
+      "feeling": "content",
+      "facts": [
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l10",
+      "date": "2025-09-11",
+      "what": "Eats lunch in B12 with Dana and listens to her vent about her principal evaluations.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Lunch ends with a laugh.",
+      "feeling": "relieved",
+      "facts": [
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l11",
+      "date": "2025-09-11",
+      "what": "Teaches periods 5 and 6, then grades Unit 1 quizzes in B12.",
+      "with": [],
+      "outcome": "Half the stack is done.",
+      "feeling": "busy",
+      "facts": [
+        "grace.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l12",
+      "date": "2025-09-11",
+      "what": "Evening at home grading and nagging Isabel about her essay outline.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Isabel goes to her room.",
+      "feeling": "irritated",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l13",
+      "date": "2025-09-12",
+      "what": "Last day of Unit 1. Grace fills out Ocampo's absence form by hand from the gradebook and mutters about forms for the forms. She tells Dana the principal is 'the dashboard'.",
+      "with": [
+        "dana",
+        "patricia"
+      ],
+      "outcome": "Submits it at 3:30 but asks the assistant to help make it faster.",
+      "feeling": "annoyed, compliant",
+      "facts": [
+        "grace.f18",
+        "grace.f58"
+      ],
+      "impressions": [
+        "grace.i07"
+      ]
+    },
+    {
+      "id": "grace.w3.l14",
+      "date": "2025-09-12",
+      "what": "Teaches the Unit 1 test review in third period.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Class ends with few questions.",
+      "feeling": "fine",
+      "facts": [
+        "grace.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l15",
+      "date": "2025-09-12",
+      "what": "Friday night at home with the teleserye and Lola Cora.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Falls asleep on the couch.",
+      "feeling": "worn out",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l16",
+      "date": "2025-09-13",
+      "what": "Shops at Ruiz Family Market and stops at Panadería Las Hermanas for rolls and conchas.",
+      "with": [],
+      "outcome": "Fridge is stocked for the week.",
+      "feeling": "routine",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l17",
+      "date": "2025-09-13",
+      "what": "Drives Isabel to the library for Harper's SAT prep. The Ridgeline hiring fair lines the road on Ruel.",
+      "with": [
+        "isabel",
+        "harper"
+      ],
+      "outcome": "Drops her off.",
+      "feeling": "fine",
+      "facts": [
+        "cast.f99"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l18",
+      "date": "2025-09-13",
+      "what": "Waters the calamansi and tomato pots and tidies the garage shelf of Ramón's Bronco parts.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Parts stay where they are.",
+      "feeling": "mildly exasperated",
+      "facts": [
+        "grace.f43",
+        "grace.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l19",
+      "date": "2025-09-14",
+      "what": "Attends Tagalog Mass at 9 with Lola Cora, then has lunch at home.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Home by noon.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f59"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w3.l20",
+      "date": "2025-09-14",
+      "what": "Grades at the kitchen table, then tells Isabel the family can cover at most $25,000 a year. She shuts down talk of a Colorado school after seeing its sticker price.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Isabel goes quiet. Grace starts gathering the 2024 tax documents from Manpreet's office.",
+      "feeling": "firm, anxious",
+      "facts": [
+        "grace.f45",
+        "grace.f49",
+        "grace.f29",
+        "grace.f12"
+      ],
+      "impressions": [
+        "grace.i04"
+      ]
+    },
+    {
+      "id": "grace.w3.l21",
+      "date": "2025-09-14",
+      "what": "Asks the assistant for a tuition comparison and adds columns for 'if Ramón gets hurt' and 'if Nanay needs a care facility'.",
+      "with": [],
+      "outcome": "Numbers look workable but she stays uneasy.",
+      "feeling": "fearful",
+      "facts": [
+        "grace.f45"
+      ],
+      "impressions": [
+        "grace.i02"
+      ]
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w3.n01",
+      "subject": "grace",
+      "attribute": "pen_preference",
+      "value": "grades quizzes only in green ink",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w3.n02",
+      "subject": "grace",
+      "attribute": "unit_1_test",
+      "value": "Unit 1 test review held Friday Sept 12 in third period",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w3.n03",
+      "subject": "grace",
+      "attribute": "lab_budget_spent",
+      "value": "about a third of the $900 lab budget spent by Sept 9",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w3.n04",
+      "subject": "isabel",
+      "attribute": "essay_status",
+      "value": "has only an outline for her main college essay",
+      "valid_from": "2025-09-11",
+      "valid_to": "2025-09-20",
+      "superseded_by": "grace.w4.n05",
+      "class": "useful"
+    },
+    {
+      "id": "grace.w3.n05",
+      "subject": "grace",
+      "attribute": "pantry_buy",
+      "value": "bought a dozen conchas at Panadería Las Hermanas on Sept 13",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

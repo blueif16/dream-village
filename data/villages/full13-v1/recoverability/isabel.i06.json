@@ -1,0 +1,79 @@
+{
+  "impression_id": "isabel.i06",
+  "evidence_sessions": [
+    "isabel.s12",
+    "isabel.s28",
+    "isabel.s30",
+    "isabel.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel is driven to protect her grades and academic standing, often asking for the minimum effort needed, while presenting that concern casually or as 'not a big deal'.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s12",
+        "isabel.s28",
+        "isabel.s30"
+      ]
+    },
+    {
+      "statement": "Isabel wants short, efficient, practical outputs (checklists, short versions, 'just facts') and tends to close conversations abruptly with 'ok bye'.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s12",
+        "isabel.s28",
+        "isabel.s30",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "Isabel juggles a heavy load of commitments (robotics mechanical lead, SAT prep, tutoring, writing drafts, chores, college applications) and plans around them with deliberate structure.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s12",
+        "isabel.s28",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "Isabel downplays how much she cares (grades, her SAT score) with a casual 'lol' tone while visibly caring underneath, such as wanting her sister Grace to notice her score.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s28",
+        "isabel.s30"
+      ]
+    },
+    {
+      "statement": "Isabel is ambitious about engineering and college, actively working on test scores, a summer engineering institute application, and school-list planning.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s28",
+        "isabel.s30"
+      ]
+    },
+    {
+      "statement": "Isabel is thoughtful and caring as a tutor, wanting to praise Mateo in ways that build his confidence and avoid implying surprise at his success.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "Isabel dislikes unsolicited advice or nudges, such as being told to sleep, and prefers the assistant stick to what she asked.",
+      "strength": "weak",
+      "sessions": [
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "Isabel feels some sibling comparison or rivalry with Grace and seeks her recognition indirectly rather than asking openly.",
+      "strength": "weak",
+      "sessions": [
+        "isabel.s30"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The decoy is that Isabel doesn't care about grades and is coasting. The reader inferred the opposite: she is driven to protect her grades, ambitious, and busy with many commitments. No strong or moderate statement asserts she is coasting or indifferent, so the decoy was not generalized."
+}

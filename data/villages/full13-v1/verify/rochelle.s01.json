@@ -1,0 +1,103 @@
+{
+  "session_id": "rochelle.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "owes her sister Keisha $300 borrowed for textbooks in August",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i owe my sister $300 she lent me for textbooks in August",
+      "support_quote": ""
+    },
+    {
+      "text": "hasn't told Andre about the debt",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i havent told my husband andre",
+      "support_quote": ""
+    },
+    {
+      "text": "has about $250 a month for books, parking and supplies",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have about 250 a month for books parking and supplies",
+      "support_quote": ""
+    },
+    {
+      "text": "Pell grant pending, fee waiver approved",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my pell grant is still pending, fee waiver got approved tho",
+      "support_quote": ""
+    },
+    {
+      "text": "has $250 a month budget for books, parking and supplies",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "$50 a month from your $250 leaves $200 for books, parking and supplies",
+      "support_quote": "i have about 250 a month for books parking and supplies so it has to fit inside that"
+    },
+    {
+      "text": "aid money is still pending",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "My aid money is still pending, so I can't pay yet.",
+      "support_quote": "my pell grant is still pending, fee waiver got approved tho"
+    },
+    {
+      "text": "owes $300 to her sister",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f47",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I haven't forgotten the $300.",
+      "support_quote": "i owe my sister $300 she lent me for textbooks in August"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f47",
+      "present": true,
+      "quote": "i owe my sister $300 she lent me for textbooks in August and i havent told my husband andre"
+    },
+    {
+      "item_id": "rochelle.f10",
+      "present": true,
+      "quote": "i have about 250 a month for books parking and supplies so it has to fit inside that"
+    },
+    {
+      "item_id": "rochelle.f12",
+      "present": true,
+      "quote": "my pell grant is still pending, fee waiver got approved tho"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

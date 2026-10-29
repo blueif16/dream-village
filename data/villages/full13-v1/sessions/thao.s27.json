@@ -1,0 +1,39 @@
+{
+  "id": "thao.s27",
+  "principal": "thao",
+  "start": "2025-10-19T17:07:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 5pm sunday. california RN license renewal, how does the portal use a driver's license number to verify identity and how do i fill the fields right"
+    },
+    {
+      "role": "assistant",
+      "text": "Generally, renewal portals use your driver's license or state ID to match you against government records, along with your name, date of birth and license number. Typical fields:\n\n- Legal name: exactly as on your RN license\n- Date of birth: MM/DD/YYYY\n- ID type: driver's license\n- ID number: letter and digits together, no spaces or dashes\n- Issuing state\n\nThe name and DOB must match your ID. Check the board's site for exact field names, since layouts change. Want the full step order?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. renewal is due dec 31 and i only have 18 of 30 CE hours so far. tomas is out with the truck so the apartment is quiet, want to do the form now before my mom's voicemails in vietnamese pile up and distract me again"
+    },
+    {
+      "role": "assistant",
+      "text": "Good time to do it. Sequence:\n\n1. Log in to the board's renewal portal.\n2. Verify identity (name, DOB, ID number).\n3. Confirm contact and address info.\n4. Answer the CE attestation. Most boards let you attest on the form and keep certificates on file for audit. Check whether you need all 30 hours before you submit.\n5. Finish your remaining 12 CE hours before Dec 31 (most boards accept online courses; confirm they're board-approved).\n6. Pay the fee and save the confirmation.\n\nSince the due date is Dec 31, I'd get the 12 hours done first, then submit. Want a quick plan for the 12 hours?"
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically the id field. my number is D4829175, how do i type it in so it doesnt get rejected"
+    },
+    {
+      "role": "assistant",
+      "text": "Type it exactly as printed on your license: the letter first, then the digits, all together, no spaces or dashes, in capital letters. Don't add leading zeros or extra characters.\n\nIf the portal rejects it:\n- Re-check for look-alike characters, like a zero versus the letter O\n- Confirm the ID type is set to driver's license\n- Make sure the license hasn't expired, since some portals check that\n\nIf it still fails, use the board's chat or email support rather than retrying repeatedly, which can lock the form."
+    },
+    {
+      "role": "user",
+      "text": "ok. can you give me the 12 hr plan, bullet it"
+    },
+    {
+      "role": "assistant",
+      "text": "- Confirm your board's CE rules: approved providers, topics required, deadline for completion\n- Pick 12 hours of approved online courses\n- Do about 2 hours a week, which finishes in about 6 weeks, well before Dec 31\n- Save each certificate in one folder\n- Complete the hours, then submit the renewal and save the confirmation\n- Keep your records for the period your board requires in case of audit"
+    }
+  ]
+}

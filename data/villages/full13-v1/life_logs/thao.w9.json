@@ -1,0 +1,351 @@
+{
+  "principal": "thao",
+  "week": 9,
+  "entries": [
+    {
+      "id": "thao.w9.l01",
+      "date": "2025-10-20",
+      "what": "Monday night shift on 4 West ran 1:7 with two call-outs; Thao and Jasmine split the sickest patients and Maribel stayed late on the floor. Around 5 a.m. Thao drafted a calm incident summary for Maribel.",
+      "with": [
+        "maribel",
+        "jasmine"
+      ],
+      "outcome": "Incident summary written without complaints, and she decided she is voting yes.",
+      "feeling": "steady but fed up",
+      "facts": [
+        "thao.f16",
+        "thao.f50",
+        "thao.f03"
+      ],
+      "impressions": [
+        "thao.i03"
+      ]
+    },
+    {
+      "id": "thao.w9.l02",
+      "date": "2025-10-20",
+      "what": "Got home to unit 207 as Tomás left for work, ate rice and eggs, and slept 8:30 to 3 behind the blackout curtains and box fan.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "Slept through one of Hạnh's 1 p.m. voicemails.",
+      "feeling": "wrecked",
+      "facts": [
+        "thao.f06",
+        "thao.f45",
+        "thao.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l03",
+      "date": "2025-10-20",
+      "what": "Passed Judith in the hallway carrying a tote bag into 209, the first day she is staying weekdays with Elliot and Theo.",
+      "with": [
+        "judith"
+      ],
+      "outcome": "Exchanged a quick hello and went back to packing her shift bag.",
+      "feeling": "neutral",
+      "facts": [
+        "cast.f73"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l04",
+      "date": "2025-10-21",
+      "what": "Tuesday night shift: a quiet start, then the ratio improved with a float aide. Rubén's sheet saved time on charting.",
+      "with": [
+        "ruben"
+      ],
+      "outcome": "Got through the night without incident.",
+      "feeling": "relieved",
+      "facts": [
+        "thao.f49",
+        "thao.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l05",
+      "date": "2025-10-21",
+      "what": "Morning sleep, then an afternoon grocery run to Ruiz Family Market for fish sauce and produce.",
+      "with": [],
+      "outcome": "Stocked the fridge, including Tomás's shelf.",
+      "feeling": "practical",
+      "facts": [
+        "thao.f33",
+        "thao.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l06",
+      "date": "2025-10-21",
+      "what": "Walked the Ulloa marsh boardwalk loop before leaving for work, then took the nurse shuttle from the gravel lot.",
+      "with": [],
+      "outcome": "A little calm before the shift.",
+      "feeling": "calm",
+      "facts": [
+        "thao.f30",
+        "thao.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l07",
+      "date": "2025-10-22",
+      "what": "Day off. Slept in, did laundry with the card-only machines and reloaded $20.",
+      "with": [],
+      "outcome": "Clean scrubs for the week.",
+      "feeling": "rested",
+      "facts": [
+        "thao.f34",
+        "thao.f42"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l08",
+      "date": "2025-10-22",
+      "what": "Texted Jasmine about the next day's vote and Terrence's reminder flyer.",
+      "with": [
+        "jasmine",
+        "terrence"
+      ],
+      "outcome": "Confirmed she will vote at the hospital after sleeping.",
+      "feeling": "resolved",
+      "facts": [
+        "thao.f52",
+        "thao.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l09",
+      "date": "2025-10-22",
+      "what": "Evening at home; Tomás made a giant pot of chili and left the pot soaking.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "She ate two bowls and let the pot go until morning.",
+      "feeling": "amused, tired",
+      "facts": [
+        "thao.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l10",
+      "date": "2025-10-23",
+      "what": "Went to St. Anselm in the afternoon and voted yes in the nurses union election, past Maribel and Terrence handing out stickers.",
+      "with": [
+        "maribel",
+        "terrence"
+      ],
+      "outcome": "Vote cast, no fanfare.",
+      "feeling": "resolved",
+      "facts": [
+        "thao.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l11",
+      "date": "2025-10-23",
+      "what": "Stopped by Phở Bến Thành with Jasmine to trade vote talk and a shift swap request.",
+      "with": [
+        "jasmine"
+      ],
+      "outcome": "Swap settled by text.",
+      "feeling": "relieved",
+      "facts": [
+        "thao.f47",
+        "thao.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l12",
+      "date": "2025-10-23",
+      "what": "Early evening quiet at home with earplugs in against noise through the wall from 209.",
+      "with": [],
+      "outcome": "Napped an hour.",
+      "feeling": "drained",
+      "facts": [
+        "thao.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l13",
+      "date": "2025-10-24",
+      "what": "Friday night shift on 4 West, with union talk in the break room and the homecoming game traffic noise outside.",
+      "with": [
+        "maribel",
+        "ruben"
+      ],
+      "outcome": "Steadier staffing and a calm night.",
+      "feeling": "tired but good",
+      "facts": [
+        "thao.f03",
+        "thao.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l14",
+      "date": "2025-10-24",
+      "what": "Home at 8, slept until mid-afternoon, then texted Linh a quick check-in about midterms wrapping up.",
+      "with": [
+        "linh"
+      ],
+      "outcome": "Linh said she was fine.",
+      "feeling": "protective",
+      "facts": [
+        "thao.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l15",
+      "date": "2025-10-24",
+      "what": "Evening brushing teeth and packing a thermos of cà phê sữa đá for the next shift.",
+      "with": [],
+      "outcome": "Ready for the weekend.",
+      "feeling": "routine",
+      "facts": [
+        "thao.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l16",
+      "date": "2025-10-25",
+      "what": "After a night of voicemails piling up with Hạnh's messages in Vietnamese, Thao asked the assistant for a greeting saying please text me, I work nights, and turned voicemail off.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Voicemail replaced with a text me greeting.",
+      "feeling": "lighter",
+      "facts": [
+        "thao.f13",
+        "thao.f12",
+        "thao.f51"
+      ],
+      "impressions": [
+        "thao.i01"
+      ]
+    },
+    {
+      "id": "thao.w9.l17",
+      "date": "2025-10-25",
+      "what": "Slept the afternoon, then replied to Terrence with a thumbs-up text.",
+      "with": [
+        "terrence"
+      ],
+      "outcome": "Handled by text.",
+      "feeling": "satisfied",
+      "facts": [
+        "thao.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l18",
+      "date": "2025-10-25",
+      "what": "Evening cooking rice and packing leftovers for the shift.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "Tomás washed the pot.",
+      "feeling": "content",
+      "facts": [
+        "thao.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l19",
+      "date": "2025-10-26",
+      "what": "Sunday sleep-in after the night, then watered pothos and the struggling basil on the balcony.",
+      "with": [],
+      "outcome": "Basil still alive.",
+      "feeling": "quiet",
+      "facts": [
+        "thao.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l20",
+      "date": "2025-10-26",
+      "what": "Texted Hạnh about Sunday dinner instead of calling.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Dinner plan confirmed over text.",
+      "feeling": "fine",
+      "facts": [
+        "thao.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w9.l21",
+      "date": "2025-10-26",
+      "what": "Ate a late dinner with Tomás and rewatched the baking show to fall asleep.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "Asleep by 10.",
+      "feeling": "cozy",
+      "facts": [
+        "thao.f32"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "thao.w9.n01",
+      "subject": "thao",
+      "attribute": "union_sticker",
+      "value": "kept the 'I voted' union sticker on her badge reel",
+      "valid_from": "2025-10-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w9.n02",
+      "subject": "thao",
+      "attribute": "voicemail_greeting",
+      "value": "recorded greeting: please text me, I work nights",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.w9.n03",
+      "subject": "thao",
+      "attribute": "weekend_plan",
+      "value": "Sunday dinner at Hạnh's confirmed by text",
+      "valid_from": "2025-10-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.w9.n04",
+      "subject": "jasmine",
+      "attribute": "swap_request",
+      "value": "asked Thao to swap a shift the following week",
+      "valid_from": "2025-10-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

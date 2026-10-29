@@ -1,0 +1,81 @@
+{
+  "impression_id": "isabel.i05",
+  "evidence_sessions": [
+    "isabel.s05",
+    "isabel.s14",
+    "isabel.s26",
+    "isabel.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel is a conscientious, caring tutor who puts real thought into helping a discouraged 7th grader, Mateo, by asking for gentle, non-cheesy ways to build his confidence and to praise him without sounding surprised.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s05",
+        "isabel.s14",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She keeps exchanges short and efficient, asking for brevity, declining extras, and ending with a quick 'ok bye' once she has what she needs.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s05",
+        "isabel.s14",
+        "isabel.s26",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She prefers blunt, unpadded feedback and facts over emotional or unsolicited advice, asking the assistant to 'be brutal' and to give 'just facts' when it brought up sleep.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s14",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She is wary of cheesy, scripted or insincere-sounding language and wants wording that sounds natural and sincere, whether in a text to a rival or in encouragement for a kid.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s14",
+        "isabel.s26",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She is self-conscious about how she comes across to a crush, hiding her feelings behind a competitive, businesslike tone and checking whether she is trying too hard.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s14"
+      ]
+    },
+    {
+      "statement": "She is an engaged birder and community volunteer who runs outreach for kids, such as a library egret table and a bird count, and wants the science accurate.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s26"
+      ]
+    },
+    {
+      "statement": "She is a high-school student with a heavy workload (AP Chem, robotics team, a 'snow list' task) who works late at night and uses practice to follow up on missed test material.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s05",
+        "isabel.s14",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She cares about getting things exactly right for the audience or authority involved, such as matching her teacher's method and having her chemistry-teaching mother find a fact accurate.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s26",
+        "isabel.s43"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "Isabel is a conscientious, caring tutor who puts real thought into helping a discouraged 7th grader, Mateo, by asking for gentle, non-cheesy ways to build his confidence and to praise him without sounding surprised.",
+  "rationale": "The first statement shows Isabel caring and thoughtful with a discouraged 7th grader, but it does not capture the core pattern of patience and tenderness with younger kids that contrasts with how she treats family. Nothing in the list mentions that contrast or her treatment of family. The outreach-for-kids statement is only about volunteering and accuracy, not tenderness."
+}

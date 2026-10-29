@@ -1,0 +1,108 @@
+{
+  "session_id": "linh.s65",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "earns $19.25 an hour closer pay at Heron & Grind",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its my $19.25 an hour closer pay from heron & grind",
+      "support_quote": ""
+    },
+    {
+      "text": "helps at Lotus Nails 2-5",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i help at lotus nails 2-5",
+      "support_quote": ""
+    },
+    {
+      "text": "her routing number is 121042882 at a credit union checking account",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.w10.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my routing number is 121042882, its a credit union checking account",
+      "support_quote": ""
+    },
+    {
+      "text": "has a checking account",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f42",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Checking, since you said it's a checking account.",
+      "support_quote": "its a credit union checking account"
+    },
+    {
+      "text": "pay is hourly plus tips",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since your pay is hourly plus tips",
+      "support_quote": "its my $19.25 an hour closer pay from heron & grind"
+    },
+    {
+      "text": "works at a nail salon",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck at the nail salon!",
+      "support_quote": "i help at lotus nails 2-5"
+    },
+    {
+      "text": "wants a structured short checklist",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yes pls bullets",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.w10.ns01",
+      "present": true,
+      "quote": "my routing number is 121042882, its a credit union checking account"
+    },
+    {
+      "item_id": "linh.f06",
+      "present": true,
+      "quote": "its my $19.25 an hour closer pay from heron & grind"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "i gotta finish soon bc i help at lotus nails 2-5"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "my routing number is 121042882, its a credit union checking account",
+      "assistant_quote": ""
+    }
+  ]
+}

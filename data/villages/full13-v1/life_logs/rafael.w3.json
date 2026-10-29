@@ -1,0 +1,300 @@
+{
+  "principal": "rafael",
+  "week": 3,
+  "entries": [
+    {
+      "id": "rafael.w3.l01",
+      "date": "2025-09-08",
+      "what": "Rafael has brakes lab at Tamsen Valley College from 8 to 11, then helps Gladys pick up masa supplies at Ruiz Family Market, where Chuy gives the family price on pork shoulder.",
+      "with": [
+        "gladys",
+        "chuy"
+      ],
+      "outcome": "Supplies stocked for the weekend stand.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f02",
+        "rafael.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l02",
+      "date": "2025-09-08",
+      "what": "Evening pickup soccer at Delgado Park, then he watches engine teardown videos in bed on his cracked phone at 20% battery.",
+      "with": [],
+      "outcome": "Went to bed near midnight.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f33",
+        "rafael.f32",
+        "rafael.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l03",
+      "date": "2025-09-09",
+      "what": "Engine performance with Salas from 1 to 4; Dante pitches his Tuesday salvage auction picks again during the lab break.",
+      "with": [
+        "roberto",
+        "dante"
+      ],
+      "outcome": "Rafael says he will think about it.",
+      "feeling": "tempted but wary",
+      "facts": [
+        "rafael.f02",
+        "rafael.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l04",
+      "date": "2025-09-09",
+      "what": "Fills the Tacoma at the Ruel Road station for about $50 and drives home along Pell Road, then studies G1 chapter headings for the first practice quiz.",
+      "with": [],
+      "outcome": "Planned to take the quiz Wednesday.",
+      "feeling": "a bit nervous",
+      "facts": [
+        "rafael.f34",
+        "rafael.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l05",
+      "date": "2025-09-10",
+      "what": "Brakes lab in the morning, then takes the first G1 practice quiz on his laptop at the school library and scores 58%. He blanked and changed three right answers to wrong ones.",
+      "with": [],
+      "outcome": "Score 58%; well below the 70% he needs.",
+      "feeling": "frustrated, embarrassed",
+      "facts": [
+        "rafael.f17",
+        "rafael.f16"
+      ],
+      "impressions": [
+        "rafael.i03"
+      ]
+    },
+    {
+      "id": "rafael.w3.l06",
+      "date": "2025-09-10",
+      "what": "Late morning he texts the assistant a refrigerant handling question from the quiz, saying he knows it on the car but not in the words.",
+      "with": [],
+      "outcome": "Got a short plain-language explanation.",
+      "feeling": "relieved, still annoyed",
+      "facts": [
+        "rafael.f17"
+      ],
+      "impressions": [
+        "rafael.i02"
+      ]
+    },
+    {
+      "id": "rafael.w3.l07",
+      "date": "2025-09-10",
+      "what": "Eats a quiet dinner at home with Oscar and Gladys, who ask how class went. He says fine and does not mention the score.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Kept the score to himself.",
+      "feeling": "quiet, tense",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l08",
+      "date": "2025-09-11",
+      "what": "Asks the assistant for help wording a request to reschedule a brakes-lab makeup so it will not collide with his Thursday stand shift.",
+      "with": [],
+      "outcome": "Drafted a short message to the instructor.",
+      "feeling": "guilty, practical",
+      "facts": [
+        "rafael.f08"
+      ],
+      "impressions": [
+        "rafael.i01"
+      ]
+    },
+    {
+      "id": "rafael.w3.l09",
+      "date": "2025-09-11",
+      "what": "Engine performance with Salas from 1 to 4, then helps Oscar load the canopy and generator for the Thursday stand.",
+      "with": [
+        "roberto",
+        "oscar"
+      ],
+      "outcome": "Stand set up on time.",
+      "feeling": "busy",
+      "facts": [
+        "rafael.f02",
+        "rafael.f10",
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l10",
+      "date": "2025-09-11",
+      "what": "Runs the griddle through the evening stand shift and teardown, home late.",
+      "with": [
+        "gladys",
+        "oscar"
+      ],
+      "outcome": "Good sales; Gladys logs them in the green notebook.",
+      "feeling": "tired but fine",
+      "facts": [
+        "rafael.f10",
+        "rafael.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l11",
+      "date": "2025-09-12",
+      "what": "Skips nothing in the morning but sleeps badly; he reviews flashcard notes between classes and has lunch at the college.",
+      "with": [],
+      "outcome": "Got through the day.",
+      "feeling": "distracted",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l12",
+      "date": "2025-09-12",
+      "what": "Works the Friday stand evening, then at 9 p.m. picks up Dulce from Taquería Colima and drives her home to Marisol Gardens.",
+      "with": [
+        "dulce",
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Dulce home safely on time.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f25",
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l13",
+      "date": "2025-09-13",
+      "what": "Sees the Ridgeline hiring fair line on Ruel Road while driving to the stand and honks at a friend in it, but does not stop.",
+      "with": [],
+      "outcome": "Kept going to the market prep.",
+      "feeling": "glad it isn't him",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l14",
+      "date": "2025-09-13",
+      "what": "Saturday stand shift with Ximena helping; she asks if he has thought about the shop dream.",
+      "with": [
+        "ximena",
+        "gladys"
+      ],
+      "outcome": "He shrugs it off and changes the subject.",
+      "feeling": "pressured, fond",
+      "facts": [
+        "cast.f94",
+        "rafael.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l15",
+      "date": "2025-09-13",
+      "what": "Teardown at night and bed past midnight.",
+      "with": [],
+      "outcome": "Tired.",
+      "feeling": "worn out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l16",
+      "date": "2025-09-14",
+      "what": "Sunday market stand at Delgado Park from 8 to 2, with Luz selling elotes nearby.",
+      "with": [
+        "oscar",
+        "gladys",
+        "luz"
+      ],
+      "outcome": "Sold out of revueltas early.",
+      "feeling": "satisfied",
+      "facts": [
+        "rafael.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l17",
+      "date": "2025-09-14",
+      "what": "Afternoon nap, then a family dinner at home.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Rested for the new week.",
+      "feeling": "calm",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w3.l18",
+      "date": "2025-09-14",
+      "what": "Plans to retry the G1 material and looks up flashcard ideas before bed.",
+      "with": [],
+      "outcome": "No plan set yet.",
+      "feeling": "resolved but uneasy",
+      "facts": [
+        "rafael.f19"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w3.n01",
+      "subject": "rafael",
+      "attribute": "phone_charger",
+      "value": "keeps a spare charger cable in the Tacoma glovebox",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w3.n02",
+      "subject": "rafael",
+      "attribute": "quiz_habit",
+      "value": "takes practice quizzes on his laptop at the school library",
+      "valid_from": "2025-09-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w3.n03",
+      "subject": "rafael",
+      "attribute": "brakes_makeup",
+      "value": "asked to move brakes-lab makeup away from Thursday stand shift",
+      "valid_from": "2025-09-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w3.n04",
+      "subject": "rafael",
+      "attribute": "saturday_help",
+      "value": "Ximena helped at the stand Saturday and asked about his shop dream",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

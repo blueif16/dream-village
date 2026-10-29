@@ -1,0 +1,366 @@
+{
+  "principal": "grace",
+  "week": 4,
+  "entries": [
+    {
+      "id": "grace.w4.l01",
+      "date": "2025-09-15",
+      "what": "Grace arrives in B12 at 7:20 and teaches periods 1, 2 and 3, then spends prep building a spreadsheet template that auto-flags students with 3+ absences, replacing her hand-filled Friday form.",
+      "with": [],
+      "outcome": "Template works after one broken formula cell is fixed; she sends it to Dana but not to Principal Ocampo.",
+      "feeling": "satisfied but grumbling",
+      "facts": [
+        "grace.f18",
+        "grace.f19",
+        "grace.f02",
+        "grace.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l02",
+      "date": "2025-09-15",
+      "what": "At lunch in B12 with Dana, Grace shows her the absence template and vents about forms for the forms.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Dana asks for a copy and gets it.",
+      "feeling": "wry",
+      "facts": [
+        "grace.f50",
+        "grace.f14",
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l03",
+      "date": "2025-09-15",
+      "what": "That evening Grace pastes the one failing formula cell into the assistant with only the word 'fix', then teaches the corrected version to herself.",
+      "with": [],
+      "outcome": "The corrected formula flags the right students.",
+      "feeling": "impatient, then relieved",
+      "facts": [
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l04",
+      "date": "2025-09-15",
+      "what": "After dinner she watches the teleserye with Lola Cora at 9.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Quiet end to the day.",
+      "feeling": "tired, calm",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l05",
+      "date": "2025-09-16",
+      "what": "Teaches five sections of Unit 2 atomic structure; period 5 runs a quick lab on atomic models.",
+      "with": [],
+      "outcome": "Lab finishes on time with the budget intact.",
+      "feeling": "focused",
+      "facts": [
+        "grace.f24",
+        "grace.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l06",
+      "date": "2025-09-16",
+      "what": "Eats leftover rice and ulam in B12 during prep and runs Eli's extended-time test there.",
+      "with": [
+        "eli"
+      ],
+      "outcome": "Eli finishes the test in the allotted time.",
+      "feeling": "steady",
+      "facts": [
+        "grace.f55",
+        "grace.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l07",
+      "date": "2025-09-16",
+      "what": "Grace hears from the school grapevine that St. Anselm went live with its new charting system, where Yesenia works, and texts Ramón about the week's dinner plans.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Ramón is on shift tomorrow; Grace covers dinner.",
+      "feeling": "mildly distracted",
+      "facts": [
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l08",
+      "date": "2025-09-17",
+      "what": "Regular teaching day; Grace has Science Olympiad meeting in B12 from 3:15 to 4:30.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Students pick lab events for the season.",
+      "feeling": "busy",
+      "facts": [
+        "grace.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l09",
+      "date": "2025-09-17",
+      "what": "After the meeting she picks up Lola Cora's prescriptions at the Vinca Avenue drugstore.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Pills handed over at home; Grace checks the pill organizer.",
+      "feeling": "dutiful",
+      "facts": [
+        "grace.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l10",
+      "date": "2025-09-17",
+      "what": "Cooks dinner for Isabel and Lola Cora while Ramón is at dispatch.",
+      "with": [
+        "isabel",
+        "corazon"
+      ],
+      "outcome": "Dinner is quiet, with a short argument about phone use.",
+      "feeling": "short-tempered",
+      "facts": [
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l11",
+      "date": "2025-09-18",
+      "what": "Grace eats lunch with Dana in B12, as on every Thursday, and sorts out lab supplies for next week's density lab.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Lists what she can buy under budget.",
+      "feeling": "thrifty",
+      "facts": [
+        "grace.f50",
+        "grace.f16",
+        "grace.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l12",
+      "date": "2025-09-18",
+      "what": "Teaches periods 5 and 6 and returns graded atomic-structure quizzes.",
+      "with": [],
+      "outcome": "Third-period scores are middling.",
+      "feeling": "concerned",
+      "facts": [
+        "grace.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l13",
+      "date": "2025-09-18",
+      "what": "Evening: watches the teleserye with Lola Cora and checks Isabel's door light at 11.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "Isabel still up writing.",
+      "feeling": "tired",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l14",
+      "date": "2025-09-19",
+      "what": "Teaches all day, and Dulce's third period starts with a warm-up on atomic models.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Dulce participates quietly.",
+      "feeling": "steady",
+      "facts": [
+        "cast.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l15",
+      "date": "2025-09-19",
+      "what": "At 3:30 Grace submits the Friday form using her new auto-flagging spreadsheet.",
+      "with": [],
+      "outcome": "Takes ten minutes instead of an hour.",
+      "feeling": "quietly pleased",
+      "facts": [
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l16",
+      "date": "2025-09-19",
+      "what": "Walks home, then spends the evening resting with Lola Cora.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Early night.",
+      "feeling": "relieved",
+      "facts": [
+        "grace.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l17",
+      "date": "2025-09-20",
+      "what": "Saturday groceries at Ruiz Family Market, then conchas and rolls from Panadería Las Hermanas, which is busy because of the Calle Ortega Street Fair.",
+      "with": [],
+      "outcome": "Parking is a mess, so she skips the fair itself.",
+      "feeling": "hurried",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l18",
+      "date": "2025-09-20",
+      "what": "Spends the afternoon weeding the calamansi and tomato pots in the backyard.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Lola Cora supervises from a chair.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l19",
+      "date": "2025-09-20",
+      "what": "Isabel comes home after a Saturday SAT prep session with Harper, and Grace asks about her essay draft.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Isabel says the draft is not done, and the talk ends tersely.",
+      "feeling": "tense",
+      "facts": [
+        "cast.f99"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l20",
+      "date": "2025-09-21",
+      "what": "Attends Tagalog Mass at 9 with Lola Cora, then Sunday lunch with sinigang.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Lola Cora seems fine.",
+      "feeling": "content",
+      "facts": [
+        "grace.f59",
+        "cast.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l21",
+      "date": "2025-09-21",
+      "what": "Driving the van on Ruel Road it stalls, and it is towed; the shop quotes $2,600 for repair.",
+      "with": [],
+      "outcome": "Van is left at the shop, and she borrows Ramón's truck.",
+      "feeling": "dismayed",
+      "facts": [
+        "grace.f07",
+        "grace.f65"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w4.l22",
+      "date": "2025-09-21",
+      "what": "Grading at the kitchen table, Grace grants a student a lab extension without question, then asks the assistant to confirm that Isabel missing an essay draft deadline shows a pattern.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "She writes a reminder note about the draft.",
+      "feeling": "worried, irritable",
+      "facts": [
+        "grace.f12",
+        "grace.f25"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w4.n01",
+      "subject": "grace",
+      "attribute": "borrowed_vehicle",
+      "value": "drives Ramón's truck while the van is in the shop",
+      "valid_from": "2025-09-21",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w4.n02",
+      "subject": "dana",
+      "attribute": "template_copy",
+      "value": "received Grace's absence spreadsheet template",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w4.n03",
+      "subject": "grace",
+      "attribute": "third_period_quiz",
+      "value": "third-period atomic structure quiz scores were middling",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w4.n04",
+      "subject": "grace",
+      "attribute": "repair_quote",
+      "value": "van repair quote is $2,600",
+      "valid_from": "2025-09-21",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w4.n05",
+      "subject": "isabel",
+      "attribute": "essay_status",
+      "value": "college essay draft is overdue",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

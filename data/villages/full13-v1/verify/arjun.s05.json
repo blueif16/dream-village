@@ -1,0 +1,338 @@
+{
+  "session_id": "arjun.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Arjun jokes to deflect about the heat wave",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "heat wave is a free sauna with my commute and now im negotiating from a puddle",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun shares unit 132 with a roommate",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "in for the unit 132 fan fund?",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun has a tight food budget",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "$20 is about what my food budget can take this month tbh",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is up late at 11:40 as usual",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its 11:40 and ill be up anyway lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun's budget is limited this month",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "$20 is about what my budget can handle this month",
+      "support_quote": "$20 is about what my food budget can take this month tbh"
+    },
+    {
+      "text": "Arjun has a roommate to share the apartment fan",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "we split a $20 box fan ($10 each) for the apartment",
+      "support_quote": "in for the unit 132 fan fund?"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.i04",
+      "present": true,
+      "quote": "heat wave is a free sauna with my commute and now im negotiating from a puddle"
+    },
+    {
+      "item_id": "arjun.f05",
+      "present": true,
+      "quote": "in for the unit 132 fan fund?"
+    },
+    {
+      "item_id": "arjun.f31",
+      "present": true,
+      "quote": "$20 is about what my food budget can take this month tbh"
+    },
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "its 11:40 and ill be up anyway lol"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

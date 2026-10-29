@@ -1,0 +1,47 @@
+{
+  "id": "jun.s44",
+  "principal": "jun",
+  "start": "2025-11-17T21:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait numbers stuff question lol. im taking frozen lumpia preorders for thanksgiving pickup on nov 26 and i need to know what to collect for sales tax. like explain like im tired. i kinda put the tax part off 😅 no forms yet pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Short version, and a caveat: rules depend on your state and the type of food, so check your state tax agency's site for the final word.\n\nIn most US states:\n- Groceries (food meant to be cooked or eaten at home) are often exempt from sales tax. Frozen, uncooked-at-pickup food usually counts as groceries.\n- Hot, ready-to-eat food, or food sold for eating on the spot, is usually taxable.\n- Some states tax grocery food anyway, or tax it at a lower rate.\n\nSo frozen lumpia that customers take home and reheat is *often* not taxed, but it varies. Which state are you in? I can be more specific, and I can tell you what to look up."
+    },
+    {
+      "role": "user",
+      "text": "california. alcaraz flats, bay area ish. sold them fried hot at a market stall before tho, and the frozen ones are for pickup"
+    },
+    {
+      "role": "assistant",
+      "text": "That distinction matters in California:\n\n- Hot prepared food (fried and handed over hot) is generally taxable.\n- Cold food sold to take home, including frozen items, is generally exempt as a food product. Cold food is usually exempt unless it's sold for consumption on your premises.\n\nSo for the Nov 26 frozen preorders, you most likely collect no sales tax, as long as they're sold frozen and cold. If you also sell any hot ones at pickup, those would be taxable.\n\nTwo things to confirm: whether you need a seller's permit from the California tax agency (CDTFA), which sellers of taxable items usually need, and what applies to your setup. Their site has a free helpline and a tax guide for food sellers. Since you're selling at all, it's worth a quick call or look so you're sure."
+    },
+    {
+      "role": "user",
+      "text": "ok sige that helps. i just bought pork and shrimp and wrapper cases at ruiz family market and kept the receipts for the totals. do i need those for this"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, keep them. Receipts for ingredients matter more for your income tax and profit tracking than for sales tax, but they're also your proof of costs if anyone asks.\n\nFor the preorders, track:\n- Ingredient costs (from your receipts)\n- Number of orders and total sales\n- Which items were sold hot vs. cold/frozen\n- Whether any tax was collected, if so how much\n\nWant this as a short checklist?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yes, bullet list. i have a shared sheet i log everything in, linh set it up, so i'll need to add whatever rule applies there"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a version you can copy into your shared sheet:\n\n**Thanksgiving preorder tax notes**\n- Frozen/cold lumpia sold for pickup on Nov 26: generally not taxable in California (food product, not consumed on-site)\n- Hot or freshly fried lumpia sold hot: generally taxable\n- Log each order: date, item, hot or frozen, amount, tax collected (if any)\n- Log ingredient receipts in your ingredients tab\n- To do: check with CDTFA about a seller's permit and confirm the rule for your case\n\nThat's the short version. Anything else to adjust?"
+    },
+    {
+      "role": "user",
+      "text": "nope thats perfect, thanks boss 🔥🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime! Good luck with the preorders. 🥢"
+    }
+  ]
+}

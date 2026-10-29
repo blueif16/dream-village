@@ -1,0 +1,3242 @@
+{
+  "people": [
+    {
+      "id": "isabel",
+      "name": "Isabel Tolentino",
+      "tier": "principal",
+      "age": 16,
+      "role": "junior at Alcaraz Flats High applying to colleges",
+      "summary": "Isabel is a Flats High junior with a 4.1 GPA who wants to study environmental engineering as far from Alcaraz Flats as she can get, ideally somewhere with snow. She fights with her mother Grace, who teaches chemistry down the hall, about essays, curfew and whether out-of-state tuition is fantasy. She writes furious, polished drafts at midnight and then can't bring herself to hit submit. She says she hates the town but volunteers every November at the marsh park counting egrets.",
+      "traits": [
+        "driven and perfectionist",
+        "sarcastic with family, gentle with little kids",
+        "procrastinates on what matters most",
+        "secretly sentimental about the marsh"
+      ]
+    },
+    {
+      "id": "dulce",
+      "name": "Dulce Henríquez",
+      "tier": "principal",
+      "age": 15,
+      "role": "sophomore at Alcaraz Flats High, part-time counter worker at Taquería Colima",
+      "summary": "Dulce is a Flats High sophomore in Ms. Tolentino's chemistry class who just got her first job taking orders at Taquería Colima on Calle Ortega. Her friend group split in September after Brianna's breakup, and both sides expect Dulce to choose. She is proud of her first paychecks and saving for a used phone, yet spends half of each one on boba for friends. She is close to her cousin Rafael, who drives her home from late shifts.",
+      "traits": [
+        "people-pleaser",
+        "quick with numbers at the register",
+        "anxious about being left out",
+        "funny in group chats"
+      ]
+    },
+    {
+      "id": "linh",
+      "name": "Linh Pham",
+      "tier": "principal",
+      "age": 19,
+      "role": "Tamsen Valley College student, barista at Heron & Grind",
+      "summary": "Linh is in her second year at Tamsen Valley College taking anatomy and chemistry toward a possible nursing transfer, and she pulls shots at Heron & Grind four days a week. Her older sister Thao is a night nurse, which makes nursing feel both obvious and suffocating. She keeps meticulous color-coded notes but forgets to eat lunch. She tells her mother she is sure about pharmacy when she isn't sure about anything.",
+      "traits": [
+        "organized planner",
+        "avoids conflict",
+        "coffee snob",
+        "quietly competitive"
+      ]
+    },
+    {
+      "id": "arjun",
+      "name": "Arjun Sandhu",
+      "tier": "principal",
+      "age": 20,
+      "role": "junior in logistics management at Bayshore State, Tamsen campus",
+      "summary": "Arjun is a logistics management junior who rides the Tule Line every morning and is applying to every supply-chain internship he can find for summer 2026. He shares a Marisol Gardens two-bedroom with Marcus. He keeps a spreadsheet of 63 applications but freezes in phone screens. He lectures his roommate about sleep while staying up until 2 a.m. tweaking his resume.",
+      "traits": [
+        "methodical",
+        "nervous interviewer",
+        "loyal roommate",
+        "overcommits to clubs",
+        "dry humor"
+      ]
+    },
+    {
+      "id": "marcus",
+      "name": "Marcus Bell",
+      "tier": "principal",
+      "age": 19,
+      "role": "sophomore at Bayshore State, night-shift picker at Ridgeline RF-4",
+      "summary": "Marcus is a Bayshore State sophomore studying kinesiology who works Ridgeline nights to cover rent and help his mom after her hours were cut. He sleeps from 8 a.m. to 1 p.m. and attends afternoon sections half-awake. He is easygoing with everyone at work but bristles when Arjun gives advice. He spends carefully on everything except sneakers.",
+      "traits": [
+        "easygoing",
+        "chronically tired",
+        "protective of his mom",
+        "sneaker splurger"
+      ]
+    },
+    {
+      "id": "rafael",
+      "name": "Rafael Henríquez",
+      "tier": "principal",
+      "age": 19,
+      "role": "automotive technology student at Tamsen Valley College, helps run the family pupusa stand",
+      "summary": "Rafael is in Tamsen Valley's automotive technology program and lives with his parents, working the family's Pupusería Henríquez stand Thursday to Sunday. He can diagnose a misfire by ear but struggles with the written ASE practice tests. He wants to open his own shop someday yet feels guilty imagining leaving the stand. He is the family's unofficial driver for cousins, including Dulce.",
+      "traits": [
+        "hands-on fixer",
+        "dutiful son",
+        "test anxiety",
+        "generous with rides"
+      ]
+    },
+    {
+      "id": "thao",
+      "name": "Thao Pham",
+      "tier": "principal",
+      "age": 27,
+      "role": "night-shift RN on 4 West at St. Anselm Valley Medical Center",
+      "summary": "Thao works three 12-hour nights a week on 4 West at St. Anselm and is dreading the September charting go-live. She lives at Marisol Gardens unit 207, and her boyfriend Tomás moved in this October. She is unflappable at a code but lets voicemails pile up for weeks. She mothers Linh more than their actual mother does and is torn about the union vote.",
+      "traits": [
+        "calm under pressure",
+        "avoids phone calls",
+        "protective older sister",
+        "sleep-deprived",
+        "practical"
+      ]
+    },
+    {
+      "id": "noemi",
+      "name": "Noemi Castillo",
+      "tier": "principal",
+      "age": 26,
+      "role": "IT support technician on the Ridgeline RF-4 help desk",
+      "summary": "Noemi fixes handheld scanners, badge readers and frozen laptops on Ridgeline's on-site IT desk, and knows half the night shift, including Marcus, by their broken devices. She is studying for a network certification on weekends. She preaches password hygiene but reuses one password for everything personal. When her lead Greg left in October she started doing his job without the title.",
+      "traits": [
+        "patient explainer",
+        "secretly ambitious",
+        "gamer",
+        "impatient with management"
+      ]
+    },
+    {
+      "id": "jun",
+      "name": "Jun Villanueva",
+      "tier": "principal",
+      "age": 25,
+      "role": "barista at Heron & Grind starting a lumpia pop-up business",
+      "summary": "Jun has worked the espresso bar at Heron & Grind for three years and is launching Lola's Roll, a lumpia pop-up with his friend Paolo using his mother's recipe. He's chasing a cottage food permit and commissary time. He is charming with customers but terrified of spreadsheets and taxes. He trains Linh on latte art and borrows her calculator brain.",
+      "traits": [
+        "charismatic",
+        "disorganized with paperwork",
+        "family-proud",
+        "risk-taker"
+      ]
+    },
+    {
+      "id": "elliot",
+      "name": "Elliot Brandt",
+      "tier": "principal",
+      "age": 34,
+      "role": "Tamsen County assessor's office analyst on parental leave",
+      "summary": "Elliot is on 12 weeks of parental leave from the Tamsen County Assessor's Office caring for his son Theo, born in July, at Marisol Gardens unit 209 next door to Thao. His wife Hana went back to work in November, leaving him in charge of bottles, naps and laundry. He runs his household like a spreadsheet and is quietly overwhelmed when nothing goes to plan. He is a planner who has not cooked a real dinner in three months.",
+      "traits": [
+        "systematic",
+        "anxious new dad",
+        "self-deprecating",
+        "over-researches everything"
+      ]
+    },
+    {
+      "id": "rochelle",
+      "name": "Rochelle Simmons",
+      "tier": "principal",
+      "age": 36,
+      "role": "former Ridgeline picker taking nursing prerequisites at Tamsen Valley College",
+      "summary": "Rochelle spent eight years at Ridgeline RF-4 before a back strain pushed her to quit and start nursing prerequisites at Tamsen Valley; she sits next to Linh in anatomy. Her husband Andre still drives for Ridgeline and their savings are thin. She is fearless asking questions in class but panics over online quizzes. She tells her daughter to put school first while she herself skips study group to cover family errands.",
+      "traits": [
+        "determined",
+        "blunt",
+        "tech-uneasy",
+        "family glue",
+        "funny"
+      ]
+    },
+    {
+      "id": "grace",
+      "name": "Grace Tolentino",
+      "tier": "principal",
+      "age": 45,
+      "role": "chemistry teacher at Alcaraz Flats High",
+      "summary": "Grace has taught chemistry at Flats High for 17 years and has Dulce in her third-period class. She is mother to Isabel and argues with her constantly over college lists and late nights. She is patient with other people's teenagers and short-fused with her own. She grades on Sundays after Tagalog Mass with her mother Corazon, who lives with them.",
+      "traits": [
+        "exacting",
+        "warm with students",
+        "worried about money",
+        "stubborn",
+        "dutiful daughter"
+      ]
+    },
+    {
+      "id": "ramon",
+      "name": "Ramón Tolentino",
+      "tier": "inner",
+      "age": 47,
+      "role": "Grace's husband, Isabel's father, county fire dispatcher",
+      "summary": "Ramón works 24-hour dispatch shifts and is the softer parent, so Isabel goes to him first. He says he trusts Isabel to choose a college but quietly sides with Grace about staying close.",
+      "traits": [
+        "easygoing",
+        "conflict avoider",
+        "handy"
+      ]
+    },
+    {
+      "id": "nadia",
+      "name": "Nadia Rahimi",
+      "tier": "inner",
+      "age": 16,
+      "role": "Isabel's best friend, Flats High junior",
+      "summary": "Nadia is Isabel's best friend and yearbook editor. She is calm in front of others but cries over every rejection email.",
+      "traits": [
+        "artsy",
+        "loyal",
+        "stress-cries"
+      ]
+    },
+    {
+      "id": "corazon",
+      "name": "Corazón Dizon",
+      "tier": "inner",
+      "age": 74,
+      "role": "Grace's mother, Isabel's grandmother, lives with the family",
+      "summary": "Lola Cora lives in the Tolentinos' back bedroom and cooks sinigang every Sunday. She insists she's fine yet hides her glucose meter readings.",
+      "traits": [
+        "devout",
+        "stubborn",
+        "doting"
+      ]
+    },
+    {
+      "id": "yesenia",
+      "name": "Yesenia Henríquez",
+      "tier": "inner",
+      "age": 40,
+      "role": "Dulce's mother, environmental services at St. Anselm",
+      "summary": "Yesenia raises Dulce mostly alone and works day shifts cleaning at St. Anselm. She is strict about curfews but lets Dulce skip chores whenever she works at the taquería.",
+      "traits": [
+        "strict",
+        "hardworking",
+        "tender"
+      ]
+    },
+    {
+      "id": "brianna",
+      "name": "Brianna Ochoa",
+      "tier": "inner",
+      "age": 15,
+      "role": "Dulce's friend, Flats High sophomore",
+      "summary": "Brianna is the center of Dulce's friend group and the center of its drama after her September breakup. She demands loyalty while trading secrets freely.",
+      "traits": [
+        "dramatic",
+        "charismatic",
+        "jealous"
+      ]
+    },
+    {
+      "id": "karina",
+      "name": "Karina Luna",
+      "tier": "inner",
+      "age": 16,
+      "role": "Dulce's friend, Flats High sophomore",
+      "summary": "Karina is Dulce's lab partner and the friend Brianna now refuses to speak to. She acts unbothered but texts Dulce at midnight asking if people hate her.",
+      "traits": [
+        "sharp",
+        "insecure",
+        "studious"
+      ]
+    },
+    {
+      "id": "efrain",
+      "name": "Efraín Villaseñor",
+      "tier": "inner",
+      "age": 58,
+      "role": "owner of Taquería Colima, Dulce's boss",
+      "summary": "Efraín has run Taquería Colima since 1998 and remembers every regular's order. He grumbles about teenagers and then gives Dulce extra shifts and free tacos.",
+      "traits": [
+        "gruff",
+        "generous",
+        "old-school"
+      ]
+    },
+    {
+      "id": "oscar",
+      "name": "Oscar Henríquez",
+      "tier": "inner",
+      "age": 50,
+      "role": "Rafael's father, Dulce's uncle, runs the pupusa stand",
+      "summary": "Oscar runs Pupusería Henríquez on top of a forklift job and dreams of a brick-and-mortar spot. He preaches saving money but just bought a $1,400 griddle.",
+      "traits": [
+        "entrepreneurial",
+        "proud",
+        "tired"
+      ]
+    },
+    {
+      "id": "gladys",
+      "name": "Gladys Henríquez",
+      "tier": "inner",
+      "age": 47,
+      "role": "Rafael's mother, Dulce's aunt",
+      "summary": "Gladys makes the masa at 4 a.m. and runs the stand's money. She worries constantly but is the one who laughs loudest at the stand.",
+      "traits": [
+        "worrier",
+        "meticulous",
+        "warm"
+      ]
+    },
+    {
+      "id": "hanh",
+      "name": "Hạnh Phạm",
+      "tier": "inner",
+      "age": 55,
+      "role": "mother of Thao and Linh, nail salon owner",
+      "summary": "Hạnh owns a nail salon in Plaza Marisol and wants Linh in pharmacy. She criticizes Linh's café job yet brags to customers about her latte art.",
+      "traits": [
+        "demanding",
+        "proud",
+        "hardworking"
+      ]
+    },
+    {
+      "id": "tomas",
+      "name": "Tomás Ferrer",
+      "tier": "inner",
+      "age": 29,
+      "role": "Thao's boyfriend, electrician apprentice",
+      "summary": "Tomás is a fourth-year IBEW apprentice who moved in with Thao in October. He is tidy at work and a disaster at home.",
+      "traits": [
+        "cheerful",
+        "messy",
+        "dependable"
+      ]
+    },
+    {
+      "id": "manpreet",
+      "name": "Manpreet Sandhu",
+      "tier": "inner",
+      "age": 49,
+      "role": "Arjun's mother, accountant",
+      "summary": "Manpreet does tax prep on Calle Ortega and calls Arjun every Sunday about internships. She pushes stability but secretly envies her son's adventures.",
+      "traits": [
+        "practical",
+        "anxious",
+        "loving"
+      ]
+    },
+    {
+      "id": "sunita",
+      "name": "Sunita Sandhu",
+      "tier": "inner",
+      "age": 25,
+      "role": "Arjun's older sister, supply chain analyst",
+      "summary": "Sunita works in supply chain in the city and forwards Arjun referral links. She gives brisk career advice yet is behind on her own wedding planning.",
+      "traits": [
+        "brisk",
+        "mentoring",
+        "overbooked"
+      ]
+    },
+    {
+      "id": "denise",
+      "name": "Denise Bell",
+      "tier": "inner",
+      "age": 44,
+      "role": "Marcus's mother, pharmacy technician",
+      "summary": "Denise had her drugstore hours cut in September and Marcus started sending money home. She refuses help out loud while accepting his Venmo transfers.",
+      "traits": [
+        "proud",
+        "resilient",
+        "worrier"
+      ]
+    },
+    {
+      "id": "jade",
+      "name": "Jade Morales",
+      "tier": "inner",
+      "age": 20,
+      "role": "Marcus's girlfriend, dental hygiene student",
+      "summary": "Jade studies dental hygiene at Tamsen Valley and resents Marcus's night schedule. She says she wants space but texts him all shift.",
+      "traits": [
+        "direct",
+        "affectionate",
+        "busy"
+      ]
+    },
+    {
+      "id": "carla",
+      "name": "Carla Mendes",
+      "tier": "inner",
+      "age": 39,
+      "role": "Ridgeline night-shift area manager, Marcus's boss",
+      "summary": "Carla manages outbound nights at RF-4 and is strict about rate. She enforces write-ups but quietly covers for workers with sick kids.",
+      "traits": [
+        "strict",
+        "fair",
+        "sleepless"
+      ]
+    },
+    {
+      "id": "greg",
+      "name": "Greg Holloway",
+      "tier": "inner",
+      "age": 52,
+      "role": "former Ridgeline IT desk lead, Noemi's boss",
+      "summary": "Greg led the RF-4 IT desk for six years before leaving in October. He mentored Noemi but never put her up for promotion.",
+      "traits": [
+        "laid-back",
+        "mentor",
+        "complacent"
+      ]
+    },
+    {
+      "id": "iris",
+      "name": "Iris Navarro",
+      "tier": "inner",
+      "age": 27,
+      "role": "Noemi's girlfriend, dental assistant",
+      "summary": "Iris shares a Verdant Commons apartment with Noemi. She budgets everything but orders sushi weekly.",
+      "traits": [
+        "organized",
+        "teasing",
+        "supportive"
+      ]
+    },
+    {
+      "id": "tess",
+      "name": "Teresita Villanueva",
+      "tier": "inner",
+      "age": 56,
+      "role": "Jun's mother, LVN",
+      "summary": "Tess gave Jun the lumpia recipe and wants him to become a nurse. She critiques every batch and then sells them to her coworkers.",
+      "traits": [
+        "opinionated",
+        "proud",
+        "generous"
+      ]
+    },
+    {
+      "id": "paolo",
+      "name": "Paolo Reyes",
+      "tier": "inner",
+      "age": 26,
+      "role": "Jun's best friend and pop-up co-founder, line cook",
+      "summary": "Paolo cooks lines at a chain restaurant and runs Lola's Roll's Instagram. He is full of big ideas but flakes on early prep.",
+      "traits": [
+        "creative",
+        "flaky",
+        "loyal"
+      ]
+    },
+    {
+      "id": "beatrice",
+      "name": "Beatrice Lam",
+      "tier": "inner",
+      "age": 44,
+      "role": "owner of Heron & Grind, boss of Jun and Linh",
+      "summary": "Beatrice turned an old bank into Heron & Grind in 2019. She is tight with labor costs but lets Jun sell lumpia from her counter.",
+      "traits": [
+        "shrewd",
+        "supportive",
+        "perfectionist"
+      ]
+    },
+    {
+      "id": "hana",
+      "name": "Hana Mori-Brandt",
+      "tier": "inner",
+      "age": 33,
+      "role": "Elliot's wife, Bayshore State admissions counselor",
+      "summary": "Hana returned to her admissions job in November. She is the family's calm planner yet has been struggling quietly since the birth.",
+      "traits": [
+        "calm",
+        "private",
+        "driven"
+      ]
+    },
+    {
+      "id": "theo",
+      "name": "Theo Brandt",
+      "tier": "inner",
+      "age": 0,
+      "role": "Elliot and Hana's infant son",
+      "summary": "Theo was born in July and rules the household's sleep schedule. He sleeps beautifully at Grandma Judith's and nowhere else.",
+      "traits": [
+        "colicky",
+        "alert",
+        "smiley"
+      ]
+    },
+    {
+      "id": "judith",
+      "name": "Judith Brandt",
+      "tier": "inner",
+      "age": 66,
+      "role": "Elliot's mother, retired school librarian",
+      "summary": "Judith began staying weekdays to help with Theo in October. She insists she isn't interfering while reorganizing Elliot's kitchen.",
+      "traits": [
+        "helpful",
+        "meddling",
+        "bookish"
+      ]
+    },
+    {
+      "id": "andre",
+      "name": "Andre Simmons",
+      "tier": "inner",
+      "age": 38,
+      "role": "Rochelle's husband, Ridgeline yard driver",
+      "summary": "Andre drives yard trucks at RF-4 and backs Rochelle's nursing plan. He says money is fine while picking up every overtime shift.",
+      "traits": [
+        "steady",
+        "quiet",
+        "hardworking"
+      ]
+    },
+    {
+      "id": "keisha",
+      "name": "Keisha Freeman",
+      "tier": "inner",
+      "age": 41,
+      "role": "Rochelle's sister, AFUSD transportation",
+      "summary": "Keisha moved from driving buses to dispatch in September and drives Rochelle to class when the car is down. She nags Rochelle about studying but calls her during study hours.",
+      "traits": [
+        "bossy",
+        "reliable",
+        "chatty"
+      ]
+    },
+    {
+      "id": "aaliyah",
+      "name": "Aaliyah Simmons",
+      "tier": "inner",
+      "age": 19,
+      "role": "Rochelle's daughter, Tamsen Valley student",
+      "summary": "Aaliyah takes general ed at Tamsen Valley and started seasonal Ridgeline shifts in September. She rolls her eyes at her mom studying beside her yet borrows her flashcards.",
+      "traits": [
+        "independent",
+        "athletic",
+        "teasing"
+      ]
+    },
+    {
+      "id": "patricia",
+      "name": "Patricia Ocampo",
+      "tier": "inner",
+      "age": 55,
+      "role": "principal of Alcaraz Flats High, Grace's boss",
+      "summary": "Patricia has led Flats High since 2018 and is pushing attendance numbers this year. She praises teacher autonomy while adding new reporting forms every month.",
+      "traits": [
+        "political",
+        "energetic",
+        "data-driven"
+      ]
+    },
+    {
+      "id": "maribel",
+      "name": "Maribel Cruz",
+      "tier": "inner",
+      "age": 48,
+      "role": "night charge nurse on 4 West, Thao's boss",
+      "summary": "Maribel runs 4 West nights and is organizing for the union vote. She demands perfect charting yet still writes notes on her glove.",
+      "traits": [
+        "tough",
+        "protective of staff",
+        "outspoken"
+      ]
+    },
+    {
+      "id": "kenji",
+      "name": "Kenji Watanabe",
+      "tier": "inner",
+      "age": 20,
+      "role": "Linh's best friend, Tamsen Valley student",
+      "summary": "Kenji studies computer science toward a Bayshore transfer and works the register at Ruiz Family Market. He's the only one Linh admits her doubts to, though he gossips about everyone else.",
+      "traits": [
+        "gossipy",
+        "loyal",
+        "nerdy"
+      ]
+    },
+    {
+      "id": "ximena",
+      "name": "Ximena Prado",
+      "tier": "inner",
+      "age": 19,
+      "role": "Rafael's girlfriend, cosmetology student",
+      "summary": "Ximena studies cosmetology at Tamsen Valley and helps at the pupusa stand Saturdays. She wants Rafael to dream bigger but cries at the idea of him moving away.",
+      "traits": [
+        "ambitious",
+        "affectionate",
+        "stylish"
+      ]
+    },
+    {
+      "id": "eugene",
+      "name": "Eugene Kim",
+      "tier": "periphery",
+      "age": 51,
+      "role": "college counselor at Alcaraz Flats High",
+      "summary": "Overloaded counselor with 480 students who still answers Isabel's emails at night.",
+      "traits": [
+        "overworked"
+      ]
+    },
+    {
+      "id": "lucas",
+      "name": "Lucas Ferreira",
+      "tier": "periphery",
+      "age": 17,
+      "role": "Isabel's classmate and robotics teammate",
+      "summary": "Robotics captain who's applying to the same engineering schools as Isabel.",
+      "traits": [
+        "competitive"
+      ]
+    },
+    {
+      "id": "fernanda",
+      "name": "Fernanda Lugo",
+      "tier": "periphery",
+      "age": 38,
+      "role": "AP English teacher at Flats High",
+      "summary": "Reads Isabel's college essays and is Grace's friendly hallway rival.",
+      "traits": [
+        "candid"
+      ]
+    },
+    {
+      "id": "harper",
+      "name": "Harper Quinlan",
+      "tier": "periphery",
+      "age": 24,
+      "role": "Isabel's SAT tutor at the library",
+      "summary": "Volunteer tutor who runs free SAT prep Saturdays at the library homework center.",
+      "traits": [
+        "upbeat"
+      ]
+    },
+    {
+      "id": "tyler",
+      "name": "Tyler Nunes",
+      "tier": "periphery",
+      "age": 16,
+      "role": "Flats High sophomore, Brianna's ex",
+      "summary": "JV football player whose breakup with Brianna split Dulce's friend group.",
+      "traits": [
+        "oblivious"
+      ]
+    },
+    {
+      "id": "sienna",
+      "name": "Sienna Park",
+      "tier": "periphery",
+      "age": 15,
+      "role": "Flats High sophomore in Dulce's circle",
+      "summary": "Brianna's loyal sidekick who reposts every vague story about Dulce.",
+      "traits": [
+        "messy"
+      ]
+    },
+    {
+      "id": "eli",
+      "name": "Eli Moreno",
+      "tier": "periphery",
+      "age": 16,
+      "role": "Dulce's chemistry classmate",
+      "summary": "Quiet kid who sits behind Dulce in Grace's third period and shares notes.",
+      "traits": [
+        "kind"
+      ]
+    },
+    {
+      "id": "camila",
+      "name": "Camila Ortiz",
+      "tier": "periphery",
+      "age": 18,
+      "role": "cashier at Taquería Colima",
+      "summary": "Senior who trained Dulce on the register and covers her shifts for a price.",
+      "traits": [
+        "savvy"
+      ]
+    },
+    {
+      "id": "hector",
+      "name": "Héctor Juárez",
+      "tier": "periphery",
+      "age": 34,
+      "role": "grill cook at Taquería Colima",
+      "summary": "Al pastor cook who plays rancheras and teases Dulce about her slow tickets.",
+      "traits": [
+        "joker"
+      ]
+    },
+    {
+      "id": "roberto",
+      "name": "Roberto Salas",
+      "tier": "periphery",
+      "age": 57,
+      "role": "automotive instructor at Tamsen Valley College",
+      "summary": "Former dealership tech who teaches Rafael's engine performance course.",
+      "traits": [
+        "exacting"
+      ]
+    },
+    {
+      "id": "dante",
+      "name": "Dante Ruiz",
+      "tier": "periphery",
+      "age": 20,
+      "role": "Rafael's automotive classmate",
+      "summary": "Lab partner who wants Rafael to go in on a used-car flipping side hustle.",
+      "traits": [
+        "schemer"
+      ]
+    },
+    {
+      "id": "luz",
+      "name": "Luz Beltrán",
+      "tier": "periphery",
+      "age": 45,
+      "role": "elote vendor near the Henríquez stand",
+      "summary": "Fellow street vendor who warned Oscar about the farmers market fee hike.",
+      "traits": [
+        "neighborly"
+      ]
+    },
+    {
+      "id": "miriam",
+      "name": "Dr. Miriam Okoye",
+      "tier": "periphery",
+      "age": 49,
+      "role": "anatomy and physiology professor at Tamsen Valley College",
+      "summary": "Tough anatomy professor whose lab practicals sink a third of every section.",
+      "traits": [
+        "rigorous",
+        "fair"
+      ]
+    },
+    {
+      "id": "pedro",
+      "name": "Pedro Alvarado",
+      "tier": "periphery",
+      "age": 31,
+      "role": "anatomy study-group member",
+      "summary": "Ex-EMT in Rochelle and Linh's anatomy section who runs the Tuesday study group.",
+      "traits": [
+        "helpful"
+      ]
+    },
+    {
+      "id": "sam",
+      "name": "Sam Reyes",
+      "tier": "periphery",
+      "age": 22,
+      "role": "barista at Heron & Grind",
+      "summary": "Weekend barista who constantly swaps shifts with Linh.",
+      "traits": [
+        "unreliable"
+      ]
+    },
+    {
+      "id": "wes",
+      "name": "Wes Arnaud",
+      "tier": "periphery",
+      "age": 68,
+      "role": "Heron & Grind regular",
+      "summary": "Retired machinist who orders a cortado at 7 a.m. daily and tips in quarters.",
+      "traits": [
+        "chatty"
+      ]
+    },
+    {
+      "id": "joan",
+      "name": "Joan Whitaker",
+      "tier": "periphery",
+      "age": 60,
+      "role": "manager of the Ruel Road commissary kitchen",
+      "summary": "Rents hourly kitchen space to Jun and enforces cleanup rules ruthlessly.",
+      "traits": [
+        "strict"
+      ]
+    },
+    {
+      "id": "rick",
+      "name": "Rick Dominguez",
+      "tier": "periphery",
+      "age": 47,
+      "role": "Delgado Park farmers market coordinator",
+      "summary": "Hands out vendor slots for the Sunday market, including the one Jun wants.",
+      "traits": [
+        "bureaucratic"
+      ]
+    },
+    {
+      "id": "stephen",
+      "name": "Dr. Stephen Ashby",
+      "tier": "periphery",
+      "age": 58,
+      "role": "logistics professor at Bayshore State",
+      "summary": "Arjun's operations management professor who writes recommendation letters sparingly.",
+      "traits": [
+        "reserved"
+      ]
+    },
+    {
+      "id": "lena",
+      "name": "Lena Forsythe",
+      "tier": "periphery",
+      "age": 36,
+      "role": "Bayshore State career center advisor",
+      "summary": "Runs mock interviews that Arjun keeps rescheduling.",
+      "traits": [
+        "encouraging"
+      ]
+    },
+    {
+      "id": "omar",
+      "name": "Omar Haddad",
+      "tier": "periphery",
+      "age": 21,
+      "role": "Arjun's classmate, supply chain club president",
+      "summary": "Already landed a summer internship and posts about it relentlessly.",
+      "traits": [
+        "braggy"
+      ]
+    },
+    {
+      "id": "gurpreet",
+      "name": "Gurpreet Singh Gill",
+      "tier": "periphery",
+      "age": 62,
+      "role": "gurdwara langar volunteer, family friend of the Sandhus",
+      "summary": "Retired trucker who serves chai at langar and asks Arjun about trucking jobs.",
+      "traits": [
+        "warm"
+      ]
+    },
+    {
+      "id": "holt",
+      "name": "Marissa Holt",
+      "tier": "periphery",
+      "age": 42,
+      "role": "Bayshore State academic advisor",
+      "summary": "Marcus's advisor who warned him about his falling GPA.",
+      "traits": [
+        "blunt"
+      ]
+    },
+    {
+      "id": "trevor",
+      "name": "Trevor Lindqvist",
+      "tier": "periphery",
+      "age": 24,
+      "role": "Ridgeline night picker",
+      "summary": "Marcus's shift buddy who gets written up for rate weekly.",
+      "traits": [
+        "reckless"
+      ]
+    },
+    {
+      "id": "jose",
+      "name": "José Barrera",
+      "tier": "periphery",
+      "age": 33,
+      "role": "Ridgeline night shift lead",
+      "summary": "Shift lead under Carla who assigns Marcus to the cold dock.",
+      "traits": [
+        "no-nonsense"
+      ]
+    },
+    {
+      "id": "fatima",
+      "name": "Fatima Noor",
+      "tier": "periphery",
+      "age": 19,
+      "role": "Marcus's kinesiology classmate",
+      "summary": "Shares lecture notes with Marcus when he sleeps through class.",
+      "traits": [
+        "diligent"
+      ]
+    },
+    {
+      "id": "ana",
+      "name": "Ana Lucero",
+      "tier": "periphery",
+      "age": 45,
+      "role": "Ridgeline RF-4 HR generalist",
+      "summary": "Handles leave paperwork and the seasonal hiring fair.",
+      "traits": [
+        "harried"
+      ]
+    },
+    {
+      "id": "victor",
+      "name": "Victor Esparza",
+      "tier": "periphery",
+      "age": 30,
+      "role": "Ridgeline IT desk technician",
+      "summary": "Noemi's coworker who got the acting-lead title she wanted.",
+      "traits": [
+        "smug"
+      ]
+    },
+    {
+      "id": "bao",
+      "name": "Bao Tran",
+      "tier": "periphery",
+      "age": 23,
+      "role": "Ridgeline IT desk technician",
+      "summary": "New hire Noemi is training on scanner repairs.",
+      "traits": [
+        "eager"
+      ]
+    },
+    {
+      "id": "rhonda",
+      "name": "Rhonda Pierce",
+      "tier": "periphery",
+      "age": 54,
+      "role": "RF-4 site operations director",
+      "summary": "Greg's former boss who decides the IT lead replacement.",
+      "traits": [
+        "remote"
+      ]
+    },
+    {
+      "id": "jasmine",
+      "name": "Jasmine Osei",
+      "tier": "periphery",
+      "age": 30,
+      "role": "RN on 4 West nights",
+      "summary": "Thao's closest coworker who swaps shifts with her.",
+      "traits": [
+        "funny"
+      ]
+    },
+    {
+      "id": "ruben",
+      "name": "Rubén Castañeda",
+      "tier": "periphery",
+      "age": 41,
+      "role": "CNA on 4 West nights",
+      "summary": "Veteran aide who knows the new charting system better than the trainers.",
+      "traits": [
+        "steady"
+      ]
+    },
+    {
+      "id": "nikhil",
+      "name": "Dr. Nikhil Mehta",
+      "tier": "periphery",
+      "age": 39,
+      "role": "night hospitalist at St. Anselm",
+      "summary": "Hospitalist who pages Thao constantly and apologizes every time.",
+      "traits": [
+        "polite"
+      ]
+    },
+    {
+      "id": "terrence",
+      "name": "Terrence Adebayo",
+      "tier": "periphery",
+      "age": 46,
+      "role": "nurses union organizer",
+      "summary": "Organizer who keeps texting Thao about the October 23 vote.",
+      "traits": [
+        "persistent"
+      ]
+    },
+    {
+      "id": "gloria",
+      "name": "Gloria Ibarra",
+      "tier": "periphery",
+      "age": 59,
+      "role": "property manager at Marisol Gardens",
+      "summary": "Manages the complex where Thao, Elliot, Dulce and Arjun live, slowly.",
+      "traits": [
+        "slow to repair"
+      ]
+    },
+    {
+      "id": "walter",
+      "name": "Walter Chen",
+      "tier": "periphery",
+      "age": 77,
+      "role": "Marisol Gardens neighbor in unit 211",
+      "summary": "Retired neighbor who complains about Theo's crying and Tomás's truck.",
+      "traits": [
+        "grumpy"
+      ]
+    },
+    {
+      "id": "alicia",
+      "name": "Dr. Alicia Fong",
+      "tier": "periphery",
+      "age": 44,
+      "role": "Theo's pediatrician",
+      "summary": "Pediatrician at the Plaza Marisol clinic who runs Theo's checkups.",
+      "traits": [
+        "reassuring"
+      ]
+    },
+    {
+      "id": "brenda",
+      "name": "Brenda Coyle",
+      "tier": "periphery",
+      "age": 50,
+      "role": "Elliot's supervisor at the county assessor's office",
+      "summary": "Emails Elliot about his return date more than she should.",
+      "traits": [
+        "pushy"
+      ]
+    },
+    {
+      "id": "kaitlyn",
+      "name": "Kaitlyn Moreau",
+      "tier": "periphery",
+      "age": 31,
+      "role": "leader of the library new-parents group",
+      "summary": "Runs Thursday baby story time Elliot attends.",
+      "traits": [
+        "bubbly"
+      ]
+    },
+    {
+      "id": "luisa",
+      "name": "Luisa Herrera",
+      "tier": "periphery",
+      "age": 40,
+      "role": "Rochelle's former Ridgeline coworker",
+      "summary": "Still at Ridgeline and texts Rochelle warehouse gossip.",
+      "traits": [
+        "gossipy"
+      ]
+    },
+    {
+      "id": "denny",
+      "name": "Denny Wu",
+      "tier": "periphery",
+      "age": 37,
+      "role": "Tamsen Valley College nursing pathway counselor",
+      "summary": "Counselor mapping Rochelle's and Linh's prerequisite sequences.",
+      "traits": [
+        "methodical"
+      ]
+    },
+    {
+      "id": "dana",
+      "name": "Dana Whitfield",
+      "tier": "periphery",
+      "age": 33,
+      "role": "biology teacher at Flats High",
+      "summary": "Grace's lab-sharing colleague and lunchtime venting partner.",
+      "traits": [
+        "upbeat"
+      ]
+    },
+    {
+      "id": "lupe",
+      "name": "Lupe Ramírez",
+      "tier": "periphery",
+      "age": 63,
+      "role": "co-owner of Panadería Las Hermanas",
+      "summary": "Baker who gives Gladys day-old bread for the stand's family meal.",
+      "traits": [
+        "kindly"
+      ]
+    },
+    {
+      "id": "chuy",
+      "name": "Chuy Ruiz",
+      "tier": "periphery",
+      "age": 52,
+      "role": "butcher at Ruiz Family Market",
+      "summary": "Sells Oscar pork for chicharrón at a family discount.",
+      "traits": [
+        "jovial"
+      ]
+    },
+    {
+      "id": "mike",
+      "name": "Mike Talavera",
+      "tier": "periphery",
+      "age": 35,
+      "role": "trainer at Iron Flats Fitness",
+      "summary": "Gym trainer Marcus works out with at 5 a.m. after shift.",
+      "traits": [
+        "loud"
+      ]
+    },
+    {
+      "id": "kyla",
+      "name": "Kyla Santos",
+      "tier": "periphery",
+      "age": 17,
+      "role": "cashier at Cloud Nine Tea Bar",
+      "summary": "Works with Nadia and gives Dulce's group extra pearls.",
+      "traits": [
+        "friendly"
+      ]
+    },
+    {
+      "id": "ben",
+      "name": "Father Ben Aquino",
+      "tier": "periphery",
+      "age": 48,
+      "role": "priest at Our Lady of the Marsh",
+      "summary": "Says the Tagalog Mass and organizes the Thanksgiving food drive.",
+      "traits": [
+        "gentle"
+      ]
+    },
+    {
+      "id": "anh",
+      "name": "Anh Lương",
+      "tier": "periphery",
+      "age": 50,
+      "role": "coffee cart owner at Flats Junction",
+      "summary": "Knows Arjun's order and rival to Heron & Grind in Jun's eyes.",
+      "traits": [
+        "brisk"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "a": "grace",
+      "b": "isabel",
+      "relation": "mother"
+    },
+    {
+      "a": "grace",
+      "b": "dulce",
+      "relation": "chemistry teacher"
+    },
+    {
+      "a": "dulce",
+      "b": "rafael",
+      "relation": "cousin"
+    },
+    {
+      "a": "rafael",
+      "b": "dulce",
+      "relation": "cousin"
+    },
+    {
+      "a": "linh",
+      "b": "thao",
+      "relation": "younger sister"
+    },
+    {
+      "a": "thao",
+      "b": "linh",
+      "relation": "older sister"
+    },
+    {
+      "a": "arjun",
+      "b": "marcus",
+      "relation": "roommate"
+    },
+    {
+      "a": "marcus",
+      "b": "arjun",
+      "relation": "roommate"
+    },
+    {
+      "a": "noemi",
+      "b": "marcus",
+      "relation": "coworker"
+    },
+    {
+      "a": "jun",
+      "b": "linh",
+      "relation": "coworker"
+    },
+    {
+      "a": "elliot",
+      "b": "thao",
+      "relation": "neighbor"
+    },
+    {
+      "a": "thao",
+      "b": "elliot",
+      "relation": "neighbor"
+    },
+    {
+      "a": "rochelle",
+      "b": "linh",
+      "relation": "anatomy classmate"
+    },
+    {
+      "a": "ramon",
+      "b": "isabel",
+      "relation": "father"
+    },
+    {
+      "a": "ramon",
+      "b": "grace",
+      "relation": "husband"
+    },
+    {
+      "a": "nadia",
+      "b": "isabel",
+      "relation": "best friend"
+    },
+    {
+      "a": "corazon",
+      "b": "grace",
+      "relation": "mother"
+    },
+    {
+      "a": "corazon",
+      "b": "isabel",
+      "relation": "grandmother"
+    },
+    {
+      "a": "yesenia",
+      "b": "dulce",
+      "relation": "mother"
+    },
+    {
+      "a": "yesenia",
+      "b": "rafael",
+      "relation": "aunt"
+    },
+    {
+      "a": "brianna",
+      "b": "dulce",
+      "relation": "friend"
+    },
+    {
+      "a": "karina",
+      "b": "dulce",
+      "relation": "friend"
+    },
+    {
+      "a": "karina",
+      "b": "grace",
+      "relation": "student"
+    },
+    {
+      "a": "efrain",
+      "b": "dulce",
+      "relation": "boss"
+    },
+    {
+      "a": "oscar",
+      "b": "rafael",
+      "relation": "father"
+    },
+    {
+      "a": "oscar",
+      "b": "dulce",
+      "relation": "uncle"
+    },
+    {
+      "a": "oscar",
+      "b": "yesenia",
+      "relation": "brother"
+    },
+    {
+      "a": "gladys",
+      "b": "rafael",
+      "relation": "mother"
+    },
+    {
+      "a": "gladys",
+      "b": "oscar",
+      "relation": "wife"
+    },
+    {
+      "a": "gladys",
+      "b": "dulce",
+      "relation": "aunt"
+    },
+    {
+      "a": "hanh",
+      "b": "thao",
+      "relation": "mother"
+    },
+    {
+      "a": "hanh",
+      "b": "linh",
+      "relation": "mother"
+    },
+    {
+      "a": "tomas",
+      "b": "thao",
+      "relation": "boyfriend"
+    },
+    {
+      "a": "manpreet",
+      "b": "arjun",
+      "relation": "mother"
+    },
+    {
+      "a": "sunita",
+      "b": "arjun",
+      "relation": "older sister"
+    },
+    {
+      "a": "denise",
+      "b": "marcus",
+      "relation": "mother"
+    },
+    {
+      "a": "jade",
+      "b": "marcus",
+      "relation": "girlfriend"
+    },
+    {
+      "a": "carla",
+      "b": "marcus",
+      "relation": "boss"
+    },
+    {
+      "a": "greg",
+      "b": "noemi",
+      "relation": "former boss"
+    },
+    {
+      "a": "iris",
+      "b": "noemi",
+      "relation": "girlfriend"
+    },
+    {
+      "a": "tess",
+      "b": "jun",
+      "relation": "mother"
+    },
+    {
+      "a": "paolo",
+      "b": "jun",
+      "relation": "business partner"
+    },
+    {
+      "a": "beatrice",
+      "b": "jun",
+      "relation": "boss"
+    },
+    {
+      "a": "beatrice",
+      "b": "linh",
+      "relation": "boss"
+    },
+    {
+      "a": "hana",
+      "b": "elliot",
+      "relation": "wife"
+    },
+    {
+      "a": "theo",
+      "b": "elliot",
+      "relation": "son"
+    },
+    {
+      "a": "theo",
+      "b": "hana",
+      "relation": "son"
+    },
+    {
+      "a": "judith",
+      "b": "elliot",
+      "relation": "mother"
+    },
+    {
+      "a": "andre",
+      "b": "rochelle",
+      "relation": "husband"
+    },
+    {
+      "a": "keisha",
+      "b": "rochelle",
+      "relation": "sister"
+    },
+    {
+      "a": "aaliyah",
+      "b": "rochelle",
+      "relation": "daughter"
+    },
+    {
+      "a": "aaliyah",
+      "b": "andre",
+      "relation": "daughter"
+    },
+    {
+      "a": "patricia",
+      "b": "grace",
+      "relation": "boss"
+    },
+    {
+      "a": "maribel",
+      "b": "thao",
+      "relation": "charge nurse"
+    },
+    {
+      "a": "kenji",
+      "b": "linh",
+      "relation": "best friend"
+    },
+    {
+      "a": "ximena",
+      "b": "rafael",
+      "relation": "girlfriend"
+    },
+    {
+      "a": "eugene",
+      "b": "isabel",
+      "relation": "college counselor"
+    },
+    {
+      "a": "lucas",
+      "b": "isabel",
+      "relation": "classmate"
+    },
+    {
+      "a": "fernanda",
+      "b": "isabel",
+      "relation": "English teacher"
+    },
+    {
+      "a": "fernanda",
+      "b": "grace",
+      "relation": "colleague"
+    },
+    {
+      "a": "harper",
+      "b": "isabel",
+      "relation": "SAT tutor"
+    },
+    {
+      "a": "tyler",
+      "b": "dulce",
+      "relation": "classmate"
+    },
+    {
+      "a": "tyler",
+      "b": "brianna",
+      "relation": "ex-boyfriend"
+    },
+    {
+      "a": "sienna",
+      "b": "dulce",
+      "relation": "classmate"
+    },
+    {
+      "a": "sienna",
+      "b": "brianna",
+      "relation": "friend"
+    },
+    {
+      "a": "eli",
+      "b": "dulce",
+      "relation": "classmate"
+    },
+    {
+      "a": "eli",
+      "b": "grace",
+      "relation": "student"
+    },
+    {
+      "a": "camila",
+      "b": "dulce",
+      "relation": "coworker"
+    },
+    {
+      "a": "hector",
+      "b": "dulce",
+      "relation": "coworker"
+    },
+    {
+      "a": "camila",
+      "b": "efrain",
+      "relation": "employee"
+    },
+    {
+      "a": "roberto",
+      "b": "rafael",
+      "relation": "instructor"
+    },
+    {
+      "a": "dante",
+      "b": "rafael",
+      "relation": "classmate"
+    },
+    {
+      "a": "luz",
+      "b": "rafael",
+      "relation": "fellow vendor"
+    },
+    {
+      "a": "luz",
+      "b": "oscar",
+      "relation": "fellow vendor"
+    },
+    {
+      "a": "miriam",
+      "b": "linh",
+      "relation": "professor"
+    },
+    {
+      "a": "miriam",
+      "b": "rochelle",
+      "relation": "professor"
+    },
+    {
+      "a": "pedro",
+      "b": "rochelle",
+      "relation": "study partner"
+    },
+    {
+      "a": "pedro",
+      "b": "linh",
+      "relation": "study partner"
+    },
+    {
+      "a": "sam",
+      "b": "linh",
+      "relation": "coworker"
+    },
+    {
+      "a": "sam",
+      "b": "jun",
+      "relation": "coworker"
+    },
+    {
+      "a": "wes",
+      "b": "jun",
+      "relation": "regular customer"
+    },
+    {
+      "a": "joan",
+      "b": "jun",
+      "relation": "commissary landlord"
+    },
+    {
+      "a": "rick",
+      "b": "jun",
+      "relation": "market coordinator"
+    },
+    {
+      "a": "rick",
+      "b": "oscar",
+      "relation": "former market coordinator"
+    },
+    {
+      "a": "stephen",
+      "b": "arjun",
+      "relation": "professor"
+    },
+    {
+      "a": "lena",
+      "b": "arjun",
+      "relation": "career advisor"
+    },
+    {
+      "a": "omar",
+      "b": "arjun",
+      "relation": "classmate"
+    },
+    {
+      "a": "gurpreet",
+      "b": "arjun",
+      "relation": "family friend"
+    },
+    {
+      "a": "gurpreet",
+      "b": "manpreet",
+      "relation": "family friend"
+    },
+    {
+      "a": "holt",
+      "b": "marcus",
+      "relation": "academic advisor"
+    },
+    {
+      "a": "trevor",
+      "b": "marcus",
+      "relation": "coworker"
+    },
+    {
+      "a": "jose",
+      "b": "marcus",
+      "relation": "shift lead"
+    },
+    {
+      "a": "jose",
+      "b": "carla",
+      "relation": "direct report"
+    },
+    {
+      "a": "fatima",
+      "b": "marcus",
+      "relation": "classmate"
+    },
+    {
+      "a": "ana",
+      "b": "noemi",
+      "relation": "coworker"
+    },
+    {
+      "a": "ana",
+      "b": "rochelle",
+      "relation": "former HR contact"
+    },
+    {
+      "a": "victor",
+      "b": "noemi",
+      "relation": "coworker"
+    },
+    {
+      "a": "bao",
+      "b": "noemi",
+      "relation": "trainee"
+    },
+    {
+      "a": "rhonda",
+      "b": "noemi",
+      "relation": "manager's manager"
+    },
+    {
+      "a": "rhonda",
+      "b": "greg",
+      "relation": "former boss"
+    },
+    {
+      "a": "jasmine",
+      "b": "thao",
+      "relation": "coworker"
+    },
+    {
+      "a": "ruben",
+      "b": "thao",
+      "relation": "coworker"
+    },
+    {
+      "a": "nikhil",
+      "b": "thao",
+      "relation": "colleague"
+    },
+    {
+      "a": "terrence",
+      "b": "thao",
+      "relation": "union organizer"
+    },
+    {
+      "a": "terrence",
+      "b": "maribel",
+      "relation": "union ally"
+    },
+    {
+      "a": "gloria",
+      "b": "thao",
+      "relation": "property manager"
+    },
+    {
+      "a": "gloria",
+      "b": "elliot",
+      "relation": "property manager"
+    },
+    {
+      "a": "gloria",
+      "b": "arjun",
+      "relation": "property manager"
+    },
+    {
+      "a": "gloria",
+      "b": "dulce",
+      "relation": "property manager"
+    },
+    {
+      "a": "walter",
+      "b": "elliot",
+      "relation": "neighbor"
+    },
+    {
+      "a": "walter",
+      "b": "thao",
+      "relation": "neighbor"
+    },
+    {
+      "a": "alicia",
+      "b": "elliot",
+      "relation": "son's pediatrician"
+    },
+    {
+      "a": "brenda",
+      "b": "elliot",
+      "relation": "supervisor"
+    },
+    {
+      "a": "kaitlyn",
+      "b": "elliot",
+      "relation": "parent group leader"
+    },
+    {
+      "a": "luisa",
+      "b": "rochelle",
+      "relation": "former coworker"
+    },
+    {
+      "a": "luisa",
+      "b": "andre",
+      "relation": "coworker"
+    },
+    {
+      "a": "denny",
+      "b": "rochelle",
+      "relation": "counselor"
+    },
+    {
+      "a": "denny",
+      "b": "linh",
+      "relation": "counselor"
+    },
+    {
+      "a": "dana",
+      "b": "grace",
+      "relation": "colleague"
+    },
+    {
+      "a": "lupe",
+      "b": "rafael",
+      "relation": "family friend"
+    },
+    {
+      "a": "lupe",
+      "b": "gladys",
+      "relation": "friend"
+    },
+    {
+      "a": "chuy",
+      "b": "rafael",
+      "relation": "supplier"
+    },
+    {
+      "a": "chuy",
+      "b": "kenji",
+      "relation": "coworker"
+    },
+    {
+      "a": "mike",
+      "b": "marcus",
+      "relation": "gym trainer"
+    },
+    {
+      "a": "kyla",
+      "b": "dulce",
+      "relation": "acquaintance"
+    },
+    {
+      "a": "kyla",
+      "b": "nadia",
+      "relation": "coworker"
+    },
+    {
+      "a": "ben",
+      "b": "grace",
+      "relation": "parish priest"
+    },
+    {
+      "a": "ben",
+      "b": "corazon",
+      "relation": "parish priest"
+    },
+    {
+      "a": "anh",
+      "b": "arjun",
+      "relation": "coffee vendor"
+    },
+    {
+      "a": "karina",
+      "b": "brianna",
+      "relation": "former friend"
+    },
+    {
+      "a": "sunita",
+      "b": "manpreet",
+      "relation": "daughter"
+    },
+    {
+      "a": "jade",
+      "b": "denise",
+      "relation": "son's girlfriend"
+    },
+    {
+      "a": "tess",
+      "b": "paolo",
+      "relation": "family friend"
+    },
+    {
+      "a": "maribel",
+      "b": "jasmine",
+      "relation": "charge nurse"
+    },
+    {
+      "a": "carla",
+      "b": "andre",
+      "relation": "coworker"
+    },
+    {
+      "a": "aaliyah",
+      "b": "marcus",
+      "relation": "coworker"
+    },
+    {
+      "a": "yesenia",
+      "b": "thao",
+      "relation": "hospital coworker"
+    },
+    {
+      "a": "greg",
+      "b": "thao",
+      "relation": "hospital coworker"
+    }
+  ],
+  "facts": [
+    {
+      "id": "cast.f01",
+      "subject": "ramon",
+      "attribute": "job",
+      "value": "dispatcher for Tamsen County Fire, 24-hour shifts every third day",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f02",
+      "subject": "ramon",
+      "attribute": "hobby",
+      "value": "restoring a 1978 Ford Bronco in the driveway",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f03",
+      "subject": "ramon",
+      "attribute": "college_stance",
+      "value": "privately wants Isabel at Bayshore State to save money",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f04",
+      "subject": "nadia",
+      "attribute": "school_program",
+      "value": "Flats High junior, AP track, yearbook editor",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f05",
+      "subject": "nadia",
+      "attribute": "college_plan",
+      "value": "applying to UC campuses for architecture",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f06",
+      "subject": "nadia",
+      "attribute": "job",
+      "value": "weekend cashier at Cloud Nine Tea Bar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f07",
+      "subject": "corazon",
+      "attribute": "home",
+      "value": "back bedroom of the Tolentino house since 2021",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f08",
+      "subject": "corazon",
+      "attribute": "health_diagnosis",
+      "value": "type 2 diabetes, on insulin since 2023",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "cast.f09",
+      "subject": "corazon",
+      "attribute": "weekly_routine",
+      "value": "Tagalog Mass at Our Lady of the Marsh Sundays at 9 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f10",
+      "subject": "yesenia",
+      "attribute": "job",
+      "value": "environmental services day shift at St. Anselm",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f11",
+      "subject": "yesenia",
+      "attribute": "curfew_rule",
+      "value": "Dulce home by 9:30 p.m. on school nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f12",
+      "subject": "yesenia",
+      "attribute": "home",
+      "value": "two-bedroom, Marisol Gardens unit 114",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f13",
+      "subject": "brianna",
+      "attribute": "relationship_status",
+      "value": "dating Tyler Nunes since July",
+      "valid_from": "2025-07-01",
+      "valid_to": "2025-09-22",
+      "superseded_by": "cast.f14",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f14",
+      "subject": "brianna",
+      "attribute": "relationship_status",
+      "value": "broke up with Tyler; blames Dulce for leaking it to Karina",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f15",
+      "subject": "brianna",
+      "attribute": "school_program",
+      "value": "Flats High sophomore, JV volleyball",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f16",
+      "subject": "karina",
+      "attribute": "school_program",
+      "value": "sophomore in Grace Tolentino's third-period chemistry, Dulce's lab partner",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f17",
+      "subject": "karina",
+      "attribute": "feud",
+      "value": "not speaking to Brianna",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f18",
+      "subject": "karina",
+      "attribute": "hobby",
+      "value": "draws manga-style comics in her chem notebook",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f19",
+      "subject": "efrain",
+      "attribute": "job",
+      "value": "owner of Taquería Colima since 1998",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f20",
+      "subject": "efrain",
+      "attribute": "dulce_schedule",
+      "value": "schedules Dulce Fridays 4-9 p.m. and Sundays 10-4",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f21",
+      "subject": "efrain",
+      "attribute": "house_rule",
+      "value": "no phones behind the counter",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f22",
+      "subject": "oscar",
+      "attribute": "business",
+      "value": "runs Pupusería Henríquez stand with Gladys and Rafael",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f23",
+      "subject": "oscar",
+      "attribute": "stand_location",
+      "value": "Sunday farmers market lot at Delgado Park",
+      "valid_from": null,
+      "valid_to": "2025-10-04",
+      "superseded_by": "cast.f24",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f24",
+      "subject": "oscar",
+      "attribute": "stand_location",
+      "value": "permanent spot in the Ruel Road gas station lot, Thu-Sun evenings",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f25",
+      "subject": "oscar",
+      "attribute": "job",
+      "value": "forklift operator at a Ruel Road cold-storage yard, days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f26",
+      "subject": "gladys",
+      "attribute": "immigration_status",
+      "value": "TPS holder from El Salvador, renewal pending",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "cast.f27",
+      "subject": "gladys",
+      "attribute": "stand_role",
+      "value": "makes masa and curtido at 4 a.m., handles the cash box",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f28",
+      "subject": "gladys",
+      "attribute": "church",
+      "value": "Spanish Mass at Our Lady of the Marsh",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f29",
+      "subject": "hanh",
+      "attribute": "job",
+      "value": "owner of Lotus Nails in Plaza Marisol",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f30",
+      "subject": "hanh",
+      "attribute": "home",
+      "value": "ranch house on Pell Road",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f31",
+      "subject": "hanh",
+      "attribute": "hope_for_linh",
+      "value": "wants Linh to become a pharmacist",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f32",
+      "subject": "tomas",
+      "attribute": "job",
+      "value": "fourth-year IBEW electrician apprentice",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f33",
+      "subject": "tomas",
+      "attribute": "home",
+      "value": "shared house with two roommates off Vinca Avenue",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "cast.f34",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f34",
+      "subject": "tomas",
+      "attribute": "home",
+      "value": "moved into Thao's Marisol Gardens unit 207",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f35",
+      "subject": "manpreet",
+      "attribute": "job",
+      "value": "accountant at a tax-prep office on Calle Ortega",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f36",
+      "subject": "manpreet",
+      "attribute": "habit",
+      "value": "calls Arjun every Sunday evening about internships",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f37",
+      "subject": "manpreet",
+      "attribute": "home",
+      "value": "Pell Road house near the gurdwara",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f38",
+      "subject": "sunita",
+      "attribute": "job",
+      "value": "supply chain analyst at a medical device company in the city",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f39",
+      "subject": "sunita",
+      "attribute": "relationship_status",
+      "value": "engaged; wedding planned for April 2026",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f40",
+      "subject": "sunita",
+      "attribute": "help_offered",
+      "value": "forwards Arjun internship referral links",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f41",
+      "subject": "denise",
+      "attribute": "work_hours",
+      "value": "36 hours a week as pharmacy tech at a Vinca Avenue drugstore",
+      "valid_from": null,
+      "valid_to": "2025-09-15",
+      "superseded_by": "cast.f42",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f42",
+      "subject": "denise",
+      "attribute": "work_hours",
+      "value": "cut to 24 hours a week at the drugstore",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f43",
+      "subject": "denise",
+      "attribute": "home",
+      "value": "rents a duplex off Vinca Avenue",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f44",
+      "subject": "jade",
+      "attribute": "school_program",
+      "value": "dental hygiene program at Tamsen Valley College",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f45",
+      "subject": "jade",
+      "attribute": "relationship_complaint",
+      "value": "hates that Marcus sleeps through her days off",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f46",
+      "subject": "jade",
+      "attribute": "relationship_status",
+      "value": "dating Marcus since spring 2024",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f47",
+      "subject": "carla",
+      "attribute": "job",
+      "value": "night-shift outbound area manager at RF-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f48",
+      "subject": "carla",
+      "attribute": "policy",
+      "value": "two rate write-ups means a final warning",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f49",
+      "subject": "carla",
+      "attribute": "habit",
+      "value": "brings conchas for the crew on Saturdays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f50",
+      "subject": "greg",
+      "attribute": "job",
+      "value": "IT desk lead at Ridgeline RF-4",
+      "valid_from": null,
+      "valid_to": "2025-10-17",
+      "superseded_by": "cast.f51",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f51",
+      "subject": "greg",
+      "attribute": "job",
+      "value": "IT systems analyst at St. Anselm supporting the new charting system",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f52",
+      "subject": "greg",
+      "attribute": "habit",
+      "value": "eats the same turkey sandwich every day",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f53",
+      "subject": "iris",
+      "attribute": "job",
+      "value": "dental assistant at the Plaza Marisol dentist",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f54",
+      "subject": "iris",
+      "attribute": "home",
+      "value": "Verdant Commons one-bedroom shared with Noemi",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f55",
+      "subject": "iris",
+      "attribute": "pet",
+      "value": "gray cat named Router",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f56",
+      "subject": "tess",
+      "attribute": "job",
+      "value": "LVN at a skilled nursing facility in Alcaraz Flats",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f57",
+      "subject": "tess",
+      "attribute": "recipe",
+      "value": "originated the family pork-and-shrimp lumpia recipe",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f58",
+      "subject": "tess",
+      "attribute": "hope_for_jun",
+      "value": "wants Jun to apply to nursing school",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f59",
+      "subject": "paolo",
+      "attribute": "business_role",
+      "value": "co-founder of Lola's Roll, runs Instagram",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f60",
+      "subject": "paolo",
+      "attribute": "job",
+      "value": "line cook at a chain restaurant near the freeway ramp",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f61",
+      "subject": "paolo",
+      "attribute": "reliability",
+      "value": "has missed two early prep sessions this fall",
+      "valid_from": "2025-09-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f62",
+      "subject": "beatrice",
+      "attribute": "job",
+      "value": "owner of Heron & Grind since 2019",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f63",
+      "subject": "beatrice",
+      "attribute": "cafe_hours",
+      "value": "open 6:30 a.m. to 6 p.m.",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "cast.f64",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f64",
+      "subject": "beatrice",
+      "attribute": "cafe_hours",
+      "value": "open 6:30 a.m. to 9 p.m. for student study crowd",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f65",
+      "subject": "beatrice",
+      "attribute": "lumpia_deal",
+      "value": "lets Jun sell lumpia at the counter Saturdays for 15% cut",
+      "valid_from": "2025-09-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f66",
+      "subject": "hana",
+      "attribute": "job_status",
+      "value": "on maternity leave from Bayshore State admissions",
+      "valid_from": "2025-07-19",
+      "valid_to": "2025-11-03",
+      "superseded_by": "cast.f67",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f67",
+      "subject": "hana",
+      "attribute": "job_status",
+      "value": "back full time as Bayshore State admissions counselor",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f68",
+      "subject": "hana",
+      "attribute": "health_diagnosis",
+      "value": "postpartum depression, seeing a therapist",
+      "valid_from": "2025-09-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "cast.f69",
+      "subject": "theo",
+      "attribute": "birth_date",
+      "value": "born 2025-07-19 at St. Anselm",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f70",
+      "subject": "theo",
+      "attribute": "feeding",
+      "value": "combination formula and breastmilk, wakes around 2 and 5 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f71",
+      "subject": "theo",
+      "attribute": "comfort_item",
+      "value": "a knitted egret lovey from Judith",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f72",
+      "subject": "judith",
+      "attribute": "home",
+      "value": "condo in Tamsen city across the valley",
+      "valid_from": null,
+      "valid_to": "2025-10-20",
+      "superseded_by": "cast.f73",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f73",
+      "subject": "judith",
+      "attribute": "home",
+      "value": "staying weekdays in Elliot's spare room at Marisol Gardens",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f74",
+      "subject": "judith",
+      "attribute": "job",
+      "value": "retired school librarian",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f75",
+      "subject": "andre",
+      "attribute": "job",
+      "value": "yard truck driver at Ridgeline RF-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f76",
+      "subject": "andre",
+      "attribute": "shift_schedule",
+      "value": "days, 6 a.m. to 2:30 p.m.",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "cast.f77",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f77",
+      "subject": "andre",
+      "attribute": "shift_schedule",
+      "value": "mandatory 10-hour days, 5 a.m. to 3:30 p.m.",
+      "valid_from": "2025-10-06",
+      "valid_to": "2025-11-23",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f78",
+      "subject": "keisha",
+      "attribute": "job",
+      "value": "school bus driver for Alcaraz Flats Unified",
+      "valid_from": null,
+      "valid_to": "2025-09-08",
+      "superseded_by": "cast.f79",
+      "class": "useful"
+    },
+    {
+      "id": "cast.f79",
+      "subject": "keisha",
+      "attribute": "job",
+      "value": "dispatcher at AFUSD transportation office",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f80",
+      "subject": "keisha",
+      "attribute": "help_offered",
+      "value": "drives Rochelle to Tamsen Valley when the family car is down",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f81",
+      "subject": "aaliyah",
+      "attribute": "school_program",
+      "value": "Tamsen Valley general ed, planning kinesiology",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f82",
+      "subject": "aaliyah",
+      "attribute": "job",
+      "value": "seasonal picker at Ridgeline, hired at the Sept 13 fair",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f83",
+      "subject": "aaliyah",
+      "attribute": "home",
+      "value": "lives with Rochelle and Andre",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f84",
+      "subject": "patricia",
+      "attribute": "job",
+      "value": "principal of Alcaraz Flats High since 2018",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f85",
+      "subject": "patricia",
+      "attribute": "priority_this_year",
+      "value": "chronic absence reduction with weekly teacher reports",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f86",
+      "subject": "patricia",
+      "attribute": "habit",
+      "value": "walks the Vinca drop-off line with a radio at 7:45",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f87",
+      "subject": "maribel",
+      "attribute": "job",
+      "value": "night charge nurse on 4 West at St. Anselm",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f88",
+      "subject": "maribel",
+      "attribute": "union_stance",
+      "value": "organizing yes votes for the Oct 23 union election",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f89",
+      "subject": "maribel",
+      "attribute": "habit",
+      "value": "writes vitals on her glove",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f90",
+      "subject": "kenji",
+      "attribute": "school_program",
+      "value": "Tamsen Valley CS, applying to transfer to Bayshore",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f91",
+      "subject": "kenji",
+      "attribute": "job",
+      "value": "cashier at Ruiz Family Market",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f92",
+      "subject": "kenji",
+      "attribute": "study_spot",
+      "value": "vault-wall outlets at Heron & Grind",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f93",
+      "subject": "ximena",
+      "attribute": "school_program",
+      "value": "cosmetology at Tamsen Valley College",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f94",
+      "subject": "ximena",
+      "attribute": "stand_help",
+      "value": "works the pupusa stand Saturdays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f95",
+      "subject": "ximena",
+      "attribute": "relationship_status",
+      "value": "dating Rafael for two years",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f96",
+      "subject": "eugene",
+      "attribute": "caseload",
+      "value": "480 students; Isabel's early-action meeting set for Oct 7",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f97",
+      "subject": "lucas",
+      "attribute": "college_plan",
+      "value": "applying early to the same engineering schools as Isabel",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f98",
+      "subject": "fernanda",
+      "attribute": "job",
+      "value": "AP English Language teacher at Flats High",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f99",
+      "subject": "harper",
+      "attribute": "schedule",
+      "value": "free SAT prep Saturdays 10-12 at the library",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f100",
+      "subject": "tyler",
+      "attribute": "school_program",
+      "value": "Flats High sophomore, JV football",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f101",
+      "subject": "sienna",
+      "attribute": "loyalty",
+      "value": "sides with Brianna in the friend-group split",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f102",
+      "subject": "eli",
+      "attribute": "school_program",
+      "value": "sophomore in Grace's third-period chemistry",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f103",
+      "subject": "camila",
+      "attribute": "job",
+      "value": "cashier at Taquería Colima, trained Dulce",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f104",
+      "subject": "hector",
+      "attribute": "job",
+      "value": "al pastor grill cook at Taquería Colima",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f105",
+      "subject": "roberto",
+      "attribute": "job",
+      "value": "teaches engine performance at Tamsen Valley, Tue/Thu 1-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f106",
+      "subject": "dante",
+      "attribute": "side_hustle",
+      "value": "flipping used Civics from auctions",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f107",
+      "subject": "luz",
+      "attribute": "business",
+      "value": "elote cart at the Delgado Park market",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f108",
+      "subject": "miriam",
+      "attribute": "job",
+      "value": "anatomy and physiology professor at Tamsen Valley, MWF 9 a.m. section",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f109",
+      "subject": "miriam",
+      "attribute": "exam_schedule",
+      "value": "first lab practical Oct 17",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f110",
+      "subject": "pedro",
+      "attribute": "study_group",
+      "value": "runs Tuesday 4 p.m. anatomy study group at the library",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f111",
+      "subject": "sam",
+      "attribute": "job",
+      "value": "weekend barista at Heron & Grind",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f112",
+      "subject": "wes",
+      "attribute": "order",
+      "value": "cortado at 7 a.m. daily",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f113",
+      "subject": "joan",
+      "attribute": "kitchen_rate",
+      "value": "$28 an hour at the Ruel Road commissary, 3-hour minimum",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f114",
+      "subject": "rick",
+      "attribute": "vendor_rule",
+      "value": "market vendors need a health permit and $85 weekly fee",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f115",
+      "subject": "stephen",
+      "attribute": "job",
+      "value": "operations management professor at Bayshore State",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f116",
+      "subject": "lena",
+      "attribute": "job",
+      "value": "career center advisor at Bayshore State, runs mock interviews",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f117",
+      "subject": "omar",
+      "attribute": "internship",
+      "value": "summer 2026 internship secured at a freight brokerage",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f118",
+      "subject": "gurpreet",
+      "attribute": "volunteer_role",
+      "value": "serves chai at Sunday langar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f119",
+      "subject": "holt",
+      "attribute": "job",
+      "value": "academic advisor in Bayshore State kinesiology",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f120",
+      "subject": "trevor",
+      "attribute": "job",
+      "value": "night picker at Ridgeline RF-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f121",
+      "subject": "jose",
+      "attribute": "job",
+      "value": "night shift lead in outbound at RF-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f122",
+      "subject": "fatima",
+      "attribute": "school_program",
+      "value": "Bayshore kinesiology sophomore",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f123",
+      "subject": "ana",
+      "attribute": "job",
+      "value": "HR generalist at Ridgeline RF-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f124",
+      "subject": "victor",
+      "attribute": "job",
+      "value": "acting IT desk lead at RF-4",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f125",
+      "subject": "bao",
+      "attribute": "job",
+      "value": "new IT technician at RF-4",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f126",
+      "subject": "rhonda",
+      "attribute": "job",
+      "value": "site operations director at RF-4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f127",
+      "subject": "jasmine",
+      "attribute": "job",
+      "value": "night RN on 4 West",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f128",
+      "subject": "ruben",
+      "attribute": "job",
+      "value": "night CNA on 4 West, charting super-user",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f129",
+      "subject": "nikhil",
+      "attribute": "job",
+      "value": "night hospitalist at St. Anselm",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f130",
+      "subject": "terrence",
+      "attribute": "job",
+      "value": "organizer for the state nurses union",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f131",
+      "subject": "gloria",
+      "attribute": "job",
+      "value": "property manager at Marisol Gardens, office hours 10-3 weekdays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f132",
+      "subject": "walter",
+      "attribute": "home",
+      "value": "Marisol Gardens unit 211",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f133",
+      "subject": "alicia",
+      "attribute": "job",
+      "value": "pediatrician at Plaza Marisol family clinic",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f134",
+      "subject": "brenda",
+      "attribute": "job",
+      "value": "division supervisor at the Tamsen County Assessor's Office",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f135",
+      "subject": "kaitlyn",
+      "attribute": "schedule",
+      "value": "baby story time Thursdays 10:30 at the library",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f136",
+      "subject": "luisa",
+      "attribute": "job",
+      "value": "picker at Ridgeline RF-4, days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f137",
+      "subject": "denny",
+      "attribute": "job",
+      "value": "nursing pathway counselor at Tamsen Valley College",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f138",
+      "subject": "dana",
+      "attribute": "job",
+      "value": "biology teacher at Flats High, shares lab room B12 with Grace",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f139",
+      "subject": "lupe",
+      "attribute": "job",
+      "value": "co-owner of Panadería Las Hermanas",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f140",
+      "subject": "chuy",
+      "attribute": "job",
+      "value": "butcher at Ruiz Family Market carnicería",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f141",
+      "subject": "mike",
+      "attribute": "job",
+      "value": "trainer at Iron Flats Fitness, 5 a.m. sessions",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f142",
+      "subject": "kyla",
+      "attribute": "job",
+      "value": "cashier at Cloud Nine Tea Bar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "cast.f143",
+      "subject": "ben",
+      "attribute": "role",
+      "value": "says Tagalog Mass, runs the Nov 22 food drive",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "cast.f144",
+      "subject": "anh",
+      "attribute": "business",
+      "value": "coffee cart under the Flats Junction canopy",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

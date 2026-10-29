@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s22",
+  "principal": "marcus",
+  "start": "2025-10-09T13:16:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick i have a biomechanics midterm coming up and need the lifting mechanics stuff explained. this is vampire week fr so short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Which concepts are on the midterm? If you're not sure, here's the core set:\n\n- Moment arm: the perpendicular distance from the joint to the line of force. A longer moment arm means more torque the muscles must resist.\n- Torque = force x moment arm. In a lift, the bar's weight creates an external torque at the hip, knee and spine. Your muscles have to produce an equal internal torque.\n- Bar path: the closer the bar stays to your body's center of mass, the shorter the moment arms and the less work the muscles do.\n- Levers: most joints are third-class levers, so muscles work at a mechanical disadvantage and need big forces to move small loads.\n- Force-velocity: you produce the most force at slow speeds, which is why heavy lifts grind.\n\nWant me to apply these to a specific lift?"
+    },
+    {
+      "role": "user",
+      "text": "yeah apply it to deadlift. my best is 375 and im trying to hit 405 by end of year. and i can only lift fri/sat mornings now so it has to fit two sessions a week"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the deadlift through those concepts:\n\n- Hip torque: with the bar over mid-foot and close to your shins, the moment arm at the hip stays short. If the bar drifts forward even a couple inches, hip and low-back torque jump. Keep it dragging up your legs.\n- Back angle: a flatter torso lengthens the moment arm at the hip, so the hips do the work. A rounding spine adds shear load, so brace first and keep the torso angle consistent.\n- Weak point: if it stalls off the floor, that's usually quad and starting-strength limited. If it stalls at the knees or lockout, it's hip extension.\n\nFor two sessions a week:\n- Day 1 (Fri): heavy deadlift, working up to a top set of 2-3 reps at about 85-90% of 375, then 1-2 lighter back-off sets with the same bar path.\n- Day 2 (Sat): a press and a squat, plus a light deadlift variation or a Romanian deadlift to build hip strength without much fatigue.\n- Add 5 lb to the top set most weeks and drop back if form slips. Going from 375 to 405 is 30 lb, so that fits in the time you have.\n\nWant the explanation tied to the midterm, or a full weekly plan?"
+    },
+    {
+      "role": "user",
+      "text": "what should i eat around those 2 days to get the most out of them. like timing"
+    },
+    {
+      "role": "assistant",
+      "text": "Since you have only two sessions, make each one count:\n\n- Before: 1-3 hours out, eat something with carbs and some protein that sits easy, like rice and eggs, oatmeal, or a banana with yogurt. If you lift first thing and can't eat much, a banana and some water works.\n- During: water. Sip enough that you aren't lightheaded.\n- After (within a couple hours): 25-40 g of protein plus carbs, like chicken and rice, to refill glycogen and start repair.\n- Day-to-day: aim for roughly 0.7-1 g of protein per pound of body weight spread across meals. Strength gets built in recovery, so on non-lifting days keep protein steady and don't skip meals.\n- Sleep: it matters as much as food. Even short, consistent sleep windows help.\n\nWant me to put this into a one-page cheat sheet for both the exam and the plan?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck on the midterm and with chasing that 405!"
+    }
+  ]
+}

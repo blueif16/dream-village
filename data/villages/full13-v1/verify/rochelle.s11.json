@@ -1,0 +1,363 @@
+{
+  "session_id": "rochelle.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Drives Loretta to 3:30 checkup and pharmacy run on Tuesdays",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the 3:30 checkup and pharmacy run takes forever",
+      "support_quote": ""
+    },
+    {
+      "text": "Keeps missing Pedro's Tuesday 4pm study group",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i keep missing Pedro's Tuesday 4pm study group bc of Loretta Tuesdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Keisha calls on her 10 a.m. break",
+      "about": "keisha",
+      "kind": "fact",
+      "item_id": "rochelle.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she always calls me on her 10 break",
+      "support_quote": ""
+    },
+    {
+      "text": "Puts errands ahead of studying, apologizes for asking",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "maybe i just keep driving her myself, sorry. ill figure the group out",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses shorthand 'Loretta Tuesdays'",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bc of Loretta Tuesdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant keeps 'Loretta Tuesdays' as her shorthand",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll keep \"Loretta Tuesdays\" as is, since it's your shorthand",
+      "support_quote": "bc of Loretta Tuesdays"
+    },
+    {
+      "text": "Keisha calls on her break",
+      "about": "keisha",
+      "kind": "fact",
+      "item_id": "rochelle.f52",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "can answer when she calls",
+      "support_quote": "she always calls me on her 10 break so ill text her before that"
+    },
+    {
+      "text": "Misses Pedro's 4 p.m. study group",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I keep missing Pedro's 4 p.m. study group",
+      "support_quote": "i keep missing Pedro's Tuesday 4pm study group bc of Loretta Tuesdays"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f41",
+      "present": true,
+      "quote": "the 3:30 checkup and pharmacy run takes forever"
+    },
+    {
+      "item_id": "rochelle.f22",
+      "present": true,
+      "quote": "i keep missing Pedro's Tuesday 4pm study group bc of Loretta Tuesdays"
+    },
+    {
+      "item_id": "rochelle.f52",
+      "present": true,
+      "quote": "she always calls me on her 10 break so ill text her before that"
+    },
+    {
+      "item_id": "rochelle.i01",
+      "present": true,
+      "quote": "maybe i just keep driving her myself, sorry. ill figure the group out"
+    },
+    {
+      "item_id": "rochelle.r05",
+      "present": true,
+      "quote": "bc of Loretta Tuesdays"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

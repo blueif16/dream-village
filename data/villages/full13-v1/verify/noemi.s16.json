@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s16",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Noemi is making a phishing-awareness poster for the break room after spam hit the night crew",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w3.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "spam email hit the night crew at work and i'm making a poster for the break room",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's usual coffee is a large iced black coffee",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got my usual large iced black coffee",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi plays a co-op survival game",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hopping into my co-op survival game after this",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi reuses the same password for everything personal",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "logging in w my usual password, same one as literally everything else i use lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi preaches phishing security yet reuses her password until scared",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "logging in w my usual password, same one as literally everything else i use lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi will print the poster tomorrow and play the game",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Have fun with the game, and good luck with the poster print tomorrow.",
+      "support_quote": "hopping into my co-op survival game after this"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i03",
+      "present": true,
+      "quote": "logging in w my usual password, same one as literally everything else i use lol"
+    },
+    {
+      "item_id": "noemi.f22",
+      "present": true,
+      "quote": "logging in w my usual password, same one as literally everything else i use lol"
+    },
+    {
+      "item_id": "noemi.f18",
+      "present": true,
+      "quote": "hopping into my co-op survival game after this"
+    },
+    {
+      "item_id": "noemi.f24",
+      "present": true,
+      "quote": "just got my usual large iced black coffee"
+    }
+  ],
+  "sensitive": []
+}

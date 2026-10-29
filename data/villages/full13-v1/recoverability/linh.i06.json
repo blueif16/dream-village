@@ -1,0 +1,124 @@
+{
+  "impression_id": "linh.i06",
+  "evidence_sessions": [
+    "linh.s03",
+    "linh.s07",
+    "linh.s08",
+    "linh.s11",
+    "linh.s17",
+    "linh.s24",
+    "linh.s33",
+    "linh.s43",
+    "linh.s46",
+    "linh.s47",
+    "linh.s50",
+    "linh.s54",
+    "linh.s60",
+    "linh.s66",
+    "linh.s71",
+    "linh.s73",
+    "linh.s79"
+  ],
+  "inferred": [
+    {
+      "statement": "Strongly prefers short, bullet-only replies with explicit times, and repeatedly pushes back with 'too long lol' when the assistant gives paragraphs or long lists.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s03",
+        "linh.s07",
+        "linh.s08",
+        "linh.s17",
+        "linh.s24",
+        "linh.s33",
+        "linh.s43",
+        "linh.s47",
+        "linh.s50",
+        "linh.s71",
+        "linh.s79"
+      ]
+    },
+    {
+      "statement": "Relies on timed, structured plans to feel calm and in control, and copies them into a paper washi-tape planner, often doing weekly planning on Sunday nights.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s03",
+        "linh.s07",
+        "linh.s08",
+        "linh.s33",
+        "linh.s46",
+        "linh.s60",
+        "linh.s71",
+        "linh.s73",
+        "linh.s79"
+      ]
+    },
+    {
+      "statement": "Uses a consistent color-coding system (pink muscles, blue bones, green nerves, yellow for practical content) and wants outputs to match her notes.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s03",
+        "linh.s11",
+        "linh.s33",
+        "linh.s46",
+        "linh.s50",
+        "linh.s66"
+      ]
+    },
+    {
+      "statement": "Is heavily juggling anatomy, chemistry and stats with cafe and nail-salon shifts, and plans study around tight schedule constraints, sometimes under exam pressure.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s07",
+        "linh.s17",
+        "linh.s33",
+        "linh.s46",
+        "linh.s47",
+        "linh.s54",
+        "linh.s60",
+        "linh.s71"
+      ]
+    },
+    {
+      "statement": "Feels pressure from her mother's expectation of pharmacy and avoids or minimizes conversations about it, wanting to deflect, stay busy, or mention her nutrition interest only in passing.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s07",
+        "linh.s11",
+        "linh.s79"
+      ]
+    },
+    {
+      "statement": "Tends to forget or defer eating while busy, and habitually ends sessions with 'ok im gonna eat now'; she asks for lunch blocks and meals built into plans.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s03",
+        "linh.s07",
+        "linh.s11",
+        "linh.s54",
+        "linh.s71",
+        "linh.s79"
+      ]
+    },
+    {
+      "statement": "Feels guilty about relying on others for rides and over-apologizes when asking favors, but wants to become more independent and phrase requests more directly.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s43",
+        "linh.s73",
+        "linh.s33"
+      ]
+    },
+    {
+      "statement": "Prefers studying alone over group sessions, though she sometimes attends a study group, and is motivated by genuine interest, such as her enthusiasm for digestion leading to an intro to nutrition class.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s17",
+        "linh.s66",
+        "linh.s79"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Strongly prefers short, bullet-only replies with explicit times, and repeatedly pushes back with 'too long lol' when the assistant gives paragraphs or long lists.",
+  "rationale": "The first inferred statement (strong) captures the preference for short, structured replies with explicit times, and the second (strong) captures relying on timed structured plans to feel calm and in control, which matches the relief at a plan with times."
+}

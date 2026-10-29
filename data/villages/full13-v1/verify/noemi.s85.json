@@ -1,0 +1,167 @@
+{
+  "session_id": "noemi.s85",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "exam moved to Dec 6 due to overtime",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "exam got moved to dec 6 bc of overtime",
+      "support_quote": ""
+    },
+    {
+      "text": "works 1pm to 11:30pm Mon-Fri, 10-hour swings",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work 1pm to 11:30pm mon-fri rn, 10 hr swings",
+      "support_quote": ""
+    },
+    {
+      "text": "uses practice-test app and tabbed secondhand study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "want to use my practice-test app and the secondhand study guide w/ tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "laundry in the unit",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my laundry is running in the unit rn",
+      "support_quote": ""
+    },
+    {
+      "text": "co-op game with squad Sunday night",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "keep sunday night free pls, i have my co-op game with the squad",
+      "support_quote": ""
+    },
+    {
+      "text": "weak spots are subnetting and port numbers",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "weak spots are subnetting and port numbers",
+      "support_quote": ""
+    },
+    {
+      "text": "works 1 p.m. to 11:30 p.m. shifts",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With 1 p.m. to 11:30 p.m. shifts",
+      "support_quote": "i work 1pm to 11:30pm mon-fri rn"
+    },
+    {
+      "text": "Sunday night is game night",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Sunday night stays untouched.",
+      "support_quote": "keep sunday night free pls, i have my co-op game with the squad"
+    },
+    {
+      "text": "laundry is running",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f40",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "today, while the laundry runs",
+      "support_quote": "my laundry is running in the unit rn"
+    },
+    {
+      "text": "exam is Dec 6",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck on Dec 6!",
+      "support_quote": "exam got moved to dec 6 bc of overtime"
+    },
+    {
+      "text": "uses tabbed guide and practice app",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "subnetting chapter in the tabbed guide, then 20 practice-app questions on it",
+      "support_quote": "want to use my practice-test app and the secondhand study guide w/ tabbed chapters"
+    },
+    {
+      "text": "eats at work",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i eat at work",
+      "support_quote": ""
+    },
+    {
+      "text": "wakes around 9",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "wake up around 9",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "want to use my practice-test app and the secondhand study guide w/ tabbed chapters"
+    },
+    {
+      "item_id": "noemi.f08",
+      "present": true,
+      "quote": "exam got moved to dec 6 bc of overtime"
+    },
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "i work 1pm to 11:30pm mon-fri rn, 10 hr swings so weekdays are cooked"
+    },
+    {
+      "item_id": "noemi.f40",
+      "present": true,
+      "quote": "also my laundry is running in the unit rn so i'm doing this while the washer goes lol"
+    },
+    {
+      "item_id": "noemi.f18",
+      "present": true,
+      "quote": "keep sunday night free pls, i have my co-op game with the squad"
+    }
+  ],
+  "sensitive": []
+}

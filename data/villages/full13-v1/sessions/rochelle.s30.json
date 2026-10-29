@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s30",
+  "principal": "rochelle",
+  "start": "2025-10-25T21:32:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest how do i tell my husband he doesnt have to take every overtime shift. its voluntary-ish at his job but he takes all of them. and i dont want it to sound like money is tight lol. i just got back from ruiz family market for tomorrows cooking and stayed under budget so im in a good mood about it"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work on the budget. Short version: make it about him and about the two of you, not the numbers.\n\nThings that work:\n- Pick a calm moment, not when he's just walked in or is half asleep.\n- Lead with what you've noticed: \"You've been getting home wiped out and falling asleep early. I miss having you around.\"\n- Frame it as a choice, not a rule: \"You don't have to say yes to every one. Maybe pick the ones you actually want.\"\n- Offer something instead: a dinner together, a free evening, a weekend morning.\n\nSample wording: \"Hey, I've noticed the ten-hour days are wearing you out. I'd rather have you rested and around more. What if you skipped a couple each month?\"\n\nAvoid: \"we can't afford,\" \"I'm worried about,\" or anything that sounds like checking his work."
+    },
+    {
+      "role": "user",
+      "text": "ok thats good. i wont mention the bills at all. he gets weird about being the provider. also my back is sore i just finished my saturday shift at the senior lunch at the community center, 18 an hour, it helps a little"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call keeping it off the bills. Your shift is also a natural opener, since you're pitching in without making it a big deal.\n\nYou could say: \"I'm picking up my Saturdays and it's working out fine, so you've got some room to ease off.\" That's calm, not alarming, and it doesn't hand him a worry. Keep it light.\n\nAlso, rest that back. Standing for hours is rough on a strain, so sit with your feet up for a bit tonight."
+    },
+    {
+      "role": "user",
+      "text": "can u make it shorter like 2 sentences i can just say"
+    },
+    {
+      "role": "assistant",
+      "text": "\"You've been wiped out lately and I'd love more of you at home. You don't have to take every shift, just the ones you actually want.\""
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "You got it. Good luck with the talk, and enjoy the cooking tomorrow."
+    }
+  ]
+}

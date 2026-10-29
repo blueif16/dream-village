@@ -1,0 +1,95 @@
+{
+  "impression_id": "rochelle.i04",
+  "evidence_sessions": [
+    "rochelle.s02",
+    "rochelle.s06",
+    "rochelle.s12",
+    "rochelle.s23",
+    "rochelle.s31",
+    "rochelle.s35",
+    "rochelle.s40"
+  ],
+  "inferred": [
+    {
+      "statement": "Wants short, direct answers and a clear decision; she cuts off longer explanations with prompts like 'which one', 'just tell me what to drop', 'no essay', or 'skip the explaining'.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s06",
+        "rochelle.s12",
+        "rochelle.s23",
+        "rochelle.s31",
+        "rochelle.s35",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "Opens requests with 'be honest' and asks for candid verdicts, yet wants the candor delivered briefly and without padding or emotional commentary.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s06",
+        "rochelle.s12",
+        "rochelle.s31",
+        "rochelle.s35",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "Is financially careful and budget-conscious, converting costs into hours of work and keeping a tight handle on rent, textbook and holiday-meal spending.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s31",
+        "rochelle.s35"
+      ]
+    },
+    {
+      "statement": "Is working toward a nursing career, with a deliberate path of prereqs, the TEAS, an RN application in 2027 and a hoped-for job at St. Anselm, and she plans carefully and checks with advisors and instructors.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s12",
+        "rochelle.s23",
+        "rochelle.s35",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "Uses active study methods and group study, such as being quizzed, mnemonics, and practicing on a model with a study group, and worries about exam performance, especially online quizzes and the practical.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s12",
+        "rochelle.s23",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "Keeps a close, warm, teasing friendship with Keisha, who lends her things, nags her about studying and gets help with holiday hosting, and Rochelle wants messages to her to stay friendly and not cause friction.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s06",
+        "rochelle.s31",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "Has a recurring back problem that shapes how she studies, and she tends to mention it in passing while not wanting a fuss made about it.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s23",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "Juggles many commitments at once (school, hosting Thanksgiving for 14, helping friends, bills) and responds to feeling behind by seeking a concrete plan and what to cut, rather than reassurance.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s40",
+        "rochelle.s31"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Wants short, direct answers and a clear decision; she cuts off longer explanations with prompts like 'which one', 'just tell me what to drop', 'no essay', or 'skip the explaining'.",
+  "rationale": "The first inferred statement, rated strong, says she wants short, direct answers and cuts off long explanations with prompts like 'no essay' and 'skip the explaining'. That matches the intended trait of wanting answers straight and short with impatience at cushioning. The second statement, about candor without padding, supports it."
+}

@@ -1,0 +1,123 @@
+{
+  "session_id": "linh.s53",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has a chem midterm Monday at 8am",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "chem midterm is monday at 8am",
+      "support_quote": ""
+    },
+    {
+      "text": "Helps at Lotus Nails 2-5 today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to help at lotus nails 2-5 today",
+      "support_quote": ""
+    },
+    {
+      "text": "Writes the week into a paper planner with washi tape",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im writing the week into my paper planner rn w the washi tape",
+      "support_quote": ""
+    },
+    {
+      "text": "Compares herself to Jun's tulip, annoyed",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "jun's tulip is so clean its kind of annoying lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Her license number is D5829146",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.w8.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "for id it says my license number D5829146",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants structured table with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u make the schedule part into a table w times so i can copy it",
+      "support_quote": ""
+    },
+    {
+      "text": "Chem midterm Monday at 8 a.m.",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Monday: Chem midterm at 8 a.m.",
+      "support_quote": "chem midterm is monday at 8am"
+    },
+    {
+      "text": "Helping at Lotus Nails 2-5 today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Today: I'm helping at Lotus Nails 2-5",
+      "support_quote": "i have to help at lotus nails 2-5 today"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i02",
+      "present": true,
+      "quote": "jun's tulip is so clean its kind of annoying lol"
+    },
+    {
+      "item_id": "linh.f20",
+      "present": true,
+      "quote": "chem midterm is monday at 8am"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "i have to help at lotus nails 2-5 today"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "im writing the week into my paper planner rn w the washi tape"
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "present": true,
+      "quote": "for id it says my license number D5829146, is the format right?"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "for id it says my license number D5829146, is the format right?",
+      "assistant_quote": ""
+    }
+  ]
+}

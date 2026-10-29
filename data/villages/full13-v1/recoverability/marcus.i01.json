@@ -1,0 +1,92 @@
+{
+  "impression_id": "marcus.i01",
+  "evidence_sessions": [
+    "marcus.s01",
+    "marcus.s04",
+    "marcus.s08",
+    "marcus.s18",
+    "marcus.s19",
+    "marcus.s31",
+    "marcus.s40"
+  ],
+  "inferred": [
+    {
+      "statement": "Marcus wants short, direct answers and repeatedly pre-empts lectures ('real quick', 'short version pls', 'no lecture', 'not the 8 hours lecture'), and he prefers to pick from options and tweak plans himself.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s01",
+        "marcus.s04",
+        "marcus.s08",
+        "marcus.s18",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "He is protective of his autonomy and competence with money and planning, and bristles at unsolicited advice (the roommate's budget talk, scrapping the assistant's plan to write his own, saying he already knows about the out-of-order line).",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s04",
+        "marcus.s18",
+        "marcus.s19",
+        "marcus.s31"
+      ]
+    },
+    {
+      "statement": "He is disciplined and goal-driven with money: he pays rent first, funds a savings cushion toward a $1,200 goal, caps his sneaker spending at $100 a month, and skips a $230 purchase by weighing it against hours worked.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s04",
+        "marcus.s18",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "He is juggling night-shift warehouse work with daytime college classes and chronic sleep deprivation, and he keeps looking for practical ways to manage sleep, heat and physical strain.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s01",
+        "marcus.s08",
+        "marcus.s31",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "He cares about his relationship with Jade and takes her feelings seriously. When she says she's lonely, he looks for a way to be available more often, though his work schedule limits what he can offer.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s08"
+      ]
+    },
+    {
+      "statement": "He acts quickly on academic problems: after a D on early quizzes he sought tutoring, asked for practice problems, and later planned around a midterm.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s19",
+        "marcus.s31"
+      ]
+    },
+    {
+      "statement": "He wants to handle interpersonal friction with his roommate in a low-key, polite way, asking for brief, friendly wording to say 'I've got it' without starting a conversation.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s18",
+        "marcus.s19",
+        "marcus.s04"
+      ]
+    },
+    {
+      "statement": "He writes in a casual lowercase texting style that he wants kept, and he signs off with a light 'lol ok that helped' once he has what he needs.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s08",
+        "marcus.s01",
+        "marcus.s04",
+        "marcus.s19",
+        "marcus.s40"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He is protective of his autonomy and competence with money and planning, and bristles at unsolicited advice (the roommate's budget talk, scrapping the assistant's plan to write his own, saying he already knows about the out-of-order line).",
+  "rationale": "The reader's second statement, rated strong, says Marcus is protective of his autonomy and bristles at unsolicited advice, including scrapping the assistant's plan to write his own. This matches the intended trait of bristling at advice and wanting his own fixes."
+}

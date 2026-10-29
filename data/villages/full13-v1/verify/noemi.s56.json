@@ -1,0 +1,373 @@
+{
+  "session_id": "noemi.s56",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Submitted application for permanent IT desk lead",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just submitted my application for the permanent IT desk lead at work",
+      "support_quote": ""
+    },
+    {
+      "text": "Ana in HR handles internal posting paperwork",
+      "about": "ana",
+      "kind": "fact",
+      "item_id": "noemi.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ana in hr handles the internal posting paperwork",
+      "support_quote": ""
+    },
+    {
+      "text": "Rhonda said decision comes after peak, mid-December",
+      "about": "rhonda",
+      "kind": "fact",
+      "item_id": "noemi.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rhonda told me the decision comes after peak, mid-december",
+      "support_quote": ""
+    },
+    {
+      "text": "Covering Greg's duties without the title",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm already covering greg's stuff. vendor tickets, scanner RMAs, scheduling. no title tho",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'Acting Victor' for Victor",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "acting victor slowed down a ticket tonight again",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Noemi is covering desk duties like vendor tickets, RMAs, scheduling",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Covering those duties is exactly the kind of evidence a panel wants for a lead role",
+      "support_quote": "i'm already covering greg's stuff. vendor tickets, scanner RMAs, scheduling."
+    },
+    {
+      "text": "Assistant says decision is mid-December",
+      "about": "rhonda",
+      "kind": "fact",
+      "item_id": "noemi.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you have a long runway before mid-December to build it",
+      "support_quote": "rhonda told me the decision comes after peak, mid-december"
+    },
+    {
+      "text": "Assistant says Ana handles process",
+      "about": "ana",
+      "kind": "fact",
+      "item_id": "noemi.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Check in with Ana.",
+      "support_quote": "ana in hr handles the internal posting paperwork"
+    },
+    {
+      "text": "Assistant says a ticket was slowed by another person",
+      "about": "noemi",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "On the ticket slowing down: document it neutrally",
+      "support_quote": "acting victor slowed down a ticket tonight again"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f36",
+      "present": true,
+      "quote": "just submitted my application for the permanent IT desk lead at work"
+    },
+    {
+      "item_id": "noemi.f51",
+      "present": true,
+      "quote": "ana in hr handles the internal posting paperwork"
+    },
+    {
+      "item_id": "noemi.f50",
+      "present": true,
+      "quote": "rhonda told me the decision comes after peak, mid-december"
+    },
+    {
+      "item_id": "noemi.f32",
+      "present": true,
+      "quote": "i'm already covering greg's stuff. vendor tickets, scanner RMAs, scheduling. no title tho"
+    },
+    {
+      "item_id": "noemi.r04",
+      "present": true,
+      "quote": "acting victor slowed down a ticket tonight again"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

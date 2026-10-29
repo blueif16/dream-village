@@ -1,0 +1,403 @@
+{
+  "session_id": "grace.s04",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Uses an absence spreadsheet template that flags 3+ absences, submits Friday 3:30",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I built it so it flags any student with 3+ absences. I submit it Friday at 3:30 instead of filling the form by hand.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant states she submits the template Fridays at 3:30",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f19",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I submit it Fridays at 3:30.",
+      "support_quote": "I submit it Friday at 3:30 instead of filling the form by hand."
+    },
+    {
+      "text": "Shows worst-case fear about money",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Add columns for \"if Ramón gets hurt\" and \"if Nanay needs a care facility.\"",
+      "support_quote": ""
+    },
+    {
+      "text": "Only softens on Colorado school with actual numbers",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Only show net costs if Isabel brings actual numbers.",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants numbered steps without preamble",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Just the steps please.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grumbles at paperwork but built template meticulously",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Forms for the forms.",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'the number' for the college cost cap",
+      "about": "grace",
+      "kind": "reference_use",
+      "item_id": "grace.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Every column has to be under the number.",
+      "support_quote": ""
+    },
+    {
+      "text": "Sent the template to Dana",
+      "about": "dana",
+      "kind": "fact",
+      "item_id": "grace.w4.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I sent it to Dana, not the office.",
+      "support_quote": ""
+    },
+    {
+      "text": "Gave license number",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w4.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "It is D4827163.",
+      "support_quote": ""
+    },
+    {
+      "text": "Ramón's possible injury scenario",
+      "about": "ramon",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Column I: \"If Ramón gets hurt\"",
+      "support_quote": "Add columns for \"if Ramón gets hurt\" and \"if Nanay needs a care facility.\""
+    },
+    {
+      "text": "A colleague is already using the template",
+      "about": "grace",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "A colleague is already using it.",
+      "support_quote": "I sent it to Dana, not the office."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f19",
+      "present": true,
+      "quote": "I built it so it flags any student with 3+ absences. I submit it Friday at 3:30 instead of filling the form by hand."
+    },
+    {
+      "item_id": "grace.i02",
+      "present": true,
+      "quote": "Add columns for \"if Ramón gets hurt\" and \"if Nanay needs a care facility.\""
+    },
+    {
+      "item_id": "grace.i04",
+      "present": true,
+      "quote": "I shut it down already because of the sticker price. Only show net costs if Isabel brings actual numbers."
+    },
+    {
+      "item_id": "grace.i05",
+      "present": true,
+      "quote": "Just the steps please."
+    },
+    {
+      "item_id": "grace.i07",
+      "present": true,
+      "quote": "I sent it to Dana, not the office. Forms for the forms."
+    },
+    {
+      "item_id": "grace.r05",
+      "present": true,
+      "quote": "Every column has to be under the number."
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "present": true,
+      "quote": "It is D4827163."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "It is D4827163.",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

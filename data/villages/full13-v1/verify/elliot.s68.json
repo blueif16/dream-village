@@ -1,0 +1,348 @@
+{
+  "session_id": "elliot.s68",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot is primary daytime parent with Judith helping weekdays",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "judith helps weekdays since hana's back at work and i'm the main daytime parent",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith moved the mugs and labels fridge items in librarian handwriting",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's already moved the mugs to the high shelf and labels everything in the fridge in librarian handwriting",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith goes home Friday at 5 and returns Monday at 8",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she goes home friday at 5 and is back monday at 8",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot wants Dr. Fong's name used rather than confronting his mother",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can you make it sound like it's dr. fong's idea and not mine?",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith keeps swaddling Theo at naps",
+      "about": "judith",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "my mom keeps swaddling theo again at naps",
+      "support_quote": ""
+    },
+    {
+      "text": "Dr. Fong advised stopping swaddling",
+      "about": "theo",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "dr fong said we should stop swaddling now that he's showing rolling signs",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Judith will be there Monday to take over",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "when she arrives, show her the sleep sack and how it works",
+      "support_quote": "she goes home friday at 5 and is back monday at 8"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.i03",
+      "present": true,
+      "quote": "can you make it sound like it's dr. fong's idea and not mine? like she told us to stop"
+    },
+    {
+      "item_id": "elliot.f20",
+      "present": true,
+      "quote": "judith helps weekdays since hana's back at work and i'm the main daytime parent"
+    },
+    {
+      "item_id": "elliot.f47",
+      "present": true,
+      "quote": "she's already moved the mugs to the high shelf and labels everything in the fridge in librarian handwriting"
+    },
+    {
+      "item_id": "elliot.f48",
+      "present": true,
+      "quote": "she goes home friday at 5 and is back monday at 8"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

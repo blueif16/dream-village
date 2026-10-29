@@ -1,0 +1,252 @@
+{
+  "principal": "noemi",
+  "week": 7,
+  "entries": [
+    {
+      "id": "noemi.w7.l01",
+      "date": "2025-10-06",
+      "what": "Sleeps in until 9 a.m., then drives her hatchback to Ruel Road for the first 10-hour swing of mandatory overtime, 1 p.m. to 11:30 p.m. Spends the evening in the cage clearing a pile of frozen handhelds.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Survived the first long shift, home near midnight.",
+      "feeling": "drained, wary",
+      "facts": [
+        "noemi.f03",
+        "noemi.f02",
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l02",
+      "date": "2025-10-06",
+      "what": "Eats leftover rice bowl at her desk in the IT cage next to the outbound break room and tells Bao the new quota will spike scanner failures.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Agrees to move training time around the longer shift.",
+      "feeling": "braced",
+      "facts": [
+        "noemi.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l03",
+      "date": "2025-10-07",
+      "what": "Morning at home with Iris leaving for work at 8; Noemi studies subnetting for an hour. At Ridgeline she trains Bao on trigger board swaps at 3 p.m.",
+      "with": [
+        "iris",
+        "bao"
+      ],
+      "outcome": "Bao completes a swap alone.",
+      "feeling": "patient, tired",
+      "facts": [
+        "noemi.f35",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l04",
+      "date": "2025-10-07",
+      "what": "Evening of many dead scanners and pickers falling behind rate; Carla calls her cell about three dead units on the outbound dock.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Swaps out the scanners, but the night stays chaotic.",
+      "feeling": "harried, dry-humored",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l05",
+      "date": "2025-10-08",
+      "what": "Late morning she sketches a plain-language guide for night pickers on rebooting frozen handhelds and asks her assistant to help write it in plain English and Spanish.",
+      "with": [],
+      "outcome": "Gets a short draft to print for the break room.",
+      "feeling": "focused, helpful",
+      "facts": [
+        "noemi.f01"
+      ],
+      "impressions": [
+        "noemi.i02"
+      ]
+    },
+    {
+      "id": "noemi.w7.l06",
+      "date": "2025-10-08",
+      "what": "Swing shift: tapes printed reboot guides near the outbound break room and walks a few pickers through the steps. Candidate forum talk about warehouse growth buzzes in the break room.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Pickers use the guide the same night; fewer cage tickets.",
+      "feeling": "satisfied",
+      "facts": [],
+      "impressions": [
+        "noemi.i02"
+      ]
+    },
+    {
+      "id": "noemi.w7.l07",
+      "date": "2025-10-09",
+      "what": "Studies for the cert with the practice-test app before shift, missing a handful of port-number questions.",
+      "with": [],
+      "outcome": "Notes port numbers as the drill for the weekend.",
+      "feeling": "stubborn",
+      "facts": [
+        "noemi.f09",
+        "noemi.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l08",
+      "date": "2025-10-09",
+      "what": "Trains Bao on scanner repairs 3-5 p.m., then works the rest of the 10-hour swing. Iris orders Thursday sushi, saved for her to eat after midnight.",
+      "with": [
+        "bao",
+        "iris"
+      ],
+      "outcome": "Bao handles a battery swap and a trigger board.",
+      "feeling": "tired but okay",
+      "facts": [
+        "noemi.f35",
+        "noemi.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l09",
+      "date": "2025-10-10",
+      "what": "Fills up at the Ruel Road station and grabs Taquería Colima for her Friday shift meal.",
+      "with": [],
+      "outcome": "Lunch dealt with, one less thing to plan.",
+      "feeling": "routine comfort",
+      "facts": [
+        "noemi.f17",
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l10",
+      "date": "2025-10-10",
+      "what": "Heavy Friday swing with scanner RMAs piling up; she updates the RMA sheet after hours and logs desk tickets.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Sheet is current but a dozen units still wait for the vendor.",
+      "feeling": "stretched",
+      "facts": [
+        "noemi.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l11",
+      "date": "2025-10-11",
+      "what": "Walks the Ulloa marsh boardwalk in the morning, then works her every-other-Saturday overtime shift at Ridgeline.",
+      "with": [],
+      "outcome": "Fresh air helped before the long day.",
+      "feeling": "calm then tired",
+      "facts": [
+        "noemi.f26",
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l12",
+      "date": "2025-10-11",
+      "what": "On break she forwards Iris's suggested study calendar to her assistant and asks it to be tweaked around overtime days.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Gets a revised calendar with short weeknight sessions and a Sunday block.",
+      "feeling": "relieved",
+      "facts": [
+        "noemi.f46",
+        "noemi.f45"
+      ],
+      "impressions": [
+        "noemi.i04"
+      ]
+    },
+    {
+      "id": "noemi.w7.l13",
+      "date": "2025-10-12",
+      "what": "Visits her parents' fourplex off Vinca Avenue, fixes the printer, and her brother Mateo asks for help building his first PC for his December birthday.",
+      "with": [],
+      "outcome": "Agrees to help with a parts list.",
+      "feeling": "warm, amused",
+      "facts": [
+        "noemi.f29",
+        "noemi.f27",
+        "noemi.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w7.l14",
+      "date": "2025-10-12",
+      "what": "Spends a quiet afternoon on subnetting drills with the study guide, then plays the co-op survival game with her squad as packetloss_.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Finishes a drill set and a game session before bed.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19",
+        "noemi.f12"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w7.n01",
+      "subject": "noemi",
+      "attribute": "break_room_guide",
+      "value": "taped bilingual reboot guide for frozen handhelds near the outbound break room",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w7.n02",
+      "subject": "noemi",
+      "attribute": "weekend_study_block",
+      "value": "Sunday afternoon block added to the study calendar",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w7.n03",
+      "subject": "noemi",
+      "attribute": "pc_build_parts_list",
+      "value": "agreed to draft a parts list for Mateo's PC",
+      "valid_from": "2025-10-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w7.n04",
+      "subject": "bao",
+      "attribute": "repair_milestone",
+      "value": "completed a trigger board swap unassisted",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

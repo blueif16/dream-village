@@ -1,0 +1,16 @@
+{
+  "session_id": "arjun.s67",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [],
+  "flags": [
+    {
+      "kind": "unparseable",
+      "item_id": null,
+      "detail": "render failed twice"
+    }
+  ],
+  "passed": false,
+  "checks": [],
+  "sensitive": []
+}

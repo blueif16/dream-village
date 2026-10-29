@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s03",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "The cage is full with eleven overheated scanners tonight",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w1.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "eleven overheated ones tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term 'the cage'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the cage is full lol",
+      "support_quote": ""
+    },
+    {
+      "text": "The cage is next to the outbound break room",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the cage is next to the outbound break room",
+      "support_quote": ""
+    },
+    {
+      "text": "About 620 handhelds on the floor",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we've got about 620 handhelds on the floor",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the cage is next to the outbound break room",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f53",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Bring it to the cage, next to the outbound break room.",
+      "support_quote": "the cage is next to the outbound break room"
+    },
+    {
+      "text": "Assistant says about 620 handhelds on the floor",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "We have about 620 handhelds on the floor.",
+      "support_quote": "we've got about 620 handhelds on the floor"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "the cage is full lol"
+    },
+    {
+      "item_id": "noemi.w1.n01",
+      "present": true,
+      "quote": "eleven overheated ones tonight"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "we've got about 620 handhelds on the floor"
+    },
+    {
+      "item_id": "noemi.f53",
+      "present": true,
+      "quote": "add that the cage is next to the outbound break room"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "thao.s08",
+  "principal": "thao",
+  "start": "2025-09-09T15:40:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 3:40 and i'm dead. just came off shift and sat through the paid 8 hour charting training this morning. i normally sleep 8:30 to 3 with blackout curtains and a box fan and that obviously didn't happen. how much sleep do i need before tonight and when should i cut off caffeine"
+    },
+    {
+      "role": "assistant",
+      "text": "Rough day. Here's the short version:\n\n- Sleep: aim for a nap of 90 minutes (one full cycle) or 3-4 hours if you can get it. Even 90 minutes helps a lot.\n- Timing: sleep as soon as you can, and set an alarm so you wake at least 2-3 hours before you need to be alert. Waking up from deep sleep right before work makes grogginess worse.\n- Caffeine: it stays active for roughly 5-6 hours (half-life), so keep it out of the pre-nap window. Skip it for at least 6 hours before you try to sleep. Use it after you wake, and again early in your shift, then taper off in the second half so you can sleep afterward.\n- Also: dim lights, cool room, bright light when you wake.\n\nWhat time do you need to be up and when does your shift start?"
+    },
+    {
+      "role": "user",
+      "text": "shift starts 7. i'm heading to ruiz family market for fish sauce and produce on the way home, want something to eat before bed. also is a second thermos of cà phê sữa đá too much for tonight"
+    },
+    {
+      "role": "assistant",
+      "text": "Plan for the nap:\n\n- Eat light: something with protein and some carbs, not heavy or greasy. Eggs and rice, or a rice bowl with veg and a little protein, or yogurt and fruit. A big meal can disrupt sleep.\n- Nap: get home, eat, then sleep about 3-4 hours, and set an alarm for about 3 hours before your shift so you have time to wake up.\n- Caffeine: no coffee until after you wake.\n\nOn the second thermos: for a long night, two thermoses of cà phê sữa đá is usually in the range of 400 mg or a bit more, depending on how strong you brew. That's about the upper limit for most adults per day. Since you're running on a sleep deficit, I'd do this: drink the first thermos in the first half of your shift, and only open the second if you really need it around midnight to 2 a.m. Stop by about 3 a.m. so you can fall asleep after. If you're jittery or your heart races, skip the second.\n\nWant a quick pre-shift schedule with times?"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "isabel.s22",
+  "principal": "isabel",
+  "start": "2025-10-03T23:19:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "should i switch to early decision. lucas told me at robotics yesterday hes doing ED to the top school on my list and i genuinely cant stop thinking about it"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to dig into it. Quick background so I'm not guessing: early decision is binding, so if you're admitted you have to enroll and withdraw your other applications. Regular admission keeps your options and lets you compare aid offers. Two questions: is that top school your clear first choice regardless of what Lucas does, and does your family need to compare financial aid packages before committing?"
+    },
+    {
+      "role": "user",
+      "text": "idk honestly. its the top one on my list yes. and i cant really think about it properly until after the SAT tmrw at tamsen valley. its like 11pm"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a fair limit. A decision this big doesn't need to be made tonight, and you have time before early deadlines. The test is tomorrow, so the useful move now is to sleep. Tomorrow evening you can work through it with a clear head.\n\nWhat I'd do then: write down why that school is your first choice, aside from Lucas applying there. If the reasons hold up without his name in them, ED is worth a serious look. If the main pull is not wanting him to get ahead of you, that's a signal to stay with regular admission."
+    },
+    {
+      "role": "user",
+      "text": "ok. money thing tho. i have the SAT fee waiver but not application waivers at most private schools so an ED fee actually matters"
+    },
+    {
+      "role": "assistant",
+      "text": "Good catch. Some schools charge an application fee and offer a waiver request form, so check whether this school has one for ED applicants. Also, the bigger money issue with ED is that you can't compare aid offers from other schools. You can run the school's net price calculator now to see whether the likely cost is workable. Many schools release you from ED if the aid package truly isn't affordable, but check their exact policy."
+    },
+    {
+      "role": "user",
+      "text": "also im 16 so i cant sign the ED agreement alone right"
+    },
+    {
+      "role": "assistant",
+      "text": "Most ED agreements have a signature section for a parent or guardian as well as you and your counselor, so yes, that's likely to matter. Check that school's exact form and rules. It also means the conversation at home has to happen before you commit, not after. If you'd like, I can help you make a short list of questions to bring to your counselor meeting."
+    },
+    {
+      "role": "user",
+      "text": "yeah do that. short version"
+    },
+    {
+      "role": "assistant",
+      "text": "Questions for your counselor:\n1. Is ED realistic for this school given my profile?\n2. What is the deadline and does it have a fee waiver?\n3. What happens if the aid package isn't affordable?\n4. Who signs the agreement, and when is it due?\n5. Which of my other schools should stay as regular applications?\n\nNow go sleep. Good luck tomorrow."
+    },
+    {
+      "role": "user",
+      "text": "ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Bye, good luck on the test!"
+    }
+  ]
+}

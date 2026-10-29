@@ -1,0 +1,343 @@
+{
+  "principal": "isabel",
+  "week": 2,
+  "entries": [
+    {
+      "id": "isabel.w2.l01",
+      "date": "2025-09-01",
+      "what": "Labor Day, no school. Isabel sleeps in, then does her dishes and checks that Lola Cora takes her lunch while Ramón is on a dispatch shift.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Quiet day, chores done.",
+      "feeling": "lazy, content",
+      "facts": [
+        "isabel.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l02",
+      "date": "2025-09-01",
+      "what": "Family picnic at Delgado Park in the afternoon with Grace, Ramón and Lola Cora. Isabel rolls her eyes at Grace's questions about the college list but eats the pancit.",
+      "with": [
+        "grace",
+        "ramon",
+        "corazon"
+      ],
+      "outcome": "Got through the picnic without a fight.",
+      "feeling": "mildly annoyed",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l03",
+      "date": "2025-09-01",
+      "what": "At midnight Isabel rereads her marsh personal statement, still at draft 4 and unseen by anyone, and tweaks the opening line on Ramón's old desktop.",
+      "with": [],
+      "outcome": "Changed three words and did not share it.",
+      "feeling": "restless",
+      "facts": [
+        "isabel.f19",
+        "isabel.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l04",
+      "date": "2025-09-02",
+      "what": "Walks to school, then goes to the first robotics meeting of the new schedule in room C7, 3:30 to 6.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Got her subteam assignment sketched out.",
+      "feeling": "energized",
+      "facts": [
+        "isabel.f16",
+        "isabel.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l05",
+      "date": "2025-09-02",
+      "what": "After robotics she eats dinner late, does her calc problem set at the kitchen table, and runs through two practice SAT sections.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Finished homework around 11.",
+      "feeling": "tired, focused",
+      "facts": [
+        "isabel.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l06",
+      "date": "2025-09-02",
+      "what": "Isabel goes to bed around 1 a.m. with the alarm set for 6:50.",
+      "with": [],
+      "outcome": "Short night as usual.",
+      "feeling": "sleepy",
+      "facts": [
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l07",
+      "date": "2025-09-03",
+      "what": "School day with APUSH and AP Chem under Mr. Ostrowski. She skips Cloud Nine at lunch to save money.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Normal day.",
+      "feeling": "fine",
+      "facts": [
+        "isabel.f48",
+        "isabel.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l08",
+      "date": "2025-09-03",
+      "what": "Before her first tutoring session she asks the assistant for a fun way to teach fractions with pizza drawings. Then she tutors Mateo, a Kessler Middle seventh-grader, 4 to 5 for $20, and sets the money aside toward her $160 application-fee fund.",
+      "with": [],
+      "outcome": "First session went well and Mateo laughed at the pizza slices.",
+      "feeling": "patient, pleased",
+      "facts": [
+        "isabel.f29",
+        "isabel.f60",
+        "isabel.f30"
+      ],
+      "impressions": [
+        "isabel.i05"
+      ]
+    },
+    {
+      "id": "isabel.w2.l09",
+      "date": "2025-09-03",
+      "what": "Does dishes, then reads for APUSH on her bed.",
+      "with": [],
+      "outcome": "Chapter done.",
+      "feeling": "calm",
+      "facts": [
+        "isabel.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l10",
+      "date": "2025-09-04",
+      "what": "Robotics in C7 runs 3:30 to 6. She and Lucas argue over a drivetrain gear ratio.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Her ratio was tested and kept for now.",
+      "feeling": "competitive",
+      "facts": [
+        "isabel.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l11",
+      "date": "2025-09-04",
+      "what": "At home she pastes an essay paragraph into a draft and cuts a sentence, then sets up a college-only email address so Grace cannot see messages in the family inbox.",
+      "with": [],
+      "outcome": "New email address ready for college mail.",
+      "feeling": "secretive, satisfied",
+      "facts": [
+        "isabel.f50",
+        "isabel.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l12",
+      "date": "2025-09-04",
+      "what": "Ramón is off shift and takes her driving in the Ruel Road lots for an hour.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Practiced parallel parking, no cones hit.",
+      "feeling": "proud",
+      "facts": [
+        "isabel.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l13",
+      "date": "2025-09-05",
+      "what": "Asks the assistant about managing her week. When the answer runs long about time management she cuts it off with 'ok i didn't ask for a TED talk'.",
+      "with": [],
+      "outcome": "Got a short version instead.",
+      "feeling": "irritated",
+      "facts": [],
+      "impressions": [
+        "isabel.i07"
+      ]
+    },
+    {
+      "id": "isabel.w2.l14",
+      "date": "2025-09-05",
+      "what": "Ms. Lugo reads one draft per student on Fridays, so Isabel gets her turn with a different assignment instead of the personal statement, which she is not ready to show.",
+      "with": [
+        "fernanda"
+      ],
+      "outcome": "Got feedback on a class essay, kept the statement hidden.",
+      "feeling": "relieved, evasive",
+      "facts": [
+        "isabel.f58",
+        "isabel.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l15",
+      "date": "2025-09-05",
+      "what": "Goes to the Egrets home football opener with Nadia, who takes yearbook photos from the stands.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Egrets game was loud, and Nadia got her shots.",
+      "feeling": "cheerful",
+      "facts": [
+        "isabel.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l16",
+      "date": "2025-09-06",
+      "what": "Spends Saturday morning at the library with Harper for SAT prep, 10 to 12, timing each section with the kitchen timer.",
+      "with": [
+        "harper"
+      ],
+      "outcome": "Math section went better than reading.",
+      "feeling": "determined",
+      "facts": [
+        "isabel.f10",
+        "isabel.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l17",
+      "date": "2025-09-06",
+      "what": "Afternoon at the homework center working on her snow list, then walks home past the marsh and photographs egrets for her tally.",
+      "with": [],
+      "outcome": "Added two sightings to her notebook.",
+      "feeling": "quietly happy",
+      "facts": [
+        "isabel.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l18",
+      "date": "2025-09-06",
+      "what": "Dinner at home, then Isabel and Nadia text late about colleges.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Bed late.",
+      "feeling": "wired",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l19",
+      "date": "2025-09-07",
+      "what": "Goes with Lola Cora and Grace to Tagalog Mass at 9, then Lola Cora cooks sinigang for Sunday lunch.",
+      "with": [
+        "corazon",
+        "grace"
+      ],
+      "outcome": "Ate the sinigang and pretended not to care much.",
+      "feeling": "cozy",
+      "facts": [
+        "isabel.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l20",
+      "date": "2025-09-07",
+      "what": "Grace grades at the table while Isabel does a practice SAT section nearby. They talk about essays and Isabel gives short answers.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Tense but no fight.",
+      "feeling": "guarded",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w2.l21",
+      "date": "2025-09-07",
+      "what": "Evening homework and dishes, then she reworks her college list spreadsheet before bed.",
+      "with": [],
+      "outcome": "Ready for the week.",
+      "feeling": "steady",
+      "facts": [
+        "isabel.f45"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "isabel.w2.n01",
+      "subject": "isabel",
+      "attribute": "sat_practice_pace",
+      "value": "does two timed practice sections on Tuesday nights",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w2.n02",
+      "subject": "isabel",
+      "attribute": "driving_practice",
+      "value": "practiced parallel parking with Ramón in the Ruel Road lots",
+      "valid_from": "2025-09-04",
+      "valid_to": "2025-09-13",
+      "superseded_by": "isabel.w3.n03",
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w2.n03",
+      "subject": "nadia",
+      "attribute": "yearbook_task",
+      "value": "shot photos at the football opener",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w2.n04",
+      "subject": "isabel",
+      "attribute": "first_tutoring_session",
+      "value": "Mateo laughed at the pizza fraction drawings",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w2.n05",
+      "subject": "isabel",
+      "attribute": "weekend_plan",
+      "value": "doing a practice SAT section at the table while Grace grades on Sundays",
+      "valid_from": "2025-09-07",
+      "valid_to": "2025-10-03",
+      "superseded_by": "grace.w6.n03",
+      "class": "useful"
+    }
+  ]
+}

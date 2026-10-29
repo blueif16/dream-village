@@ -1,0 +1,373 @@
+{
+  "session_id": "jun.s15",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "sore from pickup basketball at Delgado Park this morning",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sore from pickup basketball at delgado park this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "puts weekly sales and receipt totals in notes app instead of the shoebox",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im just putting the week's sales and receipt totals into my notes app instead of dealing with the shoebox",
+      "support_quote": ""
+    },
+    {
+      "text": "calls the receipt pile 'the shoebox'",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can i just guess the total for the shoebox?",
+      "support_quote": ""
+    },
+    {
+      "text": "numbers paperwork has been sitting for days",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "numbers stuff has been sitting on my plate for days",
+      "support_quote": ""
+    },
+    {
+      "text": "mom added three more dozen coworker orders on the fridge list",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom added three more dozen coworker orders on the fridge list",
+      "support_quote": ""
+    },
+    {
+      "text": "mom added three dozen orders",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.w4.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom added three more dozen coworker orders on the fridge list",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun is notes-app tracking receipts",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "write the batch totals in your notes app",
+      "support_quote": "im just putting the week's sales and receipt totals into my notes app instead of dealing with the shoebox"
+    },
+    {
+      "text": "Jun's mom sells/collects coworker orders",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If your mom collects the money from her coworkers and passes it to you",
+      "support_quote": "my mom added three more dozen coworker orders on the fridge list"
+    },
+    {
+      "text": "Jun played basketball",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Rest up after the basketball.",
+      "support_quote": "sore from pickup basketball at delgado park this morning"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f23",
+      "present": true,
+      "quote": "im just putting the week's sales and receipt totals into my notes app instead of dealing with the shoebox"
+    },
+    {
+      "item_id": "jun.r01",
+      "present": true,
+      "quote": "can i just guess the total for the shoebox?"
+    },
+    {
+      "item_id": "jun.i01",
+      "present": true,
+      "quote": "numbers stuff has been sitting on my plate for days"
+    },
+    {
+      "item_id": "jun.f51",
+      "present": true,
+      "quote": "my mom added three more dozen coworker orders on the fridge list, how do i count those sales"
+    },
+    {
+      "item_id": "jun.f41",
+      "present": true,
+      "quote": "sore from pickup basketball at delgado park this morning"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

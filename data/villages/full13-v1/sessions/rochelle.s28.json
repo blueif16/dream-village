@@ -1,0 +1,47 @@
+{
+  "id": "rochelle.s28",
+  "principal": "rochelle",
+  "start": "2025-10-22T22:16:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need a plan for the week before my cumulative final. anatomy. i do index cards plus printed practice quizzes from the library and time myself with the kitchen timer now. need that built in"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to build that in. To make it fit, I need a few things from you:\n\n1. What days and times are already taken (work, pickups, errands)?\n2. When is the final, and what topics does it cover?\n3. How long is each timed quiz, and how many do you want to do?\n\nShort answers are fine."
+    },
+    {
+      "role": "user",
+      "text": "final is dec 15. andre is on 10 hour days so im doing dinner most nights and he crashes early. DeShawn pickups from practice are on me except tuesdays. tuesday is Loretta Tuesdays 3:30 pharmacy run with my mother in law so it keeps cutting into Pedros group 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. So Tuesday afternoon is short: the 3:30 pharmacy run with your mother-in-law cuts into the study group. I'd treat Tuesday as a light day and move the heavy study to other days.\n\nOne more question: when can you sit down for a timed quiz without interruptions?"
+    },
+    {
+      "role": "user",
+      "text": "only after 9pm at the kitchen table when the house is quiet. thats the only time i can do a timed quiz for real. and i dont want to do them on a screen. i freeze when the timer starts on the laptop lol. can u get me more printable practice questions so i can do them like a real test"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, paper it is. Here's the week, built around 9 p.m. at the kitchen table:\n\n**Mon:** Cook dinner, DeShawn pickup. After 9 p.m.: timed paper quiz on the first half of the material, kitchen timer on, cards after.\n**Tue:** Light day. Catch what you can of the group before 3:30, then the pharmacy run. After 9 p.m.: 20 min of cards only.\n**Wed:** After 9 p.m.: timed paper quiz on the second half.\n**Thu:** After 9 p.m.: redo the questions you missed, untimed, then cards.\n**Fri:** After 9 p.m.: full timed paper quiz, mixed topics.\n**Sat:** Review misses for 30-40 min in the morning. Stop early.\n**Sun:** Cards only, then rest.\n\nFor printable practice questions, I can write you a set right now. Tell me which topics, and I'll format them as a one-page paper quiz with an answer key on a separate page, so you can print them at the library and run the timer like a real test."
+    },
+    {
+      "role": "user",
+      "text": "short version of the quiz topics pls. i have 20 min before pickup"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: send me the topic list from your professor and I'll turn it into a paper quiz. Or just say \"body systems, first half\" and I'll write 20 questions now. Either way you'll have a one-page quiz plus an answer key you can print."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Send the topics when you're ready and the quiz will be waiting. Good luck with pickup."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "session_id": "elliot.s03",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot has a spreadsheet with tabs for feeds, naps, diapers and incidents",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a spreadsheet with tabs for feeds, naps, diapers and 'incidents'",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot wants room temperature and layers formulas, a research-style approach",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can you help me set up columns for room temperature and how many onesie layers per degree?",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is 5 weeks old",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "he's 5 weeks old",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo's evening fussing 5-8 gets worse in heat",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the evening fussing from like 5 to 8 gets way worse when it's hot",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot's Wi-Fi camera monitor drops when the microwave runs",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the wifi camera monitor keeps dropping whenever the microwave runs",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant refers to Elliot's existing other tabs",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A heat tab fits well alongside your other tabs.",
+      "support_quote": "i have a spreadsheet with tabs for feeds, naps, diapers and 'incidents'"
+    },
+    {
+      "text": "Theo has a 5-8 p.m. fussy stretch",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Evening (5-8 p.m. fussy stretch)**",
+      "support_quote": "the evening fussing from like 5 to 8 gets way worse when it's hot"
+    },
+    {
+      "text": "Elliot's Wi-Fi monitor drops when the microwave runs",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since the Wi-Fi drops when the microwave runs, don't rely on it alone",
+      "support_quote": "the wifi camera monitor keeps dropping whenever the microwave runs"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.i01",
+      "present": true,
+      "quote": "can you help me set up columns for room temperature and how many onesie layers per degree? plus a formula that flags when the nursery gets too warm"
+    },
+    {
+      "item_id": "elliot.f09",
+      "present": true,
+      "quote": "i have a spreadsheet with tabs for feeds, naps, diapers and 'incidents' and i want to add a heat tab to it"
+    },
+    {
+      "item_id": "elliot.f32",
+      "present": true,
+      "quote": "the wifi camera monitor keeps dropping whenever the microwave runs"
+    },
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "the evening fussing from like 5 to 8 gets way worse when it's hot so it needs an evening section"
+    }
+  ],
+  "sensitive": []
+}

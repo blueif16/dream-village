@@ -1,0 +1,85 @@
+{
+  "impression_id": "linh.i02",
+  "evidence_sessions": [
+    "linh.s30",
+    "linh.s34",
+    "linh.s53",
+    "linh.s57",
+    "linh.s80"
+  ],
+  "inferred": [
+    {
+      "statement": "Linh repeatedly checks how she stacks up against classmates (percentiles, class averages, where she 'should be by now'), even when her own results are strong, suggesting a pull toward external benchmarking and reassurance.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s30",
+        "linh.s34",
+        "linh.s57"
+      ]
+    },
+    {
+      "statement": "Linh organizes her life with color coding and a paper planner decorated with washi tape, and asks for outputs in short, bulleted, copy-ready formats that fit those systems.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s30",
+        "linh.s34",
+        "linh.s53",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "Linh depends on family and friends for logistics (rides from Kenji, weekly plans shared with her mom and Kenji) and seeks approval, even pleading for confirmation that her plan is okay.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s34",
+        "linh.s53"
+      ]
+    },
+    {
+      "statement": "Linh juggles heavy work and family obligations (early shifts, closing shifts, helping at Lotus Nails, cooking for four) alongside her coursework, and plans tightly around them.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s30",
+        "linh.s53",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "Linh finds it hard to say no or set boundaries without feeling mean, as when asked to cover shifts, and wants wording that stays friendly and guilt-free.",
+      "strength": "weak",
+      "sessions": [
+        "linh.s30"
+      ]
+    },
+    {
+      "statement": "Linh is warm and generous toward people close to her, such as thanking Kenji, treating her sister Thao to phở, and cooking for her family.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s57",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "Linh prefers brief, direct, practical replies and ends sessions casually, often saying she's going to eat now, with a tired emoji.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s30",
+        "linh.s53",
+        "linh.s57",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "Linh is academically driven and plans ahead by studying systematically and tracking grades, joining a study group for the first time after studying alone.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s30",
+        "linh.s34",
+        "linh.s57"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Linh repeatedly checks how she stacks up against classmates (percentiles, class averages, where she 'should be by now'), even when her own results are strong, suggesting a pull toward external benchmarking and reassurance.",
+  "rationale": "The first inferred statement, rated strong, says Linh repeatedly checks how she stacks up against classmates (percentiles, class averages, where she 'should be by now'). That matches the constant peer-measuring pattern. It does not mention denial of competing, but the core behavior is captured."
+}

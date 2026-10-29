@@ -1,0 +1,358 @@
+{
+  "session_id": "marcus.s25",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Works ten-hour nights 9pm to 7:30am Sun-Thu",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im on ten hour nights 9pm to 7:30am sun thru thu",
+      "support_quote": ""
+    },
+    {
+      "text": "Trevor picks him up at 8:15",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "trevor picks me up at 8:15",
+      "support_quote": ""
+    },
+    {
+      "text": "Sleeps 8:30 to 1:30",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sleep is like 8:30 to 1:30 normally",
+      "support_quote": ""
+    },
+    {
+      "text": "Biomechanics midterm Oct 16",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the midterm is oct 16",
+      "support_quote": ""
+    },
+    {
+      "text": "Fatima's shared notes",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll lean on fatima's shared notes for the gaps",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a study block that must end before the 8:15 pickup",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a study block today has to end before the 8:15 pickup",
+      "support_quote": "trevor picks me up at 8:15 so anything has to be done before then"
+    },
+    {
+      "text": "Wakes at 1:30",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Wake at 1:30.",
+      "support_quote": "sleep is like 8:30 to 1:30 normally"
+    },
+    {
+      "text": "Has until Thursday for midterm",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You have until Thursday",
+      "support_quote": "the midterm is oct 16"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f05",
+      "present": true,
+      "quote": "im on ten hour nights 9pm to 7:30am sun thru thu so not much time lol"
+    },
+    {
+      "item_id": "marcus.f55",
+      "present": true,
+      "quote": "i'll lean on fatima's shared notes for the gaps instead of reading the whole textbook"
+    },
+    {
+      "item_id": "marcus.f25",
+      "present": true,
+      "quote": "the midterm is oct 16"
+    },
+    {
+      "item_id": "marcus.f18",
+      "present": true,
+      "quote": "trevor picks me up at 8:15 so anything has to be done before then"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

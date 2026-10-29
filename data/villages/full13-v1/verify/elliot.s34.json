@@ -1,0 +1,102 @@
+{
+  "session_id": "elliot.s34",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot is up for the 2 a.m. feed",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "up for the 2 am feed",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot jokes about panicking perfectly to mask being overwhelmed",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i am scoring a perfect game in panicking",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is on gentle partially hydrolyzed formula suggested by Dr. Fong",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's on the gentle formula (partially hydrolyzed, dr. fong suggested it for fussiness)",
+      "support_quote": ""
+    },
+    {
+      "text": "Camera monitor dropped when microwave ran",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the camera monitor dropped out when i heated a bottle in the microwave",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is 2.5 months old with his first cold",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.w6.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's 2.5 months old and this is his first cold",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is on a gentle partially hydrolyzed formula",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Partially hydrolyzed formulas are designed to be easier to digest",
+      "support_quote": "he's on the gentle formula (partially hydrolyzed, dr. fong suggested it for fussiness)"
+    },
+    {
+      "text": "Elliot checked Theo by hand after camera dropped",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Checking him by hand is perfectly fine",
+      "support_quote": "the camera monitor dropped out when i heated a bottle in the microwave so i've been checking him by hand like it's 1995"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "2:19 am update. up for the 2 am feed and theo's breathing sounds stuffy."
+    },
+    {
+      "item_id": "elliot.i02",
+      "present": true,
+      "quote": "i am scoring a perfect game in panicking 🙃"
+    },
+    {
+      "item_id": "elliot.f14",
+      "present": true,
+      "quote": "he's on the gentle formula (partially hydrolyzed, dr. fong suggested it for fussiness)"
+    },
+    {
+      "item_id": "elliot.f32",
+      "present": true,
+      "quote": "the camera monitor dropped out when i heated a bottle in the microwave so i've been checking him by hand like it's 1995"
+    }
+  ],
+  "sensitive": []
+}

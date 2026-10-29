@@ -1,0 +1,358 @@
+{
+  "session_id": "elliot.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Went to Ruiz Family Market Saturday with Theo in carrier; only orders diapers for delivery",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i went to ruiz family market yesterday morning with theo in the carrier, bought real groceries",
+      "support_quote": ""
+    },
+    {
+      "text": "Buys oat milk",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got oat milk for my coffee and eggs",
+      "support_quote": ""
+    },
+    {
+      "text": "Leave started Aug 11",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my leave started aug 11",
+      "support_quote": ""
+    },
+    {
+      "text": "Supervisor sends quick check-in emails about return",
+      "about": "brenda",
+      "kind": "fact",
+      "item_id": "elliot.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's the type who'll send a 'quick check-in' that is not quick",
+      "support_quote": ""
+    },
+    {
+      "text": "Left sorry note and pan dulce at 211's door, over-apologizing",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the note said sorry like three times",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Saturday morning trips, delivery only diapers",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You've already cut delivery down to one category (diapers)",
+      "support_quote": "now the only thing i order for delivery is diapers"
+    },
+    {
+      "text": "Assistant says he's a few weeks into leave",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you're only a few weeks into your leave",
+      "support_quote": "my leave started aug 11"
+    },
+    {
+      "text": "Assistant says he said sorry three times to neighbor",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Saying sorry three times probably tipped past what the situation needed.",
+      "support_quote": "the note said sorry like three times"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "i went to ruiz family market yesterday morning with theo in the carrier, bought real groceries, got oat milk for my coffee and eggs, and now the only thing i order for delivery is diapers"
+    },
+    {
+      "item_id": "elliot.i06",
+      "present": true,
+      "quote": "yesterday i left a note and a bag of pan dulce at 211's door after theo's rough crying night. the note said sorry like three times."
+    },
+    {
+      "item_id": "elliot.f02",
+      "present": true,
+      "quote": "my leave started aug 11 and i know my supervisor's going to start with the return-date emails any day now"
+    },
+    {
+      "item_id": "elliot.f37",
+      "present": true,
+      "quote": "got oat milk for my coffee and eggs"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

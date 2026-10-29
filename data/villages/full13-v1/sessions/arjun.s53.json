@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s53",
+  "principal": "arjun",
+  "start": "2025-10-20T12:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q, typing this at lunch between my MWF 9-12 classes and i have to be at th career center front desk in like 20 min. i just dropped model un, keeping supply chain club, PSA treasurer and th case team. how do i formally withdraw from a club so its done properly? and does leaving affect my involvement record or transcript"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**How to withdraw properly**\n1. Email the club president or advisor with a clear, dated message saying you're stepping down effective [date].\n2. Check the club's constitution or your campus's student org platform. Some require you to be removed from the roster there, not just by the club.\n3. If you held an officer role, tell the advisor so they can update the officer list.\n4. Save a copy of the email for your records.\n\n**Transcript / involvement record**\n- Club membership almost never appears on an academic transcript. Only credit-bearing activities do.\n- Co-curricular or involvement records, if your school keeps one, usually reflect what's on the org platform, so removing yourself there keeps it accurate. Leaving mid-semester generally doesn't count against you.\n- To be sure, ask the student activities office whether your school keeps a co-curricular transcript.\n\nWant a 3-line withdrawal email you can send?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also theres shared files, th officers drive and a budget sheet. how do i hand those off politely so nobody gets stuck"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's an email plus a handoff checklist.\n\n**Email**\nSubject: Stepping down from Model UN\n\nHi [president's name],\n\nI'm writing to let you know I'm stepping down from Model UN, effective [date]. Thank you for the opportunity. I've enjoyed working with the team.\n\nTo make the transition smooth, I'll hand off the shared files by [date] and can walk someone through them if helpful. Please let me know who should take ownership.\n\nBest,\n[your name]\n\n**File handoff checklist**\n- List every shared file (drive folders, budget sheet, contact lists) with a one-line description of each.\n- Transfer ownership of each to the president or the person they name, rather than just removing yourself.\n- Note anything time-sensitive in the budget sheet: pending reimbursements, upcoming deadlines, login details kept in a safe place, not in the doc.\n- Offer a short 15-minute walkthrough in the email, or add a \"how this works\" tab.\n- Remove yourself from access only after the new owner confirms they can open everything.\n\nThat way nobody's locked out or left guessing."
+    },
+    {
+      "role": "user",
+      "text": "perfect, thx. gotta run"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck at the desk! Send that email today and the handoff should go smoothly."
+    }
+  ]
+}

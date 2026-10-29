@@ -1,0 +1,103 @@
+{
+  "session_id": "isabel.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has an approved SAT fee waiver",
+      "about": "isabel",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i just checked my status and it says approved",
+      "support_quote": ""
+    },
+    {
+      "text": "Is saving $160 for application fees beyond waivers",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im saving $160 for app fees beyond the waivers",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a 4.1 weighted GPA",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a 4.1 weighted gpa",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a ranked list of schools called the snow list",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "which schools on the snow list charge the highest application fees",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a 4.1 weighted GPA, which is strong",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A 4.1 weighted is strong",
+      "support_quote": "i have a 4.1 weighted gpa"
+    },
+    {
+      "text": "Has a $160 budget for application fees",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "before spending your $160",
+      "support_quote": "im saving $160 for app fees beyond the waivers"
+    },
+    {
+      "text": "Has an SAT fee waiver that can back her up",
+      "about": "isabel",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "your SAT waiver can back you up",
+      "support_quote": "i just checked my status and it says approved"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f30",
+      "present": true,
+      "quote": "im saving $160 for app fees beyond the waivers. how many schools does that cover"
+    },
+    {
+      "item_id": "isabel.f03",
+      "present": true,
+      "quote": "i have a 4.1 weighted gpa, does that help get waivers or merit aid at schools that dont offer waivers"
+    },
+    {
+      "item_id": "isabel.r01",
+      "present": true,
+      "quote": "which schools on the snow list charge the highest application fees"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

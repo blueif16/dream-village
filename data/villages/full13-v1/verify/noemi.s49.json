@@ -1,0 +1,117 @@
+{
+  "session_id": "noemi.s49",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Port numbers trip her up in practice tests",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ports keep tripping me up in practice tests",
+      "support_quote": ""
+    },
+    {
+      "text": "Exam is Nov 8 at Tamsen city testing center",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "exam is nov 8 at the tamsen city testing center",
+      "support_quote": ""
+    },
+    {
+      "text": "Greg's last day is tomorrow",
+      "about": "greg",
+      "kind": "fact",
+      "item_id": "noemi.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "his last day is tomorrow",
+      "support_quote": ""
+    },
+    {
+      "text": "Greg's last day is tomorrow",
+      "about": "greg",
+      "kind": "fact",
+      "item_id": "noemi.f47",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Greg's last day is tomorrow, so the list can only be handled while he's still around.",
+      "support_quote": "his last day is tomorrow and i still need the list from him"
+    },
+    {
+      "text": "Uses an RMA sheet she must update before handoff",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gotta update the RMA sheet before handoff",
+      "support_quote": ""
+    },
+    {
+      "text": "Considers pushing the exam and wants a lighter plan because work is heavy",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u give me a lighter study plan for the next few weeks, nothing crazy, work is heavy rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Practice scores are low 70s",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Low 70s with several weeks left is a workable spot",
+      "support_quote": "low 70s again yesterday"
+    },
+    {
+      "text": "Needs to update the RMA sheet before handoff",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "RMA sheet update before handoff",
+      "support_quote": "gotta update the RMA sheet before handoff"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "ports keep tripping me up in practice tests"
+    },
+    {
+      "item_id": "noemi.f07",
+      "present": true,
+      "quote": "exam is nov 8 at the tamsen city testing center and the clock is ticking lol"
+    },
+    {
+      "item_id": "noemi.f47",
+      "present": true,
+      "quote": "his last day is tomorrow and i still need the list from him"
+    },
+    {
+      "item_id": "noemi.r02",
+      "present": true,
+      "quote": "gotta update the RMA sheet before handoff"
+    },
+    {
+      "item_id": "noemi.i05",
+      "present": true,
+      "quote": "should i just push it"
+    }
+  ],
+  "sensitive": []
+}

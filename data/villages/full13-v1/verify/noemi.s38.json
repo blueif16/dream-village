@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s38",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi walks the boardwalk on Saturday morning",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "came up with the idea on my boardwalk walk this morning lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Fleet is about 620 handhelds",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "about 620 handhelds in the fleet total",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi has a personal sheet of scanner RMAs",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i pulled the numbers on frozen units from the RMA sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi asks for plain friendly wording for night pickers, patient tone",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its for night pickers so plain and friendly pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the fleet is about 620 handhelds",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "We keep about 620 handhelds running.",
+      "support_quote": "about 620 handhelds in the fleet total, want that on it"
+    },
+    {
+      "text": "Assistant refers to the user's sheet of frozen-unit numbers",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If you drop in the frozen-unit number from your sheet",
+      "support_quote": "i pulled the numbers on frozen units from the RMA sheet"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.r02",
+      "present": true,
+      "quote": "i pulled the numbers on frozen units from the RMA sheet"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "about 620 handhelds in the fleet total, want that on it"
+    },
+    {
+      "item_id": "noemi.f26",
+      "present": true,
+      "quote": "came up with the idea on my boardwalk walk this morning lol"
+    },
+    {
+      "item_id": "noemi.i02",
+      "present": true,
+      "quote": "its for night pickers so plain and friendly pls, and one line in spanish too"
+    }
+  ],
+  "sensitive": []
+}

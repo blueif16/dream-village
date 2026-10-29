@@ -1,0 +1,373 @@
+{
+  "session_id": "isabel.s02",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Takes AP Chem, AP Lang, AP Calc AB, APUSH, physics",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "classes: AP Chem, AP Lang, AP Calc AB, APUSH, physics",
+      "support_quote": ""
+    },
+    {
+      "text": "Alarm at 6:50 and usually out around 1am",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "alarm is 6:50 and im usually out around 1am",
+      "support_quote": ""
+    },
+    {
+      "text": "Does dishes weeknights and checks grandma ate lunch on dad's work days",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also dishes every weeknight and on days my dad is working i have to make sure my grandma ate lunch",
+      "support_quote": ""
+    },
+    {
+      "text": "AP Chem is with Mr. Ostrowski, not her mom",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "chem reading is for Mr. Ostrowski's class, not my mom's",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses dad's old desktop for essays late evening, school laptop otherwise",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "essay stuff has to be late evening, thats when i can use my dads old desktop",
+      "support_quote": ""
+    },
+    {
+      "text": "Plans for 5-6 hours of sleep with dishes and lunch check",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll plan for about 5 to 6 hours of sleep on school nights, with dishes and a lunch check built in",
+      "support_quote": "alarm is 6:50 and im usually out around 1am"
+    },
+    {
+      "text": "Chem reading is for Mr. Ostrowski's class",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "AP Chem reading for Mr. Ostrowski's class",
+      "support_quote": "chem reading is for Mr. Ostrowski's class, not my mom's"
+    },
+    {
+      "text": "Essay work on the desktop",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The essay slots sit late because that's when you have the desktop",
+      "support_quote": "essay stuff has to be late evening, thats when i can use my dads old desktop"
+    },
+    {
+      "text": "Grandma lunch check if dad is working",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "lunch check for your grandma if your dad is working",
+      "support_quote": "on days my dad is working i have to make sure my grandma ate lunch"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f02",
+      "present": true,
+      "quote": "classes: AP Chem, AP Lang, AP Calc AB, APUSH, physics"
+    },
+    {
+      "item_id": "isabel.f33",
+      "present": true,
+      "quote": "cant assume 8 hrs sleep lol, alarm is 6:50 and im usually out around 1am"
+    },
+    {
+      "item_id": "isabel.f45",
+      "present": true,
+      "quote": "also dishes every weeknight and on days my dad is working i have to make sure my grandma ate lunch so that eats into afternoons"
+    },
+    {
+      "item_id": "isabel.f48",
+      "present": true,
+      "quote": "chem reading is for Mr. Ostrowski's class, not my mom's, genuinely so relieved about that"
+    },
+    {
+      "item_id": "isabel.f25",
+      "present": true,
+      "quote": "essay stuff has to be late evening, thats when i can use my dads old desktop"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

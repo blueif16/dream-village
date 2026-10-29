@@ -1,0 +1,102 @@
+{
+  "session_id": "elliot.s80",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "takes Theo to Thursday 10:30 library baby story time",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f54",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we go every thursday 10:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has an infant spot at Little Egrets Learning Center on Pell Road starting Jan 5",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Theo has a spot at Little Egrets Learning Center on Pell Road starting Jan 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has a spot at Little Egrets starting Jan 5",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Theo has a spot at Little Egrets Learning Center on Pell Road starting Jan 5",
+      "support_quote": "Theo has a spot at Little Egrets Learning Center on Pell Road starting Jan 5"
+    },
+    {
+      "text": "211 (Walter) tapes notes to the door",
+      "about": "walter",
+      "kind": "reference_use",
+      "item_id": "elliot.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "211 taped another note to the door",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot lives in unit 209",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Elliot, 209",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot holds his ground with neighbor, no apology",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i didn't put a sorry in it. is that fine?",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot jokes about the neighbor score to cope while exhausted",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "scoreboard: dad 1, neighbor 0. 🙃",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f54",
+      "present": true,
+      "quote": "a mom i met at thursday baby story time at the library (we go every thursday 10:30)"
+    },
+    {
+      "item_id": "elliot.f18",
+      "present": true,
+      "quote": "Theo has a spot at Little Egrets Learning Center on Pell Road starting Jan 5"
+    },
+    {
+      "item_id": "elliot.r02",
+      "present": true,
+      "quote": "211 taped another note to the door"
+    },
+    {
+      "item_id": "elliot.i06",
+      "present": true,
+      "quote": "i didn't put a sorry in it. is that fine?"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "linh.s46",
+  "principal": "linh",
+  "start": "2025-10-12T23:03:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok can u turn this into a countdown to the practical pls. its friday oct 17. today is sunday and i worked the cafe then lotus nails front desk 2-5 so sunday night is tight"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few quick questions so the times fit:\n\n1. What are your class and work hours this week?\n2. How much study time can you realistically fit each day?\n3. What do you want the color tags to be?\n\nIf you tell me those, I'll make it short and time-stamped."
+    },
+    {
+      "role": "user",
+      "text": "tags match my notes: pink muscles, blue bones, green nerves, yellow for stuff thats on the practical. mon/wed i close 3-9 so those nights only light review. anatomy is mwf 9am. bullets pls, too long makes my brain hurt 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's your countdown, kept short:\n\n**Sun (tonight)**\n- 🟡 9:45-10:15 pm: skim your yellow list once, then sleep\n\n**Mon (close 3-9)**\n- 🩷 7:30-8 am: muscles flashcards before class\n- After 9 pm: 🟡 15 min light review only\n\n**Tue**\n- 🩷 4:00-5:30 pm: muscles, full pass\n- 💙 7:00-8:00 pm: bones, full pass\n\n**Wed (close 3-9)**\n- 💚 7:30-8 am: nerves flashcards before class\n- After 9 pm: 🟡 15 min light review only\n\n**Thu**\n- 💚 4:00-5:30 pm: nerves, full pass\n- 🟡 7:00-8:30 pm: yellow list, quiz yourself out loud\n\n**Fri, practical day**\n- 🟡 7:30-8 am: one last look at the yellow list\n- 9 am: the practical. Eat breakfast first.\n\nWant me to adjust any block?"
+    },
+    {
+      "role": "user",
+      "text": "omg ok this is perfect. i can actually see the week now. im gonna copy it into my paper planner with washi tape rn"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps. Washi tape in matching colors would work well here: pink, blue, green and yellow blocks. Good luck Friday. Eat something while you copy it down!"
+    }
+  ]
+}

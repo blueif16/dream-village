@@ -1,0 +1,112 @@
+{
+  "session_id": "linh.s76",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Pedro runs a Tuesday 4 p.m. anatomy group at the library",
+      "about": "pedro",
+      "kind": "fact",
+      "item_id": "cast.f110",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "for his tuesday 4pm anatomy group",
+      "support_quote": ""
+    },
+    {
+      "text": "Pedro has 3D-printed bone models",
+      "about": "pedro",
+      "kind": "fact",
+      "item_id": "linh.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pedro's 3d printed bone models",
+      "support_quote": ""
+    },
+    {
+      "text": "Kenji has a dented silver hatchback and drives Linh Tue/Thu",
+      "about": "kenji",
+      "kind": "fact",
+      "item_id": "linh.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kenji has the dented silver hatchback and he already drives me tue/thu",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh attends Pedro's Tuesday 4 p.m. anatomy group at the library",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its still pouring and i need to get pedro's 3d printed bone models to the library dry for his tuesday 4pm anatomy group",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh puts others' logistics before her own cold and wet socks",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my socks are soaked and im kinda freezing lol but whatever",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's socks are wet and she is cold",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "wet socks and being cold can make a long day miserable",
+      "support_quote": "my socks are soaked and im kinda freezing lol"
+    },
+    {
+      "text": "Kenji does a Tue/Thu hatchback run",
+      "about": "kenji",
+      "kind": "fact",
+      "item_id": "linh.f52",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "kenji: grab the kit on ur tue/thu hatchback run → library",
+      "support_quote": "he already drives me tue/thu so can he just do his usual tue/thu run"
+    },
+    {
+      "text": "Pedro's anatomy group is Tuesday 4 pm at the library",
+      "about": "pedro",
+      "kind": "fact",
+      "item_id": "cast.f110",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "pedro's tuesday 4 pm anatomy group at the library",
+      "support_quote": "for his tuesday 4pm anatomy group"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i03",
+      "present": true,
+      "quote": "my socks are soaked and im kinda freezing lol but whatever"
+    },
+    {
+      "item_id": "linh.f57",
+      "present": true,
+      "quote": "i need to get pedro's 3d printed bone models to the library dry"
+    },
+    {
+      "item_id": "linh.f52",
+      "present": true,
+      "quote": "kenji has the dented silver hatchback and he already drives me tue/thu so can he just do his usual tue/thu run and grab the kit on the way"
+    },
+    {
+      "item_id": "linh.f22",
+      "present": true,
+      "quote": "for his tuesday 4pm anatomy group"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,138 @@
+{
+  "session_id": "jun.s18",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "First Friday commissary block just ended",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "first friday commissary block just ended and i have to pack everything up",
+      "support_quote": ""
+    },
+    {
+      "text": "Opened at the cafe at 6:15 this morning",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i opened at 6:15 this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term the Saturday table",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how many should i even put out on the saturday table at the end of the counter",
+      "support_quote": ""
+    },
+    {
+      "text": "Getting al pastor on the way home",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im grabbing al pastor on the way home as a reward lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun finished the first commissary block",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on finishing the first block!",
+      "support_quote": "first friday commissary block just ended and i have to pack everything up"
+    },
+    {
+      "text": "Jun is running on fumes",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Since you're running on fumes",
+      "support_quote": "i opened at 6:15 this morning and only napped like an hour before the kitchen"
+    },
+    {
+      "text": "Jun has a Saturday table at the cafe counter",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Saturday table**",
+      "support_quote": "how many should i even put out on the saturday table at the end of the counter"
+    },
+    {
+      "text": "Jun is getting tacos on the way home",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Eat your tacos, then go straight to bed.",
+      "support_quote": "im grabbing al pastor on the way home as a reward lol"
+    },
+    {
+      "text": "Jun has a borrowed chest cooler",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "one borrowed chest cooler",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f16",
+      "present": true,
+      "quote": "first friday commissary block just ended and i have to pack everything up"
+    },
+    {
+      "item_id": "jun.f02",
+      "present": true,
+      "quote": "i opened at 6:15 this morning and only napped like an hour before the kitchen"
+    },
+    {
+      "item_id": "jun.r03",
+      "present": true,
+      "quote": "how many should i even put out on the saturday table at the end of the counter"
+    },
+    {
+      "item_id": "jun.f39",
+      "present": true,
+      "quote": "im grabbing al pastor on the way home as a reward lol"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

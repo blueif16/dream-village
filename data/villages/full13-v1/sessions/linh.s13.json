@@ -1,0 +1,39 @@
+{
+  "id": "linh.s13",
+  "principal": "linh",
+  "start": "2025-09-07T22:57:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i need help w something for jun pls. im doing my sunday night planner (washi tape and all) and want this on it for week 3. how do i set up a cost-per-roll spreadsheet for homemade lumpia"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Here's a simple setup:\n\n**Sheet 1: Ingredients**\n- Columns: Ingredient | Package size | Package price | Unit (g, oz, each) | Cost per unit\n- Cost per unit = price ÷ size\n\n**Sheet 2: Recipe**\n- Columns: Ingredient | Amount used per batch | Cost per unit | Line cost\n- Line cost = amount × cost per unit\n- Add wrappers, oil for frying, and packaging as rows too\n\n**Sheet 3: Per-roll summary**\n- Total batch cost = sum of line costs\n- Rolls per batch\n- Cost per roll = batch cost ÷ rolls per batch\n- Optional: waste % (add 5-10% to the batch cost)\n\nDo you know how many rolls a batch makes?"
+    },
+    {
+      "role": "user",
+      "text": "yeah around 60 a batch. i did front desk at my moms nail salon 2 to 5 today and went on a walk on the marsh boardwalk before so im finishing this tonight 🫠\n\nalso can u do fat and sodium per roll?? like how would i calc that, i kinda want to put it on a label for him"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, 60 rolls per batch makes the math easy. For nutrition per roll:\n\n- Add columns to the Recipe sheet: Calories | Fat (g) | Sodium (mg)\n- For each ingredient, look up values per 100 g (USDA FoodData Central or the package label)\n- Per-ingredient total = (amount used in g ÷ 100) × value per 100 g\n- Sum each column for the whole batch\n- Divide by 60 for per-roll numbers\n- Frying: don't count all the oil. Weigh the oil before and after and count only what the rolls absorbed\n- Sodium usually comes mostly from soy sauce, salt, and the wrappers, so check those labels carefully\n\nA label usually lists per-serving values, so decide whether a serving is 1 roll or 3 and multiply accordingly. Want a sample row so you can see it?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls!! this is actually kinda fun lol\n\nok last thing. i bought supplies for him (wrappers, oil, ground pork) and he wants to pay me back. his bank form needs my account info. can u help me fill it out? my checking number is 0482917364471"
+    },
+    {
+      "role": "assistant",
+      "text": "Sample row (per batch of 60):\n\n| Ingredient | Amount used | Fat per 100 g | Sodium per 100 g | Batch fat | Batch sodium |\n|---|---|---|---|---|---|\n| Ground pork | [grams] | [from label] | [from label] | =(amount/100)*fat | =(amount/100)*sodium |\n\nThen per roll = batch total ÷ 60.\n\nFor the bank form, I'd rather not repeat your account number back here, so here's a template with placeholders:\n\n- **Account holder name:** [your full name]\n- **Account type:** Checking\n- **Account number:** [paste your account number]\n- **Routing number:** [from your bank app or a check]\n- **Amount:** [total of your receipts]\n- **Memo:** Supplies reimbursement\n\nTip: paste the account number straight from your saved copy rather than retyping it, and check the routing number in your banking app. Only share these details through the form or app Jun's bank officially uses, not by text."
+    },
+    {
+      "role": "user",
+      "text": "ok perfect thank u! ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome! Go eat. Good luck with week 3 ☕"
+    }
+  ]
+}

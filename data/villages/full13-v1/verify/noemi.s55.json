@@ -1,0 +1,102 @@
+{
+  "session_id": "noemi.s55",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Carla texts Noemi's cell about dead scanners mid-shift",
+      "about": "carla",
+      "kind": "fact",
+      "item_id": "noemi.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "carla keeps texting me mid-shift about dead ones",
+      "support_quote": ""
+    },
+    {
+      "text": "About 30 handhelds piled up at peak out of roughly 620",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "there's like 30 handhelds piled up at peak out of roughly 620 total",
+      "support_quote": ""
+    },
+    {
+      "text": "Tagged scanners go to the IT cage next to the outbound break room",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tagged ones go to the IT cage next to the outbound break room",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao is in training Thursdays 3-5 doing battery swaps",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "simple stuff like battery swaps gets done thursdays 3-5 by bao, he's in training then",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says about 30 handhelds are waiting at peak out of roughly 620",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "at peak we've got about 30 handhelds waiting for repair out of roughly 620",
+      "support_quote": "there's like 30 handhelds piled up at peak out of roughly 620 total"
+    },
+    {
+      "text": "Assistant says tagged scanners go to the IT cage next to the outbound break room",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f53",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "drop it at the IT cage next to the outbound break room",
+      "support_quote": "tagged ones go to the IT cage next to the outbound break room"
+    },
+    {
+      "text": "Assistant says Bao is in training Thursdays 3-5 and battery swaps happen then",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Simple fixes like battery swaps get knocked out Thursdays 3-5 p.m. while Bao is in training",
+      "support_quote": "simple stuff like battery swaps gets done thursdays 3-5 by bao, he's in training then"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f52",
+      "present": true,
+      "quote": "carla keeps texting me mid-shift about dead ones"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "there's like 30 handhelds piled up at peak out of roughly 620 total"
+    },
+    {
+      "item_id": "noemi.f53",
+      "present": true,
+      "quote": "tagged ones go to the IT cage next to the outbound break room"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "simple stuff like battery swaps gets done thursdays 3-5 by bao, he's in training then"
+    }
+  ],
+  "sensitive": []
+}

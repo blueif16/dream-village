@@ -1,0 +1,390 @@
+{
+  "principal": "noemi",
+  "week": 12,
+  "entries": [
+    {
+      "id": "noemi.w12.l01",
+      "date": "2025-11-10",
+      "what": "Noemi sleeps in until 9, then does a Monday study block at the kitchen table at Verdant Commons. Her latest practice exam run averages 80% after the subnetting drills, the first time she is over the pass line.",
+      "with": [],
+      "outcome": "Score is over the ~75% pass line; she decides which topics to drill next.",
+      "feeling": "stunned, pleased",
+      "facts": [
+        "noemi.f10",
+        "noemi.f11",
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": [
+        "noemi.i05"
+      ]
+    },
+    {
+      "id": "noemi.w12.l02",
+      "date": "2025-11-10",
+      "what": "Shares the 80% result and asks what to drill next. This is a one-off check-in on a good score, with the exam already moved to Dec 6 because of overtime weeks ago.",
+      "with": [],
+      "outcome": "Plans port numbers and harder subnetting for the week.",
+      "feeling": "motivated",
+      "facts": [
+        "noemi.f08",
+        "noemi.f11"
+      ],
+      "impressions": [
+        "noemi.i05"
+      ]
+    },
+    {
+      "id": "noemi.w12.l03",
+      "date": "2025-11-10",
+      "what": "Drives the 9 minutes to Ruel Road for the 1 p.m. ten-hour swing and stops at the Ruel Road station for gas first. She spends the afternoon in the cage on the scanner pile.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Clears a dozen handhelds before the night shift handoff.",
+      "feeling": "focused",
+      "facts": [
+        "noemi.f03",
+        "noemi.f14",
+        "noemi.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l04",
+      "date": "2025-11-10",
+      "what": "Works late covering Greg's old duties, including vendor tickets and updating the RMA sheet. Gets home after 11:30 and winds down.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Tells Iris about the score before bed.",
+      "feeling": "tired but upbeat",
+      "facts": [
+        "noemi.f32",
+        "noemi.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l05",
+      "date": "2025-11-11",
+      "what": "Veterans Day: Ridgeline runs as usual, so Noemi has a slow morning with Iris, who has the day off from the dental office, before her swing.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Makes coffee and a late breakfast together.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l06",
+      "date": "2025-11-11",
+      "what": "Spends the early afternoon on subnetting drills, then works the 1 p.m. swing and trains Bao on battery swaps and trigger boards from 3 to 5.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao handles two repairs alone.",
+      "feeling": "patient",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48",
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l07",
+      "date": "2025-11-11",
+      "what": "A busy night with several handhelds failing, a red-beep night, and Carla texts her about dead scanners on the outbound floor.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Swaps out eight units and gets the floor back on rate.",
+      "feeling": "stressed",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l08",
+      "date": "2025-11-12",
+      "what": "Late morning at home, Noemi drafts a cover letter for outside network tech roles and asks for help with it. She wants the line to say she 'supported the team' instead of 'ran the desk during peak'.",
+      "with": [],
+      "outcome": "Gets a draft but keeps the soft wording until Iris weighs in.",
+      "feeling": "awkward, hesitant",
+      "facts": [
+        "noemi.f31",
+        "noemi.f32"
+      ],
+      "impressions": [
+        "noemi.i01"
+      ]
+    },
+    {
+      "id": "noemi.w12.l09",
+      "date": "2025-11-12",
+      "what": "Drives to the 1 p.m. swing. The cage is stacked with scanners and Acting Victor is out of the office again.",
+      "with": [
+        "victor"
+      ],
+      "outcome": "She handles the vendor RMA batch herself.",
+      "feeling": "annoyed",
+      "facts": [
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l10",
+      "date": "2025-11-12",
+      "what": "Eats a leftover rice bowl at her desk and gets in a few port-number flashcards between tickets.",
+      "with": [],
+      "outcome": "Memorizes the common ports.",
+      "feeling": "determined",
+      "facts": [
+        "noemi.f25",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l11",
+      "date": "2025-11-12",
+      "what": "Gets home after the shift. Iris has left the budget sheet open on the table, and Noemi checks the December trip savings.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Cushion is on track.",
+      "feeling": "content",
+      "facts": [
+        "noemi.f38",
+        "noemi.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l12",
+      "date": "2025-11-13",
+      "what": "The first fall storm hits and rain floods Ruel Road. Noemi's usual 9-minute drive takes much longer around the potholes and standing water.",
+      "with": [],
+      "outcome": "Arrives a bit late but before the handoff.",
+      "feeling": "frazzled",
+      "facts": [
+        "noemi.f14",
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l13",
+      "date": "2025-11-13",
+      "what": "Wet totes and water-damaged scanners flood the cage. She and Bao dry out and test units through the shift.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Several handhelds go onto the RMA sheet.",
+      "feeling": "swamped",
+      "facts": [
+        "noemi.f34",
+        "noemi.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l14",
+      "date": "2025-11-13",
+      "what": "Iris orders sushi as usual on Thursday and saves Noemi a box to eat when she gets in past 11:30.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Eats it cold and goes to bed.",
+      "feeling": "grateful",
+      "facts": [
+        "noemi.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l15",
+      "date": "2025-11-14",
+      "what": "The storm continues and Noemi wakes to rain, pushing her morning study block to a mock quiz on ports.",
+      "with": [],
+      "outcome": "Scores high on the ports section.",
+      "feeling": "encouraged",
+      "facts": [
+        "noemi.f11",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l16",
+      "date": "2025-11-14",
+      "what": "Works the swing and picks up Taquería Colima for her Friday shift meal on the way in.",
+      "with": [],
+      "outcome": "Eats tacos in the IT cage.",
+      "feeling": "cozy",
+      "facts": [
+        "noemi.f25",
+        "noemi.f53",
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l17",
+      "date": "2025-11-14",
+      "what": "Another wet red-beep night with many scanners going down, and she works with Carla and a shift lead to replace them quickly.",
+      "with": [
+        "carla",
+        "jose"
+      ],
+      "outcome": "Floor recovers rate by 10 p.m.",
+      "feeling": "wired",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l18",
+      "date": "2025-11-15",
+      "what": "It is the three-year anniversary. Noemi skips the boardwalk because the planks are slick in November and sleeps in.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Spends a lazy morning at home.",
+      "feeling": "happy",
+      "facts": [
+        "noemi.f57",
+        "noemi.f56",
+        "noemi.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l19",
+      "date": "2025-11-15",
+      "what": "Works her Saturday overtime shift this week and fixes scanners in the cage until the afternoon.",
+      "with": [],
+      "outcome": "Leaves in time to get ready for dinner.",
+      "feeling": "hurried",
+      "facts": [
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l20",
+      "date": "2025-11-15",
+      "what": "Dinner at a Calle Ortega restaurant at 7 p.m. for their anniversary, as booked.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "A relaxed evening and a good dinner together.",
+      "feeling": "warm",
+      "facts": [
+        "noemi.f58",
+        "noemi.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l21",
+      "date": "2025-11-16",
+      "what": "Sunday morning at her parents' fourplex off Vinca fixing her mom's phone and the printer while Mateo asks about PC parts.",
+      "with": [],
+      "outcome": "Printer works again and she talks Mateo's build with him.",
+      "feeling": "fond",
+      "facts": [
+        "noemi.f27",
+        "noemi.f28",
+        "noemi.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l22",
+      "date": "2025-11-16",
+      "what": "An afternoon study session of subnetting drills and practice tests at home.",
+      "with": [],
+      "outcome": "Holds her 80% average.",
+      "feeling": "steady",
+      "facts": [
+        "noemi.f09",
+        "noemi.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w12.l23",
+      "date": "2025-11-16",
+      "what": "Plays the co-op survival game on her ultrawide with her online squad as packetloss_.",
+      "with": [],
+      "outcome": "Wins a long run.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19",
+        "noemi.f20"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w12.n01",
+      "subject": "noemi",
+      "attribute": "mock_quiz_topic",
+      "value": "scored well on a ports-only mock quiz during the storm",
+      "valid_from": "2025-11-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w12.n02",
+      "subject": "noemi",
+      "attribute": "storm_commute",
+      "value": "Ruel Road flooding made the drive to work take far longer on Nov 13",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w12.n03",
+      "subject": "noemi",
+      "attribute": "cover_letter_draft",
+      "value": "drafting a cover letter for outside network tech roles",
+      "valid_from": "2025-11-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w12.n04",
+      "subject": "noemi",
+      "attribute": "anniversary_dinner",
+      "value": "had her three-year anniversary dinner with Iris on Calle Ortega",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w12.n05",
+      "subject": "noemi",
+      "attribute": "water_damaged_scanners",
+      "value": "storm sent several water-damaged scanners to the RMA sheet",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

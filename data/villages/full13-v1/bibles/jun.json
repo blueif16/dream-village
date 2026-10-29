@@ -1,0 +1,1037 @@
+{
+  "principal": "jun",
+  "summary": "Jun Villanueva is a 25-year-old barista who has worked the espresso bar at Heron & Grind on Calle Ortega for three years. At the start of the horizon he lives in his mother Tess's house off Vinca Avenue and is trying to turn his family's pork-and-shrimp lumpia into a real business, Lola's Roll, with his best friend Paolo. He is charming behind the counter, trains coworkers on latte art and can sell anything to anyone, but receipts, permits and tax forms make him freeze. In late August he still needs a cottage food permit, steady commissary time at Joan Whitaker's Ruel Road kitchen and a vendor slot at Rick Dominguez's Delgado Park market. He wants Lola's Roll to be bigger than a side gig and to prove to his mother that it is a better path than nursing school. Pressing on him are the cost of kitchen hours, Paolo skipping early prep, and a savings account that drops every time he buys wrappers in bulk. By November he is hoping for a farmers market slot and enough holiday orders to cut his cafe hours.",
+  "facts": [
+    {
+      "id": "jun.f01",
+      "subject": "jun",
+      "attribute": "job",
+      "value": "barista at Heron & Grind, three years on the espresso bar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f02",
+      "subject": "jun",
+      "attribute": "cafe_schedule",
+      "value": "Mon-Fri 6:15 a.m. to 2:30 p.m. opening shifts",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "jun.f03",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f03",
+      "subject": "jun",
+      "attribute": "cafe_schedule",
+      "value": "Tue-Sat, three openers plus two 2-9 p.m. closers after the cafe extended hours",
+      "valid_from": "2025-10-01",
+      "valid_to": "2025-11-10",
+      "superseded_by": "jun.f04",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f04",
+      "subject": "jun",
+      "attribute": "cafe_schedule",
+      "value": "cut to four shifts a week, Tue-Fri openers, to free weekends for Lola's Roll",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f05",
+      "subject": "jun",
+      "attribute": "hourly_wage",
+      "value": "$19.50 an hour plus tips at Heron & Grind",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f06",
+      "subject": "jun",
+      "attribute": "home",
+      "value": "his childhood bedroom in Tess's house off Vinca Avenue",
+      "valid_from": null,
+      "valid_to": "2025-10-18",
+      "superseded_by": "jun.f07",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f07",
+      "subject": "jun",
+      "attribute": "home",
+      "value": "sublet room in a fourplex off Vinca Avenue, shared bathroom, street parking only",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f08",
+      "subject": "jun",
+      "attribute": "rent",
+      "value": "pays Tess $400 a month toward the house",
+      "valid_from": null,
+      "valid_to": "2025-10-18",
+      "superseded_by": "jun.f09",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f09",
+      "subject": "jun",
+      "attribute": "rent",
+      "value": "$950 a month for the sublet room, due on the 1st by Zelle",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f10",
+      "subject": "jun",
+      "attribute": "business_name",
+      "value": "Lola's Roll, a lumpia pop-up named for his grandmother",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f11",
+      "subject": "jun",
+      "attribute": "cottage_permit_status",
+      "value": "cottage food permit application not yet filed",
+      "valid_from": null,
+      "valid_to": "2025-09-09",
+      "superseded_by": "jun.f12",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f12",
+      "subject": "jun",
+      "attribute": "cottage_permit_status",
+      "value": "application filed with the county, waiting on review",
+      "valid_from": "2025-09-09",
+      "valid_to": "2025-10-02",
+      "superseded_by": "jun.f13",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f13",
+      "subject": "jun",
+      "attribute": "cottage_permit_status",
+      "value": "told fried lumpia with shrimp doesn't qualify as cottage food; must use a commissary and get a county health permit instead",
+      "valid_from": "2025-10-02",
+      "valid_to": "2025-10-29",
+      "superseded_by": "jun.f14",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f14",
+      "subject": "jun",
+      "attribute": "cottage_permit_status",
+      "value": "county health permit approved for commissary-prepared food, permit posted on the stall banner",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f15",
+      "subject": "jun",
+      "attribute": "commissary_booking",
+      "value": "ad hoc 3-hour blocks at the Ruel Road commissary when he can afford them",
+      "valid_from": null,
+      "valid_to": "2025-09-24",
+      "superseded_by": "jun.f16",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f16",
+      "subject": "jun",
+      "attribute": "commissary_booking",
+      "value": "standing Friday 5-9 p.m. block at the Ruel Road commissary",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f17",
+      "subject": "jun",
+      "attribute": "market_slot",
+      "value": "on Rick Dominguez's waitlist for a Delgado Park Sunday market slot",
+      "valid_from": "2025-09-28",
+      "valid_to": "2025-11-02",
+      "superseded_by": "jun.f18",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f18",
+      "subject": "jun",
+      "attribute": "market_slot",
+      "value": "assigned a Sunday stall at the Delgado Park farmers market, row C near the bandstand",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f19",
+      "subject": "jun",
+      "attribute": "lumpia_price",
+      "value": "$10 for a half dozen at the Heron & Grind counter",
+      "valid_from": "2025-09-06",
+      "valid_to": "2025-10-11",
+      "superseded_by": "jun.f20",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f20",
+      "subject": "jun",
+      "attribute": "lumpia_price",
+      "value": "$12 for a half dozen, $22 a dozen, after wrapper and shrimp costs went up",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f21",
+      "subject": "jun",
+      "attribute": "weekly_batch_size",
+      "value": "about 150 lumpia per Saturday",
+      "valid_from": "2025-09-06",
+      "valid_to": "2025-11-02",
+      "superseded_by": "jun.f22",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f22",
+      "subject": "jun",
+      "attribute": "weekly_batch_size",
+      "value": "about 400 lumpia a week split between Saturday counter and Sunday market",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f23",
+      "subject": "jun",
+      "attribute": "bookkeeping_method",
+      "value": "receipts in a shoebox and notes app totals",
+      "valid_from": null,
+      "valid_to": "2025-09-30",
+      "superseded_by": "jun.f24",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f24",
+      "subject": "jun",
+      "attribute": "bookkeeping_method",
+      "value": "shared spreadsheet Linh set up, with tabs for ingredients, kitchen hours and sales",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f25",
+      "subject": "jun",
+      "attribute": "payment_method",
+      "value": "cash only plus personal payment app",
+      "valid_from": null,
+      "valid_to": "2025-10-25",
+      "superseded_by": "jun.f26",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f26",
+      "subject": "jun",
+      "attribute": "payment_method",
+      "value": "card reader on his phone under a business account",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f27",
+      "subject": "jun",
+      "attribute": "car",
+      "value": "2011 silver hatchback with a cracked rear bumper and a slow passenger window",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f28",
+      "subject": "jun",
+      "attribute": "gas_habit",
+      "value": "only fills up at the Ruel Road station",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f29",
+      "subject": "jun",
+      "attribute": "phone",
+      "value": "three-year-old phone with a cracked corner and a battery that dies by 4 p.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f30",
+      "subject": "jun",
+      "attribute": "savings",
+      "value": "about $3,200 set aside for the business",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f31",
+      "subject": "jun",
+      "attribute": "startup_spend_target",
+      "value": "wants to keep Lola's Roll launch costs under $1,800 through November",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f32",
+      "subject": "jun",
+      "attribute": "equipment_owned",
+      "value": "two 10-quart stockpots, a countertop fryer and a borrowed chest cooler",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f33",
+      "subject": "jun",
+      "attribute": "pop_up_canopy",
+      "value": "bought a 10x10 white canopy and weights for $189 for the market",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f34",
+      "subject": "jun",
+      "attribute": "wrapper_supplier",
+      "value": "buys spring roll wrappers by the case in aisle 6 at Ruiz Family Market",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f35",
+      "subject": "jun",
+      "attribute": "signature_item",
+      "value": "lumpiang shanghai with pork and shrimp, sweet chili and spiced vinegar dips",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f36",
+      "subject": "jun",
+      "attribute": "new_menu_item",
+      "value": "testing a turon (banana-jackfruit) dessert roll for the market",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f37",
+      "subject": "jun",
+      "attribute": "coffee_order",
+      "value": "drinks a double ristretto, no milk, between rushes",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f38",
+      "subject": "jun",
+      "attribute": "latte_art_specialty",
+      "value": "can pour a swan and a tulip-rosetta stack",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f39",
+      "subject": "jun",
+      "attribute": "favorite_food",
+      "value": "al pastor from Taquería Colima after a closing shift",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f40",
+      "subject": "jun",
+      "attribute": "music_while_prepping",
+      "value": "old OPM ballads his lola liked, on a Bluetooth speaker",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f41",
+      "subject": "jun",
+      "attribute": "fitness",
+      "value": "pickup basketball at Delgado Park Sunday mornings",
+      "valid_from": null,
+      "valid_to": "2025-11-02",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f42",
+      "subject": "jun",
+      "attribute": "church",
+      "value": "goes to Tagalog Mass at Our Lady of the Marsh with Tess on holidays only",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f43",
+      "subject": "jun",
+      "attribute": "heritage",
+      "value": "Filipino American, parents from Pampanga; understands Kapampangan and Tagalog, speaks some",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f44",
+      "subject": "jun",
+      "attribute": "food_handler_card",
+      "value": "food handler card renewed, expires 2027",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f45",
+      "subject": "jun",
+      "attribute": "instagram_followers",
+      "value": "Lola's Roll Instagram at about 410 followers",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f46",
+      "subject": "jun",
+      "attribute": "holiday_order_plan",
+      "value": "taking frozen lumpia preorders for Thanksgiving pickup on Nov 26",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f47",
+      "subject": "jun",
+      "attribute": "ssn",
+      "value": "Social Security number given on the health permit form",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "jun.f48",
+      "subject": "jun",
+      "attribute": "bank_account_number",
+      "value": "business checking account number at a credit union",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "jun.f49",
+      "subject": "jun",
+      "attribute": "debt_to_paolo",
+      "value": "owes Paolo $260 for shrimp Paolo fronted in September",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "jun.f50",
+      "subject": "tess",
+      "attribute": "work_schedule",
+      "value": "day shifts 7-3:30 at the nursing facility, off Wednesdays and Sundays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f51",
+      "subject": "tess",
+      "attribute": "coworker_orders",
+      "value": "sells Jun's lumpia to coworkers by the dozen and keeps a list of orders on the fridge",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f52",
+      "subject": "tess",
+      "attribute": "knee",
+      "value": "complains her left knee aches during long rolling sessions",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f53",
+      "subject": "paolo",
+      "attribute": "work_schedule",
+      "value": "closing line shifts until 11 p.m. Thu-Sat, which is why he misses early prep",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f54",
+      "subject": "paolo",
+      "attribute": "profit_split",
+      "value": "Lola's Roll profits split 60/40 Jun/Paolo",
+      "valid_from": null,
+      "valid_to": "2025-10-26",
+      "superseded_by": "jun.f55",
+      "class": "useful"
+    },
+    {
+      "id": "jun.f55",
+      "subject": "paolo",
+      "attribute": "profit_split",
+      "value": "renegotiated to 70/30 Jun/Paolo after missed prep, Paolo keeps Instagram and market setup",
+      "valid_from": "2025-10-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f56",
+      "subject": "beatrice",
+      "attribute": "labor_rule",
+      "value": "won't approve overtime; makes baristas clock out at exactly 40 hours",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f57",
+      "subject": "beatrice",
+      "attribute": "dog",
+      "value": "brings an elderly corgi named Ledger to the back office",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f58",
+      "subject": "sam",
+      "attribute": "swap_pattern",
+      "value": "texts Jun the night before asking to swap Saturday shifts",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f59",
+      "subject": "wes",
+      "attribute": "lumpia_habit",
+      "value": "buys two lumpia every Saturday and pays in quarters",
+      "valid_from": "2025-09-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f60",
+      "subject": "joan",
+      "attribute": "cleanup_rule",
+      "value": "charges a $40 fee if the fryer area isn't scrubbed by booking end",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "jun.f61",
+      "subject": "rick",
+      "attribute": "office_hours",
+      "value": "answers vendor emails only Mondays; walks the lot at 7 a.m. Sundays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f62",
+      "subject": "anh",
+      "attribute": "pastry_case",
+      "value": "started selling banh mi and egg rolls at the Flats Junction cart",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "jun.f63",
+      "subject": "jun",
+      "attribute": "crush",
+      "value": "has a crush on Lourdes, the woman who runs the hot sauce booth at the market",
+      "valid_from": "2025-11-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "jun.i01",
+      "statement": "Charms his way through people problems but stalls for days on anything with a form or a number in it.",
+      "about": "jun",
+      "evidence": [
+        {
+          "id": "jun.i01.e1",
+          "date": "2025-09-04",
+          "description": "Asks the assistant to just tell him which box to check on the permit form, then admits it's been open in a tab for two weeks"
+        },
+        {
+          "id": "jun.i01.e2",
+          "date": "2025-09-27",
+          "description": "Pastes a photo-transcribed pile of receipts and asks if he can just 'guess' the September ingredient total"
+        },
+        {
+          "id": "jun.i01.e3",
+          "date": "2025-10-02",
+          "description": "After the county email says lumpia isn't cottage food, drafts a friendly message to Rick within minutes but leaves the health permit packet unopened until the weekend"
+        },
+        {
+          "id": "jun.i01.e4",
+          "date": "2025-11-12",
+          "description": "Wants help writing a cheerful preorder post but says he'll 'do the tax part later' when asked about collecting sales tax"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "jun.i02",
+      "statement": "Measures his worth through his mother's approval of the food, even while arguing against her plans for him.",
+      "about": "jun",
+      "evidence": [
+        {
+          "id": "jun.i02.e1",
+          "date": "2025-09-07",
+          "description": "Rewrites the lumpia filling ratio after Tess calls the batch 'too much onion,' even though it sold out"
+        },
+        {
+          "id": "jun.i02.e2",
+          "date": "2025-10-11",
+          "description": "Asks for help wording a price-increase sign and worries more about what Tess will say than customers"
+        },
+        {
+          "id": "jun.i02.e3",
+          "date": "2025-10-18",
+          "description": "Moving into the sublet, asks how to explain to Tess that he's not quitting coffee for nursing, just leaving home"
+        },
+        {
+          "id": "jun.i02.e4",
+          "date": "2025-11-03",
+          "description": "Shares a photo caption crediting Tess's recipe and asks if 'Lola-approved, Mom-tested' sounds cheesy"
+        },
+        {
+          "id": "jun.i02.e5",
+          "date": "2025-11-16",
+          "description": "Mentions Tess came to the market stall and said nothing about the wrappers, which he reads as high praise"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "jun.i03",
+      "statement": "Leans on Linh's organized brain and feels a little sheepish about how much.",
+      "about": "jun",
+      "evidence": [
+        {
+          "id": "jun.i03.e1",
+          "date": "2025-09-12",
+          "description": "Asks the assistant to calculate cost per lumpia 'so I don't have to bug my coworker again'"
+        },
+        {
+          "id": "jun.i03.e2",
+          "date": "2025-09-30",
+          "description": "After Linh builds the spreadsheet, asks for a thank-you gift idea that isn't coffee"
+        },
+        {
+          "id": "jun.i03.e3",
+          "date": "2025-10-17",
+          "description": "Wants a formula fixed in the sales tab but says not to change her color coding"
+        },
+        {
+          "id": "jun.i03.e4",
+          "date": "2025-11-06",
+          "description": "Asks how to offer Linh paid help on market Sundays without making it weird at work"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "jun.i04",
+      "statement": "Covers for Paolo's flakiness long past the point it costs him, until it finally tips him into being direct.",
+      "about": "jun",
+      "evidence": [
+        {
+          "id": "jun.i04.e1",
+          "date": "2025-09-19",
+          "description": "Asks for a prep plan he can run solo 'in case Paolo's running late again'"
+        },
+        {
+          "id": "jun.i04.e2",
+          "date": "2025-10-04",
+          "description": "Drafts a group text to Paolo, then softens it three times into a joke"
+        },
+        {
+          "id": "jun.i04.e3",
+          "date": "2025-10-24",
+          "description": "Rolls 200 lumpia alone at the commissary and asks for hand-stretch tips at midnight"
+        },
+        {
+          "id": "jun.i04.e4",
+          "date": "2025-10-26",
+          "description": "Asks for help writing a clear proposal changing the profit split, and keeps the firm version"
+        },
+        {
+          "id": "jun.i04.e5",
+          "date": "2025-11-15",
+          "description": "Sends Paolo a set call time for market setup and doesn't apologize for it"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-26",
+      "changed_to": "Sets clear expectations with Paolo instead of quietly absorbing the extra work.",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "jun.i05",
+      "statement": "Takes big swings on gut feeling and sorts out the consequences afterward.",
+      "about": "jun",
+      "evidence": [
+        {
+          "id": "jun.i05.e1",
+          "date": "2025-08-29",
+          "description": "Buys 12 cases of wrappers on sale before he has any permit"
+        },
+        {
+          "id": "jun.i05.e2",
+          "date": "2025-10-15",
+          "description": "Signs the sublet lease after one viewing, then asks whether $950 fits his budget"
+        },
+        {
+          "id": "jun.i05.e3",
+          "date": "2025-11-01",
+          "description": "Orders the canopy the night before the market slot is confirmed"
+        },
+        {
+          "id": "jun.i05.e4",
+          "date": "2025-11-10",
+          "description": "Drops a cafe shift for weekends and only then asks how to make up the rent difference"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "jun.i06",
+      "statement": "Doesn't really care about the cafe job and is checked out at work.",
+      "about": "jun",
+      "evidence": [
+        {
+          "id": "jun.i06.e1",
+          "date": "2025-10-08",
+          "description": "Forgets to restock oat milk before a closing shift because he was thinking about the permit; Beatrice leaves a note"
+        },
+        {
+          "id": "jun.i06.e2",
+          "date": "2025-09-10",
+          "description": "Asks for a training checklist to teach Linh microfoam texture properly"
+        },
+        {
+          "id": "jun.i06.e3",
+          "date": "2025-10-20",
+          "description": "Wants a better closing checklist for the new 9 p.m. hours so the night crew isn't stuck"
+        },
+        {
+          "id": "jun.i06.e4",
+          "date": "2025-11-19",
+          "description": "Asks how to dial in a new bean blend because Wes said the cortado tasted flat"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "jun.r01",
+      "term": "the shoebox",
+      "meaning": "the box of crumpled ingredient receipts he kept before the spreadsheet",
+      "first_use": "2025-09-04"
+    },
+    {
+      "id": "jun.r02",
+      "term": "Joan's fryer rule",
+      "meaning": "the commissary's $40 penalty if the fryer area isn't scrubbed by booking end",
+      "first_use": "2025-09-24"
+    },
+    {
+      "id": "jun.r03",
+      "term": "the Saturday table",
+      "meaning": "the lumpia spot at the end of the Heron & Grind counter on Saturdays",
+      "first_use": "2025-09-06"
+    },
+    {
+      "id": "jun.r04",
+      "term": "the onion verdict",
+      "meaning": "Tess's critique that his filling had too much onion, now his shorthand for her taste tests",
+      "first_use": "2025-09-07"
+    },
+    {
+      "id": "jun.r05",
+      "term": "Linh's sheet",
+      "meaning": "the Lola's Roll bookkeeping spreadsheet Linh built",
+      "first_use": "2025-09-30"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "jun.a01",
+      "title": "Getting Lola's Roll legal",
+      "summary": "Jun goes from shoebox receipts and no permit to a county health permit, a commissary block, a card reader and a Sunday market stall.",
+      "beats": [
+        {
+          "date": "2025-09-06",
+          "what": "First Saturday lumpia sales at Heron & Grind counter",
+          "facts": [
+            "jun.f19",
+            "jun.f21"
+          ]
+        },
+        {
+          "date": "2025-09-09",
+          "what": "Files cottage food permit application",
+          "facts": [
+            "jun.f11",
+            "jun.f12"
+          ]
+        },
+        {
+          "date": "2025-09-24",
+          "what": "Books a standing Friday commissary block",
+          "facts": [
+            "jun.f15",
+            "jun.f16"
+          ]
+        },
+        {
+          "date": "2025-09-28",
+          "what": "Joins Rick's market waitlist at the harvest market",
+          "facts": [
+            "jun.f17"
+          ]
+        },
+        {
+          "date": "2025-10-02",
+          "what": "County says lumpia doesn't qualify as cottage food",
+          "facts": [
+            "jun.f13"
+          ]
+        },
+        {
+          "date": "2025-10-29",
+          "what": "Health permit approved",
+          "facts": [
+            "jun.f14"
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "what": "First Sunday at Delgado Park market, batches scale up",
+          "facts": [
+            "jun.f18",
+            "jun.f22",
+            "jun.f41"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jun.a02",
+      "title": "Money and the numbers",
+      "summary": "With Linh's help Jun gets his books into a spreadsheet, raises prices, opens a business account and trims his cafe hours.",
+      "beats": [
+        {
+          "date": "2025-09-30",
+          "what": "Linh's spreadsheet replaces the shoebox",
+          "facts": [
+            "jun.f23",
+            "jun.f24"
+          ]
+        },
+        {
+          "date": "2025-10-11",
+          "what": "Raises prices after costs rise",
+          "facts": [
+            "jun.f19",
+            "jun.f20"
+          ]
+        },
+        {
+          "date": "2025-10-25",
+          "what": "Opens business account and card reader",
+          "facts": [
+            "jun.f25",
+            "jun.f26",
+            "jun.f48"
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "what": "Cuts cafe to four shifts",
+          "facts": [
+            "jun.f03",
+            "jun.f04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jun.a03",
+      "title": "Leaving home and Paolo",
+      "summary": "Jun moves out of Tess's house and resets his partnership with Paolo.",
+      "beats": [
+        {
+          "date": "2025-10-01",
+          "what": "Cafe extends hours; Jun takes closers",
+          "facts": [
+            "jun.f02",
+            "jun.f03"
+          ]
+        },
+        {
+          "date": "2025-10-18",
+          "what": "Moves into a Vinca fourplex sublet",
+          "facts": [
+            "jun.f06",
+            "jun.f07",
+            "jun.f08",
+            "jun.f09"
+          ]
+        },
+        {
+          "date": "2025-10-26",
+          "what": "Renegotiates profit split with Paolo",
+          "facts": [
+            "jun.f54",
+            "jun.f55"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "Mostly lowercase, fast, run-on sentences with 'lol' and 'ok wait'; drops Tagalog words like 'grabe' and 'sige'; uses the 🥢 and 🔥 emoji; occasional typos he doesn't fix.",
+    "with_assistant": "Starts mid-thought with little context, pastes messy notes or receipts, friendly and thankful, skims long answers and asks for 'just the short version' or a bullet list.",
+    "quirks": [
+      "calls the assistant 'boss'",
+      "asks for things 'before my shift starts'",
+      "rewrites any sign or caption to sound warmer",
+      "says 'numbers stuff' instead of naming the task",
+      "sends a follow-up 'ok actually' after the first answer"
+    ],
+    "sample_lines": [
+      "ok wait can you make this sound less desperate lol",
+      "boss i need the short version, shift starts in 10",
+      "how do i figure out cost per piece if i bought stuff in bulk",
+      "sige thanks that helps a ton 🔥",
+      "can you turn this into a checklist i can tape by the fryer",
+      "ok actually make it friendlier, it's for my tita's coworkers",
+      "what's the deal with sales tax for food stuff, explain like im tired"
+    ]
+  },
+  "usage": {
+    "frequency": "several_per_week",
+    "active_hours": [
+      5,
+      14,
+      21,
+      23
+    ]
+  }
+}

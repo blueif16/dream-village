@@ -1,0 +1,91 @@
+{
+  "impression_id": "jun.i04",
+  "evidence_sessions": [
+    "jun.s14",
+    "jun.s23",
+    "jun.s32",
+    "jun.s33",
+    "jun.s34",
+    "jun.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Jun habitually softens or over-hedges his messages to Paolo (jokes, 'no worries', lots of punctuation) and asks the assistant to make them clear without sounding mean or passive-aggressive.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s14",
+        "jun.s23",
+        "jun.s32",
+        "jun.s34"
+      ]
+    },
+    {
+      "statement": "Jun's business partner Paolo repeatedly misses prep because of his late closing shifts, and Jun absorbs the extra work himself, rolling alone for hours, until his frustration pushes him to set firmer terms.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s14",
+        "jun.s23",
+        "jun.s32",
+        "jun.s33",
+        "jun.s34"
+      ]
+    },
+    {
+      "statement": "Jun has grown firmer over time: he restructured the split to 70/30, set deadlines and 'no exceptions' expectations, and declined softer drafts when he wanted directness.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s34",
+        "jun.s43"
+      ]
+    },
+    {
+      "statement": "Jun tends to fit requests into tight windows before shifts and wants short, bullet-style, ready-to-use outputs without extra elaboration.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s14",
+        "jun.s23",
+        "jun.s32",
+        "jun.s33"
+      ]
+    },
+    {
+      "statement": "Jun cares about being honest and compliant with rules (accurate permit status, fryer cleanup, posted signs), and corrects drafts that overstate his progress.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s23",
+        "jun.s32",
+        "jun.s33"
+      ]
+    },
+    {
+      "statement": "Jun is building Lola's Roll step by step into a real business (permit, card reader, canopy, market slot, growing volume) and wants it to look legitimate, with pride in his mom's recipe and approval.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s23",
+        "jun.s33",
+        "jun.s34",
+        "jun.s43"
+      ]
+    },
+    {
+      "statement": "Jun is casual and warm with the assistant, calling it 'boss', using 'sige' and emojis, and thanks it readily; he accepts or rejects suggestions quickly and decisively.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s14",
+        "jun.s32",
+        "jun.s34",
+        "jun.s43"
+      ]
+    },
+    {
+      "statement": "Jun tends to delay admin tasks like the permit packet, leaving it on his table until the weekend.",
+      "strength": "weak",
+      "sessions": [
+        "jun.s23"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Jun's business partner Paolo repeatedly misses prep because of his late closing shifts, and Jun absorbs the extra work himself, rolling alone for hours, until his frustration pushes him to set firmer terms.",
+  "rationale": "The second statement (rated strong) captures Jun absorbing Paolo's missed prep until frustration pushes him to set firmer terms, and the first and third statements add his softening and eventual directness. Together they match the intended pattern of covering for Paolo until he becomes direct."
+}

@@ -1,0 +1,348 @@
+{
+  "session_id": "elliot.s82",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Hosting Hana's parents and Judith on Nov 27 at 209, potluck",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f59",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's going to hana's parents and my mom, we're hosting at our place on the 27th, potluck style.",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot did the 2 a.m. feed",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "did the 2 a.m. feed and then couldn't get back to sleep",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith wants no cilantro and decaf after noon",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no cilantro in anything, and decaf after noon, that's for my mom",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot avoids telling his mother he doesn't want her cooking in his kitchen",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "but i don't want to say that part to her",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo will be 4 months old",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "theo will be 4 months",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot's kitchen is tiny",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "it's tiny",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith has a condo",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "could be done at her condo",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f59",
+      "present": true,
+      "quote": "it's going to hana's parents and my mom, we're hosting at our place on the 27th, potluck style."
+    },
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "did the 2 a.m. feed and then couldn't get back to sleep"
+    },
+    {
+      "item_id": "elliot.f49",
+      "present": true,
+      "quote": "no cilantro in anything, and decaf after noon, that's for my mom"
+    },
+    {
+      "item_id": "elliot.i03",
+      "present": true,
+      "quote": "can you reword the assignments so my mom ends up with dishes she makes at her own place and brings over?"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

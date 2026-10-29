@@ -1,0 +1,85 @@
+{
+  "impression_id": "rochelle.i01",
+  "evidence_sessions": [
+    "rochelle.s05",
+    "rochelle.s08",
+    "rochelle.s11",
+    "rochelle.s18",
+    "rochelle.s22",
+    "rochelle.s27",
+    "rochelle.s32",
+    "rochelle.s40"
+  ],
+  "inferred": [
+    {
+      "statement": "Rochelle habitually blames herself for being behind in her studies, even when the cause is a packed schedule of family obligations.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s18",
+        "rochelle.s22",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "She feels guilty about asking family members for help or setting limits, and tends to over-apologize or offer to take the request back (e.g., 'its fine if not', 'maybe i just keep driving her myself, sorry').",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s05",
+        "rochelle.s11",
+        "rochelle.s32"
+      ]
+    },
+    {
+      "statement": "She is the family's central caregiver and logistics manager, juggling driving her mother-in-law Loretta, pickups, cooking for Andre, and her kids' schedules, and these duties repeatedly squeeze out her own study time.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s05",
+        "rochelle.s18",
+        "rochelle.s22",
+        "rochelle.s32",
+        "rochelle.s27"
+      ]
+    },
+    {
+      "statement": "She is committed to succeeding in her program, with concrete goals like keeping a B and protecting the Tuesday study group, and over time she shifts from fitting study around errands to claiming time for it.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s11",
+        "rochelle.s22",
+        "rochelle.s27",
+        "rochelle.s32",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "She prefers short, direct, ready-to-use answers, often asking for the 'short version' or just the grid, and opens by asking the assistant to 'be honest'.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s18",
+        "rochelle.s22",
+        "rochelle.s32",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "statement": "She is considerate of others' limits and wellbeing, worrying about Aaliyah's late-night shifts and Loretta's feelings and wanting Loretta to feel prioritized.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s05",
+        "rochelle.s32"
+      ]
+    },
+    {
+      "statement": "She learns best through concrete analogies from her own work experience, such as asking for grade weighting explained in terms of rate and totes.",
+      "strength": "weak",
+      "sessions": [
+        "rochelle.s27"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Rochelle habitually blames herself for being behind in her studies, even when the cause is a packed schedule of family obligations.",
+  "rationale": "The reader inferred, with strong ratings, that family errands and caregiving repeatedly squeeze out her study time and that she blames herself for falling behind. Together these capture the intended pattern of putting others' errands ahead of studying and then being hard on herself."
+}

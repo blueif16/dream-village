@@ -1,0 +1,31 @@
+{
+  "id": "thao.s43",
+  "principal": "thao",
+  "start": "2025-11-17T02:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "2:23 and i'm on break, parked in the gravel overflow lot earlier and rode the shuttle up the hill. eating my leftover rice so keep it short. need a numbered checklist for the tire stuff after the storm flat, spare is back in the trunk, i have the shop receipt, and the passenger tire was slow before all this. what order do i do things"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short list, in order:\n\n1. Put the receipt somewhere you won't lose it: photo it, then drop the paper in one folder (glovebox or a home file).\n2. Check the receipt says what was replaced and the date. Note any warranty or road-hazard coverage.\n3. Torque check: most shops recommend re-torquing lug nuts after 50-100 miles. Ask the shop to do it free, or do it yourself with a torque wrench to your car's spec (in the manual).\n4. Check pressure on all four tires cold (before driving), set to the door-jamb sticker number.\n5. Recheck the slow tire in 2-3 days. If it dropped again, go back to the shop to have it inspected.\n6. Put the spare back in its spot with the jack and lug wrench, and check the spare's pressure too.\n7. Ask the shop whether the spare needs repair or replacement, since it was used.\n\nWant me to turn this into a week plan around your shifts? I'd need your shift days."
+    },
+    {
+      "role": "user",
+      "text": "yes. things have finally calmed down since go-live so i can actually deal with car stuff. i'm on tonight, it's my monday. i work mon/tue/fri this week. errands have to fit around those. need groceries too"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, working Mon/Tue/Fri. I don't know your sleep hours or the shop's hours, so I'll keep it flexible:\n\n**Mon (tonight, on shift):** Photo the receipt on your break if you have it with you. That's step 1 done.\n\n**Tue:** Working again, so keep it light. Check tire pressure cold before you drive in (2 minutes, step 4).\n\n**Wed (off):** Best day for the main stuff. Torque check at the shop or yourself, recheck the slow tire's pressure, and ask about the spare. Do groceries the same trip if the route works.\n\n**Thu (off):** Backup day for anything that slipped, and a quick pressure recheck.\n\n**Fri:** On shift. Skip errands.\n\n**Sat (off):** Final pressure check, put the spare and tools back in order, file the receipt photo.\n\nIf you tell me when you usually sleep after shifts and when the shop is open, I can place the errands at exact times."
+    },
+    {
+      "role": "user",
+      "text": "ok that works. make the wed part 5 lines max"
+    },
+    {
+      "role": "assistant",
+      "text": "**Wednesday:**\n1. Check all four tires cold, set to the door-jamb number.\n2. Torque check at the shop, or yourself with a torque wrench.\n3. Ask the shop about the slow tire and the used spare.\n4. Groceries on the way home.\n5. Photo the receipt and file it."
+    }
+  ]
+}

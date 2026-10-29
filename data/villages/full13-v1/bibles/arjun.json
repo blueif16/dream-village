@@ -1,0 +1,975 @@
+{
+  "principal": "arjun",
+  "summary": "Arjun Sandhu is a 20-year-old logistics management junior at Bayshore State's Tamsen campus who rides the Tule Line north from Flats Junction every weekday morning. He shares a Marisol Gardens two-bedroom (unit 132) with his roommate and pays half of a $2,180 rent. At the start of the fall term he is chasing every summer 2026 supply-chain internship he can find, tracking them in a spreadsheet that already holds dozens of rows, while his mother calls each Sunday to ask how it's going. He is methodical and dryly funny on paper but freezes once a recruiter is live on the phone. He has said yes to too many clubs, works ten hours a week at the campus career center front desk, and lives on chai and late nights spent tweaking his resume. Over the fall he wants one real offer before his sister's April wedding so he can stop being asked about it. The pressure points are phone screens, a sparing professor whose recommendation letter he needs, and money that is tight but manageable.",
+  "facts": [
+    {
+      "id": "arjun.f01",
+      "subject": "arjun",
+      "attribute": "school_program",
+      "value": "junior, B.S. logistics management, Bayshore State Tamsen campus",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f02",
+      "subject": "arjun",
+      "attribute": "class_schedule",
+      "value": "MWF 9-12 classes plus Tue/Thu 10:30 operations management with Dr. Ashby",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f03",
+      "subject": "arjun",
+      "attribute": "commute",
+      "value": "7:02 a.m. Tule Line from Flats Junction, 20 minutes north",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "arjun.f04",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f04",
+      "subject": "arjun",
+      "attribute": "commute",
+      "value": "6:48 a.m. Tule Line after the 7:02 kept running late",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f05",
+      "subject": "arjun",
+      "attribute": "home",
+      "value": "Marisol Gardens unit 132, two-bedroom shared with roommate",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f06",
+      "subject": "arjun",
+      "attribute": "rent_share",
+      "value": "$1,090 a month, half of $2,180, due the 1st via Gloria's portal",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f07",
+      "subject": "arjun",
+      "attribute": "campus_job",
+      "value": "front desk at Bayshore career center, 10 hrs/week, $18.50/hr",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f08",
+      "subject": "arjun",
+      "attribute": "internship_tracker",
+      "value": "spreadsheet at 63 applications",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-22",
+      "superseded_by": "arjun.f09",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f09",
+      "subject": "arjun",
+      "attribute": "internship_tracker",
+      "value": "spreadsheet at 81 applications, color-coded by stage",
+      "valid_from": "2025-09-22",
+      "valid_to": "2025-10-27",
+      "superseded_by": "arjun.f10",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f10",
+      "subject": "arjun",
+      "attribute": "internship_tracker",
+      "value": "spreadsheet trimmed to 40 active targets after deciding quality over volume",
+      "valid_from": "2025-10-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f11",
+      "subject": "arjun",
+      "attribute": "internship_status",
+      "value": "no interviews yet",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-30",
+      "superseded_by": "arjun.f12",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f12",
+      "subject": "arjun",
+      "attribute": "internship_status",
+      "value": "phone screen with Kestrel Cold Chain (regional 3PL) scheduled",
+      "valid_from": "2025-09-30",
+      "valid_to": "2025-10-09",
+      "superseded_by": "arjun.f13",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f13",
+      "subject": "arjun",
+      "attribute": "internship_status",
+      "value": "rejected by Kestrel after a rough phone screen",
+      "valid_from": "2025-10-09",
+      "valid_to": "2025-11-05",
+      "superseded_by": "arjun.f14",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f14",
+      "subject": "arjun",
+      "attribute": "internship_status",
+      "value": "second-round video interview with Harrowgate Distribution, Nov 18",
+      "valid_from": "2025-11-05",
+      "valid_to": "2025-11-19",
+      "superseded_by": "arjun.f15",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f15",
+      "subject": "arjun",
+      "attribute": "internship_status",
+      "value": "awaiting Harrowgate decision, told 'by mid-December'",
+      "valid_from": "2025-11-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f16",
+      "subject": "arjun",
+      "attribute": "mock_interview",
+      "value": "mock interview with Lena rescheduled twice",
+      "valid_from": "2025-09-03",
+      "valid_to": "2025-10-14",
+      "superseded_by": "arjun.f17",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f17",
+      "subject": "arjun",
+      "attribute": "mock_interview",
+      "value": "standing Tuesday 3 p.m. mock interviews with Lena",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f18",
+      "subject": "arjun",
+      "attribute": "club_commitments",
+      "value": "supply chain club, Punjabi Student Association treasurer, case competition team, Model UN",
+      "valid_from": null,
+      "valid_to": "2025-10-20",
+      "superseded_by": "arjun.f19",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f19",
+      "subject": "arjun",
+      "attribute": "club_commitments",
+      "value": "dropped Model UN; keeps supply chain club, PSA treasurer, case team",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f20",
+      "subject": "arjun",
+      "attribute": "case_competition",
+      "value": "regional supply-chain case competition Nov 8 at Bayshore, team of four",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f21",
+      "subject": "arjun",
+      "attribute": "rec_letter_request",
+      "value": "asked Dr. Ashby for a recommendation letter",
+      "valid_from": "2025-09-25",
+      "valid_to": "2025-10-16",
+      "superseded_by": "arjun.f22",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f22",
+      "subject": "arjun",
+      "attribute": "rec_letter_status",
+      "value": "Ashby agreed to write one after office-hours talk",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f23",
+      "subject": "arjun",
+      "attribute": "gpa",
+      "value": "3.62 cumulative",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f24",
+      "subject": "arjun",
+      "attribute": "phone",
+      "value": "four-year-old midrange Android with cracked corner, battery dies by 4 p.m.",
+      "valid_from": null,
+      "valid_to": "2025-09-27",
+      "superseded_by": "arjun.f25",
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f25",
+      "subject": "arjun",
+      "attribute": "phone",
+      "value": "same phone with new battery from the Plaza Marisol repair shop, $65",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f26",
+      "subject": "arjun",
+      "attribute": "laptop",
+      "value": "secondhand ThinkPad-style laptop with a sticky 'e' key",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f27",
+      "subject": "arjun",
+      "attribute": "coffee_order",
+      "value": "masala chai, large, from Anh's cart at Flats Junction",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f28",
+      "subject": "arjun",
+      "attribute": "diet",
+      "value": "vegetarian, eats eggs",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f29",
+      "subject": "arjun",
+      "attribute": "cooking",
+      "value": "meal-preps rajma and rice on Sundays, four containers",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f30",
+      "subject": "arjun",
+      "attribute": "grocery_store",
+      "value": "Ruiz Family Market, plus Sunday langar leftovers from his mom",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f31",
+      "subject": "arjun",
+      "attribute": "monthly_budget",
+      "value": "$450 a month for food and transit after rent",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f32",
+      "subject": "arjun",
+      "attribute": "transit_pass",
+      "value": "student monthly Tule Line pass, $54",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f33",
+      "subject": "arjun",
+      "attribute": "bank_account_number",
+      "value": "checking account ending 4471-0938-2215 at a credit union",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "arjun.f34",
+      "subject": "arjun",
+      "attribute": "bedtime",
+      "value": "usually 2 a.m. on weeknights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f35",
+      "subject": "arjun",
+      "attribute": "fitness",
+      "value": "runs the Ulloa marsh boardwalk loop Saturday mornings, about 4 miles",
+      "valid_from": null,
+      "valid_to": "2025-11-15",
+      "superseded_by": "arjun.f36",
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f36",
+      "subject": "arjun",
+      "attribute": "fitness",
+      "value": "switched to Delgado Park loop after the storm flooded the boardwalk",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f37",
+      "subject": "arjun",
+      "attribute": "resume_version",
+      "value": "resume v14",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-10-11",
+      "superseded_by": "arjun.f38",
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f38",
+      "subject": "arjun",
+      "attribute": "resume_version",
+      "value": "resume v19, one page, quantified warehouse-sim project",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f39",
+      "subject": "arjun",
+      "attribute": "class_project",
+      "value": "ops management group project modeling Ridgeline-style tote flow, due Nov 20",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f40",
+      "subject": "arjun",
+      "attribute": "midterm_date",
+      "value": "operations management midterm Oct 23",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f41",
+      "subject": "arjun",
+      "attribute": "family_visits",
+      "value": "Sunday dinner at parents' Pell Road house, then langar some weeks",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f42",
+      "subject": "arjun",
+      "attribute": "wedding_role",
+      "value": "helping Sunita with the wedding vendor spreadsheet for April 2026",
+      "valid_from": "2025-10-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f43",
+      "subject": "arjun",
+      "attribute": "crush",
+      "value": "has a crush on Priya from the case competition team",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "arjun.f44",
+      "subject": "arjun",
+      "attribute": "music",
+      "value": "listens to old bhangra and lo-fi beats while editing",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f45",
+      "subject": "arjun",
+      "attribute": "interview_outfit",
+      "value": "one navy blazer, borrowed tie from his dad",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f46",
+      "subject": "arjun",
+      "attribute": "laundry",
+      "value": "card-only laundry room at Marisol Gardens, Thursday nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f47",
+      "subject": "arjun",
+      "attribute": "linkedin_goal",
+      "value": "reach out to one alum per weekday",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f48",
+      "subject": "arjun",
+      "attribute": "target_role",
+      "value": "summer 2026 supply chain or transportation analyst intern, Bay Area",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f49",
+      "subject": "arjun",
+      "attribute": "voting",
+      "value": "first local election; planned to vote yes on Measure K at the community center",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f50",
+      "subject": "manpreet",
+      "attribute": "cooking_gift",
+      "value": "sends Arjun home with a tub of dal every Sunday",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f51",
+      "subject": "sunita",
+      "attribute": "referral_tip",
+      "value": "got Arjun a referral into Harrowgate Distribution through a former colleague",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f52",
+      "subject": "gurpreet",
+      "attribute": "standing_question",
+      "value": "asks Arjun every langar whether he'll get his CDL 'just in case'",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f53",
+      "subject": "anh",
+      "attribute": "arjun_tab",
+      "value": "lets Arjun pay for chai at the end of the week",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f54",
+      "subject": "omar",
+      "attribute": "opinion_held_by_arjun",
+      "value": "Arjun privately thinks Omar only got his internship through his uncle",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "arjun.f55",
+      "subject": "lena",
+      "attribute": "advice_style",
+      "value": "makes Arjun answer 'tell me about yourself' standing up",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.f56",
+      "subject": "stephen",
+      "attribute": "office_hours",
+      "value": "Thursdays 2-3:30 p.m., door closed means knock anyway",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f57",
+      "subject": "arjun",
+      "attribute": "savings",
+      "value": "about $1,300 in savings",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.f58",
+      "subject": "arjun",
+      "attribute": "car",
+      "value": "no car; borrows his dad's Corolla for errands",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "arjun.i01",
+      "statement": "Prepares exhaustively for anything written but avoids rehearsing anything spoken.",
+      "about": "arjun",
+      "evidence": [
+        {
+          "id": "arjun.i01.e1",
+          "date": "2025-09-10",
+          "description": "asks for a fourth rewrite of a cover letter the night he was supposed to do Lena's mock interview"
+        },
+        {
+          "id": "arjun.i01.e2",
+          "date": "2025-10-07",
+          "description": "wants a list of likely phone-screen questions but declines to practice answering them out loud"
+        },
+        {
+          "id": "arjun.i01.e3",
+          "date": "2025-10-09",
+          "description": "after the Kestrel call says he 'blanked on the tell me about yourself part' and asks to redo his resume instead"
+        },
+        {
+          "id": "arjun.i01.e4",
+          "date": "2025-11-12",
+          "description": "finally asks the assistant to play the interviewer and type follow-ups to his answers before Harrowgate"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-14",
+      "changed_to": "Starts deliberately rehearsing spoken answers through weekly mock interviews, still nervous but no longer avoiding it.",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "arjun.i02",
+      "statement": "Gives others advice he doesn't follow himself, especially about rest.",
+      "about": "arjun",
+      "evidence": [
+        {
+          "id": "arjun.i02.e1",
+          "date": "2025-09-04",
+          "description": "at 1:40 a.m. asks for an article on sleep hygiene to send his roommate"
+        },
+        {
+          "id": "arjun.i02.e2",
+          "date": "2025-10-19",
+          "description": "drafts a message telling a teammate to stop pulling all-nighters while finishing slides at 2 a.m."
+        },
+        {
+          "id": "arjun.i02.e3",
+          "date": "2025-11-06",
+          "description": "asks for a 'realistic' schedule for the case comp week that has him sleeping five hours"
+        },
+        {
+          "id": "arjun.i02.e4",
+          "date": "2025-09-29",
+          "description": "builds his sister a timeline telling her to delegate wedding tasks, then takes three himself"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "arjun.i03",
+      "statement": "Measures himself against peers and quietly stings when others succeed.",
+      "about": "arjun",
+      "evidence": [
+        {
+          "id": "arjun.i03.e1",
+          "date": "2025-09-20",
+          "description": "asks how competitive freight brokerage internships are the day after a classmate posts his offer"
+        },
+        {
+          "id": "arjun.i03.e2",
+          "date": "2025-10-10",
+          "description": "wants to know the average number of applications 'normal people' send before an offer"
+        },
+        {
+          "id": "arjun.i03.e3",
+          "date": "2025-11-02",
+          "description": "compares his LinkedIn headline line-by-line against a club president's"
+        },
+        {
+          "id": "arjun.i03.e4",
+          "date": "2025-10-27",
+          "description": "cuts his tracker down while saying 'volume isn't working for me like it does for everyone else'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "arjun.i04",
+      "statement": "Uses dry jokes to deflect when things go badly.",
+      "about": "arjun",
+      "evidence": [
+        {
+          "id": "arjun.i04.e1",
+          "date": "2025-10-09",
+          "description": "opens with 'great news, I have been freed from Kestrel' before asking how to write a thank-you after rejection"
+        },
+        {
+          "id": "arjun.i04.e2",
+          "date": "2025-08-29",
+          "description": "calls the heat wave 'free sauna with my commute' while asking for a cheap fan setup"
+        },
+        {
+          "id": "arjun.i04.e3",
+          "date": "2025-11-14",
+          "description": "reports the train delay as 'the Tule Line choosing violence' while rescheduling a call"
+        },
+        {
+          "id": "arjun.i04.e4",
+          "date": "2025-09-22",
+          "description": "calls application 81 'another message in a bottle'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "arjun.i05",
+      "statement": "Is loyal and quietly protective of his roommate and family, doing favors without being asked.",
+      "about": "arjun",
+      "evidence": [
+        {
+          "id": "arjun.i05.e1",
+          "date": "2025-09-16",
+          "description": "asks for a quiet-hours note to tape on his door so his roommate can sleep after night shift"
+        },
+        {
+          "id": "arjun.i05.e2",
+          "date": "2025-10-05",
+          "description": "volunteers to build Sunita's vendor comparison sheet the same day she mentions being behind"
+        },
+        {
+          "id": "arjun.i05.e3",
+          "date": "2025-10-12",
+          "description": "looks up how to split groceries so his roommate pays less during a tight month"
+        },
+        {
+          "id": "arjun.i05.e4",
+          "date": "2025-11-22",
+          "description": "plans to help his mom pack boxes at the gurdwara for the food drive"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "arjun.i06",
+      "statement": "Is careless about deadlines.",
+      "about": "arjun",
+      "evidence": [
+        {
+          "id": "arjun.i06.e1",
+          "date": "2025-09-12",
+          "description": "misses one application cutoff because his calendar was set to the wrong time zone"
+        },
+        {
+          "id": "arjun.i06.e2",
+          "date": "2025-09-05",
+          "description": "has every application deadline in the spreadsheet with a two-day buffer column"
+        },
+        {
+          "id": "arjun.i06.e3",
+          "date": "2025-10-01",
+          "description": "pays rent the morning it opens on the portal, as always"
+        },
+        {
+          "id": "arjun.i06.e4",
+          "date": "2025-11-19",
+          "description": "submits the group project a day early and asks for a checklist for the next one"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "arjun.r01",
+      "term": "the spreadsheet",
+      "meaning": "his internship application tracker",
+      "first_use": "2025-08-26"
+    },
+    {
+      "id": "arjun.r02",
+      "term": "v-whatever",
+      "meaning": "the current version of his resume",
+      "first_use": "2025-09-02"
+    },
+    {
+      "id": "arjun.r03",
+      "term": "the 7:02",
+      "meaning": "his usual Tule Line train, later replaced by the 6:48",
+      "first_use": "2025-08-27"
+    },
+    {
+      "id": "arjun.r04",
+      "term": "Ashby's letter",
+      "meaning": "the recommendation letter he needs from Dr. Ashby",
+      "first_use": "2025-09-24"
+    },
+    {
+      "id": "arjun.r05",
+      "term": "case comp",
+      "meaning": "the Nov 8 regional supply-chain case competition",
+      "first_use": "2025-09-15"
+    },
+    {
+      "id": "arjun.r06",
+      "term": "Sunday call",
+      "meaning": "his mother's weekly internship check-in",
+      "first_use": "2025-08-31"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "arjun.a01",
+      "title": "Internship hunt",
+      "summary": "From mass applying to a real second-round interview.",
+      "beats": [
+        {
+          "date": "2025-09-22",
+          "what": "hits 81 applications",
+          "facts": [
+            "arjun.f08",
+            "arjun.f09"
+          ]
+        },
+        {
+          "date": "2025-09-30",
+          "what": "gets Kestrel phone screen",
+          "facts": [
+            "arjun.f11",
+            "arjun.f12"
+          ]
+        },
+        {
+          "date": "2025-10-09",
+          "what": "rejected after freezing",
+          "facts": [
+            "arjun.f13"
+          ]
+        },
+        {
+          "date": "2025-10-11",
+          "what": "rebuilds resume to v19",
+          "facts": [
+            "arjun.f37",
+            "arjun.f38"
+          ]
+        },
+        {
+          "date": "2025-10-27",
+          "what": "trims list to 40",
+          "facts": [
+            "arjun.f10"
+          ]
+        },
+        {
+          "date": "2025-11-05",
+          "what": "Harrowgate second round via Sunita's referral",
+          "facts": [
+            "arjun.f14",
+            "arjun.f51"
+          ]
+        },
+        {
+          "date": "2025-11-19",
+          "what": "waits on decision",
+          "facts": [
+            "arjun.f15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arjun.a02",
+      "title": "Learning to talk",
+      "summary": "Stops dodging mock interviews and wins over Ashby.",
+      "beats": [
+        {
+          "date": "2025-09-25",
+          "what": "asks Ashby for a letter",
+          "facts": [
+            "arjun.f21"
+          ]
+        },
+        {
+          "date": "2025-10-14",
+          "what": "commits to weekly mocks",
+          "facts": [
+            "arjun.f16",
+            "arjun.f17"
+          ]
+        },
+        {
+          "date": "2025-10-16",
+          "what": "Ashby agrees",
+          "facts": [
+            "arjun.f22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "arjun.a03",
+      "title": "Overcommitted fall",
+      "summary": "Too many clubs and a case competition force cuts.",
+      "beats": [
+        {
+          "date": "2025-09-15",
+          "what": "joins case team",
+          "facts": [
+            "arjun.f20"
+          ]
+        },
+        {
+          "date": "2025-10-06",
+          "what": "switches to earlier train",
+          "facts": [
+            "arjun.f03",
+            "arjun.f04"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "drops Model UN",
+          "facts": [
+            "arjun.f18",
+            "arjun.f19"
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "what": "storm moves his run",
+          "facts": [
+            "arjun.f35",
+            "arjun.f36"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "lowercase, few periods, short bursts of 1-2 lines, rare emoji except 💀, says 'lowkey', 'ngl', occasional typo from sticky e key ('th' for 'the')",
+    "with_assistant": "pastes job descriptions and resume bullets with little framing, says 'pls' and 'thx', wants tight bullet answers and says 'too long, tldr?' to essays",
+    "quirks": [
+      "numbers everything (v19, app 81)",
+      "self-deprecating one-liners after bad news",
+      "asks for tables",
+      "messages past 1 a.m."
+    ],
+    "sample_lines": [
+      "ok pasting a JD, tell me which 3 bullets to tailor",
+      "too long lol tldr pls",
+      "ngl i blanked on th first question again 💀",
+      "can you make this sound less like a robot wrote it",
+      "be the recruiter, ask me one question at a time",
+      "thx, now make it fit one line"
+    ]
+  },
+  "usage": {
+    "frequency": "daily",
+    "active_hours": [
+      7,
+      12,
+      22,
+      23,
+      1
+    ]
+  }
+}

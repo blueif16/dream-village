@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s72",
+  "principal": "noemi",
+  "start": "2025-11-09T23:27:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. iris sent me this and i drafted a reply, can you clean up my reply pls. also a note to mateo after\n\niris: hey babe, i know you're slammed but i work 8 to 5 weekdays and i miss you. can we plan one quiet weeknight this week? no phones, just takeout and a show. you pick the night\n\nmy reply: ok yeah. i'm off the clock around 11:30 most nights so late. wednesday maybe? i'll be fried but i'll be there. no scanners, no phones. pinky promise"
+    },
+    {
+      "role": "assistant",
+      "text": "Your reply is already sweet, it just needs a little smoothing. Here's a cleaned-up version:\n\n\"Yes, please. I'm not off until around 11:30 most nights, so it'll be a late one, but Wednesday works. I'll be tired but I'll be all yours: no scanners, no phones. Pinky promise. 💛\"\n\nIf you'd rather keep it more casual, use this:\n\n\"yes. wednesday? i'm off at 11:30 so it'll be late, but i'm in. takeout, a show, no phones. pinky promise\"\n\nWhat's the note to Mateo?"
+    },
+    {
+      "role": "user",
+      "text": "ty the first one is gg. ok mateo note, he wants help building his first pc for his december bday. here's my draft\n\nyo mateo. we'll build ur first pc before ur bday in december. i can only talk parts after my sunday night co-op game w my squad so ping me then. start a parts list, use mine as the model, my desktop has the ultrawide and a mid range gpu and it runs everything fine. dont buy anything till i look at it lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a tidied version:\n\n\"Yo Mateo, we're building your first PC before your birthday in December. I can only talk parts after my Sunday night co-op game with my squad, so ping me then. Start a parts list and use my setup as the model: I built my desktop with a mid-range GPU and an ultrawide monitor, and it runs everything fine. Don't buy anything until I've looked over the list, okay?\"\n\nA tip: ask him to include his budget and any games he wants to play, so you can match the parts to it. Want a shorter, more casual version for texting?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version pls, he'll skim it"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Mateo: we're building your first PC before your December birthday. Start a parts list (use my build as the model: mid-range GPU, ultrawide). Send it after my Sunday night co-op game. Don't buy anything till I check it.\""
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "session_id": "marcus.s17",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus was on the cold dock last night and needed a freezer jacket",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "was on the cold dock last night and needed a freezer jacket the whole time",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a 2 to 5:15 class section today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got my 2 to 5:15 section today too",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus wants specific fuel and caffeine timing, not general tips",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "like specifics not just eat healthy lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a 2 to 5:15 class",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Here's a specific plan for a 2 to 5:15 class:",
+      "support_quote": "i got my 2 to 5:15 section today too"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f41",
+      "present": true,
+      "quote": "was on the cold dock last night and needed a freezer jacket the whole time"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i got my 2 to 5:15 section today too so need to stay awake thru that"
+    },
+    {
+      "item_id": "marcus.i06",
+      "present": true,
+      "quote": "whats the best timing for caffeine and food. like specifics not just eat healthy lol"
+    }
+  ],
+  "sensitive": []
+}

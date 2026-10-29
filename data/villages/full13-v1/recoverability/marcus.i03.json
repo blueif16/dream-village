@@ -1,0 +1,82 @@
+{
+  "impression_id": "marcus.i03",
+  "evidence_sessions": [
+    "marcus.s16",
+    "marcus.s28",
+    "marcus.s29",
+    "marcus.s40"
+  ],
+  "inferred": [
+    {
+      "statement": "Marcus repeatedly talks himself into sneaker purchases by calling them an 'investment' he can flip, even though his own budgeting shows he's rationalizing.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s16",
+        "marcus.s28",
+        "marcus.s29"
+      ]
+    },
+    {
+      "statement": "He is actively working to rein in his sneaker spending, using caps, a visible wallpaper tracker, a spreadsheet alert, and converting prices into work shifts, and he can resist a purchase when he frames it in labor cost.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s29",
+        "marcus.s40",
+        "marcus.s28"
+      ]
+    },
+    {
+      "statement": "He financially supports his mother, raising his contribution to her electric bill and disguising it as 'gas money back' so she won't refuse it.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s28"
+      ]
+    },
+    {
+      "statement": "He wants fast, compact help, opening with 'real quick' and asking for 'short version' or 'a few options, I'll pick', and he prefers to make the final decision himself.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s16",
+        "marcus.s28",
+        "marcus.s29",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "He works physically demanding, late or early shifts on a cold dock alongside school, so his time and energy are tightly limited.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s16",
+        "marcus.s29",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "He is self-aware and jokes about his own habits (the 'box wall', forgetting the root), takes correction without defensiveness, and tends to use humor or a sigh emoji to cover stress.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s16",
+        "marcus.s29",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "He is working to improve his academic and financial footing, struggling in stats while pursuing kinesiology and filling out financial aid forms, and he learns best by attempting practice problems and getting checked.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s16",
+        "marcus.s28"
+      ]
+    },
+    {
+      "statement": "He shares sensitive personal information, such as his full SSN, with the assistant without much caution.",
+      "strength": "weak",
+      "sessions": [
+        "marcus.s28"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Marcus repeatedly talks himself into sneaker purchases by calling them an 'investment' he can flip, even though his own budgeting shows he's rationalizing.",
+  "rationale": "The first inferred statement, rated strong, says Marcus repeatedly talks himself into sneaker purchases by calling them an 'investment' while his budgeting shows he's rationalizing. This is substantially the same as the intended trait of rationalizing sneaker purchases as investments."
+}

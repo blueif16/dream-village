@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s44",
+  "principal": "noemi",
+  "start": "2025-10-11T12:22:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you make a one page printable checklist poster for the cage. scanner triage steps w/ icons, clean layout. i have like 10 min before my every other saturday ot shift starts so i need something quick i can just fill in"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few quick things so I get the steps right: what order do you want for triage? If you're not sure, I'll draft a standard one (power/battery, charge contacts, trigger/scan test, Wi-Fi/software, swap or RMA) and you can edit. Any color preferences?"
+    },
+    {
+      "role": "user",
+      "text": "use that order. goes up at the cage so the techs and bao can follow it during their tue/thu repair training. colors, calm pls. i walked the marsh boardwalk this morning before shift so like that vibe, soft greens and blue-gray"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, a marsh palette works well for a calm, readable poster. Here's the design:\n\n[Image: A portrait one-page poster on an off-white background with a soft sage green header band reading \"SCANNER TRIAGE: START HERE\". Below it, five large numbered rows in blue-gray rounded boxes, each with a simple line icon and a checkbox on the right:\n1. [battery icon] POWER & BATTERY: Is it charged? Swap the battery and retest.\n2. [plug icon] CHARGE CONTACTS: Check the cradle and contacts for dirt or bent pins.\n3. [trigger icon] TRIGGER & SCAN TEST: Press the trigger and scan a test barcode.\n4. [Wi-Fi icon] WI-FI & SOFTWARE: Confirm it connects and the app loads. Reboot if frozen.\n5. [swap arrows icon] SWAP OR RMA: If it still fails, tag it, log it, and send it to the RMA pile.\nAt the bottom, a thin sage footer with blanks: \"Tech: ______ Date: ______ Unit #: ______\", and a small clipboard icon.]\n\nThe layout is letter size, with large type so it reads from a few feet away. Want a Spanish version of the step labels too, or a spot to write a ticket number?"
+    },
+    {
+      "role": "user",
+      "text": "ticket number line pls. no spanish on this one. ty that's gg"
+    },
+    {
+      "role": "assistant",
+      "text": "Done. Here's the update:\n\n[Image: Same poster with one added line in the footer, \"Ticket #: ______\", beside the Tech, Date and Unit # blanks. Everything else is unchanged: sage header, blue-gray step boxes with icons, and checkboxes.]\n\nPrint it at 100% scale on letter paper. Cardstock or a sheet protector will help it survive the cage. Good luck with the shift!"
+    }
+  ]
+}

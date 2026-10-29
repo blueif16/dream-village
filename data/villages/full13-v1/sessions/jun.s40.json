@@ -1,0 +1,39 @@
+{
+  "id": "jun.s40",
+  "principal": "jun",
+  "start": "2025-11-10T05:54:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "boss i need a quick lesson before my shift starts, like 20 min. how do i figure out a weekly budget and break even number for lumpia stuff. numbers stuff, i just cut the cafe down to four shifts, tue-fri openers, so weekends are free for lola's roll 🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to, and it's simple once you see the shape. Three steps:\n\n1. Fixed costs per week: what you owe no matter what you sell (rent, phone, gas, kitchen time, insurance/fees), converted to a weekly number. Monthly cost x 12 / 52.\n2. Contribution per sale: price minus the direct cost of what you sold (wrappers, pork, shrimp, oil, packaging).\n3. Break-even = weekly costs you need to cover / contribution per sale.\n\nStart with your income side: with four shifts, what's your hourly wage and roughly how many hours per shift? And what fixed bills do you have to cover each month?"
+    },
+    {
+      "role": "user",
+      "text": "ok wait so 19.50 an hour plus tips, shifts are like 8 hrs. rent is the big one, 950 for the sublet room, due on the 1st by zelle. plus phone and gas, call it 150 for those"
+    },
+    {
+      "role": "assistant",
+      "text": "Great, let's run it.\n\nPaycheck (before tax and tips): $19.50 x 8 hrs x 4 shifts = $624/week, so about $2,704/month (x 52 / 12). Tips are a bonus; budget without them.\n\nFixed costs: $950 rent + $150 phone/gas = $1,100/month, about $254/week.\n\nSo the cafe check covers your fixed costs before taxes, but not much more. Food, commissary time and ingredient restocks have to come from lumpia sales or what's left. A good rule: let the cafe pay your life, and let lola's roll pay for itself first.\n\nNow the break-even practice problem. Give me your prices and what one batch costs you."
+    },
+    {
+      "role": "user",
+      "text": "half dozen is 12, dozen is 22. say a dozen costs me like 9 to make. and kitchen time is a fixed thing per week"
+    },
+    {
+      "role": "assistant",
+      "text": "Practice problem with your numbers:\n\n- Dozen: $22 - $9 = $13 contribution\n- Half dozen: $12 - about $4.50 = about $7.50 contribution\n\nSay weekly business fixed costs are your kitchen block. Tell me the weekly number; for the example, I'll use a placeholder [kitchen cost per week]. Formula:\n\nBreak-even dozens = [kitchen cost per week] / $13\n\nExample: if kitchen time is $84/week, that's 84 / 13 = 6.5, so you need to sell about 7 dozen to cover it. Everything after that is profit.\n\nIf you also want lola's roll to cover part of rent, add that into the top number: (kitchen + the share of your $254 weekly fixed costs the cafe doesn't cover) / $13."
+    },
+    {
+      "role": "user",
+      "text": "ok actually can you give me the short version as a checklist. i'll put the formulas into linh's sheet once i get it, shift starts in 10"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- Weekly pay = hourly wage x hours x 4 shifts (skip tips)\n- Weekly fixed = (monthly bills x 12) / 52\n- Contribution = price - cost to make (dozen: $22 - $9 = $13; half dozen: $12 - ~$4.50)\n- Break-even units = weekly business fixed costs / contribution\n- Check each week: did sales beat break-even? If not, adjust price, batch size or kitchen hours\n\nFor the sheet, one cell per step. Good luck on your shift! 🔥"
+    }
+  ]
+}

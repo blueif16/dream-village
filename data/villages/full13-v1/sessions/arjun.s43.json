@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s43",
+  "principal": "arjun",
+  "start": "2025-10-10T12:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so my resume exports to 2 pages from my laptop and it was 1 page yesterday. on break at the career center front desk rn so im on the desk computer if that matters"
+    },
+    {
+      "role": "assistant",
+      "text": "It matters a bit. Different computers often have different fonts installed, and that's the most common reason a one-page resume spills onto a second page. What program are you editing it in (Word, Google Docs, something else), and how much is spilling over, a line or two or a whole section?"
+    },
+    {
+      "role": "user",
+      "text": "word. only like 3 lines go onto page 2. ngl i also tried to fix it on my laptop and th sticky e key put extra e's in like half th bullets so now its worse 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "That would do it. Stray letters can lengthen lines enough to wrap and add extra lines. Here's a quick fix order:\n\n1. Use Find (Ctrl+F) and search for doubled letters like \"ee\" or \"eee\" to catch the sticky key's work. Check words that shouldn't have them.\n2. Turn on Show/Hide formatting marks (the ¶ button) and look for empty paragraphs at the end or between sections. Delete any extras.\n3. Check the font. Open the Font dropdown and see if any text is substituted or greyed. On this computer, switch everything to a common font like Calibri or Arial for consistency.\n4. Margins: Layout > Margins > Narrow (0.5\") usually pulls 3 lines back up.\n5. Export with File > Save As > PDF, then open the PDF to confirm it's one page before sending.\n\nIf you paste the bullets here, I can also spot doubled letters and suggest which lines to tighten."
+    },
+    {
+      "role": "user",
+      "text": "found like 9 double e's lol. margins to narrow got it down to 1 page. honestly its th one thing kestrel didnt reject"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, the resume is undefeated. Nice work on the cleanup. Since the layout can shift again if you edit on a different machine, a couple of tips: save a PDF copy as your master and name the versions clearly, and check page count after any edit. Also, if you want a safety margin, trim a line or two so a font swap won't push it over again."
+    },
+    {
+      "role": "user",
+      "text": "yeah ok. also i blanked on th tell me about yourself question yesterday so im gonna keep tweaking th resume a bit more. can you check one more thing, does th summary line at th top look too long"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to check the summary line. Paste it here and I'll tell you whether it fits comfortably on one line and how to tighten it if not. For a one-page resume, aim for about 12 to 18 words or drop it if space is tight. Go ahead and paste it."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "session_id": "grace.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Rebuilt third-period lab-pair chart separating feuding sophomores, posted Sept 29",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I rebuilt the third-period chart after the hallway drama, separating feuding sophomores.",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks to forget her opinion of Patricia as 'the dashboard'",
+      "about": "grace",
+      "kind": "forget_request",
+      "item_id": "grace.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "please forget what I said earlier about Patricia Ocampo caring more about attendance graphs than about kids, and that I call her 'the dashboard'.",
+      "support_quote": ""
+    },
+    {
+      "text": "Dismisses the more reliable car costing $1,800 more as reckless",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "The other is $1,800 more and reliable-looking, but that is reckless.",
+      "support_quote": ""
+    },
+    {
+      "text": "Refers to the van being dead",
+      "about": "grace",
+      "kind": "reference_use",
+      "item_id": "grace.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "The van is dead again.",
+      "support_quote": ""
+    },
+    {
+      "text": "Refers to lab room B12",
+      "about": "grace",
+      "kind": "reference_use",
+      "item_id": "grace.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "to post on the wall in B12 next to the lab stations",
+      "support_quote": ""
+    },
+    {
+      "text": "Date of birth is March 14, 1980",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w6.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "My date of birth is March 14, 1980.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the chart was posted Sept 29 and rebuilt",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "arranged to mirror the chart posted Sept 29",
+      "support_quote": "It was posted Sept 29, so the flyer layout must match the new chart."
+    },
+    {
+      "text": "Grace is looking at used cars tonight",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w6.n01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the car search tonight.",
+      "support_quote": "I am looking at used cars tonight."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f57",
+      "present": true,
+      "quote": "I rebuilt the third-period chart after the hallway drama, separating feuding sophomores."
+    },
+    {
+      "item_id": "grace.f58",
+      "present": true,
+      "quote": "please forget what I said earlier about Patricia Ocampo caring more about attendance graphs than about kids, and that I call her 'the dashboard'."
+    },
+    {
+      "item_id": "grace.i02",
+      "present": true,
+      "quote": "The other is $1,800 more and reliable-looking, but that is reckless."
+    },
+    {
+      "item_id": "grace.r03",
+      "present": true,
+      "quote": "The van is dead again."
+    },
+    {
+      "item_id": "grace.r04",
+      "present": true,
+      "quote": "to post on the wall in B12 next to the lab stations"
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "present": true,
+      "quote": "My date of birth is March 14, 1980."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "My date of birth is March 14, 1980.",
+      "assistant_quote": ""
+    }
+  ]
+}

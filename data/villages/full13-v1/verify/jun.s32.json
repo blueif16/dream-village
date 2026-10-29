@@ -1,0 +1,353 @@
+{
+  "session_id": "jun.s32",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has a standing Friday 5-9 block at the Ruel Road commissary",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have my standing friday 5-9 block at the ruel road commissary",
+      "support_quote": ""
+    },
+    {
+      "text": "Paolo works the line until 11 Thu-Sat",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's on the line till 11 thu-sat",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants to avoid Joan's fryer rule",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do not want to trigger joan's fryer rule again",
+      "support_quote": ""
+    },
+    {
+      "text": "Covers for Paolo's flakiness, gently texting him",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hey man no worries if you cant make it, totally fine, maybe swing by after if you feel like it lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Fills up at the Ruel Road station",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill fill up the hatchback at the ruel road station on the way home from the cafe tonight anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun has a 5-9 p.m. block",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Here's a solo timeline for the 5-9 p.m. block",
+      "support_quote": "i have my standing friday 5-9 block at the ruel road commissary"
+    },
+    {
+      "text": "Paolo works a shift tomorrow and may come after",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f53",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "if you can swing by after your shift, awesome",
+      "support_quote": "paolo just texted that he'll try to make it after his shift"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f16",
+      "present": true,
+      "quote": "i have my standing friday 5-9 block at the ruel road commissary"
+    },
+    {
+      "item_id": "jun.f53",
+      "present": true,
+      "quote": "he's on the line till 11 thu-sat so lol that's a no"
+    },
+    {
+      "item_id": "jun.r02",
+      "present": true,
+      "quote": "i do not want to trigger joan's fryer rule again"
+    },
+    {
+      "item_id": "jun.i04",
+      "present": true,
+      "quote": "need a solo plan, 150 lumpia"
+    },
+    {
+      "item_id": "jun.f28",
+      "present": true,
+      "quote": "ill fill up the hatchback at the ruel road station on the way home from the cafe tonight anyway"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

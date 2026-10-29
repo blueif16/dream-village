@@ -1,0 +1,368 @@
+{
+  "session_id": "arjun.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Usually up until 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ngl im usually up till 2am tweaking things",
+      "support_quote": ""
+    },
+    {
+      "text": "Resume is on v14",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "resume is on v14 and i want one more pass",
+      "support_quote": ""
+    },
+    {
+      "text": "Works 10 hrs a week at career center front desk",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work 10 hrs a week at the career center front desk",
+      "support_quote": ""
+    },
+    {
+      "text": "Classes MWF 9-12 and Tue/Thu 10:30 ops management",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have classes mon wed fri 9-12 plus tue/thu 10:30 ops management with dr ashby",
+      "support_quote": ""
+    },
+    {
+      "text": "Usually up until 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Given you're usually up until 2 a.m.",
+      "support_quote": "ngl im usually up till 2am tweaking things"
+    },
+    {
+      "text": "Classes Mon/Wed/Fri 9-12, Tue/Thu ops management at 10:30",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Mon/Wed/Fri: classes 9-12",
+      "support_quote": "i have classes mon wed fri 9-12 plus tue/thu 10:30 ops management with dr ashby"
+    },
+    {
+      "text": "Front desk 10 hours a week",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Front desk: 10 hrs, split into 3-4 shifts",
+      "support_quote": "i work 10 hrs a week at the career center front desk"
+    },
+    {
+      "text": "Resume is v14",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Resume v14 final pass",
+      "support_quote": "resume is on v14 and i want one more pass"
+    },
+    {
+      "text": "Edits resume late at night, tweaking endlessly",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "ngl im usually up till 2am tweaking things",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "ngl im usually up till 2am tweaking things, even tho its 1 now"
+    },
+    {
+      "item_id": "arjun.f37",
+      "present": true,
+      "quote": "resume is on v14 and i want one more pass"
+    },
+    {
+      "item_id": "arjun.f07",
+      "present": true,
+      "quote": "i work 10 hrs a week at the career center front desk"
+    },
+    {
+      "item_id": "arjun.f02",
+      "present": true,
+      "quote": "i have classes mon wed fri 9-12 plus tue/thu 10:30 ops management with dr ashby"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

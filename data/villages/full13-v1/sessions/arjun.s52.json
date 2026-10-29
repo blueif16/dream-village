@@ -1,0 +1,63 @@
+{
+  "id": "arjun.s52",
+  "principal": "arjun",
+  "start": "2025-10-19T23:41:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok need help w inventory models. ops management midterm is oct 23 and i lowkey never got EOQ. can you explain th formula pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. EOQ finds the order size that minimizes total yearly ordering cost plus holding cost.\n\nEOQ = √(2DS / H)\n\n- D = annual demand (units/year)\n- S = cost per order (fixed cost each time you place one)\n- H = holding cost per unit per year\n\nBigger orders mean fewer orders (lower ordering cost) but more stock sitting around (higher holding cost). EOQ is the point where those two costs are equal.\n\nQuick example: D = 1,200 units, S = $50, H = $6. EOQ = √(2·1200·50 / 6) = √20,000 ≈ 141 units, so about 8.5 orders a year.\n\nWant to try one yourself?"
+    },
+    {
+      "role": "user",
+      "text": "ok that makes sense. ngl i can do th math but never know when its allowed. what assumptions does it need"
+    },
+    {
+      "role": "assistant",
+      "text": "Good question, exams love this. EOQ assumes:\n\n1. Demand is constant and known\n2. Lead time is constant and known\n3. Order cost and holding cost don't change with order size (no quantity discounts)\n4. The whole order arrives at once\n5. No stockouts allowed\n\nIf demand or lead time varies, you add safety stock on top of EOQ. That's the next piece."
+    },
+    {
+      "role": "user",
+      "text": "yeah safety stock. also my mom's sunday call about internships already happened tonight, told her about th letter so she's calm for once. anyway tldr on safety stock pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad that call went well. TLDR:\n\nSafety stock = z × σ_LT\n\n- z = z-score for your target service level (90% ≈ 1.28, 95% ≈ 1.65, 99% ≈ 2.33)\n- σ_LT = standard deviation of demand during lead time\n\nIf demand varies per day with std dev σ_d and lead time is L days: σ_LT = σ_d × √L\n\nReorder point = (average daily demand × L) + safety stock\n\nExample: σ_d = 20 units/day, L = 9 days, 95% service. σ_LT = 20 × 3 = 60. Safety stock = 1.65 × 60 ≈ 99 units.\n\nWant a practice problem?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. one at a time. also i have to finish th case team slides, its for th nov 8 regional case comp, team of four. so keep it quick"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick one:\n\nAverage demand is 50 units/day, σ_d = 10 units/day, lead time is 4 days, target service level 95% (z = 1.65).\n\nFind (a) safety stock and (b) reorder point.\n\nTry it and I'll check."
+    },
+    {
+      "role": "user",
+      "text": "a) 10 x 2 = 20, x 1.65 = 33. b) 50x4 = 200 + 33 = 233"
+    },
+    {
+      "role": "assistant",
+      "text": "Both correct. Safety stock is 33 units and the reorder point is 233 units. Nice work, you handled the √L step cleanly.\n\nOne exam tip: if they give lead time variability instead of demand variability, the formula changes, so check which one is given."
+    },
+    {
+      "role": "user",
+      "text": "thx. ok last thing, need to text a teammate. its almost midnight and ill probably be up till 2 as usual finishing slides 💀 can you draft: tell him to stop pulling all nighters, sleep matters, we have weeks left"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a draft:\n\n\"Hey, quick note: please stop pulling all-nighters on this. We still have weeks before the competition, and the slides will be better if you're rested. Send me whatever's left and get some sleep. We've got time.\"\n\nWant it shorter or more casual?"
+    },
+    {
+      "role": "user",
+      "text": "th casual one pls, shorter"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Dude, no more all-nighters. We've got weeks. Sleep, and send me what's left.\"\n\nGood luck with the slides and the midterm!"
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "town": "Alcaraz Flats",
+  "region": "southern edge of invented Tamsen County, a Bay Area-style bayside valley",
+  "summary": "Alcaraz Flats is a flat, sprawling town of about 80,000 wedged between salt marsh and the foothills, where 1960s ranch houses sit beside new podium apartments and a belt of distribution warehouses. Families here are Mexican, Salvadoran, Filipino, Vietnamese, Punjabi and older white and Black households who bought in before prices tripled. Most adults commute out on the Tule Line train or work locally at the warehouses, the hospital, or the schools. The town argues constantly about whether more warehouses mean jobs or diesel asthma, and whether a downtown housing tower would save Calle Ortega or kill it.",
+  "texture": [
+    "A one-bedroom at the newer complexes runs about $2,650; older fourplexes off Vinca Avenue go for $2,100 with coin laundry and street parking only.",
+    "The Tule Line train reaches the city across the bay in 52 minutes from Flats Junction; the 6:14 a.m. is standing room by Ruel Road.",
+    "Late August brings three or four 100-degree days when the marsh wind dies, then the fog comes back around 5 p.m. smelling of salt and mud.",
+    "You hear Spanish, Tagalog, Vietnamese and Punjabi in a single line at Ruiz Family Market.",
+    "Ridgeline Freight pays $21.75 an hour to start, $23.25 on nights, with a $1.50 peak-season bump that starts in October.",
+    "Teenagers hang out in the Plaza Marisol parking lot by the boba shop until security sweeps it at 10 p.m.",
+    "The running argument is Measure K, a half-cent sales tax for road repair and bus shuttles, and whether Ridgeline's trucks should pay for Ruel Road potholes.",
+    "Multigenerational households are common: grandparents watch toddlers while both parents work split shifts.",
+    "Saturday mornings smell like pan dulce from Panadería Las Hermanas and diesel from the I-yard on Ruel.",
+    "The Alcaraz Flats Unified bell rings at 8:05; drop-off on Vinca backs up past the dentist office by 7:50.",
+    "Leaf blowers start at 7 a.m. despite a city ordinance saying 8.",
+    "Gas at the Ruel Road station is usually 30 cents cheaper than near the freeway ramp.",
+    "Everyone knows the marsh trail floods at high tide in November and the boardwalk planks go slick."
+  ],
+  "places": [
+    {
+      "id": "pl-flats-high",
+      "name": "Alcaraz Flats High School",
+      "kind": "high_school",
+      "description": "A 2,100-student campus of tan stucco wings on Vinca Avenue, home of the Egrets. The football stadium has aluminum bleachers that burn your legs in August."
+    },
+    {
+      "id": "pl-tamsen-college",
+      "name": "Tamsen Valley College",
+      "kind": "community_college",
+      "description": "A hillside community college with a nursing prep program and a 7 a.m. parking scramble in Lot C. Many students work warehouse nights and take afternoon classes."
+    },
+    {
+      "id": "pl-bayshore-state",
+      "name": "Bayshore State University, Tamsen campus",
+      "kind": "state_university",
+      "description": "A nearby campus of the state university system twenty minutes north on the Tule Line, known for its nursing and logistics management programs. Transfer students from Tamsen Valley fill its evening sections."
+    },
+    {
+      "id": "pl-st-anselm",
+      "name": "St. Anselm Valley Medical Center",
+      "kind": "hospital",
+      "description": "A 280-bed hospital on Ortega Hill with a crowded ER and a new tower still smelling of paint. Nurses park in a gravel overflow lot and take a shuttle."
+    },
+    {
+      "id": "pl-calle-ortega",
+      "name": "Calle Ortega",
+      "kind": "main_street",
+      "description": "Six blocks of old storefronts, taquerias, a shuttered theater and a tax-prep office. String lights cross the street between the 1920s brick buildings."
+    },
+    {
+      "id": "pl-ridgeline",
+      "name": "Ridgeline Freight Fulfillment Center RF-4",
+      "kind": "warehouse_employer",
+      "description": "A 900,000-square-foot gray warehouse on Ruel Road running three shifts and 140 truck doors. Workers scan totes on handhelds that beep red when you fall behind rate."
+    },
+    {
+      "id": "pl-marisol-apts",
+      "name": "Marisol Gardens Apartments",
+      "kind": "apartment_complex",
+      "description": "A 1970s two-story complex with a cracked pool, 180 units and a laundry room that takes cards only since spring."
+    },
+    {
+      "id": "pl-verdant-commons",
+      "name": "Verdant Commons",
+      "kind": "apartment_complex",
+      "description": "A new five-story podium building next to Flats Junction with a rooftop grill and $2,900 one-bedrooms. Package lockers overflow every Monday."
+    },
+    {
+      "id": "pl-ruiz-market",
+      "name": "Ruiz Family Market",
+      "kind": "grocery_store",
+      "description": "An independent grocery on Vinca with a carnicería counter, a fresh tortilla machine and fish sauce in aisle 6."
+    },
+    {
+      "id": "pl-flats-junction",
+      "name": "Flats Junction Station",
+      "kind": "transit_station",
+      "description": "The Tule Line stop with a 400-space lot full by 7:10 a.m. and a coffee cart under the canopy."
+    },
+    {
+      "id": "pl-taqueria-colima",
+      "name": "Taquería Colima",
+      "kind": "taqueria",
+      "description": "A Calle Ortega counter spot with $3.25 al pastor tacos and a line of warehouse workers after the 6 p.m. shift change."
+    },
+    {
+      "id": "pl-pho-saigon-bay",
+      "name": "Phở Bến Thành",
+      "kind": "pho_restaurant",
+      "description": "A strip-mall pho house with laminated menus and a big tank of iced tea; nurses come in after night shift at 8 a.m."
+    },
+    {
+      "id": "pl-cafe-heron",
+      "name": "Heron & Grind",
+      "kind": "cafe",
+      "description": "A cafe in a former bank on Calle Ortega with outlets along the vault wall, popular with college students studying."
+    },
+    {
+      "id": "pl-boba-cloud",
+      "name": "Cloud Nine Tea Bar",
+      "kind": "cafe",
+      "description": "A boba shop in Plaza Marisol where high schoolers crowd in after 3:15 and order taro slush."
+    },
+    {
+      "id": "pl-plaza-marisol",
+      "name": "Plaza Marisol",
+      "kind": "strip_mall",
+      "description": "A strip mall with a nail salon, dentist, phone repair shop, pho house and a big parking lot where teens hang out."
+    },
+    {
+      "id": "pl-ironflats-gym",
+      "name": "Iron Flats Fitness",
+      "kind": "gym",
+      "description": "A 24-hour gym in an old auto parts store, $29 a month, busiest at 5 a.m. and midnight with shift workers."
+    },
+    {
+      "id": "pl-salt-marsh-park",
+      "name": "Ulloa Salt Marsh Park",
+      "kind": "park",
+      "description": "A marsh park with a boardwalk trail, egrets and a playground; the trail floods at king tides."
+    },
+    {
+      "id": "pl-central-park",
+      "name": "Delgado Park",
+      "kind": "park",
+      "description": "The town's central park with soccer fields, a bandstand and the Sunday farmers market lot."
+    },
+    {
+      "id": "pl-flats-library",
+      "name": "Alcaraz Flats Public Library, Main Branch",
+      "kind": "library",
+      "description": "A low brick library with a busy homework center, free printing up to 20 pages and a seed library by the door."
+    },
+    {
+      "id": "pl-our-lady",
+      "name": "Our Lady of the Marsh Parish",
+      "kind": "church",
+      "description": "A white stucco Catholic church with Masses in English, Spanish and Tagalog and a food pantry on Thursdays."
+    },
+    {
+      "id": "pl-gurdwara",
+      "name": "Sikh Gurdwara of Tamsen Valley",
+      "kind": "temple",
+      "description": "A gurdwara on Pell Road serving free langar every Sunday; warehouse drivers stop in for chai."
+    },
+    {
+      "id": "pl-community-center",
+      "name": "Vinca Avenue Community Center",
+      "kind": "community_center",
+      "description": "A 1980s rec center hosting senior lunches, ESL classes, polling and candidate forums in its multipurpose room."
+    },
+    {
+      "id": "pl-suds-laundromat",
+      "name": "Suds City Laundromat",
+      "kind": "laundromat",
+      "description": "A 24-hour laundromat on Vinca where a double load costs $6.50 and a TV plays telenovelas."
+    },
+    {
+      "id": "pl-panaderia",
+      "name": "Panadería Las Hermanas",
+      "kind": "bakery",
+      "description": "A Calle Ortega bakery with conchas at $1.50 and a line out the door Saturday mornings."
+    },
+    {
+      "id": "pl-flats-middle",
+      "name": "Kessler Middle School",
+      "kind": "middle_school",
+      "description": "A middle school across from Delgado Park whose drop-off line overlaps with the high school's."
+    },
+    {
+      "id": "pl-ruel-road",
+      "name": "Ruel Road Industrial Corridor",
+      "kind": "industrial_area",
+      "description": "A strip of warehouses, truck yards and a cheap gas station along Ruel Road, full of potholes and diesel smell."
+    },
+    {
+      "id": "pl-ortega-theater",
+      "name": "Ortega Playhouse",
+      "kind": "theater",
+      "description": "A restored 1928 theater on Calle Ortega used by community groups and the high school's fall play."
+    }
+  ],
+  "events": [
+    {
+      "id": "ev-hs-first-day",
+      "date": "2025-08-25",
+      "end_date": null,
+      "title": "First day at Alcaraz Flats High",
+      "description": "Students return for the fall semester; parents juggle early drop-off with shifts and Vinca traffic backs up.",
+      "places": [
+        "pl-flats-high",
+        "pl-flats-middle"
+      ]
+    },
+    {
+      "id": "ev-tvc-fall-term",
+      "date": "2025-08-26",
+      "end_date": null,
+      "title": "Tamsen Valley College fall term begins",
+      "description": "Classes start; Lot C overflows and working students scramble to add classes around warehouse shifts.",
+      "places": [
+        "pl-tamsen-college"
+      ]
+    },
+    {
+      "id": "ev-heat-wave",
+      "date": "2025-08-27",
+      "end_date": "2025-08-30",
+      "title": "Late-summer heat wave",
+      "description": "Highs over 100°F; Ridgeline adds water breaks, the ER sees heat cases, schools hold minimum days, the library opens as a cooling center.",
+      "places": [
+        "pl-ridgeline",
+        "pl-st-anselm",
+        "pl-flats-high",
+        "pl-flats-library"
+      ]
+    },
+    {
+      "id": "ev-labor-day",
+      "date": "2025-09-01",
+      "end_date": null,
+      "title": "Labor Day",
+      "description": "Schools and college closed; Ridgeline pays holiday time-and-a-half to those working; families picnic at Delgado Park.",
+      "places": [
+        "pl-central-park",
+        "pl-ridgeline"
+      ]
+    },
+    {
+      "id": "ev-football-opener",
+      "date": "2025-09-05",
+      "end_date": null,
+      "title": "Egrets home football opener",
+      "description": "Friday night game drawing students, families and off-shift workers to the stadium.",
+      "places": [
+        "pl-flats-high"
+      ]
+    },
+    {
+      "id": "ev-ridgeline-hiring",
+      "date": "2025-09-13",
+      "end_date": null,
+      "title": "Ridgeline peak-season hiring fair",
+      "description": "Ridgeline hires 400 seasonal workers at $21.75; college students and parents line up early.",
+      "places": [
+        "pl-ridgeline",
+        "pl-community-center"
+      ]
+    },
+    {
+      "id": "ev-hospital-charting",
+      "date": "2025-09-16",
+      "end_date": null,
+      "title": "St. Anselm goes live with new charting system",
+      "description": "Nurses and doctors switch to a new electronic charting system; overtime spikes and patients see longer waits.",
+      "places": [
+        "pl-st-anselm"
+      ]
+    },
+    {
+      "id": "ev-calle-ortega-fair",
+      "date": "2025-09-20",
+      "end_date": null,
+      "title": "Calle Ortega Street Fair",
+      "description": "Street closed for food stalls, live music and local vendors; families and teens crowd the downtown blocks.",
+      "places": [
+        "pl-calle-ortega",
+        "pl-taqueria-colima",
+        "pl-panaderia"
+      ]
+    },
+    {
+      "id": "ev-farmers-market",
+      "date": "2025-09-28",
+      "end_date": null,
+      "title": "Delgado Park harvest farmers market",
+      "description": "Sunday market with stone fruit, peppers and tamales; seniors and families shop after church.",
+      "places": [
+        "pl-central-park"
+      ]
+    },
+    {
+      "id": "ev-ridgeline-overtime",
+      "date": "2025-10-06",
+      "end_date": "2025-11-23",
+      "title": "Ridgeline mandatory overtime begins",
+      "description": "Ten-hour shifts and a new scanner quota; workers juggle childcare and classes and the gym fills at odd hours.",
+      "places": [
+        "pl-ridgeline",
+        "pl-ironflats-gym"
+      ]
+    },
+    {
+      "id": "ev-candidate-forum",
+      "date": "2025-10-08",
+      "end_date": null,
+      "title": "City council candidate forum",
+      "description": "Candidates debate warehouse growth, housing and Measure K; residents line up to ask questions.",
+      "places": [
+        "pl-community-center"
+      ]
+    },
+    {
+      "id": "ev-indigenous-day",
+      "date": "2025-10-13",
+      "end_date": null,
+      "title": "Indigenous Peoples' Day",
+      "description": "Schools closed; the library hosts a storytelling program and families visit the marsh park.",
+      "places": [
+        "pl-flats-library",
+        "pl-salt-marsh-park"
+      ]
+    },
+    {
+      "id": "ev-tvc-midterms",
+      "date": "2025-10-15",
+      "end_date": "2025-10-21",
+      "title": "Tamsen Valley College midterms",
+      "description": "Students cram at Heron & Grind and the library, many after overtime shifts.",
+      "places": [
+        "pl-tamsen-college",
+        "pl-cafe-heron",
+        "pl-flats-library"
+      ]
+    },
+    {
+      "id": "ev-nurses-union-vote",
+      "date": "2025-10-23",
+      "end_date": null,
+      "title": "St. Anselm nurses union vote",
+      "description": "Nurses vote on unionizing over staffing ratios; families of patients and hospital workers watch closely.",
+      "places": [
+        "pl-st-anselm"
+      ]
+    },
+    {
+      "id": "ev-homecoming",
+      "date": "2025-10-24",
+      "end_date": null,
+      "title": "Egrets homecoming game",
+      "description": "Homecoming football and court; students, alumni and families pack the stadium.",
+      "places": [
+        "pl-flats-high"
+      ]
+    },
+    {
+      "id": "ev-halloween",
+      "date": "2025-10-31",
+      "end_date": null,
+      "title": "Halloween on Calle Ortega",
+      "description": "Merchants hand out candy; kids trick-or-treat downtown and in Marisol Gardens.",
+      "places": [
+        "pl-calle-ortega",
+        "pl-marisol-apts"
+      ]
+    },
+    {
+      "id": "ev-election-day",
+      "date": "2025-11-04",
+      "end_date": null,
+      "title": "Local election and Measure K",
+      "description": "Residents vote on council seats and Measure K; polling at the community center.",
+      "places": [
+        "pl-community-center"
+      ]
+    },
+    {
+      "id": "ev-hs-play",
+      "date": "2025-11-07",
+      "end_date": "2025-11-09",
+      "title": "Flats High fall play",
+      "description": "Students perform at the Ortega Playhouse; families attend.",
+      "places": [
+        "pl-ortega-theater",
+        "pl-flats-high"
+      ]
+    },
+    {
+      "id": "ev-veterans-day",
+      "date": "2025-11-11",
+      "end_date": null,
+      "title": "Veterans Day ceremony",
+      "description": "Schools closed; ceremony at Delgado Park bandstand attended by veterans and families.",
+      "places": [
+        "pl-central-park"
+      ]
+    },
+    {
+      "id": "ev-first-storm",
+      "date": "2025-11-13",
+      "end_date": "2025-11-14",
+      "title": "First fall storm",
+      "description": "Heavy rain floods the marsh trail and Ruel Road; commuters face Tule Line delays and the ER sees crash injuries.",
+      "places": [
+        "pl-salt-marsh-park",
+        "pl-ruel-road",
+        "pl-flats-junction",
+        "pl-st-anselm"
+      ]
+    },
+    {
+      "id": "ev-hs-midterms",
+      "date": "2025-11-17",
+      "end_date": "2025-11-21",
+      "title": "Flats High semester midterms",
+      "description": "Students study at the library homework center and boba shop.",
+      "places": [
+        "pl-flats-high",
+        "pl-flats-library",
+        "pl-boba-cloud"
+      ]
+    },
+    {
+      "id": "ev-food-drive",
+      "date": "2025-11-22",
+      "end_date": null,
+      "title": "Thanksgiving food drive",
+      "description": "Parish and gurdwara volunteers distribute turkeys and groceries to families.",
+      "places": [
+        "pl-our-lady",
+        "pl-gurdwara"
+      ]
+    }
+  ]
+}

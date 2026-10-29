@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s13",
+  "principal": "rochelle",
+  "start": "2025-09-21T15:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need help planning this week lol. i have card review (my color banded index cards by body system), loretta tuesday at 3:30, aaliyah's 4 evening shifts at ridgeline 6pm to 2:30am, and the van needs gas money budgeted for the week. already did sunday batch cooking, baked chicken, so dinners are covered. need study time protected"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. A few quick questions so I don't guess: which four nights does Aaliyah work, and what are your class times? Also, is there anything fixed on the kid/pickup side? If you'd rather I just draft something, here's a starting skeleton:\n\n- Mornings: card review, 30-40 min, one body system per day\n- Tuesday: 3:30 pharmacy run, so keep review before noon or after 7 pm\n- Aaliyah's shift nights: she's gone by about 6 pm and back after 2:30 am, so plan your quiet study block from about 8 to 10 pm\n- Dinners: chicken is done, so just reheat and add a side\n- Gas: pick a set amount for the week and fill up once\n\nTell me the shift nights and class times and I'll fill in the real days."
+    },
+    {
+      "role": "user",
+      "text": "shifts are mon wed thu sat. classes anatomy MWF 9 and chem tue/thu 11. keep it short pls. gas i can do $40 for the week"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Mon:** class 9. Cards (heart/circulation) 7:30 pm. Aaliyah out 6.\n**Tue:** chem 11. Cards (respiratory) 8 am. Pharmacy run 3:30. Quiet cards 8-9:30 pm.\n**Wed:** class 9 + lab. Cards (muscular) 8 pm. Aaliyah out.\n**Thu:** chem 11. Cards (nervous) 7:30 pm. Aaliyah out.\n**Fri:** class 9. Cards (digestive) 7 pm. Free night otherwise.\n**Sat:** longer review, 1 hour, mixed cards, before Aaliyah leaves.\n**Sun:** light skim, plan next week.\n\nGas: $40 in one fill-up Monday so the van is set for the week. Dinners: reheat the chicken, rotate sides."
+    },
+    {
+      "role": "user",
+      "text": "ok good. i need to copy this onto the paper calendar on the fridge with everybodys color pens. one more thing, i wanna set up a small auto transfer to pay keisha back. the form wants my account number its 0048213 4417 can u help me fill it out"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Here's how to fill it out without me needing the number:\n\n1. **From account:** your checking account. Enter the account number from your card or statement, and check it once carefully before you submit.\n2. **To:** Keisha's account or her payment handle, whichever the form asks for. You'll need her details from her.\n3. **Amount:** choose a small amount you can cover every time.\n4. **Frequency:** monthly or every two weeks, timed a day or two after you get paid.\n5. **Start date:** pick the first date, and an end date once it's paid off.\n6. **Memo:** something short like \"repayment.\"\n\nMake sure the first transfer date lands when there's money in the account. Want help choosing an amount and schedule?"
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck with the week."
+    }
+  ]
+}

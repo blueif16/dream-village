@@ -1,0 +1,63 @@
+{
+  "id": "rochelle.s25",
+  "principal": "rochelle",
+  "start": "2025-10-13T22:00:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest can u quiz me. i finished my index cards thru the legs today and the practical is friday. im at the kitchen table now, house is finally quiet after 9 lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, let's do it. Leg and lower limb muscles and bones, one question at a time. Answer however you can and I'll correct as we go.\n\nQ1: Which bone is the longest and strongest in the body, and what muscle group sits on its front side?"
+    },
+    {
+      "role": "user",
+      "text": "femur. quads on the front. rectus femoris vastus lateralis medialis intermedius. my back loosened up after the boardwalk walk this morning so i can actually sit for this 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Perfect, all four quad muscles and the femur. Good news on the back too.\n\nQ2: Name the two bones of the lower leg. Which one is weight-bearing, and which is on the lateral side?"
+    },
+    {
+      "role": "user",
+      "text": "tibia is the big one that holds the weight. fibula is the skinny one on the outside. ok next"
+    },
+    {
+      "role": "assistant",
+      "text": "Right on both.\n\nQ3: Which muscle is the main one on the back of the thigh group, and what are the three names in that group?"
+    },
+    {
+      "role": "user",
+      "text": "hamstrings. biceps femoris semitendinosus semimembranosus. wait which one is the inside one"
+    },
+    {
+      "role": "assistant",
+      "text": "Semimembranosus and semitendinosus are medial; biceps femoris is lateral.\n\nQ4: What muscle forms the calf bulge, and what tendon does it attach with?"
+    },
+    {
+      "role": "user",
+      "text": "gastrocnemius. achilles. ok can u explain the soleus like a bracket on a rack so it sticks. i keep mixing it up with the gastroc"
+    },
+    {
+      "role": "assistant",
+      "text": "Think of the gastrocnemius as the big load sitting on top of the rack. It crosses two joints, the knee and the ankle, so it's a long span. The soleus is the bracket underneath it, bolted only at the lower leg and ankle. It sits deeper, crosses just the ankle, and holds steady for standing.\n\nSo: gastroc is on top and spans the knee and ankle; soleus is the deeper bracket under it and spans only the ankle. Both join into the Achilles.\n\nQ5: Which muscle on the front of the lower leg lifts your foot upward (dorsiflexion)?"
+    },
+    {
+      "role": "user",
+      "text": "tibialis anterior. ok that bracket thing actually works. one more round pls then im done"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct, tibialis anterior. Glad the bracket idea helped.\n\nFinal round:\n1. Which bone is the kneecap?\n2. Name the muscle that crosses the hip and knee and is called the longest muscle in the body.\n3. Which tarsal bone forms the heel?\n\nAnswer when ready."
+    },
+    {
+      "role": "user",
+      "text": "patella. sartorius. calcaneus. ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "All three right. Strong session. Before Friday, redo the hamstring medial and lateral order, since that one slipped. Good luck on the practical."
+    }
+  ]
+}

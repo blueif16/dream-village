@@ -1,0 +1,353 @@
+{
+  "session_id": "isabel.s24",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Isabel is building the Mom sheet",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the mom sheet needs a tighter aid paragraph.",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel qualified for an SAT fee waiver but not application waivers at most private schools",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I qualified for an SAT fee waiver, but most private schools do not offer me application fee waivers",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is saving $160 for application fees",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so I am saving $160 on my own to cover application fees beyond my waivers",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace is collecting tax documents for an aid estimate",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "grace is collecting our tax documents right now so we can get an actual aid estimate instead of guessing",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel wants no parent lecture lines and an adult tone",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "and genuinely no 'talk to your parents' stuff",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel qualified for SAT fee waiver, saving $160",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "so I'm saving $160 to cover the ones my waivers don't",
+      "support_quote": "so I am saving $160 on my own to cover application fees beyond my waivers"
+    },
+    {
+      "text": "Grace is gathering tax documents",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f49",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I also swapped \"grace is collecting\" for \"we're gathering\"",
+      "support_quote": "grace is collecting our tax documents right now"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.r03",
+      "present": true,
+      "quote": "the mom sheet needs a tighter aid paragraph."
+    },
+    {
+      "item_id": "isabel.i07",
+      "present": true,
+      "quote": "and genuinely no 'talk to your parents' stuff"
+    },
+    {
+      "item_id": "isabel.f30",
+      "present": true,
+      "quote": "so I am saving $160 on my own to cover application fees beyond my waivers"
+    },
+    {
+      "item_id": "isabel.f43",
+      "present": true,
+      "quote": "I qualified for an SAT fee waiver, but most private schools do not offer me application fee waivers"
+    },
+    {
+      "item_id": "cast.f49",
+      "present": true,
+      "quote": "grace is collecting our tax documents right now so we can get an actual aid estimate instead of guessing"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

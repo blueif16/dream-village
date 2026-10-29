@@ -1,0 +1,82 @@
+{
+  "impression_id": "dulce.i04",
+  "evidence_sessions": [
+    "dulce.s06",
+    "dulce.s07",
+    "dulce.s09",
+    "dulce.s11"
+  ],
+  "inferred": [
+    {
+      "statement": "Dulce reads ambiguous social signals (being left on seen, a removal from a chat, a vague story post, a slow reply) as possible signs she's being shut out, and she looks for reassurance that she hasn't done something wrong.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s07",
+        "dulce.s09",
+        "dulce.s11"
+      ]
+    },
+    {
+      "statement": "She works hard to keep peace with her friends, drafting careful texts so nobody is mad at her and asking which wording sounds less fake or desperate.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s07",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She asks the assistant to forget things she has just shared, such as a crush on Eli or a complaint about a coworker, which shows she worries about personal or critical remarks being kept.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She talks in a casual, joking voice (\"bestie\", \"lol\"), often tacks a laugh onto things that worry her, and likes short, practical, step-by-step help.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s07",
+        "dulce.s09",
+        "dulce.s11"
+      ]
+    },
+    {
+      "statement": "She is reliable and takes pride in her work and in earning money, but she says yes to extra shifts or favors quickly and then has to untangle conflicts with family or friends.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She is close to her extended family, including her uncle's and aunt's stand, and cares about not disappointing them, though she worries about how they will react when she has to back out.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She tends to overshare sensitive details, like her SSN, while handling tasks, and she is new to adult paperwork and budgeting, so she benefits from plain, guided help.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06"
+      ]
+    },
+    {
+      "statement": "She is stressed about school, with a slipping chem grade and missing lab writeups, and she avoids tasks she dislikes until they pile up.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s11"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Dulce reads ambiguous social signals (being left on seen, a removal from a chat, a vague story post, a slow reply) as possible signs she's being shut out, and she looks for reassurance that she hasn't done something wrong.",
+  "rationale": "The first inferred statement, rated strong, says Dulce reads ambiguous signals like being left on seen, slow replies, or removal from a chat as signs she's being shut out. That is substantially the same as the intended trait of reading silence or a missed reply as proof of being left out."
+}

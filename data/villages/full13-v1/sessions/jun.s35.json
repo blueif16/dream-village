@@ -1,0 +1,39 @@
+{
+  "id": "jun.s35",
+  "principal": "jun",
+  "start": "2025-11-02T23:05:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need help planning prep for next week. rick assigned me a sunday stall at delgado park today, row C near the bandstand 🔥 sold out by afternoon lol. so now im making about 400 lumpia a week split between the saturday counter and the sunday market, used to be just saturday batches. just logged today's sales in linh's sheet, the one with tabs for ingredients, kitchen hours and sales, so id like the plan to feed those tabs"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on the sold-out first Sunday! Here's a plan for roughly 400 a week.\n\n**Split:** Say ~150 for the Saturday counter and ~250 for Sunday. Adjust once you see what actually sold today.\n\n**Prep days (rough):**\n- **Thu/early Fri:** Buy wrappers, shrimp, pork, oil. Log receipts in your Ingredients tab.\n- **Fri commissary block:** Mix filling, roll everything (~400), flash-freeze on trays, then bag. Frying fresh works best on market day.\n- **Sat:** Pull the counter portion, fry or reheat there.\n- **Sun:** Bring the frozen balance in the cooler, fry at the stall or reheat in batches.\n\n**Spreadsheet feed:**\n- Ingredients tab: cost per case/lb, date, amount used per batch\n- Kitchen hours tab: block length, rolling start/end, scrub time\n- Sales tab: pieces brought, pieces sold, leftovers, so next week's count is based on real numbers\n\nWant me to turn it into a timed schedule for Friday's block?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also my kitchen guy charges a $40 fee if the fryer area isnt scrubbed by the time the booking ends so build scrubbing time in. block is friday 5-9"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a Friday 5-9 p.m. timeline:\n\n- **5:00-5:20:** Set up, wash hands, stage ingredients, mix filling\n- **5:20-7:30:** Roll (~400). If you have a helper, split into two stations.\n- **6:00:** Start frying the first test batch if you want to check seasoning and set aside samples\n- **7:30-8:10:** Fry what you need for Saturday, tray-freeze the rest\n- **8:10-8:20:** Bag, label, and pack the cooler\n- **8:20-8:55:** Full scrub: fryer area, counters, floor, dish station. Treat this as fixed time and don't let rolling eat into it.\n- **8:55:** Walkthrough check so you avoid the $40 fee\n\nTip: set a phone alarm for 8:20 as the hard stop on all other work. Log the actual start and end times in your Kitchen hours tab."
+    },
+    {
+      "role": "user",
+      "text": "nice. the market also wants a vendor registration form filled out and it needs gov id so heres my license number D4827163, can u help me fill it in"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. I'd suggest not leaving your ID number in this chat, so I'll use a placeholder. Here's how to fill in a typical vendor form:\n\n- **Name / business name:** your legal name and Lola's Roll\n- **Contact:** phone and email\n- **Government ID:** write your driver's license number in the ID field yourself, [your license number], plus the state and expiration date if asked\n- **Products:** pork-and-shrimp fried lumpia, dips\n- **Permits:** attach a copy of your county health permit\n- **Stall details:** Sunday, row C\n\nTwo checks: make sure the name matches your ID exactly, and keep a photo of the finished form. Want help wording the product description?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yes make the product description friendlier, short version"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n**Lola's Roll:** Crispy, hand-rolled lumpiang shanghai with pork and shrimp, fried fresh and served with sweet chili and spiced vinegar dips. Family recipe, made in small batches. 🥢"
+    }
+  ]
+}

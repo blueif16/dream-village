@@ -1,0 +1,92 @@
+{
+  "session_id": "rochelle.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Keisha lends her red pickup to nobody but Rochelle",
+      "about": "keisha",
+      "kind": "fact",
+      "item_id": "rochelle.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "u know i dont lend it to nobody but u",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle's check-engine light has been on for weeks and she is ignoring it",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "check engine light been on for weeks and im ignoring it lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle refers to her minivan as 'the van'",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill take the pickup if the van acts up",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle wants a straight, short answer with no commentary",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just tell me if it sounds dumb and give me the fixed one only no commentary",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says check-engine light on for weeks and she is ignoring it",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f15",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The check-engine light has been on for weeks and I've been ignoring it, lol.",
+      "support_quote": "check engine light been on for weeks and im ignoring it lol"
+    },
+    {
+      "text": "Assistant refers to the van with reference use",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Hope the van holds up.",
+      "support_quote": "ill take the pickup if the van acts up"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f53",
+      "present": true,
+      "quote": "hey u can borrow the red pickup if the van acts up, u know i dont lend it to nobody but u."
+    },
+    {
+      "item_id": "rochelle.r03",
+      "present": true,
+      "quote": "ill take the pickup if the van acts up"
+    },
+    {
+      "item_id": "rochelle.f15",
+      "present": true,
+      "quote": "check engine light been on for weeks and im ignoring it lol"
+    },
+    {
+      "item_id": "rochelle.i04",
+      "present": true,
+      "quote": "just tell me if it sounds dumb and give me the fixed one only no commentary"
+    }
+  ],
+  "sensitive": []
+}

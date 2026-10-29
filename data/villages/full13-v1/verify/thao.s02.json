@@ -1,0 +1,137 @@
+{
+  "session_id": "thao.s02",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao has no AC in her apartment",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no AC in my apt",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao borrowed a portable unit from her mom",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just borrowed a portable unit from my mom",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao sleeps 8:30 to 3 after shift with blackout curtains and a box fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i sleep 8:30 to 3 after shift w blackout curtains and a box fan",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh's place is near a nail salon",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "cast.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "picked it up near her nail salon",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao drinks a thermos of cà phê sữa đá before shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my thermos of cà phê sữa đá before shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants short bullet-only answers",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just the steps pls, bullets only",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao sleeps at 8:30 a.m.",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Start it 30-45 min before 8:30 so the room is already cool",
+      "support_quote": "i sleep 8:30 to 3 after shift w blackout curtains and a box fan"
+    },
+    {
+      "text": "Thao has blackout curtains and a box fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Keep the blackout curtains shut; they help block heat",
+      "support_quote": "i sleep 8:30 to 3 after shift w blackout curtains and a box fan"
+    },
+    {
+      "text": "Thao has a portable unit",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Put the portable unit in the bedroom and close the door",
+      "support_quote": "ok i just borrowed a portable unit from my mom"
+    },
+    {
+      "text": "Thao drinks the coffee for her shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you're drinking it for the shift, not before bed",
+      "support_quote": "also does my thermos of cà phê sữa đá before shift mess w sleep in the heat"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f57",
+      "present": true,
+      "quote": "ok i just borrowed a portable unit from my mom, picked it up near her nail salon, have it til sunday"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "i sleep 8:30 to 3 after shift w blackout curtains and a box fan"
+    },
+    {
+      "item_id": "cast.f29",
+      "present": true,
+      "quote": "picked it up near her nail salon"
+    },
+    {
+      "item_id": "thao.f11",
+      "present": true,
+      "quote": "also does my thermos of cà phê sữa đá before shift mess w sleep in the heat"
+    },
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "just the steps pls, bullets only"
+    }
+  ],
+  "sensitive": []
+}

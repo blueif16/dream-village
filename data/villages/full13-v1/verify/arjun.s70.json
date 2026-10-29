@@ -1,0 +1,102 @@
+{
+  "session_id": "arjun.s70",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Regional case competition is tomorrow at Bayshore with a team of four",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "regional case comp is tomorrow at bayshore, team of four",
+      "support_quote": ""
+    },
+    {
+      "text": "Normally sleeps around 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "normally i sleep around 2 so this is already early for me lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Lives in a shared unit with Marcus who has a quiet-hours note on the door",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he has a quiet-hours note taped on the door of our unit",
+      "support_quote": ""
+    },
+    {
+      "text": "Told Marcus to rest but wants to sleep only five hours himself",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i literally told marcus last week to get more rest",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun usually sleeps around 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Going to bed earlier than 2 a.m. will help, even if it feels strange at first.",
+      "support_quote": "normally i sleep around 2 so this is already early for me lol"
+    },
+    {
+      "text": "Arjun is editing under a blanket in a shared unit with a quiet-hours note",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Quiet-hours notes are nice for sleeping, but the screen light from editing under a blanket can still keep your brain awake.",
+      "support_quote": "he has a quiet-hours note taped on the door of our unit"
+    },
+    {
+      "text": "Case competition is tomorrow",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since tomorrow is the one that counts",
+      "support_quote": "regional case comp is tomorrow at bayshore, team of four"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "also can you make me a realistic schedule for case comp week, i want to sleep five hours a night"
+    },
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "regional case comp is tomorrow at bayshore, team of four"
+    },
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "normally i sleep around 2 so this is already early for me lol"
+    },
+    {
+      "item_id": "arjun.f05",
+      "present": true,
+      "quote": "he has a quiet-hours note taped on the door of our unit"
+    }
+  ],
+  "sensitive": []
+}

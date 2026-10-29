@@ -1,0 +1,393 @@
+{
+  "principal": "marcus",
+  "week": 12,
+  "entries": [
+    {
+      "id": "marcus.w12.l01",
+      "date": "2025-11-10",
+      "what": "Marcus gets home from the Sunday night overtime shift at Ridgeline, eats eggs and rice, and sleeps from about 8:30 a.m. until early afternoon.",
+      "with": [],
+      "outcome": "Slept a bit short but made it up for class.",
+      "feeling": "wiped",
+      "facts": [
+        "marcus.f05",
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l02",
+      "date": "2025-11-10",
+      "what": "Before class he sorts out Thanksgiving: he will bring mac and cheese to his mom Denise's duplex, and he plans the groceries (turkey sides, canned goods) that he will buy and drop off quietly so she doesn't fuss over the cost.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "Decided on the plan and a grocery list without telling her what it costs.",
+      "feeling": "quietly determined",
+      "facts": [
+        "marcus.f44"
+      ],
+      "impressions": [
+        "marcus.i02"
+      ]
+    },
+    {
+      "id": "marcus.w12.l03",
+      "date": "2025-11-10",
+      "what": "Afternoon section at Bayshore State, 2-5:15, with Fatima's shared notes open beside him.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Stayed awake through most of it.",
+      "feeling": "foggy",
+      "facts": [
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l04",
+      "date": "2025-11-10",
+      "what": "Quick dinner at the apartment, then Trevor's Corolla to Ridgeline for the 9 p.m. shift.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Clocked in on time.",
+      "feeling": "resigned",
+      "facts": [
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l05",
+      "date": "2025-11-11",
+      "what": "Veterans Day: Bayshore is closed, so after the night shift he sleeps in the quiet apartment while Arjun is out.",
+      "with": [],
+      "outcome": "Got a rare full stretch of sleep.",
+      "feeling": "rested",
+      "facts": [
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l06",
+      "date": "2025-11-11",
+      "what": "Preps five containers of chicken and rice and does laundry at the apartment.",
+      "with": [],
+      "outcome": "Food ready for the week.",
+      "feeling": "productive",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l07",
+      "date": "2025-11-11",
+      "what": "Ridgeline runs the holiday, so he works the cold dock in his freezer jacket with Trevor.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Finished the shift at rate.",
+      "feeling": "cold and tired",
+      "facts": [
+        "marcus.f41",
+        "marcus.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l08",
+      "date": "2025-11-12",
+      "what": "After shift he sleeps a short night, then goes to the Bayshore stats tutoring center at 12:30.",
+      "with": [],
+      "outcome": "Worked through practice problems.",
+      "feeling": "focused",
+      "facts": [
+        "marcus.f28",
+        "marcus.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l09",
+      "date": "2025-11-12",
+      "what": "He asks the assistant about spring classes ahead of the Nov 18 registration window, saying to just give him options and he'll pick.",
+      "with": [],
+      "outcome": "Got a short list of options to choose from.",
+      "feeling": "decisive",
+      "facts": [
+        "marcus.f46"
+      ],
+      "impressions": [
+        "marcus.i01"
+      ]
+    },
+    {
+      "id": "marcus.w12.l10",
+      "date": "2025-11-12",
+      "what": "Afternoon section from 2 to 5:15, then a quick bite and the ride in to Ridgeline.",
+      "with": [
+        "fatima",
+        "trevor"
+      ],
+      "outcome": "Made it through both.",
+      "feeling": "drained",
+      "facts": [
+        "marcus.f02",
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l11",
+      "date": "2025-11-13",
+      "what": "The first fall storm floods Ruel Road; the Corolla ride home from the night shift is slow and Trevor swerves around potholes.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Got home late and soaked.",
+      "feeling": "irritated",
+      "facts": [
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l12",
+      "date": "2025-11-13",
+      "what": "Sleeps a few hours, then takes the delayed Tule Line to his afternoon section in the rain.",
+      "with": [],
+      "outcome": "Arrived just after class started.",
+      "feeling": "frazzled",
+      "facts": [
+        "marcus.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l13",
+      "date": "2025-11-13",
+      "what": "Texts Jade about the weather and his messy day, trading jokes.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Kept things light.",
+      "feeling": "warm",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l14",
+      "date": "2025-11-13",
+      "what": "Back to the cold dock for the 9 p.m. shift in the rain.",
+      "with": [
+        "jose"
+      ],
+      "outcome": "Got through the shift.",
+      "feeling": "grim",
+      "facts": [
+        "marcus.f41",
+        "marcus.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l15",
+      "date": "2025-11-14",
+      "what": "After shift his back and shoulders are tight from the cold dock, so he asks the assistant for stretching routines.",
+      "with": [],
+      "outcome": "Got a short stretch routine to do before and after shifts.",
+      "feeling": "stiff but motivated",
+      "facts": [
+        "marcus.f41"
+      ],
+      "impressions": [
+        "marcus.i06"
+      ]
+    },
+    {
+      "id": "marcus.w12.l16",
+      "date": "2025-11-14",
+      "what": "Payday Friday: he sends his $250 to Denise for the electric bill and checks the budget.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "Transfer sent.",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f14",
+        "marcus.f15"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l17",
+      "date": "2025-11-14",
+      "what": "Short session at Iron Flats Fitness with Mike, one of his two weekly lifts.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Hit his working sets.",
+      "feeling": "pumped",
+      "facts": [
+        "marcus.f21",
+        "marcus.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l18",
+      "date": "2025-11-14",
+      "what": "Naps in the afternoon, then rides to Ridgeline for the evening shift.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Ready for another night.",
+      "feeling": "sleepy",
+      "facts": [
+        "marcus.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l19",
+      "date": "2025-11-15",
+      "what": "Gets a sneaker drop notification, wants the pair, and asks the assistant what it costs in shifts.",
+      "with": [],
+      "outcome": "Talked himself out of buying it.",
+      "feeling": "tempted then proud",
+      "facts": [
+        "marcus.f34"
+      ],
+      "impressions": [
+        "marcus.i03"
+      ]
+    },
+    {
+      "id": "marcus.w12.l20",
+      "date": "2025-11-15",
+      "what": "Saturday morning lift at Iron Flats after shift, mostly deadlifts.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Solid session.",
+      "feeling": "energized",
+      "facts": [
+        "marcus.f21",
+        "marcus.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l21",
+      "date": "2025-11-15",
+      "what": "Evening date with Jade at Phở Bến Thành.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Good night, no tension.",
+      "feeling": "content",
+      "facts": [
+        "marcus.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l22",
+      "date": "2025-11-16",
+      "what": "Sunday sleeping in after the date and catching up on stats homework.",
+      "with": [],
+      "outcome": "Finished the assignment.",
+      "feeling": "okay",
+      "facts": [
+        "marcus.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l23",
+      "date": "2025-11-16",
+      "what": "Preps five containers of chicken and rice for the week.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Food ready; Arjun grabbed one.",
+      "feeling": "efficient",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w12.l24",
+      "date": "2025-11-16",
+      "what": "Rides with Trevor to Ridgeline for the Sunday night overtime shift at 9 p.m.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Started another week.",
+      "feeling": "tired",
+      "facts": [
+        "marcus.f05",
+        "marcus.f18"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w12.n01",
+      "subject": "marcus",
+      "attribute": "thanksgiving_dish_detail",
+      "value": "plans to make baked mac and cheese with three cheeses",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w12.n02",
+      "subject": "marcus",
+      "attribute": "stretch_routine",
+      "value": "does a ten-minute hip and back stretch before and after cold dock shifts",
+      "valid_from": "2025-11-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.w12.n03",
+      "subject": "marcus",
+      "attribute": "skipped_sneaker",
+      "value": "passed on a sneaker drop on Nov 15",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w12.n04",
+      "subject": "marcus",
+      "attribute": "rain_gear",
+      "value": "bought a cheap rain poncho for the ride after the storm",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w12.n05",
+      "subject": "marcus",
+      "attribute": "spring_class_shortlist",
+      "value": "narrowed spring options to a short list ahead of Nov 18 registration",
+      "valid_from": "2025-11-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

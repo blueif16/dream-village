@@ -1,0 +1,343 @@
+{
+  "session_id": "arjun.s08",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Current resume version is called v-whatever",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "this is v-whatever, tell me which two bullets are weakest",
+      "support_quote": ""
+    },
+    {
+      "text": "Works career center front desk 10 hrs/wk at $18.50/hr",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my career center front desk job, 10 hrs/wk at $18.50/hr",
+      "support_quote": ""
+    },
+    {
+      "text": "Pushed mock interview with Lena again",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just pushed my mock interview with lena again",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers polishing the paper over rehearsing the mock interview",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "would rather polish th paper tbh",
+      "support_quote": ""
+    },
+    {
+      "text": "Handles check-in and books appointments, about 40 students a day",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i handle check-in and book appts, prob 40ish students a day",
+      "support_quote": ""
+    },
+    {
+      "text": "Works 10 hrs/week at the front desk",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Balance 10 hrs/week of front-desk work with a full course load",
+      "support_quote": "10 hrs/wk at $18.50/hr"
+    },
+    {
+      "text": "Has a project conflict delaying the mock interview",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "if the project conflict clears up, it's worth getting that mock back on the calendar soon",
+      "support_quote": "i just pushed my mock interview with lena again, project deadline stuff"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.r02",
+      "present": true,
+      "quote": "this is v-whatever, tell me which two bullets are weakest"
+    },
+    {
+      "item_id": "arjun.f07",
+      "present": true,
+      "quote": "also need to add my career center front desk job, 10 hrs/wk at $18.50/hr, i work it between classes"
+    },
+    {
+      "item_id": "arjun.f16",
+      "present": true,
+      "quote": "btw i just pushed my mock interview with lena again, project deadline stuff"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

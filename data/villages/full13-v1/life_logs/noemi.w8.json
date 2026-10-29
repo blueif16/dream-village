@@ -1,0 +1,339 @@
+{
+  "principal": "noemi",
+  "week": 8,
+  "entries": [
+    {
+      "id": "noemi.w8.l01",
+      "date": "2025-10-13",
+      "what": "Slept in on the holiday, then walked the Ulloa marsh boardwalk with Iris, who had the day off for Indigenous Peoples' Day, before a coffee run.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Easy morning before the overtime swing; planks still dry.",
+      "feeling": "relaxed",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l02",
+      "date": "2025-10-13",
+      "what": "Worked the 1 p.m. to 11:30 p.m. swing in the IT cage at RF-4, clearing frozen handhelds as peak overtime kept the scanners busy.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Cage down to about two dozen scanners by close.",
+      "feeling": "steady, tired",
+      "facts": [
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l03",
+      "date": "2025-10-13",
+      "what": "Got home near midnight, ate leftover rice bowl and did 20 minutes of subnetting in the practice app.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Stopped when the numbers blurred.",
+      "feeling": "wiped",
+      "facts": [
+        "noemi.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l04",
+      "date": "2025-10-14",
+      "what": "Slept until 9, fixed her parents' printer remotely over a quick call, then drove to Ruel Road, gas first at the station.",
+      "with": [],
+      "outcome": "Printer working again.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "noemi.f28",
+        "noemi.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l05",
+      "date": "2025-10-14",
+      "what": "Trained Bao on scanner trigger boards from 3 to 5, then a director email arrived demanding a root cause for dead batteries by end of day; she vented to her assistant and had her reply made less rude.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Sent a polite reply blaming a bad battery lot and aging packs.",
+      "feeling": "irritated",
+      "facts": [
+        "noemi.f35"
+      ],
+      "impressions": [
+        "noemi.i02"
+      ]
+    },
+    {
+      "id": "noemi.w8.l06",
+      "date": "2025-10-14",
+      "what": "Late shift stretched on with a red-beep night as scanners failed and pickers fell behind rate; Carla texted her about dead units.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Swapped 11 handhelds from spares.",
+      "feeling": "stressed",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l07",
+      "date": "2025-10-15",
+      "what": "Midterm week crowds everywhere; Noemi spent her late morning on the cert practice questions at home, weak on port numbers.",
+      "with": [],
+      "outcome": "Scored in the low 70s again.",
+      "feeling": "stuck",
+      "facts": [
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l08",
+      "date": "2025-10-15",
+      "what": "Swing shift in the cage, logging tickets and updating the RMA sheet for scanners headed back to the vendor.",
+      "with": [
+        "victor"
+      ],
+      "outcome": "Sheet current; Victor stopped by with a vague request.",
+      "feeling": "focused",
+      "facts": [
+        "noemi.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l09",
+      "date": "2025-10-15",
+      "what": "Late dinner at home with Iris, who talked about the shared budget sheet.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Agreed on a cheap week.",
+      "feeling": "content",
+      "facts": [
+        "noemi.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l10",
+      "date": "2025-10-16",
+      "what": "Slept in, then Thursday sushi night prep with Iris; Iris ordered as usual.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Sushi arrived for dinner after Noemi's shift ended late, eaten cold.",
+      "feeling": "fed, sleepy",
+      "facts": [
+        "noemi.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l11",
+      "date": "2025-10-16",
+      "what": "Trained Bao 3 to 5 on the repair bench; word spread that Greg's last day was tomorrow.",
+      "with": [
+        "bao",
+        "greg"
+      ],
+      "outcome": "Bao managed a trigger board solo.",
+      "feeling": "proud, uneasy",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l12",
+      "date": "2025-10-16",
+      "what": "Greg handed her a short list of vendor tickets and passwords for the RMA portal at the end of the evening.",
+      "with": [
+        "greg"
+      ],
+      "outcome": "She copied the list into her notes.",
+      "feeling": "apprehensive",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l13",
+      "date": "2025-10-17",
+      "what": "Greg's last day; Rhonda's team announced Victor as acting IT desk lead, and Noemi absorbed Greg's vendor tickets, scanner RMAs and scheduling on the spot.",
+      "with": [
+        "greg",
+        "victor",
+        "rhonda"
+      ],
+      "outcome": "She now covers the lead duties without the title.",
+      "feeling": "stung",
+      "facts": [
+        "noemi.f32",
+        "noemi.f43",
+        "cast.f51",
+        "cast.f124",
+        "noemi.f49"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l14",
+      "date": "2025-10-17",
+      "what": "Told her assistant Victor 'got the loot drop' and asked for help drafting a congrats message to him.",
+      "with": [
+        "victor"
+      ],
+      "outcome": "Sent a short, civil congratulations.",
+      "feeling": "hurt, joking",
+      "facts": [],
+      "impressions": [
+        "noemi.i06"
+      ]
+    },
+    {
+      "id": "noemi.w8.l15",
+      "date": "2025-10-17",
+      "what": "Picked up Taquería Colima for her Friday shift meal and ate it in the cage while building the new schedule.",
+      "with": [],
+      "outcome": "Schedule posted before close.",
+      "feeling": "grim but busy",
+      "facts": [
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l16",
+      "date": "2025-10-18",
+      "what": "Walked the marsh boardwalk in the morning, then coffee with Iris.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Cleared her head.",
+      "feeling": "calmer",
+      "facts": [
+        "noemi.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l17",
+      "date": "2025-10-18",
+      "what": "Worked her alternating Saturday at RF-4 handling scanner repairs and the new vendor ticket queue.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Cage down to about 20 units.",
+      "feeling": "tired",
+      "facts": [
+        "noemi.f03",
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l18",
+      "date": "2025-10-18",
+      "what": "Late night at home on her desktop, unwinding with a gaming session.",
+      "with": [],
+      "outcome": "Skipped studying.",
+      "feeling": "drained",
+      "facts": [
+        "noemi.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l19",
+      "date": "2025-10-19",
+      "what": "Slept late, then did two hours of subnetting drills with the study guide.",
+      "with": [],
+      "outcome": "Got a little better on port numbers.",
+      "feeling": "determined",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l20",
+      "date": "2025-10-19",
+      "what": "Helped her brother Mateo plan parts for his first PC at her parents' fourplex.",
+      "with": [],
+      "outcome": "Made a rough parts list.",
+      "feeling": "warm",
+      "facts": [
+        "noemi.f27",
+        "noemi.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w8.l21",
+      "date": "2025-10-19",
+      "what": "Sunday night co-op survival game with her online squad as packetloss_.",
+      "with": [],
+      "outcome": "Squad survived the night.",
+      "feeling": "relieved",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w8.n01",
+      "subject": "noemi",
+      "attribute": "new_battery_lot_theory",
+      "value": "blames a bad battery lot for the dead scanner packs",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w8.n02",
+      "subject": "noemi",
+      "attribute": "rma_portal_access",
+      "value": "received the vendor RMA portal logins from Greg",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w8.n03",
+      "subject": "noemi",
+      "attribute": "mateo_pc_parts_list",
+      "value": "drafted a rough parts list for Mateo's first PC",
+      "valid_from": "2025-10-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w8.n04",
+      "subject": "noemi",
+      "attribute": "spare_scanner_swaps",
+      "value": "swapped 11 handhelds from spares on a red-beep night",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "session_id": "noemi.s62",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi has a new one-page resume listing RF-4 lead coverage work",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "one page resume, trying to keep it that way",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi took over vendor tickets, scanner RMA and scheduling after the lead left",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Took over vendor tickets, scanner RMA and scheduling after our lead left",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi tracks scanner RMAs in her own spreadsheet and logs other work in the internal ticket queue",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Track scanner RMAs in my own spreadsheet and log everything else in the internal ticket queue so nothing gets lost",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi reuses one password on nearly all personal accounts",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "same password i use on basically everything personal lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi got a breach alert on an old shopping account",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w10.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got a breach alert yesterday on an old shopping account",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi asks about security after skipping good password practice",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "is it dumb to have my personal email and phone number on a public resume",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi absorbed the former lead's duties on top of a full ticket load",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Absorbed the former lead's vendor tickets, scanner RMA and scheduling duties on top of a full ticket load",
+      "support_quote": "Took over vendor tickets, scanner RMA and scheduling after our lead left"
+    },
+    {
+      "text": "Noemi trains a new technician twice weekly",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Train a new technician on scanner repairs twice weekly",
+      "support_quote": "Train new tech on scanner repairs twice a week"
+    },
+    {
+      "text": "Noemi supports about 620 handheld scanners on swing shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Repair and support a fleet of about 620 handheld scanners",
+      "support_quote": "for about 620 handhelds and the whole building, mostly on swing shift"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f55",
+      "present": true,
+      "quote": "RF-4 IT DESK LEAD COVERAGE (Oct 2025 - present)"
+    },
+    {
+      "item_id": "noemi.i03",
+      "present": true,
+      "quote": "is it dumb to have my personal email and phone number on a public resume. and what else would share that old password, like what should i check first"
+    },
+    {
+      "item_id": "noemi.f32",
+      "present": true,
+      "quote": "Took over vendor tickets, scanner RMA and scheduling after our lead left"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "Track scanner RMAs in my own spreadsheet and log everything else in the internal ticket queue so nothing gets lost"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

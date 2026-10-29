@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s32",
+  "principal": "elliot",
+  "start": "2025-09-30T05:07:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "5:07 am update. typing one-handed, sorry. i did the 2 am feed and now i'm wide awake so might as well use the quiet. i need to catch up on work email. theo had his first cold and the monday email (brenda sends a quick check-in every monday around 8:15) has been sitting there for a week. i never replied to the latest one. can you teach me how to write a short catch-up reply? please and thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help, and a quiet 5 a.m. is a good time for this. A catch-up reply works best when it's short, specific, and forward-looking. Here's the structure:\n\n1. **Acknowledge the delay in one clause.** Don't over-explain. 'Sorry for the slow reply, my son had a cold this week.'\n2. **Answer her actual question.** If the check-in asks about your return, give the date or say when you'll confirm it.\n3. **Offer one concrete next step.** 'I'll send an update by Friday.'\n4. **Close briefly.**\n\nTemplate:\n\n*Hi [name],*\n*Thanks for your patience. I got behind on email this past week while my son was sick. To answer your last check-in: [your status / return date]. I'll [next step] by [day]. Let me know if you need anything sooner.*\n*Thanks, [your name]*\n\nA tip: reply once to the most recent email and mention that it covers the earlier ones. You don't need to answer each one separately. If you tell me what the latest email asked, I can help you fill in the middle part."
+    },
+    {
+      "role": "user",
+      "text": "ok that's helpful. the latest one just asks if i'm still on track for my return and whether i've started the online reassessment training. i haven't started it. is it bad to say that? scoreboard: me 0, inbox 7. also can you give me the key terms of the reassessment process in table form, i'm behind and i'd rather not be lost in january"
+    },
+    {
+      "role": "assistant",
+      "text": "It's not bad to be honest, and it's better than staying silent. You can say it plainly and pair it with a plan:\n\n*'I haven't started the reassessment training yet but will begin this week and aim to finish by [date].'*\n\nHere are common terms in property reassessment. Your county may use slightly different wording, so check against your training materials:\n\n| Term | Plain meaning |\n|---|---|\n| Assessed value | The value the county assigns to a property for tax purposes |\n| Market value | What the property would likely sell for |\n| Base year value | The starting value, usually set at purchase or new construction |\n| Reassessment | A review that updates a property's assessed value |\n| Supplemental assessment | An adjustment triggered by a sale or new construction |\n| Exemption | A reduction in taxable value for qualifying owners |\n| Appeal | A formal request by an owner to dispute a value |\n| Comparable sales (comps) | Similar nearby sales used to support a value |\n| Roll | The official list of assessed values |\n\nWant me to quiz you on them next so they stick?"
+    },
+    {
+      "role": "user",
+      "text": "yes please, quiz me. 🙃 one at a time, short version"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Question 1:\n\nA homeowner thinks their assessed value is too high and wants it reviewed formally. What is that process called?"
+    }
+  ]
+}

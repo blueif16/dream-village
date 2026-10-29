@@ -1,0 +1,388 @@
+{
+  "session_id": "grace.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Parent club approved $650 on top of $900 supply budget",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "The parent club approved $650 on top of my $900 supply budget",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel's college essay draft is overdue",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "grace.w4.n05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Isabel's college essay draft. It is overdue.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace gave a student a lab extension but holds Isabel to a stricter standard",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I gave a student a lab extension tonight without a second thought. Can you confirm that Isabel missing this deadline shows a pattern?",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace redoes Nanay's pills before Ramón gets home so he doesn't fuss",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I still have to redo Nanay's pills tonight at 10, before Ramón gets home so he doesn't fuss.",
+      "support_quote": ""
+    },
+    {
+      "text": "Nanay's pills reference",
+      "about": "corazon",
+      "kind": "reference_use",
+      "item_id": "grace.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "redo Nanay's pills tonight at 10",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace is driving Ramón's truck while the van is in the shop",
+      "about": "grace",
+      "kind": "reference_use",
+      "item_id": "grace.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I'm driving Ramón's truck while the van is in the shop",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace wants short, simple answers",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Shorter next time.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace teaches five sections of about 30 students",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I teach high school chemistry, five sections, about 30 students each.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Grace has roughly 150 students",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With roughly 150 students",
+      "support_quote": "five sections, about 30 students each"
+    },
+    {
+      "text": "Assistant says Grace's total budget is $1,550",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That would leave most of your $1,550 total for other supplies.",
+      "support_quote": "The parent club approved $650 on top of my $900 supply budget"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f17",
+      "present": true,
+      "quote": "The parent club approved $650 on top of my $900 supply budget, so I can finally buy goggles."
+    },
+    {
+      "item_id": "grace.w4.n05",
+      "present": true,
+      "quote": "I have to get this settled before I deal with Isabel's college essay draft. It is overdue."
+    },
+    {
+      "item_id": "grace.i01",
+      "present": true,
+      "quote": "I gave a student a lab extension tonight without a second thought. Can you confirm that Isabel missing this deadline shows a pattern?"
+    },
+    {
+      "item_id": "grace.i03",
+      "present": true,
+      "quote": "I still have to redo Nanay's pills tonight at 10, before Ramón gets home so he doesn't fuss."
+    },
+    {
+      "item_id": "grace.r02",
+      "present": true,
+      "quote": "I still have to redo Nanay's pills tonight at 10"
+    },
+    {
+      "item_id": "grace.r03",
+      "present": true,
+      "quote": "I'm driving Ramón's truck while the van is in the shop and the quote still stings."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s04",
+  "principal": "marcus",
+  "start": "2025-09-01T20:18:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick need help splitting a check. worked straight thru labor day on the night shift at ridgeline, i pick orders. got time and a half for it so the check is bigger than usual"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, working the holiday should make a noticeable difference. To split it, I need a couple of numbers: roughly how much is the check, and what has to come out of it first?"
+    },
+    {
+      "role": "user",
+      "text": "rent first. my share is 1050 due the 1st thru the marisol portal. then some goes to savings and a little for me. no lecture pls my roommate already did the whole budget talk lol"
+    },
+    {
+      "role": "assistant",
+      "text": "No lecture, just the split. Here's a simple order:\n\n1. Rent share: $1,050 to the portal first.\n2. Savings: the biggest chunk of whatever's left.\n3. You: a small fixed amount, spent guilt-free.\n\nIf you tell me the check total, I can put actual numbers on it. Until then, a rule of thumb for the leftover after rent is about 70% savings, 20% your fun money and 10% buffer for surprises."
+    },
+    {
+      "role": "user",
+      "text": "ok check is about 1900. how much should i move toward the cushion. goal is 1200 and im like 480 in"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the split on $1,900:\n\n- Rent: $1,050 (leaves $850)\n- Cushion: $600, which takes you from about $480 to roughly $1,080\n- You: $100\n- Leftover: $150, which can go to the cushion, putting you right at the $1,200 goal\n\nSo if you send the extra $150 to savings too, you're done: goal hit, rent paid and $100 for yourself. If you'd rather keep that $150 loose, the cushion lands about $120 short and one more normal paycheck finishes it.\n\nShort version: $1,050 rent, $750 savings, $100 for you."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. ill do the 750 and pay rent now before i head back out"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Pay the rent through the portal first so it's done, then move the $750 to savings. Have a solid shift."
+    }
+  ]
+}

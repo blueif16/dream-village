@@ -1,0 +1,39 @@
+{
+  "id": "thao.s11",
+  "principal": "thao",
+  "start": "2025-09-16T08:12:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:12 and i'm dead. go-live is today and i have to learn the new charting system basically today. i picked up a 4th night this week for go-live coverage, mon/tue/wed/sat so tonight's my second in a row. can you walk me thru charting a med admin and what to do when the system goes down. short chunks pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, short chunks. Since I don't know your exact system, I'll use the standard workflow; swap in your unit's button names.\n\n**Chunk 1: Med admin charting (the 5 steps)**\n1. Open the patient's chart and the MAR (medication administration record).\n2. Scan your badge, then the patient's wristband, then the med barcode. Wait for the match.\n3. Check the rights: patient, drug, dose, route, time.\n4. Give the med.\n5. Document right away: confirm administration on the MAR. If you gave it late or held it, pick a reason code and add a note.\n\n**Chunk 2: Common snags**\n- Scan won't match: stop, don't override. Re-check the order and the label, then call pharmacy.\n- PRN: document the reason given and then the reassessment/effect later.\n- Held/refused: document the reason, notify the provider per policy.\n\nWant to do downtime next, or get quizzed on this first?"
+    },
+    {
+      "role": "user",
+      "text": "downtime next. then quiz me, i have to be asleep by 8:30 with the curtains and fan going so make it fast"
+    },
+    {
+      "role": "assistant",
+      "text": "**Chunk 3: Downtime procedure**\n1. Confirm it's a real downtime (check with charge nurse/IT, not just a slow screen).\n2. Switch to paper: downtime MAR, paper flowsheets, paper orders.\n3. Write every med given with time, dose, route, and your initials/signature.\n4. Keep paper in order and labeled with patient identifiers. Nothing floats loose.\n5. Verbal/phone orders: write them, read back, sign.\n6. When the system's back: enter everything in the order it happened, mark entries as late-entry from paper, and get the paper scanned or filed per policy.\n\n**Quick quiz**\n1. What do you scan first, and in what order?\n2. The barcode won't match. Do you override?\n3. Your first step when the screen freezes?\n4. After downtime ends, how do you enter paper meds?\n\nAnswer in a line each and I'll check you."
+    },
+    {
+      "role": "user",
+      "text": "1 badge, wristband, med. 2 no, recheck order and call pharmacy. 3 ask charge if its real downtime. 4 enter in order as late entries from paper. ok but realistically i'll forget half by tonight"
+    },
+    {
+      "role": "assistant",
+      "text": "All four correct. That's the core of it.\n\nFor the forgetting problem, make a mini review card:\n- **Scan:** badge → band → med\n- **No match:** stop, recheck, pharmacy\n- **Freeze:** confirm with charge, then paper\n- **After:** enter in order, late entry, file paper\n\nWant it split into small pieces you can review in short breaks? Where will you be able to look at it?"
+    },
+    {
+      "role": "user",
+      "text": "yes split it. i'll go thru it on the shuttle up ortega hill from the gravel lot, and then again at 2am while i eat my rice. bullet it"
+    },
+    {
+      "role": "assistant",
+      "text": "**Shuttle ride (quick flashcards)**\n- Scan order? Badge, band, med\n- Mismatch? Stop, recheck, pharmacy\n- Freeze? Ask charge first\n\n**2 a.m. meal break (one chunk each)**\n- Giving a med: scan, check the 5 rights, give, document right away\n- PRN: reason given, then document the effect\n- Held/refused: reason code plus provider notification\n- Downtime: paper MAR, sign everything, read back verbal orders\n- Recovery: enter in order, mark late entry, file paper\n\nNow go sleep. You've got the basics down. 🙃"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "principal": "dulce",
+  "week": 10,
+  "entries": [
+    {
+      "id": "dulce.w10.l01",
+      "date": "2025-10-27",
+      "what": "Walks to Flats High on Vinca for a regular school day. In Spanish for heritage speakers, the teacher hands out the oral family history interview project, due Nov 14, and Dulce picks Tía Gladys and the pupusa stand.",
+      "with": [],
+      "outcome": "Has a plan for the project but no questions written yet.",
+      "feeling": "curious but a little overwhelmed",
+      "facts": [
+        "dulce.f40",
+        "dulce.f23",
+        "dulce.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l02",
+      "date": "2025-10-27",
+      "what": "Eats lunch in Ms. Tolentino's room B12 with Karina and Eli, then sits through third-period chemistry where the class gets back unit work.",
+      "with": [
+        "karina",
+        "eli",
+        "grace"
+      ],
+      "outcome": "Notices she still has missing lab writeups to make up.",
+      "feeling": "comfortable but behind",
+      "facts": [
+        "dulce.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l03",
+      "date": "2025-10-27",
+      "what": "Home at Marisol Gardens unit 114, eats dinner with her mom Yesenia and scrolls videos in her room by the laundry wall.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Goes to bed around 11:30.",
+      "feeling": "tired",
+      "facts": [
+        "dulce.f25",
+        "dulce.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l04",
+      "date": "2025-10-28",
+      "what": "School day: geometry through Spanish. At lunch in B12 she and Karina plan their Halloween costumes.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Costume plans for Friday are set.",
+      "feeling": "excited",
+      "facts": [
+        "dulce.f32",
+        "dulce.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l05",
+      "date": "2025-10-28",
+      "what": "After school she stays at the apartment to work on geometry homework, then texts Karina in the lab rats chat.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Finishes geometry, skips the chem writeup for later.",
+      "feeling": "avoidant",
+      "facts": [
+        "dulce.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l06",
+      "date": "2025-10-28",
+      "what": "Calls Tía Gladys about setting a time to interview her for the Spanish project.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Gladys offers a Sunday afternoon before the stand opens.",
+      "feeling": "hopeful",
+      "facts": [
+        "dulce.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l07",
+      "date": "2025-10-29",
+      "what": "Walks to school, takes a chemistry quiz review in third period with Ms. Tolentino, and eats lunch in B12.",
+      "with": [
+        "grace",
+        "karina",
+        "eli"
+      ],
+      "outcome": "Told the lab writeup is due Friday.",
+      "feeling": "uneasy",
+      "facts": [
+        "dulce.f16",
+        "dulce.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l08",
+      "date": "2025-10-29",
+      "what": "Takes a quiet afternoon at home and does a couple of problem sets, with the math parts going fast.",
+      "with": [],
+      "outcome": "Math done quickly; lab writeup still untouched.",
+      "feeling": "restless",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l09",
+      "date": "2025-10-29",
+      "what": "Eats dinner with Yesenia, who asks about school and reminds her of the phone bill.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Dulce says school is fine.",
+      "feeling": "guilty",
+      "facts": [
+        "dulce.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l10",
+      "date": "2025-10-30",
+      "what": "School day; Karina reminds her the chem lab writeup is due tomorrow. Dulce counts her paycheck money and the phone fund at lunch, still saving toward the used phone.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Resolves to write the lab report that night.",
+      "feeling": "stressed",
+      "facts": [
+        "dulce.f14",
+        "dulce.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l11",
+      "date": "2025-10-30",
+      "what": "Helps at the family pupusa stand Thursday evening, folding to-go boxes beside Tía Gladys.",
+      "with": [
+        "gladys",
+        "oscar",
+        "rafael"
+      ],
+      "outcome": "Gets a quick chance to ask Gladys about the interview.",
+      "feeling": "useful",
+      "facts": [
+        "dulce.f30",
+        "dulce.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l12",
+      "date": "2025-10-30",
+      "what": "Late at night she finally writes up the lab and only manages a three-sentence conclusion, pasting the half page to the assistant to ask if it is enough before it is due.",
+      "with": [],
+      "outcome": "Adds a bit more but still thin, goes to bed late.",
+      "feeling": "anxious",
+      "facts": [
+        "dulce.f20"
+      ],
+      "impressions": [
+        "dulce.i03"
+      ]
+    },
+    {
+      "id": "dulce.w10.l13",
+      "date": "2025-10-31",
+      "what": "Turns in the thin lab writeup in third period; Ms. Tolentino posts updated grades and Dulce's chem grade drops to a C+ after the weak stoichiometry test and missing writeups.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "C+ officially replaces her B.",
+      "feeling": "sinking",
+      "facts": [
+        "dulce.f19",
+        "dulce.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l14",
+      "date": "2025-10-31",
+      "what": "Mentions the grade drop to the assistant, then changes the subject to ask for Halloween puns for her costume caption.",
+      "with": [],
+      "outcome": "Gets a few puns and moves on without dealing with it.",
+      "feeling": "deflecting",
+      "facts": [
+        "dulce.f20",
+        "dulce.f32"
+      ],
+      "impressions": [
+        "dulce.i05"
+      ]
+    },
+    {
+      "id": "dulce.w10.l15",
+      "date": "2025-10-31",
+      "what": "Works her Friday 4-9 shift at Taquería Colima with candy on the counter for Halloween on Calle Ortega, trick-or-treaters filing in. Counts the drawer at close.",
+      "with": [
+        "efrain",
+        "camila",
+        "hector"
+      ],
+      "outcome": "Busy night; Rafael picks her up after close.",
+      "feeling": "busy but okay",
+      "facts": [
+        "dulce.f20",
+        "dulce.f22",
+        "dulce.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l16",
+      "date": "2025-11-01",
+      "what": "Does Saturday laundry at the card-only laundry room in Marisol Gardens and finishes her costume leftovers.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Laundry done.",
+      "feeling": "routine",
+      "facts": [
+        "dulce.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l17",
+      "date": "2025-11-01",
+      "what": "Hangs out with Karina in the afternoon and talks over the chem grade and how to catch up.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Agree to start library sessions soon.",
+      "feeling": "relieved",
+      "facts": [
+        "dulce.f21"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l18",
+      "date": "2025-11-01",
+      "what": "Looks at the lab rats chat and watches TikTok edits at night, not posting any.",
+      "with": [],
+      "outcome": "Falls asleep late.",
+      "feeling": "mellow",
+      "facts": [
+        "dulce.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l19",
+      "date": "2025-11-02",
+      "what": "Works her Sunday 10-4 shift at Taquería Colima, taking orders and eating a free quesadilla.",
+      "with": [
+        "efrain",
+        "hector"
+      ],
+      "outcome": "Shift goes smoothly.",
+      "feeling": "steady",
+      "facts": [
+        "dulce.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l20",
+      "date": "2025-11-02",
+      "what": "After work she stops by the stand to ask Tía Gladys a few interview questions for the Spanish project and jots notes.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Has rough notes for the project.",
+      "feeling": "proud",
+      "facts": [
+        "dulce.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w10.l21",
+      "date": "2025-11-02",
+      "what": "Spends the evening at home thinking about the chem catch-up plan; plans to start study sessions Tuesday.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Sets her alarm for school.",
+      "feeling": "determined",
+      "facts": [
+        "dulce.f21"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "dulce.w10.n01",
+      "subject": "dulce",
+      "attribute": "halloween_candy",
+      "value": "brought a bag of chili-lime candy to share at the taquería counter",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w10.n02",
+      "subject": "dulce",
+      "attribute": "interview_slot",
+      "value": "Tía Gladys agreed to be interviewed on Sunday Nov 2 before the stand opens",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.w10.n03",
+      "subject": "dulce",
+      "attribute": "lab_writeup",
+      "value": "turned in a thin stoichiometry lab writeup Oct 31",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w10.n04",
+      "subject": "karina",
+      "attribute": "halloween_costume",
+      "value": "matching chola Frida costume with Dulce",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

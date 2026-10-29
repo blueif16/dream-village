@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s83",
+  "principal": "noemi",
+  "start": "2025-11-21T23:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. how do i explain subnet masks and cidr to myself like im 5, with a couple worked examples. subnetting and port numbers are still my weak spot lol. typing this between bites of colima tacos on break"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Short version first, then examples.\n\n**Subnet mask:** a stencil laid over an IP address. Where the mask has 1s, those bits are the network part (the street). Where it has 0s, those bits are the host part (the house number on that street).\n\n**CIDR notation:** just a shorthand for how many 1s the mask has. /24 means the first 24 bits are network bits.\n- /24 = 255.255.255.0\n- /16 = 255.255.0.0\n- /8 = 255.0.0.0\n\n**Quick formula:** usable hosts = 2^(host bits) - 2 (minus network address and broadcast address).\n\n**Example 1: 192.168.10.0/24**\n- Host bits: 32 - 24 = 8\n- Hosts: 2^8 - 2 = 254 usable\n- Range: 192.168.10.1 to 192.168.10.254, broadcast 192.168.10.255\n\n**Example 2: 192.168.10.0/26**\n- Host bits: 32 - 26 = 6\n- Hosts: 2^6 - 2 = 62 usable\n- Block size: 64 (the interesting octet is the last one, 256 - 192 = 64, since /26 mask is 255.255.255.192)\n- Subnets: .0, .64, .128, .192\n\n**Example 3: which subnet is 192.168.10.77/26 in?**\n- Blocks of 64: .64 to .127\n- Network: 192.168.10.64, broadcast: 192.168.10.127, usable .65 to .126\n\n**Trick:** find the block size (256 minus the mask's last non-255 octet), then see which multiple of it your address falls under.\n\nWant a few practice problems?"
+    },
+    {
+      "role": "user",
+      "text": "ok that block size trick is nice. ive been averaging 80% on practice exams after the drills so im close but the boss fight is still scary. give me 3 hard ones, no answers till i ask"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, 80% is a solid place to be. Here are three, no answers yet:\n\n1. What are the network address, broadcast address, and usable host range for 172.16.45.200/21?\n2. You need at least 50 hosts per subnet from 10.0.0.0/24. What's the smallest prefix length that works, and how many subnets do you get?\n3. Do 192.168.5.130/25 and 192.168.5.100/25 sit in the same subnet? Show the network address for each.\n\nTell me when you want the answers, or send your work and I'll check it."
+    }
+  ]
+}

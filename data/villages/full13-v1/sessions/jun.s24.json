@@ -1,0 +1,39 @@
+{
+  "id": "jun.s24",
+  "principal": "jun",
+  "start": "2025-10-08T05:17:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need help planning my week before my shift starts. i'm on tue-sat at the cafe now since they extended hours, so its openers and two 2-9 closers, and tonight i close so i basically get nothing done tonight lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Let's pin down the pieces first. What do you need to fit in this week besides your cafe shifts, and which of the shifts are openers vs. closers? Tell me what's fixed and I'll build around it."
+    },
+    {
+      "role": "user",
+      "text": "fixed stuff: friday i have my standing 5-9 block at the ruel road commissary for prep, saturday i sell lumpia at the counter at the cafe, and i wanna run a latte art lesson tuesday (did one already this week, wanna keep it going) 🥢 also gotta buy wrapper cases again, aisle 6 at ruiz family market. been logging receipts in the shared spreadsheet and wrapper and shrimp costs are creeping up grabe"
+    },
+    {
+      "role": "assistant",
+      "text": "Good, that's a clear picture. Since you're closing tonight (2-9), your free windows are tonight before 2 p.m. and after 9. Here's a plan:\n\n**Wednesday (today, closer 2-9)**\n- Morning before 2: quick Ruiz Family Market run for the wrapper cases, since aisle 6 is fastest early and you're not rushed. Keep the receipt and photo it.\n- Tonight after close: log the receipt in the spreadsheet (2 minutes) while it's fresh. Don't plan anything bigger.\n\n**Thursday**\n- Shift depending on your opener/closer mix. If opener, you're done by early afternoon: do filling prep or thaw/portion the shrimp then so Friday isn't crammed.\n\n**Friday (commissary 5-9 p.m.)**\n- Finish your cafe shift, eat something, and arrive with everything pre-portioned: wrappers, filling, shrimp, labels. Rolling and frying are the only jobs left for the block. Leave time to scrub the fryer area before 9.\n\n**Saturday (counter sales)**\n- Pack and label the night before, bring a cooler, and set up before the rush.\n\n**Tuesday lesson**\n- Schedule it before the rush on an opener day, around 15-20 minutes, one skill per session.\n\nCosts are creeping, so note the per-case wrapper price against last time. Want me to turn this into a checklist?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yes checklist, short version pls, shift starts soon"
+    },
+    {
+      "role": "assistant",
+      "text": "**Week checklist**\n\n**Wed**\n- [ ] Buy wrapper cases, aisle 6, before 2 p.m.\n- [ ] Log receipt in spreadsheet after close\n\n**Thu**\n- [ ] Portion shrimp and filling\n- [ ] Pack labels, containers, cooler\n\n**Fri (5-9 block)**\n- [ ] Arrive with everything pre-portioned\n- [ ] Roll and fry\n- [ ] Scrub fryer area before 9\n\n**Sat**\n- [ ] Load cooler, set up counter early\n- [ ] Log sales\n\n**Tue**\n- [ ] Latte art lesson before the rush\n\nGood luck with the shift!"
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime! Have a good shift, and good luck with the batch on Friday."
+    }
+  ]
+}

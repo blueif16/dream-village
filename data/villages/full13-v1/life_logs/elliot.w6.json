@@ -1,0 +1,367 @@
+{
+  "principal": "elliot",
+  "week": 6,
+  "entries": [
+    {
+      "id": "elliot.w6.l01",
+      "date": "2025-09-29",
+      "what": "Elliot sets up the shared baby-tracker app on his phone and invites Hana and Judith to log feeds and naps, keeping a weekly summary tab in the old spreadsheet.",
+      "with": [
+        "hana",
+        "judith"
+      ],
+      "outcome": "Both accepted the invite and Hana logged the evening bottle.",
+      "feeling": "proud, a bit wired",
+      "facts": [
+        "elliot.f09",
+        "elliot.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l02",
+      "date": "2025-09-29",
+      "what": "Theo comes down with his first cold, so Elliot spends the morning with a nasal aspirator and a humidifier, ignoring Brenda's emails that have piled up for a week.",
+      "with": [
+        "theo",
+        "brenda"
+      ],
+      "outcome": "Emails still unanswered; he later asks the assistant to help him catch up.",
+      "feeling": "frazzled but guilty",
+      "facts": [
+        "elliot.f50"
+      ],
+      "impressions": [
+        "elliot.i05"
+      ]
+    },
+    {
+      "id": "elliot.w6.l03",
+      "date": "2025-09-29",
+      "what": "Afternoon contact nap on the couch with Theo, then a stroller loop of the courtyard at Marisol Gardens.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo slept 70 minutes, Elliot logged it in the new app.",
+      "feeling": "relieved",
+      "facts": [
+        "elliot.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l04",
+      "date": "2025-09-30",
+      "what": "Cold-day routine: humidifier on, extra feeds, a check-in call with Dr. Fong's nurse line about Theo's congestion.",
+      "with": [
+        "theo",
+        "alicia"
+      ],
+      "outcome": "Told to watch fever and keep fluids up.",
+      "feeling": "anxious",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l05",
+      "date": "2025-09-30",
+      "what": "Elliot does baby laundry in the card-only Marisol Gardens laundry room Tuesday night.",
+      "with": [],
+      "outcome": "Two loads done, onesies folded.",
+      "feeling": "tired but productive",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l06",
+      "date": "2025-09-30",
+      "what": "Takeout dinner from Phở Bến Thành, rare beef no tripe, eaten while Hana holds Theo.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Hana went to bed early.",
+      "feeling": "worn out",
+      "facts": [
+        "elliot.f35",
+        "elliot.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l07",
+      "date": "2025-10-01",
+      "what": "Rent is paid through the Marisol Gardens portal; Elliot notices Tomás moving boxes into Thao's unit 207 next door.",
+      "with": [
+        "tomas",
+        "thao"
+      ],
+      "outcome": "Said hello in the hallway and offered to hold the door.",
+      "feeling": "neighborly",
+      "facts": [
+        "elliot.f06",
+        "cast.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l08",
+      "date": "2025-10-01",
+      "what": "An email arrives from the assessor's office saying he must finish online reassessment-software training before returning.",
+      "with": [
+        "brenda"
+      ],
+      "outcome": "He bookmarks the training portal to do later.",
+      "feeling": "a little dread",
+      "facts": [
+        "elliot.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l09",
+      "date": "2025-10-01",
+      "what": "Theo's cold eases; Elliot gets a rare 90-minute stretch while he naps in the crib and works on the lighthouse puzzle.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Eight pieces placed.",
+      "feeling": "content",
+      "facts": [
+        "elliot.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l10",
+      "date": "2025-10-02",
+      "what": "After a 2 a.m. feed Elliot is out of ideas for dinner and asks the assistant for a one-handed meal plan, calling himself Employee of the Month at Burnt Toast Inc.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Got a list of five easy meals using eggs, rice and frozen veg.",
+      "feeling": "wry, exhausted",
+      "facts": [
+        "elliot.f36",
+        "elliot.f37"
+      ],
+      "impressions": [
+        "elliot.i02"
+      ]
+    },
+    {
+      "id": "elliot.w6.l11",
+      "date": "2025-10-02",
+      "what": "Thursday 10:30 baby story time at the library with Theo; Kaitlyn leads songs.",
+      "with": [
+        "theo",
+        "kaitlyn"
+      ],
+      "outcome": "Theo stared at the puppet, Elliot chatted with other parents.",
+      "feeling": "social, glad",
+      "facts": [
+        "elliot.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l12",
+      "date": "2025-10-02",
+      "what": "Evening witching hour: Elliot hums the slowed-down ballpark organ tune while pacing the hall.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Crying stopped around 7:40.",
+      "feeling": "drained",
+      "facts": [
+        "elliot.f41",
+        "elliot.f42"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l13",
+      "date": "2025-10-03",
+      "what": "During Theo's morning nap Elliot asks the assistant for a summary of the new reassessment rules so he isn't behind in January.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Read the summary and made a short notes list.",
+      "feeling": "focused",
+      "facts": [
+        "elliot.f57"
+      ],
+      "impressions": [
+        "elliot.i05"
+      ]
+    },
+    {
+      "id": "elliot.w6.l14",
+      "date": "2025-10-03",
+      "what": "Afternoon walk with the squeaky-wheeled jogging stroller around the neighborhood.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo fell asleep in the stroller.",
+      "feeling": "calm",
+      "facts": [
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l15",
+      "date": "2025-10-03",
+      "what": "Friday night baby laundry in the card-only laundry room, then frozen lasagna for dinner.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Dinner eaten at 8:30.",
+      "feeling": "tired",
+      "facts": [
+        "elliot.f38",
+        "elliot.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l16",
+      "date": "2025-10-04",
+      "what": "Saturday morning trip to Ruiz Family Market with Theo in the carrier.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Bought groceries and diapers stayed on delivery.",
+      "feeling": "capable",
+      "facts": [
+        "elliot.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l17",
+      "date": "2025-10-04",
+      "what": "Passing the Ruel Road gas station on an errand, Elliot sees the Henríquez pupusa stand now set up in its lot for the first evening.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Bought four pupusas to take home.",
+      "feeling": "pleasantly surprised",
+      "facts": [
+        "cast.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l18",
+      "date": "2025-10-04",
+      "what": "Hana takes Theo for the afternoon so Elliot can nap; he logs the day's feeds into the tracker.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Got a 90-minute nap.",
+      "feeling": "grateful",
+      "facts": [
+        "elliot.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l19",
+      "date": "2025-10-05",
+      "what": "Slow Sunday morning: coffee, a few puzzle pieces, and a check of the weekly summary tab against the app.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "The numbers matched.",
+      "feeling": "satisfied",
+      "facts": [
+        "elliot.f10",
+        "elliot.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l20",
+      "date": "2025-10-05",
+      "what": "Family stroller walk to Delgado Park with Hana and Theo.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Theo napped most of the way.",
+      "feeling": "relaxed",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w6.l21",
+      "date": "2025-10-05",
+      "what": "Sunday evening, Elliot plans next week's meals and posts nap targets for the tracker.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "A short grocery list was made.",
+      "feeling": "organized",
+      "facts": [
+        "elliot.f36"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w6.n01",
+      "subject": "theo",
+      "attribute": "illness",
+      "value": "first cold, congested for about a week",
+      "valid_from": "2025-09-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w6.n02",
+      "subject": "elliot",
+      "attribute": "meal_plan_list",
+      "value": "keeps a list of five one-handed meals from the assistant",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w6.n03",
+      "subject": "elliot",
+      "attribute": "training_portal",
+      "value": "bookmarked the reassessment-software training portal",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w6.n04",
+      "subject": "elliot",
+      "attribute": "puzzle_progress",
+      "value": "lighthouse puzzle has about 40 percent placed",
+      "valid_from": "2025-10-05",
+      "valid_to": "2025-10-24",
+      "superseded_by": "elliot.w9.n01",
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w6.n05",
+      "subject": "elliot",
+      "attribute": "saturday_snack",
+      "value": "bought pupusas at the Henríquez stand at the Ruel Road gas station",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "rochelle.s16",
+  "principal": "rochelle",
+  "start": "2025-09-26T22:58:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest the van went into the shop today for the transmission solenoid and keisha had to drive me to anatomy this morning. i need a plan for rides and money till its fixed"
+    },
+    {
+      "role": "assistant",
+      "text": "Sorry, that's a stressful way to start the week. To build a real plan I need a few things: do you have a repair estimate yet, how many days will the shop keep it, and what rides do you need each week (classes, other errands)?"
+    },
+    {
+      "role": "user",
+      "text": "they said a few days. estimate not final yet but they said somewhere around 600-700. thats like 30 hours on the line lol. i used to price everything like that, i did the same with the laptop i got this week, compared 3 down to the charger before i bought one"
+    },
+    {
+      "role": "assistant",
+      "text": "Converting it to hours is a handy gut check, and comparing down to the charger was smart. Here's a short plan:\n\n1. Get the final number in writing before approving anything, and ask for the part and labor split.\n2. Rides: set a fixed schedule with your sister for the shop days instead of asking day by day. Offer gas money so it stays fair.\n3. Budget: treat the repair as a one-time hit and list what's already fixed this month, then see what's left.\n\nWhat bills are fixed this month?"
+    },
+    {
+      "role": "user",
+      "text": "rent is 2950 due on the 1st and the landlord only takes checks so that has to clear first. i also got the pell money in on wednesday but i dont want to touch that for the van. its for school stuff"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call to protect it. Then the plan is:\n\n- Rent comes first: write that check early so it's covered before the repair bill hits.\n- Repair gets paid from regular household money or savings, not the school funds. If the final number is more than you can cover by the 1st, ask the shop if they take a split payment.\n- Keep the school money for books, parking and supplies only.\n\nIf the numbers still don't fit, we can look at what else to trim this month."
+    },
+    {
+      "role": "user",
+      "text": "ok what do i ask the shop. the van has had the check engine light on forever and i dont want them upselling me"
+    },
+    {
+      "role": "assistant",
+      "text": "Ask these:\n\n1. What exactly failed, and can you show me the part or the diagnostic code?\n2. Is this the only repair needed for the check-engine light, or are there other issues?\n3. Total out-the-door price in writing, parts and labor separate, including tax and fees?\n4. Is the part new, remanufactured or used, and is there a warranty?\n5. Call me before doing any work beyond the quote.\n6. When exactly will it be ready?\n\nIf they suggest extras, say: \"What happens if I wait on that one?\" Anything not tied to the light can wait."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Get the written quote first and rent check handled early, and you're in good shape. Good luck with the shop!"
+    }
+  ]
+}

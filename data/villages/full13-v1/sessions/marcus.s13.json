@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s13",
+  "principal": "marcus",
+  "start": "2025-09-20T21:12:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick im a kinesiology sophomore at bayshore and need a sports physical. what does the student health plan or free campus stuff actually cover"
+    },
+    {
+      "role": "assistant",
+      "text": "Coverage varies by campus and plan, so check your plan documents or the student health center page. Here's what to look for:\n\n1. Student health center visits: many campuses include routine visits in the student fee, so a basic physical may be free or a small copay.\n2. Your student health plan: preventive exams are often covered at 100% in-network, but a sports or pre-participation physical is sometimes classed as non-medical, so ask directly.\n3. Campus rec or athletics: if the physical is for a club or intramural team, they sometimes run low-cost or free screening days.\n\nWhat's the physical for? Knowing that tells me which route is likely cheapest."
+    },
+    {
+      "role": "user",
+      "text": "its for a rec league thing. also im cutting costs so is there a cheaper protein option than what i been buying. i dropped my gym supplements from my budget this month. i still lift at iron flats after shift so i need recovery stuff that doesnt cost much"
+    },
+    {
+      "role": "assistant",
+      "text": "Good questions. For cheaper protein and recovery:\n\n- Whey in bulk: a 5 lb tub from a warehouse store usually costs far less per serving than small tubs or ready-to-drink shakes.\n- Whole foods: eggs, canned tuna, Greek yogurt, milk and chicken thighs give a lot of protein per dollar. Chocolate milk works well after lifting.\n- Skip the extras: creatine monohydrate is cheap and well-studied, but most other supplements aren't needed.\n- Recovery: sleep, enough carbs and protein within a few hours of lifting, and light stretching cost nothing.\n\nFor the physical, you could call the student health center and ask if they do pre-participation exams for rec leagues and what it costs. Want me to help with the portal form?"
+    },
+    {
+      "role": "user",
+      "text": "ya the portal form wants an id number so ill put my license D7392841. can u help me fill the rest in"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Put your ID number in that field and double-check it before submitting. I'd avoid pasting it anywhere else.\n\nFor the rest, here's what these forms usually ask:\n\n- Name, date of birth, and contact info: match your student record.\n- Reason for visit: \"Sports physical, rec league participation.\"\n- Insurance: choose the student health plan if you're enrolled, or self-pay if not.\n- Preferred date: pick a time that fits around your classes.\n- Forms to bring: if the league has its own clearance form, upload it or bring a copy.\n\nPaste the fields you're unsure about and I'll go through them with you."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. short version of what to ask the health center when i call"
+    },
+    {
+      "role": "assistant",
+      "text": "Ask these:\n\n1. Do you do sports or pre-participation physicals for rec leagues?\n2. Is it covered by the student fee or my student health plan, or is there a copay?\n3. What's the self-pay price if it isn't covered?\n4. Do I need an appointment, and how soon is the next opening?\n5. Can you sign the league's form?"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "linh.s24",
+  "principal": "linh",
+  "start": "2025-09-20T07:13:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hey so my bike got stolen thursday outside the library 🫠 and i open at heron & grind at 6:30 today. how do i get from pell road to campus and the cafe on weekends w/o a bike"
+    },
+    {
+      "role": "assistant",
+      "text": "Sorry about the bike, that's frustrating. To give you real times I need a few things:\n\n- Is the cafe on or near campus, or a separate trip from Pell Road?\n- Do you know which shuttle or bus lines run near your house?\n- Does the shuttle run at all on weekends, or only on weekdays?\n\nIf you're not sure, the transit agency's weekend schedule page will show it. Paste what you find and I'll turn it into a timeline."
+    },
+    {
+      "role": "user",
+      "text": "ok wait the cafe is on calle ortega, campus is a separate thing. i take the shuttle bus from pell road normally and kenji drives me but only tuesdays and thursdays so no help today or tmrw"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Since Kenji only covers Tuesdays and Thursdays, weekends are on you. Here's the plan:\n\n**Today (Sat), cafe shift:**\n- Check the weekend shuttle's first run from Pell Road; many weekend services start later than 6:30 a.m.\n- If the first shuttle is too late, a rideshare or a lift from family is the backup.\n- Aim to arrive on Calle Ortega by 6:15 so you can set up before opening.\n\n**Campus on weekends:**\n- Confirm whether the shuttle runs to campus on Sat/Sun at all.\n- If not, you can go via Calle Ortega and walk or transfer.\n\nWant me to format it once you have the actual times?"
+    },
+    {
+      "role": "user",
+      "text": "too long, just bullets pls and list the times. i dont have the times yet tho"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's a short version with blanks to fill:\n\n- Leave Pell Road: [shuttle departure]\n- Arrive Calle Ortega: [arrival] (be there by 6:15)\n- Backup if no early shuttle: rideshare, leave 5:50\n- Campus: check weekend service, [time]\n\nSend me the real times and I'll lock it in."
+    },
+    {
+      "role": "user",
+      "text": "ok the first weekend one is 5:52 and gets to calle ortega at 6:14. that works!! thank u 🫠 ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "That works perfectly:\n\n- 5:52 shuttle from Pell Road\n- 6:14 arrive Calle Ortega\n- 6:30 open the cafe\n\nPack something to eat on the way. Have a good shift!"
+    }
+  ]
+}

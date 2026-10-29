@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s07",
+  "principal": "noemi",
+  "start": "2025-08-31T23:05:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. subnet masks, still not clicking. been drilling subnetting on weekends for like two weeks now and my brain just nopes out. can you explain it in plain words. also the diff between the common port numbers"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Here's the plain-words version.\n\n**Subnet mask:** an IP address has two parts, the network part (which neighborhood) and the host part (which house). The mask tells you where the split is.\n\n- 255.255.255.0 means the first 24 bits are network, the last 8 are host. That's /24.\n- A 255 is a block of all 1s (network). A 0 is host space.\n- Host bits left over = how many addresses you get. 8 host bits = 2^8 = 256 addresses, minus 2 (network + broadcast) = 254 usable.\n\n**Quick trick:** block size = 256 minus the mask value in the interesting octet. For /26 the mask is 255.255.255.192, so block size = 256 - 192 = 64. Subnets start at 0, 64, 128, 192.\n\n**Common ports:**\n- 20/21 FTP (data/control)\n- 22 SSH\n- 23 Telnet (unencrypted, avoid)\n- 25 SMTP (sending mail)\n- 53 DNS\n- 67/68 DHCP\n- 80 HTTP\n- 110 POP3\n- 143 IMAP\n- 443 HTTPS\n- 3389 RDP\n\nWant a practice problem or a mnemonic for the ports?"
+    },
+    {
+      "role": "user",
+      "text": "ok the block size thing is actually helpful. i did a practice test this afternoon and im going thru the missed ones in my tabbed study guide, subnetting ones are always the red tabs lol\n\nyes mnemonic pls for the ports. use packetloss_ as the example name"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, the block size trick will fix a lot of those red-tab misses.\n\nHere's a story mnemonic for the mail and remote-access ports, starring packetloss_:\n\n**packetloss_ Sends Mail, Pops In, Then Imagines Dinner, Relaxes**\n\n- **S**ends = SMTP 25\n- **P**ops = POP3 110\n- **I**magines = IMAP 143\n- **D**inner... = DNS 53\n- **R**elaxes = RDP 3389\n\nAnd for secure vs. not secure: packetloss_ Shouts (SSH 22) to stay safe, but Talks (Telnet 23) out loud for everyone to hear. Browsing: 80 is plain HTTP, 443 is the locked-door HTTPS.\n\nTry writing the list from memory, then check it."
+    },
+    {
+      "role": "user",
+      "text": "lol packetloss_ sending mail. gg. ok tldr the subnet thing again in 3 bullets, i have to wrap up soon, sunday night co-op game with my squad"
+    },
+    {
+      "role": "assistant",
+      "text": "- **Mask = where the split is.** 1s are network, 0s are host. /24 = 24 network bits.\n- **Block size = 256 minus the mask value** in the octet that isn't 255 or 0. /26 gives 64, so subnets start at 0, 64, 128, 192.\n- **Usable hosts = 2^(host bits) - 2.** /26 has 6 host bits, so 64 - 2 = 62.\n\nHave fun with the game. Come back anytime for harder subnetting problems."
+    }
+  ]
+}

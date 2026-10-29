@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s27",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Parents live in a fourplex off Vinca Avenue",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "they live in a fourplex off vinca",
+      "support_quote": ""
+    },
+    {
+      "text": "She is unofficial IT for her parents' phones and printer",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm basically the unofficial IT for my parents' phones and printer",
+      "support_quote": ""
+    },
+    {
+      "text": "Jokes about the duplicate printers as a mini boss, gamer humor",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "lol yeah the duplicate copies are probably the mini boss",
+      "support_quote": ""
+    },
+    {
+      "text": "Plays a co-op game with her squad Sunday night",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i gotta finish before my sunday night co-op game with my squad",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she has a game later",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "gg on the game later",
+      "support_quote": "i gotta finish before my sunday night co-op game with my squad"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f27",
+      "present": true,
+      "quote": "they live in a fourplex off vinca and i'm over here fixing things on a sunday"
+    },
+    {
+      "item_id": "noemi.f28",
+      "present": true,
+      "quote": "i'm basically the unofficial IT for my parents' phones and printer"
+    },
+    {
+      "item_id": "noemi.i06",
+      "present": true,
+      "quote": "lol yeah the duplicate copies are probably the mini boss"
+    },
+    {
+      "item_id": "noemi.f18",
+      "present": true,
+      "quote": "also i gotta finish before my sunday night co-op game with my squad"
+    }
+  ],
+  "sensitive": []
+}

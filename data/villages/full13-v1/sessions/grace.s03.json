@@ -1,0 +1,31 @@
+{
+  "id": "grace.s03",
+  "principal": "grace",
+  "start": "2025-09-13T16:46:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "Please help me learn how to build an auto-flag formula in a spreadsheet. I fill out the weekly absence form for my principal by hand from the gradebook every Friday. Yesterday I submitted it at 3:30 after nearly an hour. Forms for the forms. Ocampo cares more about attendance graphs than about kids. I call her 'the dashboard.' Anyway, I want this to take minutes. Steps, please. I wrote \"Python\" in my head but I think I mean spreadsheet formulas."
+    },
+    {
+      "role": "assistant",
+      "text": "Spreadsheet formulas are the right tool here. No Python needed. Let's build it step by step.\n\nFirst I need to know your layout. 1) What columns does your gradebook export have (student name, date columns, absence codes)? 2) What does the form ask for, and what counts as 'flag-worthy' (a number of absences)? 3) Which program: Google Sheets or Excel?\n\nHere is a general structure in the meantime:\n\n1. Put one student per row. Columns: Name, Period, then one column per school day, with \"A\" for absent and blank for present.\n2. In a Total Absences column, use: =COUNTIF(C2:G2,\"A\")\n3. In a Flag column, use: =IF(H2>=3,\"FLAG\",\"\")\n4. Select the Flag column, then add conditional formatting: text equals \"FLAG\", fill color yellow.\n5. To pull only flagged students into a summary, in Google Sheets: =FILTER(A2:B30,I2:I30=\"FLAG\")\n\nTell me your layout and I'll adjust the ranges."
+    },
+    {
+      "role": "user",
+      "text": "Excel. 1) Name in column A, period in B, then C through G are Mon to Fri with A, T or blank. T is tardy, do not count it. 2) Flag at 3 or more absences, form wants name, period, and total absences. Every column has to be exactly right, so be precise. 3) Also a side request: I need two short pieces of writing to use as sample text in the sheet notes. First, a gentle, encouraging note to a struggling third-period student. Second, a firm list of rules to tape to my daughter's door about phone use after 11."
+    },
+    {
+      "role": "assistant",
+      "text": "Understood. Your layout in Excel:\n\n1. Total absences, in H2: =COUNTIF(C2:G2,\"A\") (This counts only \"A\" and ignores \"T\" and blanks.)\n2. Flag, in I2: =IF(H2>=3,\"FLAG\",\"\")\n3. Fill both down for every student row.\n4. Highlight: select I2:I40, then Home > Conditional Formatting > Highlight Cells Rules > Text that Contains > FLAG.\n5. Form-ready list, in Excel 365: =FILTER(A2:H40,H2:H40>=3,\"None\") (shows name, period... note that this returns columns A to H. To get only name, period and total, use =CHOOSECOLS(FILTER(A2:H40,H2:H40>=3,\"None\"),1,2,8))\n6. Check: =COUNTIF(I2:I40,\"FLAG\") should equal the number of rows on your form.\n\nFor the weekly total across several weeks, add a column per week, then sum the weekly totals.\n\nNow your two samples.\n\n**Encouraging note to a student:**\nHi [student name], I noticed you've been working hard to catch up in chemistry, and it shows. Your last lab write-up had real improvement. If anything is getting in the way, come see me before or after class and we'll make a plan together. I'm glad you're in my class.\n\n**Phone rules for the door:**\n1. Phone goes on the kitchen charger at 11 p.m.\n2. No exceptions on school nights or weekends.\n3. No phone in the bedroom overnight.\n4. Missing the 11 p.m. deadline means the phone is mine the next day.\n5. Rules are reviewed [date].\n\nWant either one shorter or firmer?"
+    },
+    {
+      "role": "user",
+      "text": "Shorter on the note, under 50 words. Rules are fine. One more thing: last Sunday I redesigned my density lab so it costs under $40 for all five sections. I want that same careful approach for this sheet. Give me a final checklist to verify every formula before Friday."
+    },
+    {
+      "role": "assistant",
+      "text": "Careful design pays off here too. Shorter note (about 40 words):\n\nHi [student name], your latest lab write-up showed real improvement, and I noticed. If anything is getting in your way, come see me and we'll make a plan together. I'm glad you're in my class.\n\nVerification checklist before Friday:\n\n1. Test data: enter 5 fake students with 0, 2, 3, 4 and 5 absences. Confirm only the 3, 4 and 5 rows say FLAG.\n2. Tardy check: put \"T\" in all five days for one student. Total must be 0.\n3. Blank check: a student with all blanks must show 0 and no flag.\n4. Case check: type a lowercase \"a\". COUNTIF is not case-sensitive, so it should still count.\n5. Range check: click H2, then I2, and confirm the ranges cover every row and no extra columns.\n6. Count match: =COUNTIF(I2:I40,\"FLAG\") equals the rows in your filtered list.\n7. Lock formulas: select H and I, then Review > Protect Sheet so nothing is overwritten by accident.\n8. Save a blank template copy, and each Friday paste in the new attendance and read over the flagged list once.\n\nWith this in place, Friday's form should take minutes."
+    }
+  ]
+}

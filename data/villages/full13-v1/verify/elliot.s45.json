@@ -1,0 +1,127 @@
+{
+  "session_id": "elliot.s45",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot took the 2 a.m. feed last night",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i took the 2 a.m. feed again last night",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is almost 3 months, born July 19",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "cast.f69",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo is 3 months (almost 3 months, born july 19)",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo cries 5 to 8 every night",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "5 to 8 every night he just cries",
+      "support_quote": ""
+    },
+    {
+      "text": "Evening crying is called the witching hour",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the real issue is the witching hour",
+      "support_quote": ""
+    },
+    {
+      "text": "Dr. Fong switched Theo to gentle formula in early Sept",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dr. fong switched him to a gentle formula back in early sept for fussiness",
+      "support_quote": ""
+    },
+    {
+      "text": "Hana does bottles during the crying stretch",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "hana does bottles",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot turns the feeding question into a research/tracking project",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "a simple way to track it so i can see whether the evening stuff correlates with feed size",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has a daily 5 to 8 p.m. fussy stretch",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a daily 5 to 8 p.m. stretch is within what's typical",
+      "support_quote": "5 to 8 every night he just cries"
+    },
+    {
+      "text": "Theo is on gentle formula suggested by Dr. Fong",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I wouldn't change anything without checking with Dr. Fong.",
+      "support_quote": "dr. fong switched him to a gentle formula back in early sept for fussiness"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "i took the 2 a.m. feed again last night. how many ounces should a feed be at this age?"
+    },
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "5 to 8 every night he just cries"
+    },
+    {
+      "item_id": "elliot.r03",
+      "present": true,
+      "quote": "the real issue is the witching hour"
+    },
+    {
+      "item_id": "elliot.f14",
+      "present": true,
+      "quote": "dr. fong switched him to a gentle formula back in early sept for fussiness, could that still be contributing"
+    },
+    {
+      "item_id": "elliot.i01",
+      "present": true,
+      "quote": "ok can you put this in table form? ounces per feed by age, say 1 week through 6 months, with feeds per day and total per day."
+    }
+  ],
+  "sensitive": []
+}

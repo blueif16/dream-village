@@ -1,0 +1,47 @@
+{
+  "id": "elliot.s76",
+  "principal": "elliot",
+  "start": "2025-11-16T14:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok quick one, theo's nap only lasts till about 12:30 or so so i have to be fast. wait, it's 2:08, so the 12:30 one is over and this is the long afternoon one, whatever, i'm on the clock. i work as a property tax analyst doing residential reassessments for the county assessor's office, and i have to finish the online reassessment-software training before i go back. can you explain these terms and then quiz me: assessed value, base year value, supplemental assessment, Proposition 8 decline-in-value, exclusion, appeal roll"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Here's the quick version, in table form:\n\n| Term | Plain meaning |\n|---|---|\n| Assessed value | The value the county puts on a property for tax purposes. It is what the tax bill is calculated from. |\n| Base year value | The value set when a property is purchased or newly constructed. It is the starting point for later assessments. |\n| Supplemental assessment | An extra assessment triggered mid-year by a change in ownership or new construction, covering the difference between the old and new value for the rest of that year. |\n| Prop 8 decline-in-value | A temporary reduction when the market value falls below the factored base year value. It is reviewed every year and can be restored as the market recovers. |\n| Exclusion | A change in ownership or use that does not trigger reassessment, such as certain transfers between family members. Exact rules depend on your jurisdiction and the training module. |\n| Appeal roll | The list of properties where the owner has formally disputed the assessed value and the case is pending a hearing. |\n\nThe exact definitions in your software module may be worded differently, so check them against the module text. Ready? Question 1: A home sells in March. Which value is set at that point, and what does it become the starting point for?"
+    },
+    {
+      "role": "user",
+      "text": "base year value. starting point for future assessments. next"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct. Question 2: A house is sold in October and the new owner receives a bill for part of the current year. What is that bill called?"
+    },
+    {
+      "role": "user",
+      "text": "supplemental assessment. next"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct. Question 3: Market values dip below a property's factored base year value. Which provision can lower the assessed value, and does the reduction stay permanent?"
+    },
+    {
+      "role": "user",
+      "text": "prop 8 decline in value. not permanent, reviewed yearly. next"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct on both counts. Question 4: A change in ownership happens but does not trigger a reassessment. What is that called, and what is the appeal roll for?"
+    },
+    {
+      "role": "user",
+      "text": "exclusion. appeal roll is the pending disputes list. ok that's all six, can you just give me a few more? mix them up"
+    },
+    {
+      "role": "assistant",
+      "text": "Right on both. Here is a mixed round:\n\n1. An owner disputes their assessed value and files a formal appeal. Which list does it go on?\n2. What is the starting figure for calculating a supplemental assessment?\n3. True or false: a Prop 8 reduction is applied once and never reviewed again.\n4. A transfer is exempt from reassessment. Which term describes it?\n\nAnswer when you can and I'll check them."
+    }
+  ]
+}

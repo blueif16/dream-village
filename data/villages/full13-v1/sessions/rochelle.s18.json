@@ -1,0 +1,47 @@
+{
+  "id": "rochelle.s18",
+  "principal": "rochelle",
+  "start": "2025-09-30T21:53:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need a new study schedule for the rest of the week. i rewrote the one on the fridge at lunch and its a mess lol. need it cleaner"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Send me the fixed stuff it has to fit around: pickups, dinner time, classes, anything you can't move. Also which days you have left, and what you're studying."
+    },
+    {
+      "role": "user",
+      "text": "today is tuesday so wed thru sun. DeShawn gets out of practice at 5:30 and i pick him up, he's a sophomore at flats high, tryouts for jv basketball are in november so practice is every day for now. andre's dinner has to be on the table by 7. anatomy MWF 9am and chem tue/thu 11. thursday i have a chem quiz and anatomy lab wed"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Quick checks so I don't guess: where do you study when it's quiet, and is anything else taking up a chunk of time this week?"
+    },
+    {
+      "role": "user",
+      "text": "only quiet time is the kitchen table after 9pm when the house is asleep. and tuesdays 3:30 is taken, i drive my mother in law Loretta to the pharmacy and her checkup. which again cost me the study group at 4 today. so thats gone. i feel like im already so behind and i should be doing better than this"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a cleaner version for Wed–Sun:\n\nWednesday\n- 9:00 anatomy, then anatomy lab\n- 5:00 leave for pickup (practice ends 5:30)\n- 6:00–7:00 cook, dinner on table by 7\n- 9:00–10:00 kitchen table: lab review cards\n\nThursday\n- 11:00 chem class\n- 5:00 pickup, 6:00–7:00 dinner\n- 9:00–9:45 kitchen table: quick chem quiz review (do this before 11 too if you can squeeze 15 min)\n\nFriday\n- 9:00 anatomy\n- 5:00 pickup, dinner by 7\n- 9:00–10:00 kitchen table: new anatomy material\n\nSaturday and Sunday\n- Flexible: one 90-minute block at the table after 9 pm each night, plus batch cooking if that helps so weeknight dinners take less time.\n\nThat's two core weeknight blocks plus the weekend ones, which is realistic with your fixed commitments. Being short on study time here comes from how packed the week is, not from you slacking. Want me to turn this into a fridge-ready grid, or shorten it?"
+    },
+    {
+      "role": "user",
+      "text": "short version pls. just the grid"
+    },
+    {
+      "role": "assistant",
+      "text": "Wed: 9 anatomy + lab | 5 pickup | 7 dinner | 9-10 lab cards\nThu: 11 chem | 5 pickup | 7 dinner | 9-9:45 quiz review\nFri: 9 anatomy | 5 pickup | 7 dinner | 9-10 new material\nSat: 9 pm block, 90 min\nSun: batch cook, 9 pm block, 90 min"
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck on the quiz and lab!"
+    }
+  ]
+}

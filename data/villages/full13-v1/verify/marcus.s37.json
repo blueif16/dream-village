@@ -1,0 +1,133 @@
+{
+  "session_id": "marcus.s37",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Stats grade is a C+ and wants a B",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got my stats grade up to a C+",
+      "support_quote": ""
+    },
+    {
+      "text": "Working to raise stats grade, not coasting",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "i wanna push it to a B so i need an extra slot every week",
+      "support_quote": ""
+    },
+    {
+      "text": "Has afternoon sections Mon/Wed/Thu 2-5:15",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have afternoon sections mon wed thu 2-5:15",
+      "support_quote": ""
+    },
+    {
+      "text": "Works ten-hour nights Sun-Thu",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im on ten hour nights sun thru thu",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses Fatima's shared notes for biomech and ex phys",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fatimas shared notes",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says grade is C+",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f27",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on the C+, that's real progress.",
+      "support_quote": "i got my stats grade up to a C+"
+    },
+    {
+      "text": "Assistant says afternoon classes Mon/Wed/Thu 2-5:15",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I have afternoon classes Monday, Wednesday and Thursday from 2:00 to 5:15",
+      "support_quote": "i have afternoon sections mon wed thu 2-5:15"
+    },
+    {
+      "text": "Assistant notes sleep needs due to night work",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "on days that work with your sleep",
+      "support_quote": "im on ten hour nights sun thru thu so im wiped in the mornings and need to sleep"
+    },
+    {
+      "text": "Assistant says he uses shared class notes",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm keeping up with my other courses on my own using shared class notes",
+      "support_quote": "fatimas shared notes"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i05",
+      "present": true,
+      "quote": "i got my stats grade up to a C+ and i wanna push it to a B so i need an extra slot every week on top of the one i have"
+    },
+    {
+      "item_id": "marcus.f27",
+      "present": true,
+      "quote": "i got my stats grade up to a C+"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i have afternoon sections mon wed thu 2-5:15 so it has to be before 2"
+    },
+    {
+      "item_id": "marcus.f05",
+      "present": true,
+      "quote": "im on ten hour nights sun thru thu so im wiped in the mornings and need to sleep"
+    },
+    {
+      "item_id": "marcus.f55",
+      "present": true,
+      "quote": "i also gotta catch up on biomech and ex phys this weekend off fatimas shared notes"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

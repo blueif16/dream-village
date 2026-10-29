@@ -1,0 +1,142 @@
+{
+  "session_id": "elliot.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Started parental leave on Aug 11",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i started parental leave on aug 11 so it's been two weeks",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo mostly naps on Elliot",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo mostly naps on me",
+      "support_quote": ""
+    },
+    {
+      "text": "Humming a slowed-down ballpark organ tune calms Theo",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the one thing that works is humming this slowed-down ballpark organ tune to him, he calms right down",
+      "support_quote": ""
+    },
+    {
+      "text": "Takeout most nights",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we got takeout again tonight before the crying stretch starts, which is fine, it's just that's most nights lately",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has an evening crying stretch",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we got takeout again tonight before the crying stretch starts",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot logs every feed, nap and diaper in a spreadsheet",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i've logged every feed, nap and diaper in a spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot's methodical tracking shows turning uncertainty into research",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i've logged every feed, nap and diaper in a spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot jokes about productivity to cope",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "scoreboard: dad 1, productivity 0",
+      "support_quote": ""
+    },
+    {
+      "text": "Takeout most nights",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Takeout most nights during a newborn stretch is completely reasonable.",
+      "support_quote": "it's just that's most nights lately"
+    },
+    {
+      "text": "Humming works to soothe Theo",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f42",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "And the humming is a great find.",
+      "support_quote": "the one thing that works is humming this slowed-down ballpark organ tune to him"
+    },
+    {
+      "text": "Theo has contact naps on Elliot",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f15",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Sitting still for a 40-minute contact nap and still logging it to the minute",
+      "support_quote": "this morning he had a 40 minute contact nap"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f02",
+      "present": true,
+      "quote": "i started parental leave on aug 11 so it's been two weeks"
+    },
+    {
+      "item_id": "elliot.f15",
+      "present": true,
+      "quote": "theo mostly naps on me"
+    },
+    {
+      "item_id": "elliot.f42",
+      "present": true,
+      "quote": "the one thing that works is humming this slowed-down ballpark organ tune to him, he calms right down"
+    },
+    {
+      "item_id": "elliot.f23",
+      "present": true,
+      "quote": "we got takeout again tonight before the crying stretch starts, which is fine, it's just that's most nights lately"
+    }
+  ],
+  "sensitive": []
+}

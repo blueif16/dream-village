@@ -1,0 +1,363 @@
+{
+  "principal": "marcus",
+  "week": 1,
+  "entries": [
+    {
+      "id": "marcus.w1.l01",
+      "date": "2025-08-25",
+      "what": "Got home from the Sunday night Ridgeline shift, ate eggs and rice, and slept until about 1 p.m. at Marisol Gardens unit 132.",
+      "with": [],
+      "outcome": "Got roughly five hours of sleep before class.",
+      "feeling": "groggy",
+      "facts": [
+        "marcus.f03",
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l02",
+      "date": "2025-08-25",
+      "what": "First day of fall classes: afternoon section at Bayshore State, Tamsen campus, picking up syllabi for Exercise Physiology, Biomechanics, Stats 120 and Intro Psych. Fatima saved him a seat.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Noted the midterm dates (Biomechanics Oct 16, Ex Phys Oct 22) in his phone.",
+      "feeling": "tired but focused",
+      "facts": [
+        "marcus.f01",
+        "marcus.f02",
+        "marcus.f24",
+        "marcus.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l03",
+      "date": "2025-08-25",
+      "what": "Checked his savings app and saw the emergency cushion sits near $480 against a $1,200 goal. Packed his bag for the night shift.",
+      "with": [],
+      "outcome": "Decided to keep the goal and not touch it.",
+      "feeling": "determined",
+      "facts": [
+        "marcus.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l04",
+      "date": "2025-08-25",
+      "what": "Biked to Ridgeline RF-4 for the 10 p.m. outbound night shift.",
+      "with": [
+        "jose"
+      ],
+      "outcome": "Picked on the general floor without trouble.",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f04",
+        "marcus.f17",
+        "marcus.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l05",
+      "date": "2025-08-26",
+      "what": "Finished the shift at 6:30 a.m. and lifted at Iron Flats Fitness at 6:45 before heading home to sleep.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Got through the 5/3/1 session and slept by 8:30.",
+      "feeling": "worn out",
+      "facts": [
+        "marcus.f20",
+        "marcus.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l06",
+      "date": "2025-08-26",
+      "what": "Woke at 1 p.m., skipped class since Tuesday has no section, and did laundry and a grocery run. Arjun mentioned his internship spreadsheet again.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Apartment stocked, and he nodded along to Arjun without comment.",
+      "feeling": "low-key",
+      "facts": [
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l07",
+      "date": "2025-08-26",
+      "what": "Sent Jade a goodnight text before biking to work for the shift.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "She replied with a short message about her clinic labs.",
+      "feeling": "a little guilty",
+      "facts": [
+        "marcus.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l08",
+      "date": "2025-08-27",
+      "what": "Heat wave began. Marcus finished the night shift, where Ridgeline added extra water breaks on the floor.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Got through it with only one mild lecture about rate.",
+      "feeling": "sweaty and tired",
+      "facts": [
+        "marcus.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l09",
+      "date": "2025-08-27",
+      "what": "Slept poorly in the heat in a stuffy apartment, then dragged himself to the 2 p.m. afternoon section on a sweltering Tule Line train.",
+      "with": [],
+      "outcome": "Made it to class late and borrowed notes from Fatima.",
+      "feeling": "exhausted",
+      "facts": [
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l10",
+      "date": "2025-08-27",
+      "what": "Ate chicken and rice at home, then biked to Ridgeline in the evening heat.",
+      "with": [],
+      "outcome": "Arrived on time for the 10 p.m. start.",
+      "feeling": "drained",
+      "facts": [
+        "marcus.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l11",
+      "date": "2025-08-28",
+      "what": "Night shift ended at 6:30 a.m. and the heat stayed brutal. Marcus skipped the gym and went straight home to sleep.",
+      "with": [],
+      "outcome": "Slept in short chunks.",
+      "feeling": "wiped",
+      "facts": [
+        "marcus.f04",
+        "marcus.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l12",
+      "date": "2025-08-28",
+      "what": "Thursday afternoon section: took notes during Biomechanics and fought to stay awake in the warm lecture hall.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Fatima shared her notes doc after class.",
+      "feeling": "foggy",
+      "facts": [
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l13",
+      "date": "2025-08-28",
+      "what": "Had dinner with Arjun at the apartment and listened to him talk applications. Biked to work after.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Kept the peace and left on time.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l14",
+      "date": "2025-08-29",
+      "what": "Payday Friday: after the shift, picked up a Taquería Colima burrito for breakfast.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "The young counter girl took his order; he tipped a dollar.",
+      "feeling": "content",
+      "facts": [
+        "marcus.f15",
+        "marcus.f36",
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l15",
+      "date": "2025-08-29",
+      "what": "Lifted at Iron Flats Fitness on a Friday morning in the heat, then slept until early afternoon.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Hit his working sets.",
+      "feeling": "satisfied",
+      "facts": [
+        "marcus.f20",
+        "marcus.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l16",
+      "date": "2025-08-29",
+      "what": "Spent the afternoon at home resting, with Friday off from class. Cooled off by the apartment fan and texted Jade about the weekend.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Agreed to dinner Saturday.",
+      "feeling": "relaxed",
+      "facts": [
+        "marcus.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l17",
+      "date": "2025-08-30",
+      "what": "Saturday morning lift at the gym after his shift, still 100 degrees outside by midday.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Short session, then home to sleep.",
+      "feeling": "tired",
+      "facts": [
+        "marcus.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l18",
+      "date": "2025-08-30",
+      "what": "Slept through the hottest hours with the fan on high and woke up in the early afternoon.",
+      "with": [],
+      "outcome": "Felt rested enough for the evening.",
+      "feeling": "better",
+      "facts": [
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l19",
+      "date": "2025-08-30",
+      "what": "Saturday date night with Jade at Phở Bến Thành, hot soup despite the heat wave.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Easy evening and Jade wasn't annoyed about his nights.",
+      "feeling": "happy",
+      "facts": [
+        "marcus.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l20",
+      "date": "2025-08-31",
+      "what": "Sunday: slept late, then spent the afternoon cleaning his sneakers and straightening the box wall in his closet.",
+      "with": [],
+      "outcome": "Shoes cleaned and boxes stacked.",
+      "feeling": "calm",
+      "facts": [
+        "marcus.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l21",
+      "date": "2025-08-31",
+      "what": "Went over his class syllabi and blocked out Stats 120 homework time for the week.",
+      "with": [],
+      "outcome": "Made a rough study plan.",
+      "feeling": "motivated",
+      "facts": [
+        "marcus.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w1.l22",
+      "date": "2025-08-31",
+      "what": "Rode to Ridgeline for the Sunday 10 p.m. start as the fog returned in the evening.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Started the week on time.",
+      "feeling": "ready",
+      "facts": [
+        "marcus.f04"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w1.n01",
+      "subject": "marcus",
+      "attribute": "fan",
+      "value": "bought a $25 box fan for the bedroom during the heat wave",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w1.n02",
+      "subject": "marcus",
+      "attribute": "water_bottle",
+      "value": "carries a 32 oz insulated bottle on shift",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w1.n03",
+      "subject": "marcus",
+      "attribute": "seat_in_class",
+      "value": "sits next to Fatima in Biomechanics",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w1.n04",
+      "subject": "marcus",
+      "attribute": "weekend_plan",
+      "value": "dinner with Jade Saturday Aug 30 at Phở Bến Thành",
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-08-30",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w1.n05",
+      "subject": "marcus",
+      "attribute": "study_plan",
+      "value": "blocks Sunday afternoons for Stats 120 homework",
+      "valid_from": "2025-08-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "session_id": "thao.s37",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Swapped with Jasmine: off Nov 26-28, works Christmas Eve instead",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i swapped with jasmine, off nov 26-28, working christmas eve instead",
+      "support_quote": ""
+    },
+    {
+      "text": "Jasmine and Thao settle swaps by text",
+      "about": "jasmine",
+      "kind": "fact",
+      "item_id": "thao.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "jasmine and i settle swaps by text usually",
+      "support_quote": ""
+    },
+    {
+      "text": "Scheduling has been messy since go-live",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "scheduling's been messy since go-live",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers confirming by message rather than calling",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can that be confirmed by message or the scheduling portal instead of me having to call the scheduler",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is off Nov 26-28 and works Christmas Eve in swap with Jasmine",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f38",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll be off Nov 26-28, and I'll work Christmas Eve ([shift time]) in exchange.",
+      "support_quote": "i swapped with jasmine, off nov 26-28, working christmas eve instead"
+    },
+    {
+      "text": "Thao has had scheduling problems since the system change",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you've had scheduling problems since the system change",
+      "support_quote": "scheduling's been messy since go-live"
+    },
+    {
+      "text": "Thao and Jasmine texted about the swap",
+      "about": "jasmine",
+      "kind": "fact",
+      "item_id": "thao.f47",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "screenshot it along with your texts with Jasmine",
+      "support_quote": "jasmine and i settle swaps by text usually"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f38",
+      "present": true,
+      "quote": "i swapped with jasmine, off nov 26-28, working christmas eve instead. what do i confirm in writing"
+    },
+    {
+      "item_id": "thao.f47",
+      "present": true,
+      "quote": "jasmine and i settle swaps by text usually, is that enough or does it need to go thru the scheduler"
+    },
+    {
+      "item_id": "thao.r01",
+      "present": true,
+      "quote": "scheduling's been messy since go-live so i want it documented properly"
+    },
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "can that be confirmed by message or the scheduling portal instead of me having to call the scheduler"
+    }
+  ],
+  "sensitive": []
+}

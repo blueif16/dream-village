@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s18",
+  "principal": "elliot",
+  "start": "2025-09-14T14:27:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so today is crib day. theo's moving out of the bassinet beside our bed (where he's slept since he came home) and into the crib in the nursery corner of the spare room. white-noise machine is on 'rain'. can you tell me how to set the crib up safely and how loud the white noise should be? table form please, i think better in tables"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on the big move! Here's a quick reference in table form.\n\n**Crib setup**\n\n| Item | What to do |\n|---|---|\n| Mattress | Firm, flat, and fits snugly: you shouldn't be able to fit more than two fingers between mattress and frame |\n| Bedding | Fitted sheet only. No blankets, pillows, bumpers, stuffed animals, or positioners |\n| Position | Always place him on his back to sleep |\n| Clothing | A wearable blanket or sleep sack instead of loose covers; dress him in one more layer than you'd wear |\n| Crib placement | Away from windows, blind cords, curtains, wall decor, and anything he could pull in |\n| Mattress height | Lower it as he grows; check the manual since he'll start pushing up and rolling |\n| Hardware | Check that all screws and bolts are tight; no missing parts. Check the crib is not recalled |\n| Room temp | Comfortable, roughly 68-72°F |\n\n**White noise**\n\n| Item | Guideline |\n|---|---|\n| Volume | Keep it at or below about 50 dB, roughly the level of a quiet conversation or a running shower heard from the next room |\n| Distance | Place the machine as far from the crib as practical, ideally across the room and never inside or clipped to the crib |\n| Duration | Many pediatric sources suggest not running it at high volume all night; a lower volume is the safer choice |\n| Sound type | A steady sound like rain is fine; avoid anything with sudden changes |\n| Test | Stand where his head will be and check that you can talk over it comfortably |\n\nA phone decibel app can help you measure it. If you have questions about his specific sleep needs, his pediatrician is the best source."
+    },
+    {
+      "role": "user",
+      "text": "perfect, thank you. ok update: first nap in the crib just ended. scoreboard: top of the first, dad is down 0-2 and the umpire is a white-noise machine. he did 40 min though which i'm counting as a rally\n\nonly real problem was the wifi camera monitor dropped out right in the middle because i ran the microwave. it does that every time. is there a fix or do i just not microwave anything during naps lol"
+    },
+    {
+      "role": "assistant",
+      "text": "A 40-minute first nap in a new spot is a legitimately good rally. Nice work.\n\nThe microwave dropout is common. Microwaves run on 2.4 GHz, the same band many cheap Wi-Fi cameras use, so they interfere. A few fixes, easiest first:\n\n| Fix | How |\n|---|---|\n| Move the router or camera | Put more distance between the microwave and the router/camera, or keep the router from sitting on the other side of the kitchen wall |\n| Switch bands | If your router is dual-band and the camera supports it, put the camera on 5 GHz; otherwise move the router to a different 2.4 GHz channel (1, 6, or 11) |\n| Add a closer access point | A cheap Wi-Fi extender or mesh node nearer to the nursery makes the signal stronger than the interference |\n| Check the microwave | An older or leaky-seal microwave can interfere more |\n| Workaround | Use the microwave only when you're in the room, or glance at the crib and the nap timer |\n\nIf the camera only supports 2.4 GHz, the channel change or a closer access point is the best bet."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "session_id": "noemi.s58",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi is doing Greg's work without the title",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm doing greg's work without the title. vendor tickets, scanner RMA, scheduling, all of it.",
+      "support_quote": ""
+    },
+    {
+      "text": "Rhonda said the lead decision comes mid-December",
+      "about": "rhonda",
+      "kind": "fact",
+      "item_id": "noemi.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rhonda said the permanent lead decision doesn't come until after peak. mid-december.",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris would plan the budget around a job gap",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris says just apply places, she'd plan the budget around it if i have to take a gap or whatever",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi jokes about Victor getting the acting lead while she is in tutorial mode",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "victor got the loot drop (acting lead) and i'm stuck in tutorial mode lol.",
+      "support_quote": ""
+    },
+    {
+      "text": "Victor is acting lead",
+      "about": "victor",
+      "kind": "fact",
+      "item_id": "cast.f124",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "victor got the loot drop (acting lead)",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi applied for the permanent lead role Friday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yeah applied friday.",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's parents live in a fourplex off Vinca and she fixed their printer",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i was at my parents' fourplex off vinca earlier fixing their printer again lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Noemi is carrying duties beyond her title",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You're doing a bigger job than your title says",
+      "support_quote": "i'm doing greg's work without the title."
+    },
+    {
+      "text": "Assistant says Iris offered to help with budget",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "that's a generous offer from Iris",
+      "support_quote": "she'd plan the budget around it if i have to take a gap or whatever"
+    },
+    {
+      "text": "Assistant lists duties she covers",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the duties you're covering now (vendor tickets, scanner RMA, scheduling)",
+      "support_quote": "vendor tickets, scanner RMA, scheduling, all of it."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f32",
+      "present": true,
+      "quote": "i'm doing greg's work without the title. vendor tickets, scanner RMA, scheduling, all of it."
+    },
+    {
+      "item_id": "noemi.f50",
+      "present": true,
+      "quote": "rhonda said the permanent lead decision doesn't come until after peak. mid-december."
+    },
+    {
+      "item_id": "noemi.i04",
+      "present": true,
+      "quote": "iris says just apply places, she'd plan the budget around it if i have to take a gap or whatever"
+    },
+    {
+      "item_id": "noemi.i06",
+      "present": true,
+      "quote": "victor got the loot drop (acting lead) and i'm stuck in tutorial mode lol."
+    },
+    {
+      "item_id": "noemi.f27",
+      "present": true,
+      "quote": "i was at my parents' fourplex off vinca earlier fixing their printer again lol"
+    }
+  ],
+  "sensitive": []
+}

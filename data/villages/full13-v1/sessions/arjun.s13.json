@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s13",
+  "principal": "arjun",
+  "start": "2025-09-08T22:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok need a realistic weekly plan. constraints: one alum linkedin message every weekday (started today), apps, th new tote-flow group project for ops management, and my front desk shifts at the career center, 10 hrs a week total"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to build that. A few things would make it realistic:\n\n1. Which days and hours are your front desk shifts (or should I pencil in 10 hours and you shift them)?\n2. When are your classes?\n3. How many applications do you want to submit per week?\n4. When does the group project need to be finished, and how many people are on it?\n5. What time do you want to be done each night?"
+    },
+    {
+      "role": "user",
+      "text": "classes MWF 9-12 plus tue/thu 10:30. desk shifts: mon 3-6, wed 3-6, fri 1-5 = 10 hrs\n\napps: 5 a week is th goal. project is a group of 4, no due date set yet\n\nplan needs to end at 2am each night. also leave time every night to update th spreadsheet pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a weekly plan built around your classes and desk shifts, ending at 2 a.m. nightly. I'll keep it tight, and I'm assuming the 10:30 Tue/Thu class runs roughly 90 minutes.\n\n**Every weekday**\n- Daytime gap: one alum LinkedIn message (15 min, between classes or on the train)\n- 11:30 p.m.-11:45 p.m.: spreadsheet update (log the alum message, any apps, follow-up dates)\n\n**Mon / Wed (desk 3-6)**\n- 6:30-7:30 p.m.: dinner + break\n- 7:30-9:30 p.m.: applications (1 app Mon, 1 app Wed, tailored)\n- 9:30-11:30 p.m.: tote-flow project work\n- 11:30-11:45 p.m.: spreadsheet\n- 11:45 p.m.-1:30 a.m.: resume tweaks or reading (flexible)\n- 1:30-2 a.m.: wind down, done\n\n**Tue / Thu (no desk shift)**\n- 1:00-3:00 p.m.: applications (1 app Tue, 1 app Thu, plus research)\n- 7:00-9:30 p.m.: tote-flow project (meet with group if you can)\n- 9:30-11:30 p.m.: flexible, catch-up\n- 11:30-11:45 p.m.: spreadsheet\n- Done by 2 a.m. at the latest\n\n**Friday (desk 1-5)**\n- 6-8 p.m.: 1 app (that's your 5)\n- After 8 p.m.: free\n\n**Weekend**\n- Sat: 2 hours on the project, and a 30-minute spreadsheet review/planning for next week\n- Sun: light, prep for the week, nothing else scheduled\n\nThat gives you 5 apps, 5 alum messages, about 8-10 project hours, and your full desk shifts. The 2 a.m. cutoff leaves a lot of slack, so you could stop earlier on most nights if you want.\n\nWant it as a table, or shortened?"
+    },
+    {
+      "role": "user",
+      "text": "table pls, th above is too long lol"
+    },
+    {
+      "role": "assistant",
+      "text": "| Day | Fixed | Alum msg | Apps | Project | Spreadsheet | Done by |\n|---|---|---|---|---|---|---|\n| Mon | Class 9-12, desk 3-6 | Midday | 1 (7:30-9:30 p.m.) | 9:30-11:30 p.m. | 11:30 p.m. | 2 a.m. |\n| Tue | Class 10:30 | Midday | 1 (1-3 p.m.) | 7-9:30 p.m. | 11:30 p.m. | 2 a.m. |\n| Wed | Class 9-12, desk 3-6 | Midday | 1 (7:30-9:30 p.m.) | 9:30-11:30 p.m. | 11:30 p.m. | 2 a.m. |\n| Thu | Class 10:30 | Midday | 1 (1-3 p.m.) | 7-9:30 p.m. | 11:30 p.m. | 2 a.m. |\n| Fri | Class 9-12, desk 1-5 | Morning | 1 (6-8 p.m.) | Free | 11:30 p.m. | Early |\n| Sat | None | - | - | 2 hrs | 30-min weekly review | Free |\n| Sun | None | - | - | - | Prep for week | Free |\n\nTotals: 5 alum messages, 5 apps, about 9 project hours, and 10 desk hours."
+    }
+  ]
+}

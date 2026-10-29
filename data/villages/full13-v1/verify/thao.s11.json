@@ -1,0 +1,112 @@
+{
+  "session_id": "thao.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Picked up a fourth night this week for go-live coverage, Mon/Tue/Wed/Sat",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i picked up a 4th night this week for go-live coverage, mon/tue/wed/sat",
+      "support_quote": ""
+    },
+    {
+      "text": "Has to be asleep by 8:30 with curtains and fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to be asleep by 8:30 with the curtains and fan going",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes the shuttle up Ortega Hill from the gravel lot",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll go thru it on the shuttle up ortega hill from the gravel lot",
+      "support_quote": ""
+    },
+    {
+      "text": "Eats rice at 2 a.m. on shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then again at 2am while i eat my rice",
+      "support_quote": ""
+    },
+    {
+      "text": "Go-live is today",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "go-live is today and i have to learn the new charting system",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers short chunks",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "short chunks pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she'll review on the shuttle and at 2 a.m. meal break",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**2 a.m. meal break (one chunk each)**",
+      "support_quote": "then again at 2am while i eat my rice"
+    },
+    {
+      "text": "Assistant references shuttle ride for flashcards",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Shuttle ride (quick flashcards)**",
+      "support_quote": "i'll go thru it on the shuttle up ortega hill from the gravel lot"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f02",
+      "present": true,
+      "quote": "i picked up a 4th night this week for go-live coverage, mon/tue/wed/sat so tonight's my second in a row"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "i have to be asleep by 8:30 with the curtains and fan going"
+    },
+    {
+      "item_id": "thao.f09",
+      "present": true,
+      "quote": "i'll go thru it on the shuttle up ortega hill from the gravel lot"
+    },
+    {
+      "item_id": "thao.f43",
+      "present": true,
+      "quote": "then again at 2am while i eat my rice"
+    }
+  ],
+  "sensitive": []
+}

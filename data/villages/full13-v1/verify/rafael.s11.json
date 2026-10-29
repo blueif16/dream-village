@@ -1,0 +1,378 @@
+{
+  "session_id": "rafael.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Applied for spring internship at Ortega Auto & Tire, pending ASE practice result",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already applied for the spring internship and theyre waiting on my ASE practice result before they decide",
+      "support_quote": ""
+    },
+    {
+      "text": "G1 practice test scheduled Nov 18",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the G1 practice test is scheduled nov 18",
+      "support_quote": ""
+    },
+    {
+      "text": "Plans a study block Monday after weekend stand shifts",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.w10.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got a study block planned monday after the weekend stand shifts",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term the G1",
+      "about": "rafael",
+      "kind": "reference_use",
+      "item_id": "rafael.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "been doing G1 questions tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Struggles with book wording, learns by seeing it in the bay",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the book wording kills me, i only get it when its explained like what youd see in the bay",
+      "support_quote": ""
+    },
+    {
+      "text": "Apologizes for family obligations limiting start",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also add a line that i can only start after family obligations, does that sound bad",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says G1 practice test is Nov 18",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The practice test is scheduled for November 18",
+      "support_quote": "the G1 practice test is scheduled nov 18"
+    },
+    {
+      "text": "Assistant says he applied to Ortega spring internship awaiting result",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm following up on my application for the spring internship at Ortega Auto & Tire.",
+      "support_quote": "i already applied for the spring internship and theyre waiting on my ASE practice result before they decide"
+    },
+    {
+      "text": "Assistant says he is confident in hands-on knowledge but struggles on written test",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm confident in my hands-on knowledge of the systems, and I'm working to get that across on the written test as well.",
+      "support_quote": "the test wording loses me but on the car i know it"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rafael.f22",
+      "present": true,
+      "quote": "i already applied for the spring internship and theyre waiting on my ASE practice result before they decide"
+    },
+    {
+      "item_id": "rafael.w10.n04",
+      "present": true,
+      "quote": "i got a study block planned monday after the weekend stand shifts so ill have the result after that"
+    },
+    {
+      "item_id": "rafael.i01",
+      "present": true,
+      "quote": "also add a line that i can only start after family obligations, does that sound bad"
+    },
+    {
+      "item_id": "rafael.i02",
+      "present": true,
+      "quote": "the book wording kills me, i only get it when its explained like what youd see in the bay"
+    },
+    {
+      "item_id": "rafael.r01",
+      "present": true,
+      "quote": "the G1 practice test is scheduled nov 18"
+    },
+    {
+      "item_id": "rafael.f16",
+      "present": true,
+      "quote": "the G1 practice test is scheduled nov 18"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

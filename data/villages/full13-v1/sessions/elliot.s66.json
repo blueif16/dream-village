@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s66",
+  "principal": "elliot",
+  "start": "2025-11-05T21:15:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:15 pm update. need help planning thanksgiving, can you put it in table form? i'm hosting at our place (unit 209) on nov 27, potluck style. it's Hana's parents and my mom Judith plus Hana and me, so six adults, and the baby who obviously eats nothing but still has opinions. how much food do i need per person and what should i assign guests?"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Six adults is a comfortable size, and potluck keeps your load light. Here are standard portions for 6 adults, with a little extra for leftovers:\n\n| Item | Per person | For 6 adults |\n|---|---|---|\n| Turkey (bone-in) | 1 to 1.25 lb | 8 to 10 lb (a turkey breast also works) |\n| Stuffing | 1/2 to 3/4 cup | about 4 cups |\n| Mashed potatoes | 1/2 cup+ | about 3 lb potatoes |\n| Gravy | 1/4 cup | about 1.5 cups |\n| Cranberry sauce | 2 tbsp | 1 can or 1 small batch |\n| Green vegetable | 1/2 cup | about 3 cups |\n| Second side (sweet potatoes, etc.) | 1/2 cup | about 3 cups |\n| Rolls | 1 to 2 | 8 to 12 |\n| Pie | 1 slice | 2 pies |\n| Drinks | 2 to 3 | plenty of water, cider, wine |\n\nWant me to suggest who brings what? It would help to know who can cook, and any food restrictions or dislikes at the table."
+    },
+    {
+      "role": "user",
+      "text": "yes. context: i can make scrambled eggs, boxed pasta and one chili recipe. that's the whole repertoire 🙃 so i want low risk stuff for me. also my mom won't eat cilantro, and she asks for decaf after noon so i need that on hand. and i'm lactose intolerant (oat milk guy) so i'd like some dairy-free sides if possible. also timing matters, dinner prep has to stay out of the witching hour, so i want most of it done before 5"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a workable plan. Since you're the host with a limited repertoire, you take the easy, forgiving items and let guests handle the technical ones.\n\n| Who | Assignment | Notes |\n|---|---|---|\n| You | Drinks, rolls, and a store-bought cranberry sauce | Zero cooking risk. Stock regular and decaf coffee, since your mom wants decaf after noon. |\n| You | Oat-milk-based dish: a big pot of your chili? | Chili is not traditional, but it works as a hearty extra, and it's the one dish you know. Keep the cilantro off it, or serve it only on the side for anyone else. |\n| Hana's parents | Turkey or turkey breast, plus gravy | Ask them to arrive with the turkey cooked or ready to roast. A precooked or ordered turkey is also fine. |\n| Your mom | Stuffing and a pie | Ask her to skip cilantro anywhere it might sneak in, like salsas or herb mixes. |\n| Hana's parents or Hana | Green vegetable | Roasted green beans or Brussels sprouts with olive oil. |\n| Whoever's willing | Mashed potatoes or sweet potatoes | Dairy-free version: olive oil, oat milk and salt, or roasted sweet potatoes. |\n\nDairy-free sides that work for you:\n- Mashed potatoes made with oat milk and olive oil or dairy-free butter\n- Roasted sweet potatoes with cinnamon\n- Roasted vegetables\n- Stuffing made with broth and dairy-free butter\n- Cranberry sauce\n\nFor timing, prep and cook the make-ahead items before 5 p.m.:\n- Day before: set the table, thaw and prep, make the cranberry sauce, buy the decaf\n- Morning: guests bring dishes already made or ready to reheat\n- Early afternoon: reheat sides in the oven and set out drinks\n- Eat by about 4 to 4:30, so cleanup and dessert happen before the evening fussy stretch\n\nWant a one-page checklist or a message to send the guests with their assignments? I'd leave placeholders for the names and times."
+    }
+  ]
+}

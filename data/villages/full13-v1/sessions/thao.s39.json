@@ -1,0 +1,31 @@
+{
+  "id": "thao.s39",
+  "principal": "thao",
+  "start": "2025-11-10T02:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "draft a note to the nursing board contact. i finished all 30 CE hours and submitted my renewal saturday, want a confirmation receipt. couple lines max"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short version:\n\nHello, I submitted my RN license renewal on Saturday, with all 30 CE hours completed. Could you please send a confirmation receipt for my records? Thank you, [your name]\n\nIf you share the contact's name and your license number, I can fill those in. Or leave placeholders."
+    },
+    {
+      "role": "user",
+      "text": "too long. one line, i'm post-shift. also needs to go out before i start tonight"
+    },
+    {
+      "role": "assistant",
+      "text": "Hello, I submitted my RN renewal on Saturday with all 30 CE hours complete. Could you please send a confirmation receipt? Thank you, [your name]"
+    },
+    {
+      "role": "user",
+      "text": "perfect thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works. Add your license number before sending if the board needs it to find your file. Have a good shift tonight."
+    }
+  ]
+}

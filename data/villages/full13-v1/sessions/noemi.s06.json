@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s06",
+  "principal": "noemi",
+  "start": "2025-08-30T10:38:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. tried to do my usual saturday walk on the marsh boardwalk this morning and the heat cut it short lol. anyway this week the heat has been cooking batteries at work. how do i tell if a heat-affected battery is damaged and when to retire it"
+    },
+    {
+      "role": "assistant",
+      "text": "Heat is hard on lithium-ion packs. Here's how to check one and when to retire it.\n\nSigns of damage (retire right away):\n- Swelling or bulging: the case won't sit flat, the back cover pops, or the pack rocks on a flat surface\n- Leaking, crusty residue, or a sweet or chemical smell\n- Discoloration or warping of the casing\n- Hot to the touch while idle or charging, well beyond warm\n\nSigns of degraded but not dangerous:\n- Runtime has dropped sharply, for example it no longer lasts a full shift\n- The percentage jumps around or the device shuts off at 20-30%\n- Charging much faster or slower than similar units\n- Repeated overheat warnings or lockups\n\nWhat to do after a heat event:\n1. Move the device somewhere cool and let it come down to room temperature on its own. Don't use a freezer or ice.\n2. Don't charge it while it's still hot.\n3. Inspect it for the physical signs above.\n4. Do a full charge and a runtime test. Compare it to a healthy unit of the same model.\n5. Check the battery health or cycle count if the device reports it.\n\nRetire it if:\n- It's swollen, leaking or deformed. Pull it, don't charge it, and put it in a non-flammable container.\n- It fails the runtime test, for example below roughly 70-80% of rated capacity or the manufacturer's threshold.\n- It overheats again after cooling down.\n\nFor disposal, use battery recycling and never the regular trash. What kind of devices are we talking about?"
+    },
+    {
+      "role": "user",
+      "text": "handheld barcode scanners mostly. fleet is about 620 handhelds so i cant babysit each one. also my own phone has been getting hot too, 3yr old android w a cracked corner"
+    },
+    {
+      "role": "assistant",
+      "text": "At 620 units you'll want a triage process instead of checking each one by hand.\n\nFor the fleet:\n- Pull any unit that locks up or throws an overheat warning and cool it in a separate spot. Tag it so it doesn't go back into circulation right away.\n- Run a quick health check. Many enterprise handhelds report battery health or charge cycles in their device management console or a diagnostics menu. Pull that for the whole fleet and sort by the worst.\n- Do a visual check at the charging cradles. Swelling is easiest to spot when you pick a unit up and the back doesn't sit flush.\n- Set a rule. For example, two heat lockups in a week gets a battery swap, and any unit with swelling is out immediately.\n- Track battery age and replace on a schedule, since heat shortens life.\n\nFor your phone:\n- A cracked corner matters. Damage to the case can compromise the battery or let in moisture, and a hot phone with a damaged frame deserves more caution.\n- Check Settings > Battery for usage and temperature warnings, and look for a screen that's lifting or a back panel that's bulging.\n- If it's hot while idle, or the battery drains fast, back up your data and think about a battery replacement.\n- If it swells, stop using it and take it to a repair shop.\n\nNeed a tidy way to log these?"
+    },
+    {
+      "role": "user",
+      "text": "yes. how should i record battery failures in our internal ticket queue so its not a mess"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a simple structure so tickets are searchable and you can spot patterns.\n\nTitle format:\n[Battery] [Model] [Asset tag] - [Symptom]\nExample: [Battery] [model] [asset tag] - swollen\n\nFields to include:\n1. Asset tag and serial number\n2. Device model and battery part number\n3. Date and time found, plus the ambient conditions (for example, heat event, near a dock door)\n4. Symptom category: swelling / leak / overheating / short runtime / random shutdown / won't charge\n5. Severity: Safety hazard (swollen or leaking) vs. performance issue\n6. Action taken: pulled, cooled, swapped battery, sent for RMA, recycled\n7. Battery age or cycle count if known\n8. Who reported it and where the unit was in use\n\nTips:\n- Use a consistent category list so you can filter and count by symptom.\n- Add a tag like \"heat-related\" to every ticket during hot weeks. After the weather turns you can see how many failures were heat versus normal wear.\n- Link repeat failures on the same asset tag so a bad unit shows up quickly.\n- Swollen batteries get a separate high priority ticket with a note that the unit is quarantined.\n- Include the vendor's warranty status, since it decides whether it's an RMA or a replacement.\n\nI can draft a ticket template you can paste in, or a one-page triage checklist for the techs."
+    }
+  ]
+}

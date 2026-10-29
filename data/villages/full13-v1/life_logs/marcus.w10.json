@@ -1,0 +1,336 @@
+{
+  "principal": "marcus",
+  "week": 10,
+  "entries": [
+    {
+      "id": "marcus.w10.l01",
+      "date": "2025-10-27",
+      "what": "Marcus slept 8:30 to about 1:30 after the Sunday night shift, then ate chicken and rice and rode the Tule Line to Bayshore State for his 2-5:15 p.m. section.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Stayed awake through most of class and took notes from Fatima's shared doc for the part he missed.",
+      "feeling": "groggy but steady",
+      "facts": [
+        "marcus.f02",
+        "marcus.f09",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l02",
+      "date": "2025-10-27",
+      "what": "Marcus got a ride to Ridgeline with Trevor in the Corolla for the 9 p.m. start and checked the breakroom board for dock assignments.",
+      "with": [
+        "trevor",
+        "jose"
+      ],
+      "outcome": "Assigned to the cold dock again and pulled on the freezer jacket.",
+      "feeling": "resigned",
+      "facts": [
+        "marcus.f05",
+        "marcus.f18",
+        "marcus.f41",
+        "marcus.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l03",
+      "date": "2025-10-28",
+      "what": "After the ten-hour night at Ridgeline, Marcus got home around 8 a.m., ate eggs and rice, and lay in bed with his phone.",
+      "with": [],
+      "outcome": "Drafted a text to his mom saying he got a raise so she wouldn't worry about the bigger transfer, then asked for help making it sound natural.",
+      "feeling": "protective, a little guilty",
+      "facts": [
+        "marcus.f14",
+        "marcus.f49",
+        "marcus.f07"
+      ],
+      "impressions": [
+        "marcus.i02"
+      ]
+    },
+    {
+      "id": "marcus.w10.l04",
+      "date": "2025-10-28",
+      "what": "Marcus slept until the afternoon, did laundry, and talked with Arjun in the kitchen about the trash and the week's groceries.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Kept it short and avoided any advice talk.",
+      "feeling": "low-key tired",
+      "facts": [
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l05",
+      "date": "2025-10-28",
+      "what": "Marcus carpooled with Trevor to Ridgeline for the 9 p.m. shift and worked the cold dock.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Hit rate and got through the shift without a write-up.",
+      "feeling": "numb but fine",
+      "facts": [
+        "marcus.f18",
+        "marcus.f41",
+        "marcus.f42"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l06",
+      "date": "2025-10-29",
+      "what": "Marcus cut his sleep short to make the Wednesday 12:30 stats tutoring session at Bayshore.",
+      "with": [],
+      "outcome": "Worked through practice problems with the tutor.",
+      "feeling": "drained but focused",
+      "facts": [
+        "marcus.f28",
+        "marcus.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l07",
+      "date": "2025-10-29",
+      "what": "Marcus went to his 2-5:15 p.m. section on Wednesday, then went home to eat and sleep a little before shift.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Got Fatima's notes for Biomechanics.",
+      "feeling": "worn out",
+      "facts": [
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l08",
+      "date": "2025-10-29",
+      "what": "Another night at Ridgeline, ten hours on the cold dock, then a ride home with Trevor.",
+      "with": [
+        "trevor",
+        "carla"
+      ],
+      "outcome": "Carla stopped by the dock and checked rate; nothing came of it.",
+      "feeling": "tired",
+      "facts": [
+        "marcus.f05",
+        "marcus.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l09",
+      "date": "2025-10-30",
+      "what": "Marcus slept in after shift, then sat down to plan Jade's birthday, which was that day, and realized he'd be late getting to her.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Asked whether a joke card would be enough to apologize for being late; settled on a card plus the booked dinner.",
+      "feeling": "anxious, joking it off",
+      "facts": [
+        "marcus.f52",
+        "marcus.f58"
+      ],
+      "impressions": [
+        "marcus.i04"
+      ]
+    },
+    {
+      "id": "marcus.w10.l10",
+      "date": "2025-10-30",
+      "what": "Marcus attended his Thursday afternoon section at Bayshore, then went to see Jade briefly before heading to work.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Gave her the card and promised a proper dinner Saturday.",
+      "feeling": "sheepish but warm",
+      "facts": [
+        "marcus.f02",
+        "marcus.f45",
+        "marcus.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l11",
+      "date": "2025-10-30",
+      "what": "Marcus rode with Trevor to the 9 p.m. Ridgeline shift and picked on the cold dock.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Finished the night with phone battery near dead, power bank saved him.",
+      "feeling": "worn down",
+      "facts": [
+        "marcus.f31",
+        "marcus.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l12",
+      "date": "2025-10-31",
+      "what": "Marcus got home about 8 a.m. and slept through the morning, with kids' Halloween noise starting up around Marisol Gardens in the afternoon.",
+      "with": [],
+      "outcome": "Woke up to trick-or-treaters knocking on doors in the complex.",
+      "feeling": "amused, groggy",
+      "facts": [
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l13",
+      "date": "2025-10-31",
+      "what": "Marcus went to the Iron Flats Fitness for a lift session during the day since it was one of his two weekly sessions.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Got in a deadlift session, staying under his 375 best.",
+      "feeling": "energized",
+      "facts": [
+        "marcus.f21",
+        "marcus.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l14",
+      "date": "2025-10-31",
+      "what": "Friday night, Ridgeline shift on payday; Marcus carpooled with Trevor and worked the cold dock.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Paycheck landed, and he sent the mom fund transfer.",
+      "feeling": "relieved",
+      "facts": [
+        "marcus.f15",
+        "marcus.f14",
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l15",
+      "date": "2025-11-01",
+      "what": "Saturday morning Marcus came off shift, ate breakfast, and caught a few hours of sleep.",
+      "with": [],
+      "outcome": "Slept until early afternoon.",
+      "feeling": "wiped",
+      "facts": [
+        "marcus.f09",
+        "marcus.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l16",
+      "date": "2025-11-01",
+      "what": "Marcus lifted at Iron Flats Fitness for his second weekly session, then picked up a few groceries.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Kept up the two-session routine.",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f21",
+        "marcus.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l17",
+      "date": "2025-11-01",
+      "what": "Saturday evening date night with Jade at Phở Bến Thành.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Dinner went well and made up for being late on her birthday.",
+      "feeling": "happy, relaxed",
+      "facts": [
+        "marcus.f45",
+        "marcus.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l18",
+      "date": "2025-11-02",
+      "what": "Sunday Marcus slept in, then did his chicken-and-rice meal prep of five containers.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Arjun commented on the amount of rice; Marcus let it go.",
+      "feeling": "fine",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w10.l19",
+      "date": "2025-11-02",
+      "what": "Marcus got ready for another overtime night, packed his power bank and freezer jacket, and rode with Trevor to Ridgeline for the 9 p.m. start.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Started another vampire week night.",
+      "feeling": "resigned",
+      "facts": [
+        "marcus.f05",
+        "marcus.f18",
+        "marcus.f31"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w10.n01",
+      "subject": "marcus",
+      "attribute": "birthday_card",
+      "value": "gave Jade a joke card for her birthday",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w10.n02",
+      "subject": "marcus",
+      "attribute": "raise_text",
+      "value": "told Denise he got a raise to explain the bigger transfer",
+      "valid_from": "2025-10-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.w10.n03",
+      "subject": "marcus",
+      "attribute": "halloween",
+      "value": "slept through most of Halloween day at Marisol Gardens",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w10.n04",
+      "subject": "marcus",
+      "attribute": "weekend_plan",
+      "value": "Saturday dinner at Phở Bến Thành with Jade as make-up for her birthday",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

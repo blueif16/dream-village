@@ -1,0 +1,348 @@
+{
+  "session_id": "thao.s18",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Does Tuesday afternoon grocery run at Ruiz Family Market for produce and fish sauce",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do my tuesday afternoon run at ruiz family market, mostly produce and fish sauce",
+      "support_quote": ""
+    },
+    {
+      "text": "Phone is 3 years old with cracked screen protector and nearly full voicemail",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "phone is 3 yrs old, cracked screen protector and the voicemail box is basically full",
+      "support_quote": ""
+    },
+    {
+      "text": "Eats leftover rice plus what her mom sends at 2am on shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my 2am meal on shift. leftover rice plus whatever my mom sends",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants text alerts, nothing requiring phone calls",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i dont want anything that needs me to phone someone or verify by call",
+      "support_quote": ""
+    },
+    {
+      "text": "Boyfriend moves in tomorrow",
+      "about": "tomas",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "my boyfriend moves in tomorrow",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant references her Tuesday run at the store",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "check fridge before Tuesday run",
+      "support_quote": "i do my tuesday afternoon run at ruiz family market"
+    },
+    {
+      "text": "Her mom sends food",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "leftover rice + mom's food",
+      "support_quote": "leftover rice plus whatever my mom sends"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f33",
+      "present": true,
+      "quote": "i do my tuesday afternoon run at ruiz family market, mostly produce and fish sauce"
+    },
+    {
+      "item_id": "thao.f12",
+      "present": true,
+      "quote": "phone is 3 yrs old, cracked screen protector and the voicemail box is basically full"
+    },
+    {
+      "item_id": "thao.f43",
+      "present": true,
+      "quote": "want a template line for my 2am meal on shift. leftover rice plus whatever my mom sends"
+    },
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "can it send text alerts instead of calls? i dont want anything that needs me to phone someone or verify by call"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

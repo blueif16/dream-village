@@ -1,0 +1,47 @@
+{
+  "id": "linh.s51",
+  "principal": "linh",
+  "start": "2025-10-17T12:57:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait the practical was this morning and i walked out kind of unsure..🫠 what do i do after one of these and whats a good score or average usually look like for an anatomy lab practical"
+    },
+    {
+      "role": "assistant",
+      "text": "Walking out unsure is really common after lab practicals, since you can't review the stations afterward. Here's a quick plan:\n\n**Right after**\n- Write down the stations you remember (structures, tricky ones) while it's fresh\n- Don't re-quiz yourself on what you missed; it won't change the score\n- Eat something and drink water\n\n**Next few days**\n- Check whether your instructor posts the key or lets you review the exam\n- Note which topics were weak and add them to your study plan for the next unit\n\n**Scores**\n- Anatomy lab practicals tend to run harder than lectures: class averages often land around 70-75%\n- 80%+ is usually solid, 90%+ is excellent\n- Some instructors curve or drop the lowest score. Your syllabus should say\n\nWant me to put the next few days into a schedule?"
+    },
+    {
+      "role": "user",
+      "text": "too long lol just bullets. ok so after the practical i meet thao at phở bến thành after her night shift. can u do her grocery list and the timing for the phở drop off. i havent eaten yet today btw"
+    },
+    {
+      "role": "assistant",
+      "text": "Bullets it is. I'd need a few details to make this exact, so here's a draft with placeholders:\n\n**Phở timing**\n- Check when her shift ends: [shift end time]\n- Order ahead so it's ready, about 15 min before she arrives\n- Grab it hot and pick a table or take it to go, depending on her energy\n\n**Grocery list (easy, post-night-shift stuff)**\n- Eggs, bread, fruit\n- Rice and a few ready proteins\n- Yogurt or a dairy-free alternative, tea, electrolyte drinks\n- Snacks she can eat one-handed\n\nTell me her shift end time and what she likes and I'll lock it into times.\n\nAlso: have something to eat yourself soon. Even a banana and a granola bar works."
+    },
+    {
+      "role": "user",
+      "text": "shift ends 7. and the phở breakfast is only so she stops fussing at me about eating lol. can u make it a little table w times"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n| Time | What |\n|---|---|\n| 6:30 | Call in the phở order at the restaurant |\n| 6:50 | Get to Phở Bến Thành, grab a table |\n| 7:10 | She arrives, food is ready |\n| 8:00 | Wrap up, pick up groceries on the way home |\n\nIf you do the grocery run before or after depends on your schedule. Want a version that includes your own meal and a break?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good. oh and pls forget what i said about beatrice and the tip jar, dont keep that"
+    },
+    {
+      "role": "assistant",
+      "text": "Done, I won't keep that. I can't carry details between chats anyway, but I'll treat it as dropped. Anything else for the schedule or the post-exam plan?"
+    },
+    {
+      "role": "user",
+      "text": "nope thanks!! ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call. Eat something solid, and good luck with the results! ☕"
+    }
+  ]
+}

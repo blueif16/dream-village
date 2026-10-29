@@ -1,0 +1,132 @@
+{
+  "session_id": "linh.s21",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao's hospital switched to a new charting system today",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "my sisters hospital switched to a new electronic charting system today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh rode to campus in Kenji's hatchback",
+      "about": "kenji",
+      "kind": "fact",
+      "item_id": "linh.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "looked this up on the ride to campus in kenjis hatchback",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is working extra nights during the go-live",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shes working extra nights this stretch bc of it so shes kinda wiped",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh promised to get phở with Thao after her shift tomorrow",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i promised id get pho with her after her shift tomorrow",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh promised Thao phở after her next night shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.w4.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i promised id get pho with her after her shift tomorrow",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has gen chem at 11",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have gen chem at 11",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short bulleted answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bullets, too long = i wont read it lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Linh will have breakfast with her sister",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I hope the breakfast with your sister goes well.",
+      "support_quote": "i promised id get pho with her after her shift tomorrow"
+    },
+    {
+      "text": "Assistant says Linh has chem class",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck in chem",
+      "support_quote": "ok i have gen chem at 11 and only like 10 min before class so gotta go"
+    },
+    {
+      "text": "Assistant says Thao is tired",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since she'll be tired, keep them easy to answer:",
+      "support_quote": "shes working extra nights this stretch bc of it so shes kinda wiped"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f31",
+      "present": true,
+      "quote": "i promised id get pho with her after her shift tomorrow"
+    },
+    {
+      "item_id": "thao.f02",
+      "present": true,
+      "quote": "shes working extra nights this stretch bc of it so shes kinda wiped"
+    },
+    {
+      "item_id": "linh.f52",
+      "present": true,
+      "quote": "looked this up on the ride to campus in kenjis hatchback"
+    },
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "ok i have gen chem at 11 and only like 10 min before class so gotta go"
+    }
+  ],
+  "sensitive": []
+}

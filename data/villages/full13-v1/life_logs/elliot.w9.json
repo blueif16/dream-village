@@ -1,0 +1,350 @@
+{
+  "principal": "elliot",
+  "week": 9,
+  "entries": [
+    {
+      "id": "elliot.w9.l01",
+      "date": "2025-10-20",
+      "what": "Judith arrives at 8 a.m. with two suitcases and a box of library-labeled tape to start her weekdays in the spare room at Marisol Gardens 209. Elliot gets the 8:15 Monday email from Brenda while she unpacks.",
+      "with": [
+        "judith",
+        "brenda"
+      ],
+      "outcome": "Judith settled in and took over the kitchen shelves by noon; the email went unanswered.",
+      "feeling": "grateful but wary",
+      "facts": [
+        "cast.f73",
+        "elliot.f48",
+        "elliot.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l02",
+      "date": "2025-10-20",
+      "what": "Judith moves the mugs to the high shelf and labels the leftovers in librarian handwriting. Elliot notices and says nothing.",
+      "with": [
+        "judith"
+      ],
+      "outcome": "The kitchen is rearranged; he lets it stand for now.",
+      "feeling": "quietly irked",
+      "facts": [
+        "elliot.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l03",
+      "date": "2025-10-20",
+      "what": "Theo's 5-8 p.m. witching hour hits; Judith and Elliot take turns pacing the hallway while Elliot hums the ballpark organ tune.",
+      "with": [
+        "judith",
+        "theo"
+      ],
+      "outcome": "Theo settled around 8, and he went down in the crib for the night.",
+      "feeling": "worn out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l04",
+      "date": "2025-10-21",
+      "what": "Morning stroller walk on the marsh boardwalk, then three crib naps logged in the tracker app while Judith runs the kitchen.",
+      "with": [
+        "theo",
+        "judith"
+      ],
+      "outcome": "Naps went by the schedule, and the day was smooth.",
+      "feeling": "relieved",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l05",
+      "date": "2025-10-21",
+      "what": "Elliot drafts a gentle, non-offensive note asking Judith to put the mugs back on the low shelf, reads it twice, and decides not to send it.",
+      "with": [],
+      "outcome": "Draft deleted; the mugs stay on the high shelf.",
+      "feeling": "conflict-averse, sheepish",
+      "facts": [
+        "elliot.f47"
+      ],
+      "impressions": [
+        "elliot.i03"
+      ]
+    },
+    {
+      "id": "elliot.w9.l06",
+      "date": "2025-10-21",
+      "what": "Tuesday baby-laundry load at the card-only Marisol Gardens laundry room after Theo's bedtime.",
+      "with": [],
+      "outcome": "Two loads folded by 10 p.m.",
+      "feeling": "tired but productive",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l07",
+      "date": "2025-10-22",
+      "what": "Elliot adds three weeks of vacation and emails Brenda to move his return to Monday Jan 5, with the first month hybrid.",
+      "with": [
+        "brenda"
+      ],
+      "outcome": "Brenda replied that it was approved; the return date moved from Dec 1 to Jan 5.",
+      "feeling": "relieved and a little guilty",
+      "facts": [
+        "elliot.f03",
+        "elliot.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l08",
+      "date": "2025-10-22",
+      "what": "Afternoon at the kitchen table with Theo napping and Judith reading nearby; Elliot works on the online reassessment-software training.",
+      "with": [
+        "judith"
+      ],
+      "outcome": "One module done.",
+      "feeling": "focused",
+      "facts": [
+        "elliot.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l09",
+      "date": "2025-10-22",
+      "what": "Takeout rare beef pho from Phở Bến Thành with Hana and Judith, no tripe.",
+      "with": [
+        "hana",
+        "judith"
+      ],
+      "outcome": "Hana ate a full bowl and went to bed early.",
+      "feeling": "content",
+      "facts": [
+        "elliot.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l10",
+      "date": "2025-10-23",
+      "what": "Thursday 10:30 baby story time at the library with Theo, chatting briefly with Kaitlyn.",
+      "with": [
+        "kaitlyn",
+        "theo"
+      ],
+      "outcome": "Theo smiled through the songs.",
+      "feeling": "cheerful",
+      "facts": [
+        "elliot.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l11",
+      "date": "2025-10-23",
+      "what": "Thao in 207 is across the hall with the nurses' union vote at St. Anselm today; Elliot hears her leaving for the hospital and wishes her luck.",
+      "with": [
+        "thao"
+      ],
+      "outcome": "A brief hallway exchange.",
+      "feeling": "curious",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l12",
+      "date": "2025-10-23",
+      "what": "The 2 a.m. feed; Elliot watches Theo stare at the ceiling in the dark.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo went back down after 20 minutes.",
+      "feeling": "sleepy",
+      "facts": [
+        "elliot.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l13",
+      "date": "2025-10-24",
+      "what": "Elliot drafts transition notes for the colleague covering his appeal files, since he won't be back until January.",
+      "with": [],
+      "outcome": "Notes sent to the team; he is being thorough because he is out longer.",
+      "feeling": "conscientious",
+      "facts": [
+        "elliot.f04"
+      ],
+      "impressions": [
+        "elliot.i05"
+      ]
+    },
+    {
+      "id": "elliot.w9.l14",
+      "date": "2025-10-24",
+      "what": "Quiet midday with Judith watching Theo while Elliot works a jigsaw corner of the lighthouse puzzle.",
+      "with": [
+        "judith",
+        "theo"
+      ],
+      "outcome": "Eleven pieces placed.",
+      "feeling": "calm",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l15",
+      "date": "2025-10-24",
+      "what": "Judith leaves for her Tamsen city condo at 5 p.m. Elliot does the Friday baby laundry.",
+      "with": [
+        "judith"
+      ],
+      "outcome": "The apartment is quiet for the weekend, and the laundry is done.",
+      "feeling": "relieved",
+      "facts": [
+        "elliot.f48",
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l16",
+      "date": "2025-10-25",
+      "what": "Saturday morning trip to Ruiz Family Market with Theo in the carrier; diapers are the only delivery order.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Groceries bought under the budget target.",
+      "feeling": "capable",
+      "facts": [
+        "elliot.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l17",
+      "date": "2025-10-25",
+      "what": "Afternoon nap schedule holds with the three crib naps; Elliot logs them in the app and the old spreadsheet's summary tab.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "All three naps succeeded.",
+      "feeling": "satisfied",
+      "facts": [
+        "elliot.f16",
+        "elliot.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l18",
+      "date": "2025-10-25",
+      "what": "Evening at home with Hana, trading the witching hour in shifts.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Both ate dinner while it was still warm.",
+      "feeling": "close",
+      "facts": [
+        "elliot.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l19",
+      "date": "2025-10-26",
+      "what": "Slow Sunday morning stroller walk on the boardwalk, with the squeaky front wheel.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Forty minutes of fresh air.",
+      "feeling": "refreshed",
+      "facts": [
+        "elliot.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l20",
+      "date": "2025-10-26",
+      "what": "Elliot and Hana go over next week's plan while Theo naps, including who does the weekday mornings once Judith is back.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "They settled on a plan for the week.",
+      "feeling": "organized",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w9.l21",
+      "date": "2025-10-26",
+      "what": "Chili for dinner, his one reliable recipe, and an early night.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Leftovers in the fridge for Monday.",
+      "feeling": "satisfied",
+      "facts": [
+        "elliot.f36"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w9.n01",
+      "subject": "elliot",
+      "attribute": "puzzle_progress",
+      "value": "has placed the lighthouse puzzle's border and most of the sky",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w9.n02",
+      "subject": "judith",
+      "attribute": "luggage",
+      "value": "arrived with two suitcases and a box of label tape",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w9.n03",
+      "subject": "theo",
+      "attribute": "new_skill",
+      "value": "started grabbing the egret lovey with both hands",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w9.n04",
+      "subject": "elliot",
+      "attribute": "training_progress",
+      "value": "finished the first module of the online reassessment-software training",
+      "valid_from": "2025-10-22",
+      "valid_to": "2025-11-15",
+      "superseded_by": "elliot.w12.n05",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w9.n05",
+      "subject": "elliot",
+      "attribute": "weekend_plan",
+      "value": "plans a quiet weekend at home while Judith is away",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

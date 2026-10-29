@@ -1,0 +1,137 @@
+{
+  "session_id": "arjun.s52",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Ops management midterm is Oct 23",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ops management midterm is oct 23",
+      "support_quote": ""
+    },
+    {
+      "text": "Mother's Sunday call about internships happened tonight",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "cast.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom's sunday call about internships already happened tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom's Sunday call refers to the weekly internship check-in",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom's sunday call about internships already happened tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun told his mother about the recommendation letter",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "told her about th letter so she's calm for once",
+      "support_quote": ""
+    },
+    {
+      "text": "Case comp is the Nov 8 regional competition with team of four",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its for th nov 8 regional case comp, team of four",
+      "support_quote": ""
+    },
+    {
+      "text": "Case comp reference term used",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "th nov 8 regional case comp",
+      "support_quote": ""
+    },
+    {
+      "text": "Usually up until 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill probably be up till 2 as usual finishing slides",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun advises teammate to sleep while staying up late himself",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tell him to stop pulling all nighters, sleep matters, we have weeks left",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the call with his mom went well",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "cast.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Glad that call went well.",
+      "support_quote": "my mom's sunday call about internships already happened tonight"
+    },
+    {
+      "text": "Assistant references his midterm",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f40",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the slides and the midterm!",
+      "support_quote": "ops management midterm is oct 23"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "ill probably be up till 2 as usual finishing slides 💀 can you draft: tell him to stop pulling all nighters, sleep matters, we have weeks left"
+    },
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "its for th nov 8 regional case comp, team of four"
+    },
+    {
+      "item_id": "arjun.f40",
+      "present": true,
+      "quote": "ops management midterm is oct 23"
+    },
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "its almost midnight and ill probably be up till 2 as usual finishing slides"
+    },
+    {
+      "item_id": "cast.f36",
+      "present": true,
+      "quote": "my mom's sunday call about internships already happened tonight"
+    }
+  ],
+  "sensitive": []
+}

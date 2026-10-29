@@ -1,0 +1,117 @@
+{
+  "session_id": "noemi.s57",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "subnetting and port numbers are her weak topics",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its my weak spot along with port numbers",
+      "support_quote": ""
+    },
+    {
+      "text": "uses a practice-test app and secondhand tabbed study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "been using a practice-test app and a secondhand study guide with tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "exam rescheduled to Dec 6",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "exam is dec 6 now so a little more breathing room",
+      "support_quote": ""
+    },
+    {
+      "text": "averages 71% on practice exams, pass line about 75",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im averaging like 71% on practice exams and pass line is around 75",
+      "support_quote": ""
+    },
+    {
+      "text": "'the boss fight' means her certification exam",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the boss fight wont be this nice",
+      "support_quote": ""
+    },
+    {
+      "text": "she is about 4 points from the pass line",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You're about 4 points from the pass line, so this is very fixable.",
+      "support_quote": "im averaging like 71% on practice exams and pass line is around 75"
+    },
+    {
+      "text": "port numbers are her other weak spot",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Bonus for your other weak spot",
+      "support_quote": "its my weak spot along with port numbers"
+    },
+    {
+      "text": "practice scores are lagging",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If your practice scores are lagging",
+      "support_quote": "im averaging like 71% on practice exams and pass line is around 75"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "its my weak spot along with port numbers"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "been using a practice-test app and a secondhand study guide with tabbed chapters"
+    },
+    {
+      "item_id": "noemi.f08",
+      "present": true,
+      "quote": "exam is dec 6 now so a little more breathing room"
+    },
+    {
+      "item_id": "noemi.f10",
+      "present": true,
+      "quote": "im averaging like 71% on practice exams and pass line is around 75"
+    },
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "the boss fight wont be this nice"
+    }
+  ],
+  "sensitive": []
+}

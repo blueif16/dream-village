@@ -1,0 +1,92 @@
+{
+  "session_id": "arjun.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "stressing about Ashby's letter",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok so im lowkey stressing about ashby's letter",
+      "support_quote": ""
+    },
+    {
+      "text": "Ashby has Thursday 2-3:30 office hours, door closed means knock anyway",
+      "about": "stephen",
+      "kind": "fact",
+      "item_id": "arjun.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he has office hours thursdays 2-3:30, door closed means knock anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "works front desk at the career center",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "during my front desk shift at the career center",
+      "support_quote": ""
+    },
+    {
+      "text": "prefers not to rehearse aloud but wants a polished written email",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i dont want to practice it out loud tho, weird. can you just write me a really polished follow up email template instead",
+      "support_quote": ""
+    },
+    {
+      "text": "plans to see Ashby Thursday",
+      "about": "arjun",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "A few tips for Thursday:",
+      "support_quote": "planning to check in then"
+    },
+    {
+      "text": "applying for summer 2026 internships with rolling deadlines",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "rolling deadlines give you room",
+      "support_quote": "no hard deadline yet, just summer 2026 internships so rolling"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.r04",
+      "present": true,
+      "quote": "ok so im lowkey stressing about ashby's letter"
+    },
+    {
+      "item_id": "arjun.f56",
+      "present": true,
+      "quote": "he has office hours thursdays 2-3:30, door closed means knock anyway"
+    },
+    {
+      "item_id": "arjun.f07",
+      "present": true,
+      "quote": "been rehearsing the ask in my head during my front desk shift at the career center"
+    },
+    {
+      "item_id": "arjun.i01",
+      "present": true,
+      "quote": "i dont want to practice it out loud tho, weird. can you just write me a really polished follow up email template instead"
+    }
+  ],
+  "sensitive": []
+}

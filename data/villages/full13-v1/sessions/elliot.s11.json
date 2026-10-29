@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s11",
+  "principal": "elliot",
+  "start": "2025-09-06T02:22:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "2:22 am update. rate my parenting: i put the diaper on backwards, twice 🙃 and now he's refusing his bottle. is bottle refusal a big deal or am i just being dramatic? (typing one-handed sorry)"
+    },
+    {
+      "role": "assistant",
+      "text": "Backwards diapers happen to everyone, so that's a normal night. Occasional bottle refusal is usually common in babies, especially when they're tired, gassy, or the formula or nipple is new. Try a slightly different position, a calmer room, and offering small amounts more often. It's worth calling the pediatrician if he refuses several feeds in a row, has fewer wet diapers than usual, seems unusually sleepy, or has a fever. If he's still taking some milk and has normal wet diapers, it's usually just a rough night. Want me to help with anything while you're up?"
+    },
+    {
+      "role": "user",
+      "text": "ok good, thanks. so since i'm up anyway: can you make a quick printable sleep and feeding cheat sheet for my wife and the grandparents? one page, easy to skim. i take the 2 am feed and hana takes the 5 am, so it should list that. also he's on the new gentle formula that dr. fong recommended for his fussiness, put that on there"
+    },
+    {
+      "role": "assistant",
+      "text": "Absolutely. Here's a one-page design:\n\n[Image: A clean, portrait-orientation printable page with a soft blue header reading \"Baby's Sleep & Feeding Cheat Sheet\". Below it are three rounded boxes with icons.\n\nBox 1, \"Night Feeds\": a small moon icon, \"2 a.m. feed: Dad\" and \"5 a.m. feed: Mom\", with a blank line for the time of the last feed.\n\nBox 2, \"Formula\": a bottle icon, \"Now on the gentle formula recommended by Dr. Fong for fussiness. Please don't swap brands.\" Below it, a blank line for ounces per feed.\n\nBox 3, \"Sleep\": a cloud icon and blank lines for nap times.\n\nThe footer has a \"Notes / questions\" area with ruled lines.]\n\nWant me to add anything else, like diaper counts or an emergency contact section?"
+    },
+    {
+      "role": "user",
+      "text": "yes please. add a sleep note that he sleeps in the bassinet beside our bed, and leave a spot where i can add a crib later. also a diaper tally would be great"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the updated version:\n\n[Image: The same one-page sheet with the blue header, now with an expanded \"Sleep\" box. It reads \"Sleeps in: bassinet beside our bed\" with a checked box, and underneath an empty unchecked box labeled \"Crib (update date: ____)\" so you can fill it in later. Beside the nap lines is a small \"Safe sleep: on his back, nothing in the sleep space\" reminder.\n\nA new \"Diaper Tally\" strip runs across the bottom with two rows of small circles labeled \"Wet\" and \"Dirty\" for tick marks, plus a \"Date\" line. The Night Feeds and Formula boxes are unchanged.]\n\nIt's ready to print on regular letter paper. If you'd like, I can make a larger-font version for easier reading in a dim room."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "impression_id": "jun.i01",
+  "evidence_sessions": [
+    "jun.s05",
+    "jun.s06",
+    "jun.s15",
+    "jun.s19",
+    "jun.s22",
+    "jun.s23",
+    "jun.s41",
+    "jun.s44"
+  ],
+  "inferred": [
+    {
+      "statement": "Jun repeatedly puts off paperwork, tax, permit and receipt-sorting tasks (permit form open for two weeks, unopened permit packet, shoebox of receipts, sales tax 'later') while the hands-on cooking and selling moves ahead.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s05",
+        "jun.s06",
+        "jun.s15",
+        "jun.s19",
+        "jun.s22",
+        "jun.s23",
+        "jun.s41",
+        "jun.s44"
+      ]
+    },
+    {
+      "statement": "Jun finds numbers and admin stuff draining and often asks whether he can just guess totals; he takes it well when the assistant steers him to a quick, simple method instead.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s06",
+        "jun.s15",
+        "jun.s19",
+        "jun.s05"
+      ]
+    },
+    {
+      "statement": "Jun wants answers short, bulleted and ready to use (checklists, 'short version pls', 'explain like I'm tired'), often because he is squeezed for time before a cafe shift or tired.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s05",
+        "jun.s06",
+        "jun.s15",
+        "jun.s19",
+        "jun.s23",
+        "jun.s41",
+        "jun.s44"
+      ]
+    },
+    {
+      "statement": "Jun is building a growing home-based lumpia business ('Lola's Roll') with real momentum: sellouts, scaling batches, a market waitlist, and holiday preorders, and he pursues it as a real source of income.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s06",
+        "jun.s19",
+        "jun.s22",
+        "jun.s41",
+        "jun.s44"
+      ]
+    },
+    {
+      "statement": "Jun tends to over-soften or undersell his messages to others (apologetic, joking, 'no pressure') and relies on the assistant to make them sound confident yet friendly; he also tends to describe his progress as further along than it is.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s22",
+        "jun.s23"
+      ]
+    },
+    {
+      "statement": "Jun readily shares sensitive financial or ID details (owner ID number, bank routing and account numbers) in chats or draft emails without much caution, and accepts correction when the assistant flags it.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s05",
+        "jun.s22"
+      ]
+    },
+    {
+      "statement": "Jun's venture depends on a close circle of helpers (his mom taking coworker orders, Paolo helping with prep, Linh setting up the shared sheet), and Jun ends up doing much of the labor when help is unreliable.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s06",
+        "jun.s15",
+        "jun.s23",
+        "jun.s44"
+      ]
+    },
+    {
+      "statement": "Jun's finances are tight, with reduced cafe hours and a $950 rent worry, which makes lumpia income feel pressing.",
+      "strength": "weak",
+      "sessions": [
+        "jun.s41"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Jun repeatedly puts off paperwork, tax, permit and receipt-sorting tasks (permit form open for two weeks, unopened permit packet, shoebox of receipts, sales tax 'later') while the hands-on cooking and selling moves ahead.",
+  "rationale": "The reader's strong statements about Jun repeatedly putting off paperwork, tax and receipt tasks and finding numbers draining capture the stalling on forms and numbers. The charm-through-people-problems half is only loosely hinted at, but the core avoidance pattern matches."
+}

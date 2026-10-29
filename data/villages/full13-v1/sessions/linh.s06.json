@@ -1,0 +1,47 @@
+{
+  "id": "linh.s06",
+  "principal": "linh",
+  "start": "2025-08-30T23:16:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok can u help me plan tomorrow pls. its sunday and i have to get through a lot"
+    },
+    {
+      "role": "assistant",
+      "text": "Of course! Tell me what's on your plate: fixed commitments with times, what you need to study, and anything else you need to fit in. I'll turn it into a schedule."
+    },
+    {
+      "role": "user",
+      "text": "ok so cafe shift 6:30-1, then 2-5 at the front desk at my moms nail salon (lotus nails). i finished the blue-highlighted skeleton chapter at the library today so i want to review it once, maybe flashcards, 600 card deck"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work finishing the skeleton chapter! Here's a first pass:\n\n- 6:30-1:00 cafe shift\n- 1:00-1:50 travel and a real lunch (this is a tight gap, so I'll suggest something quick below)\n- 2:00-5:00 front desk at the salon\n- Evening: review the skeleton chapter plus flashcards\n\nHow does your evening look, and when do you want to stop for the night?"
+    },
+    {
+      "role": "user",
+      "text": "evening is free but i need to help my mom with dinner stuff and my sister is on night shifts so i should prep her a breakfast to take.. and i keep skipping lunch so i need things i can eat fast"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to build that in. Quick eats are the way to go with a 50-minute gap:\n\n**Fast meals**\n- Breakfast before the cafe: overnight oats or a banana plus peanut butter toast\n- Lunch at 1:00: a rice bowl or wrap you can eat in 10 minutes. Prep it tonight so it's ready to grab\n- Snack at the salon desk: nuts, fruit or a granola bar\n\n**Sunday plan**\n- 5:45 a.m.: eat breakfast\n- 6:30-1:00: cafe shift\n- 1:00-1:15: eat lunch first, before anything else\n- 2:00-5:00: salon desk (flashcards in slow moments)\n- 5:00-6:00: help with dinner and prep your sister's breakfast\n- 6:30-7:30: dinner\n- 7:30-8:30: skeleton chapter review\n- 8:30-9:00: flashcards, then wind down\n\nWant me to color-code this to match your notes?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. we had bun bo hue tonight so theres leftover broth, can that be my sisters breakfast. then i can eat whatever after"
+    },
+    {
+      "role": "assistant",
+      "text": "Great idea. The leftover broth reheats well, so it makes an easy breakfast for your sister. Pack it in a container, with noodles and herbs kept separate so they don't go soggy.\n\nColor-coded plan:\n\n🟦 **Blue (skeleton)**\n- 7:30-8:30 p.m. chapter review\n- 8:30-9:00 p.m. flashcards\n\n🟩 **Green (meals)**\n- 5:45 a.m. breakfast\n- 1:00 p.m. lunch\n- 5:00 p.m. pack the broth for your sister\n- 6:30 p.m. your dinner\n\n🟨 **Yellow (fixed shifts)**\n- 6:30-1:00 cafe\n- 2:00-5:00 salon desk\n\nTonight, prep your lunch and put the broth in a container so tomorrow is smooth. You've got this!"
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good, enjoy! Good luck tomorrow ☕"
+    }
+  ]
+}

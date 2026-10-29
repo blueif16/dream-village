@@ -1,0 +1,112 @@
+{
+  "session_id": "noemi.s28",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "works Mon-Fri 2pm to 10:30pm",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work mon-fri 2pm to 10:30pm",
+      "support_quote": ""
+    },
+    {
+      "text": "uses practice test app and secondhand tabbed study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i use a practice test app plus a secondhand study guide with tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "port numbers are a weak topic",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "port numbers are still shaky",
+      "support_quote": ""
+    },
+    {
+      "text": "usually asleep by 1 and up around 9",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im usually asleep by 1 and up around 9",
+      "support_quote": ""
+    },
+    {
+      "text": "works 2 p.m. to 10:30 p.m.",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With work 2 p.m. to 10:30 p.m. and you up around 9, mornings are your window.",
+      "support_quote": "i work mon-fri 2pm to 10:30pm"
+    },
+    {
+      "text": "wakes around 9",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you up around 9",
+      "support_quote": "im usually asleep by 1 and up around 9"
+    },
+    {
+      "text": "ports are shaky for her",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Ports get about 25-30 minutes of most sessions, which is the heaviest weighting in the plan.",
+      "support_quote": "port numbers are still shaky so weight those heavier pls"
+    },
+    {
+      "text": "uses a tabbed study guide and practice app",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "then read one tabbed chapter in the guide",
+      "support_quote": "i use a practice test app plus a secondhand study guide with tabbed chapters"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f02",
+      "present": true,
+      "quote": "i work mon-fri 2pm to 10:30pm so it has to be mornings"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "i use a practice test app plus a secondhand study guide with tabbed chapters"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "port numbers are still shaky so weight those heavier pls"
+    },
+    {
+      "item_id": "noemi.f41",
+      "present": true,
+      "quote": "im usually asleep by 1 and up around 9"
+    }
+  ],
+  "sensitive": []
+}

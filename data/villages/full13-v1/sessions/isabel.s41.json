@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s41",
+  "principal": "isabel",
+  "start": "2025-11-16T16:43:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "explain net price vs sticker price like im a tired person not a parent. also how do i actually read the results from a net price calculator for out of state schools"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Sticker price** = the published cost of attendance (tuition, fees, housing, food, books, travel). Almost nobody pays exactly that.\n\n**Net price** = sticker price minus grants and scholarships you don't repay. It does NOT subtract loans or work-study. Those are help you still owe or earn.\n\n**Reading a calculator result:**\n1. Find the line called \"estimated net price\" or \"estimated cost after aid.\" Ignore the big sticker number at the top.\n2. Check what's included: grants vs. loans vs. work-study. If loans are baked into the number, the real net price is lower than shown but you'd be borrowing.\n3. Look at the housing assumption. Living on campus vs. at home changes things a lot.\n4. Out-of-state: public schools often give little need-based aid to non-residents, so the net price can sit close to sticker. Private schools tend to give more institutional aid.\n5. These are estimates. Final offers can differ, and many calculators show a range.\n\nWant me to lay out a comparison template?"
+    },
+    {
+      "role": "user",
+      "text": "yes. the list is 12 schools, 6 out of state, 4 UC, and bayshore state + one in-state poly as safeties so i need numbers for each. its for the mom sheet"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a one-row-per-school layout:\n\n| School | Type (out-of-state / UC / safety) | Sticker cost | Grants & scholarships | **Net price** | Loans offered | Work-study | Notes |\n\nTips:\n- Group rows into three blocks: out-of-state (6), UC (4), safeties (2).\n- Use the same housing assumption everywhere (on campus) so rows compare fairly.\n- Add a bottom row with the average net price per block.\n- Keep Notes to a few words, like \"calculator gave a range.\"\n\nI can turn it into a spreadsheet layout or a printable one-pager. Which do you want?"
+    },
+    {
+      "role": "user",
+      "text": "printable. format it like grace's grading rubrics, she'll only take it seriously if it looks like one. she texted me this btw: \"show me the numbers at the table after Mass\" lol ok. whatever. also sinigang is waiting at home, lola cora's been cooking all day so i have like an hour"
+    },
+    {
+      "role": "assistant",
+      "text": "Rubric-style one-pager:\n\n**Title:** College Cost Comparison: Net Price by School\n\n**Criteria (columns):** Sticker cost | Grants/scholarships | Net price | Loans | Work-study | Score\n\n**Scoring bands (like a rubric):**\n- 4 (Exceeds): net price within your family's stated budget without loans\n- 3 (Meets): within budget with modest loans\n- 2 (Approaching): over budget; needs outside scholarships\n- 1 (Below): net price not realistic\n\n**Layout:** Header with name and date. One row per school in three sections. A bottom summary row for each section's average. A short \"Key takeaway\" box with 2 sentences.\n\nAdd your family's budget number to anchor the scoring. For the table tonight, bring a printed copy and your calculator results.\n\nWith an hour, do the 6 out-of-state schools first, since those are the ones that will get questioned."
+    },
+    {
+      "role": "user",
+      "text": "ok. some calculators ask for ssn and parent income. my ssn is 547-82-3916, should i put it in"
+    },
+    {
+      "role": "assistant",
+      "text": "Don't enter it. Net price calculators are meant to be anonymous estimates and shouldn't need your Social Security number. If one asks for it, close it and use the school's standard calculator, or the federal one.\n\nYou'll only need your SSN on the actual FAFSA or CSS Profile, on official sites. For the calculators, use approximate income and assets. Your parents can give you ranges.\n\nFill the estimates in, then drop the results into the sheet."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck at the table. Enjoy the sinigang."
+    }
+  ]
+}

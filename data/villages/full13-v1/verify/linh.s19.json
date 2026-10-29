@@ -1,0 +1,147 @@
+{
+  "session_id": "linh.s19",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao paid for Linh's new bike lock",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.w3.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thao paid for my new bike lock",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh rides a commuter bike",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she covered it for my commuter bike",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is a night nurse who is always tired",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "shes a night nurse so shes always tired",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh opened at the cafe at 6:30 on Saturday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i opened at 6:30 today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh gets a staff discount at the cafe and can tell which beans are over roasted",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i get staff discount and i can tell which ones arent over roasted",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh and Thao get phở at Phở Bến Thành after Thao's night shifts",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we usually get pho at phở bến thành after her night shifts",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants a short reply that avoids Thao fussing",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "something that doesnt make her start fussing more",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "short pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is a night nurse who is tired",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "quick options for a tired night nurse",
+      "support_quote": "shes a night nurse so shes always tired"
+    },
+    {
+      "text": "Linh gets staff discount on beans at the cafe",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f28",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "buying the beans with your discount",
+      "support_quote": "i get staff discount"
+    },
+    {
+      "text": "Linh and Thao go for phở together",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Covering the phở next time you go together is a nice extra",
+      "support_quote": "we usually get pho at phở bến thành after her night shifts"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i05",
+      "present": true,
+      "quote": "can u help me reply. short pls, something that doesnt make her start fussing more"
+    },
+    {
+      "item_id": "linh.f31",
+      "present": true,
+      "quote": "we usually get pho at phở bến thành after her night shifts so maybe i could treat her to that too?"
+    },
+    {
+      "item_id": "linh.f09",
+      "present": true,
+      "quote": "she covered it for my commuter bike"
+    },
+    {
+      "item_id": "linh.f03",
+      "present": true,
+      "quote": "i opened at 6:30 today"
+    },
+    {
+      "item_id": "linh.f27",
+      "present": true,
+      "quote": "i can tell which ones arent over roasted"
+    }
+  ],
+  "sensitive": []
+}

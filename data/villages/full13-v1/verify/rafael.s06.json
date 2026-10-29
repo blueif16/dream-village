@@ -1,0 +1,359 @@
+{
+  "session_id": "rafael.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "The stand's permanent spot is the new lot, opening Saturday",
+      "about": "rafael",
+      "kind": "reference_use",
+      "item_id": "rafael.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "first night at the new lot is saturday",
+      "support_quote": ""
+    },
+    {
+      "text": "The stand will no longer be at the Sunday Delgado Park market",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f08",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "we r not at the sunday market anymore after this weekend",
+      "support_quote": ""
+    },
+    {
+      "text": "Rafael hauls the canopy and generator and runs the griddle",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i gotta haul the canopy and generator saturday and run the griddle",
+      "support_quote": ""
+    },
+    {
+      "text": "Gladys's ITIN is 912-70-4486, used on stand paperwork",
+      "about": "gladys",
+      "kind": "fact",
+      "item_id": "rafael.w6.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom gave me the number, its ITIN 912-70-4486",
+      "support_quote": ""
+    },
+    {
+      "text": "Rafael's mom gave him the tax ID number",
+      "about": "gladys",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "type in the number your mom gave you",
+      "support_quote": "my mom gave me the number, its ITIN 912-70-4486"
+    },
+    {
+      "text": "Stand opens at the new lot Saturday",
+      "about": "rafael",
+      "kind": "reference_use",
+      "item_id": "rafael.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Find us at our new lot, Thursday–Sunday, 5–10 PM.",
+      "support_quote": "first night at the new lot is saturday"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "conflict",
+      "item_id": "rafael.f08",
+      "detail": "planned: The stand will no longer be at the Sunday Delgado Park market"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 uses the name 'Henríquez' before the user said it"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 4 uses the name 'Delgado Park' before the user said it"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 4 uses the name 'Park' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "rafael.r02",
+      "present": true,
+      "quote": "first night at the new lot is saturday"
+    },
+    {
+      "item_id": "rafael.f08",
+      "present": true,
+      "quote": "add that we r not at the sunday market anymore after this weekend, dont want ppl going to delgado looking for us"
+    },
+    {
+      "item_id": "rafael.f10",
+      "present": true,
+      "quote": "i gotta haul the canopy and generator saturday and run the griddle"
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "present": true,
+      "quote": "my mom gave me the number, its ITIN 912-70-4486"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "my mom gave me the number, its ITIN 912-70-4486",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

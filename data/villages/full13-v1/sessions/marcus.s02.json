@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s02",
+  "principal": "marcus",
+  "start": "2025-08-28T14:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u write a text to my classmate fatima. i fell asleep in biomechanics today lol the lecture hall was so warm and i got off shift at 6 and barely slept 😮‍💨"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Quick question so I get it right: do you want to ask for her notes from today only, or all of them going forward? Here's a casual version for today:\n\n\"hey Fatima, i totally nodded off in biomechanics today, that room was an oven and i was running on no sleep. any chance you can share your notes doc from today? i'll owe you one\"\n\nWant me to tweak the tone?"
+    },
+    {
+      "role": "user",
+      "text": "make it all of them. like the google doc u shared for ex phys and biomechanics. also ask if she has the stats 120 syllabus link, i lost mine"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, here you go:\n\n\"hey Fatima, i fell asleep in biomechanics today (that room was an oven and i had no sleep, my bad). could you share your google doc notes again like you did for ex phys and biomechanics? also do you have the link to the stats 120 syllabus? i lost mine. thank you, you're a lifesaver\"\n\nIf you want it shorter, I can trim it to two lines."
+    },
+    {
+      "role": "user",
+      "text": "short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "\"hey Fatima, fell asleep in biomechanics today lol. can you share your google doc notes for ex phys and biomechanics again? and the stats 120 syllabus link if you have it. thanks!!\""
+    }
+  ]
+}

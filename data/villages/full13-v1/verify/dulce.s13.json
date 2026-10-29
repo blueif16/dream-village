@@ -1,0 +1,163 @@
+{
+  "session_id": "dulce.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "bought a used $210 phone from the Plaza Marisol repair shop with a mint green case",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "finally got the used phone, 210 from the repair shop at plaza marisol, mint green case",
+      "support_quote": ""
+    },
+    {
+      "text": "phone fund goal met; saving for $60 charger and winter jacket",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "next money goes to a 60 dollar portable charger and then a winter jacket",
+      "support_quote": ""
+    },
+    {
+      "text": "the phone fund is her savings toward a phone",
+      "about": "dulce",
+      "kind": "reference_use",
+      "item_id": "dulce.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the phone fund is basically done lol",
+      "support_quote": ""
+    },
+    {
+      "text": "$20 of each check goes to phone bill, mom's rule",
+      "about": "yesenia",
+      "kind": "fact",
+      "item_id": "dulce.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "20 bucks of each check goes to my phone bill, my mom's rule",
+      "support_quote": ""
+    },
+    {
+      "text": "protects her money from group boba, proud of paying herself",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no group boba this time. i paid for the phone all by myself, zero boba money",
+      "support_quote": ""
+    },
+    {
+      "text": "making a Spanish menu cheat sheet because she slows tickets",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.w12.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im making a cheat sheet of the spanish menu names for taqueria colima",
+      "support_quote": ""
+    },
+    {
+      "text": "wants mom's and Rafael's approval of the phone",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "do u think my cousin rafael will think its cool too",
+      "support_quote": ""
+    },
+    {
+      "text": "Rafael is her cousin",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "my cousin rafael",
+      "support_quote": ""
+    },
+    {
+      "text": "paycheck is about $130 every 2 weeks",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I make like 130 every 2 weeks",
+      "support_quote": ""
+    },
+    {
+      "text": "assistant says she has $110 left per check after phone bill",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With $110 left per check:",
+      "support_quote": "20 bucks of each check goes to my phone bill, my mom's rule"
+    },
+    {
+      "text": "assistant says she paid for the phone herself",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "paying for it entirely yourself is a real accomplishment",
+      "support_quote": "i paid for the phone all by myself"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "dulce.f10",
+      "present": true,
+      "quote": "finally got the used phone, 210 from the repair shop at plaza marisol, mint green case. the old cracked one is retired"
+    },
+    {
+      "item_id": "dulce.f12",
+      "present": true,
+      "quote": "next money goes to a 60 dollar portable charger and then a winter jacket. how many paychecks does that take"
+    },
+    {
+      "item_id": "dulce.i02",
+      "present": true,
+      "quote": "i paid for the phone all by myself, zero boba money, deadass proud of that lol"
+    },
+    {
+      "item_id": "dulce.i06",
+      "present": true,
+      "quote": "im making a cheat sheet of the spanish menu names for taqueria colima bc i keep slowing down the tickets"
+    },
+    {
+      "item_id": "dulce.i07",
+      "present": true,
+      "quote": "i wanna text my mom a pic of the phone saying i paid for it myself"
+    },
+    {
+      "item_id": "dulce.r03",
+      "present": true,
+      "quote": "the phone fund is basically done lol"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

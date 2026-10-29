@@ -1,0 +1,142 @@
+{
+  "session_id": "linh.s84",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh told her sister she might do public health or nutrition instead of pharmacy",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i told my sister i might do public health or nutrition instead of pharmacy",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh worked the nail salon front desk today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "worked the nail salon front desk today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's mom brought up pharmacy again",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "linh.w11.n05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom brought up pharmacy again",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh walked the Ulloa boardwalk",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "went for a quiet walk on the ulloa boardwalk earlier",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is taking anatomy, gen chem 1 and online stats",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im taking anatomy and gen chem 1 rn, stats online",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh plans Intro to Nutrition in spring",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "planning intro to nutrition in spring",
+      "support_quote": ""
+    },
+    {
+      "text": "the pharmacy talk with mom is still not happening",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the pharmacy talk is still not happening",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh asks for short, bulleted answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is drifting toward nutrition",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i might do public health or nutrition instead of pharmacy",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is taking anatomy, gen chem I and stats, planning nutrition in spring",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Anatomy & Physiology I (then II)",
+      "support_quote": "im taking anatomy and gen chem 1 rn, stats online"
+    },
+    {
+      "text": "A quiet walk helped Linh think it through",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A quiet walk is a good way to think it through.",
+      "support_quote": "went for a quiet walk on the ulloa boardwalk earlier"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f15",
+      "present": true,
+      "quote": "i told my sister i might do public health or nutrition instead of pharmacy"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "worked the nail salon front desk today and my mom brought up pharmacy again"
+    },
+    {
+      "item_id": "linh.f36",
+      "present": true,
+      "quote": "went for a quiet walk on the ulloa boardwalk earlier"
+    },
+    {
+      "item_id": "linh.r04",
+      "present": true,
+      "quote": "the pharmacy talk is still not happening.. how do i prepare for it"
+    }
+  ],
+  "sensitive": []
+}

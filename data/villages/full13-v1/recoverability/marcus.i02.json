@@ -1,0 +1,88 @@
+{
+  "impression_id": "marcus.i02",
+  "evidence_sessions": [
+    "marcus.s13",
+    "marcus.s24",
+    "marcus.s28",
+    "marcus.s32",
+    "marcus.s39",
+    "marcus.s42"
+  ],
+  "inferred": [
+    {
+      "statement": "Marcus quietly gives his mother money and goods while working to keep her from seeing the cost or treating it as a loan she records in her notebook.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s24",
+        "marcus.s28",
+        "marcus.s32",
+        "marcus.s39",
+        "marcus.s42"
+      ]
+    },
+    {
+      "statement": "Marcus hides his own exhaustion and strain from his mom, steering conversation toward her week instead of his.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s24",
+        "marcus.s39"
+      ]
+    },
+    {
+      "statement": "Marcus is stretched thin on money and sleep, juggling night shifts, classes and lifting, and tracks his budget closely, cutting costs like supplements.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s13",
+        "marcus.s28",
+        "marcus.s39",
+        "marcus.s42"
+      ]
+    },
+    {
+      "statement": "Marcus prefers quick, concise answers, opening with 'real quick' and asking for 'short version' or just the final text, and he signals approval with 'ok that helped'.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s13",
+        "marcus.s24",
+        "marcus.s28",
+        "marcus.s32",
+        "marcus.s39",
+        "marcus.s42"
+      ]
+    },
+    {
+      "statement": "Marcus is somewhat casual about sharing sensitive identifiers like his license and SSN in chat, and he gets practical help with forms.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s13",
+        "marcus.s28"
+      ]
+    },
+    {
+      "statement": "Marcus is decisive about his own wording and choices, trimming drafts and keeping lines like the Trevor debt even when the assistant suggests dropping them.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s24",
+        "marcus.s32"
+      ]
+    },
+    {
+      "statement": "Marcus rationalizes some discretionary spending, such as calling $240 sneakers an investment, even while tightly budgeting elsewhere.",
+      "strength": "weak",
+      "sessions": [
+        "marcus.s28"
+      ]
+    },
+    {
+      "statement": "Marcus wants to pay back small debts to friends like Trevor and relies on him for rides, showing a sense of reciprocity and a close friendship.",
+      "strength": "weak",
+      "sessions": [
+        "marcus.s32",
+        "marcus.s42"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Marcus quietly gives his mother money and goods while working to keep her from seeing the cost or treating it as a loan she records in her notebook.",
+  "rationale": "The first inferred statement, rated strong, says Marcus quietly gives his mother money and goods while hiding the cost from her. The second, rated moderate, says he hides his own exhaustion and strain from her. Together they match the intended trait of putting his mom's needs first without telling her what it costs him."
+}

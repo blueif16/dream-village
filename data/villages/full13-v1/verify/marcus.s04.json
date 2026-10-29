@@ -1,0 +1,363 @@
+{
+  "session_id": "marcus.s04",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Picks orders on night shift at Ridgeline",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "worked straight thru labor day on the night shift at ridgeline, i pick orders",
+      "support_quote": ""
+    },
+    {
+      "text": "Earned time and a half for Labor Day",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.w2.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got time and a half for it so the check is bigger than usual",
+      "support_quote": ""
+    },
+    {
+      "text": "Rent share $1,050 due 1st via Marisol portal",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my share is 1050 due the 1st thru the marisol portal",
+      "support_quote": ""
+    },
+    {
+      "text": "Savings goal $1,200, at about $480",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "goal is 1200 and im like 480 in",
+      "support_quote": ""
+    },
+    {
+      "text": "Does not want a lecture, wants to decide himself",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no lecture pls my roommate already did the whole budget talk lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Worked the holiday, earning more",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.w2.n04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "working the holiday should make a noticeable difference",
+      "support_quote": "got time and a half for it so the check is bigger than usual"
+    },
+    {
+      "text": "Rent share $1,050 via the portal",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Rent share: $1,050 to the portal first.",
+      "support_quote": "my share is 1050 due the 1st thru the marisol portal"
+    },
+    {
+      "text": "Cushion goal $1,200, about $480 saved",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Cushion: $600, which takes you from about $480 to roughly $1,080",
+      "support_quote": "goal is 1200 and im like 480 in"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f03",
+      "present": true,
+      "quote": "worked straight thru labor day on the night shift at ridgeline, i pick orders"
+    },
+    {
+      "item_id": "marcus.w2.n04",
+      "present": true,
+      "quote": "got time and a half for it so the check is bigger than usual"
+    },
+    {
+      "item_id": "marcus.f11",
+      "present": true,
+      "quote": "rent first. my share is 1050 due the 1st thru the marisol portal"
+    },
+    {
+      "item_id": "marcus.f16",
+      "present": true,
+      "quote": "goal is 1200 and im like 480 in"
+    },
+    {
+      "item_id": "marcus.i01",
+      "present": true,
+      "quote": "no lecture pls my roommate already did the whole budget talk lol"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

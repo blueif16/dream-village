@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s18",
+  "principal": "isabel",
+  "start": "2025-09-26T21:03:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so coach just named me mechanical subteam lead today. over a sophomore who wanted it. genuinely not sure how to not be weird about it"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats, that's a real vote of confidence. Two things matter here: how you run the team, and how you handle the person who lost out. Want both, or one first? A quick question: how big is the mechanical subteam, and what are you building right now?"
+    },
+    {
+      "role": "user",
+      "text": "like 6 people. drivetrain mostly. we meet tue/thu 3:30-6 in room C7. i want to plan my first lead agenda for those. short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a first-week template for the 3:30-6 block:\n\n**3:30-3:40 Huddle.** Say what's done, what's blocked, and what today's goal is. Write it on the whiteboard.\n**3:40-5:30 Build time.** Pair people up and give each pair one clear task with a finish line, like \"bracket fits and is tested.\" Rotate pairs so nobody gets stuck on grunt work.\n**5:30-5:50 Test or check.** Even a quick fit check keeps momentum.\n**5:50-6:00 Wrap.** Log what got done and set the next session's first task.\n\nFor Tuesday, ask each person what they're most confident in and what they want to learn. Thursday, check progress against the Tuesday goals. Keep the whiteboard task list visible so no one is relying on you to remember everything."
+    },
+    {
+      "role": "user",
+      "text": "ok good. one thing tho i cant stay late after. i have to get home for dishes and check lola cora actually ate her lunch on days my dad's on shift. so i cant do like 7pm cleanup stuff"
+    },
+    {
+      "role": "assistant",
+      "text": "That works fine. Build it into the structure so it's a feature and not a gap:\n\n- Hold the wrap-up at 5:45 so you're out right at 6.\n- Assign a cleanup owner each session, rotating through the team. It spreads responsibility and gives people a stake.\n- Put the next-session plan on the whiteboard or in a shared doc so work continues without you hovering.\n\nA lead who runs tight meetings and ends on time usually earns more respect than one who stays late."
+    },
+    {
+      "role": "user",
+      "text": "ok. now the sophomore. she really wanted it and she's good with the cad stuff. what do i even say"
+    },
+    {
+      "role": "assistant",
+      "text": "Talk to her privately and soon, before it turns into something awkward. Something like:\n\n\"Hey, I know you wanted lead, and I'd have wanted it too. Your CAD skills are a big reason this subteam works, and I want you owning the CAD side. Can you be the one who signs off on the designs before we build?\"\n\nWhy it works:\n- It names the situation without making it a big thing.\n- It doesn't claim you earned it more, and it doesn't apologize for the role.\n- It gives her a real job with authority, not a consolation prize.\n\nThen follow through: ask her opinion in front of the group, and credit her work out loud. If she's cool with you at first, give it time. You don't need her to be happy right away, just treated fairly."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck Tuesday. You've got this."
+    }
+  ]
+}

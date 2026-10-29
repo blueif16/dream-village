@@ -1,0 +1,132 @@
+{
+  "session_id": "dulce.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Brianna broke up with Tyler and blames Dulce for leaking it to Karina",
+      "about": "brianna",
+      "kind": "fact",
+      "item_id": "cast.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "brianna broke up with tyler today and shes blaming me for leaking it to karina.",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce paid Camila $20 to cover her Sunday shift to attend Brianna's birthday",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i paid camila $20 to cover MY sunday shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce said yes to a shift swap and the party, then scrambled to apologize",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i paid camila $20 to cover MY sunday shift so i could go to brianna's bday the same night and now i feel bad",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce counted the drawer on her own",
+      "about": "dulce",
+      "kind": "reference_use",
+      "item_id": "dulce.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i counted the drawer to the penny on my own friday",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce counted the drawer on her own on Friday and her boss was hyped",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he was so hype lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce does numbers instantly but lacks words for the lab conclusion",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "but the lab conclusion i have like nothing. just tell me what a conclusion is supposed to say",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce uses a joke request to change the subject",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anyway lol give me a funny caption for a taco pic",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce swapped her Sunday shift",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "I wanted to apologize for swapping my Sunday shift last minute",
+      "support_quote": "i paid camila $20 to cover MY sunday shift"
+    },
+    {
+      "text": "Dulce counted the drawer",
+      "about": "dulce",
+      "kind": "reference_use",
+      "item_id": "dulce.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on the drawer, that sounds like a real win!",
+      "support_quote": "i counted the drawer to the penny on my own friday"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "cast.f14",
+      "present": true,
+      "quote": "brianna broke up with tyler today and shes blaming me for leaking it to karina."
+    },
+    {
+      "item_id": "dulce.i01",
+      "present": true,
+      "quote": "i paid camila $20 to cover MY sunday shift so i could go to brianna's bday the same night and now i feel bad"
+    },
+    {
+      "item_id": "dulce.i03",
+      "present": true,
+      "quote": "but the lab conclusion i have like nothing. just tell me what a conclusion is supposed to say"
+    },
+    {
+      "item_id": "dulce.i05",
+      "present": true,
+      "quote": "anyway lol give me a funny caption for a taco pic 🌮 al pastor w pineapple"
+    },
+    {
+      "item_id": "dulce.i06",
+      "present": true,
+      "quote": "anyway i counted the drawer to the penny on my own friday, he was so hype lol"
+    },
+    {
+      "item_id": "dulce.r02",
+      "present": true,
+      "quote": "anyway i counted the drawer to the penny on my own friday"
+    }
+  ],
+  "sensitive": []
+}

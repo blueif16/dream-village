@@ -1,0 +1,112 @@
+{
+  "session_id": "marcus.s20",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Marcus does Sunday chicken-and-rice prep with 5 containers",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "doing my sunday chicken and rice prep, 5 containers",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus works tonight (Sunday night shift)",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work tonight so i need them done before my shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus gets paid Friday",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "trying to keep food costs low till friday payday",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus asks about protein per container and timing, methodical about fuel",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how much protein per container should i aim for. and does timing matter",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Marcus has 5 containers",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With 5 containers, the last ones would be pushing it.",
+      "support_quote": "doing my sunday chicken and rice prep, 5 containers"
+    },
+    {
+      "text": "Assistant says Marcus needs prep done before work",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you need it done before work",
+      "support_quote": "i work tonight so i need them done before my shift"
+    },
+    {
+      "text": "Assistant says Marcus has a shift tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the prep and the shift tonight.",
+      "support_quote": "i work tonight so i need them done before my shift"
+    },
+    {
+      "text": "Marcus eats one container before shift and one on break",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i eat one before shift and one on break",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f37",
+      "present": true,
+      "quote": "doing my sunday chicken and rice prep, 5 containers"
+    },
+    {
+      "item_id": "marcus.f04",
+      "present": true,
+      "quote": "i work tonight so i need them done before my shift"
+    },
+    {
+      "item_id": "marcus.f15",
+      "present": true,
+      "quote": "trying to keep food costs low till friday payday"
+    },
+    {
+      "item_id": "marcus.i06",
+      "present": true,
+      "quote": "how much protein per container should i aim for. and does timing matter"
+    }
+  ],
+  "sensitive": []
+}

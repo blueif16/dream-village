@@ -1,0 +1,76 @@
+{
+  "impression_id": "grace.i06",
+  "evidence_sessions": [
+    "grace.s03",
+    "grace.s08",
+    "grace.s09",
+    "grace.s11"
+  ],
+  "inferred": [
+    {
+      "statement": "Holds herself to a high standard of precision and thoroughness, demanding exact formulas and exact compliance wording and building verification checklists, even for work she believes nobody will notice.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "Puts extra, often late-night effort into her students' learning (redesigning labs, building review games after quiz scores dipped, makeup lunch sessions, gentle outreach to parents), and works to keep communication kind and non-threatening.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s08",
+        "grace.s09",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "Prefers terse, tightly formatted answers (numbered steps, bullets, word limits, no preamble) and gives specific, constrained instructions; she iterates on drafts until the tone is right.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s08",
+        "grace.s09",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "Is stretched thin by administrative burden and time pressure, and looks for ways to automate or reuse materials, with some cynicism toward bureaucracy and administrators.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s08",
+        "grace.s09",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "Is the practical caregiver for her aging mother and handles medical logistics, paperwork and home safety herself, while tactfully protecting her grandmother-in-law or relative's autonomy and wanting some matters settled before others can weigh in.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s08",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "Worries about strain in her relationship with her teenage daughter and is willing to reflect on her own tone when it is pointed out, accepting feedback with brief thanks.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s03",
+        "grace.s09"
+      ]
+    },
+    {
+      "statement": "Mixes occasional Tagalog (Salamat, Ay, Nanay, Lola) into otherwise brief, businesslike exchanges, signaling comfort and Filipino family ties.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s08",
+        "grace.s09"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The intended trait is a decoy: that Grace is checked out and phoning in her teaching. The reader inferred the opposite, rating as strong that she puts extra effort into students' learning and holds herself to high standards. No strong or moderate statement asserts she is disengaged, so the decoy was not generalized."
+}

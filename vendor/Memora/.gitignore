@@ -1,0 +1,78 @@
+# Byte-code files
+*.pyc
+*.pyd
+*.pyo
+__pycache__/
+
+# Virtual environment
+.venv/
+venv/
+env/
+/bin/
+/include/
+/lib/
+/share/
+/Scripts/
+/Lib/
+/local/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*~
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+db.sqlite3
+
+# Configuration files
+.env
+*.ini
+*.cfg
+*.conf
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+.coverage
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+tmp/
+sandbox/
+outputs/
+app/locomo/data/chroma/
+# website/.docusaurus/
+# website/build/
+# website/node_modules/
+website/
+app/locomo.bak/
+
+app/locomo/data/locomo10.json
+app/locomo/results/
+app/locomo/memory_store/
+app/locomo/run_memora_debug.py
+node_modules/
+# package-lock.json
+# package.json
+.backend.pid
+.frontend.pid
+memora_api_keys.db
+memory_store/
+examples/
+utils/document_loader.py
+src/memora/utils/document_splitter.py
+src/memora/utils/document_loader.py
+pyproject.toml
+app/longmemeval/data/
+app/longmemeval/results/
+

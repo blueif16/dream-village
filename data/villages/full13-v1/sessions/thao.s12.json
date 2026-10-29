@@ -1,0 +1,31 @@
+{
+  "id": "thao.s12",
+  "principal": "thao",
+  "start": "2025-09-17T15:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 3:23 and i literally just woke up so short version pls. in the new charting system how do i document a late entry vs an addendum. ruben's sheet doesn't cover it"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- Late entry: you're documenting care that happened earlier but wasn't charted. Enter it now, label it \"late entry,\" and give the current date/time plus the date/time the event actually occurred. Only chart what you personally know.\n- Addendum: you're adding info to an entry that's already signed. Don't edit or delete the original. Add a new linked note with the current date/time and the reason.\n\nIn both cases, no overwriting and no backdating. Exact button names vary by system and facility, so check your hospital's charting policy or the in-system help for where these live."
+    },
+    {
+      "role": "user",
+      "text": "ok. do the downtime forms need to be scanned in after or just kept. pouring my cà phê sữa đá into the thermos rn so typing one handed"
+    },
+    {
+      "role": "assistant",
+      "text": "Usually they need to be scanned or entered, not just kept. Most facilities treat downtime paperwork as part of the legal record, so the typical routine is:\n\n- Fill out the paper form completely (date, time, signature)\n- After the system is back up, scan it into the record per your facility's process, or transcribe the info in and mark it as entered from downtime documentation\n- Don't discard the originals until your policy says it's okay\n\nThe exact rule is set by your facility's downtime policy, so that's the final word. Want a quick checklist version to keep by your workstation?"
+    },
+    {
+      "role": "user",
+      "text": "yes bullet it"
+    },
+    {
+      "role": "assistant",
+      "text": "Downtime form checklist:\n\n- Complete every field: date, time, patient identifiers, signature\n- Write legibly, no scribbling out (single line through errors, initial and date)\n- Once the system is back up: scan or enter per policy\n- If transcribing, note it was from downtime documentation and include the original times\n- Keep the paper original until policy says it can go\n- Not sure? Check the downtime policy before the shift ends\n\nHave a smooth night."
+    }
+  ]
+}

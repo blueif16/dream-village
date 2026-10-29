@@ -1,0 +1,137 @@
+{
+  "session_id": "jun.s34",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Jun proposes 70/30 split with Paolo keeping Instagram and market setup",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "going 70/30 starting now, me 70 you 30. you keep the instagram and you handle market setup.",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun ordered a 10x10 white canopy with weights for $189",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i ordered a 10x10 white one with weights tonight, $189",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun refers to the Saturday table selling out",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the saturday table sold out early today",
+      "support_quote": ""
+    },
+    {
+      "text": "Paolo missed prep sessions",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "cast.f61",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "after the missed prep sessions i think we gotta change the split",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun firmly keeps the hard line with Paolo, passing on a softer version",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nah keep the firm one lol.",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun ordered canopy before the market slot was confirmed",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "haven't heard from rick yet on the slot tho",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun ordered the canopy and Paolo will set it up",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I ordered a 10x10 white canopy with weights ($189), and setting it up will be your job.",
+      "support_quote": "i ordered a 10x10 white one with weights tonight, $189, and he's gonna set it up."
+    },
+    {
+      "text": "Paolo has missed prep sessions",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "cast.f61",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "after the missed prep sessions I'm changing our split",
+      "support_quote": "after the missed prep sessions i think we gotta change the split"
+    },
+    {
+      "text": "Split 70/30, Paolo keeps Instagram and setup",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Starting now it's 70/30, me 70 and you 30. You keep the Instagram and you own market setup.",
+      "support_quote": "going 70/30 starting now, me 70 you 30. you keep the instagram and you handle market setup."
+    },
+    {
+      "text": "Market slot not confirmed yet",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Since the slot isn't confirmed yet",
+      "support_quote": "haven't heard from rick yet on the slot tho"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.i04",
+      "present": true,
+      "quote": "nah keep the firm one lol."
+    },
+    {
+      "item_id": "jun.i05",
+      "present": true,
+      "quote": "i ordered a 10x10 white one with weights tonight, $189, and he's gonna set it up. haven't heard from rick yet on the slot tho"
+    },
+    {
+      "item_id": "jun.f33",
+      "present": true,
+      "quote": "i ordered a 10x10 white one with weights tonight, $189, and he's gonna set it up."
+    },
+    {
+      "item_id": "jun.f55",
+      "present": true,
+      "quote": "going 70/30 starting now, me 70 you 30. you keep the instagram and you handle market setup."
+    },
+    {
+      "item_id": "jun.r03",
+      "present": true,
+      "quote": "the saturday table sold out early today so we need him way more now"
+    }
+  ],
+  "sensitive": []
+}

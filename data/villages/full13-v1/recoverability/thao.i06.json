@@ -1,0 +1,93 @@
+{
+  "impression_id": "thao.i06",
+  "evidence_sessions": [
+    "thao.s01",
+    "thao.s02",
+    "thao.s05",
+    "thao.s13",
+    "thao.s24",
+    "thao.s33",
+    "thao.s35",
+    "thao.s39"
+  ],
+  "inferred": [
+    {
+      "statement": "Wants answers stripped down to terse bullets, steps or checklists, and repeatedly pushes back with 'too long' or 'shorter' when replies run long.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s02",
+        "thao.s05",
+        "thao.s13",
+        "thao.s24",
+        "thao.s33",
+        "thao.s35",
+        "thao.s39"
+      ]
+    },
+    {
+      "statement": "Organizes life around a night-shift schedule with daytime sleep (roughly 8:30am to 3pm), and wants advice and timing to respect that sleep window.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s01",
+        "thao.s02",
+        "thao.s13",
+        "thao.s24",
+        "thao.s35",
+        "thao.s39"
+      ]
+    },
+    {
+      "statement": "Tends to soften or over-apologize when asking others for favors, and prefers to be given a clearer, firmer version.",
+      "strength": "weak",
+      "sessions": [
+        "thao.s01"
+      ]
+    },
+    {
+      "statement": "Avoids confrontation or commitment on uncomfortable social matters, preferring neutral replies, muting, or deferring decisions (union flyers, the crush on Dr. Mehta, deflecting Jasmine's tease).",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s05",
+        "thao.s13"
+      ]
+    },
+    {
+      "statement": "Is conscientious about professional obligations and deadlines, such as RN license renewal CE hours, getting a confirmation receipt, and attending paid training.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s01",
+        "thao.s33",
+        "thao.s39"
+      ]
+    },
+    {
+      "statement": "Supports family and close ones: borrows a unit from her mom, tutors her sister Linh for her anatomy practical, and handles her mom's frequent voicemails with a gentle redirect to texting.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s02",
+        "thao.s13",
+        "thao.s24"
+      ]
+    },
+    {
+      "statement": "Shares sensitive identifiers (license number, bank account number) freely with the assistant when filling out forms, showing a practical, task-first attitude toward privacy.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s13",
+        "thao.s33"
+      ]
+    },
+    {
+      "statement": "Is practical about budgeting effort and money, e.g. reloading the laundry card once, comparing CE price per hour, and wanting short-chunk tasks for nights off, while protecting downtime like an early night with her baking show.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s05",
+        "thao.s33",
+        "thao.s35"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Wants answers stripped down to terse bullets, steps or checklists, and repeatedly pushes back with 'too long' or 'shorter' when replies run long.",
+  "rationale": "The first inferred statement, rated strong, says she wants terse answers and pushes back with 'too long' or 'shorter' on lengthy replies. That matches the intended trait of preferring short, direct answers and impatience with padding. It does not mention the post-shift context, but the core behavior is the same."
+}

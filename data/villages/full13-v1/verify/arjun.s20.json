@@ -1,0 +1,67 @@
+{
+  "session_id": "arjun.s20",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun is on a team of four for the regional case competition on Nov 8 at Bayshore",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "team of four, its nov 8 at bayshore",
+      "support_quote": ""
+    },
+    {
+      "text": "'case comp' refers to the Nov 8 regional case competition",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got handed the cost model piece for case comp",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is up late working at midnight, asking for a quick table",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yes pls, tight table. its almost midnight lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun was given a defined piece (cost model) of the competition",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Congrats on getting a defined piece.",
+      "support_quote": "i got handed the cost model piece for case comp at midnight basically."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.r05",
+      "present": true,
+      "quote": "ok so i got handed the cost model piece for case comp at midnight basically."
+    },
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "team of four, its nov 8 at bayshore"
+    },
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "yes pls, tight table. its almost midnight lol"
+    }
+  ],
+  "sensitive": []
+}

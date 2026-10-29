@@ -1,0 +1,39 @@
+{
+  "id": "isabel.s35",
+  "principal": "isabel",
+  "start": "2025-11-02T21:56:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "just got back from driving practice w my permit, ramon had me do laps in the ruel road lots lol. ok i need a plan for this week. college app stuff around robotics and tutoring"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, glad the practice went smoothly. To build the plan I need your fixed commitments and the tasks you have to finish. What's already blocked off this week, and what's on the application to-do list?"
+    },
+    {
+      "role": "user",
+      "text": "robotics tue/thu 3:30-6 in C7. wednesday 4-5 i tutor my 7th grader in math, $20. school regular hours obviously. tasks: finish the fee waiver form, fill in the rest of the app profile, proofread my essay one more time, and figure out what fees i still have to pay. im saving toward $160 for app fees so i wanna know whats left after waivers"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan around your fixed blocks:\n\n**Monday:** Free after school. Do the fee-waiver form first, since other tasks may depend on it. Then start the app profile.\n**Tuesday:** Robotics 3:30-6. Only a light task at night, like reading over the profile.\n**Wednesday:** Tutoring 4-5. Before it, spend 30 minutes listing every school on your list with its fee and whether your waiver covers it. After, do a final essay proofread.\n**Thursday:** Robotics 3:30-6. Night is buffer, so fix anything left over.\n**Friday:** Final check, then submit what's ready.\n\nFor the fees: list each school, its application fee, and whether the waiver applies. Subtract the waived ones from the total. What's left is what you pay, and you can compare it to your $160. If you tell me the schools and fees I can total it."
+    },
+    {
+      "role": "user",
+      "text": "ok. the waiver form needs my state id number, its D4829175. can u tell me where on the form it goes and any other stuff it usually asks"
+    },
+    {
+      "role": "assistant",
+      "text": "Put your ID number in the identification field, usually near your name and contact info at the top. I won't repeat it, so double-check it digit by digit against your card.\n\nThese forms typically also ask for:\n- Full legal name and date of birth\n- Home address and contact email\n- Household size and income, or the program that qualifies you (such as free or reduced lunch)\n- A parent or guardian signature or counselor verification\n\nBecause the income section may need a parent's info, collect that Monday so it doesn't hold you up. Your counselor can often verify eligibility, which might save you a step."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck this week. Start with the fee-waiver form on Monday and the rest will follow."
+    }
+  ]
+}

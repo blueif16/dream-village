@@ -1,0 +1,168 @@
+{
+  "session_id": "thao.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Has 23 voicemails piled up in her inbox",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.w4.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have 23 voicemails in the box",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom calls around 1pm in Vietnamese while Thao sleeps",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "most are my mom, she calls around 1pm in vietnamese while i'm asleep",
+      "support_quote": ""
+    },
+    {
+      "text": "Voicemail is an overflowing inbox, referred to as the box",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have 23 voicemails in the box",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants short steps only",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long, just the steps",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants a clean procedural triage checklist",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want it as a clean triage list i can run through, like a checklist",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao has a lingering crush on Dr. Mehta's polite voice",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do have a lingering crush on his polite voice on night pages",
+      "support_quote": ""
+    },
+    {
+      "text": "Jasmine teases Thao about Dr. Mehta paging her",
+      "about": "jasmine",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "jasmine texted me \"so is dr mehta paging you tonight or what 😏\"",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's license number is D4829175",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.w4.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my license is D4829175",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom calls in Vietnamese, may transcribe badly",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Anything from your mom in Vietnamese may transcribe badly",
+      "support_quote": "she calls around 1pm in vietnamese while i'm asleep"
+    },
+    {
+      "text": "Thao is asleep at 1",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm asleep at 1, text me instead",
+      "support_quote": "she calls around 1pm in vietnamese while i'm asleep"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f39",
+      "present": true,
+      "quote": "i do have a lingering crush on his polite voice on night pages"
+    },
+    {
+      "item_id": "thao.r02",
+      "present": true,
+      "quote": "i have 23 voicemails in the box and i need to clear it without listening to any of it"
+    },
+    {
+      "item_id": "thao.i03",
+      "present": true,
+      "quote": "i want it as a clean triage list i can run through, like a checklist"
+    },
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "too long, just the steps"
+    },
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "most are my mom, she calls around 1pm in vietnamese while i'm asleep"
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "present": true,
+      "quote": "my license is D4829175"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "my license is D4829175",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "my license is D4829175",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "my license is D4829175",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "my license is D4829175",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "my license is D4829175",
+      "assistant_quote": ""
+    }
+  ]
+}

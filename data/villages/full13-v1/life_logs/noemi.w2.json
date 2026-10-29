@@ -1,0 +1,323 @@
+{
+  "principal": "noemi",
+  "week": 2,
+  "entries": [
+    {
+      "id": "noemi.w2.l01",
+      "date": "2025-09-01",
+      "what": "Labor Day off from the swing shift. Noemi sleeps in, then helps Iris pack a picnic for Delgado Park and later fixes her parents' printer in the Vinca fourplex.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Printer working again, a lazy holiday.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f28",
+        "noemi.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l02",
+      "date": "2025-09-01",
+      "what": "Evening of co-op survival game with her squad as packetloss_ after dinner at home.",
+      "with": [],
+      "outcome": "Squad cleared the base build.",
+      "feeling": "content",
+      "facts": [
+        "noemi.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l03",
+      "date": "2025-09-02",
+      "what": "Drives to Ruel Road for the 2 p.m. swing shift and meets new hire Bao Tran at the IT cage, walking him through the repair bench.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao is set up with a badge and bench spot.",
+      "feeling": "upbeat",
+      "facts": [
+        "cast.f125",
+        "noemi.f48",
+        "noemi.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l04",
+      "date": "2025-09-02",
+      "what": "First Tuesday 3-5 p.m. training block: Bao swaps scanner batteries and trigger boards under her watch.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao swapped four batteries, not ready for reimaging.",
+      "feeling": "patient",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l05",
+      "date": "2025-09-02",
+      "what": "Handles night-shift handoff tickets and updates the RMA sheet with dead scanners from the cage.",
+      "with": [],
+      "outcome": "Six scanners queued for vendor return.",
+      "feeling": "busy",
+      "facts": [
+        "noemi.f33",
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l06",
+      "date": "2025-09-03",
+      "what": "Starts the day sleeping until 9, then stops at the Ruel Road station to fill up and sees the check-engine light come on.",
+      "with": [],
+      "outcome": "Suspects the O2 sensor and plans to get it checked.",
+      "feeling": "annoyed",
+      "facts": [
+        "noemi.f15",
+        "noemi.f17",
+        "noemi.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l07",
+      "date": "2025-09-03",
+      "what": "Swing shift at the help desk fixing frozen laptops and a badge reader that keeps rejecting night pickers.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Carla's dead scanner escalation resolved with a swap.",
+      "feeling": "focused",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l08",
+      "date": "2025-09-03",
+      "what": "Tells Iris about the car light over late dinner of leftover rice bowls.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Iris says to get a quote before the weekend.",
+      "feeling": "worried",
+      "facts": [
+        "noemi.f15",
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l09",
+      "date": "2025-09-04",
+      "what": "Prepping for Bao's Thursday session, she asks her assistant for a simple analogy to explain scanner Wi-Fi roaming.",
+      "with": [],
+      "outcome": "Settles on a cell-phone handoff-between-towers analogy.",
+      "feeling": "pleased",
+      "facts": [
+        "noemi.f35"
+      ],
+      "impressions": [
+        "noemi.i02"
+      ]
+    },
+    {
+      "id": "noemi.w2.l10",
+      "date": "2025-09-04",
+      "what": "Thursday 3-5 p.m. training: she explains roaming to Bao using the analogy, then he repairs two trigger boards.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao gets it and fixes both scanners.",
+      "feeling": "satisfied",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48"
+      ],
+      "impressions": [
+        "noemi.i02"
+      ]
+    },
+    {
+      "id": "noemi.w2.l11",
+      "date": "2025-09-04",
+      "what": "Thursday sushi night at home with Iris.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Quiet evening, split the streaming account queue.",
+      "feeling": "cozy",
+      "facts": [
+        "noemi.f44",
+        "noemi.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l12",
+      "date": "2025-09-05",
+      "what": "Works the swing shift, answering a few scanner calls while night pickers file in before the football game crowd.",
+      "with": [],
+      "outcome": "Cage down to a manageable pile.",
+      "feeling": "steady",
+      "facts": [
+        "noemi.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l13",
+      "date": "2025-09-05",
+      "what": "Eats Friday Taquería Colima takeout at her desk during shift.",
+      "with": [],
+      "outcome": "Good tacos, short line.",
+      "feeling": "happy",
+      "facts": [
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l14",
+      "date": "2025-09-05",
+      "what": "Gets home after 10:30 with stadium noise from the Egrets opener fading, and plays a bit on her desktop.",
+      "with": [],
+      "outcome": "Bed around 1.",
+      "feeling": "tired",
+      "facts": [
+        "noemi.f20",
+        "noemi.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l15",
+      "date": "2025-09-06",
+      "what": "Walks the Ulloa marsh boardwalk Saturday morning before studying.",
+      "with": [],
+      "outcome": "Easy walk, egrets out.",
+      "feeling": "calm",
+      "facts": [
+        "noemi.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l16",
+      "date": "2025-09-06",
+      "what": "Weekend study session with the tabbed study guide and practice-test app, working on subnetting.",
+      "with": [],
+      "outcome": "Scores still around the low 70s.",
+      "feeling": "determined",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l17",
+      "date": "2025-09-06",
+      "what": "Gets a car-repair quote for the O2 sensor and decides to book it in a couple of weeks.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Plan to fix it later this month.",
+      "feeling": "resigned",
+      "facts": [
+        "noemi.f15"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l18",
+      "date": "2025-09-07",
+      "what": "Sunday late morning chores and laundry in the in-unit washer, then a grocery run with Iris.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Fridge stocked for the week.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f40",
+        "noemi.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l19",
+      "date": "2025-09-07",
+      "what": "Another study block, then Sunday night co-op game with her squad.",
+      "with": [],
+      "outcome": "Squad won a long run.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w2.l20",
+      "date": "2025-09-07",
+      "what": "Looks over the week ahead and thinks about booking the exam.",
+      "with": [],
+      "outcome": "Decides to look at test dates.",
+      "feeling": "thoughtful",
+      "facts": [
+        "noemi.f06"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w2.n01",
+      "subject": "noemi",
+      "attribute": "analogy_used",
+      "value": "explains scanner Wi-Fi roaming to Bao as a phone handing off between cell towers",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w2.n02",
+      "subject": "noemi",
+      "attribute": "o2_quote",
+      "value": "got a quote for the O2 sensor repair and plans to book it later in September",
+      "valid_from": "2025-09-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w2.n03",
+      "subject": "bao",
+      "attribute": "first_repairs",
+      "value": "fixed his first two trigger boards on his own",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w2.n04",
+      "subject": "noemi",
+      "attribute": "labor_day",
+      "value": "had Labor Day off and fixed her parents' printer",
+      "valid_from": "2025-09-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "session_id": "thao.s14",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao has 23 unheard voicemails and wants them as text",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have 23 unheard rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao sleeps until 3 with blackout curtains and box fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i sleep till 3 with blackout curtains and the box fan",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh calls at 1pm mid-sleep leaving Vietnamese voicemails",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she calls at 1pm mid sleep and leaves like 3 min voicemails in vietnamese",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao ate leftover rice at 2am on shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i ate leftover rice at 2am on shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao has 23 unheard voicemails",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.w4.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have 23 unheard rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao works nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i work nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao has 23 voicemails",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.w4.n02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "About the 23 voicemails",
+      "support_quote": "i have 23 unheard rn"
+    },
+    {
+      "text": "Thao is asleep during the day",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm asleep during the day and answer texts fast.",
+      "support_quote": "i sleep till 3 with blackout curtains and the box fan"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "i have 23 unheard rn"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "i sleep till 3 with blackout curtains and the box fan so i'm about to crash"
+    },
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "she calls at 1pm mid sleep and leaves like 3 min voicemails in vietnamese"
+    },
+    {
+      "item_id": "thao.f43",
+      "present": true,
+      "quote": "i ate leftover rice at 2am on shift and i'm running on nothing"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

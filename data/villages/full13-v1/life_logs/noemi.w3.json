@@ -1,0 +1,378 @@
+{
+  "principal": "noemi",
+  "week": 3,
+  "entries": [
+    {
+      "id": "noemi.w3.l01",
+      "date": "2025-09-08",
+      "what": "Slept in until 9, then drove the 9 minutes down Ruel Road to RF-4 for the 2 p.m. swing. Gas fill-up at the Ruel Road station on the way.",
+      "with": [],
+      "outcome": "Arrived on time and cleared the morning ticket queue.",
+      "feeling": "steady",
+      "facts": [
+        "noemi.f02",
+        "noemi.f14",
+        "noemi.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l02",
+      "date": "2025-09-08",
+      "what": "Greg forwarded the annual self-review form and Rhonda's office assigned it, due Sept 30. Noemi skimmed it in the IT cage next to the outbound break room.",
+      "with": [
+        "greg"
+      ],
+      "outcome": "Review is on the calendar; she put off starting it.",
+      "feeling": "dreading it",
+      "facts": [
+        "noemi.f37",
+        "noemi.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l03",
+      "date": "2025-09-08",
+      "what": "Worked through a pile of frozen handhelds in the cage and updated the RMA sheet for scanners headed back to the vendor.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Eleven scanners logged for return.",
+      "feeling": "busy but fine",
+      "facts": [
+        "noemi.f33",
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l04",
+      "date": "2025-09-08",
+      "what": "Got home after 10:30, ate a leftover rice bowl with Iris and watched a show on the shared streaming account.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Went to bed around 1 a.m.",
+      "feeling": "tired, content",
+      "facts": [
+        "noemi.f39",
+        "noemi.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l05",
+      "date": "2025-09-09",
+      "what": "Slow morning, then a few chapters of the tabbed study guide and practice-test app before work.",
+      "with": [],
+      "outcome": "Missed subnetting questions again.",
+      "feeling": "annoyed",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l06",
+      "date": "2025-09-09",
+      "what": "From 3 to 5 p.m. she trained Bao on scanner battery swaps and trigger boards in the cage.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao did a battery swap alone without help.",
+      "feeling": "patient, pleased",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l07",
+      "date": "2025-09-09",
+      "what": "Carla texted Noemi's cell about three dead scanners on the outbound floor; Noemi walked out with replacements.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Pickers were back on rate within 15 minutes.",
+      "feeling": "brisk",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l08",
+      "date": "2025-09-09",
+      "what": "Fixed her parents' printer remotely on a late break call.",
+      "with": [],
+      "outcome": "Printer works again.",
+      "feeling": "mildly amused",
+      "facts": [
+        "noemi.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l09",
+      "date": "2025-09-10",
+      "what": "Grabbed a large iced black coffee and drove to RF-4 for the swing shift.",
+      "with": [],
+      "outcome": "Day started normally.",
+      "feeling": "fine",
+      "facts": [
+        "noemi.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l10",
+      "date": "2025-09-10",
+      "what": "During a lull she designed a phishing-awareness poster for the outbound break room after a spam email hit the night crew.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Draft poster ready to print.",
+      "feeling": "righteous",
+      "facts": [],
+      "impressions": [
+        "noemi.i03"
+      ]
+    },
+    {
+      "id": "noemi.w3.l11",
+      "date": "2025-09-10",
+      "what": "After work she logged into her co-op survival game as packetloss_ using her usual password, same as everything personal.",
+      "with": [],
+      "outcome": "Played until about 12:30 with her Sunday squad.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19",
+        "noemi.f22"
+      ],
+      "impressions": [
+        "noemi.i03"
+      ]
+    },
+    {
+      "id": "noemi.w3.l12",
+      "date": "2025-09-11",
+      "what": "Slept in, then went through practice questions at the kitchen counter while Iris left for work.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Completed one full practice exam.",
+      "feeling": "focused",
+      "facts": [
+        "noemi.f09",
+        "noemi.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l13",
+      "date": "2025-09-11",
+      "what": "Ran the Thursday 3-5 p.m. training block with Bao, covering scanner trigger boards.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao is getting faster.",
+      "feeling": "proud",
+      "facts": [
+        "noemi.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l14",
+      "date": "2025-09-11",
+      "what": "Iris ordered sushi for Thursday night; they ate it late after Noemi got home.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Easy evening.",
+      "feeling": "cozy",
+      "facts": [
+        "noemi.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l15",
+      "date": "2025-09-12",
+      "what": "Booked the network certification exam online for Saturday Nov 8 at 9 a.m. at the Tamsen city testing center, after her latest practice test averaged 71%.",
+      "with": [],
+      "outcome": "Exam is booked and the pass line is around 75%.",
+      "feeling": "nervous, committed",
+      "facts": [
+        "noemi.f06",
+        "noemi.f07",
+        "noemi.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l16",
+      "date": "2025-09-12",
+      "what": "Went to work for the swing shift and brought Taquería Colima for Friday lunch.",
+      "with": [],
+      "outcome": "Ate in the IT cage while working tickets.",
+      "feeling": "satisfied",
+      "facts": [
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l17",
+      "date": "2025-09-12",
+      "what": "Told Iris about the exam booking that night and Iris offered to help plan around it.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Agreed to figure out a study plan tomorrow.",
+      "feeling": "relieved",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l18",
+      "date": "2025-09-13",
+      "what": "Walked the Ulloa marsh boardwalk Saturday morning, then asked for a 12-week study plan for the Nov 8 exam the day after booking it.",
+      "with": [],
+      "outcome": "Got a week-by-week plan to work from.",
+      "feeling": "motivated",
+      "facts": [
+        "noemi.f26",
+        "noemi.f07"
+      ],
+      "impressions": [
+        "noemi.i05"
+      ]
+    },
+    {
+      "id": "noemi.w3.l19",
+      "date": "2025-09-13",
+      "what": "Heard the Ridgeline peak-season hiring fair was packed with college students; saw the line while doing a weekend scanner check at RF-4.",
+      "with": [
+        "ana"
+      ],
+      "outcome": "Helped Ana's table with a badge reader that wouldn't boot.",
+      "feeling": "busy",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l20",
+      "date": "2025-09-13",
+      "what": "Gamed with the Sunday squad a day early and made dinner with Iris.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Quiet night in.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l21",
+      "date": "2025-09-14",
+      "what": "Slept late, then sat down with Iris's household budget sheet to figure out how to enter the $238-ish car repair for the check-engine light.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Asked how to split the repair cost in Iris's budget sheet; Iris set up a line.",
+      "feeling": "sheepish, grateful",
+      "facts": [
+        "noemi.f45",
+        "noemi.f15"
+      ],
+      "impressions": [
+        "noemi.i04"
+      ]
+    },
+    {
+      "id": "noemi.w3.l22",
+      "date": "2025-09-14",
+      "what": "Stopped by her parents' fourplex off Vinca for a late lunch and fixed her mom's phone.",
+      "with": [],
+      "outcome": "Left with leftovers.",
+      "feeling": "warm",
+      "facts": [
+        "noemi.f27",
+        "noemi.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w3.l23",
+      "date": "2025-09-14",
+      "what": "Sunday night co-op game session with her squad.",
+      "with": [],
+      "outcome": "Won the run and went to bed around 1.",
+      "feeling": "happy",
+      "facts": [
+        "noemi.f18",
+        "noemi.f41"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w3.n01",
+      "subject": "noemi",
+      "attribute": "poster_project",
+      "value": "printed a phishing-awareness poster for the outbound break room",
+      "valid_from": "2025-09-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w3.n02",
+      "subject": "noemi",
+      "attribute": "study_plan",
+      "value": "following a 12-week study plan toward the Nov 8 exam",
+      "valid_from": "2025-09-13",
+      "valid_to": "2025-10-22",
+      "superseded_by": "noemi.w9.n03",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w3.n03",
+      "subject": "bao",
+      "attribute": "first_solo_task",
+      "value": "completed his first solo scanner battery swap",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w3.n04",
+      "subject": "noemi",
+      "attribute": "weekly_lunch",
+      "value": "brought Taquería Colima to work on Friday Sept 12",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w3.n05",
+      "subject": "noemi",
+      "attribute": "rma_count",
+      "value": "logged eleven scanners for vendor return on Sept 8",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

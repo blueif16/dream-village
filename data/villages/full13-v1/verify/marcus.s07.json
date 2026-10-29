@@ -1,0 +1,82 @@
+{
+  "session_id": "marcus.s07",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus does Sunday chicken-and-rice prep, 5 containers",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im doing the sunday chicken and rice prep again, 5 containers.",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus shares a fridge/home with roommate Arjun",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yo arjun.",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus eats eggs and rice after shift most days",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i eat eggs and rice after shift most days",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus wants cheap high-protein food and tracks protein and costs",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "keep it cheap, can u check the costs still look right for high protein",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus does chicken-and-rice prep Sunday, 5 containers",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm doing my chicken-and-rice prep again Sunday (5 containers).",
+      "support_quote": "im doing the sunday chicken and rice prep again, 5 containers."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i06",
+      "present": true,
+      "quote": "chicken 4 lbs ~$14 (about 25g protein per container), rice $4, eggs 18ct $5."
+    },
+    {
+      "item_id": "marcus.f37",
+      "present": true,
+      "quote": "im doing the sunday chicken and rice prep again, 5 containers. can u split the chicken with me?"
+    },
+    {
+      "item_id": "marcus.f10",
+      "present": true,
+      "quote": "fridge: i need the bottom shelf for the containers, ok?"
+    },
+    {
+      "item_id": "marcus.f36",
+      "present": true,
+      "quote": "i eat eggs and rice after shift most days"
+    }
+  ],
+  "sensitive": []
+}

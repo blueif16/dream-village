@@ -1,0 +1,47 @@
+{
+  "id": "marcus.s35",
+  "principal": "marcus",
+  "start": "2025-11-06T14:22:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick how long does caffeine from a cold brew last. i quit energy drinks monday and now just have one cold brew before shift"
+    },
+    {
+      "role": "assistant",
+      "text": "Caffeine usually peaks 30-60 minutes after you drink it. The half-life is about 5-6 hours, so half is still in your system around the midpoint of a long night, and a meaningful amount lingers 8-10 hours. Individual metabolism varies a lot. How big is the cold brew, and when do you drink it relative to your start time?"
+    },
+    {
+      "role": "user",
+      "text": "16oz. my shift is 9pm to 730am ten hours. trevor picks me up before so i grab it around 8:15 while im waiting on him"
+    },
+    {
+      "role": "assistant",
+      "text": "A 16 oz cold brew typically has about 200-300 mg of caffeine depending on the shop, versus roughly 160 mg in a 16 oz energy drink can, so your one cold brew is likely equal to or more than the two cans. Sipping it at 8:15 puts the peak right around when you clock in at 9, and by about 2-3 a.m. you'd be at roughly half. If you hit a wall there, a small top-up around 1 a.m. (like 50-100 mg) would carry you to the end better than one big dose. Try to keep your last caffeine at least 6 hours before you plan to sleep. If you tell me the exact brand I can narrow the number."
+    },
+    {
+      "role": "user",
+      "text": "ok so about 250 prob. cant do math this early lol. also does caffeine mess with how cold u get? i work the cold dock and the cold gets to me"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: caffeine can narrow blood vessels near the skin a bit, which may make your hands and feet feel colder, but it doesn't change how well your body holds core heat in a meaningful way. The bigger factors are layers, insulated gloves, moving regularly, and eating enough, since being under-fueled makes cold feel worse. If your fingers get especially cold, a warm drink or hand warmers in your pockets will help more than changing your caffeine. Keeping the cold brew at 250 mg and spacing it as above is a reasonable plan."
+    },
+    {
+      "role": "user",
+      "text": "nice. one more real quick, forget that i owe trevor $60 for gas and a burrito run, he squared it away"
+    },
+    {
+      "role": "assistant",
+      "text": "Done, I won't keep that. Anything else you want to work on with the caffeine plan?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats it thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Stay warm out there and have a good shift."
+    }
+  ]
+}

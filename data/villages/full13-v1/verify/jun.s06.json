@@ -1,0 +1,403 @@
+{
+  "session_id": "jun.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "The Saturday table sold out by early afternoon",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the saturday table sold out by like 1 lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Sold out at the first Saturday table",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w2.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the saturday table sold out by like 1 lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants to skip the numbers and guess the cash total",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can i just guess the number and call it good",
+      "support_quote": ""
+    },
+    {
+      "text": "Says the permit form can wait",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also the permit form can wait til next week, the table is working",
+      "support_quote": ""
+    },
+    {
+      "text": "Made about 150 lumpia",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "made about 150 lumpia last night and they were all gone",
+      "support_quote": ""
+    },
+    {
+      "text": "Wes bought two lumpia and paid in quarters",
+      "about": "wes",
+      "kind": "fact",
+      "item_id": "jun.f59",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "wes bought two and paid in quarters",
+      "support_quote": ""
+    },
+    {
+      "text": "Paolo has closing shifts and was late to Friday prep",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "paolo showed up late to friday prep cause of his closing shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Priced $10 for a half dozen",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "prices were $10 for a half dozen",
+      "support_quote": ""
+    },
+    {
+      "text": "Numbers stuff makes his brain tired",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "numbers stuff makes my brain tired",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Paolo's closing shift can make him late",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f53",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since Paolo's closing shift can make him late",
+      "support_quote": "paolo showed up late to friday prep cause of his closing shift"
+    },
+    {
+      "text": "Assistant says Jun sold at $10 per half dozen",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f19",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you sold at $10 per half dozen",
+      "support_quote": "prices were $10 for a half dozen"
+    },
+    {
+      "text": "Assistant says Jun sold about 150 and sold out",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Going from about 150 to around 180 is a smart small step, since you sold out",
+      "support_quote": "made about 150 lumpia last night and they were all gone"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.r03",
+      "present": true,
+      "quote": "the saturday table sold out by like 1 lol"
+    },
+    {
+      "item_id": "jun.i01",
+      "present": true,
+      "quote": "can i just guess the number and call it good"
+    },
+    {
+      "item_id": "jun.f21",
+      "present": true,
+      "quote": "made about 150 lumpia last night and they were all gone"
+    },
+    {
+      "item_id": "jun.f59",
+      "present": true,
+      "quote": "wes bought two and paid in quarters"
+    },
+    {
+      "item_id": "jun.f53",
+      "present": true,
+      "quote": "paolo showed up late to friday prep cause of his closing shift"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

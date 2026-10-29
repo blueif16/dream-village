@@ -1,0 +1,31 @@
+{
+  "id": "jun.s18",
+  "principal": "jun",
+  "start": "2025-09-26T21:56:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need help, first friday commissary block just ended and i have to pack everything up. i opened at 6:15 this morning and only napped like an hour before the kitchen so my brain is mush lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on finishing the first block! Since you're running on fumes, let's keep this simple. A few quick questions so I can build a plan:\n\n1. Roughly how many lumpia are you packing?\n2. Are they fully fried, or par-fried to finish later?\n3. What cooler setup do you have (size, ice packs)?\n4. How are you getting everything to the counter tomorrow, and when do you need to be there?"
+    },
+    {
+      "role": "user",
+      "text": "about 150 fried, already cooled on the racks. one borrowed chest cooler, i have a few ice packs. gotta be at the cafe before open tmrw. how many should i even put out on the saturday table at the end of the counter"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short version:\n\n**Tonight (cooler loading)**\n- Make sure the lumpia are completely cool and dry first. Steam makes them soggy.\n- Line the bottom of the cooler with a clean towel, then a layer of lumpia on paper towels. Alternate layers, with paper between each.\n- Ice packs on the very top and sides, not directly under the food, so the wrappers don't sweat.\n- Pack the dips separately in lidded containers, upright.\n- Label the cooler lid with a quick note: count and time packed.\n\n**Saturday table**\n- Don't put all 150 out at once. Start with about 40-50 on the table, held in a covered tray or box so they stay crisp.\n- Keep the rest in the cooler behind the counter and refill when the tray gets low, around every hour or so.\n- If your first Saturday sells slower than expected, you'll have less waste this way. If it sells fast, you're only a quick restock away.\n\nTonight, set out the dips, napkins, a sign and a pricing card with your cooler so you can just grab and go in the morning."
+    },
+    {
+      "role": "user",
+      "text": "ok actually can you turn that into a checklist i can tape on the cooler. short. also im grabbing al pastor on the way home as a reward lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Earn it! Here's a tape-on-the-cooler version:\n\n**COOLER CHECKLIST**\n☐ Lumpia cool + dry\n☐ Towel on bottom\n☐ Layers with paper towels\n☐ Ice packs on top/sides\n☐ Dips in lidded containers, upright\n☐ Sign + price card\n☐ Napkins + tongs\n☐ Lid labeled (count + time)\n\n**SAT TABLE**\n☐ Start with 40-50 out\n☐ Refill about hourly from cooler\n☐ Keep the rest cold\n\nEat your tacos, then go straight to bed. Everything else is packed and ready for the morning."
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "principal": "rafael",
+  "week": 11,
+  "entries": [
+    {
+      "id": "rafael.w11.l01",
+      "date": "2025-11-03",
+      "what": "Brakes lab at Tamsen Valley College from 8 to 11, bleeding a line with his bench partner and keeping the bay clean for Salas's grading.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Finished the lab with the bay spotless.",
+      "feeling": "focused, a bit tired",
+      "facts": [
+        "rafael.f02",
+        "rafael.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l02",
+      "date": "2025-11-03",
+      "what": "Drove the Taco home along Ruel Road and ate leftover pupusas before checking the week's stand prep list with Gladys.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Prep list set for Thursday.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f04",
+        "rafael.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l03",
+      "date": "2025-11-03",
+      "what": "Pickup soccer at Delgado Park in the evening, then teardown videos in bed.",
+      "with": [],
+      "outcome": "Slept by midnight.",
+      "feeling": "loose, relaxed",
+      "facts": [
+        "rafael.f33",
+        "rafael.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l04",
+      "date": "2025-11-04",
+      "what": "Engine performance with Salas from 1 to 4, tracing a misfire by ear before anyone pulled the scan tool.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Got the diagnosis right and earned a nod.",
+      "feeling": "proud",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l05",
+      "date": "2025-11-04",
+      "what": "Election day: Oscar and Gladys voted at the community center and Rafael gave them a ride in the Taco on the way home from class.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Parents voted on Measure K and he dropped them home.",
+      "feeling": "dutiful",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l06",
+      "date": "2025-11-04",
+      "what": "Did some stand errands, picking up pork from Ruiz Family Market for chicharrón at the family price.",
+      "with": [
+        "chuy"
+      ],
+      "outcome": "Stocked up for the weekend.",
+      "feeling": "productive",
+      "facts": [
+        "rafael.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l07",
+      "date": "2025-11-05",
+      "what": "Brakes lab in the morning, then late at night worked through G1 practice questions with the assistant.",
+      "with": [],
+      "outcome": "Went through a set of questions and finished with a clearer picture of each system.",
+      "feeling": "determined",
+      "facts": [
+        "rafael.f16",
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l08",
+      "date": "2025-11-05",
+      "what": "Asked the assistant to explain each practice answer as what you'd actually see in the bay, since the book wording lost him.",
+      "with": [],
+      "outcome": "The bay-style explanations made the answers stick.",
+      "feeling": "relieved",
+      "facts": [
+        "rafael.f55"
+      ],
+      "impressions": [
+        "rafael.i02"
+      ]
+    },
+    {
+      "id": "rafael.w11.l09",
+      "date": "2025-11-05",
+      "what": "Recorded a few answers as voice memos to play while prepping the griddle.",
+      "with": [],
+      "outcome": "Added to his flashcard memos.",
+      "feeling": "hopeful",
+      "facts": [
+        "rafael.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l10",
+      "date": "2025-11-06",
+      "what": "Engine performance class from 1 to 4, then loaded the canopy and generator into the Taco.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Headed to the stand on time.",
+      "feeling": "busy",
+      "facts": [
+        "rafael.f02",
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l11",
+      "date": "2025-11-06",
+      "what": "Worked the Thursday evening shift at the Ruel Road lot, running the griddle from 5 to 10 with the flashcard memos in his earbuds.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Decent sales, home by 10:30.",
+      "feeling": "tired but good",
+      "facts": [
+        "rafael.f09",
+        "rafael.f10",
+        "rafael.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l12",
+      "date": "2025-11-06",
+      "what": "Watched an engine teardown video before bed.",
+      "with": [],
+      "outcome": "Fell asleep close to midnight.",
+      "feeling": "sleepy",
+      "facts": [
+        "rafael.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l13",
+      "date": "2025-11-07",
+      "what": "Spent the day at the shop-class lab and picked up a ride request for Dulce, who works Friday 4 to 9.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Plan locked for the evening pickup.",
+      "feeling": "dependable",
+      "facts": [
+        "rafael.f25",
+        "rafael.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l14",
+      "date": "2025-11-07",
+      "what": "Worked the Ruel Road stand from 5 and left at 8:50 to get Dulce from Taquería Colima, back by 9:20.",
+      "with": [
+        "dulce",
+        "gladys"
+      ],
+      "outcome": "Dulce got home safe and he was back at the griddle.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f26",
+        "rafael.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l15",
+      "date": "2025-11-07",
+      "what": "Closed the stand with Oscar and tallied the cash box with Gladys's green notebook.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Numbers matched.",
+      "feeling": "satisfied",
+      "facts": [
+        "rafael.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l16",
+      "date": "2025-11-08",
+      "what": "Met Dante at the shop. Dante pitched his Civic-flip, and Rafael said he would do mechanical work for 30% of profit but put no cash in, which settled his earlier undecided stance.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Agreed to labor-only work on one Civic for 30% of profit.",
+      "feeling": "cautious but into it",
+      "facts": [
+        "rafael.f23",
+        "rafael.f24",
+        "rafael.f47"
+      ],
+      "impressions": [
+        "rafael.i05"
+      ]
+    },
+    {
+      "id": "rafael.w11.l17",
+      "date": "2025-11-08",
+      "what": "Asked the assistant for a simple written agreement for the labor-only profit sharing so nothing gets fuzzy later.",
+      "with": [],
+      "outcome": "Got a short draft to show Dante.",
+      "feeling": "careful",
+      "facts": [
+        "rafael.f24"
+      ],
+      "impressions": [
+        "rafael.i06"
+      ]
+    },
+    {
+      "id": "rafael.w11.l18",
+      "date": "2025-11-08",
+      "what": "Paid Dante back the $120 for the lost sockets as part of settling up.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Debt cleared.",
+      "feeling": "lighter",
+      "facts": [
+        "rafael.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l19",
+      "date": "2025-11-08",
+      "what": "Worked the Saturday night stand at Ruel Road with Ximena helping.",
+      "with": [
+        "ximena",
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Busy night, good sales.",
+      "feeling": "happy",
+      "facts": [
+        "rafael.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l20",
+      "date": "2025-11-09",
+      "what": "Slept in, then went to Spanish Mass-adjacent family breakfast and helped Gladys with errands.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Errands done.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l21",
+      "date": "2025-11-09",
+      "what": "Serviced the generator in the driveway before the Sunday evening stand.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Generator ready.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w11.l22",
+      "date": "2025-11-09",
+      "what": "Worked the Sunday stand from 5 to 10 and cleaned up with the family.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Closed the weekend with solid sales.",
+      "feeling": "worn out",
+      "facts": [
+        "rafael.f09"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w11.n01",
+      "subject": "rafael",
+      "attribute": "civic_deal_vehicle",
+      "value": "the Civic for Dante's flip is a gray salvage-auction hatchback",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w11.n02",
+      "subject": "rafael",
+      "attribute": "agreement_format",
+      "value": "keeps the labor-only agreement as a one-page note both he and Dante sign",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w11.n03",
+      "subject": "rafael",
+      "attribute": "voice_memo_count",
+      "value": "has about 25 G1 voice-memo flashcards recorded",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w11.n04",
+      "subject": "rafael",
+      "attribute": "election_ride",
+      "value": "drove his parents to vote at the community center on election day",
+      "valid_from": "2025-11-04",
+      "valid_to": "2025-11-04",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w11.n05",
+      "subject": "rafael",
+      "attribute": "weekend_stand_sales",
+      "value": "Saturday stand night was the best of the month so far",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

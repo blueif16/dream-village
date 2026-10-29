@@ -1,0 +1,114 @@
+{
+  "session_id": "arjun.s35",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Arjun lives in unit 132",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "this is arjun from unit 132",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun paid his $1,090 half of the $2,180 rent on the portal",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i paid my half of th $1,090 rent on th portal this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun will be up until at least 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm still up, will be til 2 at least",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun lives in unit 132",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm writing from unit 132.",
+      "support_quote": "this is arjun from unit 132"
+    },
+    {
+      "text": "Arjun paid $1,090 share of $2,180 rent on portal",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I paid my $1,090 share of the $2,180 rent on the portal this morning",
+      "support_quote": "i paid my half of th $1,090 rent on th portal this morning"
+    },
+    {
+      "text": "Arjun is up late tonight",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you'll be up",
+      "support_quote": "i'm still up, will be til 2 at least"
+    },
+    {
+      "text": "Marcus is Arjun's roommate",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Hi Gloria and Marcus,",
+      "support_quote": "going to roommate + gloria's office"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "missing",
+      "item_id": "arjun.i06",
+      "detail": "verifier: absent"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "arjun.i06",
+      "present": false,
+      "quote": ""
+    },
+    {
+      "item_id": "arjun.f06",
+      "present": true,
+      "quote": "i paid my half of th $1,090 rent on th portal this morning"
+    },
+    {
+      "item_id": "arjun.f05",
+      "present": true,
+      "quote": "this is arjun from unit 132"
+    },
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "i'm still up, will be til 2 at least"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

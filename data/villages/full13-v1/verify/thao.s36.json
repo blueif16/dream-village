@@ -1,0 +1,112 @@
+{
+  "session_id": "thao.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao works Mon/Tue/Fri nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work mon/tue/fri nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Laundry room is card-only and she reloads $20 at a time",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "our laundry room at the complex is card-only and i reload $20 at a time",
+      "support_quote": ""
+    },
+    {
+      "text": "Tomás does dishes and trash, laundry is Thao's",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tomas does dishes and trash per the fridge whiteboard, laundry is mine",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao tracks her laundry card balance and plans loads, showing she is organized",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "card has about $11 left rn, and a wash+dry is roughly $3.50 a load",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao works Mon/Tue/Fri nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you work Mon/Tue/Fri nights, put laundry on your off days",
+      "support_quote": "i work mon/tue/fri nights"
+    },
+    {
+      "text": "Assistant says reload $20 at a time card",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "one $20 reload covers about 2 weeks",
+      "support_quote": "i reload $20 at a time"
+    },
+    {
+      "text": "Thao has about $11 left on card",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "With about $11 left, you're good for this week.",
+      "support_quote": "card has about $11 left rn"
+    },
+    {
+      "text": "Thao prefers short answers post-shift",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u make it a checklist, short",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i05",
+      "present": true,
+      "quote": "card has about $11 left rn, and a wash+dry is roughly $3.50 a load"
+    },
+    {
+      "item_id": "thao.f34",
+      "present": true,
+      "quote": "our laundry room at the complex is card-only and i reload $20 at a time"
+    },
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "i work mon/tue/fri nights"
+    },
+    {
+      "item_id": "thao.f21",
+      "present": true,
+      "quote": "tomas does dishes and trash per the fridge whiteboard, laundry is mine"
+    }
+  ],
+  "sensitive": []
+}

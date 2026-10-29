@@ -1,0 +1,55 @@
+{
+  "id": "linh.s37",
+  "principal": "linh",
+  "start": "2025-10-03T12:58:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hey. kind of a weird one, not homework 🫠 my mom asked me at breakfast how my pharmacy classes are going and i just went super stiff and said 'fine' and left"
+    },
+    {
+      "role": "assistant",
+      "text": "That doesn't sound weird at all. A casual question can land hard when there's more underneath it. What was going on for you in that moment? Was it the question itself, or something about answering it?"
+    },
+    {
+      "role": "user",
+      "text": "idk. i keep telling my family im set on pharmacy and im not sure at all. so any question about it feels like a trap even if she's just being nice"
+    },
+    {
+      "role": "assistant",
+      "text": "That makes sense. Every time the topic comes up, you're choosing between saying what you've been saying and saying what's true, so it can feel guarded before you even open your mouth. Being guarded here isn't a flaw. It's a reaction to a gap that feels risky to close.\n\nHas it always felt like that with her, or is it newer?"
+    },
+    {
+      "role": "user",
+      "text": "newer.. i keep putting off the pharmacy talk. like every week i tell myself ill do it this weekend"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a really common pattern with big conversations. Each week you wait, it feels like it has more riding on it. Do you have a sense of what you're most afraid will happen when you finally have it?"
+    },
+    {
+      "role": "user",
+      "text": "honestly its just that i live in the small front bedroom right by the kitchen so theres no avoiding her. shes right there every morning. so can i just say 'its fine' whenever she asks? instead of getting into it"
+    },
+    {
+      "role": "assistant",
+      "text": "You can, and sometimes a short answer is a fair way to protect your energy on a rushed morning. 'It's fine' works as a one-off. The cost is that if it becomes your standard reply, the gap tends to feel bigger each time, and you stay braced every time she asks.\n\nA middle option is a short answer that's true but doesn't open the whole conversation, like: 'Classes are keeping me busy, I'll tell you more when I've got a breather.' It's honest, it's calm, and it doesn't commit you to anything.\n\nYou could also pick a time that's yours. For example, tell her you'd like to talk about school properly on a specific evening. Then mornings stop feeling like ambushes, and you have time to prepare.\n\nWhich of those feels least awful?"
+    },
+    {
+      "role": "user",
+      "text": "the busy one i guess. and maybe i should just go get pho with thao after her shift, i feel less guarded around her"
+    },
+    {
+      "role": "assistant",
+      "text": "That sounds like a good plan. Talking things through with someone you trust, over a warm bowl of food, can help you work out what you actually want to say before you say it to your mom. You don't have to settle the whole pharmacy question there, just notice what comes out when you're relaxed.\n\nIn the meantime, you've got a line ready for breakfast. Be gentle with yourself about the rest. Want help sketching a few things you could say to Thao?"
+    },
+    {
+      "role": "user",
+      "text": "maybe later. thank u, that helped ☕"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Take care of yourself today, and go eat something real. Come back whenever you want to work on what to say."
+    }
+  ]
+}

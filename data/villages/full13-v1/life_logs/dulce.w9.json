@@ -1,0 +1,357 @@
+{
+  "principal": "dulce",
+  "week": 9,
+  "entries": [
+    {
+      "id": "dulce.w9.l01",
+      "date": "2025-10-20",
+      "what": "Walked to Flats High down Vinca for first period geometry. At lunch in B12 with Karina and Eli she saw Brianna's new close-friends story with a snake emoji and read it as being about her; they planned matching Halloween costumes, a chola Frida look.",
+      "with": [
+        "karina",
+        "eli",
+        "brianna"
+      ],
+      "outcome": "Decided it was probably about her and wasn't sure whether to say anything; settled on the costume plan with Karina.",
+      "feeling": "uneasy, a little paranoid",
+      "facts": [
+        "dulce.f32",
+        "dulce.f16",
+        "dulce.f51"
+      ],
+      "impressions": [
+        "dulce.i04"
+      ]
+    },
+    {
+      "id": "dulce.w9.l02",
+      "date": "2025-10-20",
+      "what": "Third-period chemistry with Ms. Tolentino, then PE fitness testing practice. Evening at home in unit 114 she showed the snake story to the assistant and asked what it meant.",
+      "with": [
+        "grace",
+        "karina",
+        "yesenia"
+      ],
+      "outcome": "Left the story unanswered and did homework with her mom home.",
+      "feeling": "anxious, distracted",
+      "facts": [
+        "dulce.f56",
+        "dulce.f03"
+      ],
+      "impressions": [
+        "dulce.i04"
+      ]
+    },
+    {
+      "id": "dulce.w9.l03",
+      "date": "2025-10-20",
+      "what": "Took a quick look at the phone fund balance before bed and thought about the phone she still wants.",
+      "with": [],
+      "outcome": "Went to sleep around 11:30 with the cracked phone charging.",
+      "feeling": "tired, restless",
+      "facts": [
+        "dulce.f09",
+        "dulce.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l04",
+      "date": "2025-10-21",
+      "what": "Normal school day: geometry, English, chemistry, history, then lunch in B12 with Karina and Eli. Heard from Karina that Sienna keeps screenshotting chats.",
+      "with": [
+        "karina",
+        "eli",
+        "sienna"
+      ],
+      "outcome": "Agreed to stay off group chats during lunch.",
+      "feeling": "guarded but okay",
+      "facts": [
+        "dulce.f16",
+        "dulce.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l05",
+      "date": "2025-10-21",
+      "what": "After school she walked home and did geometry homework. Her mom Yesenia made dinner and asked about chemistry.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Told her mom chem was fine, avoiding the details.",
+      "feeling": "evasive, tired",
+      "facts": [
+        "dulce.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l06",
+      "date": "2025-10-22",
+      "what": "School day through Spanish. Karina and Eli sat with her in B12 and Eli shared his notes from chem.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Copied the notes and felt a bit calmer.",
+      "feeling": "calm, grateful",
+      "facts": [
+        "dulce.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l07",
+      "date": "2025-10-22",
+      "what": "Worked on a lab writeup in the evening at the kitchen table in unit 114, checking molar masses quickly but stalling on the written part.",
+      "with": [],
+      "outcome": "Finished the math and left the conclusion for later.",
+      "feeling": "stuck",
+      "facts": [
+        "dulce.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l08",
+      "date": "2025-10-22",
+      "what": "Texted in the lab rats chat with Karina and Eli about costumes before bed.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Settled on the Frida look.",
+      "feeling": "cheerful",
+      "facts": [
+        "dulce.f32",
+        "dulce.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l09",
+      "date": "2025-10-23",
+      "what": "School day with chemistry third period. She took the 22 bus nowhere; no shift today, and walked home with Karina.",
+      "with": [
+        "karina",
+        "grace"
+      ],
+      "outcome": "Planned to go to the homecoming game together Friday.",
+      "feeling": "looking forward",
+      "facts": [
+        "dulce.f38",
+        "dulce.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l10",
+      "date": "2025-10-23",
+      "what": "Thursday evening she went to the family pupusa stand to help fold to-go boxes with Tía Gladys and Rafael.",
+      "with": [
+        "gladys",
+        "rafael"
+      ],
+      "outcome": "Folded boxes faster than last time and got a free pupusa.",
+      "feeling": "useful, warm",
+      "facts": [
+        "dulce.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l11",
+      "date": "2025-10-23",
+      "what": "Rafael dropped her at unit 114 after the stand closed. She got home before curfew and went to bed.",
+      "with": [
+        "rafael"
+      ],
+      "outcome": "Went to sleep a little late.",
+      "feeling": "tired",
+      "facts": [
+        "dulce.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l12",
+      "date": "2025-10-24",
+      "what": "School day with homecoming spirit; lunch in B12 with Karina and Eli. She counted her money and noticed that cutting out group boba had grown her phone fund to about $170.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Capped herself at one $6 drink a week.",
+      "feeling": "proud, determined",
+      "facts": [
+        "dulce.f14",
+        "dulce.f58",
+        "dulce.f59"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l13",
+      "date": "2025-10-24",
+      "what": "Went to the Egrets homecoming game with Karina and Eli, not the dance, with the stadium packed. Afterward the group wanted Cloud Nine at Plaza Marisol, and she asked the assistant for a polite way to say she was saving.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Said she was saving and just bought the one weekly drink.",
+      "feeling": "proud, a bit nervous",
+      "facts": [
+        "dulce.f38",
+        "dulce.f59",
+        "dulce.f14"
+      ],
+      "impressions": [
+        "dulce.i02"
+      ]
+    },
+    {
+      "id": "dulce.w9.l14",
+      "date": "2025-10-24",
+      "what": "Home before ten, she texted her mom a photo from the game and went to bed.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Fell asleep happy.",
+      "feeling": "content",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l15",
+      "date": "2025-10-25",
+      "what": "Saturday morning laundry at the card-only laundry room at Marisol Gardens, then her extra shift 11-3 at Taquería Colima taking orders.",
+      "with": [
+        "efrain",
+        "camila"
+      ],
+      "outcome": "Counted the drawer with Efraín watching and nothing was off.",
+      "feeling": "capable, busy",
+      "facts": [
+        "dulce.f26",
+        "dulce.f31",
+        "dulce.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l16",
+      "date": "2025-10-25",
+      "what": "After the shift she took the 22 bus home and ate a quesadilla plate from work.",
+      "with": [
+        "hector"
+      ],
+      "outcome": "Héctor teased her about slow tickets.",
+      "feeling": "tired, amused",
+      "facts": [
+        "dulce.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l17",
+      "date": "2025-10-25",
+      "what": "Evening on her phone watching edits and chatting with Karina.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Went to bed late.",
+      "feeling": "relaxed",
+      "facts": [
+        "dulce.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l18",
+      "date": "2025-10-26",
+      "what": "Sunday shift at Taquería Colima 10-4, taking orders and handling the lunch rush.",
+      "with": [
+        "efrain",
+        "hector",
+        "camila"
+      ],
+      "outcome": "Got through the rush with no mistakes.",
+      "feeling": "steady",
+      "facts": [
+        "dulce.f20",
+        "dulce.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l19",
+      "date": "2025-10-26",
+      "what": "Took the bus home and ate dinner with her mom, then started a chem lab writeup.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Wrote a few sentences of the conclusion.",
+      "feeling": "tired but okay",
+      "facts": [
+        "dulce.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w9.l20",
+      "date": "2025-10-26",
+      "what": "After midnight Karina texted asking if people were talking about her, and Dulce reassured her.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Both fell asleep late.",
+      "feeling": "sleepy, protective",
+      "facts": [
+        "dulce.f49"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "dulce.w9.n01",
+      "subject": "dulce",
+      "attribute": "homecoming_snack",
+      "value": "bought a single $6 taro slush after the game as her weekly drink",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w9.n02",
+      "subject": "karina",
+      "attribute": "costume_plan",
+      "value": "planning chola Frida costume to match Dulce",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w9.n03",
+      "subject": "eli",
+      "attribute": "notes_sharing",
+      "value": "shared his chem notes with Dulce on Wednesday",
+      "valid_from": "2025-10-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w9.n04",
+      "subject": "dulce",
+      "attribute": "saturday_shift_hours",
+      "value": "works Saturday 11-3 at Taquería Colima",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

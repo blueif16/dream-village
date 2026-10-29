@@ -1,0 +1,108 @@
+{
+  "session_id": "rochelle.s35",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "plans to take the TEAS in summer 2026, $70 fee",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I think I am going to try to take it in summer 2026 and I saw the fee is $70",
+      "support_quote": ""
+    },
+    {
+      "text": "uses the term Denny's map for the prereq plan",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fit the TEAS into Denny's map without changing the prereq order",
+      "support_quote": ""
+    },
+    {
+      "text": "wants to apply to the RN program in 2027 and work at St. Anselm",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I really want to apply to the RN program in 2027 and hopefully end up working at St. Anselm someday",
+      "support_quote": ""
+    },
+    {
+      "text": "wants short direct answers, cut extra words",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just fix it and cut the extra words",
+      "support_quote": ""
+    },
+    {
+      "text": "plans to take the TEAS in summer 2026",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f58",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I plan to take the TEAS in summer 2026.",
+      "support_quote": "I think I am going to try to take it in summer 2026"
+    },
+    {
+      "text": "aiming to apply to RN program in 2027",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm aiming to apply to the RN program in 2027",
+      "support_quote": "I really want to apply to the RN program in 2027"
+    },
+    {
+      "text": "Denny's map is the plan Denny made for her",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If he's the one who made the plan, you could change \"Denny's map\" to \"my prereq plan\"",
+      "support_quote": "fit the TEAS into Denny's map without changing the prereq order"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f58",
+      "present": true,
+      "quote": "I think I am going to try to take it in summer 2026 and I saw the fee is $70"
+    },
+    {
+      "item_id": "rochelle.r04",
+      "present": true,
+      "quote": "if maybe it would be possible to fit the TEAS into Denny's map without changing the prereq order?"
+    },
+    {
+      "item_id": "rochelle.f04",
+      "present": true,
+      "quote": "I really want to apply to the RN program in 2027 and hopefully end up working at St. Anselm someday"
+    },
+    {
+      "item_id": "rochelle.i04",
+      "present": true,
+      "quote": "just fix it and cut the extra words"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

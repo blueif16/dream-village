@@ -1,0 +1,63 @@
+{
+  "id": "linh.s69",
+  "principal": "linh",
+  "start": "2025-11-07T12:42:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi!! can u quiz me on the digestive system + absorption pls. anatomy quiz coming up. i have a 600 card flashcard deck so do it like that, one q at a time, short answers"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure! Flashcard style it is: one question at a time, then I'll check your answer and give a quick correction.\n\nCard 1: Where does most nutrient absorption happen in the digestive tract?"
+    },
+    {
+      "role": "user",
+      "text": "small intestine. mostly the jejunum? also can u tag anything likely to be on the quiz with yellow, like in my notes (pink muscles blue bones green nerves yellow for quiz stuff)"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct, the small intestine, and the jejunum does most of it. 🟡 Likely quiz material: the three sections in order (duodenum, jejunum, ileum).\n\nTagging: 🟡 = likely on the quiz, 🟢 = nice to know.\n\nCard 2: What three structures increase the small intestine's surface area for absorption?"
+    },
+    {
+      "role": "user",
+      "text": "ok wait.. circular folds, villi, microvilli? my notes from pedro's group at the library had that one"
+    },
+    {
+      "role": "assistant",
+      "text": "Exactly right. 🟡 Folds, villi, microvilli is a classic quiz answer. The brush border (microvilli) also holds enzymes for final digestion.\n\nCard 3: What does the lacteal inside each villus absorb?"
+    },
+    {
+      "role": "user",
+      "text": "fats.. chylomicrons right? and they go into lymph not the blood"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes. 🟡 Fats are packaged into chylomicrons and enter the lacteals, then lymph, and eventually reach the blood. Most other nutrients (sugars, amino acids) go through capillaries to the hepatic portal vein.\n\nCard 4: Where are bile salts reabsorbed, and where is bile made?"
+    },
+    {
+      "role": "user",
+      "text": "made in liver stored in gallbladder. reabsorbed in ileum. hold on one sec, jun just sent his numbers for the lumpia pop up and i said id finish them before my break"
+    },
+    {
+      "role": "assistant",
+      "text": "All correct! 🟡 Liver makes bile, gallbladder stores it, ileum reabsorbs bile salts.\n\nGo ahead and take care of that. I'll be here when you're back."
+    },
+    {
+      "role": "user",
+      "text": "ok done lol. one more set then im eating my rice bowl"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Final set:\n\nCard 5: Which organ absorbs most of the water from remaining material?\n\nCard 6: Which hormone from the duodenum triggers the gallbladder to contract?\n\nAnswer both and then go enjoy that rice bowl."
+    },
+    {
+      "role": "user",
+      "text": "large intestine. and cck"
+    },
+    {
+      "role": "assistant",
+      "text": "Both right! 🟡 Large intestine absorbs most remaining water and electrolytes (though the small intestine absorbs the bulk of water overall). 🟡 CCK, cholecystokinin, triggers gallbladder contraction and pancreatic enzyme release.\n\nGreat session. Go eat!"
+    }
+  ]
+}

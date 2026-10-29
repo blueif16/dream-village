@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s38",
+  "principal": "rochelle",
+  "start": "2025-11-10T07:13:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest this is urgent. my laptop keeps freezing on the school portal and the med terminology quiz page. its the refurbished one i got with my Pell money so i cant afford another lol. im in Lot C already with my permit on the dash and i have anatomy at 9 so i need the quick fix 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick fixes, in order. Stop after whichever one works:\n\n1. Close everything. Quit every other browser tab and app. Refurbished laptops often have limited memory, and the portal plus a quiz page is heavy.\n2. Clear the cache for just the school sites. In your browser: Settings > Privacy > Clear browsing data > pick 'Cached images and files' only, time range 'All time'. Don't clear passwords.\n3. Restart the laptop. Fully shut down, wait 10 seconds, power on.\n4. Try a private/incognito window for the terminology page. This turns off extensions that can hang it.\n5. Plug in the charger. Many laptops slow down on battery saver.\n\nWhich browser are you using, and is the freezing on every page or just the quiz?"
+    },
+    {
+      "role": "user",
+      "text": "chrome. portal loads slow then freezes. the terminology module for this week is the worst, spinning wheel forever"
+    },
+    {
+      "role": "assistant",
+      "text": "Then do this:\n\n1. Chrome: type chrome://extensions and toggle off everything (ad blockers especially).\n2. Press Shift+Esc to open Chrome's task manager. If one tab is eating lots of memory, end it.\n3. Check your Wi-Fi. A weak signal from the car can look like a freeze. If you can, switch to your phone's hotspot.\n4. Update Chrome: three dots > Help > About Google Chrome. Updating can fix stuck pages on a new machine.\n5. Open the terminology module in incognito, only that tab open.\n\nIf it still spins, don't start the quiz on a shaky connection. Open the module on your phone as backup, and message your instructor if a timer is running."
+    },
+    {
+      "role": "user",
+      "text": "ok the wifi was it lol. switched to hotspot and it loaded. thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Good. Weak signal in the parking lot is common. Hotspot for anything timed, and do the quiz at home on stable Wi-Fi if you can. Go ace anatomy."
+    },
+    {
+      "role": "user",
+      "text": "ok bet"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck in class!"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "session_id": "rochelle.s33",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Rochelle's driver's license number is D4829175",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.w6.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its D4829175 lol ok typing it in",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle does timed practice questions with a kitchen timer",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll do it tonight after my timed practice questions w the kitchen timer",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle worries about losing form entries if the page times out",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also what happens if the page times out halfway and i lose everything i typed",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle wants short answers",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yes short version pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle's share of Thanksgiving groceries is with Keisha",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "its for my share of the thanksgiving groceries with keisha",
+      "support_quote": ""
+    },
+    {
+      "text": "assistant says Rochelle has practice questions and the form tonight",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the practice questions and the form tonight!",
+      "support_quote": "i'll do it tonight after my timed practice questions w the kitchen timer"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.w6.ns01",
+      "present": true,
+      "quote": "its D4829175 lol ok typing it in"
+    },
+    {
+      "item_id": "rochelle.i02",
+      "present": true,
+      "quote": "also what happens if the page times out halfway and i lose everything i typed"
+    },
+    {
+      "item_id": "rochelle.f21",
+      "present": true,
+      "quote": "i'll do it tonight after my timed practice questions w the kitchen timer"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "its D4829175 lol ok typing it in",
+      "assistant_quote": ""
+    }
+  ]
+}

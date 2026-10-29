@@ -1,0 +1,122 @@
+{
+  "session_id": "linh.s26",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Nearly fainted at the espresso bar and will pack Sunday-prepped rice bowls",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i nearly fainted at the espresso bar today lol so im gonna pack sunday prepped rice bowls from now on",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks for quick one-handed lunch ideas after nearly fainting while sorting out cover logistics",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i avoid dairy. 4 lunches pls, cheap and one handed.",
+      "support_quote": ""
+    },
+    {
+      "text": "Keeps a paper planner and put Sunday meal prep in it",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already put meal prep on sunday in my paper planner btw",
+      "support_quote": ""
+    },
+    {
+      "text": "Her mom left her a plate at home after closing",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "linh.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "mom left me a plate at home after closing so thats tonight sorted at least",
+      "support_quote": ""
+    },
+    {
+      "text": "Avoids dairy",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i avoid dairy.",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun gave her a banana today",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "linh.w5.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thank u so much for the banana today",
+      "support_quote": ""
+    },
+    {
+      "text": "Sunday is her prep slot in her planner",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since Sunday is your prep slot, add a line in your planner",
+      "support_quote": "i already put meal prep on sunday in my paper planner btw"
+    },
+    {
+      "text": "Jun caught her when she nearly fainted",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Glad Jun caught it.",
+      "support_quote": "thank u so much for the banana today, i was so out of it.."
+    },
+    {
+      "text": "She has a plate waiting at home",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "linh.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Go enjoy that plate!",
+      "support_quote": "mom left me a plate at home after closing so thats tonight sorted at least"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f30",
+      "present": true,
+      "quote": "i nearly fainted at the espresso bar today lol so im gonna pack sunday prepped rice bowls from now on"
+    },
+    {
+      "item_id": "linh.i03",
+      "present": true,
+      "quote": "i nearly fainted at the espresso bar today lol so im gonna pack sunday prepped rice bowls from now on"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "i already put meal prep on sunday in my paper planner btw"
+    },
+    {
+      "item_id": "linh.f51",
+      "present": true,
+      "quote": "mom left me a plate at home after closing so thats tonight sorted at least"
+    }
+  ],
+  "sensitive": []
+}

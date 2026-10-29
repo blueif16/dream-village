@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s49",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Okoye did the anatomy review this morning at 9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "okoye did the review in anatomy this morning at 9",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has a practical tomorrow",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "what should i expect at the practical and how do i pace myself",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh uses color-coded notes: pink muscles, blue bones, green nerves, yellow for practical",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pink muscles, blue bones, green nerves. and yellow for stuff she said is on the practical",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun and cafe regulars call her Doc",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "jun and the regulars at the cafe call me doc",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh uses Doc nickname jokingly about herself",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Ha, then you've got a reputation to protect, Doc.",
+      "support_quote": "lol jun and the regulars at the cafe call me doc so i better pass"
+    },
+    {
+      "text": "Linh has a color-coded system and a yellow list",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you've got a color-coded system, a yellow list and the review fresh in your head",
+      "support_quote": "pink muscles, blue bones, green nerves. and yellow for stuff she said is on the practical"
+    },
+    {
+      "text": "Linh wants a structured plan with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok wait i need a plan for tomorrow.",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "okoye did the review in anatomy this morning at 9"
+    },
+    {
+      "item_id": "linh.r01",
+      "present": true,
+      "quote": "what should i expect at the practical and how do i pace myself"
+    },
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "yes pls color coded to match my notes. pink muscles, blue bones, green nerves."
+    },
+    {
+      "item_id": "linh.f56",
+      "present": true,
+      "quote": "lol jun and the regulars at the cafe call me doc so i better pass"
+    }
+  ],
+  "sensitive": []
+}

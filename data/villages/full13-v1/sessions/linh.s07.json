@@ -1,0 +1,39 @@
+{
+  "id": "linh.s07",
+  "principal": "linh",
+  "start": "2025-08-31T23:34:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok its sunday night so im doing my planner for the week (washi tape and all) can u help me block it out pls\n\nanatomy MWF 9am, gen chem TTh 11, stats is online. i work mon and wed noon to 6"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Here's a first pass at your week, with a bit of explanation on each block so you can adjust.\n\nMonday: You have anatomy at 9, and your shift starts at noon, so there's a natural window between class and work. I'd use 10:00-11:30 for a quick review of what was covered that morning while it's fresh, then lunch before you head in. After your shift, which ends at 6, you could do a light evening block for stats, maybe starting around 7:30 once you've eaten and had a breather.\n\nTuesday: Chem is at 11, which leaves the morning open. A focused anatomy session from 8 to 10 would work well, then a short pre-class review of chem notes around 10:15. In the afternoon you could do chem problem sets and stats modules, and since there's no work, you could spread these out with breaks.\n\nWednesday: This looks much like Monday, with anatomy at 9, review after, lunch, and work from noon to 6. Evening is a good time for flashcards or a lighter task.\n\nThursday: Chem at 11, so mornings are for anatomy reading or stats, and afternoon is a good time for chem homework.\n\nFriday: Anatomy at 9, then the rest of the day can go to catching up and a weekly review so the weekend is lighter.\n\nIf you tell me about weekend commitments, I can add those too."
+    },
+    {
+      "role": "user",
+      "text": "too long lol just bullets w times pls 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Bullets with times:\n\n**Mon**\n- 9:00-10:00 anatomy\n- 10:15-11:30 anatomy review\n- 12:00-6:00 work\n- 7:30-8:30 stats\n\n**Tue**\n- 8:00-10:00 anatomy study\n- 10:15-10:45 chem prep\n- 11:00-12:00 chem class\n- 1:00-3:00 chem problems\n- 3:30-4:30 stats\n\n**Wed**\n- 9:00-10:00 anatomy\n- 10:15-11:30 review\n- 12:00-6:00 work\n- 7:30-8:30 flashcards\n\n**Thu**\n- 8:00-10:00 anatomy reading\n- 11:00-12:00 chem class\n- 1:00-3:00 chem homework\n- 3:30-4:30 stats\n\n**Fri**\n- 9:00-10:00 anatomy\n- 10:30-12:00 weekly catch-up\n- 1:00-2:00 stats wrap-up"
+    },
+    {
+      "role": "user",
+      "text": "ok that's so much better thank u\n\nalso one more thing. how do i not have the pharmacy convo w my mom this week. i told her im set on pharmacy and she keeps wanting to talk about it..\n\nwhere would i even put that in the week"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's one way to handle it:\n\n- Don't schedule it this week. Early in the term you have a lot going on, and it's fine to wait.\n- If she brings it up, a short deflection works: \"I'm focused on anatomy right now, can we talk after my first practical?\"\n- Pick a rough date for the real conversation, like a weekend after your first big exam, and write it in your planner as a tentative block (say 30 minutes, after dinner).\n- Before then, jot down in a few lines what you want to say, so it's ready.\n\nWant me to draft that short deflection a few different ways?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls but short\n\nok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Three options:\n\n- \"Can we talk about it after exams? Need to focus right now.\"\n- \"I've got it handled, I promise. Let's chat soon.\"\n- \"Dinner first, then plans. I'm starving.\"\n\nGo eat! 🍜"
+    }
+  ]
+}

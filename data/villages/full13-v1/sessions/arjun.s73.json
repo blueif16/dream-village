@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s73",
+  "principal": "arjun",
+  "start": "2025-11-10T22:41:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok need a one page visual cheat sheet for my harrowgate interview prep. second round video interview is nov 18 so its next week. it has to cover their distribution network. pasting my notes\n\n- harrowgate: regional distribution, 6 DCs in nor cal + central valley\n- hub and spoke, main hub feeds smaller cross-dock sites\n- cold chain + dry goods, mostly grocery and food service clients\n- investing in route optimization software\n- they run a mix of own fleet and contract carriers\n- q to ask: how do they decide which DC serves a new client"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a clean one-page layout built from your notes:\n\n[Image: A single portrait page on a white background with a navy header bar reading \"Harrowgate Distribution: Interview Cheat Sheet / Nov 18 video interview\". Below it, a 2x3 grid of cards.\n\nCard 1, Network Map: a simple hub-and-spoke diagram with one large central circle labeled \"Main hub\" and smaller satellite dots labeled \"Cross-dock sites\". Caption: \"6 DCs across Northern California and the Central Valley\".\n\nCard 2, What They Move: two icons, a snowflake for cold chain and a box for dry goods. Caption: \"Grocery and food service clients\".\n\nCard 3, Fleet Model: a split bar labeled \"Own fleet | Contract carriers\".\n\nCard 4, Tech and Investment: a small route icon with \"Route optimization software\".\n\nCard 5, My Angle: blank bullet lines with the heading \"Where I connect\", ready for your project results.\n\nCard 6, Questions to Ask: \"How do they decide which DC serves a new client?\" plus two empty lines for more.\n\nA thin footer strip reads \"Opening 30 sec / 3 strengths / 1 question\".]\n\nWant me to change the card order, or add a spot for numbers you want to remember?"
+    },
+    {
+      "role": "user",
+      "text": "nice. can u make it match my resume, its one page and th bullets are all quantified project style, v19. so th my angle card should have bullets like that with numbers"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Here's the revised version:\n\n[Image: Same one-page layout, but the whole sheet now follows a resume-style format: tight sans-serif type, thin divider lines instead of boxed cards, and a narrow left column for section labels.\n\nThe \"My Angle\" section is now the largest block and holds three bullet slots in a quantified format:\n\n• [Action verb] + [what you built or modeled] + [metric, e.g. % change or volume]\n• [Result] tied to a Harrowgate need such as cold chain, cross-docking or route efficiency\n• [Result] showing how you'd handle a hub-and-spoke problem\n\nA small tag beside each bullet says \"Maps to: network / fleet / tech\", so each project result links to something from your research.\n\nThe network diagram shrinks into a compact strip across the top, and the question card moves to the bottom.]\n\nIf you paste your actual project bullets, I can fill the slots with your real numbers instead of placeholders."
+    },
+    {
+      "role": "user",
+      "text": "later, ill fill th numbers in myself. also i want a small strip for comparing harrowgate against th others, im gonna pull a few numbers from th spreadsheet, th 40 active targets one"
+    },
+    {
+      "role": "assistant",
+      "text": "Good idea. I added a comparison strip:\n\n[Image: A slim table under the header, labeled \"Harrowgate vs. my other targets\". Columns: \"Harrowgate\" and \"Avg. of other targets\". Rows: \"Network size\", \"Cold chain focus\", \"Role fit\", \"Stage\", and \"Gut ranking\". The Harrowgate column is highlighted in the navy accent color and every cell is empty, ready for your numbers. A tiny footnote reads \"Source: my tracker\".\n\nTo keep it on one page, I tightened the margins and cut the \"Questions to Ask\" block to a single line plus one spare line.]\n\nYou can type straight into the blank cells, or send me the numbers and I'll set them in the table."
+    },
+    {
+      "role": "user",
+      "text": "perfect. its already 10:40 but ill be tweaking this till 2 anyway lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, understood. To make the late tweaking easier, I kept everything in separate blocks so you can edit one without breaking the others. The layout is locked to a single page, so it won't spill over as you add numbers.\n\nBefore you open it again, a quick checklist for the next pass:\n\n1. Fill in the three quantified bullets in \"My Angle\".\n2. Add the comparison numbers from your tracker.\n3. Pick your single best question for the end.\n\nIf you want, I can also make a stripped-down version of the sheet to keep next to your screen during the video call. Good luck with the prep."
+    }
+  ]
+}

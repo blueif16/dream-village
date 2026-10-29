@@ -1,0 +1,85 @@
+{
+  "impression_id": "grace.i07",
+  "evidence_sessions": [
+    "grace.s03",
+    "grace.s04",
+    "grace.s11",
+    "grace.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Grace wants precision and verifiable correctness, asking for exact formulas, exact wording and checklists, and treating details as something that must be right rather than close.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s04",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "Grace prefers terse, efficient replies: she asks for steps or bullets, sets word limits, and tells the assistant to shorten responses and drop closing questions.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s04",
+        "grace.s11",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is frustrated by administrative paperwork and duplicated bureaucracy ('Forms for the forms'), and tries to automate it or push back diplomatically instead of complying by hand.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s04",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is a conscientious teacher who works well past the minimum, staying up late on review games and building inventories and lab redesigns, while sounding wry or resigned about whether anyone notices.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s11",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace carries heavy family caregiving and planning load (her mother with a cane, a daughter, a partner, college costs) and handles it practically, doing the fixes herself and planning for worst-case scenarios.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s11",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is warm and effort-praising toward her students but holds her own daughter to a stricter standard around time management, and she admits being less patient at home.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s03",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is frugal and careful about money and costs, designing a lab to cost under $40 and building a budget-capped college comparison with a firm sticker-price cutoff.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s03",
+        "grace.s04"
+      ]
+    },
+    {
+      "statement": "Grace uses a lot of dry nicknames and shorthand for colleagues and drops Filipino words ('Salamat', 'Nanay', 'Ay'), suggesting a casual register when she is comfortable with the assistant.",
+      "strength": "weak",
+      "sessions": [
+        "grace.s03",
+        "grace.s04",
+        "grace.s13"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "Grace is frustrated by administrative paperwork and duplicated bureaucracy ('Forms for the forms'), and tries to automate it or push back diplomatically instead of complying by hand.",
+  "rationale": "The reader inferred that Grace is frustrated by administrative paperwork ('Forms for the forms'), which covers the bristling. But it says she tries to automate or push back 'instead of complying by hand', which contradicts the meticulous compliance, and it never mentions venting sideways. The core pattern of complying meticulously and then venting is missed."
+}

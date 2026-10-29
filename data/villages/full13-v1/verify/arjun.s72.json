@@ -1,0 +1,117 @@
+{
+  "session_id": "arjun.s72",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has a second round video interview with Harrowgate Distribution on Nov 18",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so i have a second round video interview with harrowgate distribution on nov 18",
+      "support_quote": ""
+    },
+    {
+      "text": "Sunita got Arjun a referral through a former colleague",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "arjun.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my sister sunita got me the referral through a former colleague of hers",
+      "support_quote": ""
+    },
+    {
+      "text": "Gurpreet asks Arjun about getting a CDL just in case",
+      "about": "gurpreet",
+      "kind": "fact",
+      "item_id": "arjun.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then at langar gurpreet uncle asked again if im gonna get my cdl just in case",
+      "support_quote": ""
+    },
+    {
+      "text": "Mother sends Arjun home with a tub of dal on Sundays",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "came home with a tub of dal from my mom like every sunday",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun deflects with a dry joke about everyone mapping his career",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so apparently the whole plan is: interview, dal, truck",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun did a research outline on Harrowgate Friday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.w11.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i did a research outline on them friday so thats something",
+      "support_quote": ""
+    },
+    {
+      "text": "Interview is on the 18th, more than a week away, and he did a research outline",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The interview is still more than a week away, and you've already done real prep with your research outline.",
+      "support_quote": "so i have a second round video interview with harrowgate distribution on nov 18"
+    },
+    {
+      "text": "Sunita vouched for Arjun with the referral",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "arjun.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "she vouched for you because she believes you can handle it",
+      "support_quote": "my sister sunita got me the referral through a former colleague of hers"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f14",
+      "present": true,
+      "quote": "so i have a second round video interview with harrowgate distribution on nov 18"
+    },
+    {
+      "item_id": "arjun.f52",
+      "present": true,
+      "quote": "then at langar gurpreet uncle asked again if im gonna get my cdl just in case"
+    },
+    {
+      "item_id": "arjun.f50",
+      "present": true,
+      "quote": "came home with a tub of dal from my mom like every sunday"
+    },
+    {
+      "item_id": "arjun.i04",
+      "present": true,
+      "quote": "everyone has my career mapped out except me apparently"
+    },
+    {
+      "item_id": "arjun.f51",
+      "present": true,
+      "quote": "my sister sunita got me the referral through a former colleague of hers"
+    }
+  ],
+  "sensitive": []
+}

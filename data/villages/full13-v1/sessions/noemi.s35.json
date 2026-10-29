@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s35",
+  "principal": "noemi",
+  "start": "2025-10-01T18:37:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. grabbing my large iced black coffee before shift so typing this fast. my annual self-review was due yesterday (sept 30) and i already submitted a halved draft lol. boss fight got nerfed to half hp. how do you decide what stays when you trim one of these down to the strongest points? tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting it in. Here's how to trim a self-review to the strongest points.\n\nTLDR: Keep what has a result, what was hard, and what someone else relied on. Cut the rest.\n\nHow to pick:\n1. Impact: did it save time, cut errors, or unblock other people? Keep it.\n2. Ownership: things you ran or fixed yourself beat things you helped with.\n3. Numbers: anything you can count (tickets closed, turnaround time, backlog size) beats a general description.\n4. Range: keep one example per kind of work so the review shows breadth. Merge similar items into a single line.\n5. Cut: routine tasks with no outcome, anything that duplicates another point, and play-by-play of how you did it.\n\nWant to paste what you've got? I can mark which lines to keep or merge."
+    },
+    {
+      "role": "user",
+      "text": "ok so stuff i could count. i log all the desk tickets in the internal queue so theres a real number there. also i track scanner RMAs in my own spreadsheet. is the ticket thing strong enough to keep or too basic"
+    },
+    {
+      "role": "assistant",
+      "text": "Keep both, but frame them as outcomes, not chores.\n\nTickets: logging them is routine on its own. It gets strong when you pair it with a number or result. For example: \"Resolved [X] desk tickets in the internal queue this year, with [average turnaround or backlog trend].\" Pull the count straight from the queue.\n\nRMA spreadsheet: this one may be stronger, because you built and maintain your own tracking system. Say what it enabled: \"Track scanner returns to the vendor in a spreadsheet I maintain, which [faster replacements / fewer lost units / clear status].\"\n\nTLDR: Tickets = count plus turnaround. RMA tracking = the system you made plus what it improved. Lead with whichever has the better number."
+    },
+    {
+      "role": "user",
+      "text": "ty that's actually gg. will lead with the rma sheet"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call. If you'd like, send me the line when you rewrite it and I'll tighten the wording. Good luck on shift."
+    }
+  ]
+}

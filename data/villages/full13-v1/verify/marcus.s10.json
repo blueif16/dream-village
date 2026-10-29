@@ -1,0 +1,77 @@
+{
+  "session_id": "marcus.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus has a cracked-corner Android about 3 years old whose battery dies by 4 a.m.",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "cracked-corner android, like 3 yrs old. battery dies by 4 am lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus carries a power bank on shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i carry a power bank on shift now but not sure its big enough",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus works a 10pm to 6:30 shift tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "heading to my 10pm to 6:30 shift tonight so kinda need this soon",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus's phone battery dies by 4 a.m.",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "if yours is dead by 4 a.m. it's probably losing about a full charge over that stretch",
+      "support_quote": "battery dies by 4 am lol"
+    },
+    {
+      "text": "Marcus listens to music in one earbud all night on shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "music in one earbud all night",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f31",
+      "present": true,
+      "quote": "i carry a power bank on shift now but not sure its big enough"
+    },
+    {
+      "item_id": "marcus.f30",
+      "present": true,
+      "quote": "cracked-corner android, like 3 yrs old. battery dies by 4 am lol"
+    },
+    {
+      "item_id": "marcus.f04",
+      "present": true,
+      "quote": "heading to my 10pm to 6:30 shift tonight so kinda need this soon"
+    }
+  ],
+  "sensitive": []
+}

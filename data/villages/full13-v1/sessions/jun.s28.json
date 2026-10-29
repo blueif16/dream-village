@@ -1,0 +1,31 @@
+{
+  "id": "jun.s28",
+  "principal": "jun",
+  "start": "2025-10-16T14:10:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss quick numbers stuff, how does sales tax work if i sell hot fried food at a market stall. its fried lumpiang shanghai, pork and shrimp, with sweet chili and spiced vinegar dips 🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Short version, since this is general info and not tax advice for your exact setup:\n\n- Hot prepared food is usually taxable in California. Cold groceries often aren't, but food sold hot (fresh out of the fryer) generally is. Fried lumpia with dips counts as hot prepared food.\n- You collect the tax from customers on top of your price (or build it into the price and say so on your sign).\n- You need a seller's permit from the state tax agency (CDTFA). It's usually free to register.\n- You report what you sold and pay the tax on a schedule they assign, often quarterly for small sellers.\n- The rate depends on where you sell, since it's the local district rate for that location.\n\nWant me to go deeper on any part?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually im not in yet, im on rick's waitlist for a sunday slot at delgado park. what would i owe if i get in. also i need the short version, heading to a closing shift at the cafe soon"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version if you get the slot:\n\n1. Get a seller's permit before your first Sunday. Register online with the state tax agency.\n2. Charge sales tax on the hot lumpia, using the rate for the market's location. The agency has a lookup by address.\n3. Keep a simple record of each day's sales and the tax collected.\n4. File and pay on the schedule they give you.\n\nSeparate from sales tax, the market itself may have its own vendor fees and permit requirements, so ask the coordinator what they require. I don't know your prices or volumes, so I can't give a dollar amount. If you tell me your price per order, I can show you how to work out the tax on it."
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥 ok actually can you make it a checklist i can tape by the fryer"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\nSALES TAX CHECKLIST\n☐ Seller's permit registered (before first market day)\n☐ Look up tax rate for the market address\n☐ Add tax to hot food sales, or post that prices include it\n☐ Log daily sales + tax collected\n☐ File and pay by the due date\n☐ Ask the market coordinator about vendor fees/permits\n\nHave a good shift!"
+    }
+  ]
+}

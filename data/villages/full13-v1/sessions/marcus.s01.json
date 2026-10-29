@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s01",
+  "principal": "marcus",
+  "start": "2025-08-27T13:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick i need a plan for this heat. i pick orders at ridgeline on nights and i cant sleep in the day with it this hot. i have a 2pm section today and need to be up for it"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Quick questions so the plan fits: when did you get to bed this morning, and what do you have in the room to cool it down?"
+    },
+    {
+      "role": "user",
+      "text": "got in around 7:30 slept maybe 4 hrs lol. just bought a box fan for the bedroom, 25 bucks, its not enough fr. not the 8 hours lecture i know. short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Before class today (now to 2 p.m.)**\n- Eat something light and drink a big glass of water with a pinch of salt or an electrolyte packet.\n- Cold shower or a cold wet cloth on your neck and wrists right before you leave.\n- Caffeine only before about 1 p.m. if you want it, one cup, so it doesn't wreck tonight.\n\n**Cooling the bedroom**\n- Put the fan in the window facing OUT at night-ish hours, or across the room from you so it moves air over you.\n- Hang a damp sheet or towel in front of the fan for a cheap swamp-cooler effect.\n- Block the sun: foil, cardboard or a blackout sheet on the window. Keep it shut and covered during the day.\n- Sleep in thin cotton, and chill a water bottle to hold against your neck.\n\n**Sleep**\n- Try a 90-minute nap after class and before your shift. Set an alarm so you don't oversleep.\n- Keep the cooling routine the same each time so your body learns it.\n\n**For the shift**\n- Bring a big water bottle and something salty to snack on.\n\nWant a few more options for the room, or is this enough to pick from?"
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. the wet towel thing im gonna try"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice. Wet it with cool water, wring it so it's damp, not dripping, and re-wet it every hour or two. Good luck in class and on shift tonight."
+    }
+  ]
+}

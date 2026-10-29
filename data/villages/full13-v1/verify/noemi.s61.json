@@ -1,0 +1,112 @@
+{
+  "session_id": "noemi.s61",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has a self-built desktop with a mid-range GPU and ultrawide monitor",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "self built desktop, mid range gpu",
+      "support_quote": ""
+    },
+    {
+      "text": "Plays a co-op survival raid with her squad on Sunday night",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my squad runs the co-op survival raid",
+      "support_quote": ""
+    },
+    {
+      "text": "Reuses one password on nearly everything",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i used the same password on basically everything lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Reusing passwords while holding others to security rules until a scare",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got a breach alert email about an old shopping account.",
+      "support_quote": ""
+    },
+    {
+      "text": "Got a breach alert on an old shopping account",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w10.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got a breach alert email about an old shopping account.",
+      "support_quote": ""
+    },
+    {
+      "text": "Works a long swing starting at 1",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "before i head in for the long swing at 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Password was reused widely",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since the password was reused widely, treat everything sharing it as exposed.",
+      "support_quote": "i used the same password on basically everything lol"
+    },
+    {
+      "text": "Has a raid on Sunday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Enjoy the raid on Sunday",
+      "support_quote": "my squad runs the co-op survival raid"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f20",
+      "present": true,
+      "quote": "self built desktop, mid range gpu"
+    },
+    {
+      "item_id": "noemi.f18",
+      "present": true,
+      "quote": "need it fixed before sunday night, my squad runs the co-op survival raid"
+    },
+    {
+      "item_id": "noemi.i03",
+      "present": true,
+      "quote": "got a breach alert email about an old shopping account. i used the same password on basically everything lol. what else uses it"
+    },
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "have to wrap this up before i head in for the long swing at 1 so keep it tight"
+    }
+  ],
+  "sensitive": []
+}

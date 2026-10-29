@@ -1,0 +1,31 @@
+{
+ "seed": 0,
+ "rule": "4 per question_type; 1 abstention item (6% of 24, as in the full set) swapped into the type with most _abs; seed 0",
+ "subset_idx": "13,18,28,37,122,144,151,161,162,169,172,228,266,313,336,360,372,400,416,420,464,475,495,498",
+ "question_ids": [
+  "c960da58",
+  "ad7109d1",
+  "853b0a1d",
+  "3f1e9474",
+  "c2ac3c61",
+  "6b7dfb22",
+  "505af2f5",
+  "1c0ddc50",
+  "0a34ad58",
+  "9aaed6a3",
+  "51c32626",
+  "2311e44b_abs",
+  "gpt4_4ef30696",
+  "2c63a862",
+  "gpt4_9a159967",
+  "8c18457d",
+  "d7c942c3",
+  "7a87bd0c",
+  "e66b632c",
+  "dfde3500",
+  "8464fc84",
+  "d596882b",
+  "eaca4986",
+  "1de5cff2"
+ ]
+}

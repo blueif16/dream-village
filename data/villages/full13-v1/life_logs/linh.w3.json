@@ -1,0 +1,349 @@
+{
+  "principal": "linh",
+  "week": 3,
+  "entries": [
+    {
+      "id": "linh.w3.l01",
+      "date": "2025-09-08",
+      "what": "Linh bikes to campus for a morning of notes after skipping breakfast, then works the Monday 12-6 shift at Heron & Grind, pulling shots beside Jun and serving Wes his cortado.",
+      "with": [
+        "jun",
+        "wes"
+      ],
+      "outcome": "Shift ran smoothly; Wes called her Doc again.",
+      "feeling": "steady, a little hungry",
+      "facts": [
+        "linh.f03",
+        "linh.f09",
+        "linh.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l02",
+      "date": "2025-09-08",
+      "what": "Biked home to Pell Road; Hạnh left a plate and Linh ate it cold while recoloring her anatomy notes in pink and blue.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Muscle chapter notes caught up.",
+      "feeling": "tired but organized",
+      "facts": [
+        "linh.f07",
+        "linh.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l03",
+      "date": "2025-09-09",
+      "what": "After Anatomy and a lab review, Linh skipped lunch on her break to build Jun's per-roll cost spreadsheet for Lola's Roll, pulling fat and sodium numbers for the label and getting oddly excited about it.",
+      "with": [
+        "jun"
+      ],
+      "outcome": "Finished the cost-per-roll sheet and gave it to Jun for free.",
+      "feeling": "absorbed, energized",
+      "facts": [
+        "linh.f35"
+      ],
+      "impressions": [
+        "linh.i03",
+        "linh.i04"
+      ]
+    },
+    {
+      "id": "linh.w3.l04",
+      "date": "2025-09-09",
+      "what": "Kenji gave her a ride to chemistry class and she ate half a granola bar at 2 p.m. because she realized she hadn't eaten.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Got through chem lecture on a snack.",
+      "feeling": "distracted, pleased",
+      "facts": [
+        "linh.f52",
+        "linh.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l05",
+      "date": "2025-09-09",
+      "what": "Evening at home with the flashcard deck, reviewing 40 anatomy cards, then planning the week in her washi-tape planner.",
+      "with": [],
+      "outcome": "Next week's schedule blocked out.",
+      "feeling": "calm",
+      "facts": [
+        "linh.f24",
+        "linh.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l06",
+      "date": "2025-09-10",
+      "what": "Wednesday Anatomy at 9 with Dr. Okoye, sitting next to Rochelle, who asked three questions in a row.",
+      "with": [
+        "miriam",
+        "rochelle"
+      ],
+      "outcome": "Took color-coded notes on the nervous system.",
+      "feeling": "focused",
+      "facts": [
+        "linh.f02",
+        "linh.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l07",
+      "date": "2025-09-10",
+      "what": "Worked the Wednesday 12-6 shift at Heron & Grind; Jun showed her another pour and thanked her for the sheet between orders.",
+      "with": [
+        "jun"
+      ],
+      "outcome": "Her heart pours got cleaner.",
+      "feeling": "proud",
+      "facts": [
+        "linh.f03",
+        "linh.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l08",
+      "date": "2025-09-10",
+      "what": "Phone battery died on the ride home so she plugged in and finished Statistics homework on Thao's old laptop.",
+      "with": [],
+      "outcome": "Stats module submitted.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "linh.f25",
+        "linh.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l09",
+      "date": "2025-09-11",
+      "what": "Kenji drove her to General Chemistry at 11; she ate a late lunch of leftover rice in the parking lot.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Chem problem set understood.",
+      "feeling": "okay",
+      "facts": [
+        "linh.f52",
+        "linh.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l10",
+      "date": "2025-09-11",
+      "what": "Studied alone in the library for two hours instead of joining a study group, then rode home.",
+      "with": [],
+      "outcome": "Finished anatomy chapter review.",
+      "feeling": "quietly productive",
+      "facts": [
+        "linh.f21"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l11",
+      "date": "2025-09-11",
+      "what": "Thao texted before her night shift; Linh replied with a short okay and promised to eat dinner.",
+      "with": [
+        "thao"
+      ],
+      "outcome": "Kept it brief.",
+      "feeling": "slightly prickly",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l12",
+      "date": "2025-09-12",
+      "what": "Friday Anatomy at 9, then a quiet afternoon of flashcards at Heron & Grind on her day off, sitting at the vault-wall outlets.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Reviewed 80 cards with Kenji quizzing her.",
+      "feeling": "relaxed",
+      "facts": [
+        "linh.f24",
+        "linh.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l13",
+      "date": "2025-09-12",
+      "what": "Helped Hạnh with grocery shopping at Ruiz Family Market and cooked dinner prep for the weekend.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Fridge stocked.",
+      "feeling": "dutiful",
+      "facts": [
+        "linh.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l14",
+      "date": "2025-09-12",
+      "what": "Went to bed at 12:30 after sorting weekend planner pages.",
+      "with": [],
+      "outcome": "Set alarm for the 6:30 Saturday opening.",
+      "feeling": "sleepy",
+      "facts": [
+        "linh.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l15",
+      "date": "2025-09-13",
+      "what": "Opened Heron & Grind at 6:30 for the Saturday shift; the Ridgeline hiring fair lines downtown meant a rush of students and parents grabbing coffee early.",
+      "with": [
+        "sam",
+        "beatrice"
+      ],
+      "outcome": "Busy morning, good tips.",
+      "feeling": "hustled",
+      "facts": [
+        "linh.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l16",
+      "date": "2025-09-13",
+      "what": "Thao covered a replacement bike lock for Linh; on break Linh asked for a cheap thank-you gift idea and settled on a coffee bean bag and phở.",
+      "with": [
+        "thao"
+      ],
+      "outcome": "Picked a small gift under $15.",
+      "feeling": "grateful, a little embarrassed",
+      "facts": [
+        "linh.f31"
+      ],
+      "impressions": [
+        "linh.i05"
+      ]
+    },
+    {
+      "id": "linh.w3.l17",
+      "date": "2025-09-13",
+      "what": "Saw Aaliyah's friend group celebrating getting hired at the Ridgeline fair; Rochelle texted Linh that Aaliyah got a seasonal picker spot.",
+      "with": [
+        "rochelle",
+        "aaliyah"
+      ],
+      "outcome": "Sent congratulations.",
+      "feeling": "happy for them",
+      "facts": [
+        "cast.f82"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l18",
+      "date": "2025-09-14",
+      "what": "Worked the Sunday 6:30-1 shift, then went to Lotus Nails to work the front desk from 2 to 5.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Long day on her feet.",
+      "feeling": "tired",
+      "facts": [
+        "linh.f39",
+        "linh.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w3.l19",
+      "date": "2025-09-14",
+      "what": "Before Sunday dinner with Hạnh she wanted talking points on pharmacy but ended up asking for ways to change the subject; the pharmacy talk stayed postponed.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Dinner passed without the conversation.",
+      "feeling": "relieved but guilty",
+      "facts": [
+        "linh.f14"
+      ],
+      "impressions": [
+        "linh.i01"
+      ]
+    },
+    {
+      "id": "linh.w3.l20",
+      "date": "2025-09-14",
+      "what": "Planned next week in her washi-tape planner and took a short walk on the marsh boardwalk first.",
+      "with": [],
+      "outcome": "Week blocked out.",
+      "feeling": "settled",
+      "facts": [
+        "linh.f36",
+        "linh.f37"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "linh.w3.n01",
+      "subject": "linh",
+      "attribute": "thank_you_gift_for_thao",
+      "value": "bag of cafe beans and a phở breakfast, under $15",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w3.n02",
+      "subject": "linh",
+      "attribute": "bike_lock",
+      "value": "Thao paid for a replacement bike lock",
+      "valid_from": "2025-09-13",
+      "valid_to": "2025-09-18",
+      "superseded_by": "linh.w4.n01",
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w3.n03",
+      "subject": "jun",
+      "attribute": "lumpia_label",
+      "value": "nutrition numbers from Linh's sheet go on the Lola's Roll label",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.w3.n04",
+      "subject": "linh",
+      "attribute": "flashcard_progress",
+      "value": "reviewed 80 anatomy cards at the cafe on Sept 12",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w3.n05",
+      "subject": "wes",
+      "attribute": "cortado_tip",
+      "value": "tipped Linh in quarters again on Sept 8",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

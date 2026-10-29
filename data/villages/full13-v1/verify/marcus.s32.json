@@ -1,0 +1,127 @@
+{
+  "session_id": "marcus.s32",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus owes Trevor $60 for gas and a burrito run",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need to add that im paying trevor back the 60 i owe him for gas and a burrito run after this payday",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus sends his mom $250 every other Friday for the electric bill",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gonna send 250 every other friday now for the electric bill.",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus gets a $1.50 peak bump per hour",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the peak season bump is 1.50 more an hour",
+      "support_quote": ""
+    },
+    {
+      "text": "Denise would call the transfers a loan and write them in her notebook",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": "marcus.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shes gonna say its a loan and write it down so i need it to not sound like one",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus hides the cost of the transfers from his mom with a raise story, putting her needs first",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hey ma got a raise at work, the peak season bump is 1.50 more an hour so im good.",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus sends $250 every other Friday toward the electric bill",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll send $250 every other Friday toward the electric bill.",
+      "support_quote": "gonna send 250 every other friday now for the electric bill."
+    },
+    {
+      "text": "Marcus owes Trevor $60",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Also squaring up the $60 I owe Trevor after this payday",
+      "support_quote": "i need to add that im paying trevor back the 60 i owe him for gas and a burrito run after this payday"
+    },
+    {
+      "text": "Marcus's pay is up $1.50 an hour for peak season",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "They bumped my pay by $1.50 an hour for peak season",
+      "support_quote": "the peak season bump is 1.50 more an hour"
+    },
+    {
+      "text": "Denise would treat the transfer as a debt to track",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": "marcus.f49",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "phrased it as \"chipping in\" so it reads as family helping family rather than a debt",
+      "support_quote": "shes gonna say its a loan and write it down so i need it to not sound like one"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f48",
+      "present": true,
+      "quote": "i need to add that im paying trevor back the 60 i owe him for gas and a burrito run after this payday"
+    },
+    {
+      "item_id": "marcus.i02",
+      "present": true,
+      "quote": "hey ma got a raise at work, the peak season bump is 1.50 more an hour so im good."
+    },
+    {
+      "item_id": "marcus.f14",
+      "present": true,
+      "quote": "gonna send 250 every other friday now for the electric bill."
+    },
+    {
+      "item_id": "marcus.f07",
+      "present": true,
+      "quote": "the peak season bump is 1.50 more an hour"
+    },
+    {
+      "item_id": "marcus.f49",
+      "present": true,
+      "quote": "shes gonna say its a loan and write it down so i need it to not sound like one"
+    }
+  ],
+  "sensitive": []
+}

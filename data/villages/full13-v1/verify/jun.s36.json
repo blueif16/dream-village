@@ -1,0 +1,112 @@
+{
+  "session_id": "jun.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Business Lola's Roll is named for his grandmother",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's for lola's roll, named after my lola",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess originated the pork-and-shrimp lumpia recipe",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the recipe originally came from my mom tess",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun rolls wrappers to old OPM ballads at the kitchen table",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rolling wrappers at the kitchen table with old OPM ballads playing",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun cares about how his mother would take the caption",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "idk how my mom would take it",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess rarely comments on his food unless too much onion",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she doesnt really say stuff about my food unless its too much onion",
+      "support_quote": ""
+    },
+    {
+      "text": "The business is named for Jun's grandmother",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "'Lola-approved' also fits perfectly since the business is named for your grandmother.",
+      "support_quote": "it's for lola's roll, named after my lola"
+    },
+    {
+      "text": "Jun rolls to old ballads at the kitchen table",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f40",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Rolling to old ballads at the kitchen table sounds like the right mood for this caption.",
+      "support_quote": "rolling wrappers at the kitchen table with old OPM ballads playing"
+    },
+    {
+      "text": "The recipe was his mom's",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the recipe was hers",
+      "support_quote": "the recipe originally came from my mom tess"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.i02",
+      "present": true,
+      "quote": "ok actually the thing is idk how my mom would take it, she doesnt really say stuff about my food unless its too much onion lol"
+    },
+    {
+      "item_id": "jun.f10",
+      "present": true,
+      "quote": "it's for lola's roll, named after my lola"
+    },
+    {
+      "item_id": "cast.f57",
+      "present": true,
+      "quote": "pork and shrimp, the recipe originally came from my mom tess so i want the caption to credit her"
+    },
+    {
+      "item_id": "jun.f40",
+      "present": true,
+      "quote": "im typing this late after rolling wrappers at the kitchen table with old OPM ballads playing lol"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "thao.s18",
+  "principal": "thao",
+  "start": "2025-09-30T08:02:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:02 and i'm dead. need a shared grocery list app on my phone. my boyfriend moves in tomorrow so we both need to add stuff. which one is easiest"
+    },
+    {
+      "role": "assistant",
+      "text": "For something simple that you both can edit live, I'd go with one of these:\n\n- Google Keep: free, no account fuss if you're on Android or already use Google. Share a list by email.\n- Apple Reminders: free, built in on iPhone, shared lists sync instantly.\n- AnyList: free basics, auto-sorts items by store aisle.\n\nWhat kind of phone do you have, and do you want the list sorted by store section?"
+    },
+    {
+      "role": "user",
+      "text": "iphone. and yes group by aisle, i do my tuesday afternoon run at ruiz family market, mostly produce and fish sauce. ok but realistically which one"
+    },
+    {
+      "role": "assistant",
+      "text": "AnyList, then. It groups by aisle automatically and you can edit the order to match your store.\n\nSteps:\n1. App Store > search AnyList > Get\n2. Open it, create a free account\n3. Tap Lists > Groceries\n4. Tap the person icon > Share > enter your boyfriend's number or email\n5. In settings, add a store and drag the categories into the order you walk it"
+    },
+    {
+      "role": "user",
+      "text": "ugh install is lagging. phone is 3 yrs old, cracked screen protector and the voicemail box is basically full which probably doesnt help 🙃"
+    },
+    {
+      "role": "assistant",
+      "text": "Full voicemail won't slow installs, but low storage will. Check Settings > General > iPhone Storage and clear a few big apps or old videos. Then restart the phone and retry the download on wifi. Cracked protector isn't the issue, just annoying.\n\nWant the setup steps again once it's installed?"
+    },
+    {
+      "role": "user",
+      "text": "its in. can it send text alerts instead of calls? i dont want anything that needs me to phone someone or verify by call"
+    },
+    {
+      "role": "assistant",
+      "text": "AnyList doesn't call anyone. Account setup is by email, and sharing goes by text or email invite. For alerts:\n\n- Settings > Notifications > AnyList > turn on Allow Notifications\n- In the app, turn on list change notifications so you get a push when he adds something\n- Invite him by text message so the whole thing stays in messages\n\nNothing requires a phone call."
+    },
+    {
+      "role": "user",
+      "text": "good. also want a template line for my 2am meal on shift. leftover rice plus whatever my mom sends. so i can add it to the list"
+    },
+    {
+      "role": "assistant",
+      "text": "Add a recurring item like this:\n\n**Shift meal: leftover rice + mom's food (check fridge before Tuesday run)**\n\nTo make it repeat: tap the item > Repeat > Weekly. You can also add a small sub-list under it for toppings, like eggs or greens, so you only buy what the rice needs."
+    },
+    {
+      "role": "user",
+      "text": "perfect thx"
+    },
+    {
+      "role": "assistant",
+      "text": "You're set. Get some sleep!"
+    }
+  ]
+}

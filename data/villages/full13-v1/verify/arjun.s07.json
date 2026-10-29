@@ -1,0 +1,112 @@
+{
+  "session_id": "arjun.s07",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun shares a place with a roommate who just worked a night shift",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my roommate just got back from a night shift on it",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun paid his $1,090 rent share via Gloria's portal",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "paid my $1,090 share of rent on gloria's portal this morning the second it opened btw",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun's mom sent extra dal home with him",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "came back from the picnic with extra dal from my mom",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun added six rows to his internship tracker",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i added six rows to the spreadsheet today",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun paid his rent and added rows",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice work on the rent and the rows.",
+      "support_quote": "paid my $1,090 share of rent on gloria's portal this morning the second it opened btw"
+    },
+    {
+      "text": "Arjun's food is covered this week",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "rent handled and food covered",
+      "support_quote": "came back from the picnic with extra dal from my mom so food is covered this week"
+    },
+    {
+      "text": "Arjun has a roommate who worked a holiday shift",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "tell your roommate nice work on the holiday shift",
+      "support_quote": "my roommate just got back from a night shift on it"
+    },
+    {
+      "text": "Arjun has applications in progress",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Good luck with the rest of those applications",
+      "support_quote": "i added six rows to the spreadsheet today"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f05",
+      "present": true,
+      "quote": "keeping it quiet at the kitchen table so he can sleep th whole morning off lol"
+    },
+    {
+      "item_id": "arjun.f06",
+      "present": true,
+      "quote": "paid my $1,090 share of rent on gloria's portal this morning the second it opened btw"
+    },
+    {
+      "item_id": "arjun.f50",
+      "present": true,
+      "quote": "also came back from the picnic with extra dal from my mom so food is covered this week"
+    },
+    {
+      "item_id": "arjun.r01",
+      "present": true,
+      "quote": "also i added six rows to the spreadsheet today before looking this up"
+    }
+  ],
+  "sensitive": []
+}

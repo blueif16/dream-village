@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s56",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sam owes Linh two Saturday shifts from September swaps",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i still have two saturdays from the september swaps that you owe me",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh closes Wednesday nights",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i close wednesday nights so saturday opening is rough after",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh avoids direct asks, prefers softer 'maybe' wording and considers not sending",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "honestly is it ok if i just dont send it.. he might say no",
+      "support_quote": ""
+    },
+    {
+      "text": "Wes calls Linh Doc",
+      "about": "wes",
+      "kind": "fact",
+      "item_id": "linh.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he called me doc at the rush again lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Sam owes Linh two Saturdays",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you still owe me two from the September swaps",
+      "support_quote": "i still have two saturdays from the september swaps that you owe me"
+    },
+    {
+      "text": "Assistant says Linh closes Wednesday nights",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I close Wednesday nights so the early start is rough",
+      "support_quote": "i close wednesday nights so saturday opening is rough after"
+    },
+    {
+      "text": "Linh handled a busy rush and made Wes's cortado well",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "he's saying you handled a busy rush and made his cortado well",
+      "support_quote": "Morning rush was a zoo but Doc held the line."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f55",
+      "present": true,
+      "quote": "i still have two saturdays from the september swaps that you owe me"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "i close wednesday nights so saturday opening is rough after"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "the 'maybe' felt safer lol"
+    },
+    {
+      "item_id": "linh.f56",
+      "present": true,
+      "quote": "Morning rush was a zoo but Doc held the line."
+    }
+  ],
+  "sensitive": []
+}

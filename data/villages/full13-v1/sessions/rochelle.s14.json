@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s14",
+  "principal": "rochelle",
+  "start": "2025-09-22T12:26:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest does this sound nagging. its to my sister, can u make it sound less mad\n\n\"Keisha I need a ride to campus this week. The van is acting up again and the check engine light has been on all week. I told you Monday. I have to be in Lot C by 8:15 so you'd have to leave early. Can you just tell me yes or no\""
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, it reads a little sharp, mostly \"I told you Monday\" and the \"yes or no\" at the end. Here's a softer version:\n\n\"Hey Keisha, can I get a ride to campus a couple days this week? The van is acting up and the check engine light has been on all week. I need to be in Lot C by 8:15, so it would mean leaving a bit early. Let me know what works for you, and thank you!\"\n\nIf you want it even shorter, cut the second sentence's detail and keep the 8:15 part."
+    },
+    {
+      "role": "user",
+      "text": "she said last time she can only talk on her 10 am dispatch break. her text was \"call me at 10 on my break, i cant text much at work\". should i add that"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, that fits well. Here's a version that works with her break:\n\n\"Hey Keisha, can I get a ride to campus a couple days this week? The van is acting up and the check engine light has been on all week. I need to be in Lot C by 8:15, so it would mean leaving a bit early. I'll call you on your 10 a.m. break so we can sort out which days. Thank you!\"\n\nThat way she isn't pressured to answer by text, and you've told her exactly when to expect the call."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome! Hope the ride gets sorted quickly."
+    }
+  ]
+}

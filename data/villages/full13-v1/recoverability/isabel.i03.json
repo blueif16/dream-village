@@ -1,0 +1,96 @@
+{
+  "impression_id": "isabel.i03",
+  "evidence_sessions": [
+    "isabel.s04",
+    "isabel.s19",
+    "isabel.s20",
+    "isabel.s34",
+    "isabel.s40",
+    "isabel.s44"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel repeatedly calls her town boring or a 'nothing place' yet shows deep attachment to it through the marsh, her lola's Sunday sinigang, the local market, and the food drive, so the complaints are a deflecting cover for real affection.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s04",
+        "isabel.s19",
+        "isabel.s20",
+        "isabel.s34",
+        "isabel.s40",
+        "isabel.s44"
+      ]
+    },
+    {
+      "statement": "She downplays her feelings with casual or dismissive phrasing ('its whatever,' 'not a big deal lol,' 'ur a good cook i guess'), especially about family and her lola, and is glad when warmth is added in a restrained, not-mushy way.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s19",
+        "isabel.s20",
+        "isabel.s34",
+        "isabel.s44"
+      ]
+    },
+    {
+      "statement": "She prefers short, practical, low-fuss responses (bare lists, 'short version pls,' 'keep it short') and signals impatience with extra padding or lectures.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s04",
+        "isabel.s34",
+        "isabel.s19",
+        "isabel.s44"
+      ]
+    },
+    {
+      "statement": "She asks for candor ('be so for real') and seeks reassurance that work is actually done or good enough, doubting finished things like the flyer and her SAT readiness.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s04",
+        "isabel.s19",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She is deeply invested in the Ulloa marsh and egret counting, treating her tally notebook, photos, and count preparation as a serious, identity-defining passion she wants to understand scientifically.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s04",
+        "isabel.s20",
+        "isabel.s34",
+        "isabel.s40",
+        "isabel.s44"
+      ]
+    },
+    {
+      "statement": "She is anxious about leaving home and her future, preparing for the SAT, essays and applications, and writing down her lola's recipe in case she ends up somewhere cold with no Filipino stores.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s04",
+        "isabel.s19",
+        "isabel.s20",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She is careful about what the assistant retains about people close to her, asking it to forget a midnight remark about Grace, and she handles family rules (curfews) by negotiating independently and preempting parental lectures.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s20",
+        "isabel.s34"
+      ]
+    },
+    {
+      "statement": "She relies on a close support network (Nadia, Ramon, her tutor, lola) and often works late at night, around midnight to 1am, even when she feels she should be studying.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s19",
+        "isabel.s20",
+        "isabel.s34",
+        "isabel.s40"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Isabel repeatedly calls her town boring or a 'nothing place' yet shows deep attachment to it through the marsh, her lola's Sunday sinigang, the local market, and the food drive, so the complaints are a deflecting cover for real affection.",
+  "rationale": "The first inferred statement, rated strong, captures the same pattern: Isabel complains that her town is boring or a 'nothing place' while showing real attachment through the marsh and her lola's cooking, so the complaints cover genuine affection."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "thao.s37",
+  "principal": "thao",
+  "start": "2025-11-06T08:58:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:58 and i'm dead but need this before i sleep. how do holiday shift swaps and pto usually get approved on a hospital unit. i swapped with jasmine, off nov 26-28, working christmas eve instead. what do i confirm in writing"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version of how it usually works:\n\n- Swaps between two staff on the same unit and skill level typically need both people's agreement plus sign-off from the manager or scheduler. A text between the two of you isn't the approval.\n- Holiday PTO is often decided by seniority, rotation, or request deadline, and the unit's staffing minimums have to be met. Swaps are often easier to approve than straight PTO because coverage stays the same.\n- Approval usually happens in the scheduling system or by email, and the posted schedule is what counts.\n\nWhat to confirm in writing for your swap:\n1. Exact dates and shift times for both sides: you off Nov 26-28, and the Christmas Eve shift you're taking (start/end times).\n2. That the manager or scheduler approved it, and who approved it.\n3. That the posted schedule was updated to match.\n4. That it's a straight swap, with no PTO hours or overtime/differential changes.\n5. What happens if either of you can't make your shift (who's responsible).\n6. Any holiday pay rules that apply to Christmas Eve.\n\nWant a draft message for this?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. jasmine and i settle swaps by text usually, is that enough or does it need to go thru the scheduler. scheduling's been messy since go-live so i want it documented properly"
+    },
+    {
+      "role": "assistant",
+      "text": "A text between you two is good backup evidence, but it usually isn't enough alone. The manager or scheduler normally needs to approve it, and the official schedule needs to reflect it. Since you've had scheduling problems since the system change, I'd get a written approval and screenshot it along with your texts with Jasmine.\n\nDraft:\n\n\"Hi [scheduler/manager name], confirming a shift swap between [your name] and Jasmine: I'll be off Nov 26-28, and I'll work Christmas Eve ([shift time]) in exchange. Could you please confirm in writing that this is approved and that the posted schedule has been updated to match? Also let me know if anything about holiday pay or differentials changes. Thanks, [your name]\"\n\nFill in the brackets and keep the reply."
+    },
+    {
+      "role": "user",
+      "text": "can that be confirmed by message or the scheduling portal instead of me having to call the scheduler"
+    },
+    {
+      "role": "assistant",
+      "text": "Often yes. Options:\n\n- The scheduling portal or app: many units have a shift-swap request function that logs approval automatically. Check whether your system has one.\n- Email or secure message to the scheduler or manager: ask for a written reply, which is all you need.\n- If someone says to call, reply with \"Can you confirm by email so we both have a record?\" Most places are fine with that.\n\nIf you do end up needing a call, tell me and I'll write a quick script. Otherwise, send the draft above by message, and check the portal in a few days to confirm the schedule changed."
+    }
+  ]
+}

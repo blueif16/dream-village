@@ -1,0 +1,383 @@
+{
+  "session_id": "isabel.s28",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Bombed an APUSH reading quiz and doesn't care",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i bombed an apush reading quiz this morning and honestly i dont care lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Failed APUSH reading quiz after robotics build night",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w8.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "stayed late at the robotics build in C7 last night and skipped the reading",
+      "support_quote": ""
+    },
+    {
+      "text": "Robotics build in room C7",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "stayed late at the robotics build in C7 last night",
+      "support_quote": ""
+    },
+    {
+      "text": "Drivetrain prototype ran today",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w8.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the drivetrain prototype ran today",
+      "support_quote": ""
+    },
+    {
+      "text": "Is mechanical lead",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im mechanical lead",
+      "support_quote": ""
+    },
+    {
+      "text": "Applying to summer engineering institute due Nov 15",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im filling out the state university summer engineering institute app, due nov 15",
+      "support_quote": ""
+    },
+    {
+      "text": "Birthday is March 14, 2009",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w6.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i typed 03/14/2009 in the field",
+      "support_quote": ""
+    },
+    {
+      "text": "Prototype running is a milestone; build matters to her",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w8.n03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on getting the prototype running, that's a real milestone.",
+      "support_quote": "the drivetrain prototype ran today"
+    },
+    {
+      "text": "Has robotics evenings",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "around your robotics evenings",
+      "support_quote": "stayed late at the robotics build in C7 last night"
+    },
+    {
+      "text": "Summer application deadline Nov 15",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "For the Nov 15 deadline, work backward:",
+      "support_quote": "due nov 15"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.i06",
+      "present": true,
+      "quote": "i bombed an apush reading quiz this morning and honestly i dont care lol"
+    },
+    {
+      "item_id": "isabel.f16",
+      "present": true,
+      "quote": "stayed late at the robotics build in C7 last night and skipped the reading"
+    },
+    {
+      "item_id": "isabel.f15",
+      "present": true,
+      "quote": "the drivetrain prototype ran today so the build crunch was worth it, im mechanical lead so i kinda had to be there"
+    },
+    {
+      "item_id": "isabel.f17",
+      "present": true,
+      "quote": "im filling out the state university summer engineering institute app, due nov 15, and i need to budget time for it"
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "present": true,
+      "quote": "i typed 03/14/2009 in the field"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "i typed 03/14/2009 in the field",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

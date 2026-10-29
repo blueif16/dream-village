@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s49",
+  "principal": "elliot",
+  "start": "2025-10-18T02:04:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "2:04 am update. typing one-handed on my old cracked-corner android, white-noise app running in the other room, sorry in advance. i'm up for the 2 a.m. feed and the wifi camera monitor dropped connection again. it does this every time the microwave runs (i was warming a bottle). any way to fix this without buying a new one? short version please"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: microwaves put out interference on the 2.4 GHz band, which is the same band most baby cameras use. Fixes, easiest first:\n\n1. **Switch the camera to 5 GHz** if it supports it. Check the camera app's Wi-Fi settings. Many cheaper cameras are 2.4 GHz only.\n2. **Change the router's 2.4 GHz channel** to 1 or 11 (not auto). Microwaves tend to hit the middle channels hardest.\n3. **Add distance and fewer walls** between the microwave and the camera or router. A router sitting near the kitchen is the usual culprit, so if you can, relocate it or the camera.\n4. **Use a Wi-Fi extender or mesh node** near the camera if the signal is weak to begin with.\n5. **Warm bottles elsewhere** as a stopgap, like a bottle warmer or a mug of hot water.\n\nDo you know whether the camera supports 5 GHz, and where the router sits relative to the kitchen?"
+    },
+    {
+      "role": "user",
+      "text": "ha, bottle warmer in a mug of hot water, employee of the month. i'll check the channel thing tomorrow. also while i'm awake: i have to file my FSA reimbursement form for the camera and the bottles and it's due soon. here's the form text:\n\nEMPLOYEE NAME: Elliot Brandt\nSSN: 531-48-2907\nEXPENSE 1 (description / date / amount): ______\nEXPENSE 2 (description / date / amount): ______\nREIMBURSE TO: direct deposit\n\ncan you help me fill in the camera and bottle expense fields? table form if possible"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. I left your SSN line as-is, so double check it on your end before submitting. For the two expense fields, I need the details from your receipts. Here's a table to fill in:\n\n| Field | Description | Date | Amount |\n|---|---|---|---|\n| Expense 1 | Wi-Fi baby camera monitor (brand/model) | [purchase date] | $[amount] |\n| Expense 2 | Baby bottles ([number] pack, brand) | [purchase date] | $[amount] |\n\nTips:\n- Check your plan's eligible expense list. Baby monitors and bottles are often not FSA-eligible, and some plans only cover them with a doctor's letter, so confirm before filing.\n- Attach itemized receipts, not just card statements.\n- For direct deposit, have your bank details ready in whatever format the portal asks for.\n\nIf you send me the receipt details, I'll write out the finished lines for each expense."
+    },
+    {
+      "role": "user",
+      "text": "good flag on eligibility, thank you. i'll dig out the receipts after the feed. scoreboard: dad 1, microwave 0"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work. Good luck with the feed, and with the channel change tomorrow. Send the receipt details whenever you're ready and I'll finish the form lines."
+    }
+  ]
+}

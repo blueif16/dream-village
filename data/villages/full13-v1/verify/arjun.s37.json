@@ -1,0 +1,373 @@
+{
+  "session_id": "arjun.s37",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun needs a recommendation letter from Ashby",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "following up on ashby's letter",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun requested a recommendation letter from Ashby",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "following up on ashby's letter",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun stopped by Ashby's Thursday office hours",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i stopped by his thursday office hours and he said to follow up later",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is in Ashby's Tue/Thu ops management class",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm in his tues/thurs ops management class",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun has a phone screen next week",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a phone screen coming up next week",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun requested the recommendation letter",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm following up about the recommendation letter I requested.",
+      "support_quote": "following up on ashby's letter"
+    },
+    {
+      "text": "Arjun spoke with Ashby during Thursday office hours",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f56",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Thank you for taking the time to talk with me during your Thursday office hours.",
+      "support_quote": "i stopped by his thursday office hours"
+    },
+    {
+      "text": "Arjun is in the Tue/Thu operations management section",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm a student in your Tuesday/Thursday operations management section.",
+      "support_quote": "i'm in his tues/thurs ops management class"
+    },
+    {
+      "text": "Arjun has an interview next week",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I have an interview coming up next week",
+      "support_quote": "i have a phone screen coming up next week"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f21",
+      "present": true,
+      "quote": "following up on ashby's letter"
+    },
+    {
+      "item_id": "arjun.f56",
+      "present": true,
+      "quote": "i stopped by his thursday office hours and he said to follow up later"
+    },
+    {
+      "item_id": "arjun.r04",
+      "present": true,
+      "quote": "following up on ashby's letter"
+    },
+    {
+      "item_id": "arjun.f02",
+      "present": true,
+      "quote": "can you mention i'm in his tues/thurs ops management class"
+    },
+    {
+      "item_id": "arjun.f12",
+      "present": true,
+      "quote": "lowkey add that i have a phone screen coming up next week so timing matters"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

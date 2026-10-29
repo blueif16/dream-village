@@ -1,0 +1,354 @@
+{
+  "session_id": "marcus.s23",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Works nights Sun-Thu 9pm to 7:30am due to overtime",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im on nights sun thru thu 9pm to 7:30am now bc of overtime",
+      "support_quote": ""
+    },
+    {
+      "text": "Sleeps 8:30am to 1:30pm",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i sleep 8:30am to 1:30pm",
+      "support_quote": ""
+    },
+    {
+      "text": "Date night with Jade at Phở Bến Thành on Saturday",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tonight is date night at pho ben thanh",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses vampire jokes to deflect tension with Jade",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok so update from your resident vampire.",
+      "support_quote": ""
+    },
+    {
+      "text": "Works nights Sun-Thu 9pm-7:30am",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "nights Sun-Thu, 9 p.m. to 7:30 a.m.",
+      "support_quote": "im on nights sun thru thu 9pm to 7:30am now bc of overtime"
+    },
+    {
+      "text": "Sleeps 8:30am to 1:30pm",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I sleep 8:30 a.m. to 1:30 p.m.",
+      "support_quote": "i sleep 8:30am to 1:30pm"
+    },
+    {
+      "text": "Date night at Phở Bến Thành tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Tonight's date night at Phở Bến Thành",
+      "support_quote": "tonight is date night at pho ben thanh"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 uses the name 'Phở Bến Thành' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "marcus.i04",
+      "present": true,
+      "quote": "ok so update from your resident vampire. im on nights sun thru thu 9pm to 7:30am now bc of overtime."
+    },
+    {
+      "item_id": "marcus.f05",
+      "present": true,
+      "quote": "im on nights sun thru thu 9pm to 7:30am now bc of overtime"
+    },
+    {
+      "item_id": "marcus.f45",
+      "present": true,
+      "quote": "tonight is date night at pho ben thanh and i will try my best not to face plant in the broth"
+    },
+    {
+      "item_id": "marcus.f09",
+      "present": true,
+      "quote": "i sleep 8:30am to 1:30pm so if i text back at 2 its not bc i forgot u"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

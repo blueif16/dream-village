@@ -1,0 +1,93 @@
+{
+  "impression_id": "isabel.i07",
+  "evidence_sessions": [
+    "isabel.s07",
+    "isabel.s24",
+    "isabel.s32",
+    "isabel.s33",
+    "isabel.s34",
+    "isabel.s36",
+    "isabel.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel firmly rejects unsolicited advice, lectures and pep talks (about sleep, comparing herself to others, talking to parents) and repeatedly asks for just the schedule, list, numbers or facts.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s07",
+        "isabel.s24",
+        "isabel.s32",
+        "isabel.s33",
+        "isabel.s34",
+        "isabel.s36",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She habitually stays up very late, sleeping around 1 a.m. with a 6:50 alarm, and manages a heavy load of commitments (robotics, SAT prep, tutoring, AP classes) by planning tightly around it.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s07",
+        "isabel.s36",
+        "isabel.s34",
+        "isabel.s43"
+      ]
+    },
+    {
+      "statement": "She is conscientious and goal-directed about college applications, working on essays, an aid/finance sheet, score comparisons and fees, and asking for blunt, brutal editing feedback to tighten her writing.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s24",
+        "isabel.s32",
+        "isabel.s33",
+        "isabel.s36"
+      ]
+    },
+    {
+      "statement": "She is financially constrained and takes responsibility for the costs herself, saving for application fees and working to get real aid numbers with her family.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s24",
+        "isabel.s36"
+      ]
+    },
+    {
+      "statement": "She measures herself against peers, such as Lucas's SAT score, while wanting no reassurance about it, only data.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s32"
+      ]
+    },
+    {
+      "statement": "She cares about the students she tutors and wants to encourage Mateo without condescension, thinking carefully about wording that builds his confidence.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s43",
+        "isabel.s07"
+      ]
+    },
+    {
+      "statement": "She has an ambivalent attachment to her home town and marsh: she dismisses the place as 'nothing' and wants to leave, yet she devotedly counts egrets every November and writes about it.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s33",
+        "isabel.s34"
+      ]
+    },
+    {
+      "statement": "She is conversationally brief and transactional, ending sessions quickly with 'ok bye' once the task is done.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s07",
+        "isabel.s24",
+        "isabel.s32",
+        "isabel.s33",
+        "isabel.s36",
+        "isabel.s43"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Isabel firmly rejects unsolicited advice, lectures and pep talks (about sleep, comparing herself to others, talking to parents) and repeatedly asks for just the schedule, list, numbers or facts.",
+  "rationale": "The first inferred statement, rated strong, says Isabel rejects unsolicited advice, lectures and pep talks and asks only for facts. That matches the intended trait of bristling at parent or counselor-style lecturing and wanting to be treated as an adult."
+}

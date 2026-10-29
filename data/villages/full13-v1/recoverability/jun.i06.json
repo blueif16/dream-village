@@ -1,0 +1,85 @@
+{
+  "impression_id": "jun.i06",
+  "evidence_sessions": [
+    "jun.s09",
+    "jun.s25",
+    "jun.s31",
+    "jun.s46"
+  ],
+  "inferred": [
+    {
+      "statement": "Jun asks for short, tape-up checklists and bullet-only formats, and pushes back when answers run long.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s09",
+        "jun.s25",
+        "jun.s31",
+        "jun.s46"
+      ]
+    },
+    {
+      "statement": "Jun takes ownership of problems and turns them into systems that protect coworkers, such as checklists for new baristas, the closing crew and restocking.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s09",
+        "jun.s25",
+        "jun.s31"
+      ]
+    },
+    {
+      "statement": "Jun is time-pressed and works around early opening shifts, often asking for things to be done before 6:15 a.m. and making requests late at night or very early in the morning.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s09",
+        "jun.s25",
+        "jun.s31",
+        "jun.s46"
+      ]
+    },
+    {
+      "statement": "Jun is confident in his espresso-bar craft and states his three years of experience, but asks for help with writing it up and with unfamiliar business topics.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s09",
+        "jun.s46",
+        "jun.s31"
+      ]
+    },
+    {
+      "statement": "Jun is building a side food business (his Lola's lumpia recipe) and is working through permits, a commissary and sales tax, while also juggling cafe work.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s25",
+        "jun.s31"
+      ]
+    },
+    {
+      "statement": "Jun likes a warm, casual, non-salesy tone in customer-facing and new-hire writing, and revises drafts that feel too ad-like or scary.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s09",
+        "jun.s46"
+      ]
+    },
+    {
+      "statement": "Jun is friendly and casual with the assistant, calling it 'boss', using 'lol', 'sige' and emoji, and sharing small life details.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s09",
+        "jun.s25",
+        "jun.s31",
+        "jun.s46"
+      ]
+    },
+    {
+      "statement": "Jun holds himself accountable when mistakes happen, such as the oat milk running out, and seeks the lowest-effort fix rather than dwelling on it.",
+      "strength": "weak",
+      "sessions": [
+        "jun.s25"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The decoy is that Jun doesn't care about the cafe job and is checked out. No strong or moderate inferred statement asserts this; the reader instead describes Jun as taking ownership, confident in his craft, and building systems for coworkers."
+}

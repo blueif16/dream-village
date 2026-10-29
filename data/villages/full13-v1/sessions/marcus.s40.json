@@ -1,0 +1,55 @@
+{
+  "id": "marcus.s40",
+  "principal": "marcus",
+  "start": "2025-11-15T21:07:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick my spending tracker sheet broke after i added a sneaker line. the total at the bottom just says #REF! now. sneaker line is capped at $100 a month since my last splurge. fr just give me a few options to fix it, ill pick"
+    },
+    {
+      "role": "assistant",
+      "text": "#REF! usually means a formula points to a cell or row that no longer exists. Here are three options:\n\n1. Rewrite the total: click the total cell, delete it, and type =SUM(B2:B12), adjusting the range to cover every spending row including the new sneaker line.\n2. Undo and redo the insert: undo back to before you added the line, then insert the row in the middle of the list, not below the last row, so the range stretches to include it.\n3. Use a whole-column sum: =SUM(B:B) never breaks when you add rows, but keep any headers or notes out of that column.\n\nWhich one sounds best?"
+    },
+    {
+      "role": "user",
+      "text": "2 prob. but the sneaker line has a cap, can i make it turn red when i go over 100"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, with conditional formatting:\n\n1. Select the sneaker cell that holds the monthly amount.\n2. Open Format > Conditional formatting.\n3. Choose \"Greater than\" and enter 100.\n4. Set the fill to red and save.\n\nIf your sheet has a separate cap cell, you can compare against that cell instead of typing 100, so you only change the cap in one place."
+    },
+    {
+      "role": "user",
+      "text": "nice. ok also real quick a drop just hit, $230. what does that cost in shifts. i make $24.75 an hour and a shift is 10 hrs. the box wall in my closet is full already lol"
+    },
+    {
+      "role": "assistant",
+      "text": "One shift at $24.75 x 10 hours is $247.50 before taxes. So $230 is just under one full shift of gross pay. After taxes, take-home is probably less, so it likely eats a full shift or a bit more.\n\nCompared to your $100 cap, it's more than double what you set aside for the whole month."
+    },
+    {
+      "role": "user",
+      "text": "yeah no. thats a whole night on the cold dock for shoes i dont need. skipping it 😮‍💨"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call, and you can still log it as a $0 line if you want to track how much you skipped. Anything else on the sheet?"
+    },
+    {
+      "role": "user",
+      "text": "yeah one more rep. can u set up a reminder to stretch my back and shoulders. cold dock leaves me tight. every day after shift"
+    },
+    {
+      "role": "assistant",
+      "text": "I can't set a reminder on your phone from here, but here's how to do it:\n\n- Clock or Reminders app: create a repeating alarm labeled \"Back and shoulders stretch\" for the time you finish each shift, set to your work days.\n- Or Google Calendar: add a recurring event with a notification 5 minutes before.\n\nFor the label, you could add a short checklist: doorway chest stretch, cat-cow, and cross-body shoulder stretch, 30 seconds each. Want me to change the days or the wording?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good. lol ok that helped"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helped. Good luck with the sheet!"
+    }
+  ]
+}

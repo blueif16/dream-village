@@ -1,0 +1,348 @@
+{
+  "session_id": "arjun.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Wants a summer 2026 supply chain analyst internship in the Bay Area",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I am looking for a summer 2026 supply chain analyst internship in the Bay Area",
+      "support_quote": ""
+    },
+    {
+      "text": "Is a junior in logistics management at Bayshore State Tamsen",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I am a junior in logistics management at Bayshore State's Tamsen campus",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a 3.62 GPA",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "should i put my 3.62 gpa in th letter",
+      "support_quote": ""
+    },
+    {
+      "text": "Logs applications in the spreadsheet tracker",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "log it in th spreadsheet before th buffer date",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a 3.62 GPA",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A 3.62 is solid, and it's worth including somewhere.",
+      "support_quote": "should i put my 3.62 gpa in th letter or is that th resume's job"
+    },
+    {
+      "text": "Is a junior in logistics management at Bayshore State",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm a junior in logistics management at Bayshore State's Tamsen campus",
+      "support_quote": "I am a junior in logistics management at Bayshore State's Tamsen campus"
+    },
+    {
+      "text": "Seeks summer 2026 supply chain analyst role in Bay Area",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm seeking a summer 2026 supply chain analyst role in the Bay Area",
+      "support_quote": "I am looking for a summer 2026 supply chain analyst internship in the Bay Area"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f48",
+      "present": true,
+      "quote": "I am looking for a summer 2026 supply chain analyst internship in the Bay Area"
+    },
+    {
+      "item_id": "arjun.f01",
+      "present": true,
+      "quote": "I am a junior in logistics management at Bayshore State's Tamsen campus"
+    },
+    {
+      "item_id": "arjun.r01",
+      "present": true,
+      "quote": "log it in th spreadsheet before th buffer date"
+    },
+    {
+      "item_id": "arjun.f23",
+      "present": true,
+      "quote": "should i put my 3.62 gpa in th letter or is that th resume's job"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

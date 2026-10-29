@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s75",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi is applying for network tech roles outside Ridgeline, including St. Anselm IT",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its for network tech roles outside ridgeline, st anselm IT is one of them",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi covers vendor tickets and scanner RMA work after the desk lead left",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Since October I have supported the team by covering vendor tickets and scanner RMA work after our desk lead left.",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi just finished a ten-hour swing",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got off a ten hour swing",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi undersells her work, asking to keep 'supported the team'",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "keep the 'supported the team' part. dont change that",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi keeps about 620 handhelds running",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I keep around 620 handhelds running through peak season.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Noemi is applying for jobs",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "good luck with the applications",
+      "support_quote": "its for network tech roles outside ridgeline, st anselm IT is one of them"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i01",
+      "present": true,
+      "quote": "keep the 'supported the team' part. dont change that"
+    },
+    {
+      "item_id": "noemi.f31",
+      "present": true,
+      "quote": "its for network tech roles outside ridgeline, st anselm IT is one of them"
+    },
+    {
+      "item_id": "noemi.f32",
+      "present": true,
+      "quote": "Since October I have supported the team by covering vendor tickets and scanner RMA work after our desk lead left."
+    },
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "just got off a ten hour swing so pls keep it simple"
+    }
+  ],
+  "sensitive": []
+}

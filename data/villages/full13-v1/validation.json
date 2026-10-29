@@ -1,0 +1,1132 @@
+{
+  "raw_plans": [
+    {
+      "rule": "unknown_id",
+      "detail": "rochelle.w3.n03 subject 'loretta' is not in the cast",
+      "ids": [
+        "rochelle.w3.n03"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "arjun.s31 plans unknown item sunita",
+      "ids": [
+        "arjun.s31",
+        "sunita"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "arjun.s38 plans unknown item arjun.f64x",
+      "ids": [
+        "arjun.s38",
+        "arjun.f64x"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "elliot.s04 plans unknown item elliot.n_none",
+      "ids": [
+        "elliot.s04",
+        "elliot.n_none"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "elliot.s21 plans unknown item elliot.f70",
+      "ids": [
+        "elliot.s21",
+        "elliot.f70"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "elliot.s23 plans unknown item elliot.f74",
+      "ids": [
+        "elliot.s23",
+        "elliot.f74"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "elliot.s23 plans unknown item elliot.f71",
+      "ids": [
+        "elliot.s23",
+        "elliot.f71"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "elliot.s35 plans unknown item elliot.f131",
+      "ids": [
+        "elliot.s35",
+        "elliot.f131"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "elliot.s47 plans unknown item elliot.f66",
+      "ids": [
+        "elliot.s47",
+        "elliot.f66"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "rochelle.s26 plans unknown item rochelle.f77",
+      "ids": [
+        "rochelle.s26",
+        "rochelle.f77"
+      ]
+    },
+    {
+      "rule": "unknown_id",
+      "detail": "rochelle.s29 plans unknown item rochelle.f77",
+      "ids": [
+        "rochelle.s29",
+        "rochelle.f77"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f19 and grace.w3.n04 both hold isabel.essay_status",
+      "ids": [
+        "isabel.f19",
+        "grace.w3.n04"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f19 and grace.w4.n05 both hold isabel.essay_status",
+      "ids": [
+        "isabel.f19",
+        "grace.w4.n05"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f20 and grace.w4.n05 both hold isabel.essay_status",
+      "ids": [
+        "isabel.f20",
+        "grace.w4.n05"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f54 and grace.f43 both hold ramon.bronco_progress",
+      "ids": [
+        "isabel.f54",
+        "grace.f43"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "linh.f34 and jun.w10.n04 both hold linh.latte_art_progress",
+      "ids": [
+        "linh.f34",
+        "jun.w10.n04"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "linh.f34 and jun.w13.n03 both hold linh.latte_art_progress",
+      "ids": [
+        "linh.f34",
+        "jun.w13.n03"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "jun.f20 and linh.w12.n04 both hold jun.lumpia_price",
+      "ids": [
+        "jun.f20",
+        "linh.w12.n04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "rochelle.f18 (from 2025-08-26) disclosed in rochelle.s01 on 2025-08-25",
+      "ids": [
+        "rochelle.f18",
+        "rochelle.s01"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "grace.w1.n05 (from 2025-08-28) disclosed in grace.s01 on 2025-08-26",
+      "ids": [
+        "grace.w1.n05",
+        "grace.s01"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "noemi.f35 (from 2025-09-02) disclosed in noemi.s02 on 2025-08-26",
+      "ids": [
+        "noemi.f35",
+        "noemi.s02"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "marcus.f09 (from 2025-10-06) disclosed in marcus.s01 on 2025-08-27",
+      "ids": [
+        "marcus.f09",
+        "marcus.s01"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "noemi.f35 (from 2025-09-02) disclosed in noemi.s04 on 2025-08-28",
+      "ids": [
+        "noemi.f35",
+        "noemi.s04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "noemi.f48 (from 2025-09-02) disclosed in noemi.s04 on 2025-08-28",
+      "ids": [
+        "noemi.f48",
+        "noemi.s04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "dulce.f04 (from 2025-08-29) disclosed in dulce.s01 on 2025-08-28",
+      "ids": [
+        "dulce.f04",
+        "dulce.s01"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "cast.f20 (from 2025-08-29) disclosed in dulce.s01 on 2025-08-28",
+      "ids": [
+        "cast.f20",
+        "dulce.s01"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "dulce.f05 (from 2025-08-29) disclosed in dulce.s01 on 2025-08-28",
+      "ids": [
+        "dulce.f05",
+        "dulce.s01"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "jun.f19 (from 2025-09-06) disclosed in jun.s04 on 2025-09-02",
+      "ids": [
+        "jun.f19",
+        "jun.s04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "cast.f65 (from 2025-09-06) disclosed in jun.s04 on 2025-09-02",
+      "ids": [
+        "cast.f65",
+        "jun.s04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "arjun.f47 (from 2025-09-08) disclosed in arjun.s08 on 2025-09-03",
+      "ids": [
+        "arjun.f47",
+        "arjun.s08"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "rochelle.f52 (from 2025-09-08) disclosed in rochelle.s06 on 2025-09-03",
+      "ids": [
+        "rochelle.f52",
+        "rochelle.s06"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "linh.f55 (from 2025-09-27) disclosed in linh.s10 on 2025-09-04",
+      "ids": [
+        "linh.f55",
+        "linh.s10"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "isabel.f08 (from 2025-10-24) disclosed in isabel.s08 on 2025-09-07",
+      "ids": [
+        "isabel.f08",
+        "isabel.s08"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "arjun.f39 (from 2025-09-09) disclosed in arjun.s13 on 2025-09-08",
+      "ids": [
+        "arjun.f39",
+        "arjun.s13"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "isabel.f43 (from 2025-09-12) disclosed in isabel.s11 on 2025-09-11",
+      "ids": [
+        "isabel.f43",
+        "isabel.s11"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f16 (from 2025-10-06) disclosed in elliot.s19 on 2025-09-15",
+      "ids": [
+        "elliot.f16",
+        "elliot.s19"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "arjun.w4.n01 (from 2025-09-17) disclosed in arjun.s20 on 2025-09-15",
+      "ids": [
+        "arjun.w4.n01",
+        "arjun.s20"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "dulce.f08 (from 2025-10-10) disclosed in dulce.s04 on 2025-09-16",
+      "ids": [
+        "dulce.f08",
+        "dulce.s04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "jun.f48 (from 2025-10-25) disclosed in jun.s12 on 2025-09-16",
+      "ids": [
+        "jun.f48",
+        "jun.s12"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f28 (from 2025-09-22) disclosed in elliot.s22 on 2025-09-19",
+      "ids": [
+        "elliot.f28",
+        "elliot.s22"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "isabel.f55 (from 2025-10-02) disclosed in isabel.s14 on 2025-09-19",
+      "ids": [
+        "isabel.f55",
+        "isabel.s14"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "isabel.f55 (from 2025-10-02) disclosed in isabel.s18 on 2025-09-26",
+      "ids": [
+        "isabel.f55",
+        "isabel.s18"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "linh.f55 (from 2025-09-27) disclosed in linh.s30 on 2025-09-26",
+      "ids": [
+        "linh.f55",
+        "linh.s30"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "marcus.f09 (from 2025-10-06) disclosed in marcus.s17 on 2025-09-29",
+      "ids": [
+        "marcus.f09",
+        "marcus.s17"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "isabel.f55 (from 2025-10-02) disclosed in isabel.s21 on 2025-09-30",
+      "ids": [
+        "isabel.f55",
+        "isabel.s21"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "rafael.f09 (from 2025-10-04) disclosed in rafael.s06 on 2025-10-01",
+      "ids": [
+        "rafael.f09",
+        "rafael.s06"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "rafael.f44 (from 2025-10-04) disclosed in rafael.s06 on 2025-10-01",
+      "ids": [
+        "rafael.f44",
+        "rafael.s06"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f16 (from 2025-10-06) disclosed in elliot.s33 on 2025-10-01",
+      "ids": [
+        "elliot.f16",
+        "elliot.s33"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "jun.f48 (from 2025-10-25) disclosed in jun.s22 on 2025-10-02",
+      "ids": [
+        "jun.f48",
+        "jun.s22"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "linh.f13 (from 2025-10-11) disclosed in linh.s39 on 2025-10-05",
+      "ids": [
+        "linh.f13",
+        "linh.s39"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f04 (from 2025-10-22) disclosed in elliot.s38 on 2025-10-07",
+      "ids": [
+        "elliot.f04",
+        "elliot.s38"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "thao.f03 (from 2025-10-13) disclosed in thao.s23 on 2025-10-10",
+      "ids": [
+        "thao.f03",
+        "thao.s23"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f04 (from 2025-10-22) disclosed in elliot.s43 on 2025-10-12",
+      "ids": [
+        "elliot.f04",
+        "elliot.s43"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "jun.f09 (from 2025-10-18) disclosed in jun.s27 on 2025-10-15",
+      "ids": [
+        "jun.f09",
+        "jun.s27"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f48 (from 2025-10-20) disclosed in elliot.s50 on 2025-10-19",
+      "ids": [
+        "elliot.f48",
+        "elliot.s50"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f45 (from 2025-11-03) disclosed in elliot.s58 on 2025-10-28",
+      "ids": [
+        "elliot.f45",
+        "elliot.s58"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "rochelle.f43 (from 2025-11-02) disclosed in rochelle.s33 on 2025-10-29",
+      "ids": [
+        "rochelle.f43",
+        "rochelle.s33"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f44 (from 2025-11-03) disclosed in elliot.s63 on 2025-11-02",
+      "ids": [
+        "elliot.f44",
+        "elliot.s63"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "elliot.f20 (from 2025-11-03) disclosed in elliot.s63 on 2025-11-02",
+      "ids": [
+        "elliot.f20",
+        "elliot.s63"
+      ]
+    },
+    {
+      "rule": "forget_order",
+      "detail": "noemi.s30 asks to forget noemi.i01, not a forgotten fact",
+      "ids": [
+        "noemi.s30",
+        "noemi.i01"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store isabel.f01 planned in isabel.s08 without a stated never_store marker",
+      "ids": [
+        "isabel.f01",
+        "isabel.s08"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store isabel.w4.ns01 planned in isabel.s16 without a stated never_store marker",
+      "ids": [
+        "isabel.w4.ns01",
+        "isabel.s16"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store isabel.w6.ns01 planned in isabel.s22 without a stated never_store marker",
+      "ids": [
+        "isabel.w6.ns01",
+        "isabel.s22"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store isabel.w6.ns01 planned in isabel.s28 without a stated never_store marker",
+      "ids": [
+        "isabel.w6.ns01",
+        "isabel.s28"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store isabel.w10.ns01 planned in isabel.s35 without a stated never_store marker",
+      "ids": [
+        "isabel.w10.ns01",
+        "isabel.s35"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store isabel.w12.ns01 planned in isabel.s41 without a stated never_store marker",
+      "ids": [
+        "isabel.w12.ns01",
+        "isabel.s41"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store dulce.f01 planned in dulce.s02 without a stated never_store marker",
+      "ids": [
+        "dulce.f01",
+        "dulce.s02"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store dulce.f08 planned in dulce.s04 without a stated never_store marker",
+      "ids": [
+        "dulce.f08",
+        "dulce.s04"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store dulce.w6.ns01 planned in dulce.s06 without a stated never_store marker",
+      "ids": [
+        "dulce.w6.ns01",
+        "dulce.s06"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store dulce.w8.ns01 planned in dulce.s08 without a stated never_store marker",
+      "ids": [
+        "dulce.w8.ns01",
+        "dulce.s08"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store dulce.w10.ns01 planned in dulce.s10 without a stated never_store marker",
+      "ids": [
+        "dulce.w10.ns01",
+        "dulce.s10"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store dulce.w12.ns01 planned in dulce.s12 without a stated never_store marker",
+      "ids": [
+        "dulce.w12.ns01",
+        "dulce.s12"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store linh.f42 planned in linh.s13 without a stated never_store marker",
+      "ids": [
+        "linh.f42",
+        "linh.s13"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store linh.w4.ns01 planned in linh.s23 without a stated never_store marker",
+      "ids": [
+        "linh.w4.ns01",
+        "linh.s23"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store linh.w6.ns01 planned in linh.s39 without a stated never_store marker",
+      "ids": [
+        "linh.w6.ns01",
+        "linh.s39"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store linh.w8.ns01 planned in linh.s53 without a stated never_store marker",
+      "ids": [
+        "linh.w8.ns01",
+        "linh.s53"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store linh.w10.ns01 planned in linh.s65 without a stated never_store marker",
+      "ids": [
+        "linh.w10.ns01",
+        "linh.s65"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store linh.w12.ns01 planned in linh.s78 without a stated never_store marker",
+      "ids": [
+        "linh.w12.ns01",
+        "linh.s78"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store arjun.f33 planned in arjun.s12 without a stated never_store marker",
+      "ids": [
+        "arjun.f33",
+        "arjun.s12"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store arjun.w4.ns01 planned in arjun.s24 without a stated never_store marker",
+      "ids": [
+        "arjun.w4.ns01",
+        "arjun.s24"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store arjun.w4.ns01 planned in arjun.s39 without a stated never_store marker",
+      "ids": [
+        "arjun.w4.ns01",
+        "arjun.s39"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store arjun.w4.ns01 planned in arjun.s51 without a stated never_store marker",
+      "ids": [
+        "arjun.w4.ns01",
+        "arjun.s51"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store arjun.w4.ns01 planned in arjun.s66 without a stated never_store marker",
+      "ids": [
+        "arjun.w4.ns01",
+        "arjun.s66"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store arjun.w4.ns01 planned in arjun.s79 without a stated never_store marker",
+      "ids": [
+        "arjun.w4.ns01",
+        "arjun.s79"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store marcus.f47 planned in marcus.s06 without a stated never_store marker",
+      "ids": [
+        "marcus.f47",
+        "marcus.s06"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store marcus.w4.ns01 planned in marcus.s13 without a stated never_store marker",
+      "ids": [
+        "marcus.w4.ns01",
+        "marcus.s13"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store marcus.w4.ns01 planned in marcus.s19 without a stated never_store marker",
+      "ids": [
+        "marcus.w4.ns01",
+        "marcus.s19"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store marcus.w8.ns01 planned in marcus.s28 without a stated never_store marker",
+      "ids": [
+        "marcus.w8.ns01",
+        "marcus.s28"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store marcus.w4.ns01 planned in marcus.s34 without a stated never_store marker",
+      "ids": [
+        "marcus.w4.ns01",
+        "marcus.s34"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store marcus.w4.ns01 planned in marcus.s41 without a stated never_store marker",
+      "ids": [
+        "marcus.w4.ns01",
+        "marcus.s41"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rafael.f36 planned in rafael.s02 without a stated never_store marker",
+      "ids": [
+        "rafael.f36",
+        "rafael.s02"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rafael.w4.ns01 planned in rafael.s04 without a stated never_store marker",
+      "ids": [
+        "rafael.w4.ns01",
+        "rafael.s04"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rafael.w6.ns01 planned in rafael.s06 without a stated never_store marker",
+      "ids": [
+        "rafael.w6.ns01",
+        "rafael.s06"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rafael.w8.ns01 planned in rafael.s08 without a stated never_store marker",
+      "ids": [
+        "rafael.w8.ns01",
+        "rafael.s08"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rafael.w8.ns01 planned in rafael.s10 without a stated never_store marker",
+      "ids": [
+        "rafael.w8.ns01",
+        "rafael.s10"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rafael.w8.ns01 planned in rafael.s12 without a stated never_store marker",
+      "ids": [
+        "rafael.w8.ns01",
+        "rafael.s12"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store thao.f23 planned in thao.s07 without a stated never_store marker",
+      "ids": [
+        "thao.f23",
+        "thao.s07"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store thao.w4.ns01 planned in thao.s13 without a stated never_store marker",
+      "ids": [
+        "thao.w4.ns01",
+        "thao.s13"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store thao.f23 planned in thao.s19 without a stated never_store marker",
+      "ids": [
+        "thao.f23",
+        "thao.s19"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store thao.w4.ns01 planned in thao.s27 without a stated never_store marker",
+      "ids": [
+        "thao.w4.ns01",
+        "thao.s27"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store thao.f23 planned in thao.s33 without a stated never_store marker",
+      "ids": [
+        "thao.f23",
+        "thao.s33"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store thao.w12.ns01 planned in thao.s41 without a stated never_store marker",
+      "ids": [
+        "thao.w12.ns01",
+        "thao.s41"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store noemi.f42 planned in noemi.s13 without a stated never_store marker",
+      "ids": [
+        "noemi.f42",
+        "noemi.s13"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store noemi.w4.ns01 planned in noemi.s25 without a stated never_store marker",
+      "ids": [
+        "noemi.w4.ns01",
+        "noemi.s25"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store noemi.w4.ns01 planned in noemi.s39 without a stated never_store marker",
+      "ids": [
+        "noemi.w4.ns01",
+        "noemi.s39"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store noemi.w4.ns01 planned in noemi.s52 without a stated never_store marker",
+      "ids": [
+        "noemi.w4.ns01",
+        "noemi.s52"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store noemi.w4.ns01 planned in noemi.s65 without a stated never_store marker",
+      "ids": [
+        "noemi.w4.ns01",
+        "noemi.s65"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store noemi.w4.ns01 planned in noemi.s78 without a stated never_store marker",
+      "ids": [
+        "noemi.w4.ns01",
+        "noemi.s78"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store jun.f47 planned in jun.s05 without a stated never_store marker",
+      "ids": [
+        "jun.f47",
+        "jun.s05"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store jun.f48 planned in jun.s12 without a stated never_store marker",
+      "ids": [
+        "jun.f48",
+        "jun.s12"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store jun.f48 planned in jun.s22 without a stated never_store marker",
+      "ids": [
+        "jun.f48",
+        "jun.s22"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store jun.w8.ns01 planned in jun.s29 without a stated never_store marker",
+      "ids": [
+        "jun.w8.ns01",
+        "jun.s29"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store jun.w8.ns01 planned in jun.s35 without a stated never_store marker",
+      "ids": [
+        "jun.w8.ns01",
+        "jun.s35"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store jun.w8.ns01 planned in jun.s43 without a stated never_store marker",
+      "ids": [
+        "jun.w8.ns01",
+        "jun.s43"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store elliot.f08 planned in elliot.s12 without a stated never_store marker",
+      "ids": [
+        "elliot.f08",
+        "elliot.s12"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store elliot.w4.ns01 planned in elliot.s24 without a stated never_store marker",
+      "ids": [
+        "elliot.w4.ns01",
+        "elliot.s24"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store elliot.w6.ns01 planned in elliot.s36 without a stated never_store marker",
+      "ids": [
+        "elliot.w6.ns01",
+        "elliot.s36"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store elliot.w8.ns01 planned in elliot.s49 without a stated never_store marker",
+      "ids": [
+        "elliot.w8.ns01",
+        "elliot.s49"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store elliot.w10.ns01 planned in elliot.s63 without a stated never_store marker",
+      "ids": [
+        "elliot.w10.ns01",
+        "elliot.s63"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store elliot.f08 planned in elliot.s72 without a stated never_store marker",
+      "ids": [
+        "elliot.f08",
+        "elliot.s72"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rochelle.f46 planned in rochelle.s07 without a stated never_store marker",
+      "ids": [
+        "rochelle.f46",
+        "rochelle.s07"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rochelle.f46 planned in rochelle.s13 without a stated never_store marker",
+      "ids": [
+        "rochelle.f46",
+        "rochelle.s13"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rochelle.w6.ns01 planned in rochelle.s20 without a stated never_store marker",
+      "ids": [
+        "rochelle.w6.ns01",
+        "rochelle.s20"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rochelle.w6.ns01 planned in rochelle.s33 without a stated never_store marker",
+      "ids": [
+        "rochelle.w6.ns01",
+        "rochelle.s33"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store rochelle.w6.ns01 planned in rochelle.s40 without a stated never_store marker",
+      "ids": [
+        "rochelle.w6.ns01",
+        "rochelle.s40"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store grace.f30 planned in grace.s02 without a stated never_store marker",
+      "ids": [
+        "grace.f30",
+        "grace.s02"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store grace.w6.ns01 planned in grace.s06 without a stated never_store marker",
+      "ids": [
+        "grace.w6.ns01",
+        "grace.s06"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store grace.w8.ns01 planned in grace.s08 without a stated never_store marker",
+      "ids": [
+        "grace.w8.ns01",
+        "grace.s08"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store grace.w4.ns01 planned in grace.s10 without a stated never_store marker",
+      "ids": [
+        "grace.w4.ns01",
+        "grace.s10"
+      ]
+    },
+    {
+      "rule": "never_store_planned",
+      "detail": "never-store grace.w12.ns01 planned in grace.s12 without a stated never_store marker",
+      "ids": [
+        "grace.w12.ns01",
+        "grace.s12"
+      ]
+    }
+  ],
+  "final_plans": [
+    {
+      "rule": "unknown_id",
+      "detail": "rochelle.w3.n03 subject 'loretta' is not in the cast",
+      "ids": [
+        "rochelle.w3.n03"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f19 and grace.w3.n04 both hold isabel.essay_status",
+      "ids": [
+        "isabel.f19",
+        "grace.w3.n04"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f19 and grace.w4.n05 both hold isabel.essay_status",
+      "ids": [
+        "isabel.f19",
+        "grace.w4.n05"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f20 and grace.w4.n05 both hold isabel.essay_status",
+      "ids": [
+        "isabel.f20",
+        "grace.w4.n05"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "isabel.f54 and grace.f43 both hold ramon.bronco_progress",
+      "ids": [
+        "isabel.f54",
+        "grace.f43"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "linh.f34 and jun.w10.n04 both hold linh.latte_art_progress",
+      "ids": [
+        "linh.f34",
+        "jun.w10.n04"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "linh.f34 and jun.w13.n03 both hold linh.latte_art_progress",
+      "ids": [
+        "linh.f34",
+        "jun.w13.n03"
+      ]
+    },
+    {
+      "rule": "overlap",
+      "detail": "jun.f20 and linh.w12.n04 both hold jun.lumpia_price",
+      "ids": [
+        "jun.f20",
+        "linh.w12.n04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "dulce.f08 (from 2025-10-10) disclosed in dulce.s04 on 2025-09-16",
+      "ids": [
+        "dulce.f08",
+        "dulce.s04"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "jun.f48 (from 2025-10-25) disclosed in jun.s12 on 2025-09-16",
+      "ids": [
+        "jun.f48",
+        "jun.s12"
+      ]
+    },
+    {
+      "rule": "disclosed_before_valid",
+      "detail": "jun.f48 (from 2025-10-25) disclosed in jun.s22 on 2025-10-02",
+      "ids": [
+        "jun.f48",
+        "jun.s22"
+      ]
+    }
+  ]
+}

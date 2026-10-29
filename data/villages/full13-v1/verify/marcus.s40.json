@@ -1,0 +1,388 @@
+{
+  "session_id": "marcus.s40",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sneaker line capped at $100 a month",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sneaker line is capped at $100 a month since my last splurge.",
+      "support_quote": ""
+    },
+    {
+      "text": "Earns $24.75 an hour",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i make $24.75 an hour and a shift is 10 hrs",
+      "support_quote": ""
+    },
+    {
+      "text": "Works 10-hour shifts",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "a shift is 10 hrs",
+      "support_quote": ""
+    },
+    {
+      "text": "Works the cold dock",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thats a whole night on the cold dock for shoes i dont need",
+      "support_quote": ""
+    },
+    {
+      "text": "Box wall of sneaker boxes is full",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the box wall in my closet is full already lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Rationalizes/weighs sneaker purchase in shifts, skips it",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "skipping it",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants options and will pick himself",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fr just give me a few options to fix it, ill pick",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants stretch reminder due to cold dock tightness",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "cold dock leaves me tight",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant states his sneaker cap is $100",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Compared to your $100 cap",
+      "support_quote": "sneaker line is capped at $100 a month since my last splurge."
+    },
+    {
+      "text": "Assistant uses his hourly pay and 10-hour shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "One shift at $24.75 x 10 hours is $247.50 before taxes.",
+      "support_quote": "i make $24.75 an hour and a shift is 10 hrs"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i03",
+      "present": true,
+      "quote": "yeah no. thats a whole night on the cold dock for shoes i dont need. skipping it"
+    },
+    {
+      "item_id": "marcus.i01",
+      "present": true,
+      "quote": "fr just give me a few options to fix it, ill pick"
+    },
+    {
+      "item_id": "marcus.i06",
+      "present": true,
+      "quote": "can u set up a reminder to stretch my back and shoulders. cold dock leaves me tight."
+    },
+    {
+      "item_id": "marcus.f34",
+      "present": true,
+      "quote": "sneaker line is capped at $100 a month since my last splurge."
+    },
+    {
+      "item_id": "marcus.f07",
+      "present": true,
+      "quote": "i make $24.75 an hour and a shift is 10 hrs"
+    },
+    {
+      "item_id": "marcus.r05",
+      "present": true,
+      "quote": "the box wall in my closet is full already lol"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

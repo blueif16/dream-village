@@ -1,0 +1,363 @@
+{
+  "session_id": "noemi.s53",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Cert exam moved to Saturday Dec 6 because of overtime",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "exam is now saturday dec 6, moved it from nov 8 bc of overtime",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is covering Greg's duties",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "put that im covering greg's duties in tiny print at the bottom somewhere",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks to forget her opinion of Victor",
+      "about": "noemi",
+      "kind": "forget_request",
+      "item_id": "noemi.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "forget what i said earlier about victor, the credit stealing ladder climber thing. dont keep that",
+      "support_quote": ""
+    },
+    {
+      "text": "Undersells her work, asks for recognition only sideways",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dont make it a thing, no asking for anything",
+      "support_quote": ""
+    },
+    {
+      "text": "Doubts bothering with the exam chart when work gets heavy",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "should i even bother making this. nov 8 was the plan and work ate it.",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'the cage' assuming shared meaning",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the wall by the cage",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she is covering Greg's duties",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Currently covering Greg's duties.",
+      "support_quote": "put that im covering greg's duties in tiny print at the bottom somewhere"
+    },
+    {
+      "text": "Assistant says exam is Saturday Dec 6",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "NETWORK CERT EXAM: SATURDAY, DEC 6",
+      "support_quote": "exam is now saturday dec 6, moved it from nov 8 bc of overtime"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f08",
+      "present": true,
+      "quote": "exam is now saturday dec 6, moved it from nov 8 bc of overtime"
+    },
+    {
+      "item_id": "noemi.f43",
+      "present": true,
+      "quote": "forget what i said earlier about victor, the credit stealing ladder climber thing. dont keep that"
+    },
+    {
+      "item_id": "noemi.i01",
+      "present": true,
+      "quote": "put that im covering greg's duties in tiny print at the bottom somewhere. dont make it a thing, no asking for anything"
+    },
+    {
+      "item_id": "noemi.i05",
+      "present": true,
+      "quote": "ugh honestly should i even bother making this. nov 8 was the plan and work ate it."
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "make a printable countdown chart for the wall by the cage"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

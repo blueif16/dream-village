@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s82",
+  "principal": "arjun",
+  "start": "2025-11-20T07:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "morning. on th 6:48 rn, phone at like 40%\n\nharrowgate said decision by mid-december. so i have like 3-4 weeks of waiting. how do i not lose my mind and also not waste it. checklist style pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Good question to ask now, while it's still early in the wait. Here's a checklist you can run for the next few weeks:\n\n**Every weekday (15-20 min)**\n- [ ] Send one alumni/networking message\n- [ ] Check your tracker for anything with a deadline this week\n\n**Weekly**\n- [ ] Submit 2-3 *targeted* applications (quality over volume)\n- [ ] Do a mock interview or a spoken practice run\n- [ ] Update your tracker: stage, next action, date\n\n**One-time tasks while you wait**\n- [ ] Send a short thank-you to anyone who helped you\n- [ ] Prep a \"status update\" line for other recruiters: \"I'm in a final-stage process elsewhere, but very interested in your role.\"\n- [ ] Draft a polite check-in email to send around the 2-week mark if you haven't heard\n\n**Boundaries**\n- [ ] Set one day a week where you don't touch the tracker\n- [ ] Don't refresh your inbox more than 2-3 times a day\n\nWant me to turn this into a table with dates?"
+    },
+    {
+      "role": "user",
+      "text": "ok yes table. also turned in th ops group project a day early yesterday, can you give me a checklist i can reuse for th next one lol. like start to finish"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work finishing ahead of time. Here's both.\n\n**Waiting-period table**\n\n| Week | Focus | Targets |\n|---|---|---|\n| 1 (now) | Rebuild pipeline | 2-3 targeted applications, 5 alumni messages, 1 mock interview |\n| 2 | Momentum | 2-3 applications, 5 alumni messages, update tracker |\n| 3 | Follow-up | Polite check-in if you've heard nothing, 2 applications |\n| 4 | Buffer | Final follow-up around mid-December, keep applying |\n\n**Reusable group project checklist**\n\n*Kickoff*\n- [ ] Write down the deliverables, format and due date\n- [ ] Assign an owner to each section\n- [ ] Set an internal deadline 2-3 days before the real one\n\n*Middle*\n- [ ] Weekly 15-minute check-in with the team\n- [ ] Mark each section: draft / reviewed / final\n- [ ] Start the summary page early\n\n*Final stretch*\n- [ ] Full read-through for consistency\n- [ ] Check charts, citations and formatting\n- [ ] Submit 24 hours early and save a confirmation\n\n*After*\n- [ ] Note what worked for next time"
+    },
+    {
+      "role": "user",
+      "text": "thx. also thursday so im gonna stop by ashby's office hours 2-3:30 to say thanks for th letter. should i bring anything or just knock"
+    },
+    {
+      "role": "assistant",
+      "text": "Just go, no need to bring anything. A few small tips:\n\n- **Keep it short.** Thank him for the letter in a sentence or two, and mention briefly what it's for (summer internship applications).\n- **Give a quick update** if you have one, like that you're in a late-stage interview process. Professors usually like hearing how things turn out.\n- **Don't ask about the letter's contents.** Just express appreciation.\n- **If his door is closed**, knock anyway before assuming he's unavailable.\n\nIf you'd like a follow-up, send a two-line thank-you email afterward. Want a draft?"
+    },
+    {
+      "role": "user",
+      "text": "yeah quick one, 2 lines max"
+    },
+    {
+      "role": "assistant",
+      "text": "Subject: Thank you\n\nDear Professor [last name],\n\nThank you for writing my recommendation letter. I really appreciate your support, and I'll let you know how my applications turn out.\n\nBest,\n[your name]"
+    }
+  ]
+}

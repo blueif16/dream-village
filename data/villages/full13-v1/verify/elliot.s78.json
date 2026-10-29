@@ -1,0 +1,148 @@
+{
+  "session_id": "elliot.s78",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Must finish reassessment-software training before returning",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to finish the online reassessment-software training before i go back to work",
+      "support_quote": ""
+    },
+    {
+      "text": "Did baby loads at card-only laundry room on Tuesday",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's tuesday so i just finished the baby loads at the card-only laundry room downstairs",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith labels fridge in librarian handwriting",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fridge is now fully labeled in librarian handwriting after lunch with my mom",
+      "support_quote": ""
+    },
+    {
+      "text": "Brenda's Monday email is a check-in about his return",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the Monday email from yesterday is still sitting unanswered",
+      "support_quote": ""
+    },
+    {
+      "text": "Jokes about being incompetent to mask overwhelm",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "current status: Employee of the Month at Burnt Toast Inc. 🙃",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is on three crib naps at 9, 12:30 and 4",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo is on three crib naps (9, 12:30 and 4)",
+      "support_quote": ""
+    },
+    {
+      "text": "Return date is Jan 5",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my return date is jan 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he returns January 5",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm on track to return on January 5.",
+      "support_quote": "my return date is jan 5"
+    },
+    {
+      "text": "Assistant says three modules remain",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "have about three modules remaining",
+      "support_quote": "maybe 3 left"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f57",
+      "present": true,
+      "quote": "i have to finish the online reassessment-software training before i go back to work"
+    },
+    {
+      "item_id": "elliot.f38",
+      "present": true,
+      "quote": "it's tuesday so i just finished the baby loads at the card-only laundry room downstairs and i can't do any more tonight"
+    },
+    {
+      "item_id": "elliot.f47",
+      "present": true,
+      "quote": "fridge is now fully labeled in librarian handwriting after lunch with my mom"
+    },
+    {
+      "item_id": "elliot.r05",
+      "present": true,
+      "quote": "the Monday email from yesterday is still sitting unanswered and i need to fit a reply in somewhere"
+    },
+    {
+      "item_id": "elliot.i02",
+      "present": true,
+      "quote": "current status: Employee of the Month at Burnt Toast Inc. 🙃"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

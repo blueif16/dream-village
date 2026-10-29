@@ -1,0 +1,47 @@
+{
+  "id": "rafael.s12",
+  "principal": "rafael",
+  "start": "2025-11-10T23:57:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "bro need help with something. typing from the truck in the driveway, been stuck on this since brakes lab this morning. i got engine performance thursday so i wanna settle it before the week gets busy"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, what's going on? Give me the short version and I'll help you sort it out."
+    },
+    {
+      "role": "user",
+      "text": "so i agreed to do the mechanical work on one civic for 30% of profit. no money in from me. thats the deal. but dante keeps texting me the next auction pick like we're already doing a second one. i said nel, labor only, one car. if the first one loses money i wanna bow out quiet without making it weird. should i say something about dante's civics now or wait"
+    },
+    {
+      "role": "assistant",
+      "text": "Say it now, but not as \"I'm thinking of quitting.\" Put it in the paperwork so it's just part of the deal.\n\nKeep the one-page note simple:\n1. Scope: you do the mechanical work on one car, nothing else.\n2. Pay: 30% of profit after the car's costs are covered. If there's no profit, there's no payout.\n3. Your money: you put in no cash and owe nothing if the car loses money.\n4. After car one: either of you can stop, or you both agree in writing before starting another car.\n\nThat last line is how you bow out quietly. If the first car loses money, you just say \"we said one car, I'm good,\" and it's already in the note. Meanwhile, when he texts the next pick, you can reply \"let's see how the first one goes.\" That's honest and doesn't start any drama.\n\nThe form you mentioned, is it the auction paperwork?"
+    },
+    {
+      "role": "user",
+      "text": "yea the auction one, it has a payout section for my cut. here ill paste what i put\n\npayout method: direct deposit\nname: rafael henriquez\ncredit union acct: 4471 8820 3159\nshare: 30% of net profit\n\nis that ok"
+    },
+    {
+      "role": "assistant",
+      "text": "The layout is fine. Name, method and share are all in the right fields, and \"30% of net profit\" is the right wording for your deal since it ties your cut to profit and not to the sale price.\n\nA few things before you submit:\n- Check your account number against your credit union app one more time. One wrong digit sends the money somewhere else.\n- Make sure the form says this is a payout to you only. It shouldn't give anyone access to pull money from your account.\n- Put \"net profit = sale price minus purchase price, fees and parts\" somewhere on the form or in your note. If the numbers get fuzzy later, that definition settles it.\n\nI'm not going to retype your account number in my replies, so keep it just in the form."
+    },
+    {
+      "role": "user",
+      "text": "simón. so the note and the form both say labor only and no cash from me. can u write the one page note short like 6 lines"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n**Labor-Only Profit Share**\n1. [Your name] will do the mechanical work on one vehicle: [car description]. [Dante's name] buys, lists and sells it.\n2. [Your name] puts in no money. All purchase costs and parts are paid by [Dante's name].\n3. Net profit = sale price minus purchase price, fees and parts. [Your name] gets 30% of net profit, paid by direct deposit within [number] days of the sale.\n4. If there is no profit, no payment is owed by either side.\n5. Any further car needs a new written agreement before work starts.\n6. Signed: [your name] / [Dante's name], [date]\n\nSend it to him before the next auction pick, so line 5 is already settled when he texts you."
+    },
+    {
+      "role": "user",
+      "text": "thanks bro that helped fr 👍"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Send him the note tomorrow, and if he pushes on the next car, point him to line 5. Good luck with Thursday's class."
+    }
+  ]
+}

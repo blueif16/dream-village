@@ -1,0 +1,82 @@
+{
+  "session_id": "linh.s41",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Linh attended Pedro's Tuesday 4pm anatomy group at the library today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i went to pedro's tuesday 4pm anatomy group at the library today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has a crush on Pedro and hasn't told anyone",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i think i like him?? i havent told anyone",
+      "support_quote": ""
+    },
+    {
+      "text": "Pedro quizzes everyone with 3D-printed bones",
+      "about": "pedro",
+      "kind": "fact",
+      "item_id": "linh.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he quizzes everyone w these 3d printed bones",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants to handle her crush without saying anything, hoping it fades",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "is there a way to handle it without like. saying anything or changing anything, i kinda hope it just fades",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh keeps going to the group and has a crush on a group member",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f43",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "keep going to group, same seat, same routine",
+      "support_quote": "i went to pedro's tuesday 4pm anatomy group at the library today"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f43",
+      "present": true,
+      "quote": "i went to pedro's tuesday 4pm anatomy group at the library today and i think i like him?? i havent told anyone"
+    },
+    {
+      "item_id": "linh.f22",
+      "present": true,
+      "quote": "i went to pedro's tuesday 4pm anatomy group at the library today"
+    },
+    {
+      "item_id": "linh.f57",
+      "present": true,
+      "quote": "he quizzes everyone w these 3d printed bones and when he held one up at me i completely blanked"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "is there a way to handle it without like. saying anything or changing anything, i kinda hope it just fades"
+    }
+  ],
+  "sensitive": []
+}

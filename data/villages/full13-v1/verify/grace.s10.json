@@ -1,0 +1,133 @@
+{
+  "session_id": "grace.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel's curfew is 11 p.m. on weekends with a 9 p.m. location text",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "grace.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Isabel's curfew is now 11 p.m. on weekends, and she must text me at 9 with her location.",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel wrote a one-page weekend plan with check-in times",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "grace.w9.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she wrote a one-page weekend plan with check-in times.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace loosened the curfew only because Isabel showed her a written plan",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I only loosened the curfew because she showed me that plan in writing",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace wonders whether to skip Thanksgiving extras in case the furnace goes",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I'm also wondering whether to skip Thanksgiving extras in case the furnace goes.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace wants precise numbered steps",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Steps, numbered.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace has an older Android with a cracked corner",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Mine is an older Android with a cracked corner.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace's license number given",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w4.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Here is my new license number: D4827163.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace agreed to the curfew based on Isabel's written plan",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you agreed based on her written plan, we'll mirror it.",
+      "support_quote": "I only loosened the curfew because she showed me that plan in writing"
+    },
+    {
+      "text": "Isabel has an iPhone",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "Isabel has an iPhone.",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f48",
+      "present": true,
+      "quote": "Isabel's curfew is now 11 p.m. on weekends, and she must text me at 9 with her location."
+    },
+    {
+      "item_id": "grace.w9.n03",
+      "present": true,
+      "quote": "she wrote a one-page weekend plan with check-in times."
+    },
+    {
+      "item_id": "grace.i02",
+      "present": true,
+      "quote": "I'm also wondering whether to skip Thanksgiving extras in case the furnace goes."
+    },
+    {
+      "item_id": "grace.i04",
+      "present": true,
+      "quote": "I only loosened the curfew because she showed me that plan in writing, so I want the phone set up to match the paper exactly."
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "present": true,
+      "quote": "Here is my new license number: D4827163."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "Here is my new license number: D4827163.",
+      "assistant_quote": ""
+    }
+  ]
+}

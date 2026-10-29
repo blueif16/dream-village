@@ -1,0 +1,300 @@
+{
+  "principal": "linh",
+  "week": 10,
+  "entries": [
+    {
+      "id": "linh.w10.l01",
+      "date": "2025-10-27",
+      "what": "Linh rode her e-bike to Tamsen Valley for Anatomy at 9 a.m. and sat through the digestion lecture next to Rochelle. Afterward she looked up extra reading on the gut microbiome, though no test covers it.",
+      "with": [
+        "rochelle",
+        "miriam"
+      ],
+      "outcome": "Saved a reading list and decided to read it over the weekend.",
+      "feeling": "curious, a little buzzed",
+      "facts": [
+        "linh.f02",
+        "linh.f11"
+      ],
+      "impressions": [
+        "linh.i04"
+      ]
+    },
+    {
+      "id": "linh.w10.l02",
+      "date": "2025-10-27",
+      "what": "Closing shift at Heron & Grind from 3 to 9, charging the e-bike behind the counter, logging milk waste and locking the vault-room outlets.",
+      "with": [
+        "jun",
+        "beatrice"
+      ],
+      "outcome": "Closed on time and took home a plate Hạnh left.",
+      "feeling": "tired but steady",
+      "facts": [
+        "linh.f04",
+        "linh.f54",
+        "linh.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l03",
+      "date": "2025-10-28",
+      "what": "Kenji gave her a ride to General Chemistry at 11. She spent the afternoon at the library with Pedro's Tuesday 4 p.m. anatomy group.",
+      "with": [
+        "kenji",
+        "pedro"
+      ],
+      "outcome": "Got through the bone models quiz without errors.",
+      "feeling": "focused",
+      "facts": [
+        "linh.f52",
+        "linh.f22",
+        "linh.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l04",
+      "date": "2025-10-28",
+      "what": "Evening at home on Pell Road, she packed tomorrow's rice bowl and updated her color-coded notes and planner.",
+      "with": [],
+      "outcome": "Planner set for the Denny meeting tomorrow.",
+      "feeling": "organized",
+      "facts": [
+        "linh.f30",
+        "linh.f23",
+        "linh.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l05",
+      "date": "2025-10-29",
+      "what": "Linh had Anatomy at 9 a.m., then met counselor Denny Wu at 2 p.m. They drafted a two-track plan: Bayshore nursing versus Bayshore public health, with the decision due by February.",
+      "with": [
+        "denny"
+      ],
+      "outcome": "She left with a written two-track plan and a February deadline.",
+      "feeling": "relieved, a bit uneasy",
+      "facts": [
+        "linh.f58",
+        "linh.f16",
+        "linh.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l06",
+      "date": "2025-10-29",
+      "what": "Closing shift at the cafe from 3 to 9. Between rushes she told Jun about the plan but kept it vague.",
+      "with": [
+        "jun"
+      ],
+      "outcome": "Jun said the numbers side suits her; she didn't mention it to Hạnh.",
+      "feeling": "hopeful, guarded",
+      "facts": [
+        "linh.f04",
+        "linh.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l07",
+      "date": "2025-10-30",
+      "what": "General Chemistry at 11, with Kenji driving her. Afterward she reviewed her anatomy deck on the library steps.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Finished 60 flashcards.",
+      "feeling": "calm",
+      "facts": [
+        "linh.f52",
+        "linh.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l08",
+      "date": "2025-10-30",
+      "what": "Evening of studying at home to lo-fi, then dinner with Hạnh.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Hạnh asked about pharmacy and Linh said school was fine.",
+      "feeling": "evasive",
+      "facts": [
+        "linh.f07",
+        "linh.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l09",
+      "date": "2025-10-31",
+      "what": "Halloween shift at Heron & Grind, working the whole day to closing. She drew skeleton latte art, and Calle Ortega filled with trick-or-treaters.",
+      "with": [
+        "jun",
+        "beatrice",
+        "wes"
+      ],
+      "outcome": "The skeletons were a hit; Wes called her Doc.",
+      "feeling": "cheerful",
+      "facts": [
+        "linh.f60",
+        "linh.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l10",
+      "date": "2025-10-31",
+      "what": "Closed the cafe, logged milk waste, and biked home past the street's string lights.",
+      "with": [],
+      "outcome": "Home by 9:45 and ate the plate Hạnh left.",
+      "feeling": "pleasantly worn out",
+      "facts": [
+        "linh.f54",
+        "linh.f11",
+        "linh.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l11",
+      "date": "2025-11-01",
+      "what": "Opening shift at Heron & Grind at 6:30 a.m. Sam was supposed to help but swapped out again.",
+      "with": [
+        "sam",
+        "beatrice"
+      ],
+      "outcome": "Worked the rush solo and noted the owed Saturdays.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "linh.f03",
+        "linh.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l12",
+      "date": "2025-11-01",
+      "what": "Got off at 1 and ate her packed rice bowl. Spent the afternoon on chemistry problem sets at the vault-wall outlets.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Finished the chapter set.",
+      "feeling": "productive",
+      "facts": [
+        "linh.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l13",
+      "date": "2025-11-01",
+      "what": "Evening at home, she planned next week in her washi-tape planner.",
+      "with": [],
+      "outcome": "Week mapped out.",
+      "feeling": "settled",
+      "facts": [
+        "linh.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l14",
+      "date": "2025-11-02",
+      "what": "Sunday cafe shift from 6:30 to 1, then a walk on the Ulloa marsh boardwalk.",
+      "with": [
+        "jun"
+      ],
+      "outcome": "Cleared her head by the egrets.",
+      "feeling": "peaceful",
+      "facts": [
+        "linh.f04",
+        "linh.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l15",
+      "date": "2025-11-02",
+      "what": "Helped at the Lotus Nails front desk from 2 to 5 with Hạnh.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Hạnh bragged about her latte art to a customer.",
+      "feeling": "fond, tense",
+      "facts": [
+        "linh.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w10.l16",
+      "date": "2025-11-02",
+      "what": "Sunday night she set up her weekly planner and prepped rice bowls.",
+      "with": [],
+      "outcome": "Lunches ready for the week.",
+      "feeling": "prepared",
+      "facts": [
+        "linh.f37",
+        "linh.f30"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "linh.w10.n01",
+      "subject": "linh",
+      "attribute": "halloween_art_result",
+      "value": "skeleton latte art was popular with customers on Halloween",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w10.n02",
+      "subject": "linh",
+      "attribute": "reading_list",
+      "value": "saved a gut microbiome reading list to read over the weekend",
+      "valid_from": "2025-10-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w10.n03",
+      "subject": "linh",
+      "attribute": "hanh_pharmacy_question",
+      "value": "Hạnh asked about pharmacy at dinner; Linh deflected",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w10.n04",
+      "subject": "linh",
+      "attribute": "chem_problem_set",
+      "value": "finished the chapter chemistry problem set at Heron & Grind",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w10.n05",
+      "subject": "linh",
+      "attribute": "denny_followup",
+      "value": "left Denny's meeting with a written two-track plan to revisit before February",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

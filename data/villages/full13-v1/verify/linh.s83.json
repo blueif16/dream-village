@@ -1,0 +1,82 @@
+{
+  "session_id": "linh.s83",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sam owes Linh two Saturday shifts from September",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "you still owe me two saturdays from september",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh sorted boxes at the food drive",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just got back from sorting boxes at the food drive",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh avoids firm no, softens request",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no worries if not",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh worked the 6:30 opening shift on Saturday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the 6:30 opening today was brutal without you",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh sorted boxes at the food drive",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That sounds like a good tiring kind of day, sorting boxes for a food drive.",
+      "support_quote": "i just got back from sorting boxes at the food drive"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f55",
+      "present": true,
+      "quote": "you still owe me two saturdays from september"
+    },
+    {
+      "item_id": "linh.f45",
+      "present": true,
+      "quote": "i just got back from sorting boxes at the food drive"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "if you can maybe cover the next couple saturdays that would be amazing?? no worries if not"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "the 6:30 opening today was brutal without you"
+    }
+  ],
+  "sensitive": []
+}

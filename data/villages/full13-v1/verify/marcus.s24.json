@@ -1,0 +1,97 @@
+{
+  "session_id": "marcus.s24",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus made five containers of chicken and rice for the week",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "made 5 containers of chicken and rice today for the week",
+      "support_quote": ""
+    },
+    {
+      "text": "Denise calls Marcus's transfers loans and tracks them in a notebook",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": "marcus.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im keeping track of those loans in my notebook",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus puts focus on his mom's week and hides his exhaustion",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u delete anything that hints im exhausted. i want it to be about her week not mine",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus works rough night shifts and barely sleeps",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nights are rough and i barely sleep but its fine",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus made five containers of chicken and rice today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Just made five containers of chicken and rice today so I'm set for the week.",
+      "support_quote": "made 5 containers of chicken and rice today for the week"
+    },
+    {
+      "text": "Marcus's mom keeps a notebook about the loans",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": "marcus.f49",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'd also leave the notebook comment alone.",
+      "support_quote": "im keeping track of those loans in my notebook"
+    },
+    {
+      "text": "Marcus asked to drop the notebook line",
+      "about": "marcus",
+      "kind": "forget_request",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "drop the notebook line tho",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i02",
+      "present": true,
+      "quote": "can u delete anything that hints im exhausted. i want it to be about her week not mine"
+    },
+    {
+      "item_id": "marcus.f49",
+      "present": true,
+      "quote": "im keeping track of those loans in my notebook, ill pay you back every cent"
+    },
+    {
+      "item_id": "marcus.f37",
+      "present": true,
+      "quote": "made 5 containers of chicken and rice today for the week"
+    }
+  ],
+  "sensitive": []
+}

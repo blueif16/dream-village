@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s60",
+  "principal": "arjun",
+  "start": "2025-10-27T12:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so i just cut the spreadsheet down to 40 active targets this morning. it was 81 rows color-coded by stage and i deleted all the low-fit ones. quality over volume now lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Good move. Before I suggest a ranking method, a few quick questions so the plan fits you: how much time do you have to tailor applications this week, and what do you want the internships to be (role type, location)? Also, what columns does the sheet have now?"
+    },
+    {
+      "role": "user",
+      "text": "i work front desk at the career center till 5 so i only have th evening to tailor bullets, like 2 hrs max. want summer 2026 supply chain or transportation analyst intern, bay area. can you give me a column layout to score th remaining rows pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a scoring setup that fits a roughly two-hour evening.\n\n**Add these columns (score each 1-5):**\n\n| Column | What it measures |\n|---|---|\n| Role fit | How close the title and duties are to a supply chain or transportation analyst intern |\n| Location | Bay Area scores 5, anything else lower |\n| Resume match | How many of the JD's keywords your current resume already hits |\n| Deadline | 5 = closing soonest, 1 = open-ended |\n| Warm lead | 5 = you have a referral or contact, 1 = cold apply |\n| **Total** | Sum of the above; sort descending |\n\n**Plan for the evening (about 2 hours):**\n1. 20 min: score all 40 rows quickly, going on gut, with no deep reading.\n2. 10 min: sort by Total and take the top 3.\n3. 25 min per application x 3 = 75 min: tailor the top 3 resume bullets and the summary line to each JD.\n4. 15 min buffer: proofread and submit.\n\nIf two rows tie, take the one with the earlier deadline. Everything below the top 3 waits for tomorrow evening. Want me to turn this into a formula for the Total column?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls, formula for total. tldr only"
+    },
+    {
+      "role": "assistant",
+      "text": "Assuming scores are in columns F to J, put this in K2 and drag down:\n\n=SUM(F2:J2)\n\nThen sort the sheet by column K, largest to smallest. If you want deadline to count extra, use =SUM(F2:J2)+I2 (swap I for whichever column holds Deadline)."
+    }
+  ]
+}

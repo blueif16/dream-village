@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s55",
+  "principal": "noemi",
+  "start": "2025-10-23T12:52:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you write a short friendly note for the break room. want pickers to tag dead scanners at the dock instead of texting my cell. carla keeps texting me mid-shift about dead ones and it's turning into whack-a-mole. there's like 30 handhelds piled up at peak out of roughly 620 total. tagged ones go to the IT cage next to the outbound break room"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a friendly version you can print and post:\n\n**Dead scanner? Tag it, don't text it!**\n\nHey team, thanks for keeping the floor moving. Quick ask: when a handheld dies on you, please tag it right at the dock and drop it at the IT cage next to the outbound break room, instead of texting my cell.\n\nWhy: at peak we've got about 30 handhelds waiting for repair out of roughly 620, and a tagged scanner in the cage gets into the queue much faster than a text that gets buried mid-shift.\n\nHow:\n1. Put a tag on the dead scanner (note the dock door or your name)\n2. Drop it at the IT cage\n3. Grab a working swap\n\nThanks, you're the best!\n- [your name], IT desk\n\nWant a shorter version, or a Spanish one too?"
+    },
+    {
+      "role": "user",
+      "text": "ty. add that simple stuff like battery swaps gets done thursdays 3-5 by bao, he's in training then. and yeah spanish version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Added it. Here are both versions:\n\n**English**\n\n**Dead scanner? Tag it, don't text it!**\n\nHey team, thanks for keeping the floor moving. When a handheld dies on you, please tag it at the dock and drop it at the IT cage next to the outbound break room instead of texting my cell.\n\nAt peak we've got about 30 handhelds waiting for repair out of roughly 620. Simple fixes like battery swaps get knocked out Thursdays 3-5 p.m. while Bao is in training, so tagged scanners move fast.\n\n1. Tag the scanner (dock door or your name)\n2. Drop it at the IT cage\n3. Grab a working swap\n\nThanks!\n- [your name], IT desk\n\n**Español**\n\n**¿Escáner descompuesto? ¡Etiquétalo, no me mandes mensaje!**\n\nHola equipo, gracias por mantener todo en marcha. Si se les descompone un escáner, por favor etiquétenlo en el muelle y déjenlo en la jaula de IT, junto a la sala de descanso de salida, en vez de mandarme mensaje al celular.\n\nEn temporada alta hay unos 30 escáneres esperando reparación de unos 620 en total. Los arreglos sencillos, como cambiar la batería, se hacen los jueves de 3 a 5 p.m. con Bao, que está en capacitación, así que los escáneres etiquetados se resuelven rápido.\n\n1. Etiqueten el escáner (puerta del muelle o su nombre)\n2. Déjenlo en la jaula de IT\n3. Tomen uno que funcione\n\n¡Gracias!\n- [tu nombre], IT"
+    }
+  ]
+}

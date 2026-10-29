@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s77",
+  "principal": "noemi",
+  "start": "2025-11-14T23:27:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. make my reply less rude pls. carla texted me this:\n\n\"scanners keep dying on the outbound floor, like 6 more just went red. pickers are way behind rate. need replacements NOW\"\n\nand i was gonna send:\n\n\"yeah i know. it's another red-beep night. it's pouring and everything is wet. i can't swap them faster than i already am. i have one pair of hands. you'll get them when you get them\"\n\nugh been on tickets for like 8 hrs. eating colima tacos in the cage while i type this lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. I kept it honest and direct, just dropped the edge:\n\n\"Hi Carla, got it. Another red-beep night, and the rain isn't helping. I'm swapping the 6 units now and will send replacements to the floor in batches as each one is tested, so you'll have the first few in about [X] minutes. I'll text you when the last one is out.\"\n\nNotes:\n- Swap in your real ETA for [X]. If you're not sure, give a range.\n- The \"batches\" line lets her know units are coming without you promising all six at once.\n- If you want it even shorter: \"On it. Another red-beep night. First replacements to the floor in about [X] min, I'll text when the rest are out.\"\n\nEnjoy the tacos, and hang in there."
+    },
+    {
+      "role": "user",
+      "text": "tldr the short one is good. can it say wet units take longer to test"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure:\n\n\"On it. Another red-beep night, and wet units take longer to test. First replacements to the floor in about [X] min, I'll text when the rest are out.\"\n\nPaste in your ETA and send it."
+    },
+    {
+      "role": "user",
+      "text": "ty that's actually gg"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works. Good luck getting the floor back on rate."
+    }
+  ]
+}

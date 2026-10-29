@@ -1,0 +1,127 @@
+{
+  "session_id": "linh.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh goes by 'Doc' jokingly",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok Doc needs help, my phone is dying",
+      "support_quote": ""
+    },
+    {
+      "text": "Phone is 4 years old with a cracked corner and bad battery",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its a 4 yr old phone w a cracked corner and the battery drops like 20% in an hour",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a 600-card flashcard app used on breaks",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a 600 card flashcard app i go thru on breaks at work",
+      "support_quote": ""
+    },
+    {
+      "text": "Studies to lo-fi playlists",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i stream a lo-fi playlist while i study",
+      "support_quote": ""
+    },
+    {
+      "text": "Up at 6:45 for class",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f44",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to be up at 6:45 for class",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh closes at work tomorrow",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "then i close tonight.. wait tomorrow",
+      "support_quote": ""
+    },
+    {
+      "text": "User wants a plan with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need it to last til like 10pm",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Linh has a flashcard app and lo-fi music as drains",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Those two are likely the biggest drains.",
+      "support_quote": "i have a 600 card flashcard app i go thru on breaks at work and its eating the battery"
+    },
+    {
+      "text": "Assistant says Linh has class and a shift tomorrow",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Good luck with class and your shift tomorrow.",
+      "support_quote": "i have to be up at 6:45 for class, then i close tonight.. wait tomorrow"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.r05",
+      "present": true,
+      "quote": "ok Doc needs help, my phone is dying"
+    },
+    {
+      "item_id": "linh.f25",
+      "present": true,
+      "quote": "its a 4 yr old phone w a cracked corner and the battery drops like 20% in an hour"
+    },
+    {
+      "item_id": "linh.f24",
+      "present": true,
+      "quote": "i have a 600 card flashcard app i go thru on breaks at work and its eating the battery"
+    },
+    {
+      "item_id": "linh.f38",
+      "present": true,
+      "quote": "also i stream a lo-fi playlist while i study"
+    },
+    {
+      "item_id": "linh.f44",
+      "present": true,
+      "quote": "its past 11 rn and i have to be up at 6:45 for class"
+    }
+  ],
+  "sensitive": []
+}

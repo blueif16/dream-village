@@ -1,0 +1,1008 @@
+{
+  "principal": "linh",
+  "summary": "Linh Pham is a 19-year-old second-year student at Tamsen Valley College taking anatomy with Dr. Okoye and general chemistry, nominally on a path toward nursing transfer while telling her mother Hạnh she is set on pharmacy. She pulls shots at Heron & Grind four days a week alongside Jun, who is teaching her latte art and leaning on her for math help with his lumpia pop-up. She lives at home in the family ranch house on Pell Road, rides an old bike or catches rides, and keeps meticulous color-coded notes while routinely forgetting to eat lunch. Her sister Thao, a night nurse, mothers her and makes nursing feel both obvious and suffocating. The fall horizon brings the first anatomy lab practical on Oct 17, midterms, the cafe's extended evening hours and a transfer-planning decision she keeps postponing with counselor Denny Wu. Underneath, she wants to find out what she actually wants before someone else decides for her. By November she is quietly leaning toward something other than pharmacy and has to figure out how to say so.",
+  "facts": [
+    {
+      "id": "linh.f01",
+      "subject": "linh",
+      "attribute": "school_program",
+      "value": "second-year at Tamsen Valley College, prerequisites toward possible nursing transfer",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f02",
+      "subject": "linh",
+      "attribute": "fall_courses",
+      "value": "Anatomy & Physiology I (MWF 9 a.m.), General Chemistry I (TTh 11 a.m.), Statistics online",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f03",
+      "subject": "linh",
+      "attribute": "work_schedule",
+      "value": "Heron & Grind Mon/Wed 12-6, Sat/Sun 6:30-1",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "linh.f04",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f04",
+      "subject": "linh",
+      "attribute": "work_schedule",
+      "value": "Heron & Grind Mon/Wed 3-9 closing, Sat/Sun 6:30-1",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f05",
+      "subject": "linh",
+      "attribute": "hourly_pay",
+      "value": "$18.50 an hour plus tips, about $90 a week in tips",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "linh.f06",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f06",
+      "subject": "linh",
+      "attribute": "hourly_pay",
+      "value": "$19.25 an hour plus tips after Beatrice's raise for closers",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f07",
+      "subject": "linh",
+      "attribute": "home",
+      "value": "lives with mother Hạnh in the Pell Road ranch house, small front bedroom",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f08",
+      "subject": "linh",
+      "attribute": "rent_contribution",
+      "value": "gives Hạnh $200 a month toward groceries and utilities",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f09",
+      "subject": "linh",
+      "attribute": "transport",
+      "value": "secondhand blue commuter bike, rides to campus and Calle Ortega",
+      "valid_from": null,
+      "valid_to": "2025-09-18",
+      "superseded_by": "linh.f10",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f10",
+      "subject": "linh",
+      "attribute": "transport",
+      "value": "bike stolen outside the library; takes the shuttle bus and rides from Kenji",
+      "valid_from": "2025-09-18",
+      "valid_to": "2025-10-11",
+      "superseded_by": "linh.f11",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f11",
+      "subject": "linh",
+      "attribute": "transport",
+      "value": "bought a used e-bike for $640, charges it behind the cafe counter",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f12",
+      "subject": "linh",
+      "attribute": "savings_goal",
+      "value": "saving $700 toward a replacement bike",
+      "valid_from": "2025-09-18",
+      "valid_to": "2025-10-11",
+      "superseded_by": "linh.f13",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f13",
+      "subject": "linh",
+      "attribute": "savings_goal",
+      "value": "rebuilding savings to $1,500 for spring textbooks and a transfer application fund",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f14",
+      "subject": "linh",
+      "attribute": "stated_career_goal",
+      "value": "tells family she is set on pharmacy school",
+      "valid_from": null,
+      "valid_to": "2025-11-10",
+      "superseded_by": "linh.f15",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f15",
+      "subject": "linh",
+      "attribute": "stated_career_goal",
+      "value": "told Thao she is considering a public health or nutrition transfer instead of pharmacy",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f16",
+      "subject": "linh",
+      "attribute": "transfer_plan",
+      "value": "undecided; needs to pick a track with Denny Wu before spring registration",
+      "valid_from": null,
+      "valid_to": "2025-10-29",
+      "superseded_by": "linh.f17",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f17",
+      "subject": "linh",
+      "attribute": "transfer_plan",
+      "value": "drafted two-track plan with Denny: Bayshore nursing vs. Bayshore public health, decide by Feb",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f18",
+      "subject": "linh",
+      "attribute": "anatomy_grade",
+      "value": "B+ going into the first lab practical",
+      "valid_from": "2025-09-26",
+      "valid_to": "2025-10-24",
+      "superseded_by": "linh.f19",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f19",
+      "subject": "linh",
+      "attribute": "anatomy_grade",
+      "value": "A- after scoring 91 on the Oct 17 lab practical",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f20",
+      "subject": "linh",
+      "attribute": "chem_midterm",
+      "value": "General Chemistry midterm Oct 20, 8 a.m.",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f21",
+      "subject": "linh",
+      "attribute": "study_group_attendance",
+      "value": "skips Pedro's Tuesday group, studies alone",
+      "valid_from": null,
+      "valid_to": "2025-09-30",
+      "superseded_by": "linh.f22",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f22",
+      "subject": "linh",
+      "attribute": "study_group_attendance",
+      "value": "attends Pedro's Tuesday 4 p.m. anatomy group at the library",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f23",
+      "subject": "linh",
+      "attribute": "note_system",
+      "value": "color-coded notes: pink muscles, blue bones, green nerves, yellow for things on the practical",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f24",
+      "subject": "linh",
+      "attribute": "flashcard_app_deck",
+      "value": "keeps a 600-card anatomy deck she reviews on breaks",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f25",
+      "subject": "linh",
+      "attribute": "phone",
+      "value": "four-year-old phone with a cracked corner and bad battery",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f26",
+      "subject": "linh",
+      "attribute": "laptop",
+      "value": "hand-me-down laptop from Thao, sticky 'e' key",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f27",
+      "subject": "linh",
+      "attribute": "coffee_order",
+      "value": "oat cortado, no sugar; judges over-steamed milk",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f28",
+      "subject": "linh",
+      "attribute": "home_brew_setup",
+      "value": "hand grinder and pour-over cone at home, buys beans from the cafe at staff discount",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f29",
+      "subject": "linh",
+      "attribute": "lunch_habit",
+      "value": "often skips lunch on class/work days",
+      "valid_from": null,
+      "valid_to": "2025-09-22",
+      "superseded_by": "linh.f30",
+      "class": "useful"
+    },
+    {
+      "id": "linh.f30",
+      "subject": "linh",
+      "attribute": "lunch_habit",
+      "value": "packs a Sunday-prepped rice bowl after nearly fainting at the espresso bar",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f31",
+      "subject": "linh",
+      "attribute": "favorite_food",
+      "value": "bún bò Huế; gets phở at Phở Bến Thành with Thao after her night shifts",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f32",
+      "subject": "linh",
+      "attribute": "dietary_preference",
+      "value": "lactose intolerant-ish, avoids dairy milk",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f33",
+      "subject": "linh",
+      "attribute": "latte_art_progress",
+      "value": "can pour a heart, working on a rosetta",
+      "valid_from": null,
+      "valid_to": "2025-10-18",
+      "superseded_by": "linh.f34",
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f34",
+      "subject": "linh",
+      "attribute": "latte_art_progress",
+      "value": "pours a clean rosetta; Jun moved her on to tulips",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f35",
+      "subject": "linh",
+      "attribute": "side_help_for_jun",
+      "value": "built Lola's Roll a cost-per-roll spreadsheet for free",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f36",
+      "subject": "linh",
+      "attribute": "fitness",
+      "value": "walks the Ulloa marsh boardwalk Sunday afternoons",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f37",
+      "subject": "linh",
+      "attribute": "hobby",
+      "value": "keeps a paper planner with washi tape; plans each week Sunday night",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f38",
+      "subject": "linh",
+      "attribute": "music",
+      "value": "studies to lo-fi playlists and old Vietnamese ballads her dad used to play",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f39",
+      "subject": "linh",
+      "attribute": "sunday_routine",
+      "value": "helps at Lotus Nails front desk Sunday 2-5 after her cafe shift",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f40",
+      "subject": "linh",
+      "attribute": "language",
+      "value": "speaks Vietnamese at home, reads it slowly",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f41",
+      "subject": "linh",
+      "attribute": "financial_aid",
+      "value": "California College Promise fee waiver plus $1,100 Pell disbursement per term",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f42",
+      "subject": "linh",
+      "attribute": "bank_account_number",
+      "value": "checking account ending 4471, full number saved in a note",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "linh.f43",
+      "subject": "linh",
+      "attribute": "crush",
+      "value": "has a crush on Pedro Alvarado from study group",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "linh.f44",
+      "subject": "linh",
+      "attribute": "sleep_schedule",
+      "value": "bed around 12:30, up 6:45 on class days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f45",
+      "subject": "linh",
+      "attribute": "volunteer_interest",
+      "value": "signed up to help sort at the Nov 22 food drive at Our Lady of the Marsh",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f46",
+      "subject": "linh",
+      "attribute": "nutrition_elective_interest",
+      "value": "plans to take Intro to Nutrition in spring after loving the digestion unit",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f47",
+      "subject": "linh",
+      "attribute": "spring_registration_date",
+      "value": "priority registration opens Nov 18, 7 a.m.",
+      "valid_from": "2025-10-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f48",
+      "subject": "linh",
+      "attribute": "father",
+      "value": "father Minh died in 2019; she keeps his old radio on her desk",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f49",
+      "subject": "linh",
+      "attribute": "birthday",
+      "value": "turns 20 on December 3",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f50",
+      "subject": "hanh",
+      "attribute": "salon_hours",
+      "value": "Lotus Nails open 9:30-7, closed Mondays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f51",
+      "subject": "hanh",
+      "attribute": "dinner_routine",
+      "value": "cooks dinner at 8 p.m. and leaves a plate for Linh on closing nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f52",
+      "subject": "kenji",
+      "attribute": "car",
+      "value": "drives a dented silver hatchback, gives Linh rides Tue/Thu",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f53",
+      "subject": "kenji",
+      "attribute": "transfer_deadline",
+      "value": "submitting Bayshore transfer app by Nov 30",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f54",
+      "subject": "beatrice",
+      "attribute": "closing_rule",
+      "value": "closers must log milk waste on the clipboard and lock the vault-room outlets",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f55",
+      "subject": "sam",
+      "attribute": "shift_swap_debt",
+      "value": "owes Linh two Saturday shifts from September swaps",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f56",
+      "subject": "wes",
+      "attribute": "nickname_for_linh",
+      "value": "calls Linh 'Doc' because of her anatomy flashcards",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f57",
+      "subject": "pedro",
+      "attribute": "study_method",
+      "value": "quizzes the group with a bag of 3D-printed bone models",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.f58",
+      "subject": "denny",
+      "attribute": "appointment_with_linh",
+      "value": "transfer-planning meeting Oct 29, 2 p.m.",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "linh.f59",
+      "subject": "linh",
+      "attribute": "opinion_of_beatrice",
+      "value": "privately thinks Beatrice is stingy for docking the closers' tip jar for breakage",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "linh.f60",
+      "subject": "linh",
+      "attribute": "halloween_plan",
+      "value": "working the Halloween closing shift; drawing skeleton latte art",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "linh.i01",
+      "statement": "Avoids saying no or disagreeing directly, routing disagreement through softer channels or delay.",
+      "about": "linh",
+      "evidence": [
+        {
+          "id": "linh.i01.e1",
+          "date": "2025-09-04",
+          "description": "Asks for help wording a text to Sam declining a third shift swap, then rewrites it to say 'maybe' instead"
+        },
+        {
+          "id": "linh.i01.e2",
+          "date": "2025-09-14",
+          "description": "Wants talking points for dinner with Hạnh about pharmacy but ends up asking how to change the subject"
+        },
+        {
+          "id": "linh.i01.e3",
+          "date": "2025-10-14",
+          "description": "Drafts an email to Beatrice about the tip-jar deduction and asks if it's okay to just not send it"
+        },
+        {
+          "id": "linh.i01.e4",
+          "date": "2025-11-10",
+          "description": "Asks for help telling Thao about public health, and specifically wants Thao to be the one to tell their mom"
+        },
+        {
+          "id": "linh.i01.e5",
+          "date": "2025-11-16",
+          "description": "Requests a script for registering for nutrition without 'making it a whole thing' at home"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "linh.i02",
+      "statement": "Measures herself constantly against peers and won't admit she's competing.",
+      "about": "linh",
+      "evidence": [
+        {
+          "id": "linh.i02.e1",
+          "date": "2025-09-26",
+          "description": "Asks what percentile a B+ would be in a section where 'a third fail the practicals'"
+        },
+        {
+          "id": "linh.i02.e2",
+          "date": "2025-10-18",
+          "description": "Mentions Jun's tulip just after asking how to make her own rosetta symmetrical"
+        },
+        {
+          "id": "linh.i02.e3",
+          "date": "2025-10-24",
+          "description": "Wants to know if a 91 is 'good enough' and whether the class average is posted"
+        },
+        {
+          "id": "linh.i02.e4",
+          "date": "2025-11-18",
+          "description": "Sets three alarms for 6:58 to beat everyone into the nutrition section at registration"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "linh.i03",
+      "statement": "Takes care of everyone's logistics before her own body's basic needs.",
+      "about": "linh",
+      "evidence": [
+        {
+          "id": "linh.i03.e1",
+          "date": "2025-09-09",
+          "description": "Spends a lunch break building Jun's per-roll cost sheet instead of eating"
+        },
+        {
+          "id": "linh.i03.e2",
+          "date": "2025-09-22",
+          "description": "Asks for quick lunch ideas only after nearly blacking out pulling shots"
+        },
+        {
+          "id": "linh.i03.e3",
+          "date": "2025-10-16",
+          "description": "Plans Thao's grocery list and phở drop-off for her night stretch the night before her own practical"
+        },
+        {
+          "id": "linh.i03.e4",
+          "date": "2025-11-13",
+          "description": "Arranges a ride for Pedro's bone kit in the storm while biking herself home soaked"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "linh.i04",
+      "statement": "Is drifting from nursing/pharmacy toward food and nutrition as the thing she actually lights up about.",
+      "about": "linh",
+      "evidence": [
+        {
+          "id": "linh.i04.e1",
+          "date": "2025-09-09",
+          "description": "Gets unusually animated calculating fat and sodium per lumpia for Jun's label"
+        },
+        {
+          "id": "linh.i04.e2",
+          "date": "2025-10-27",
+          "description": "Asks for extra reading on gut microbiome after the digestion lecture, unprompted by any test"
+        },
+        {
+          "id": "linh.i04.e3",
+          "date": "2025-11-03",
+          "description": "Looks up what a registered dietitian does day to day and the Bayshore path to it"
+        },
+        {
+          "id": "linh.i04.e4",
+          "date": "2025-11-19",
+          "description": "Plans a balanced week of family dinners to swap in for Hạnh's late plates"
+        }
+      ],
+      "formed": "2025-09-09",
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "linh.i05",
+      "statement": "Hates her sister's protectiveness and pushes Thao away.",
+      "about": "linh",
+      "evidence": [
+        {
+          "id": "linh.i05.e1",
+          "date": "2025-09-20",
+          "description": "Snaps 'I'm not a patient' in a text draft after Thao reminds her to eat, then deletes it"
+        },
+        {
+          "id": "linh.i05.e2",
+          "date": "2025-09-13",
+          "description": "Asks for a cheap thank-you gift for Thao for covering her bike lock replacement"
+        },
+        {
+          "id": "linh.i05.e3",
+          "date": "2025-10-16",
+          "description": "Spends an evening planning Thao's post-shift meals and phở breakfast"
+        },
+        {
+          "id": "linh.i05.e4",
+          "date": "2025-11-10",
+          "description": "Goes to Thao first with her career doubts before anyone else"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "linh.i06",
+      "statement": "Likes answers structured and short, and gets visibly relieved by a plan with times on it.",
+      "about": "linh",
+      "evidence": [
+        {
+          "id": "linh.i06.e1",
+          "date": "2025-08-26",
+          "description": "Asks to turn her first-week syllabi into a single hour-blocked schedule"
+        },
+        {
+          "id": "linh.i06.e2",
+          "date": "2025-09-19",
+          "description": "Replies 'too long, just bullets pls' to a paragraph on bus routes"
+        },
+        {
+          "id": "linh.i06.e3",
+          "date": "2025-10-12",
+          "description": "Wants a day-by-day countdown to the practical with color tags matching her notes"
+        },
+        {
+          "id": "linh.i06.e4",
+          "date": "2025-11-17",
+          "description": "Requests a 7 a.m. registration checklist with backup sections ranked"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "linh.r01",
+      "term": "the practical",
+      "meaning": "Dr. Okoye's first anatomy lab practical on Oct 17",
+      "first_use": "2025-09-03"
+    },
+    {
+      "id": "linh.r02",
+      "term": "the yellow list",
+      "meaning": "her highlighted-yellow list of structures likely on the practical",
+      "first_use": "2025-09-24"
+    },
+    {
+      "id": "linh.r03",
+      "term": "Jun's sheet",
+      "meaning": "the Lola's Roll cost-per-roll spreadsheet she built",
+      "first_use": "2025-09-09"
+    },
+    {
+      "id": "linh.r04",
+      "term": "the pharmacy talk",
+      "meaning": "the conversation with her mom about not going into pharmacy she keeps postponing",
+      "first_use": "2025-09-14"
+    },
+    {
+      "id": "linh.r05",
+      "term": "Doc",
+      "meaning": "Wes's nickname for her; she uses it jokingly about herself",
+      "first_use": "2025-10-02"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "linh.a01",
+      "title": "Anatomy and the practical",
+      "summary": "Linh grinds toward Okoye's Oct 17 practical, joins Pedro's group, and climbs to an A-.",
+      "beats": [
+        {
+          "date": "2025-08-26",
+          "what": "Fall term starts; builds hour-blocked schedule",
+          "facts": [
+            "linh.f02",
+            "linh.f23"
+          ]
+        },
+        {
+          "date": "2025-09-26",
+          "what": "Sitting at B+",
+          "facts": [
+            "linh.f18"
+          ]
+        },
+        {
+          "date": "2025-09-30",
+          "what": "Starts attending Tuesday study group",
+          "facts": [
+            "linh.f21",
+            "linh.f22"
+          ]
+        },
+        {
+          "date": "2025-10-07",
+          "what": "Develops a crush on Pedro",
+          "facts": [
+            "linh.f43"
+          ]
+        },
+        {
+          "date": "2025-10-24",
+          "what": "Gets 91 on practical, A- overall",
+          "facts": [
+            "linh.f19"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "linh.a02",
+      "title": "Pharmacy, nursing, or neither",
+      "summary": "Linh's quiet interest in nutrition grows until she tells Thao and plans a two-track transfer.",
+      "beats": [
+        {
+          "date": "2025-09-09",
+          "what": "Builds Jun's sheet, enjoys the nutrition math",
+          "facts": [
+            "linh.f35"
+          ]
+        },
+        {
+          "date": "2025-10-29",
+          "what": "Meets Denny, drafts two-track plan",
+          "facts": [
+            "linh.f16",
+            "linh.f17",
+            "linh.f58"
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "what": "Decides on spring nutrition elective",
+          "facts": [
+            "linh.f46"
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "what": "Tells Thao she may drop pharmacy",
+          "facts": [
+            "linh.f14",
+            "linh.f15"
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "what": "Priority registration",
+          "facts": [
+            "linh.f47"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "linh.a03",
+      "title": "Wheels and wages",
+      "summary": "Bike stolen, cafe extends hours, she saves and buys an e-bike.",
+      "beats": [
+        {
+          "date": "2025-09-18",
+          "what": "Bike stolen at the library",
+          "facts": [
+            "linh.f09",
+            "linh.f10",
+            "linh.f12"
+          ]
+        },
+        {
+          "date": "2025-09-22",
+          "what": "Near-faint at work; starts packing lunch",
+          "facts": [
+            "linh.f29",
+            "linh.f30"
+          ]
+        },
+        {
+          "date": "2025-10-01",
+          "what": "Cafe hours extend; she becomes a closer with a raise",
+          "facts": [
+            "linh.f03",
+            "linh.f04",
+            "linh.f05",
+            "linh.f06",
+            "linh.f54"
+          ]
+        },
+        {
+          "date": "2025-10-11",
+          "what": "Buys used e-bike",
+          "facts": [
+            "linh.f11",
+            "linh.f13"
+          ]
+        },
+        {
+          "date": "2025-10-18",
+          "what": "Nails the rosetta",
+          "facts": [
+            "linh.f33",
+            "linh.f34"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "all lowercase, few periods, uses '..' for trailing off, 'pls', 'ok wait', occasional ☕ or 🫠, short bursts of 1-2 lines, rare typos from the cracked phone",
+    "with_assistant": "polite, gives just enough context, often pastes syllabus text or Jun's numbers, asks for bullets or tables, says 'too long' to paragraphs, thanks the assistant",
+    "quirks": [
+      "asks for things color-coded to match her notes",
+      "double-texts a correction right after sending",
+      "frames personal questions as 'asking for a friend' then drops it",
+      "ends planning chats with 'ok im gonna eat now' as a joke"
+    ],
+    "sample_lines": [
+      "ok can u turn this into a schedule w times pls",
+      "too long lol just bullets",
+      "whats the fastest way to memorize cranial nerves without the dirty mnemonic",
+      "how do i say no to covering a shift without sounding mean..",
+      "make me a cheap lunch i can eat with one hand",
+      "is 91 good or like. fine",
+      "explain this like im tired bc i am 🫠"
+    ]
+  },
+  "usage": {
+    "frequency": "daily",
+    "active_hours": [
+      7,
+      12,
+      16,
+      22,
+      23
+    ]
+  }
+}

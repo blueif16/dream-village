@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s01",
+  "principal": "isabel",
+  "start": "2025-08-26T23:45:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so i started a list of colleges at the library homework center after school and im finishing it now at midnight lol. i want a campus with real winters, ive genuinely never seen snow fall. which schools are actually strong for environmental engineering"
+    },
+    {
+      "role": "assistant",
+      "text": "A cold-winter campus with a strong environmental engineering program is a good combo. Schools often named for it (check each department's current ABET accreditation and research focus):\n\n- Cornell (NY): big water resources and environmental systems research\n- University of Michigan (MI): strong civil and environmental engineering, Great Lakes research\n- University of Vermont (VT): smaller, hands-on, strong on water and ecosystems\n- Colorado School of Mines (CO): environmental and water focus, real snow\n- Michigan Tech (MI): very snowy, strong environmental engineering\n- Clarkson (NY): known for water and environmental research\n- University of Minnesota (MN): large program, cold winters\n- Dartmouth (NH): smaller engineering program with an environmental focus\n\nWant me to sort these by how selective they are, or go straight to pricing?"
+    },
+    {
+      "role": "user",
+      "text": "pricing. i keep seeing sticker price numbers that look insane. whats the actual difference between that and what a school costs, no fluff"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Sticker price** = published cost of attendance: tuition, fees, housing, food, books, travel. It's the starting number, not what most people pay.\n\n**Net price** = sticker price minus grants and scholarships (money you don't repay). Loans and work-study don't count as reductions.\n\nWhy they differ: schools, especially private ones with big endowments, discount heavily based on family income, assets and sometimes merit. Public schools charge much more to out-of-state students, and some give little aid to them. So a $90k sticker can net out lower than a $45k one.\n\n**Net price calculators:** every US college must post one on its site (search \"[school] net price calculator\"). You enter family income, assets, household size, and sometimes grades and test scores. It returns an estimate, not a guarantee, and takes about 10 minutes."
+    },
+    {
+      "role": "user",
+      "text": "ok im copying the school names out of my green spiral notebook to plug into them. what numbers do they ask for, i dont want to be guessing"
+    },
+    {
+      "role": "assistant",
+      "text": "Most ask for:\n\n- Household size and number of people in college\n- Parent income (last year's tax return, the AGI line)\n- Parent assets: savings, checking, investments (usually not the home you live in, but it varies)\n- Student income and savings\n- Sometimes GPA, test scores, and state of residence\n\nTips: keep one spreadsheet with the same inputs for every school so results compare cleanly. Record sticker price, estimated grants, and net price per year. Check whether the calculator estimates only the first year, and whether it counts merit aid. Anything you can't find exactly, estimate and note it.\n\nI can set up the spreadsheet columns if you want."
+    },
+    {
+      "role": "user",
+      "text": "yes pls. short version"
+    },
+    {
+      "role": "assistant",
+      "text": "Columns:\n\n1. School\n2. State / public or private\n3. Env. engineering strength (1-5)\n4. Sticker price (COA)\n5. Est. grants/scholarships\n6. Net price\n7. Calculator date and notes (e.g. \"assumed savings\")\n8. Avg winter snowfall (optional)\n\nAdd a total-over-four-years column once you have a few rows. Sort by net price, then compare against the program strength column."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the calculators. Come back with the numbers if you want help comparing them."
+    }
+  ]
+}

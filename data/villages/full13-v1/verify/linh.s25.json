@@ -1,0 +1,92 @@
+{
+  "session_id": "linh.s25",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh has to be at Lotus Nails front desk after her cafe shift today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to be at lotus nails front desk after my cafe shift today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's dad played old Vietnamese ballads on his radio",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "like the old vietnamese ballads my dad used to play on his radio",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh bristles at her sister's nagging about eating",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so nothing that sounds like her nagging",
+      "support_quote": ""
+    },
+    {
+      "text": "Someone landed an internship, per Kenji",
+      "about": "omar",
+      "kind": "fact",
+      "item_id": "cast.f117",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kenji said someone landed an internship already lol.",
+      "support_quote": ""
+    },
+    {
+      "text": "Sam is covering Linh's shift tomorrow",
+      "about": "linh",
+      "kind": "other",
+      "item_id": "linh.w2.n03",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "a coworker covering my shift tmrw",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has a shift today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "good luck with the shift today",
+      "support_quote": "i have to be at lotus nails front desk after my cafe shift today"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i05",
+      "present": true,
+      "quote": "my sister texted me this morning about eating and i was like.. ok i KNOW. so nothing that sounds like her nagging"
+    },
+    {
+      "item_id": "cast.f117",
+      "present": true,
+      "quote": "kenji said someone landed an internship already lol. whatever."
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "i have to be at lotus nails front desk after my cafe shift today"
+    },
+    {
+      "item_id": "linh.f38",
+      "present": true,
+      "quote": "warm muted colors, like the old vietnamese ballads my dad used to play on his radio"
+    }
+  ],
+  "sensitive": []
+}

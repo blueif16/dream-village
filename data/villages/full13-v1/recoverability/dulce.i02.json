@@ -1,0 +1,90 @@
+{
+  "impression_id": "dulce.i02",
+  "evidence_sessions": [
+    "dulce.s02",
+    "dulce.s04",
+    "dulce.s06",
+    "dulce.s10",
+    "dulce.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Dulce feels social pressure to spend on friends (buying boba for the group) and struggles to say no without feeling rude or left out, so she asks for scripted wording to protect both her savings and her place in the group.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s04",
+        "dulce.s10",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She is motivated and disciplined about saving toward concrete goals and takes real pride in paying for things herself, cutting back her spending and following through on the plan.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s04",
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She often asks for help wording texts so they sound sincere and not 'cringe' or fake, showing concern about how messages land with friends, family and cousins.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s06",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She is anxious about social standing in her friend groups, worrying about being shut out or seen as taking sides, and tries to smooth things over with everyone.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s10"
+      ]
+    },
+    {
+      "statement": "She is numerically capable and trusted with money at work, but feels weaker with forms, bureaucracy and writing, and she leans on the assistant for those.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s04"
+      ]
+    },
+    {
+      "statement": "She prefers short, casual, low-friction replies, in a friendly 'bestie' tone, and tends to defer extras ('maybe later') instead of taking the offered next step.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s04",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She casually shares sensitive personal details (account number, SSN, mom's license number) with little caution, and sometimes retracts things she said about others afterward.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s04",
+        "dulce.s06",
+        "dulce.s10"
+      ]
+    },
+    {
+      "statement": "She is close to her family and works within it: her mom sets a fixed phone bill rule, she works at family-linked jobs, she relies on her cousin for rides, and she seeks their approval.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s04",
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s13"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Dulce feels social pressure to spend on friends (buying boba for the group) and struggles to say no without feeling rude or left out, so she asks for scripted wording to protect both her savings and her place in the group.",
+  "rationale": "The first inferred statement captures her spending on friends (boba) out of pressure to stay included, and her later move to protect her savings. This matches the intended pattern of buying belonging until she starts protecting her money."
+}

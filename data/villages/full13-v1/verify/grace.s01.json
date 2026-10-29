@@ -1,0 +1,117 @@
+{
+  "session_id": "grace.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Grace teaches five chemistry sections",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I teach five sections, and this email goes to all of them.",
+      "support_quote": ""
+    },
+    {
+      "text": "Short six pairs of goggles for Unit 1 labs",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w1.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I am short six pairs for the Unit 1 labs",
+      "support_quote": ""
+    },
+    {
+      "text": "Unit 1 measurement and lab safety runs through mid-September",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Our first unit, measurement and lab safety, runs through mid-September",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants no fluff, brief output",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Under 120 words, no pleasantries.",
+      "support_quote": ""
+    },
+    {
+      "text": "Prep period ends at 11:55, fifth period follows",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my prep ends at 11:55",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace teaches five sections",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I removed the opener and the line about five sections",
+      "support_quote": "I teach five sections, and this email goes to all of them."
+    },
+    {
+      "text": "Grace is short six pairs of goggles for Unit 1",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w1.n01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I am short six pairs of goggles for Unit 1.",
+      "support_quote": "I am short six pairs for the Unit 1 labs"
+    },
+    {
+      "text": "Unit 1 runs through mid-September",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Our first unit, measurement and lab safety, runs through mid-September, with hands-on labs throughout.",
+      "support_quote": "Our first unit, measurement and lab safety, runs through mid-September"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f01",
+      "present": true,
+      "quote": "I teach five sections, and this email goes to all of them."
+    },
+    {
+      "item_id": "grace.w1.n01",
+      "present": true,
+      "quote": "I am short six pairs for the Unit 1 labs, so if you can send in a pair with your student, that would help a great deal."
+    },
+    {
+      "item_id": "grace.f24",
+      "present": true,
+      "quote": "Our first unit, measurement and lab safety, runs through mid-September, and we will be doing hands-on labs the whole time."
+    },
+    {
+      "item_id": "grace.i05",
+      "present": true,
+      "quote": "Under 120 words, no pleasantries."
+    },
+    {
+      "item_id": "grace.f02",
+      "present": true,
+      "quote": "I have a few minutes before fifth period, my prep ends at 11:55."
+    }
+  ],
+  "sensitive": []
+}

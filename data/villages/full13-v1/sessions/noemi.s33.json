@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s33",
+  "principal": "noemi",
+  "start": "2025-09-28T12:31:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. went to the farmers market this morning and got a bunch of peaches and bell peppers. need a meal prep plan for the work week using those + rice bowls. i bring rice bowls to shift most days and get taqueria colima on fridays so just mon-thu really"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice haul. Here's a Mon-Thu plan built on one big batch of rice:\n\n**Sunday prep (about 45 min)**\n- Cook a big pot of rice (about 3 cups dry) and cool it fast in shallow containers.\n- Slice all the peppers. Roast about two-thirds on a sheet pan (425°F, 20 min) with oil, salt and cumin or paprika. Keep the rest raw for crunch.\n- Cook a protein: shredded chicken, baked tofu, or seasoned black beans all work.\n- Make a peach salsa: diced peaches, a little raw pepper, red onion, lime, salt, chili flakes. It keeps 3-4 days.\n\n**Bowls**\n- Mon: rice + roasted peppers + chicken + peach salsa\n- Tue: rice + beans + peppers + a fried egg\n- Wed: rice + tofu + raw pepper strips + soy-lime sauce\n- Thu: fried rice with leftover peppers and protein, peaches on the side as dessert\n\nAny peaches that are very ripe, slice and freeze. Want me to scale it for a certain number of people or a budget?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. iris keeps a shared household budget sheet so i wanna keep grocery cost low. also she leaves at 8 and is home by 5 so dinners should work for her too, not just my lunch bowls. and i wanna get all the prep done before my game tonight, squad gets on sunday nights"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Budget-friendly, dinners that work for both of you, and prep wrapped up before your game.\n\n**Low-cost shopping list (beyond what you have)**\n- Rice (bulk bag), a can or two of black beans, a dozen eggs, a pack of chicken thighs or a block of tofu, one onion, a lime or two. Pantry spices you probably have. That's roughly one small grocery run, easy to log as a single line in a budget sheet.\n\n**Dinners (done by whoever gets home first, ready by 5)**\n- Mon: sheet-pan chicken thighs with roasted peppers, over rice\n- Tue: black bean and pepper quesadillas or burrito bowls\n- Wed: stir-fry with tofu or eggs, peppers and rice\n- Thu: fried rice using leftovers, peach slices after\n\nLunch bowls and dinners share the same base, so you cook once.\n\n**Game-night prep order (about 60 min total)**\n1. Rice on the stove first.\n2. Pepper slicing while it cooks.\n3. Sheet pan of peppers and chicken in the oven at 425°F.\n4. While it roasts, make the peach salsa and cook the beans.\n5. Portion lunches into 4 containers, cool, and refrigerate. Leave dinner components in separate containers.\n\nYou'd be done and cleaned up well before your squad gets on. Want a tldr version to screenshot?"
+    },
+    {
+      "role": "user",
+      "text": "tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "**TLDR**\n- Cook: 3 cups rice, chicken thighs, black beans.\n- Roast: peppers and chicken at 425°F, 20-25 min.\n- Mix: peach salsa (peach, pepper, onion, lime, salt).\n- Portion: 4 lunch bowls Mon-Thu, plus dinner containers.\n- Dinners: chicken and rice, quesadillas, stir-fry, fried rice.\n- Freeze extra ripe peaches.\n- Done in about 60 min. gg."
+    }
+  ]
+}

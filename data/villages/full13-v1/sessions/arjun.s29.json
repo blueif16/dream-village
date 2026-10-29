@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s29",
+  "principal": "arjun",
+  "start": "2025-09-24T23:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so im lowkey stressing about ashby's letter. how long do professors usually take to write these"
+    },
+    {
+      "role": "assistant",
+      "text": "Most professors need 2 to 4 weeks, and many ask for at least 3 if you can give it. Busy points in the semester (midterms, application season) can stretch that. If you have deadlines, share them early and say which one is first.\n\nWhat's your earliest deadline? That decides how soon you should ask and when to follow up."
+    },
+    {
+      "role": "user",
+      "text": "no hard deadline yet, just summer 2026 internships so rolling. he has office hours thursdays 2-3:30, door closed means knock anyway. planning to check in then"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan. In person is the best way to ask, and rolling deadlines give you room. A few tips for Thursday:\n\n- Ask whether he feels he can write you a *strong* letter. It gives him an easy out if he can't.\n- Bring a one-page packet: current resume, the roles you're targeting, and a couple of specifics from his class you'd like him to mention.\n- Give a soft timeline, like \"ideally within 3 weeks, but I'll adjust to your schedule.\"\n- Say how to submit it (upload link, email, etc.) and offer to send reminders.\n\nWant me to put the packet checklist in a table?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also been rehearsing the ask in my head during my front desk shift at the career center lol, everyone there has opinions on letters. i dont want to practice it out loud tho, weird. can you just write me a really polished follow up email template instead"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure.\n\n| Item | What to include |\n|---|---|\n| Resume | Current version, one page |\n| Target roles | 2-3 lines on the internships you're applying for |\n| Course details | Class, term, grade, and a project or moment you're proud of |\n| Deadlines | Earliest date, or \"rolling\" |\n| Submission | Where and how the letter should go |\n\nHere's a follow-up email to send within a day of asking:\n\n**Subject:** Recommendation letter request follow-up\n\nDear Professor [last name],\n\nThank you for taking the time to talk with me during office hours. I really appreciate you considering writing a letter of recommendation for my summer 2026 internship applications.\n\nAs promised, I've attached my current resume and a short summary of the roles I'm targeting. I've also noted a few highlights from your course that I'd be glad to have you speak to: [specific project or contribution]. My applications are on a rolling basis, so a target of [date] would be ideal, but I'm happy to work around your schedule.\n\nPlease let me know if there's anything else I can provide. I'm glad to send a gentle reminder closer to the date.\n\nThank you again,\n[your name]\n\nFor a later nudge, if you haven't heard back after about 2 weeks, send a short, friendly reminder. Quick tip: even though email is fine, saying the ask out loud once or twice, even to yourself, tends to make the in-person moment smoother. Totally optional though."
+    },
+    {
+      "role": "user",
+      "text": "too long lol tldr on the nudge timing pls"
+    },
+    {
+      "role": "assistant",
+      "text": "TL;DR:\n- Day 0: ask in person\n- Day 1: send the follow-up email with your packet\n- Week 2: short, friendly check-in if you haven't heard\n- 1 week before your first deadline: one last polite reminder, with the submission link attached"
+    }
+  ]
+}

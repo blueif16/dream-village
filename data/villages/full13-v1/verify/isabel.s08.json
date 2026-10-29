@@ -1,0 +1,113 @@
+{
+  "session_id": "isabel.s08",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel is 16",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im 16 and a junior",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is a junior",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im 16 and a junior",
+      "support_quote": ""
+    },
+    {
+      "text": "Harper makes Isabel time every section with a kitchen timer",
+      "about": "harper",
+      "kind": "fact",
+      "item_id": "isabel.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "harper makes me time every section with the kitchen timer",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is registered for the Oct 4 SAT at Tamsen Valley College",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im registered for the oct 4 sat at tamsen valley college",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is filling out the practice test registration form",
+      "about": "isabel",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "im also filling out the practice test registration form rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel should choose junior/11th grade, matching her year",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Choose the junior or 11th grade option on the form.",
+      "support_quote": "im 16 and a junior"
+    },
+    {
+      "text": "Isabel wants timed strategies, not a long ritual",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i07",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "not a 5 step ritual lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel has until the test (Oct 4 SAT)",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you have until the test, here's a plan",
+      "support_quote": "im registered for the oct 4 sat at tamsen valley college"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f01",
+      "present": true,
+      "quote": "im 16 and a junior"
+    },
+    {
+      "item_id": "isabel.f56",
+      "present": true,
+      "quote": "harper makes me time every section with the kitchen timer"
+    },
+    {
+      "item_id": "isabel.f09",
+      "present": true,
+      "quote": "im registered for the oct 4 sat at tamsen valley college"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "im 16 and a junior",
+      "assistant_quote": ""
+    }
+  ]
+}

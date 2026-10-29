@@ -1,0 +1,143 @@
+{
+  "session_id": "elliot.s56",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Judith is at her condo this weekend, back Monday at 8",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Judith is at her condo this weekend and back monday at 8",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot did the Saturday Ruiz Family Market trip with Theo in the carrier",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I'm doing the Saturday Ruiz Family Market trip with Theo in the carrier",
+      "support_quote": ""
+    },
+    {
+      "text": "All three crib naps held today",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "all three crib naps held today",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot uses 'the Grandma effect'",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so the Grandma effect is officially not a rule",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot takes the 2am feed, Hana the 5am",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I'll do the 2am feed, you take 5am",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith is at her condo this weekend, back Monday at 8",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Judith's at her condo this weekend and back Monday at 8",
+      "support_quote": "Judith is at her condo this weekend and back monday at 8"
+    },
+    {
+      "text": "Assistant says Elliot did the Saturday market run with Theo in the carrier",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Today I did the Saturday Ruiz Family Market run with him in the carrier",
+      "support_quote": "I'm doing the Saturday Ruiz Family Market trip with Theo in the carrier"
+    },
+    {
+      "text": "All three crib naps held",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "all three crib naps held",
+      "support_quote": "all three crib naps held today"
+    },
+    {
+      "text": "Assistant uses the Grandma effect",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "so the Grandma effect is officially not a rule",
+      "support_quote": "so the Grandma effect is officially not a rule"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f48",
+      "present": true,
+      "quote": "Judith is at her condo this weekend and back monday at 8"
+    },
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "I'm doing the Saturday Ruiz Family Market trip with Theo in the carrier"
+    },
+    {
+      "item_id": "elliot.f16",
+      "present": true,
+      "quote": "all three crib naps held today"
+    },
+    {
+      "item_id": "elliot.r04",
+      "present": true,
+      "quote": "so the Grandma effect is officially not a rule"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

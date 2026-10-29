@@ -1,0 +1,81 @@
+{
+    "conversation_id": 0,
+    "question_id": 2,
+    "question": "What was the initial project timeline for Project Orion, and how did it change later?",
+    "reference_answer": "Initially: prototype by April 10, pilot starting April 24, MVP around May 30. Later updated to prototype April 13, pilot April 28 (extended through May 12), and MVP June 12.",
+    "memora": {
+        "answer": "Initial: Prototype Apr 10, pilot Apr 24, MVP May 30;  \nUpdated: Prototype Apr 13, pilot Apr 28, MVP Jun 12",
+        "memories": [
+            {
+                "value": "[2025-03-04] The project prototype is scheduled for April 10, the pilot for April 24, and the MVP for May 30.\n[2025-03-10] Dave summarized the updated timeline as prototype by April 13, pilot from April 28 through May 12, and MVP by June 12.",
+                "timestamp": "2025-03-10",
+                "score": 0.43,
+                "index": "Updated project timeline agreed by Dave and Sarah"
+            },
+            {
+                "value": "Project Orion's development phases include discovery and data assessment from now through March 10, prototype chatbot by April 10, pilot with the support team starting April 24, model tuning through mid-May, and an MVP rollout around May 30.",
+                "timestamp": "2025-03-04",
+                "score": 0.99,
+                "index": "Project Orion timeline for development phases"
+            },
+            {
+                "value": "The pilot for Project Orion is scheduled for April 28.",
+                "timestamp": "2025-03-10",
+                "score": 0.96,
+                "index": "Project Orion pilot date"
+            },
+            {
+                "value": "The stakeholders for the Orion project are Monique, Carlos, and Sofia.",
+                "timestamp": "2025-03-17",
+                "score": 0.91,
+                "index": "Orion project stakeholders"
+            }
+        ]
+    },
+    "mem0": {
+        "answer": "Sarah's first timeline: discovery/planning through March 15, pilot migration around April 5, phase 1 by May 6, full cutover June 28.  \nLater timeline: design lock by April 5, development sprints April 8\u201329, beta May 7, GA May 27 with SDK patch and App Store review delays.",
+        "memories": [
+            {
+                "memory": "Project timeline includes discovery and planning through March 15, pilot migration around April 5, phase 1 by May 6, and full cutover on June 28",
+                "timestamp": "2025-03-07",
+                "score": 1.28
+            },
+            {
+                "memory": "Initial timeline: design lock by April 5, development sprints April 8\u201329, beta on May 7, general availability on May 20",
+                "timestamp": "2025-03-05",
+                "score": 1.37
+            },
+            {
+                "memory": "Initial timeline: design lock by April 5, development sprints from April 8 to 29, beta release on May 7, general availability on May 27 due to SDK patch integration and App Store review timing",
+                "timestamp": "2025-03-17",
+                "score": 1.44
+            },
+            {
+                "memory": "Project Orion timeline includes discovery and data assessment through March 10, prototype chatbot by April 13, pilot with support team starting April 28, model tuning through mid-May, and MVP rollout around June 12",
+                "timestamp": "2025-03-17",
+                "score": 0.96
+            },
+            {
+                "memory": "Project Orion has a delay with annotation trailing by three days",
+                "timestamp": "2025-03-10",
+                "score": 1.11
+            },
+            {
+                "memory": "Budget adjustments for Orion approved",
+                "timestamp": "2025-03-17",
+                "score": 1.14
+            },
+            {
+                "memory": "Orion pilot scheduled from April 28 to May 12",
+                "timestamp": "2025-03-17",
+                "score": 1.16
+            }
+        ]
+    },
+    "rag": {
+        "answer": "Prototype April 13, pilot April 28 to May 12, MVP June 12; later confirmed ops sign-off June 18 and cutover June 28.",
+        "context": "2025-03-17 | Sarah: Confirmed. Ops sign\u2011off is scheduled for June 18, and the cutover weekend plan is ready pending the downtime approval.\n2025-03-17 | Dave: For Orion, we\u2019re aligned on prototype April 13, pilot April 28 to May 12, and MVP June 12. Stakeholders are Monique, Carlos, and Sofia. Budget adjustments approved, and training sessions locked.\n2025-03-17 | Sarah: All set. I\u2019ve scheduled a post\u2011launch review for June 19. Zenith remains on beta May 7, Play Store staged May 26, App Store GA May 27. Stakeholders include Karen, Leo, Tanya, and the newly added Mira. Marketing assets are ready to go.\n",
+        "response_time": 0.7499101161956787,
+        "search_time": 0.18424677848815918
+    }
+}

@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s64",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Moved personal accounts into a password manager",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "spent the morning moving all my personal accounts into a password manager",
+      "support_quote": ""
+    },
+    {
+      "text": "Keeps missing subnetting and port numbers on practice tests",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its the stuff i keep missing on practice tests, subnetting and port numbers",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses practice-test app and tabbed secondhand study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "working from the practice-test app and my secondhand study guide with the tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "Exam booked Nov 8 at Tamsen city testing center",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f07",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "exam is booked nov 8 at the testing center in tamsen city so like a week out",
+      "support_quote": ""
+    },
+    {
+      "text": "Moved accounts into a password manager",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice work on the password manager, that's a solid morning.",
+      "support_quote": "spent the morning moving all my personal accounts into a password manager"
+    },
+    {
+      "text": "Has a new master passphrase",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "my new master passphrase as the example for how to memorize stuff. its 'copper-lantern-tide-ninety' lol",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f23",
+      "present": true,
+      "quote": "spent the morning moving all my personal accounts into a password manager"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "its the stuff i keep missing on practice tests, subnetting and port numbers"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "working from the practice-test app and my secondhand study guide with the tabbed chapters"
+    },
+    {
+      "item_id": "noemi.f07",
+      "present": true,
+      "quote": "exam is booked nov 8 at the testing center in tamsen city so like a week out"
+    }
+  ],
+  "sensitive": []
+}

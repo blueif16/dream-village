@@ -1,0 +1,82 @@
+{
+  "session_id": "thao.s24",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao is back on Mon/Tue/Fri nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm back on mon/tue/fri nights now",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao sleeps behind blackout curtains and just woke up near 6 p.m.",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's almost 6 and i just woke up, blackout curtains do their job lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao asks for a quiz for her sister Linh's practical, managing it for her",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need a quiz on cranial nerves and muscle origins for my sister linh",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants short, direct answers",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long, just the key terms in 5 lines max",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has an anatomy lab practical Friday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "she has her anatomy lab practical friday",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "i'm back on mon/tue/fri nights now so i can only go over it with her wed and thu"
+    },
+    {
+      "item_id": "thao.i02",
+      "present": true,
+      "quote": "need a quiz on cranial nerves and muscle origins for my sister linh, she has her anatomy lab practical friday"
+    },
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "too long, just the key terms in 5 lines max"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "it's almost 6 and i just woke up, blackout curtains do their job lol"
+    }
+  ],
+  "sensitive": []
+}

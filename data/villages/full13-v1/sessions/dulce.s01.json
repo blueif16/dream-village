@@ -1,0 +1,39 @@
+{
+  "id": "dulce.s01",
+  "principal": "dulce",
+  "start": "2025-08-28T22:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok pls explain something. my school gave me a work permit and it says i can only work 18 hours on school weeks. does that count the unpaid break time or just the hours im clocked in??"
+    },
+    {
+      "role": "assistant",
+      "text": "Good question to check before your first week! Rules differ a bit by state and by how your permit is worded, so the safest answer comes from the permit itself or your school's work permit office. In general, though, the limit usually counts time you're actually working or required to be at work. Unpaid meal breaks are often not counted if you're fully off duty and free to leave, but short rest breaks that are paid do count. If you tell me what your permit says about breaks, I can help you read it. Want the quick version?"
+    },
+    {
+      "role": "user",
+      "text": "yeah just say it simple pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Simple version:\n- Clocked-in time counts toward your 18 hours.\n- Paid breaks count too.\n- A real unpaid break, where you're fully off and free to go, usually doesn't count.\n- If you're not sure, ask the school office to confirm, and keep your own log of your hours."
+    },
+    {
+      "role": "user",
+      "text": "ok so if i work fri 4-9 thats 5 hrs minus a 30 min break = 4.5. and sunday 10-4 is 6 so 5.5 w the break. thats 10 total lol so im good"
+    },
+    {
+      "role": "assistant",
+      "text": "Your math is right: 4.5 + 5.5 = 10 hours, well under 18, if both breaks are truly unpaid and off the clock. If the breaks are paid, it's 5 + 6 = 11, which is still fine. Either way you have room left in that week."
+    },
+    {
+      "role": "user",
+      "text": "ok ty. and if i made 16.50 an hr thats like 165 before taxes right"
+    },
+    {
+      "role": "assistant",
+      "text": "Yep, 10 hours at $16.50 is $165 before taxes. If the breaks are paid and you work 11 hours, it'd be $181.50. Your actual paycheck will be a bit lower after withholding. Keep a note of your clock-in and clock-out times each shift so you can check them against your pay stub."
+    }
+  ]
+}

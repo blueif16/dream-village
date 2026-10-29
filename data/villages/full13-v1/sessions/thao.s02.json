@@ -1,0 +1,39 @@
+{
+  "id": "thao.s02",
+  "principal": "thao",
+  "start": "2025-08-27T02:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 2:21 and i'm dead. need a plan to sleep thru the heat wave, no AC in my apt. just the steps pls, bullets only"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick plan, assuming you're sleeping in the daytime:\n\n- Close blinds/curtains on sun-facing windows before the day heats up\n- Run any fans so they push hot air out, not just stir it around\n- Cool the room before bed: damp towel or cold water on wrists/neck\n- Light cotton sheets, no heavy blanket\n- Cold water at bedside\n- Avoid a hot shower right before bed; lukewarm is better\n\nTell me your setup (cooling, sleep hours) and I'll tighten it."
+    },
+    {
+      "role": "user",
+      "text": "ok i just borrowed a portable unit from my mom, picked it up near her nail salon, have it til sunday. i sleep 8:30 to 3 after shift w blackout curtains and a box fan"
+    },
+    {
+      "role": "assistant",
+      "text": "Good, that helps:\n\n- Put the portable unit in the bedroom and close the door; point it at the bed\n- Start it 30-45 min before 8:30 so the room is already cool\n- Vent its hose out a window and seal the gap with a towel or cardboard, otherwise it pulls hot air back in\n- Box fan: turn it off while the unit runs. It stirs warm air and adds a bit of heat from the motor. Or aim it just to circulate cool air toward you\n- Keep the blackout curtains shut; they help block heat\n- Lukewarm shower, cold water at bedside\n- Set the unit to its lowest comfortable temp, not max, so it doesn't run constantly\n\nWant a version for before the shift too?"
+    },
+    {
+      "role": "user",
+      "text": "also does my thermos of cà phê sữa đá before shift mess w sleep in the heat"
+    },
+    {
+      "role": "assistant",
+      "text": "- Caffeine lasts hours, but you're drinking it for the shift, not before bed, so it's fine if the last of it is early in the night\n- Stop caffeine about 6-8 hours before 8:30 a.m. sleep, so roughly by 1-2 a.m.\n- Heat plus caffeine can make you feel more wired; sip water alongside\n- Sweetened condensed milk is fine, just don't add a second thermos late\n- If you need more, switch to ice water or decaf near the end of shift"
+    },
+    {
+      "role": "user",
+      "text": "ok thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Sleep well after shift."
+    }
+  ]
+}

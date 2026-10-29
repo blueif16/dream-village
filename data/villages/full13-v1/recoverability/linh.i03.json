@@ -1,0 +1,99 @@
+{
+  "impression_id": "linh.i03",
+  "evidence_sessions": [
+    "linh.s06",
+    "linh.s12",
+    "linh.s16",
+    "linh.s26",
+    "linh.s51",
+    "linh.s69",
+    "linh.s76"
+  ],
+  "inferred": [
+    {
+      "statement": "Linh repeatedly skips or delays her own meals when other tasks or people's needs come up, even to the point of near-fainting, and she knows it is a problem.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s06",
+        "linh.s12",
+        "linh.s16",
+        "linh.s26",
+        "linh.s51",
+        "linh.s69"
+      ]
+    },
+    {
+      "statement": "Linh puts other people's needs ahead of her own, such as Jun's lumpia numbers, her sister's breakfast, her mom's dinner, Thao's phở and Pedro's models, and often does their tasks before her own meal or comfort.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s06",
+        "linh.s12",
+        "linh.s16",
+        "linh.s51",
+        "linh.s69",
+        "linh.s76"
+      ]
+    },
+    {
+      "statement": "Linh prefers short, scannable replies, usually bullets or tables with no extra explanation, and says so when answers run long.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s26",
+        "linh.s51",
+        "linh.s76",
+        "linh.s69",
+        "linh.s16"
+      ]
+    },
+    {
+      "statement": "Linh uses a consistent color-coded note system (pink muscles, blue bones, green nerves, yellow quiz) and a paper planner, and wants plans and tags to match it.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s06",
+        "linh.s16",
+        "linh.s69",
+        "linh.s26"
+      ]
+    },
+    {
+      "statement": "Linh downplays her own discomfort or struggles with a casual 'lol' or 'whatever' while still mentioning them, and tends to wave off the assistant's nudges to take care of herself.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s16",
+        "linh.s26",
+        "linh.s51",
+        "linh.s76"
+      ]
+    },
+    {
+      "statement": "Linh gets real energy from analyzing what is in food (nutrition and numbers), which points to a possible career interest she is not ready to pursue yet.",
+      "strength": "weak",
+      "sessions": [
+        "linh.s16"
+      ]
+    },
+    {
+      "statement": "Linh works hard at her studies and her craft (anatomy flashcards, heart pours) and leans on friends and study groups, but she is anxious about her performance after exams.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s12",
+        "linh.s51",
+        "linh.s69",
+        "linh.s76"
+      ]
+    },
+    {
+      "statement": "Linh has a close, practical network of family and friends (mom, sister, Thao, Jun, Kenji, Pedro) who give her rides, food and shared notes, and she coordinates with them carefully.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s06",
+        "linh.s26",
+        "linh.s51",
+        "linh.s76"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Linh repeatedly skips or delays her own meals when other tasks or people's needs come up, even to the point of near-fainting, and she knows it is a problem.",
+  "rationale": "The reader's strong statements say Linh skips or delays her own meals while handling others' needs and tasks first, which is substantially the intended pattern of putting everyone's logistics before her own basic bodily needs."
+}

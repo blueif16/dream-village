@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s48",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh privately thinks Beatrice is stingy about the tip jar deduction",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f59",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "honestly i privately think shes kind of stingy about it.",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh earns $19.25 an hour plus tips after the closer raise",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just got the closer raise, its $19.25 an hour plus tips",
+      "support_quote": ""
+    },
+    {
+      "text": "Kenji drove Linh to chem today",
+      "about": "kenji",
+      "kind": "fact",
+      "item_id": "linh.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kenji drove me to chem today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh avoids confronting her boss, asks whether not sending the email is okay and wants to wait",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i think i just want to not send it tonight and maybe wait. is that ok",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh likes a simple plan with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "yes pls but keep it short",
+      "support_quote": ""
+    },
+    {
+      "text": "Kenji said to just send the email",
+      "about": "kenji",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Kenji's instinct to just send it is reasonable too",
+      "support_quote": "he said just send it"
+    },
+    {
+      "text": "Linh is a closer who has the deduction taken from the tip jar",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "A raise and a tip deduction are separate things",
+      "support_quote": "i just got the closer raise, its $19.25 an hour plus tips"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f59",
+      "present": true,
+      "quote": "honestly i privately think shes kind of stingy about it."
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "i drafted an email to my boss about the tip jar thing and now im not sure i should send it"
+    },
+    {
+      "item_id": "linh.f06",
+      "present": true,
+      "quote": "i just got the closer raise, its $19.25 an hour plus tips"
+    },
+    {
+      "item_id": "linh.f52",
+      "present": true,
+      "quote": "kenji drove me to chem today and i was literally stewing over this the whole ride lol"
+    }
+  ],
+  "sensitive": []
+}

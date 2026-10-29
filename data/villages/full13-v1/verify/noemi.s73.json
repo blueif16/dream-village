@@ -1,0 +1,112 @@
+{
+  "session_id": "noemi.s73",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "practice exams averaging 80% after subnetting drills",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so my practice exams are averaging 80% now after the subnetting drills",
+      "support_quote": ""
+    },
+    {
+      "text": "subnetting and port numbers are weak topics",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers are still what i need to drill hard",
+      "support_quote": ""
+    },
+    {
+      "text": "exam is on Dec 6",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "exam isn't til dec 6 so theres time",
+      "support_quote": ""
+    },
+    {
+      "text": "calls the certification exam 'the boss fight'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the boss fight is coming and im ready to grind",
+      "support_quote": ""
+    },
+    {
+      "text": "practice exams averaging 80% after subnetting drills",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "my practice exams are averaging 80% now after all those subnetting drills",
+      "support_quote": "so my practice exams are averaging 80% now after the subnetting drills"
+    },
+    {
+      "text": "subnetting and port numbers are weak spots",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Subnetting and port numbers are still the weak spots",
+      "support_quote": "subnetting and port numbers are still what i need to drill hard"
+    },
+    {
+      "text": "exam is Dec 6",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The exam isn't until Dec 6",
+      "support_quote": "exam isn't til dec 6 so theres time"
+    },
+    {
+      "text": "assistant uses 'the boss fight' for the exam",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I kept your boss fight line as is.",
+      "support_quote": "keep the boss fight line pls"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f11",
+      "present": true,
+      "quote": "so my practice exams are averaging 80% now after the subnetting drills"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "subnetting and port numbers are still what i need to drill hard"
+    },
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "the boss fight is coming and im ready to grind"
+    },
+    {
+      "item_id": "noemi.f08",
+      "present": true,
+      "quote": "exam isn't til dec 6 so theres time"
+    }
+  ],
+  "sensitive": []
+}

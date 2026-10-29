@@ -1,0 +1,143 @@
+{
+  "session_id": "jun.s33",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "County approved health permit for commissary food, posted on banner",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "county approved my health permit for commissary food, im taping the printout on my stall banner",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes cards via reader on phone under business account",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i take cards now too, card reader on my phone under the business account",
+      "support_quote": ""
+    },
+    {
+      "text": "Split with Paolo is 70/30, Paolo keeps Instagram and market setup",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "paolo and i just changed the split to 70/30, he keeps instagram and market setup",
+      "support_quote": ""
+    },
+    {
+      "text": "Has Friday 5-9 commissary block tonight",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have my friday 5-9 block at the commissary tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Rolled 200 lumpia alone until midnight; Paolo bailed on prep again",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "paolo bailed on prep again, last week i rolled 200 by myself till midnight and my hands were wrecked",
+      "support_quote": ""
+    },
+    {
+      "text": "Paolo's missed prep",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "cast.f61",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "paolo bailed on prep again",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun has a 70/30 split with Paolo",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your split with Paolo is a private agreement between the two of you.",
+      "support_quote": "paolo and i just changed the split to 70/30, he keeps instagram and market setup"
+    },
+    {
+      "text": "Assistant says Jun will be rolling for four hours at the commissary tonight",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since you'll be rolling repetitively for four hours",
+      "support_quote": "i have my friday 5-9 block at the commissary tonight"
+    },
+    {
+      "text": "Assistant says the permit is in Jun's name",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "with the permit in your name the paperwork is simple",
+      "support_quote": "just me."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f14",
+      "present": true,
+      "quote": "county approved my health permit for commissary food, im taping the printout on my stall banner"
+    },
+    {
+      "item_id": "jun.f26",
+      "present": true,
+      "quote": "i take cards now too, card reader on my phone under the business account"
+    },
+    {
+      "item_id": "jun.f55",
+      "present": true,
+      "quote": "paolo and i just changed the split to 70/30, he keeps instagram and market setup"
+    },
+    {
+      "item_id": "jun.i04",
+      "present": true,
+      "quote": "paolo bailed on prep again, last week i rolled 200 by myself till midnight and my hands were wrecked"
+    },
+    {
+      "item_id": "jun.f16",
+      "present": true,
+      "quote": "i have my friday 5-9 block at the commissary tonight"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

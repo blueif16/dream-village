@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s30",
+  "principal": "isabel",
+  "start": "2025-10-24T21:35:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "my sat score came out today. 1450, 720 reading 730 math. my psat equivalent sophomore year was 1340 so how big of a jump is that genuinely\n\nalso how do colleges actually treat a 1450 for engineering"
+    },
+    {
+      "role": "assistant",
+      "text": "A 110-point jump from 1340 to 1450 is solid. It's roughly an 8% gain, and for most students that's well beyond normal test-to-test variation. Keep in mind that PSAT-equivalent and SAT scales aren't perfectly identical, but the direction is clearly good.\n\nHow a 1450 plays for engineering:\n- It's around the 97th percentile nationally. Math at 730 is the section engineering admissions look at hardest, and it's strong.\n- It's competitive for most large public engineering programs and in range for many selective privates, though it's below the middle 50% at the most elite tech-focused schools (often 1500-1560).\n- Scores are one piece. GPA, course rigor (AP Calc, physics, chem), essays, and activities like robotics carry real weight.\n\nWant me to go school by school if you paste your list?"
+    },
+    {
+      "role": "user",
+      "text": "ok. which schools on the snow list would care about the score. and do i send it or not, how does score choice work"
+    },
+    {
+      "role": "assistant",
+      "text": "I don't know what's on your snow list, so paste it and I'll sort it. In general, schools fall into three groups:\n\n1. Test-required or strongly weighted: some selective engineering schools require scores or heavily favor them. A 1450 is in range for many but under the middle 50% at the top few. Send it.\n2. Test-optional: send it if it's at or above the school's middle 50% range. At many of these, a score above the 25th percentile helps you.\n3. Test-blind: some schools (many UCs, for example) won't consider it at all, so sending it does nothing.\n\nScore Choice: through College Board you pick which test dates to send to each school. If you only have one sitting, it's simple: send or don't. Some schools require all scores, so check each one's policy. Also, many schools superscore, but with one test that doesn't matter yet. If you retake, you can send only your best.\n\nRule of thumb: send when your score is at or above the school's middle 50%, hold when it's below and they're optional. Paste the list and I'll mark each one."
+    },
+    {
+      "role": "user",
+      "text": "will do later. one more thing. i need a throwaway line to drop at dinner about the score so it doesnt look like i care what grace thinks lol. but i kinda want her to notice"
+    },
+    {
+      "role": "assistant",
+      "text": "A few options that sound casual but are easy to pick up on:\n\n- \"Oh, my SAT scores posted today. 1450. Pretty decent, I guess.\" Then keep eating.\n- \"Scores came out. Math was 730, so that's fine for engineering.\" It sounds like practical info, and the math number invites a follow-up.\n- Pass the rice and say, \"Apparently a 1450 is 97th percentile. Weird.\"\n\nIf it's said flatly in the middle of something else, it reads as nonchalant but is hard to miss. If nobody reacts, you can add, \"Anyway, it helps with the list,\" and move on."
+    },
+    {
+      "role": "user",
+      "text": "the second one. also can u check the tone of this email to my apush teacher. i missed a reading response bc of a robotics build night and want to make it up, still need my grade protected\n\n\"Hi Mr. [name], I missed the reading response due Tuesday because of a late robotics build. Would it be possible to submit it by Friday? I want to make sure it doesn't hurt my grade. Thanks, Isabel\""
+    },
+    {
+      "role": "assistant",
+      "text": "Tone is polite and clear, and it asks for a specific deadline. Small tweaks:\n\n\"Hi Mr. [name], I missed the reading response due Tuesday because of a late robotics build, and I take responsibility for that. Would it be okay to submit it by Friday? I want to keep my grade on track and I'm happy to do it in whatever format works. Thank you, Isabel\"\n\nThe change owns the miss without over-apologizing, and keeps the request easy to say yes to. Note that the Friday deadline may already be passed or need adjusting, so change it to what works."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with dinner and the email. Send the list whenever you want to sort the score-sending plan."
+    }
+  ]
+}

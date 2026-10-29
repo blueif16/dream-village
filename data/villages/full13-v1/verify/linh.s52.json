@@ -1,0 +1,112 @@
+{
+  "session_id": "linh.s52",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Linh poured a clean rosetta this morning at work",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i finally poured a clean rosetta this morning at work",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh was stuck on hearts and a wobbly rosetta until today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i was stuck on hearts and a wobbly rosetta forever until today",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun taught Linh and moved her on to tulips",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he taught me and already moved me on to tulips lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun's lumpia sold out at the counter under the 15% deal with Beatrice",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "his lumpia sold out at the counter today under the 15% deal with beatrice",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh jokingly calls herself Doc",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "doc finally pours something worth posting lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun taught Linh her first clean rosetta and has her on tulips",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I can't believe you already have me working on tulips",
+      "support_quote": "he taught me and already moved me on to tulips lol"
+    },
+    {
+      "text": "Assistant says Linh's lumpia-selling friend Jun sold out at the counter",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "congrats on the lumpia selling out at the counter today!",
+      "support_quote": "his lumpia sold out at the counter today under the 15% deal with beatrice"
+    },
+    {
+      "text": "Assistant uses Doc nickname for Linh",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "doc finally poured something worth posting",
+      "support_quote": "doc finally pours something worth posting lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f34",
+      "present": true,
+      "quote": "he taught me and already moved me on to tulips lol"
+    },
+    {
+      "item_id": "linh.f33",
+      "present": true,
+      "quote": "i was stuck on hearts and a wobbly rosetta forever until today"
+    },
+    {
+      "item_id": "linh.r05",
+      "present": true,
+      "quote": "doc finally pours something worth posting lol"
+    },
+    {
+      "item_id": "cast.f65",
+      "present": true,
+      "quote": "his lumpia sold out at the counter today under the 15% deal with beatrice"
+    }
+  ],
+  "sensitive": []
+}

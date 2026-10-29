@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s45",
+  "principal": "arjun",
+  "start": "2025-10-12T12:33:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "just got back from sunday dinner at th pell road house. mom sent me home w a tub of dal again lol\n\nneed to write a msg to her and my sister sunita, quick update on th internship stuff + ask when we can do a call next week"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! A few quick things so the update is accurate: where do things stand with your internship search right now (applications out, any interviews, any rejections), and which days or times next week work for you for a call?"
+    },
+    {
+      "role": "user",
+      "text": "ok so status: rejected by kestrel after a rough phone screen thursday. rebuilt my resume, its v19 now, sent it to a few new targets yesterday. spreadsheet is at 81 apps. no interviews lined up rn\n\nalso adding rows to sunita's wedding vendor sheet, want to flag that its moving\n\nfor th call, tues or wed after 5 works. honestly would rather skip a second sunday call this week, we covered it at dinner but i want it written down"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a warm draft:\n\n---\n\n**Subject: Quick update + call next week**\n\nHi Mom and Sunita,\n\nThanks for dinner today, and for the dal! Since we talked in person, I wanted to put the internship update in writing so it's all in one place:\n\n- **Kestrel:** I didn't move forward after the phone screen. It was a rough call, but I'm taking it as practice.\n- **Resume:** I rebuilt it (v19 now) and sent it to several new targets yesterday.\n- **Tracker:** The spreadsheet is at 81 applications. No interviews scheduled yet, but things are moving.\n- **Wedding sheet:** Sunita, I'm adding rows to the vendor spreadsheet, so it's coming along. I'll flag you when the next batch is in.\n\nCould we do a call next Tuesday or Wednesday after 5 p.m.? That way we can skip a second Sunday call this week and talk once things have moved a bit.\n\nLove you both,\n[your name]\n\n---\n\nWant it shorter or more casual?"
+    },
+    {
+      "role": "user",
+      "text": "th tone is good, can u make it shorter. tldr version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure:\n\n---\n\nHi Mom and Sunita,\n\nThanks for dinner and the dal! Quick written update: Kestrel was a no after the phone screen, but I rebuilt my resume (v19) and sent it to new targets. Tracker's at 81 apps, no interviews yet. Sunita, I'm adding rows to the wedding vendor sheet and will flag you as it progresses.\n\nCan we do a call Tuesday or Wednesday after 5 next week? I'd rather skip a second Sunday call this week.\n\nLove you both,\n[your name]\n\n---\n\nWant me to tweak anything else?"
+    }
+  ]
+}

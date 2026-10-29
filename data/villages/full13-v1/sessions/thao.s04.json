@@ -1,0 +1,55 @@
+{
+  "id": "thao.s04",
+  "principal": "thao",
+  "start": "2025-09-03T15:15:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 3:15 and i just woke up, blackout curtains and the fan did their thing but my brain is soup. can i think out loud at you for a sec"
+    },
+    {
+      "role": "assistant",
+      "text": "Of course. Take your time, soup brain is allowed. What's on your mind?"
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically am i carrying too much right now. go-live is coming and i'm already dreading the extra nights. and my thanksgiving week off request got denied this afternoon, saw it when i woke up. kinda deflated"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a real double hit: a heavier stretch ahead and then the one break you asked for gets turned down. Being deflated makes sense. Do you want to sort what's actually yours to carry from what you can hand off or shrink?"
+    },
+    {
+      "role": "user",
+      "text": "yeah. my mom left another voicemail, it's just sitting there unplayed again. i'd honestly rather someone just text me. i got the credit union to do my card thing by chat yesterday and it took 5 min instead of me dreading a call all week"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a good example of a small fix that worked. For your mom, you could send a short text like: \"Got your voicemail, I work nights and sleep days. Text me and I'll answer as soon as I'm up.\" It sets the expectation without a big conversation. Want me to tweak it?"
+    },
+    {
+      "role": "user",
+      "text": "maybe later. also i set up a $50 a month transfer to my sister linh, labeled textbook fund so my mom doesn't ask questions. i wonder if she's even eating enough. she forgets lunch"
+    },
+    {
+      "role": "assistant",
+      "text": "The transfer is a solid help, and the label is a neat way to keep it simple. If you're worried about her eating, the fix can be practical rather than a talk. A few options: a stash of grab-and-go food she can keep in her bag, a standing weekly meal drop-off, or a grocery order sent to her."
+    },
+    {
+      "role": "user",
+      "text": "yeah that's my brain too. last heat wave i packed cold meals and dropped them at the salon. what's a practical thing i could do for linh this week. she's got classes and work"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a low-effort plan for this week:\n- Make one batch of something that keeps well, like rice bowls, cold noodle salad, or egg bites, and portion it into 3-4 containers.\n- Drop them off or leave them where she'll pass by.\n- Add a snack bag: fruit, nuts, granola bars.\n- Send a text with the drop-off time instead of a long check-in.\n\nWant a shopping list and a 30-minute prep order for that?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls, short"
+    },
+    {
+      "role": "assistant",
+      "text": "Cold noodle bowls x4:\n- Buy: rice noodles, cucumber, carrots, cooked chicken or tofu, peanuts, lime, sauce of choice.\n- Prep: boil noodles (8 min) while chopping veg, toss with protein, portion into 4 containers, sauce on the side.\n\nSnack bag: bananas, nuts, granola bars.\n\nTotal about 30 minutes. Keeps 3 days in the fridge."
+    }
+  ]
+}

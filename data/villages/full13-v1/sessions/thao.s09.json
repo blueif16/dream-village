@@ -1,0 +1,31 @@
+{
+  "id": "thao.s09",
+  "principal": "thao",
+  "start": "2025-09-12T02:39:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 2:39am and i'm awake thinking about go-live. night off lol. ok but realistically how long is leftover cooked rice safe? i pack it for my 2am meal on shift"
+    },
+    {
+      "role": "assistant",
+      "text": "Cooked rice is safe for about 3 to 4 days in the fridge if you handle it right.\n\n- Cool it fast: get it into the fridge within 1 hour of cooking. Spread it in a shallow container so it chills quickly.\n- Keep it at 40°F (4°C) or below.\n- Reheat until steaming hot all the way through (165°F / 74°C), and only reheat once.\n- Toss it if it smells off or has been out for over 2 hours.\n\nThe risk is Bacillus cereus spores, which survive cooking and multiply when rice sits warm.\n\nFor packing for work: keep it in an insulated bag with an ice pack if it'll sit more than a couple of hours before you reheat it. If you're not eating it within 3 days, freeze single portions instead."
+    },
+    {
+      "role": "user",
+      "text": "nice. also what goes bad fastest in a pantry. my bins are already labeled but i'm wondering if sorting them by expiration date, soonest in front, is worth redoing. nothing is out of order rn"
+    },
+    {
+      "role": "assistant",
+      "text": "Fastest to go bad in a pantry (roughly):\n\n- Whole-grain flours, nuts and seeds, and cooking oils: they go rancid in a few months\n- Opened bread, tortillas, and baked goods: days to a couple of weeks\n- Brown rice and whole-grain items: about 6 months\n- Opened spices and dried herbs: flavor fades in 1 to 2 years\n- Potatoes, onions, and garlic: weeks, and keep them apart\n- Opened sauces, nut butters, and canned goods once opened: move to the fridge\n- Unopened canned goods and white rice, dried pasta, and dried beans: very long, often years\n\nIs it worth redoing your bins? If they're labeled and nothing is out of order, probably not a full redo. A quick fix is to sort only the short-dated items, like nuts, flours, oils, and opened packages, into one \"use first\" bin or front row, and leave the rest alone. Check it once a month. That gets most of the benefit for very little work."
+    },
+    {
+      "role": "user",
+      "text": "good plan. last one, how long does condensed milk keep once opened. i make thermoses of cà phê sữa đá, two on bad nights"
+    },
+    {
+      "role": "assistant",
+      "text": "Opened sweetened condensed milk keeps about 2 weeks in the fridge.\n\n- Don't leave it in the can. Move it to a clean airtight glass or plastic container.\n- Keep it in the main part of the fridge, not the door.\n- Use a clean spoon each time.\n- Toss it if it smells sour, turns dark or lumpy, or grows mold.\n\nIf you use it slowly, you can freeze it in an ice cube tray. Pop out a cube or two per thermos and it'll melt right into the hot coffee.\n\nThe finished coffee with the milk in it should be kept cold. If it's in an insulated thermos with ice, it's good for your shift. Rinse the thermos when you're done so it doesn't sour."
+    }
+  ]
+}

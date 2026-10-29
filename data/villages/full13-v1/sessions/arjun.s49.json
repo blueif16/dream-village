@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s49",
+  "principal": "arjun",
+  "start": "2025-10-16T23:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so ashby agreed to write th letter after office hours today. his door was closed but i knocked anyway lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats, that's a big one, and good call knocking anyway. Want a short plan for following up and staying on good terms with him? Tell me your deadlines if you have them, otherwise I'll build it around placeholders."
+    },
+    {
+      "role": "user",
+      "text": "yeah pls. typing this while my laundry runs at th card-only machines rn. what do i send him for ashby's letter and when. tldr format"
+    },
+    {
+      "role": "assistant",
+      "text": "TL;DR plan:\n\n**Tonight/tomorrow (24 hrs)**\n- Thank-you email (short, specific about what you discussed). If you already sent one, skip this.\n\n**Within 2-3 days: send a 'letter packet'**\n- Current resume\n- Short list of target roles/companies with [deadline] for each\n- 3-4 bullets on what you'd like him to highlight (specific class work, projects, strengths he's seen)\n- Submission instructions: portal link or email address, and any form\n- A line like: 'Happy to answer questions or meet again if useful.'\n\n**Timing**\n- Give him at least 3-4 weeks before the earliest deadline.\n- Send a gentle reminder about 1-2 weeks before it's due: 'Just a quick note that the [company] deadline is [date]. Let me know if you need anything from me.'\n\n**Afterward**\n- Thank him again once it's submitted.\n- Update him when you hear back, offer or not. Recommenders like knowing how it went.\n\n**Don't**\n- Send multiple emails in a row or pile on deadlines at the last minute.\n\nWant me to draft the packet email?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls, keep it short. he's not a long email guy"
+    },
+    {
+      "role": "assistant",
+      "text": "Subject: Materials for your recommendation letter\n\nHi Dr. Ashby,\n\nThank you again for agreeing to write a letter for me. To make it easy, I've attached:\n\n- My current resume\n- A list of the roles I'm applying to, with deadlines: [list]\n- A few points I'd be grateful if you could touch on: [2-3 bullets]\n\nSubmission details: [portal link or email, and earliest due date].\n\nHappy to answer any questions or meet again if that would help.\n\nBest,\n[your name]\n\nOnce you fill in the brackets, send it within a couple of days, then calendar a reminder for 1-2 weeks before the first deadline."
+    },
+    {
+      "role": "user",
+      "text": "perfect thx. putting th reminder on my calendar, dryer's about done 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, you're all set. Enjoy the warm clothes, and good luck with the letter."
+    }
+  ]
+}

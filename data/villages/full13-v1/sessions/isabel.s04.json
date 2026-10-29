@@ -1,0 +1,55 @@
+{
+  "id": "isabel.s04",
+  "principal": "isabel",
+  "start": "2025-08-30T00:10:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so i did my first practice reading section tonight and got wrecked. 6 wrong out of 20 on the evidence questions. i need to understand the logic, not just memorize tricks. be so for real"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. SAT reading questions are built so exactly one answer is directly supported by the passage, and the wrong ones fail in predictable ways. Want to paste one you missed, with the passage lines and all four choices? Then we can dissect it. Meanwhile, the main idea: the correct answer can be pointed to in the text. The wrong ones usually do one of these: go too far (extreme words like 'always' or 'proves'), say something true in the real world but not in the passage, mix up details from different parts, or only match half the question."
+    },
+    {
+      "role": "user",
+      "text": "ok here. passage said researchers 'observed a decline in nesting success during unusually warm seasons.' question asks what the passage suggests about warm seasons. my pick: B) warm seasons will eventually eliminate the species. correct was C) warm seasons can reduce reproductive success"
+    },
+    {
+      "role": "assistant",
+      "text": "Good one to study. 'Observed a decline in nesting success during unusually warm seasons' supports C almost word for word: decline in nesting success maps to reduced reproductive success. B fails the weak-evidence test. 'Eventually eliminate' is a huge leap. The passage reports a decline, not extinction, and it says nothing about the long-term future. That's the 'goes too far' type. Test for any choice: can you put your finger on a phrase that backs every part of it? For B, 'eliminate' has nothing under it. Also watch for hedges: the passage says 'observed,' so answers that sound like certain predictions are suspect."
+    },
+    {
+      "role": "user",
+      "text": "lol the heat is making everything worse. its like 90 at midnight in this nothing town. wait random but does heat actually mess with egret nesting at ulloa. like is that real or did the passage make it up"
+    },
+    {
+      "role": "assistant",
+      "text": "It's real in general. Heat stress can affect wading birds: chicks and eggs can overheat, adults spend more time shading nests instead of foraging, and drought or heat can shift the fish and invertebrate supply they rely on. Marsh water levels matter too, since they affect where birds feed and nest. I can't tell you specifics for Ulloa without local survey data, but your local bird counts or a wildlife group would be good sources. For the SAT, though, remember the test only credits what's in the passage, not what's true outside it."
+    },
+    {
+      "role": "user",
+      "text": "ok. im registered for the oct 4 sat at tamsen valley college so what should i fix by then. my tutor runs saturday library sessions and im planning 2 practice sections a week on top"
+    },
+    {
+      "role": "assistant",
+      "text": "With about five weeks, here's a focused plan:\n\n1. After each practice section, label every miss by error type: too extreme, true but not in the passage, half-right, or misread the question. Patterns will show you what to fix.\n2. For evidence questions, find the line first, then predict the answer before looking at the choices.\n3. Eliminate with reasons. Cross out each wrong choice and write the specific word or idea that fails it.\n4. Review misses within a day, while you still remember your reasoning.\n5. Keep your two weekly sections on a schedule, and do at least one full reading set in one sitting later on to build stamina.\n\nWant me to turn that into a weekly template?"
+    },
+    {
+      "role": "user",
+      "text": "yes but she makes us time every section with a kitchen timer so make it fit the clock. short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version, per reading passage (about 13 min each on the real test):\n\n- 0:00-1:30: skim the passage for the main point and structure, don't memorize details\n- 1:30-10:30: answer questions, line-finding first, predict, then eliminate. Skip anything over about 75 seconds and flag it.\n- 10:30-13:00: return to flagged ones and guess by elimination if needed\n\nWeekly: Saturday session timed with the tutor, plus two timed sections midweek, followed by 15 minutes labeling every miss. Add one flexible slot if you want a third review. Adjust the pacing if the timer shows you run long on a specific passage type."
+    },
+    {
+      "role": "user",
+      "text": "ok that works. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the next section. Come back and paste any misses when you want to break them down."
+    }
+  ]
+}

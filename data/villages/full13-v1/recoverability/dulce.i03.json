@@ -1,0 +1,91 @@
+{
+  "impression_id": "dulce.i03",
+  "evidence_sessions": [
+    "dulce.s01",
+    "dulce.s05",
+    "dulce.s06",
+    "dulce.s10",
+    "dulce.s12"
+  ],
+  "inferred": [
+    {
+      "statement": "Dulce is confident with numbers and money math but freezes or avoids writing and paperwork, repeatedly asking for help turning ideas into prose or filling in forms.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s01",
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Dulce regularly does homework and chores late at night, close to deadlines, and tends to put off the tasks she dislikes (like the lab conclusion).",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Dulce worries about friend-group dynamics and wants to avoid conflict, so she asks for help wording texts that keep her neutral and not 'fake' or desperate.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s10"
+      ]
+    },
+    {
+      "statement": "Dulce prefers a casual, friendly, short style, addressing the assistant as 'bestie', asking for 'simple' explanations, and mixing serious requests with jokes and tangents.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s01",
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Dulce is proud of her family's pupusa stand and wants her family to feel proud and recognized in how it is portrayed, and she helps out there with real work.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s10",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Dulce takes her job seriously and cares about being seen as reliable, feeling guilty after paying a coworker to cover a shift and taking pride in counting the drawer accurately.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s01"
+      ]
+    },
+    {
+      "statement": "Dulce is working to save for a phone and is learning to curb social spending, though she worries about being left out when she says no.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s10"
+      ]
+    },
+    {
+      "statement": "Dulce overcommits and gets overwhelmed by stacked obligations (shifts, chem grades, food drive, social plans), but accepts structured plans when offered.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s12",
+        "dulce.s05"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Dulce is confident with numbers and money math but freezes or avoids writing and paperwork, repeatedly asking for help turning ideas into prose or filling in forms.",
+  "rationale": "The first inferred statement, rated strong, says Dulce is confident with numbers and money math but freezes or avoids writing and paperwork. That is the same contrast as the intended trait."
+}

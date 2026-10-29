@@ -1,0 +1,102 @@
+{
+  "session_id": "jun.s07",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Tess gave a critique that the filling had too much onion (the onion verdict)",
+      "about": "tess",
+      "kind": "reference_use",
+      "item_id": "jun.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the onion verdict came in last night, she said too much onion",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess keeps a list of coworkers' orders on the fridge",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she keeps a list of her coworkers' orders on the fridge",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun makes lumpiang shanghai with pork and shrimp, with sweet chili and spiced vinegar",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its lumpiang shanghai, pork and shrimp.",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun seeks his mother's approval of the food",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "do you think she'll like it more?",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun's lumpia batch sold out on Saturday",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w2.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the whole batch sold out saturday",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun makes about 150 rolls per batch",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "for about 150 rolls i use like 3 lbs ground pork",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun sold out",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w2.n01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on selling out!",
+      "support_quote": "even tho the whole batch sold out saturday lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.r04",
+      "present": true,
+      "quote": "the onion verdict came in last night, she said too much onion"
+    },
+    {
+      "item_id": "jun.f51",
+      "present": true,
+      "quote": "she keeps a list of her coworkers' orders on the fridge so i'll put the new ratio there"
+    },
+    {
+      "item_id": "jun.i02",
+      "present": true,
+      "quote": "do you think she'll like it more? honestly i just want her to taste it and not say anything"
+    },
+    {
+      "item_id": "jun.f35",
+      "present": true,
+      "quote": "its lumpiang shanghai, pork and shrimp."
+    }
+  ],
+  "sensitive": []
+}

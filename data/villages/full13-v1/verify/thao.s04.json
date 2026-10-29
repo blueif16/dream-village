@@ -1,0 +1,388 @@
+{
+  "session_id": "thao.s04",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thanksgiving week off request was denied",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my thanksgiving week off request got denied this afternoon",
+      "support_quote": ""
+    },
+    {
+      "text": "Sleeps days with blackout curtains and fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "blackout curtains and the fan did their thing",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'go-live' shared term",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "go-live is coming and i'm already dreading the extra nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Avoids calls, lets voicemail pile up, prefers text",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'd honestly rather someone just text me",
+      "support_quote": ""
+    },
+    {
+      "text": "Mothers Linh behind the scenes via hidden transfer",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "labeled textbook fund so my mom doesn't ask questions",
+      "support_quote": ""
+    },
+    {
+      "text": "Sends Linh $50 a month",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i set up a $50 a month transfer to my sister linh",
+      "support_quote": ""
+    },
+    {
+      "text": "Shows care through practical fixes",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "last heat wave i packed cold meals and dropped them at the salon",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao works nights and sleeps days",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I work nights and sleep days.",
+      "support_quote": "blackout curtains and the fan did their thing"
+    },
+    {
+      "text": "Assistant says Thanksgiving request was turned down",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the one break you asked for gets turned down",
+      "support_quote": "my thanksgiving week off request got denied this afternoon"
+    },
+    {
+      "text": "Assistant says Thao is worried about Linh eating",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "If you're worried about her eating",
+      "support_quote": "i wonder if she's even eating enough"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "my mom left another voicemail, it's just sitting there unplayed again. i'd honestly rather someone just text me."
+    },
+    {
+      "item_id": "thao.i02",
+      "present": true,
+      "quote": "i set up a $50 a month transfer to my sister linh, labeled textbook fund so my mom doesn't ask questions"
+    },
+    {
+      "item_id": "thao.i04",
+      "present": true,
+      "quote": "last heat wave i packed cold meals and dropped them at the salon"
+    },
+    {
+      "item_id": "thao.r01",
+      "present": true,
+      "quote": "go-live is coming and i'm already dreading the extra nights"
+    },
+    {
+      "item_id": "thao.f37",
+      "present": true,
+      "quote": "my thanksgiving week off request got denied this afternoon"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "it's 3:15 and i just woke up, blackout curtains and the fan did their thing but my brain is soup"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

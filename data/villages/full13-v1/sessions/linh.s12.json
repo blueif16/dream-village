@@ -1,0 +1,31 @@
+{
+  "id": "linh.s12",
+  "principal": "linh",
+  "start": "2025-09-06T07:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok quick one pls, its my 6:30 opening shift and i only have a few min before doors\n\nbeatrice is letting jun sell his lumpia at the counter saturdays for a 15% cut, today is the first one. i'm on register. how do i track it without it being a mess"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a quick setup:\n\n**Before doors (5 min)**\n- Put the lumpia on its own tab or button in the POS, e.g. \"Lumpia\". If you can't, use a separate line in a notebook.\n- Number each tray (T1, T2, T3) with tape or a marker and note how many rolls are in each.\n- Write the price per roll or per order where you can see it.\n\n**During the shift**\n- Ring every lumpia sale separately from coffee so it's easy to total.\n- Tally marks on a sheet by the register: one line per order (or per roll).\n- When a tray comes out, log the time and tray number. When it's empty or pulled, log that too.\n\n**End of day**\n- Lumpia sales total x 0.15 = the cafe's cut.\n- Jun keeps the remaining 85%.\n- Count unsold rolls and check: rolls started - rolls sold - leftovers = 0. If it's off, note it.\n- Have Jun and Beatrice both initial the sheet.\n\nWant me to make a printable tracking sheet?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also can u keep it so theres time for me to practice my heart pours before the rush, im still working on getting them clean. i just want jun's stuff to run smooth first"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Here's a sheet you can copy onto paper:\n\n**Lumpia tracking, Saturday**\n\n| Tray | Rolls in | Out at | Rolls sold | Left over |\n|---|---|---|---|---|\n| T1 | | | | |\n| T2 | | | | |\n| T3 | | | | |\n\n**Totals**\n- Lumpia sales: $____\n- 15% cafe cut: $____ (sales x 0.15)\n- Jun's share: $____\n- Initials: ____ / ____\n\n**Schedule so you get practice time**\n- 6:30-6:40: set up trays, price, tally sheet\n- 6:40-7:00: heart pours, a few cups before the line starts\n- 7:00 on: register, with a quick tally after each lumpia sale\n- Mid-morning lull: tidy the tally and note tray changes\n\nThis keeps the lumpia admin down to about 10 seconds a sale, so the pours stay yours."
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. gonna set it all up now, i'll eat later ☕"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good, have a great first lumpia Saturday! Quick tip: take a few rolls' worth of break when it's calm, even just a snack, so you're not running on empty by the rush. Good luck with the pours!"
+    }
+  ]
+}

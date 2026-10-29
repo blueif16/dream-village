@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s19",
+  "principal": "noemi",
+  "start": "2025-09-13T18:36:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. booked my exam yesterday, nov 8. need a 12 week plan to prep for the boss fight. entry level network cert. how should i structure it"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, congrats on booking it. Counting back twelve weeks from Nov 8 puts your start around Aug 16, so you're already about four weeks in. The cleanest fix is to treat the remaining time as the plan: roughly 8 weeks of structured study plus a 1-week buffer.\n\nA solid structure:\n\n- Weeks 1-2: Fundamentals. OSI/TCP-IP models, common protocols, ports.\n- Weeks 3-4: Addressing. IPv4, subnetting, DHCP, DNS.\n- Weeks 5-6: Switching, routing, VLANs, wireless.\n- Weeks 7-8: Security basics, troubleshooting methodology, network tools.\n- Weeks 9-10: Full practice exams, then drill your weak topics.\n- Weeks 11-12: Timed exams, light review, rest the last 2 days.\n\nEach week: 3 short weekday sessions (30-45 min), one longer weekend block, and one practice quiz. Want me to adjust it to the weeks you actually have left? Also, which topics feel weakest?"
+    },
+    {
+      "role": "user",
+      "text": "yeah subnetting and port numbers are the nerfed ones. also i have to make it hold up when work gets crazy. peak season starts soon, i do a weekend scanner check at rf-4, like 620 handhelds to babysit once it ramps. so plan needs to survive me getting hit with random aggro"
+    },
+    {
+      "role": "assistant",
+      "text": "Good to know. Here's a version built to bend instead of break:\n\n1. Minimum viable week: even on a bad week, do 3 sessions of 20 minutes, one subnetting drill set, one port-number flashcard round, one quiz. If that's all you manage, you stay on track.\n2. Front-load weak topics: subnetting daily in short bursts (10 problems) in weeks 1-4, port numbers as flashcards you can do in a break.\n3. Floating catch-up slot: leave one block per week unassigned for work spillover.\n4. Buffer weeks: make weeks 7 and 11 lighter review weeks so a crushed week doesn't derail things.\n5. Checkpoints: a full practice exam every 2 weeks. If you're below the pass line by week 8, shift more time to weak topics rather than adding hours.\n\nThe point is to shrink tasks when time shrinks, not skip them. Want this as a week-by-week table?"
+    },
+    {
+      "role": "user",
+      "text": "yes table pls. keep saturday mornings light, i walked the ulloa marsh boardwalk this morning and thats my reset. weekend study in the afternoon"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go. Saturday mornings are free; weekend study is afternoon only.\n\n| Week | Focus | Weekday (3 x 20-45 min) | Weekend afternoon | Checkpoint |\n|---|---|---|---|---|\n| 1 | Models, protocols | Flashcards, 10 subnetting problems | 60 min review | 15-q quiz |\n| 2 | Ports and services | Port flashcards, subnetting | 60 min | Port quiz |\n| 3 | IPv4, subnetting | Daily problem sets | 90 min | Subnet quiz |\n| 4 | DHCP, DNS, NAT | Subnetting plus labs | 60 min | Practice exam #1 |\n| 5 | Switching, VLANs | Notes and drills | 60 min | Quiz |\n| 6 | Routing | Drills | 90 min | Quiz |\n| 7 | Light week: wireless, review | Catch-up | 45 min | Review |\n| 8 | Security, troubleshooting | Scenarios | 60 min | Practice exam #2 |\n| 9 | Weak topics | Targeted drills | 90 min | Quiz |\n| 10 | Weak topics, timed | Timed sets | 90 min | Practice exam #3 |\n| 11 | Light week: review | Flashcards | 45 min | Light review |\n| 12 | Final prep | 2 short sessions | Rest | Exam |\n\nSince you're starting from about week 5 of the calendar, compress the early weeks into your first two weeks if you've covered them. Want a one-line daily checklist version?"
+    }
+  ]
+}

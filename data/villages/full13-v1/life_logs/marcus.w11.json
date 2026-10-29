@@ -1,0 +1,345 @@
+{
+  "principal": "marcus",
+  "week": 11,
+  "entries": [
+    {
+      "id": "marcus.w11.l01",
+      "date": "2025-11-03",
+      "what": "Got home from the Ridgeline cold dock at 7:30 a.m., ate eggs and rice, and messaged the assistant for a plan to taper off energy drinks; decided on one cold brew before shift and no more cans.",
+      "with": [],
+      "outcome": "Quit energy drinks and set up a step-down plan",
+      "feeling": "determined, wiped",
+      "facts": [
+        "marcus.f38",
+        "marcus.f39",
+        "marcus.f09"
+      ],
+      "impressions": [
+        "marcus.i06"
+      ]
+    },
+    {
+      "id": "marcus.w11.l02",
+      "date": "2025-11-03",
+      "what": "Slept 8:30 to 1:30, then went to the Monday 2 p.m. section at Bayshore State on the Tule Line, half awake.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Got through class with Fatima's notes",
+      "feeling": "groggy",
+      "facts": [
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l03",
+      "date": "2025-11-03",
+      "what": "Grabbed a cold brew and rode with Trevor to Ridgeline for the 9 p.m. ten-hour night on the cold dock.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "First shift without an energy drink went okay",
+      "feeling": "headachy but proud",
+      "facts": [
+        "marcus.f18",
+        "marcus.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l04",
+      "date": "2025-11-04",
+      "what": "Finished the night shift, came home and slept; Election Day passed without him voting at the community center, as he was asleep.",
+      "with": [],
+      "outcome": "Slept through most of the day",
+      "feeling": "tired",
+      "facts": [
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l05",
+      "date": "2025-11-04",
+      "what": "Did laundry at home and chatted with Arjun about the Measure K signs in the lot, then prepped for the shift.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Easy evening, no advice fights",
+      "feeling": "relaxed",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l06",
+      "date": "2025-11-04",
+      "what": "Worked the cold dock night with Trevor, drinking only the one cold brew.",
+      "with": [
+        "trevor",
+        "jose"
+      ],
+      "outcome": "Hit rate without a write-up",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f39",
+        "marcus.f42"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l07",
+      "date": "2025-11-05",
+      "what": "Slept after shift, then went to the stats tutoring center at 12:30 on Wednesday and worked practice problems.",
+      "with": [],
+      "outcome": "Finished a problem set",
+      "feeling": "focused",
+      "facts": [
+        "marcus.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l08",
+      "date": "2025-11-05",
+      "what": "Sat down with the spring schedule and decided to register for 12 units when the window opens Nov 18.",
+      "with": [],
+      "outcome": "Spring plan of 12 units set",
+      "feeling": "practical",
+      "facts": [
+        "marcus.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l09",
+      "date": "2025-11-05",
+      "what": "Attended the 2 p.m. afternoon section, then rode with Trevor to Ridgeline.",
+      "with": [
+        "fatima",
+        "trevor"
+      ],
+      "outcome": "Made it through a long day",
+      "feeling": "worn out",
+      "facts": [
+        "marcus.f02",
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l10",
+      "date": "2025-11-06",
+      "what": "Came off the night shift, ate, and slept until about 1:30; Jade had clinic labs that morning so they only texted.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Short texts, no tension",
+      "feeling": "fine",
+      "facts": [
+        "marcus.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l11",
+      "date": "2025-11-06",
+      "what": "Went to the Thursday 2 p.m. section at Bayshore State.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Got notes for Biomechanics",
+      "feeling": "sleepy",
+      "facts": [
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l12",
+      "date": "2025-11-06",
+      "what": "Worked the final Thursday night shift of the week on the cold dock.",
+      "with": [
+        "trevor",
+        "carla"
+      ],
+      "outcome": "Shift ended with no issues",
+      "feeling": "tired but okay",
+      "facts": [
+        "marcus.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l13",
+      "date": "2025-11-07",
+      "what": "The stats grade came up: a C+ after the tutoring center sessions. He messaged the assistant proudly and asked how to push it to a B.",
+      "with": [],
+      "outcome": "Grade moved up from D to C+",
+      "feeling": "proud",
+      "facts": [
+        "marcus.f26",
+        "marcus.f27",
+        "marcus.f28"
+      ],
+      "impressions": [
+        "marcus.i05"
+      ]
+    },
+    {
+      "id": "marcus.w11.l14",
+      "date": "2025-11-07",
+      "what": "Payday Friday: sent the mom fund transfer to Denise and lifted at Iron Flats Fitness.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "Transfer sent, one lift session done",
+      "feeling": "satisfied",
+      "facts": [
+        "marcus.f14",
+        "marcus.f21"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l15",
+      "date": "2025-11-07",
+      "what": "Slept in the afternoon since there was no class and had a burrito from Taquería Colima for payday.",
+      "with": [],
+      "outcome": "Rested before the weekend",
+      "feeling": "content",
+      "facts": [
+        "marcus.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l16",
+      "date": "2025-11-08",
+      "what": "Lifted at Iron Flats Fitness after the night shift, his second session of the week.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Hit his planned lifts",
+      "feeling": "strong",
+      "facts": [
+        "marcus.f21",
+        "marcus.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l17",
+      "date": "2025-11-08",
+      "what": "Slept until early afternoon, then caught up on Biomechanics notes from Fatima.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Caught up on reading",
+      "feeling": "productive",
+      "facts": [
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l18",
+      "date": "2025-11-08",
+      "what": "Saturday dinner with Jade at Phở Bến Thành.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Good night with no fighting",
+      "feeling": "warm",
+      "facts": [
+        "marcus.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l19",
+      "date": "2025-11-09",
+      "what": "Did the Sunday chicken-and-rice meal prep, five containers, then rested.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Food ready for the week",
+      "feeling": "organized",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l20",
+      "date": "2025-11-09",
+      "what": "Hung out at the apartment with Arjun and watched the game before getting ready for the 9 p.m. shift.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Relaxed afternoon",
+      "feeling": "chill",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w11.l21",
+      "date": "2025-11-09",
+      "what": "Had a cold brew and carpooled with Trevor to Ridgeline for the Sunday night shift.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Started a new work week on schedule",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f05",
+        "marcus.f39"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w11.n01",
+      "subject": "marcus",
+      "attribute": "cold_brew_spot",
+      "value": "buys the pre-shift cold brew from the Ruiz Family Market cooler",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w11.n02",
+      "subject": "marcus",
+      "attribute": "tutoring_next_goal",
+      "value": "wants a B in Stats 120 by finals",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.w11.n03",
+      "subject": "marcus",
+      "attribute": "payday_meal",
+      "value": "had a carne asada burrito at Taquería Colima on payday",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w11.n04",
+      "subject": "marcus",
+      "attribute": "election_day",
+      "value": "did not vote in the Nov 4 local election",
+      "valid_from": "2025-11-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

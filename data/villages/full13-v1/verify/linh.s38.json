@@ -1,0 +1,82 @@
+{
+  "session_id": "linh.s38",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sam owes Linh two Saturday shifts from September swaps",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "you still owe me two saturday shifts from the september swaps..",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh works Saturday 6:30-1 opening and Mon/Wed closings",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im already on sat 6:30-1 opening every week and with mon/wed closings now",
+      "support_quote": ""
+    },
+    {
+      "text": "Sam is the weekend barista",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "cast.f111",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "since hes the weekend barista who keeps swapping with me anyway..",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh softens requests and considers dropping the ask",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "maybe i should just take the ask out altogether??",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's Mon/Wed closings leave no room for extra shifts",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since my Mon/Wed closings leave me no room for extras",
+      "support_quote": "with mon/wed closings now i literally have no room to pick up extra"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f55",
+      "present": true,
+      "quote": "hey sam, so you still owe me two saturday shifts from the september swaps.."
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "im already on sat 6:30-1 opening every week and with mon/wed closings now i literally have no room to pick up extra"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "can it be more like 'if you can maybe..' lol"
+    },
+    {
+      "item_id": "cast.f111",
+      "present": true,
+      "quote": "since hes the weekend barista who keeps swapping with me anyway.."
+    }
+  ],
+  "sensitive": []
+}

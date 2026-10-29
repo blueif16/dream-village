@@ -1,0 +1,92 @@
+{
+  "session_id": "grace.s09",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Handed Science Olympiad to Dana and only covers Tuesday lunch makeup sessions",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I handed Science Olympiad to Dana yesterday, so I only cover Tuesday lunch lab-makeup sessions now.",
+      "support_quote": ""
+    },
+    {
+      "text": "Has 4th period prep 11:02-11:55",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I am sending this tomorrow during my 4th period prep, 11:02-11:55.",
+      "support_quote": ""
+    },
+    {
+      "text": "Sent daughter curt text and she stopped speaking to her",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Sunday I sent my daughter the text 'Dishes. Now.' She has not spoken to me since.",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants a quick reusable worksheet, no new activities",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I need one quick, reusable worksheet on moles, regular chemistry, to get through the week. No new activities.",
+      "support_quote": ""
+    },
+    {
+      "text": "Dishes text to daughter was curt",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w8.n05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "yes, 'Dishes. Now.' is very curt.",
+      "support_quote": "Sunday I sent my daughter the text 'Dishes. Now.' She has not spoken to me since."
+    },
+    {
+      "text": "Grace has prep tomorrow",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with prep tomorrow.",
+      "support_quote": "I am sending this tomorrow during my 4th period prep, 11:02-11:55."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f21",
+      "present": true,
+      "quote": "I handed Science Olympiad to Dana yesterday, so I only cover Tuesday lunch lab-makeup sessions now."
+    },
+    {
+      "item_id": "grace.i01",
+      "present": true,
+      "quote": "Sunday I sent my daughter the text 'Dishes. Now.' She has not spoken to me since. Was that too harsh?"
+    },
+    {
+      "item_id": "grace.i06",
+      "present": true,
+      "quote": "My afternoons have been eaten up lately. I need one quick, reusable worksheet on moles, regular chemistry, to get through the week. No new activities."
+    },
+    {
+      "item_id": "grace.f02",
+      "present": true,
+      "quote": "I am sending this tomorrow during my 4th period prep, 11:02-11:55."
+    }
+  ],
+  "sensitive": []
+}

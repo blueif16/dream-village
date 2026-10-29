@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Walks the marsh boardwalk on Saturdays",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tried to do my usual saturday walk on the marsh boardwalk this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Fleet is about 620 handhelds",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fleet is about 620 handhelds so i cant babysit each one",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses an internal ticket queue",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "record battery failures in our internal ticket queue",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a three-year-old Android with a cracked corner",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "3yr old android w a cracked corner",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she has 620 units",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "At 620 units you'll want a triage process",
+      "support_quote": "fleet is about 620 handhelds"
+    },
+    {
+      "text": "Assistant notes her phone has a cracked corner",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A cracked corner matters.",
+      "support_quote": "3yr old android w a cracked corner"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f26",
+      "present": true,
+      "quote": "tried to do my usual saturday walk on the marsh boardwalk this morning and the heat cut it short lol"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "fleet is about 620 handhelds so i cant babysit each one"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "how should i record battery failures in our internal ticket queue so its not a mess"
+    },
+    {
+      "item_id": "noemi.f21",
+      "present": true,
+      "quote": "my own phone has been getting hot too, 3yr old android w a cracked corner"
+    }
+  ],
+  "sensitive": []
+}

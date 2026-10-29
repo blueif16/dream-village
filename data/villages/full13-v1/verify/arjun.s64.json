@@ -1,0 +1,107 @@
+{
+  "session_id": "arjun.s64",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Arjun is on a case team for the Nov 8 competition and has the logistics cost section",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got the logistics cost section",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun calls the Nov 8 competition 'case comp'",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ur gonna be useless for case comp if u crash",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun tells teammate to sleep but is up late himself",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pls don't pull an all nighter for it, go to sleep, it's not worth it",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun is usually up around 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll be up around 2 anyway so if u need anything just text me",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun lives in an apartment where trick-or-treaters come to the door",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "trick-or-treaters keep hitting our door lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun will be online around 2 a.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll be online around 2 a.m. anyway if you need anything.",
+      "support_quote": "i'll be up around 2 anyway so if u need anything just text me"
+    },
+    {
+      "text": "Arjun has the logistics cost section for the case comp",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I've got the logistics cost section",
+      "support_quote": "i got the logistics cost section"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "who's covering which slides for the nov 8 competition?"
+    },
+    {
+      "item_id": "arjun.r05",
+      "present": true,
+      "quote": "ur gonna be useless for case comp if u crash"
+    },
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "pls don't pull an all nighter for it, go to sleep, it's not worth it"
+    },
+    {
+      "item_id": "arjun.f34",
+      "present": true,
+      "quote": "i'll be up around 2 anyway so if u need anything just text me"
+    },
+    {
+      "item_id": "arjun.f05",
+      "present": true,
+      "quote": "trick-or-treaters keep hitting our door lol"
+    }
+  ],
+  "sensitive": []
+}

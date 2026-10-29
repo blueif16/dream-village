@@ -1,0 +1,373 @@
+{
+  "session_id": "linh.s80",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Mom cooks dinner at 8 and leaves a plate on closing nights",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "linh.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom cooks dinner at 8 and leaves a plate for me on closing nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh closes Mon/Wed 3-9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i close mon/wed 3-9 so those nights have to be make-ahead",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh avoids dairy milk (lactose-ish)",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no dairy milk for me (lactose ish)",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh plans with a paper planner and washi tape on Sunday night",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i fill it in w washi tape on sunday night so short pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh compares herself to others on registration",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "like how many ppl even get in",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh lights up about nutrition balance",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i wanna see if the balance actually works",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short structured plan with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "a day by day with times and a tiny prep line, bullets only",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Mon and Wed are closing nights",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Mon** (closing night)",
+      "support_quote": "i close mon/wed 3-9"
+    },
+    {
+      "text": "Assistant says Linh got the section she wanted",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Congrats on getting your section!",
+      "support_quote": "got the section i wanted"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i02",
+      "present": true,
+      "quote": "i set 3 alarms for 6:58 this morning for class registration and got the section i wanted. do u know if those fill super fast? like how many ppl even get in"
+    },
+    {
+      "item_id": "linh.i04",
+      "present": true,
+      "quote": "can u add rough macros per dinner? protein / veg / carb. i wanna see if the balance actually works"
+    },
+    {
+      "item_id": "linh.f51",
+      "present": true,
+      "quote": "my mom cooks dinner at 8 and leaves a plate for me on closing nights and i want to swap in earlier ones"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "i close mon/wed 3-9 so those nights have to be make-ahead"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "i fill it in w washi tape on sunday night so short pls"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

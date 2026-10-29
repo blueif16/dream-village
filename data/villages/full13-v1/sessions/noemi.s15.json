@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s15",
+  "principal": "noemi",
+  "start": "2025-09-09T23:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need to fix my week for studying. missed subnetting questions AGAIN this morning on the practice app. ugh. i did a few chapters of the tabbed study guide (secondhand one) before work too and it still didn't stick"
+    },
+    {
+      "role": "assistant",
+      "text": "Subnetting usually needs short, repeated drills more than long reading sessions. To build a schedule I need your constraints. What are your work hours, and what other fixed commitments do you have each week?"
+    },
+    {
+      "role": "user",
+      "text": "i start at 2pm and get home after 10:30 mon-fri. also i train a new hire tue/thu 3-5pm so those are gone. iris leaves for work early so mornings are quiet at home. weekends are open too"
+    },
+    {
+      "role": "assistant",
+      "text": "Mornings before your 2 p.m. start are your best window, and Iris being out early means no interruptions. Here's a plan:\n\n**Mon-Fri mornings (about 60-75 min)**\n- 10 min: write out powers of 2 and the subnet mask table from memory\n- 30-40 min: subnetting drills only (10 problems, work them by hand)\n- 15 min: port number flashcards (the common ones: 22, 25, 53, 67/68, 80, 443, 3389)\n- Use the practice-test app last, as a 10-question check\n\n**Tue/Thu**\nKeep the morning block as is. Don't try to study after 10:30 p.m.; you'll be tired and it won't stick. Skip those nights entirely.\n\n**Mon/Wed/Fri evenings**\nOnly a 10-minute review of the morning's missed problems on your break or when you get home, if you feel like it.\n\n**Weekends**\nOne longer session (90 min) on a timed practice test, then spend the rest of the time on the questions you missed, noting why each one went wrong.\n\nTrack your misses in a simple tally: subnetting vs. ports vs. other. After two weeks you'll see whether the gap is closing."
+    },
+    {
+      "role": "user",
+      "text": "tldr version? bullets only"
+    },
+    {
+      "role": "assistant",
+      "text": "- Mornings Mon-Fri: 60 min. Powers of 2 + mask table, 10 hand-worked subnetting problems, 15 min port flashcards, then a 10-question app check\n- Tue/Thu: same morning block, nothing after work\n- Evenings: optional 10-min review of missed problems\n- Weekend: one 90-min timed practice test + review every miss\n- Keep a tally of misses by topic and check it after 2 weeks"
+    }
+  ]
+}

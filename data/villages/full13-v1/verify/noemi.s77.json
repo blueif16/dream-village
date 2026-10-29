@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s77",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Carla texted Noemi about dead scanners on the outbound floor",
+      "about": "carla",
+      "kind": "fact",
+      "item_id": "noemi.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "carla texted me this:",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is eating Colima tacos in the cage",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "eating colima tacos in the cage while i type this lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi uses the term red-beep night",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's another red-beep night",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant uses red-beep night",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Another red-beep night, and the rain isn't helping.",
+      "support_quote": "it's another red-beep night"
+    },
+    {
+      "text": "Noemi wrote a rude reply to her manager, wants it softened",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "make my reply less rude pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is eating tacos",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Enjoy the tacos, and hang in there.",
+      "support_quote": "eating colima tacos in the cage while i type this lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f52",
+      "present": true,
+      "quote": "scanners keep dying on the outbound floor, like 6 more just went red. pickers are way behind rate. need replacements NOW"
+    },
+    {
+      "item_id": "noemi.r05",
+      "present": true,
+      "quote": "it's another red-beep night"
+    },
+    {
+      "item_id": "noemi.i02",
+      "present": true,
+      "quote": "make my reply less rude pls"
+    },
+    {
+      "item_id": "noemi.f25",
+      "present": true,
+      "quote": "eating colima tacos in the cage while i type this lol"
+    }
+  ],
+  "sensitive": []
+}

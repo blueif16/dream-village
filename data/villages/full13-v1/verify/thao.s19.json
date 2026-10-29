@@ -1,0 +1,93 @@
+{
+  "session_id": "thao.s19",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Rent is $2,180 split $1,090 each with Tomás",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rent is $2,180 and we agreed $1,090 each",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao lives with Tomás in unit 207",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my bf tomás moved into my place today, marisol gardens unit 207",
+      "support_quote": ""
+    },
+    {
+      "text": "Tomás moved into Thao's unit 207",
+      "about": "tomas",
+      "kind": "fact",
+      "item_id": "cast.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my bf tomás moved into my place today, marisol gardens unit 207",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao asks to forget her venting about Maribel",
+      "about": "thao",
+      "kind": "forget_request",
+      "item_id": "thao.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "forget that i vented about maribel being a hypocrite about charting and writing on her glove, don't keep that",
+      "support_quote": ""
+    },
+    {
+      "text": "Rent is split evenly at $1,090 each",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Rent:** even at $1,090 each, as agreed.",
+      "support_quote": "rent is $2,180 and we agreed $1,090 each"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f05",
+      "present": true,
+      "quote": "rent is $2,180 and we agreed $1,090 each"
+    },
+    {
+      "item_id": "thao.f19",
+      "present": true,
+      "quote": "my bf tomás moved into my place today, marisol gardens unit 207"
+    },
+    {
+      "item_id": "cast.f34",
+      "present": true,
+      "quote": "he was in a shared house with roommates before so his old roommate rent is gone now"
+    },
+    {
+      "item_id": "thao.f56",
+      "present": true,
+      "quote": "forget that i vented about maribel being a hypocrite about charting and writing on her glove, don't keep that"
+    },
+    {
+      "item_id": "thao.f23",
+      "present": true,
+      "quote": "Account number: 0038814471"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "thao.f23",
+      "user_quote": "Account number: 0038814471",
+      "assistant_quote": ""
+    }
+  ]
+}

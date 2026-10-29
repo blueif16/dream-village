@@ -1,0 +1,39 @@
+{
+  "id": "linh.s21",
+  "principal": "linh",
+  "start": "2025-09-16T16:14:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi!! ok quick one. my sisters hospital switched to a new electronic charting system today and i want to know what a go-live is actually like for nurses ☕"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! A charting go-live is when a hospital switches from the old records system to a new one, usually all at once. For nurses it tends to be a rough but temporary stretch. Want me to break down what it typically looks like day to day?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. bullets, too long = i wont read it lol\n\nlooked this up on the ride to campus in kenjis hatchback but everything was super corporate"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the plain-language version:\n\n- **Slower pace at first:** Every task takes longer while people learn where things live. Charting that took 2 minutes can take 5-10.\n- **Extra staff on the floor:** \"Super-users\" and vendor trainers walk the units to help in real time.\n- **Workarounds and paper backups:** Downtime forms and sticky notes pop up for the first week or two.\n- **Long shifts, more overtime:** Nurses often chart late or stay past shift end to catch up.\n- **Common headaches:** Finding orders, medication scanning glitches, too many clicks, alerts that fire constantly.\n- **Patient impact:** Handoffs and waits can feel slower early on.\n- **It improves:** Most units feel much more comfortable by week 3-6, and the hospital usually tweaks the system based on feedback.\n\nWant a short list of questions to ask your sister?"
+    },
+    {
+      "role": "user",
+      "text": "yes!! shes working extra nights this stretch bc of it so shes kinda wiped. i promised id get pho with her after her shift tomorrow so i want to ask sensible stuff and not just 'is it bad'"
+    },
+    {
+      "role": "assistant",
+      "text": "That's thoughtful of you. Since she'll be tired, keep them easy to answer:\n\n1. What's the most annoying thing about it so far?\n2. Is there anything that actually works better than the old system?\n3. Are there enough people on the floor helping with questions?\n4. Is it making your shifts run long?\n5. Is there anything I can do that would make this stretch easier (a meal, a ride, a quiet morning)?\n\nTip: let her lead. If she just wants to eat and zone out, that's okay too. Enjoy the pho!"
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. ok i have gen chem at 11 and only like 10 min before class so gotta go"
+    },
+    {
+      "role": "assistant",
+      "text": "Go go go! Good luck in chem, and I hope the breakfast with your sister goes well."
+    }
+  ]
+}

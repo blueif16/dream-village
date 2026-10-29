@@ -1,0 +1,79 @@
+{
+  "impression_id": "rochelle.i06",
+  "evidence_sessions": [
+    "rochelle.s07",
+    "rochelle.s21",
+    "rochelle.s30",
+    "rochelle.s37"
+  ],
+  "inferred": [
+    {
+      "statement": "Rochelle shields her husband Andre from financial worry, keeping bills, the van cost, and her debt to Keisha out of his view and avoiding anything that would feel like money is tight.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s07",
+        "rochelle.s21",
+        "rochelle.s30",
+        "rochelle.s37"
+      ]
+    },
+    {
+      "statement": "She quietly manages the household finances and works around the money problems herself (budget sheet, extra shifts, small-payment tracker, propane plan) rather than sharing the load openly.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s07",
+        "rochelle.s21",
+        "rochelle.s37"
+      ]
+    },
+    {
+      "statement": "She is the family's organizer and caretaker, handling the shared calendar, batch cooking, driving Loretta, and meal planning around everyone's schedules while studying herself.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s07",
+        "rochelle.s21",
+        "rochelle.s30",
+        "rochelle.s37"
+      ]
+    },
+    {
+      "statement": "She prefers short, ready-to-use answers and often asks for a shorter version, closing with a casual 'ok bet thank u'.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s07",
+        "rochelle.s21",
+        "rochelle.s30",
+        "rochelle.s37"
+      ]
+    },
+    {
+      "statement": "She opens with 'be honest' before sensitive questions, suggesting she wants direct, non-judgmental feedback and some worry about sounding foolish.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s21",
+        "rochelle.s30",
+        "rochelle.s37"
+      ]
+    },
+    {
+      "statement": "She is stretched thin across school, a part-time job, family duties, and church, and tends to put her own needs (sore back, missed church, missed study group) last.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s07",
+        "rochelle.s30",
+        "rochelle.s37"
+      ]
+    },
+    {
+      "statement": "She is sensitive to Andre's pride about being the provider and tailors how she talks to him to protect it.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s30",
+        "rochelle.s37"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Rochelle shields her husband Andre from financial worry, keeping bills, the van cost, and her debt to Keisha out of his view and avoiding anything that would feel like money is tight.",
+  "rationale": "The first inferred statement, rated strong, says Rochelle shields Andre from financial worry by keeping bills and debts out of his view. Further statements about quietly carrying the burden herself and protecting his provider pride match the intended trait closely."
+}

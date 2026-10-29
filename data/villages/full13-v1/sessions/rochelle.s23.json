@@ -1,0 +1,55 @@
+{
+  "id": "rochelle.s23",
+  "principal": "rochelle",
+  "start": "2025-10-10T12:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok the practical is a week from today and i need the skeleton part locked in. quiz me on bones and landmarks. short version of what to memorize first pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version, the big ones:\n\n1. Skull: frontal, parietal, temporal, occipital, sphenoid, ethmoid\n2. Arm: humerus, radius (thumb side), ulna (pinky side)\n3. Leg: femur, tibia (shin, big), fibula (skinny, outside)\n4. Trunk: sternum, ribs, vertebrae, sacrum, coccyx\n5. Landmarks: foramen magnum, mastoid process, olecranon, greater trochanter, medial malleolus\n\nReady? Q1: Which bone forms the back of the skull and has the foramen magnum?"
+    },
+    {
+      "role": "user",
+      "text": "occipital. ok next. im at the library btw gotta stand up every hour cuz my back stiffens when i sit lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct. Standing breaks are a good idea, and this works fine on your feet.\n\nQ2: Which forearm bone is on the thumb side?"
+    },
+    {
+      "role": "user",
+      "text": "radius. and the ulna has the olecranon right"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes to both. The olecranon is the bony point of your elbow.\n\nQ3: Which leg bone is the skinny one on the outside?"
+    },
+    {
+      "role": "user",
+      "text": "fibula. ok what's the medial malleolus i always blank on that one. dont give me a whole thing"
+    },
+    {
+      "role": "assistant",
+      "text": "The bump on the inside of your ankle. It's the end of the tibia. The outside bump is the lateral malleolus, on the fibula.\n\nQ4: Which bone has the greater trochanter?"
+    },
+    {
+      "role": "user",
+      "text": "femur. i wanna find all of these on Gus at the tuesday group too. anything else to hit before then"
+    },
+    {
+      "role": "assistant",
+      "text": "Right. Before Tuesday, add these:\n\n- Scapula: spine, acromion\n- Clavicle: collarbone\n- Pelvis: ilium, ischium, pubis\n- Patella: kneecap\n- Carpals and tarsals: wrist and ankle groups\n\nOn Gus, touch each bone and say its name and one landmark out loud. Last one: which bone is the shin?"
+    },
+    {
+      "role": "user",
+      "text": "tibia. ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct, 5 for 5 plus the extras. Review the add-on list a couple of times over the weekend and you'll be set."
+    }
+  ]
+}

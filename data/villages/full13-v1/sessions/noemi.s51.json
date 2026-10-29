@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s51",
+  "principal": "noemi",
+  "start": "2025-10-18T23:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you quiz me on subnetting and port numbers. hard ones pls, no answers till i ask. those are my weak spots lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Quick calibration so I pitch it right: which exam are you prepping for, and how are you scoring on practice tests right now? I'll start hard either way.\n\nHere's round one:\n\n1. You have 192.168.14.77/27. What are the network address, broadcast address, and usable host range?\n2. How many usable hosts are in a /22? What's the subnet mask in dotted decimal?\n3. Split 10.0.0.0/24 into 4 equal subnets. List each network address and its mask.\n4. Which port and protocol does each of these use: SNMP traps, LDAPS, RDP, syslog, TFTP?\n5. Is 172.16.45.200/20 in the same subnet as 172.16.50.10/20? Show why.\n6. A host is at 10.1.1.130/26. What's the next subnet's network address?\n\nNo answers until you ask."
+    },
+    {
+      "role": "user",
+      "text": "its the boss fight, entry network cert. averaging 71% on practice exams and pass line is like 75 so im right on the edge. using the practice test app plus a secondhand study guide with tabbed chapters"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a close gap, and subnetting and ports are exactly where a few points hide. Those are very drillable.\n\nRound two, a bit nastier:\n\n7. You need 60 hosts in one subnet and 28 in another, both carved from 192.168.5.0/24. Give a VLSM layout that fits both.\n8. What's the wildcard mask for 255.255.252.0?\n9. Name the default ports for: IMAPS, SMTP submission (with STARTTLS), NTP, DHCP server, Kerberos, MS SQL Server.\n10. Which of these is NOT a valid host address: 10.4.7.63/26, 10.4.7.64/26, 10.4.7.127/26? Explain.\n11. What's the CIDR summary of 192.168.8.0/24 through 192.168.11.0/24?\n12. Which ports would you open for a basic web server that redirects HTTP to HTTPS and allows SSH from an admin subnet only?\n\nStill holding answers. Say the word when you want them."
+    },
+    {
+      "role": "user",
+      "text": "ugh ok this is gonna take a min. its my alternating saturday at rf-4 and im wiped. gonna grind through 1-6 first"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Working the first six is a solid chunk for a tired brain. Tips while you go:\n\n- Find the block size first (256 minus the interesting octet of the mask), then count up by it to locate your network.\n- Broadcast is the next network minus 1; usable range sits between.\n- For ports, say each one out loud as a pair, name and number, to help it stick.\n\nSend your answers whenever you're ready and I'll check them, or just ask for the key. If you're too fried tonight, you can pick these back up tomorrow."
+    }
+  ]
+}

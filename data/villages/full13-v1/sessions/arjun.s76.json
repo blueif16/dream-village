@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s76",
+  "principal": "arjun",
+  "start": "2025-11-13T01:04:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok its 1am i should be asleep lol. harrowgate second round video interview is nov 18 and ive spent weeks rewriting my resume and answers in a doc. thats all i've done. need a timed question card deck pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to build that. Here's a deck for a second-round video interview, each card with a suggested time limit:\n\n[Image: a set of 8 question cards, navy background, each with a large timer badge in the corner]\n\n1. Tell me about yourself (90 sec)\n2. Why this company and this role? (60 sec)\n3. Walk me through a project you're proud of, and your specific contribution (2 min)\n4. Describe a time a plan fell apart and what you did (90 sec)\n5. How would you prioritize if three shipments were delayed at once? (90 sec)\n6. Tell me about a disagreement with a teammate (90 sec)\n7. What's a weakness you're actively working on? (60 sec)\n8. What questions do you have for us? (45 sec)\n\nWant me to play the interviewer too? You answer out loud, type the gist, and I'll ask follow-ups like a real interviewer would."
+    },
+    {
+      "role": "user",
+      "text": "yes pls. be the interviewer, one question at a time. fair warning i blank on the tell me about yourself part every time 💀. only spoken practice ive had is lena's tuesday 3pm mocks"
+    },
+    {
+      "role": "assistant",
+      "text": "Deal. Ground rules: one question per turn, I'll follow up on what you say, and I won't give feedback until you ask for it. Set a 90-second timer, say your answer out loud, then type what you said.\n\n[Image: card 1 with a 90-second countdown ring]\n\nInterviewer: Thanks for making time today. To start, tell me a bit about yourself."
+    },
+    {
+      "role": "user",
+      "text": "im a logistics mgmt junior at bayshore, i like operations stuff, built a warehouse sim for a class project, applying for analyst internships. um thats it ngl"
+    },
+    {
+      "role": "assistant",
+      "text": "Interviewer: Thanks. That warehouse simulation sounds interesting. What problem was it modeling, and what did you find when you ran it?\n\nQuick note outside the interview: your opening was a solid skeleton. Next pass, try present, past, future in about 60 seconds. Ready for another take at question 1, or should we move to card 2?"
+    },
+    {
+      "role": "user",
+      "text": "card 1 again pls. one more take, then 2"
+    },
+    {
+      "role": "assistant",
+      "text": "Okay, resetting the timer.\n\n[Image: card 1 with the 90-second ring refilled]\n\nInterviewer: Let's try this again. Tell me about yourself, and what brought you to this role at our company?"
+    }
+  ]
+}

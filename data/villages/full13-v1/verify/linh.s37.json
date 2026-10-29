@@ -1,0 +1,107 @@
+{
+  "session_id": "linh.s37",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Tells family she is set on pharmacy but is unsure",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i keep telling my family im set on pharmacy and im not sure at all",
+      "support_quote": ""
+    },
+    {
+      "text": "Keeps putting off the pharmacy talk with her mom",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i keep putting off the pharmacy talk",
+      "support_quote": ""
+    },
+    {
+      "text": "Lives in the small front bedroom, can't avoid her mom",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i live in the small front bedroom right by the kitchen so theres no avoiding her",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants pho with Thao after her shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "maybe i should just go get pho with thao after her shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Avoids direct disagreement by saying 'it's fine'",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so can i just say 'its fine' whenever she asks? instead of getting into it",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she has been saying she's set on pharmacy while the truth differs",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you're choosing between saying what you've been saying and saying what's true",
+      "support_quote": "i keep telling my family im set on pharmacy and im not sure at all"
+    },
+    {
+      "text": "Assistant says she'll talk with Thao over food after Thao's shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Talking things through with someone you trust, over a warm bowl of food",
+      "support_quote": "maybe i should just go get pho with thao after her shift, i feel less guarded around her"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f14",
+      "present": true,
+      "quote": "i keep telling my family im set on pharmacy and im not sure at all"
+    },
+    {
+      "item_id": "linh.r04",
+      "present": true,
+      "quote": "i keep putting off the pharmacy talk"
+    },
+    {
+      "item_id": "linh.f31",
+      "present": true,
+      "quote": "maybe i should just go get pho with thao after her shift, i feel less guarded around her"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "so can i just say 'its fine' whenever she asks? instead of getting into it"
+    },
+    {
+      "item_id": "linh.f07",
+      "present": true,
+      "quote": "i live in the small front bedroom right by the kitchen so theres no avoiding her"
+    }
+  ],
+  "sensitive": []
+}

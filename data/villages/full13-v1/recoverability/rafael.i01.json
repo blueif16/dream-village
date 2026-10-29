@@ -1,0 +1,78 @@
+{
+  "impression_id": "rafael.i01",
+  "evidence_sessions": [
+    "rafael.s04",
+    "rafael.s07",
+    "rafael.s11",
+    "rafael.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Rafael understands automotive systems hands-on but gets lost in textbook and test wording, and learns best when ideas are explained as what he'd see or do on the car or by listening.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s07",
+        "rafael.s11",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He puts his family's food stand first, treating it as a duty that must be covered before his own study or plans, and he spends his own time and energy to ease his parents' load.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s07",
+        "rafael.s11",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He hesitates to ask others to accommodate his needs and backs off when asked to advocate for himself, apologizing for scheduling requests and dropping the idea of asking his dad for a weekend off.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s11",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He doubts himself under test pressure, second-guessing and changing right answers to wrong ones, even though he knows the material in practice.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s11"
+      ]
+    },
+    {
+      "statement": "He prefers short, casual, practical replies and ends exchanges with a warm, slangy thanks, asking for condensed versions when the answer is long.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s07",
+        "rafael.s11",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He is career-driven and plans toward a shop internship and ASE certification, working backward from deadlines and weighing side opportunities like Dante's flip deal.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s11",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He can put his family's needs ahead of his own studying, such as staying up late on a checklist for his parents instead of studying, which leaves his own preparation squeezed.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s07",
+        "rafael.s13"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He puts his family's food stand first, treating it as a duty that must be covered before his own study or plans, and he spends his own time and energy to ease his parents' load.",
+  "rationale": "The reader's strong statement says he puts the family food stand first as a duty before his own study or plans and spends his own time to ease his parents' load, which matches the core pattern. The guilt element is not explicit, but the prioritization pattern is clearly captured."
+}

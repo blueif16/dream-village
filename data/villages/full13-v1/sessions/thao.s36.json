@@ -1,0 +1,23 @@
+{
+  "id": "thao.s36",
+  "principal": "thao",
+  "start": "2025-11-04T08:45:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:45 and i just got home, i'm dead. need a simple weekly laundry routine. i work mon/tue/fri nights. our laundry room at the complex is card-only and i reload $20 at a time. card has about $11 left rn, and a wash+dry is roughly $3.50 a load. tomas does dishes and trash per the fridge whiteboard, laundry is mine. ok but realistically what's the least annoying way to do it"
+    },
+    {
+      "role": "assistant",
+      "text": "Since you work Mon/Tue/Fri nights, put laundry on your off days, before the shifts that need clean gear.\n\n**Weekly routine**\n- **Wed (after sleeping in):** Load 1: scrubs and work socks, so you're stocked for the weekend and Friday. Load 2: towels/sheets every other week.\n- **Thu:** Quick load if anything is left: workout clothes, casual stuff. Fold while watching something.\n- **Sun:** Load 3: whatever built up, plus the pre-Monday check. Make sure at least 2 sets of scrubs are clean and packed.\n\n**Card math**\n- 3 loads a week at about $3.50 is roughly $10.50, so one $20 reload covers about 2 weeks.\n- With about $11 left, you're good for this week. Reload when it dips under $4 so you never get stuck mid-cycle.\n- Tip: write the balance on a sticky note on the hamper after each trip.\n\nWant me to make it a printable checklist, or adjust it for the weeks you pick up an extra shift?"
+    },
+    {
+      "role": "user",
+      "text": "sunday one works. can u make it a checklist, short"
+    },
+    {
+      "role": "assistant",
+      "text": "**Laundry checklist**\n- Wed: scrubs + socks (towels/sheets every other week)\n- Thu: leftovers load, fold\n- Sun: final load, pack 2 clean scrub sets for Monday\n- After each trip: note card balance\n- Balance under $4: reload $20\n\nWant it as a fridge-ready version?"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "session_id": "elliot.s14",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot's parent group chat is Flats Little Readers",
+      "about": "kaitlyn",
+      "kind": "fact",
+      "item_id": "elliot.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's the Flats Little Readers chat",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is outgrowing size 1 diapers and Elliot needs size 2 soon",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w2.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo is outgrowing size 1 diapers and i need size 2 soon",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot orders diapers by delivery only and shops groceries in person at Ruiz Family Market on Saturdays",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "groceries i do in person at Ruiz Family Market on saturdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is outgrowing size 1 and Elliot will need size 2 soon",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w2.n02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Theo's outgrowing size 1 and I'll need size 2 soon.",
+      "support_quote": "theo is outgrowing size 1 diapers and i need size 2 soon"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f53",
+      "present": true,
+      "quote": "it's the Flats Little Readers chat"
+    },
+    {
+      "item_id": "elliot.w2.n02",
+      "present": true,
+      "quote": "theo is outgrowing size 1 diapers and i need size 2 soon"
+    },
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "groceries i do in person at Ruiz Family Market on saturdays"
+    }
+  ],
+  "sensitive": []
+}

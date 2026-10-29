@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s40",
+  "principal": "arjun",
+  "start": "2025-10-07T23:13:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hey, kestrel cold chain phone screen is tomorrow. regional 3PL. can you list the structure of a 30 min recruiter screen and the common questions? like a long list pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Typical 30-minute recruiter screen for a 3PL internship:\n\n**Structure**\n1. Intro and small talk (2-3 min)\n2. \"Tell me about yourself\" (3-4 min)\n3. Why this company / why logistics (5 min)\n4. Background and experience questions (8-10 min)\n5. Behavioral questions (5-8 min)\n6. Logistics: availability, location, pay expectations, timeline (3 min)\n7. Your questions for them (3-5 min)\n\n**Common questions**\n- Tell me about yourself.\n- Why are you interested in this internship?\n- Why Kestrel / why third-party logistics?\n- What do you know about cold chain (temperature-controlled shipping)?\n- Walk me through a project from your coursework.\n- Tell me about a time you worked on a team and hit a conflict.\n- Tell me about a time you handled a tight deadline.\n- Describe a time you spotted a process problem and fixed it.\n- How do you prioritize multiple tasks?\n- What experience do you have with Excel or data analysis?\n- What's your availability for summer 2026?\n- Are you able to work on-site? Any location limits?\n- What are your pay expectations?\n- What are your career goals?\n- What's a weakness?\n- Do you have other offers or interviews in progress?\n\n**Questions to ask them**\n- What does a typical day look like for an intern?\n- What projects have past interns worked on?\n- What are the next steps and timeline?\n\nWant a short answer framework for the behavioral ones?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls but keep it short. i'll read it on the train tmrw, im on the 6:48 now since the 7:02 kept running late"
+    },
+    {
+      "role": "assistant",
+      "text": "Reading on the train works well for this.\n\n**Behavioral answers (STAR, about 60-90 sec)**\n- Situation: one sentence\n- Task: what you were responsible for\n- Action: 2-3 specific things YOU did\n- Result: a number if possible, plus what you learned\n\n**Tell me about yourself (about 60 sec)**\n- Present: your major and year\n- Past: one project or experience that points to logistics\n- Future: why this role is the next step\n\n**Why Kestrel**\n- One fact about the company or cold chain\n- One skill of yours that fits\n- One thing you want to learn\n\nThere's also a good way to cover the questions you'll get: I can play the recruiter and ask them one at a time while you answer out loud, then give feedback. Want to try a quick round?"
+    },
+    {
+      "role": "user",
+      "text": "nah ill just read thru it, thx. unrelated, quick excel q. my sister got behind on wedding planning so i said id build her vendor comparison sheet. how do i rank vendors by total price"
+    },
+    {
+      "role": "assistant",
+      "text": "No problem, we can skip the practice. The list is solid for reading.\n\nFor ranking vendors by total price:\n\n1. Put each vendor's total in one column, say column D (D2 down).\n2. In E2, type: =RANK(D2,$D$2:$D$20,1)\n   The 1 ranks lowest price first. Use 0 for highest first.\n3. Drag the formula down.\n\nTo sort the table by that rank, use Data > Sort and choose column E.\n\nIf each vendor has several line items (deposit, tax, service fee), add a Total column first with =SUM(B2:C2) and rank that instead. For a comparison sheet, you can also add a \"Notes\" column and a score column, and use conditional formatting to highlight the cheapest option.\n\nGood luck on the call tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s37",
+  "principal": "elliot",
+  "start": "2025-10-06T21:40:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:40 pm update: theo finally did all three naps in the crib today. 9, 12:30 and 4, with 90-minute wake windows, no contact napping on me at all. scoreboard: dad 1, naps 3. i'd really like to protect this through the weekend. can you give me a plan to keep it consistent? in table form if possible, i think better in tables"
+    },
+    {
+      "role": "assistant",
+      "text": "Congratulations, three crib naps in one day is a real win. Here's a plan to protect it through the weekend.\n\n| Time | What | Notes |\n|---|---|---|\n| Wake-up | Feed, diaper, play | Note the exact wake time and count 90 minutes from it |\n| ~8:30 | Start wind-down | Dim lights, sleep sack, white noise, same short phrase or song |\n| ~9:00 | Nap 1 (crib) | Same room and same setup every time |\n| ~10:30 | Wake, feed, play | Daylight and floor time |\n| ~12:00 | Wind-down | Same routine, shorter |\n| ~12:30 | Nap 2 (crib) | |\n| ~2:00 | Wake, feed, play | Short outing or walk if you can |\n| ~3:30 | Wind-down | |\n| ~4:00 | Nap 3 (crib) | Cap it around 45-60 min so bedtime isn't pushed too far |\n\nWeekend tips:\n- Treat the wake windows as the anchor, not the clock. If he wakes early from a nap, adjust the next nap by the same amount.\n- Keep the setup identical when other people are around: same crib, same sound, same wind-down.\n- If you're out, a stroller or carrier nap is fine for one slot. Get back to the crib for the next one.\n- Don't switch everything at once. Hold it for a few days before changing anything.\n\nWant me to add the evening and bedtime piece?"
+    },
+    {
+      "role": "user",
+      "text": "yes please. the witching hour is the part i'm worried about, it runs roughly 5-8 and tonight was rough. how should bedtime fit after the 4 o'clock nap? also humming the slowed-down ballpark organ tune is what finally calmed him tonight. can i make that part of the routine or is that a bad idea"
+    },
+    {
+      "role": "assistant",
+      "text": "Humming the tune is a great idea. A consistent sound cue helps babies link it with winding down, and it's free and portable. Use it at the start of every nap wind-down and again at bedtime, so it means sleep rather than just rescue mode.\n\nHere's how the evening can fit after a 4:00 nap:\n\n| Time | What | Notes |\n|---|---|---|\n| ~4:00-5:00 | Nap 3 | Wake him by 5:00 at the latest |\n| ~5:00-6:30 | Witching hour, first half | Stroller walk, carrier, dim lights, hum the tune, avoid new stimulation |\n| ~6:30-7:00 | Feed | A fuller feed here can help with the evening fussiness |\n| ~7:00-7:30 | Bedtime routine | Bath or wipe-down, pajamas, sleep sack, white noise, tune |\n| ~7:30-8:00 | Down for the night | Aim to put him down drowsy but awake |\n\nNotes:\n- With a 90-minute wake window, waking at 5:00 puts him ready for sleep around 6:30. Bedtime between 7:00 and 8:00 should fit the pattern.\n- If the fussing runs past 8, a short soothing session with the tune is better than a long carry. You can then set him in the crib.\n- Evening crying is common at this age and usually passes on its own. If it's intense, doesn't ease at all, or you're worried, call his pediatrician.\n- Don't be discouraged if a day goes off-script. One bad evening doesn't undo the schedule.\n\nWould you like a one-page checklist version you can keep on the fridge?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also one thing, i need to answer that email during the 9 am nap tomorrow, so can you work that into the morning part so i don't skip the wind-down? typing one-handed sorry"
+    },
+    {
+      "role": "assistant",
+      "text": "No apology needed. Here's the fridge version with the email built in.\n\n**Daily Crib Nap Checklist**\n\n**Morning**\n- [ ] Log the wake time and count 90 minutes\n- [ ] ~8:30: Start wind-down (dim lights, sleep sack, white noise, hum the tune)\n- [ ] ~9:00: Nap 1 in the crib\n- [ ] ~9:05: Leave the room and open the email. Timebox it to 20-25 minutes, and set a phone timer so you're not tempted to stretch it\n- [ ] ~10:30: He wakes, so feed and play\n\n**Midday**\n- [ ] ~12:00: Wind-down\n- [ ] ~12:30: Nap 2 in the crib\n- [ ] ~2:00: Wake, feed, outing or walk\n\n**Afternoon/Evening**\n- [ ] ~3:30: Wind-down\n- [ ] ~4:00: Nap 3 in the crib, wake by 5:00\n- [ ] 5:00-6:30: Witching hour tactics (walk, carrier, dim lights, hum the tune)\n- [ ] ~6:30: Fuller feed\n- [ ] ~7:00: Bedtime routine\n- [ ] ~7:30-8:00: Down for the night\n\n**Rules for the weekend**\n- Anchor to wake windows, not the clock\n- Same setup and cue every time\n- One carrier or stroller nap is okay, then back to the crib\n\nFor the email, the nap is the time to write a short, clear reply. Draft the key points beforehand so it doesn't eat the whole nap. If you want, paste it here and I can help tighten it."
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "session_id": "linh.s50",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "The practical is tomorrow morning at 9",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok the practical is tomorrow morning at 9",
+      "support_quote": ""
+    },
+    {
+      "text": "Reviews a 600-card anatomy deck on breaks",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ive been going thru my 600 card anatomy deck on breaks",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses green for nerves in her notes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "green pls to match my notes",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants short bullet answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long just bullets pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants a timed plan",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yes pls w times.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says green matches her notes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I've marked each line with a green square to match your notes",
+      "support_quote": "green pls to match my notes"
+    },
+    {
+      "text": "The practical is tomorrow",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck at the practical tomorrow",
+      "support_quote": "ok the practical is tomorrow morning at 9"
+    },
+    {
+      "text": "She can study 7 to 10 tonight",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Here's a plan for 7 to 10 tonight:",
+      "support_quote": "i can study from like 7 to 10"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.r01",
+      "present": true,
+      "quote": "ok the practical is tomorrow morning at 9"
+    },
+    {
+      "item_id": "linh.f24",
+      "present": true,
+      "quote": "ive been going thru my 600 card anatomy deck on breaks"
+    },
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "green pls to match my notes"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "too long just bullets pls"
+    }
+  ],
+  "sensitive": []
+}

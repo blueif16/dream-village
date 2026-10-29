@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s05",
+  "principal": "noemi",
+  "start": "2025-08-29T12:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you edit this text to my mom. i fixed her printer this morning and i want it to sound less like a lecture. i'm the unofficial IT for my parents' phones and printer lol. text is going to the fourplex group chat off vinca so my dad will see it too. also grabbing taqueria colima tacos on the way to shift so need it quick\n\n\"printer's fixed. the problem was the driver was outdated which i told you last time. you need to update it every few months or it will keep doing this. i'm not going to keep coming over to fix it. click the update button when it pops up\""
+    },
+    {
+      "role": "assistant",
+      "text": "Quick fix: keep the good news first and make the driver tip sound like a favor instead of a warning. Here's an edit:\n\n\"Printer's fixed! It was just an outdated driver. When a little update pop-up shows up on the computer, go ahead and click Update. It takes a minute and keeps the printer happy. If it ever acts up again, text me a photo of the screen and I'll walk you through it.\"\n\nIf you want it even shorter:\n\n\"Printer's working again! Next time an update pop-up shows up, just click Update and it should stay that way. Text me if anything looks weird.\"\n\nEnjoy the tacos!"
+    },
+    {
+      "role": "user",
+      "text": "ty the second one is gg. can you add a line so my dad knows too, in case he's the one using it"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's the short version with a line for your dad:\n\n\"Printer's working again! Next time an update pop-up shows up, just click Update and it should stay that way. Text me if anything looks weird. Dad, that goes for you too if you're the one printing.\"\n\nWant a version in a different tone, or is that good to send?"
+    },
+    {
+      "role": "user",
+      "text": "good to send ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Hope the shift goes smoothly!"
+    }
+  ]
+}

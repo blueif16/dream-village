@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s68",
+  "principal": "arjun",
+  "start": "2025-11-05T22:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok harrowgate emailed today, second round video interview nov 18. sunita's referral is what got me in so i lowkey dont wanna mess this up for her"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats, that's a big step, and it's great the referral paid off. Wanting to do right by her is a good motivator. To build a plan that fits, what else is on your plate between now and the 18th? Any fixed commitments I should work around?"
+    },
+    {
+      "role": "user",
+      "text": "case comp on nov 8 at bayshore, team of 4. also i have a standing tuesday 3pm mock interview with lena so want to build around that. i need a list of likely questions written out and a research checklist on harrowgate first pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a 13-day plan built around the case comp on Nov 8 and your Tuesday 3 p.m. mock sessions (Nov 11 and Nov 18, though the 18th is interview day, so treat the 11th as your last full mock).\n\n**Nov 5-7 (before case comp): light, written prep**\n- Research checklist: company history and size, services and lanes, customers, recent news, leadership, competitors, the internship role's likely projects, 3 terms from the job description you should be able to explain\n- Draft the question list:\n  - Tell me about yourself\n  - Why Harrowgate / why this role\n  - A project where you used data to improve a process\n  - Teamwork conflict\n  - A time you missed something or failed\n  - How you prioritize competing deadlines\n  - A basic ops scenario (e.g., a late shipment, a bottleneck)\n  - Your questions for us\n- Keep it to about 45 minutes a night; the case comp comes first.\n\n**Nov 8: case comp.** No interview prep. Rest afterward.\n\n**Nov 9-10: turn notes into answers**\n- Write bullet answers (not scripts) for each question, using situation/action/result\n- Pick 3 stories you can reuse\n- Prepare 4-5 questions to ask them\n\n**Nov 11: Lena mock (3 p.m.)**\n- Bring your question list and ask her to run it cold and give feedback on pacing and clarity\n\n**Nov 12-14: speak it out loud**\n- Answer each question aloud, timed, about 90 seconds each. Record yourself on your phone and listen back once. This is the part people skip, but it's what makes written answers come out smoothly on camera.\n- Tech check: camera, mic, lighting, background, and a stable connection\n\n**Nov 15-16: polish**\n- Do a second spoken run-through of your weakest 3 answers\n- Pick your outfit and have it ready\n\n**Nov 17: light day**\n- Skim your research notes, read your story bullets once, sleep early\n\n**Nov 18: interview day**\n- Log in 10 minutes early with notes nearby, water, and your questions ready\n- Send a short thank-you email that evening\n\nWant me to draft the question list and research checklist in full now?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. and the spoken stuff can wait til after i have the written answers done, thx"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds fine, though I'd keep at least a few spoken run-throughs in the schedule, since answers that read well on paper can feel different out loud. Here's the first piece.\n\n**Research checklist for Harrowgate**\n- [ ] Company overview: what they do, size, locations, years in business\n- [ ] Services and customers: who they move freight or goods for\n- [ ] Recent news, press releases, expansions\n- [ ] Their LinkedIn page and the people interviewing you\n- [ ] The internship description: list the 5 main tasks and match each to something you've done\n- [ ] Key terms to be able to explain (pull them from the job description)\n- [ ] Competitors and what sets Harrowgate apart\n- [ ] Your 4-5 questions for them\n\n**Likely question list**\n1. Tell me about yourself\n2. Why Harrowgate, and why logistics?\n3. Walk me through a project where you used data to improve a process\n4. Describe a time you disagreed with a teammate\n5. Tell me about a mistake and what you changed\n6. How do you prioritize when everything is due at once?\n7. A shipment is late and the customer is calling: what do you do?\n8. How would you find a bottleneck in a warehouse flow?\n9. What do you want to learn this summer?\n10. What questions do you have for us?\n\nSend me your answers as you write them and I can tighten them, and when you're ready I can play the interviewer and ask follow-ups one at a time."
+    },
+    {
+      "role": "user",
+      "text": "perfect, thx"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck with the case comp on the 8th, and ping me when you have answers to review."
+    }
+  ]
+}

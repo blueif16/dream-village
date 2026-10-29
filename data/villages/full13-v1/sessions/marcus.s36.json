@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s36",
+  "principal": "marcus",
+  "start": "2025-11-07T07:19:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u explain t-test vs z-test. my stats grade just came up to a C+ after the wednesday 12:30 tutoring center sessions lol. was a D after the first two quizzes so im trying to keep climbing"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work climbing from a D to a C+, that's real progress. Here's the short version:\n\n**z-test:** use it when you know the population standard deviation (σ), or when your sample is very large. Test statistic: z = (x̄ − μ₀) / (σ/√n)\n\n**t-test:** use it when you don't know σ and have to estimate it with the sample standard deviation (s). Test statistic: t = (x̄ − μ₀) / (s/√n). It uses the t distribution, which has fatter tails for small samples, and the degrees of freedom are n − 1.\n\nRule of thumb: in real life you almost never know σ, so you'll use a t-test most of the time. As n gets big, t and z give nearly the same answer.\n\nWant a couple practice problems?"
+    },
+    {
+      "role": "user",
+      "text": "yeah. also that C+ gets me closer to holt's number so i wanna keep it going. and i want extra reps to use before the next tutoring session"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan. Here are four reps. Decide t or z first, then solve.\n\n1. A cereal company says boxes average 500 g, and the population standard deviation is known to be 8 g. You weigh 40 boxes and get a mean of 497 g. Test at α = 0.05 (two-tailed).\n\n2. You sample 12 gym members and find their mean deadlift is 310 lb with a sample SD of 25 lb. A magazine claims the average is 300 lb. Test at α = 0.05.\n\n3. A bus line claims a mean wait of 10 minutes. You time 15 waits: mean 12.4, s = 3.1. Is the wait longer than claimed? (one-tailed, α = 0.05)\n\n4. A machine fills bottles with a known σ of 2 mL. A sample of 50 bottles has a mean of 355.6 mL, and the target is 355 mL. Test at α = 0.01.\n\nAnswers to check:\n1. z, z ≈ −3.16, reject H₀\n2. t, df = 11, t ≈ 1.39, fail to reject\n3. t, df = 14, t ≈ 3.0, reject H₀\n4. z, z ≈ 2.12, fail to reject at 0.01\n\nTry them first and tell me where you get stuck."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. ill do these before wednesday. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Work through them in order, and if any step trips you up, bring it back and we'll walk through it. Good luck keeping that grade climbing."
+    }
+  ]
+}

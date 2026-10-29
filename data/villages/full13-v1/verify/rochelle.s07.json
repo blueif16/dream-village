@@ -1,0 +1,143 @@
+{
+  "session_id": "rochelle.s07",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "owes Keisha $300 for textbooks from August",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i owe keisha $300 for textbooks from august",
+      "support_quote": ""
+    },
+    {
+      "text": "hides the debt from Andre, who looks at the fridge poster",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "but dont put it on the poster itself, andre looks at that fridge",
+      "support_quote": ""
+    },
+    {
+      "text": "family uses a paper wall calendar on the fridge with a color pen per person",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we do a paper wall calendar on the fridge with a color pen per person",
+      "support_quote": ""
+    },
+    {
+      "text": "checking account at a credit union ending 4417",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its the credit union one ending 4417, the full number is on my calendar already",
+      "support_quote": ""
+    },
+    {
+      "text": "Denny's map is her four-semester plan through spring 2027",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "build it around denny's map from my meeting this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "four-semester plan through spring 2027",
+      "about": "denny",
+      "kind": "fact",
+      "item_id": "rochelle.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "4 semesters thru spring 2027 ok",
+      "support_quote": ""
+    },
+    {
+      "text": "drives Loretta to the pharmacy Tuesdays at 3:30, clashing with study group",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i keep missing it bc i drive loretta to the pharmacy tue 3:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Andre works days at Ridgeline 6-2:30",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": "cast.f76",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "andre days at ridgeline 6-2:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle pays Keisha back in cash so nothing shows on the joint account",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.w2.n02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Pay in cash from small amounts you set aside, so nothing shows on the joint account.",
+      "support_quote": "can the poster have a little way to track paying her back in small amounts?"
+    },
+    {
+      "text": "Rochelle owes $300",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f47",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "with $300 at the top",
+      "support_quote": "i owe keisha $300 for textbooks from august"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.i06",
+      "present": true,
+      "quote": "but dont put it on the poster itself, andre looks at that fridge"
+    },
+    {
+      "item_id": "rochelle.r04",
+      "present": true,
+      "quote": "build it around denny's map from my meeting this morning"
+    },
+    {
+      "item_id": "rochelle.f57",
+      "present": true,
+      "quote": "4 semesters thru spring 2027 ok"
+    },
+    {
+      "item_id": "rochelle.f33",
+      "present": true,
+      "quote": "we do a paper wall calendar on the fridge with a color pen per person and i want the poster to match that"
+    },
+    {
+      "item_id": "rochelle.f46",
+      "present": true,
+      "quote": "its the credit union one ending 4417, the full number is on my calendar already"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "its the credit union one ending 4417, the full number is on my calendar already",
+      "assistant_quote": ""
+    }
+  ]
+}

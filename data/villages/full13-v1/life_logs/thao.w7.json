@@ -1,0 +1,310 @@
+{
+  "principal": "thao",
+  "week": 7,
+  "entries": [
+    {
+      "id": "thao.w7.l01",
+      "date": "2025-10-06",
+      "what": "Thao worked her Monday night shift on 4 West at St. Anselm, a fourth-night go-live week stretch ending soon. Before leaving she came home to unit 207 and found the kitchen wrecked from Tomás's first week of living there: pots, chili pot soaking, dishes everywhere.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "Asked the assistant for a fast cleaning order and blitzed the kitchen in 20 minutes before sleeping.",
+      "feeling": "irritated but efficient",
+      "facts": [
+        "thao.f03",
+        "thao.f46",
+        "thao.f19"
+      ],
+      "impressions": [
+        "thao.i05"
+      ]
+    },
+    {
+      "id": "thao.w7.l02",
+      "date": "2025-10-06",
+      "what": "Parked in the gravel overflow lot and took the nurse shuttle up Ortega Hill for the 7 p.m. shift; Jasmine and Rubén were on the floor with her.",
+      "with": [
+        "jasmine",
+        "ruben"
+      ],
+      "outcome": "Quiet night with steady charting.",
+      "feeling": "steady",
+      "facts": [
+        "thao.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l03",
+      "date": "2025-10-07",
+      "what": "Came home after the night shift, slept with blackout curtains and the box fan, then did a Ruiz Family Market run on Tuesday afternoon for fish sauce and produce.",
+      "with": [],
+      "outcome": "Stocked the fridge and counted the savings goal.",
+      "feeling": "tired but organized",
+      "facts": [
+        "thao.f06",
+        "thao.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l04",
+      "date": "2025-10-07",
+      "what": "Worked another night on 4 West with a thermos of cà phê sữa đá, eating leftover rice at 2 a.m.",
+      "with": [
+        "jasmine"
+      ],
+      "outcome": "Got through the shift without incident.",
+      "feeling": "steady",
+      "facts": [
+        "thao.f11",
+        "thao.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l05",
+      "date": "2025-10-08",
+      "what": "Post-shift morning, Thao got home as Tomás was leaving for work and noticed his things crowding her fridge shelves. She had the assistant look up how to label fridge shelves so he gets his own space.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "Planned labeled shelves instead of confronting him.",
+      "feeling": "mildly annoyed, kind",
+      "facts": [
+        "thao.f45"
+      ],
+      "impressions": [
+        "thao.i04"
+      ]
+    },
+    {
+      "id": "thao.w7.l06",
+      "date": "2025-10-08",
+      "what": "Slept until mid-afternoon; the candidate forum on Measure K and warehouses was happening at the community center but she skipped it and read headlines on her phone.",
+      "with": [],
+      "outcome": "Stayed home and prepped her bag.",
+      "feeling": "low-key",
+      "facts": [
+        "thao.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l07",
+      "date": "2025-10-08",
+      "what": "Evening on 4 West; Maribel mentioned the union vote again during handoff.",
+      "with": [
+        "maribel"
+      ],
+      "outcome": "Thao nodded and changed the subject.",
+      "feeling": "uneasy",
+      "facts": [
+        "thao.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l08",
+      "date": "2025-10-09",
+      "what": "Slept after the shift, then walked the Ulloa marsh boardwalk loop in the afternoon.",
+      "with": [],
+      "outcome": "Cleared her head before an off night.",
+      "feeling": "calm",
+      "facts": [
+        "thao.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l09",
+      "date": "2025-10-09",
+      "what": "Evening off; Tomás cooked an enormous pot of chili and left the pot soaking.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "She ate and let the pot slide.",
+      "feeling": "amused",
+      "facts": [
+        "thao.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l10",
+      "date": "2025-10-09",
+      "what": "Let a Hạnh voicemail in Vietnamese join the pile and texted Linh instead.",
+      "with": [
+        "hanh",
+        "linh"
+      ],
+      "outcome": "Voicemail unplayed.",
+      "feeling": "guilty, avoidant",
+      "facts": [
+        "thao.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l11",
+      "date": "2025-10-10",
+      "what": "Friday night shift on 4 West; Dr. Mehta paged twice and apologized both times.",
+      "with": [
+        "nikhil",
+        "jasmine"
+      ],
+      "outcome": "Handled both pages smoothly.",
+      "feeling": "steady",
+      "facts": [
+        "thao.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l12",
+      "date": "2025-10-10",
+      "what": "Came home at 8 a.m. as Walter's note about Tomás's truck was on the door.",
+      "with": [
+        "walter"
+      ],
+      "outcome": "Pocketed it and went to sleep.",
+      "feeling": "too tired to care",
+      "facts": [
+        "thao.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l13",
+      "date": "2025-10-11",
+      "what": "Slept until afternoon, then wanted a quick dinner and asked the assistant for a recipe in 5 lines max.",
+      "with": [],
+      "outcome": "Made it and ate on the couch.",
+      "feeling": "impatient, fed",
+      "facts": [],
+      "impressions": [
+        "thao.i06"
+      ]
+    },
+    {
+      "id": "thao.w7.l14",
+      "date": "2025-10-11",
+      "what": "Reloaded the laundry card $20 and did a load in the Marisol Gardens laundry room.",
+      "with": [],
+      "outcome": "Clean scrubs for the week.",
+      "feeling": "productive",
+      "facts": [
+        "thao.f34",
+        "thao.f42"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l15",
+      "date": "2025-10-11",
+      "what": "Texted Linh about her coming anatomy practical and sent encouragement.",
+      "with": [
+        "linh"
+      ],
+      "outcome": "Linh replied with a thumbs up.",
+      "feeling": "protective",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l16",
+      "date": "2025-10-12",
+      "what": "Sunday morning she rested; Tomás was out, and the faucet stayed fixed.",
+      "with": [
+        "tomas"
+      ],
+      "outcome": "Quiet household.",
+      "feeling": "relaxed",
+      "facts": [
+        "thao.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l17",
+      "date": "2025-10-12",
+      "what": "Went to Hạnh's Pell Road house for Sunday dinner, where Hạnh asked about Linh's pharmacy plans.",
+      "with": [
+        "hanh",
+        "linh"
+      ],
+      "outcome": "Thao steered the talk elsewhere and heard that Andre Simmons' overtime shifts at Ridgeline were now ten hours, via town gossip.",
+      "feeling": "tense but warm",
+      "facts": [
+        "thao.f35",
+        "cast.f77"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w7.l18",
+      "date": "2025-10-12",
+      "what": "Prepped her bag and thermos for Monday night.",
+      "with": [],
+      "outcome": "Ready for the week.",
+      "feeling": "ready",
+      "facts": [
+        "thao.f11"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "thao.w7.n01",
+      "subject": "thao",
+      "attribute": "fridge_labels",
+      "value": "plans labeled fridge shelves so Tomás has his own",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w7.n02",
+      "subject": "tomas",
+      "attribute": "first_week_mess",
+      "value": "left chili pot and dishes piled in the kitchen his first week",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w7.n03",
+      "subject": "thao",
+      "attribute": "weeknight_dinner",
+      "value": "eggs and rice is her quick dinner",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w7.n04",
+      "subject": "thao",
+      "attribute": "laundry_reload",
+      "value": "reloaded laundry card $20 on Oct 11",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w7.n05",
+      "subject": "thao",
+      "attribute": "missed_forum",
+      "value": "skipped the Oct 8 candidate forum",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

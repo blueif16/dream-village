@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s31",
+  "principal": "isabel",
+  "start": "2025-10-25T16:35:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "whats a good net price calculator result look like for out of state engineering schools. and how do i find each schools calculator. no fluff"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Finding each calculator:** Search \"[school name] net price calculator\" or look on the school's financial aid or admissions page. Every college that takes federal aid is required to post one. They usually take 10-15 minutes and ask for household income, assets, and sometimes parent info. Have last year's tax return handy.\n\n**What a \"good\" result looks like:**\n- Compare the net price (cost of attendance minus grants and scholarships), not the sticker price.\n- Check that the result includes tuition, housing, food, books and travel. Some calculators only show tuition and fees.\n- Out-of-state public schools often give little or no grant aid, so net price may be close to sticker. Private schools with big endowments often give far more, so their net price can come in below a public school's.\n- Look for whether the aid is grants (free) or loans and work-study (not free). Only count grants.\n- A result is \"good\" if it's something your family can realistically cover each year, for all four years.\n\nWant me to set up a comparison table you can fill in per school?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. its for the mom sheet, needs to be in a format grace will actually take seriously"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a one-page layout, rubric-style so it reads as organized and checkable:\n\n| School | Type (public/private) | Sticker COA | Est. grants | Net price/yr | 4-yr total | Loans needed | Calculator link | Date run |\n|---|---|---|---|---|---|---|---|---|\n\nBelow the table:\n1. **Assumptions:** income and assets figures you used, and that every school was run with the same inputs.\n2. **Net price range:** lowest and highest across schools.\n3. **Notes:** things calculators miss, like travel home, winter clothing, and whether aid is guaranteed for four years.\n4. **Bottom line:** two or three sentences on which schools are realistic and why.\n\nTips for credibility: run every calculator with the same numbers, cite the page you used, and mark estimates as estimates. Do you want it grouped by school type? How many schools are on the list?"
+    },
+    {
+      "role": "user",
+      "text": "12 now. 6 out of state, 4 UC, and bayshore state and one in state polytechnic as safeties. so group it like that"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a version grouped that way:\n\n**Section A: Out-of-state (6 schools)**\nFull columns, since these need the most scrutiny. Add a row at the end for the average net price.\n\n**Section B: UC campuses (4 schools)**\nUCs share a similar cost structure, so you could use the UC-wide calculator to speed this up, plus the campus-specific figures for housing.\n\n**Section C: Safeties (Bayshore State and the in-state polytechnic)**\nThese are your baseline. Put them first or highlight them so the comparison shows how much extra the out-of-state schools cost over a safe option.\n\nAdd a summary row per section: lowest net price, highest net price, and difference from the safeties. That difference is the number that makes the argument. Do you also want a small cost-of-applying section?"
+    },
+    {
+      "role": "user",
+      "text": "yeah. i got a fee waiver for the sat but wont get app fee waivers at most private schools so fees matter. ive saved 160, how many apps does that cover"
+    },
+    {
+      "role": "assistant",
+      "text": "The answer depends on each school's fee. Typical ranges:\n- Many public schools: roughly $50-$80\n- Many private schools: roughly $60-$90\n\nWith $160, that's about 2 applications at $75-$80 each, or 3 at around $50-$53. Twelve schools would likely cost well over $160 in total, so check your list for any that do offer fee waivers (some publics do, and many schools waive fees on request or for campus visits or fee-free application days).\n\nFor the sheet, add an \"App fee\" column and a running total at the bottom: total fees, savings of $160, and the gap. Then list which schools are waived or still need a waiver request. Want me to add that to the template?"
+    },
+    {
+      "role": "user",
+      "text": "yes. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Added. Final columns: School | Type | Sticker COA | Est. grants | Net price/yr | 4-yr total | Loans needed | App fee | Waiver status | Calculator link | Date run. Totals row: net price range per section, total app fees, $160 saved, remaining gap. Good luck with the numbers."
+    }
+  ]
+}

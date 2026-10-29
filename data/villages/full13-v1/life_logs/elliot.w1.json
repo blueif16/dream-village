@@ -1,0 +1,367 @@
+{
+  "principal": "elliot",
+  "week": 1,
+  "entries": [
+    {
+      "id": "elliot.w1.l01",
+      "date": "2025-08-25",
+      "what": "Elliot logs Theo's overnight feeds in the spreadsheet, then does the morning feed and a contact nap at unit 209 while the Vinca school traffic hums outside.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Spreadsheet updated; Theo napped on him for 40 minutes.",
+      "feeling": "tired but organized",
+      "facts": [
+        "elliot.f02",
+        "elliot.f09",
+        "elliot.f15"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l02",
+      "date": "2025-08-25",
+      "what": "Hana and Elliot split the afternoon. He does laundry at the card-only room downstairs and orders groceries by app.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Diapers and oat milk ordered for tomorrow.",
+      "feeling": "efficient",
+      "facts": [
+        "elliot.f21",
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l03",
+      "date": "2025-08-25",
+      "what": "Takeout dinner, then the evening crying stretch with Theo, ending with Elliot humming the slowed-down ballpark tune.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Theo calmed by 8 p.m.",
+      "feeling": "worn out, proud",
+      "facts": [
+        "elliot.f41",
+        "elliot.f42",
+        "elliot.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l04",
+      "date": "2025-08-26",
+      "what": "Elliot wakes for the 2 a.m. feed and logs it, then catches up on the log and starts a new tab for incidents.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Log now has an incidents tab.",
+      "feeling": "methodical",
+      "facts": [
+        "elliot.f56",
+        "elliot.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l05",
+      "date": "2025-08-26",
+      "what": "Mid-morning stroller trip to the mailbox and a few puzzle pieces on the lighthouse jigsaw during the nap.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Two pieces placed; nap lasted only 35 minutes.",
+      "feeling": "small win",
+      "facts": [
+        "elliot.f34",
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l06",
+      "date": "2025-08-26",
+      "what": "Evening baby laundry run at Marisol Gardens, then pho takeout from Phở Bến Thành with Hana.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Clean onesies folded, dinner eaten warm for once.",
+      "feeling": "content",
+      "facts": [
+        "elliot.f38",
+        "elliot.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l07",
+      "date": "2025-08-27",
+      "what": "The first 100-degree day. Elliot asks the assistant for a heat-wave checklist with room temperatures and onesie layers per degree, and sets up fans in the nursery corner.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Checklist taped to the fridge.",
+      "feeling": "anxious but prepared",
+      "facts": [
+        "elliot.f09"
+      ],
+      "impressions": [
+        "elliot.i01"
+      ]
+    },
+    {
+      "id": "elliot.w1.l08",
+      "date": "2025-08-27",
+      "what": "Keeps blinds closed, gives Theo extra feeds and logs diaper counts to watch hydration.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Diaper count normal.",
+      "feeling": "vigilant",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l09",
+      "date": "2025-08-27",
+      "what": "Evening fussing worsens in the heat; Hana and Elliot take turns walking the hallway.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Theo asleep at 9 after a lukewarm bath.",
+      "feeling": "drained",
+      "facts": [
+        "elliot.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l10",
+      "date": "2025-08-28",
+      "what": "Elliot reports the leaking bathroom faucet in 209 to the Marisol Gardens office and gets a vague promise from Gloria.",
+      "with": [
+        "gloria"
+      ],
+      "outcome": "Ticket opened, no repair date.",
+      "feeling": "mildly irritated",
+      "facts": [
+        "elliot.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l11",
+      "date": "2025-08-28",
+      "what": "Heat wave day two. Takes Theo to the library cooling center for an hour of air conditioning, then home for a nap.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Cooler hour, Theo slept in the stroller.",
+      "feeling": "relieved",
+      "facts": [
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l12",
+      "date": "2025-08-28",
+      "what": "Puts a damp towel under the bathroom sink drip and checks the monitor, which drops when the microwave runs.",
+      "with": [],
+      "outcome": "Reheated dinner by the stove instead.",
+      "feeling": "resigned",
+      "facts": [
+        "elliot.f32",
+        "elliot.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l13",
+      "date": "2025-08-29",
+      "what": "After a rough crying night heard through the shared wall, Elliot asks the assistant for wording for a sorry note and a pan dulce gift for unit 211.",
+      "with": [
+        "theo",
+        "walter"
+      ],
+      "outcome": "Note drafted; pan dulce planned for tomorrow.",
+      "feeling": "guilty, apologetic",
+      "facts": [
+        "elliot.f51"
+      ],
+      "impressions": [
+        "elliot.i06"
+      ]
+    },
+    {
+      "id": "elliot.w1.l14",
+      "date": "2025-08-29",
+      "what": "Midday heat; keeps Theo in a single layer with a fan and logs every nap, noting the longest was 50 minutes.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Log updated.",
+      "feeling": "steady",
+      "facts": [
+        "elliot.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l15",
+      "date": "2025-08-29",
+      "what": "Friday night baby laundry, then a quiet dinner with Hana on the couch.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Laundry done before the 9 p.m. fussing.",
+      "feeling": "calm",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l16",
+      "date": "2025-08-30",
+      "what": "First Saturday morning trip to Ruiz Family Market with Theo in the carrier. Elliot buys real groceries and orders only diapers for delivery from now on.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Switched from app delivery to a weekly market trip.",
+      "feeling": "accomplished",
+      "facts": [
+        "elliot.f21",
+        "elliot.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l17",
+      "date": "2025-08-30",
+      "what": "Leaves a pan dulce bag and the sorry note at 211's door in the heat.",
+      "with": [
+        "walter"
+      ],
+      "outcome": "No answer at the door.",
+      "feeling": "nervous",
+      "facts": [
+        "elliot.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l18",
+      "date": "2025-08-30",
+      "what": "Afternoon heat wave finale; Elliot unpacks groceries, puts the jigsaw aside and naps beside Theo.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Everyone got a nap.",
+      "feeling": "sleepy",
+      "facts": [
+        "elliot.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l19",
+      "date": "2025-08-31",
+      "what": "Elliot does the 2 a.m. feed and notes in the log that Theo woke again at 5 for Hana.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Log current.",
+      "feeling": "groggy",
+      "facts": [
+        "elliot.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l20",
+      "date": "2025-08-31",
+      "what": "Sunday morning eggs and oat milk, then a short stroller walk as the fog returns.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Cooler air; Theo slept the whole walk.",
+      "feeling": "refreshed",
+      "facts": [
+        "elliot.f36",
+        "elliot.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w1.l21",
+      "date": "2025-08-31",
+      "what": "Looks over the week's log numbers and plans Monday groceries, bracing for Brenda's emails.",
+      "with": [],
+      "outcome": "Short plan for next week written.",
+      "feeling": "planning, a little dreading",
+      "facts": [
+        "elliot.f02"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w1.n01",
+      "subject": "elliot",
+      "attribute": "heat_wave_tool",
+      "value": "printed heat-wave checklist taped to the fridge",
+      "valid_from": "2025-08-27",
+      "valid_to": "2025-08-31",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w1.n02",
+      "subject": "elliot",
+      "attribute": "market_purchase",
+      "value": "buys oat milk and bananas at Ruiz Family Market each Saturday",
+      "valid_from": "2025-08-30",
+      "valid_to": "2025-09-13",
+      "superseded_by": "elliot.w3.n03",
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w1.n03",
+      "subject": "elliot",
+      "attribute": "neighbor_gift",
+      "value": "left pan dulce and a sorry note for Walter in unit 211",
+      "valid_from": "2025-08-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w1.n04",
+      "subject": "theo",
+      "attribute": "longest_nap",
+      "value": "longest nap this week was 50 minutes, on Aug 29",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w1.n05",
+      "subject": "elliot",
+      "attribute": "cooling_plan",
+      "value": "uses the library cooling center during heat days",
+      "valid_from": "2025-08-28",
+      "valid_to": "2025-08-30",
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

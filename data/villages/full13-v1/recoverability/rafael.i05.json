@@ -1,0 +1,82 @@
+{
+  "impression_id": "rafael.i05",
+  "evidence_sessions": [
+    "rafael.s05",
+    "rafael.s08",
+    "rafael.s10",
+    "rafael.s12"
+  ],
+  "inferred": [
+    {
+      "statement": "Rafael is cautious about money risk and wants to limit his exposure, insisting on labor-only, no-cash terms with Dante's flipping scheme and checking licensing rules before committing.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s08",
+        "rafael.s12"
+      ]
+    },
+    {
+      "statement": "He tends to research and compare options before spending (three price quotes on the alternator, weeks comparing scan tools with a $700 cap), though he sometimes impulse-buys and second-guesses himself afterward.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s08",
+        "rafael.s10"
+      ]
+    },
+    {
+      "statement": "He is hands-on and self-reliant with cars, doing repairs himself and helping others for free, such as the alternator swap and Ximena's brakes.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s05"
+      ]
+    },
+    {
+      "statement": "He wants to handle conflict and obligations smoothly, paying back debts promptly and exiting deals quietly without making things awkward with friends like Dante.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s12"
+      ]
+    },
+    {
+      "statement": "He shares sensitive financial details (full account numbers) repeatedly for checking, showing low caution about personal data even after the assistant declines to repeat them.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s08",
+        "rafael.s10",
+        "rafael.s12"
+      ]
+    },
+    {
+      "statement": "He prefers short, practical, casual answers and responds warmly to concrete, ready-to-use help, using slang and thanks like 'bro' and 'helped fr'.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s08",
+        "rafael.s10",
+        "rafael.s12"
+      ]
+    },
+    {
+      "statement": "He is a conscientious student who studies in creative ways and doubts his own results, asking if a passing practice score was just luck, while balancing school with family work at the food stand.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s10",
+        "rafael.s12"
+      ]
+    },
+    {
+      "statement": "He often works on tasks late at night or in odd moments and apologizes for the hour, suggesting a busy, stretched schedule.",
+      "strength": "weak",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s12"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The reader portrayed Rafael as cautious and research-oriented with money, noting only occasional impulse buys as a minor caveat. No strong or moderate statement asserts he is generally careless with money, so the decoy was not generalized."
+}

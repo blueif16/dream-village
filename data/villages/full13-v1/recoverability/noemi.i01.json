@@ -1,0 +1,85 @@
+{
+  "impression_id": "noemi.i01",
+  "evidence_sessions": [
+    "noemi.s25",
+    "noemi.s30",
+    "noemi.s53",
+    "noemi.s63",
+    "noemi.s67",
+    "noemi.s75"
+  ],
+  "inferred": [
+    {
+      "statement": "Downplays her own contributions in writing, defaulting to soft verbs like 'helped' or 'supported' and insisting on keeping them even after the assistant points out they undersell her real scope.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s30",
+        "noemi.s67",
+        "noemi.s75"
+      ]
+    },
+    {
+      "statement": "Wants to get credit for her work on the record but only indirectly, asking for wording that reports facts without asking for anything or sounding pushy.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s53",
+        "noemi.s63",
+        "noemi.s30"
+      ]
+    },
+    {
+      "statement": "Prefers terse, paste-ready answers with minimal extras, often asking for 'tldr' versions and opening with 'quick q'.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s25",
+        "noemi.s30",
+        "noemi.s67",
+        "noemi.s75"
+      ]
+    },
+    {
+      "statement": "Is carrying extra unrecognized work (covering Greg's duties, vendor tickets passed from the acting lead) while waiting on a permanent desk lead decision, and is hedging by also applying for network tech roles elsewhere.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s53",
+        "noemi.s63",
+        "noemi.s67",
+        "noemi.s75"
+      ]
+    },
+    {
+      "statement": "Is working toward a network certification exam and gets discouraged when work and overtime push her plans back, yet keeps going with practical supports like a wall countdown chart.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s53"
+      ]
+    },
+    {
+      "statement": "Feels uneasy about overstating herself, such as being uncomfortable putting the lead coverage on her resume as her own work, and she wavers between claiming credit and playing it down.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s63",
+        "noemi.s30"
+      ]
+    },
+    {
+      "statement": "Has a demanding, tiring shift schedule and does her admin and job-search tasks late in the evening or in small time windows, so she needs quick, low-effort help.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s63",
+        "noemi.s67",
+        "noemi.s75"
+      ]
+    },
+    {
+      "statement": "Keeps tight control over what the assistant retains or says about coworkers, asking it to drop a prior negative remark about Victor.",
+      "strength": "weak",
+      "sessions": [
+        "noemi.s53"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Downplays her own contributions in writing, defaulting to soft verbs like 'helped' or 'supported' and insisting on keeping them even after the assistant points out they undersell her real scope.",
+  "rationale": "The reader's first two strong statements (downplaying contributions with soft verbs like 'helped', and seeking credit only indirectly via wording that reports facts without asking) directly capture undersells work and asks for recognition sideways."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "jun.s09",
+  "principal": "jun",
+  "start": "2025-09-11T21:14:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "boss can you write me a microfoam checklist for a new barista, step by step, to tape by the steam wand at the end of the bar. been on espresso bar three years so i know what good foam looks like, just need it written down properly. need it done before my opening shift at 6:15 tomorrow so keep it quick lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a checklist you can print and tape up:\n\n**MICROFOAM, STEP BY STEP**\n\n1. **Prep:** Cold milk, cold pitcher, filled just below the spout base. Wipe and purge the wand first.\n2. **Position:** Tip just under the surface, slightly off-center, so the milk starts to spin.\n3. **Stretch (3-5 sec):** Turn the wand on full. Listen for a soft paper-tearing hiss. A loud screech means the tip is too high; no sound means too deep.\n4. **Stop stretching** when the pitcher feels just warm. That's about 100°F, and the milk should have grown about 20-30%.\n5. **Roll:** Sink the tip deeper and keep the milk whirlpooling. This folds the bubbles in and makes it silky.\n6. **Stop at 140-150°F**, when the pitcher is hot but you can still hold it. Turn the wand off before you pull it out.\n7. **Clean:** Wipe the wand and purge it right away.\n8. **Fix it:** Tap the pitcher on the counter to pop big bubbles, then swirl until it looks like wet paint.\n\n**Check it:** The surface should be glossy with no visible bubbles. If it looks like dish soap, you stretched too long.\n\nWant me to add a section on pouring?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yeah. i want it to build up to pouring a tulip and a swan once the texture is right. and make it a little friendlier, its for a new person so it shouldnt feel scary"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a friendlier version with a pouring section:\n\n**YOUR FOAM GUIDE ☕**\n\n**Part 1: Get the texture right (nail this first!)**\n1. Start with cold milk in a cold pitcher, filled to just under the spout.\n2. Purge the wand, then put the tip just under the surface, slightly off-center.\n3. Turn it on and listen for a gentle tearing hiss. Stretch for about 3-5 seconds.\n4. When the pitcher feels just warm, sink the tip deeper and let the milk spin like a whirlpool.\n5. Stop when it's hot but still holdable, then turn the wand off first.\n6. Wipe and purge the wand, tap the pitcher, and swirl until it looks like glossy wet paint.\n\n**Part 2: Only when the texture is consistent (3 in a row)**\n7. **Tulip:** Pour from a bit of height until the cup is half full. Lower the pitcher close and wiggle to make white layers. Push forward through the middle to finish the stack.\n8. **Swan:** Start with a small rosetta wiggle at the back of the cup. Then slow down, curve the pour into a neck, and pull through for the head.\n\n**Remember:** Everyone makes soap bubbles at first. Just dump it, rinse, and try again. 💛\n\nWant a shorter version for the sign?"
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Good luck with the opening shift, and I hope the new barista picks it up quickly. Let me know if you want a shorter version for the sign."
+    }
+  ]
+}

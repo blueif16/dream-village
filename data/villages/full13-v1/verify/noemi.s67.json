@@ -1,0 +1,137 @@
+{
+  "session_id": "noemi.s67",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi is an IT support technician II on the RF-4 help desk",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm an IT support technician II on the RF-4 help desk at ridgeline",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi looks after about 620 handhelds, about 30 in the cage at peak",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i look after about 620 handhelds, the cage can hit like 30 at peak",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi does vendor tickets, RMAs and scheduling without the lead title",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also been doing vendor tickets, RMAs and scheduling w/o the lead title",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi wants her work phrased modestly to avoid sounding like bragging",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can you say that as like 'helped the team' so it doesn't sound like bragging",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi trims her own credit, dropping scheduling",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nah keep helped. maybe trim it more, the scheduling part feels like too much.",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi uses the term 'the cage'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the cage can hit like 30 at peak",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is an IT support technician II on the RF-4 help desk",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm an IT support technician II on the RF-4 help desk at Ridgeline",
+      "support_quote": "i'm an IT support technician II on the RF-4 help desk at ridgeline"
+    },
+    {
+      "text": "Noemi looks after about 620 handheld scanners",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a fleet of about 620 handheld scanners",
+      "support_quote": "i look after about 620 handhelds"
+    },
+    {
+      "text": "Noemi handles vendor tickets, RMAs and scheduling without the lead title",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "work you've been doing day to day",
+      "support_quote": "also been doing vendor tickets, RMAs and scheduling w/o the lead title"
+    },
+    {
+      "text": "Noemi has a shift tomorrow",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Get some rest before your shift.",
+      "support_quote": "closing later, shift tmrw"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f01",
+      "present": true,
+      "quote": "i'm an IT support technician II on the RF-4 help desk at ridgeline"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "i look after about 620 handhelds"
+    },
+    {
+      "item_id": "noemi.f32",
+      "present": true,
+      "quote": "also been doing vendor tickets, RMAs and scheduling w/o the lead title"
+    },
+    {
+      "item_id": "noemi.i01",
+      "present": true,
+      "quote": "can you say that as like 'helped the team' so it doesn't sound like bragging"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "the cage can hit like 30 at peak"
+    }
+  ],
+  "sensitive": []
+}

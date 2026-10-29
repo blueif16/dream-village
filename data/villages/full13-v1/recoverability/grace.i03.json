@@ -1,0 +1,79 @@
+{
+  "impression_id": "grace.i03",
+  "evidence_sessions": [
+    "grace.s05",
+    "grace.s08",
+    "grace.s11"
+  ],
+  "inferred": [
+    {
+      "statement": "Grace wants terse, structured answers (bullets, numbered steps, word limits, no preamble) and explicitly asks for shorter responses when they run long.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s05",
+        "grace.s08",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "She is the main caregiver for her mother, handling pills, prescriptions, glucose monitoring, billing paperwork and home safety, often squeezing it in around work late at night.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s05",
+        "grace.s08",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "She tends to handle her mother's care before her husband Ramón can weigh in, seeming to avoid his input or fussing and wanting things settled on her own terms.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s05",
+        "grace.s08"
+      ]
+    },
+    {
+      "statement": "She is a conscientious, overextended teacher who stays up late on prep and invests in students and compliance (extensions, makeup sessions, review games, inventory, safety gear) while feeling stretched thin.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s05",
+        "grace.s08",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "She wants precise, verifiable answers (exact wording, specific specs like D3 goggles) rather than approximations, and is unhappy with vagueness.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s05",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "She seeks validation or confirmation of her own judgments (e.g., that a student's lateness shows a pattern, that the SSN format is correct) and may lean toward asking for agreement.",
+      "strength": "weak",
+      "sessions": [
+        "grace.s05",
+        "grace.s08"
+      ]
+    },
+    {
+      "statement": "She downplays her own effort and gets little recognition, saying nobody will read her inventory, and mentions personal stresses (truck, repair quote, mother's fall) briefly and matter-of-factly without dwelling.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s05",
+        "grace.s11"
+      ]
+    },
+    {
+      "statement": "She handles sensitive family and communication tasks carefully, wanting to approach her mother without seeming to check up and to keep parent emails professional and concise without filler pleasantries.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s08"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "She tends to handle her mother's care before her husband Ramón can weigh in, seeming to avoid his input or fussing and wanting things settled on her own terms.",
+  "rationale": "The statement that she handles her mother's care before Ramón can weigh in, avoiding his input and wanting things settled on her own terms, rated moderate, captures the core pattern of caring for her mother as a private duty she keeps from Ramón."
+}

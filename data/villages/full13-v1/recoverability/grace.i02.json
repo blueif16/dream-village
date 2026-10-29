@@ -1,0 +1,85 @@
+{
+  "impression_id": "grace.i02",
+  "evidence_sessions": [
+    "grace.s04",
+    "grace.s06",
+    "grace.s10",
+    "grace.s12"
+  ],
+  "inferred": [
+    {
+      "statement": "Grace is under sustained financial strain and keeps weighing every large spending decision against worst-case scenarios (a furnace failure, a job loss for Ramón, her mother's care, a dead van).",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s06",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Grace is planning carefully for Isabel's college, using spreadsheets, hand-run net-price estimates and caps, and wants her figures checked before she relies on them.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Grace prefers terse, numbered, step-by-step answers with little elaboration, and asks for shorter replies when she gets too much.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s06",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Grace shares sensitive identifiers such as her license number and date of birth with the assistant to get forms filled in, even though the assistant keeps declining to repeat them.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s06",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Grace is firm about family rules, agreements and written commitments with Isabel; she loosened the curfew only after seeing a written plan and wants her phone setup to match it exactly.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Grace is discreet about colleagues and asks the assistant to drop unflattering remarks she made about a coworker, which shows she cares about professional boundaries.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s06",
+        "grace.s04"
+      ]
+    },
+    {
+      "statement": "Grace is a teacher who builds her own tools to cut paperwork and manage classroom problems, including an absence-flagging spreadsheet, a lab-partner chart and a printable flyer.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s06"
+      ]
+    },
+    {
+      "statement": "Grace is polite and warm, and uses Tagalog thanks (\"Salamat\") to close or open requests, even when her messages are curt.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s06",
+        "grace.s10"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Grace is under sustained financial strain and keeps weighing every large spending decision against worst-case scenarios (a furnace failure, a job loss for Ramón, her mother's care, a dead van).",
+  "rationale": "The first inferred statement, rated strong, says Grace weighs large spending decisions against worst-case scenarios such as a furnace failure or job loss. This matches the intended trait of talking about money in terms of fear of the worst case."
+}

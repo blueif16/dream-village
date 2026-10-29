@@ -1,0 +1,87 @@
+{
+  "impression_id": "rafael.i06",
+  "evidence_sessions": [
+    "rafael.s03",
+    "rafael.s05",
+    "rafael.s08",
+    "rafael.s12",
+    "rafael.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Rafael avoids direct confrontation and tries to decline or exit commitments quietly, looking for wording that keeps the peace, as with Dante's pitches.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s03",
+        "rafael.s05",
+        "rafael.s12",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He is cautious about risking his own money, repeatedly insisting on labor-only terms, researching legal and financial risk, and comparing prices before spending.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s08",
+        "rafael.s12",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He gives up on asking for things for himself when family needs come up, dropping the request for time off from his dad's stand because 'the stand needs me'.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He is caring and protective toward family and friends, doing favors such as free brake work for Ximena and prepping the stand so his mom does not have to lift anything.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He is hands-on and practical in his mechanical work, fixing his own truck's alternator at school and planning toward ASE-style tests and a shop internship, while juggling school, work at the family stand and side deals.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s03",
+        "rafael.s13",
+        "rafael.s12"
+      ]
+    },
+    {
+      "statement": "He prefers casual, brief, direct help in his own register (lowercase, 'bro', 'simón', 👍) and often works late or in small gaps between obligations.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s03",
+        "rafael.s05",
+        "rafael.s08",
+        "rafael.s12",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He tends to withdraw a request or ask the assistant to forget something when it feels sensitive or uncomfortable, such as the debt to Dante or the day-off wording.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s08",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He shares sensitive financial details like his account number in order to get form-checking help, which shows a trusting but somewhat careless approach to privacy.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s08",
+        "rafael.s12"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "He is cautious about risking his own money, repeatedly insisting on labor-only terms, researching legal and financial risk, and comparing prices before spending.",
+  "rationale": "The intended trait is being tempted by shortcuts and side deals but backing off from risk. The reader's statement about caution with money and insisting on labor-only terms captures the risk-averse half, and the mention of 'side deals' in the hands-on statement hints at the temptation. However, no strong or moderate statement says he is drawn to shortcuts or side deals and then retreats. The risk-aversion alone misses the core tension."
+}

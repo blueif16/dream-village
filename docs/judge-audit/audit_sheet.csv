@@ -1,0 +1,419 @@
+item,benchmark,question_type,question,gold_answer_or_rubric,model_response,your_label (CORRECT/WRONG),notes
+A001,LongMemEval,multi-session,How many years in total did I spend in formal education from high school to the completion of my Bachelor's degree?,10 years,"You spent a total of **10 years** in formal education from high school to the completion of your Bachelor's degree (from 2010 to 2020). Here is the breakdown:
+
+* **Arcadia High School:** 4 years (2010–2014)
+* **Pasadena City College (PCC):** 2 years (2014–May 2016, earning an Associate's degree in Computer Science)
+* **UCLA:** 4 years (2016–2020, earning a Bachelor's degree in Computer Science)",,
+A002,LongMemEval,multi-session,How many different art-related events did I attend in the past month?,4,"In the past month (between February 8, 2023, and March 8, 2023), you attended **3** strictly art-focused events (or **4** if including your History Museum tour that featured ancient art and pottery):
+
+1. **""Women in Art"" Exhibition** (at the Modern Art Museum, featuring artist Rachel Lee) on **February 10, 2023**.
+2. **""Art Afternoon"" Event** (volunteering at the Children's Museum) on **February 17, 2023**.
+3. **""The Evolution of Street Art"" Lecture** (at the Art Gallery) on **March 3, 2023**.
+*(Note: You also attended a **guided tour at the History Museum** on **February 24, 2023**, where viewing the ancient pottery section sparked your interest in ancient history and art.)*",,
+A003,LoCoMo,category 1,"Who did Evan meet on his trip to Canada, and who did he come back from Canada with?",Evan met the woman he fell in love with and returned with her.,An awesome Canadian woman.,,
+A004,LongMemEval,single-session-user,How many copies of my favorite artist's debut album were released worldwide?,500,Only 500 copies of the limited edition of your favorite artist's debut album (which came with the signed poster) were released worldwide.,,
+A005,LoCoMo,category 1,What mediums does Nate use to play games?,"Gamecube, PC,Playstation.",Computer and Nintendo.,,
+A006,LoCoMo,category 2,When did Audrey adopt Pixie?,"around April 2, 2023",Before 2 April 2023 (late March 2023),,
+A007,LoCoMo,category 3,Would John be open to moving to another country?,"No, he has goals specifically in the U.S. like joining the military and running for office.","No, he loves his community.",,
+A008,LongMemEval,multi-session,How many weddings have I attended in this year?,"I attended three weddings. The couples were Rachel and Mike, Emily and Sarah, and Jen and Tom.","Based on the memories provided, you have mentioned **3** weddings (though the exact dates for two of them are not explicitly confirmed in the available snippets):
+
+1. A wedding you just recently experienced in a **rustic barn**.
+2. Your friend **Emily and Sarah's** wedding, which was a **rooftop garden** ceremony.
+3. Your **college roommate's** intimate wedding, which had about **50 guests**.",,
+A009,LongMemEval,multi-session,How many fun runs did I miss in March due to work commitments?,2,"You missed **2** 5K fun runs in March 2023 due to work commitments: one on **March 5, 2023**, and another on **March 26, 2023** (though in your most recent message on April 26, 2023, at 15:47, you stated you attended most of the weekly 5K fun runs at the local park except for the one on March 5, 2023).",,
+A010,LongMemEval,temporal-reasoning,How many weeks ago did I attend the 'Summer Nights' festival at Universal Studios Hollywood?,3 weeks ago,"You attended the ""Summer Nights"" festival at Universal Studios Hollywood with Rachel and Mike **3 weeks ago** (based on your statement on July 15, 2023, that you ""just got back"" from the trip). *(Note: If accounting for the assistant's remark during that July 15 conversation that your trip was three weeks prior—around June 24, 2023—it would be **6 weeks ago**).*",,
+A011,LongMemEval,abstention,How long have I been working before I started my current job at Google?,"The information provided is not enough. From the information provided, You haven't started working at Google yet.","Based on our previous conversations, your current job is actually at **NovaTech**, not **Google** (there is no record of you working at Google). 
+
+You mentioned that you have been working professionally for a total of **9 years**, and you have been at your current job as a backend developer at **NovaTech** for **4 years and 3 months** (since graduating with your Computer Science degree from the **University of California, Berkeley**). Therefore, you were working professionally for **4 years and 9 months** before starting your current job at NovaTech.",,
+A012,LongMemEval,single-session-preference,"I've been thinking about making a cocktail for an upcoming get-together, but I'm not sure which one to choose. Any suggestions?","Considering their mixology class background, the user would prefer cocktail suggestions that build upon their existing skills and interests, such as creative variations of classic cocktails or innovative twists on familiar flavors. They might appreciate recommendations that incorporate their experience with refreshing summer drinks like Pimm's Cup. The user would not prefer overly simplistic or basic cocktail recipes, and may not be interested in suggestions that don't take into account their mixology class background.","You should consider making the **Pimm's Cup with a Twist** using **Hendrick's gin** that you planned on May 21, 2023! Since you've already made a classic Pimm's Cup in your mixology class, your customized version would be a great crowd-pleaser for a get-together. 
+
+Here is a recap of how you planned to make it:
+* **Base Ingredients:** 1 1/2 oz **Hendrick's gin**, 1/2 oz **Pimm's No. 1**, 1/2 oz lemon juice, 1/2 oz simple syrup, and a splash of ginger beer.
+* **Your Customizations:** 
+  * **Muddle cucumber slices** in the drink for extra fresh flavor and texture.
+  * Swap standard simple syrup for a homemade **Ruby Red Grapefruit simple syrup** (made with 1 cup sugar, 1 cup water, and 1/2 cup freshly squeezed Ruby Red grapefruit juice) to add a lovely pink hue and a touch of bitterness to balance the sweetness of the Pimm's.
+* **Presentation:** Serve it in a tall, slender **Collins glass** over ice to showcase the color layers, and top it with visually appealing garnishes like cucumber wheels, Ruby Red grapefruit wedges, fresh mint sprigs, berries, or edible flowers. _(Tip: You could even set up a garnish tray so your guests can customize their own glasses!)_
+
+If you've already tried that one and want to experiment with another **Hendrick's gin** summer cocktail, here are a few other options we discussed:
+1. **Cucumber Gimlet:** 2 oz Hendrick's gin, 1 oz fresh lime juice, 1/2 oz simple syrup, and 1/2 oz cucumber juice.
+2. **Rose Petal Spritz:** 2 oz Hendrick's gin, 2 oz Prosecco, 1 oz rose syrup (or liqueur), and 1 oz lemon-lime soda.
+3. **Gin-Gin Mule:** 2 oz Hendrick's gin, 4 oz ginger beer, and a squeeze of lime juice, garnished with mint and lime.
+4. **Summer Solstice:** 2 oz Hendrick's gin, 1 oz peach puree, 1 oz lemon juice, and 1/2 oz honey syrup, garnished with rosemary and peach.
+5. **Hendrick's High Tea:** 2 oz Hendrick's gin, 1 oz lemon juice, and 1/2 oz honey syrup mixed with 1 oz of steeped Earl Grey or English Breakfast tea.",,
+A013,LoCoMo,category 4,What emotions did John feel during the small party with the veterans?,heartwarming,Sense of community and togetherness.,,
+A014,LongMemEval,multi-session,How many properties did I view before making an offer on the townhouse in the Brookside neighborhood?,"I viewed four properties before making an offer on the townhouse in the Brookside neighborhood. The reasons I didn't make an offer on them were: the kitchen of the bungalow needed serious renovation, the property in Cedar Creek was out of my budget, the noise from the highway was a deal-breaker for the 1-bedroom condo, and my offer on the 2-bedroom condo was rejected due to a higher bid.","You viewed **5 properties in total** (4 other properties, plus the Brookside townhouse itself) before making your offer on the 3-bedroom townhouse in the Brookside neighborhood on February 25, 2023:
+
+1. **January 22, 2023:** A 3-bedroom bungalow in the Oakwood neighborhood (needed serious kitchen renovation).
+2. **February 1, 2023:** A property in Cedar Creek (out of your budget).
+3. **February 10, 2023:** A 1-bedroom condo in the downtown area (too much highway noise).
+4. **February 15, 2023:** A 2-bedroom condo with modern appliances and a community pool (your offer was rejected on February 17, 2023).
+5. **February 22, 2023:** The 3-bedroom townhouse in the Brookside neighborhood (which you subsequently made an offer on for $340,000 on February 25, 2023).",,
+A015,LongMemEval,knowledge-update,How many followers do I have on Instagram now?,1300,"Based on your latest update on May 25, 2023, you mentioned that you were **close to 1,300 followers** on Instagram (up from the exact count of **1,250 followers** you shared earlier that same day).",,
+A016,LoCoMo,category 1,What activities has Maria done with her church friends?,"Hiking, picnic, volunteer work","Hiking, having a picnic, playing games.",,
+A017,LoCoMo,category 4,How does Jolene describe the feeling of finding her snake snuggled under the bed after it got out?,It really showed how much she loves her.,"Relief, love, and gratitude.",,
+A018,LoCoMo,category 4,How did Sam suggest Evan view the setback with his broken Prius?,As a chance to explore other ways of staying active and traveling,As leading to new opportunities.,,
+A019,LongMemEval,temporal-reasoning,"Which trip did the narrator take first, the solo trip to Europe or the family road trip across the American Southwest?",The family road trip across the American Southwest,"Based on the provided memories, there is no mention of a **solo trip to Europe**, so it cannot be definitively determined from the text alone. 
+
+However, the memories from **May 22, 2023**, show that the narrator is currently planning a **solo trip to the American Southwest** (visiting **Sedona**, **Monument Valley**, the **Hoover Dam**, and **Phoenix**) and has *already* visited the **Grand Canyon** in the past (implied by the assistant saying, *""It's great that you're excited to explore the American Southwest on your own this time!""*). This indicates that the **previous (family) road trip across the American Southwest** already took place first, prior to **May 22, 2023**.",,
+A020,LoCoMo,category 3,Which US state was Sam travelling in during October 2023?,California,California or Nevada (Lake Tahoe),,
+A021,LoCoMo,category 4,Which game tournaments does John plan to organize besides CS:GO?,Fortnite competitions,"Fortnite, strategy, and RPG games.",,
+A022,LongMemEval,temporal-reasoning,How many weeks had passed since I recovered from the flu when I went on my 10th jog outdoors?,15,"You recovered from the flu on January 19, 2023, and went on your 10th outdoor jog on April 10, 2023. Between these two events, **11 weeks and 4 days** (81 days total, or approximately 11.57 weeks) had passed.",,
+A023,LoCoMo,category 2,When did Nate win a lot of money in a video game tournament?,September 2022,The week before 6 October 2022.,,
+A024,LoCoMo,category 1,What recommendations has Nate received from Joanna?,"""Eternal Sunshine of the Spotless Mind"" movie, ""A Court of Thorns and Roses"" book, pointers for making living room comfy, starting a cork board for memories, ""Little Women"" movie",Movies and fantasy book series.,,
+A025,LongMemEval,single-session-preference,Can you suggest some activities I can do during my commute to work?,"The user would prefer suggestions related to listening to new podcasts or audiobooks, especially the genre beyond true crime or self-improvement, such as history. They may not be interested in activities that require visual attention, such as reading or watching videos, as they are commuting. The user would not prefer general podcast topics such as true crime or self-improvement, as the user wants to explore other topics.","Based on our previous conversations about your bus ride and your 35–45 minute (2.6-mile) morning bike commute, here are several productive and entertaining activities you can do instead of checking email and social media:
+
+**1. Listen to Podcasts & Audiobooks (via Audible, Scribd, or Apple Podcasts)**
+* **Entrepreneurship & Storytelling:** Continue listening to *""How I Built This""*, or try *""Stuff You Should Know""*.
+* **History & Folklore:** Listen to *""Hardcore History""* or *""Lore""*. 
+* **History Audiobooks (or reading if on the bus):** Check out books matching your interests, such as:
+  * *""The Rise and Fall of the Third Reich""* by William L. Shirer
+  * *""Guns, Germs, and Steel""* by Jared Diamond
+  * *""The Devil in the White City""* by Erik Larson
+  * *""The Witches: Salem, 1692""* by Stacy Schiff
+  * *""The Devil's Gentleman: Privilege, Poison, and the Trial That Ushered in the Twentieth Century""* by Harold Schechter
+  * *""The Ghost Map: The Story of London's Most Terrifying Epidemic—and How It Changed Science, Cities, and the Modern World""* by Steven Johnson
+* **Comedy:** Listen to comedy podcasts or humorous audiobooks.
+
+**2. Learn Something New & Stay Informed**
+* **Language Learning:** Practice a language using apps like **Duolingo**, **Babbel**, or **Rosetta Stone**.
+* **News and Updates:** Catch up on daily news, industry updates, or educational podcasts related to your field.
+
+**3. Mental Prep & Relaxation**
+* **Mental Preparation:** Use the ride to plan your day, think about your tasks, and prioritize your workload.
+* **Music & Playlists:** Put together a playlist to either motivate your bike ride or help you unwind.
+* **Nature & Relaxation:** Listen to calming sounds, nature sounds, or guided meditation.
+
+**4. Watch Documentaries (If taking the bus)**
+If you are commuting by bus rather than biking, you could watch historical documentaries related to your interests, such as *""The World at War""* (1973), *""The Apocalypse""* (2000), PBS's *""Death and the Civil War""* (2002), the History Channel's *""The Salem Witch Trials""* (2002), or the Smithsonian Channel's *""The Real Wolfman""* (2012).
+
+*(Note: When biking, remember to keep your volume low enough to hear traffic, avoid noise-blocking earbuds, and consider using a bike-mounted phone holder, waterproof case, or armband!)*",,
+A026,LongMemEval,single-session-preference,I've been struggling with my slow cooker recipes. Any advice on getting better results?,"The user would prefer responses that provide tips and advice specifically tailored to their slow cooker experiences, utilizing their recent success with beef stew and interest in making yogurt in the slow cooker. They might not prefer general slow cooker recipes or advice unrelated to their specific experiences and interests.","Since you mentioned earlier today (May 30, 2023) that you are focusing on **plant-based (vegetarian and vegan) slow cooker meals** and **homemade slow cooker yogurt**, here are some tailored tips to help you get better results:
+
+**For Your Plant-Based & Vegan Meals:**
+1. **Brighten Flavors at the End:** Slow cooking can sometimes mute flavors over long cook times. Add a splash of **vinegar or lemon/lime juice** right before serving (such as in your *Black Bean Chili*, *Lentil Curry*, or *Quinoa and Black Bean Bowl*) to wake up the dish.
+2. **Layer Your Spices & Seasonings:** Dried spices can lose their potency during a long cook. Don't be afraid to be generous with your seasoning blends (like cumin or Indian spices), or stir in fresh herbs and an extra pinch of spices during the last 30 minutes.
+3. **Watch the Texture of Grains & Veggies:** 
+   - Harder vegetables (like sweet potatoes and carrots) hold up well, while softer vegetables (like zucchini, bell peppers, and spinach) can get mushy if cooked too long—consider adding softer veggies later in the cooking process.
+   - When experimenting with grains like **quinoa, brown rice, Arborio rice, or whole wheat pasta**, keep a close eye on liquid ratios and cooking times so they don't become overly soft.
+4. **Control the Salt and Liquid:** If you are using canned beans or diced tomatoes, opt for **low-sodium** versions and **rinse your beans** thoroughly. Because slow cookers trap condensation, liquids don't evaporate like they do on the stove—if your stews or curries are too watery, try slightly reducing the broth or cooking with the lid slightlyajar for the final 30 minutes.
+
+**For Slow Cooker Yogurt (and Vegan Yogurt):**
+1. **Use a Thermometer:** Accurate temperature control is the most critical factor for consistent yogurt. Make sure your base reaches **180°F to 185°F (82°C to 85°C)** during the initial heating phase, and cools down properly before adding your live cultures so you don't kill the bacteria.
+2. **Choose the Right Vegan Base & Thickener:** If you are using vegan bases (like **soy, coconut, cashew, almond, oat, rice, or hemp**), keep in mind that lower-protein or lower-fat milks (like almond or rice) produce thinner yogurt than soy, coconut, or cashew. You may need to add a thickener (such as agar-agar, tapioca starch, or pectin) to get a creamy consistency.
+
+If there is a specific recipe—like one of the curries, stews, or your yogurt batch—that didn't turn out the way you wanted, let me know what happened and we can troubleshoot it!",,
+A027,LoCoMo,category 1,What LGBTQ+ events has Caroline participated in?,"Pride parade, school speech, support group","Support group, pride parades, workshop, conference, poetry reading.",,
+A028,LongMemEval,multi-session,How many health-related devices do I use in a day?,4,"Based on your memories, you use **3** types of health-related devices in a day (or **4** individual devices if counting each hearing aid separately):
+1. **Fitbit** (used to track your daily steps and sleep)
+2. **Hearing aids** (mentioned needing replacement batteries for them)
+3. **A blood sugar monitor / glucometer** (inferred from your daily task of tracking your blood sugar levels)",,
+A029,LongMemEval,multi-session,How many times did I bake something in the past two weeks?,4,"You baked **4 times** (or **5 times** if including the apple pie made in your cast iron skillet) in the past two weeks (between May 16, 2023, and May 30, 2023):
+
+1. **Sourdough Bread:** Baked on Tuesday, May 16, 2023 (also referenced as May 23, 2023) using your sourdough starter.
+2. **A Batch of Cookies:** Baked on Thursday, May 18, 2023 (also referenced as May 25, 2023) using your oven's convection setting.
+3. **Whole Wheat Baguette:** Baked on Saturday, May 20, 2023 (also referenced as May 27, 2023) using whole wheat flour.
+4. **Chocolate Cake:** Baked for your sister's birthday party on the weekend of May 20–21, 2023 (also referenced as the weekend of May 27–28, 2023) using espresso powder.
+*(5. **Apple Pie:** Made in your cast iron skillet on Saturday, May 20, 2023.)*",,
+A030,LoCoMo,category 2,When did Caroline attend a pride parade in August?,The Friday before 14 August 2023,The weekend before 14 August 2023.,,
+A031,LongMemEval,temporal-reasoning,How many weeks ago did I start using the cashback app 'Ibotta'?,3 weeks ago,"Based on the conversation from April 16, 2023—which was **nearly 3 weeks ago** (specifically, 20 days or 2 weeks and 6 days ago)—you were discussing using the Ibotta app. (Note: If you started using the app prior to April 16, 2023, the exact start date is not explicitly mentioned in the available memories).",,
+A032,LongMemEval,temporal-reasoning,How many weeks ago did I attend the friends and family sale at Nordstrom?,2,"The provided memories do not contain enough information to determine how many weeks ago you attended the sale. While you mentioned on November 18, 2022 (nearly two weeks before December 1, 2022) that you ""recently"" bought a pair of Converse Chuck Taylor All Star Pros on sale at Nordstrom, the exact date of the sale (or that it was a friends and family sale) was never specified.",,
+A033,LongMemEval,single-session-preference,I've been sneezing quite a bit lately. Do you think it might be my living room?,"The user would prefer responses that consider the potential impact of their cat, Luna, and her shedding on their sneezing, as well as the recent deep clean of the living room and its possible effect on stirring up dust. They might not prefer responses that fail to take into account these specific details previously mentioned, such as generic suggestions or unrelated factors.","Yes, it is very likely related to your living room. On May 26, 2023, you mentioned struggling to keep your living room dust-free because your cat sheds a lot. A buildup of dust, cat hair, and dander can easily trigger allergy symptoms like sneezing. 
+
+To help reduce these allergens, you can try the strategies we discussed previously:
+* **Vacuuming and Dusting:** Use a vacuum with a HEPA filter (like the Dyson, Shark, Hoover, Bissell, or Miele models we looked at), wipe surfaces with a damp microfiber cloth, and use a lint roller on furniture.
+* **Air Quality:** Change your home's air filters and introduce the **spider plant** or **snake plant** you planned to get to help purify the air.
+* **Pet Care:** Groom your cat regularly and wash their bedding to minimize shedding and dander.",,
+A034,LoCoMo,category 1,What kind of classes or groups has Audrey joined to take better care of her dogs?,"positive reinforcement training workshop to bond with pets, dog training course, agility training course, grooming course, dog-owners group",A dog grooming course.,,
+A035,LoCoMo,category 1,What books has John read?,"inpsiring book on dreaming big, The Alchemist, fantasy series, non-fiction books on personal development, Dune","The Alchemist, The Hobbit, Dune",,
+A036,LongMemEval,single-session-preference,I was thinking of trying a new coffee creamer recipe. Any recommendations?,"The user would prefer responses that suggest variations on their existing almond milk, vanilla extract, and honey creamer recipe or new ideas that align with their goals of reducing sugar intake and saving money. They might not prefer responses that recommend commercial creamer products or recipes that are high in sugar or expensive.","Since you've already tried making a homemade creamer with **almond milk, vanilla extract, and honey** to save money and cut back on sugar—and recently started **strength training** with a focus on **high-protein** intake—here are a few new healthier, low-sugar, and protein-boosted creamer recipes to try:
+
+1. **Spiced Chai Protein Creamer (Great for Fitness Goals)**
+   * **Base:** Unsweetened **oat milk** or **cashew milk** (for a naturally creamier texture than almond milk).
+   * **Flavor:** **Cinnamon**, **cardamom**, a pinch of **nutmeg**, and **vanilla extract**.
+   * **Sweetener:** **Monk fruit sweetener** or **stevia** (to replace honey and further reduce sugar).
+   * **Boost:** 1–2 tablespoons of **vanilla protein powder** or **collagen peptides** to support your Tuesday–Friday strength training workouts.
+
+2. **Toasted Coconut & Hazelnut Creamer (Zero-Sugar)**
+   * **Base:** Unsweetened organic **almond milk** or **coconut milk**.
+   * **Flavor:** ½ teaspoon **coconut extract**, ½ teaspoon **hazelnut extract**, and a pinch of **Himalayan pink salt** or **sea salt** to balance the sweetness.
+   * **Sweetener:** **Yacon syrup** or **stevia** to taste.
+   * **Boost:** 1 teaspoon of **MCT oil** for an afternoon energy boost.
+
+3. **Cinnamon Roll Oat Creamer**
+   * **Base:** Unsweetened **oat milk**.
+   * **Flavor:** 1 teaspoon **vanilla extract**, ½ teaspoon **almond extract**, and 1 teaspoon ground **cinnamon**.
+   * **Sweetener:** A small amount of **maple syrup** or **monk fruit sweetener**. 
+
+**Tip:** Shake well in a reusable glass jar before each use, especially if you add protein powder or spices!",,
+A037,LongMemEval,temporal-reasoning,How many days ago did I meet Emma?,9 days ago. 10 days (including the last day) is also acceptable.,"You met up with Emma, the freelance writer, for lunch **9 days ago** (on April 11, 2023). If you are referring to when you first met her at the coffee shop near your office, that was ""last week"" relative to April 11—approximately **16 days ago** (around April 4, 2023, or 12 to 18 days ago).",,
+A038,LongMemEval,abstention,How often do I play table tennis with my friends at the local park?,The information provided is not enough. You mentioned playing tennis but not table tennis.,"Based on our previous conversations, there is no mention of you playing **table tennis**. However, you mentioned that you play regular **tennis** with your friends at the local park **every other week** (on Sundays).",,
+A039,LongMemEval,single-session-preference,Can you suggest some accessories that would complement my current photography setup?,The user would prefer suggestions of Sony-compatible accessories or high-quality photography gear that can enhance their photography experience. They may not prefer suggestions of other brands' equipment or low-quality gear.,"Based on your current setup—a **Sony A7R IV** and a **Sony 24-70mm f/2.8** lens—here are some accessories that would complement your gear, including a few categories we discussed on May 27, 2023, as well as new additions:
+
+**1. Lighting & Flash Protection (Previously Discussed)**
+* **External Flash:** If you haven't finalized your flash upgrade yet, the **Godox V1** ($250), **Godox AD200** ($300), or **Sony HVL-F60RM** ($550) are great matches for your Sony A7R IV. 
+* **Flash Cases/Pouches:** If you went with the Godox V1, consider protecting it with the **Godox V1 Hard Case** ($50), **Think Tank Photo Flash Pouch** ($15), **Lowepro Flash Pouch** ($20), or **Vello Flash Pouch** ($10).
+
+**2. Power & Storage for High-Resolution Shooting**
+* **External Battery Packs:** For charging on the go, as previously mentioned, the **Anker PowerCore 20000 PD**, **Jackery Titan S 20000**, or **Mophie Powerstation XXL** work well. 
+* **Spare Sony NP-FZ100 Batteries & Vertical Grip:** A **Sony VG-C4EM Vertical Grip** can double your battery life and improve ergonomics with the heavy 24-70mm f/2.8 lens.
+* **High-Speed SD Cards (UHS-II V90):** Because the Sony A7R IV produces massive 61MP files, fast UHS-II SD cards (like Sony TOUGH-G series or SanDisk Extreme PRO) are essential to clear the buffer quickly.
+
+**3. Lens Filters & Maintenance (For your Sony 24-70mm f/2.8)**
+* **82mm Filters:** Your Sony 24-70mm f/2.8 takes an 82mm filter thread (assuming the GM or GM II version). A **Circular Polarizer (CPL)** to reduce glare and boost saturation, or a **Neutral Density (ND) filter** for long exposures and video, are great additions.
+* **Lens Cleaning Kit:** To safely maintain your lens without streaks or scratches, keep a **blower bulb**, a **soft brush**, **lens cleaning solution/pre-moistened wipes**, and **dry microfiber cloths** in your bag.
+
+**4. Stability & Carrying Gear**
+* **Sturdy Tripod & Ball Head:** The 61MP sensor on the A7R IV is very sensitive to micro-shakes, so a sturdy carbon fiber tripod (from brands like Peak Design, Gitzo, or Manfrotto) will help maximize image sharpness.
+* **Ergonomic Camera Strap:** A padded strap like the **Peak Design Slide** will help comfortably distribute the weight of the A7R IV and 24-70mm f/2.8 combo.",,
+A040,LoCoMo,category 4,What inspired James to create the game character in the virtual world?,Appearance of a woman he saw during a walk,A stranger he saw walking.,,
+A041,LongMemEval,single-session-preference,Can you suggest a hotel for my upcoming trip to Miami?,"The user would prefer suggestions of hotels in Miami that offer great views, possibly of the ocean or the city skyline, and have unique features such as a rooftop pool or a hot tub on the balcony. They may not prefer suggestions of basic or budget hotels without these features.","Based on our conversation yesterday (May 29, 2023), you were planning an upcoming trip to **Seattle**—not Miami—where you decided on the **Space Needle Romance Package** at **The Edgewater Hotel** (which includes a waterfront/city view, a fireplace room with a balcony hot tub facing the Space Needle, complimentary room service breakfast with champagne and strawberries, romantic turndown service, and a $100 credit towards a couples' massage). 
+
+If you are planning a new trip to **Miami** and want something similar to what you liked at The Edgewater Hotel (stunning waterfront/skyline views, private balconies, luxury romance packages, and great spa amenities), here are a few recommendations:
+
+1. **Mandarin Oriental, Miami (Brickell Key):** Offers breathtaking waterfront views of Biscayne Bay and the Miami skyline, private balconies, and a world-class five-star spa perfect for couples' massages.
+2. **1 Hotel South Beach:** A luxury oceanfront hotel featuring expansive balconies with ocean and city views, a Bamford Wellness Spa, and a romantic, upscale vibe.
+3. **Four Seasons Hotel Miami (Brickell):** Similar to the Four Seasons we looked at in Seattle, this property offers sweeping views of Biscayne Bay and the downtown skyline, luxury spa services, and romantic dining options. 
+
+Please let me know if you meant your Seattle trip or if you'd like me to look into specific romance packages for these Miami hotels!",,
+A042,LoCoMo,category 4,What type of place does Jolene visit to meditate?,A tranquil spot by a pond,A retreat near a lake.,,
+A043,LongMemEval,abstention,How many engineers do I lead when I just started my new role as Software Engineer Manager?,The information provided is not enough. You mentioned starting the role as Senior Software Engineer but not Software Engineer Manager.,"When you first started your new role (referred to in your memories as Senior Software Engineer on May 25, 2023), you led a team of 4 engineers. Shortly after, on May 27, 2023, you mentioned that you had been in the role for a while and were then leading 5 engineers.",,
+A044,LoCoMo,category 1,What happened to John's job situation in 2022?,"quit his IT Job, secured his dream job, aspires to become an eSports competition organizer",He left his IT job.,,
+A045,LoCoMo,category 1,What does Melanie do to destress?,"Running, pottery",Running.,,
+A046,LoCoMo,category 1,What are the classes that Audrey took for her dogs to?,"Positive reinforcement training class for bonding, dog training course, agility class","Positive reinforcement training, agility, and grooming.",,
+A047,LoCoMo,category 1,What kind of places have Andrew and his girlfriend checked out around the city?,"cafes, new places to eat, open space for hikes, pet shelter, wine tasting event, park","New places to eat, like a cafe.",,
+A048,LoCoMo,category 2,When did Dave start his car maintenance shop?,"May 1, 2023",The week before 16 May 2023.,,
+A049,LoCoMo,category 4,Why do Tim and John find LeBron inspiring?,LeBron's determination and the epic block in Game 7 of the '16 Finals,"His determination, heart, skills, and leadership.",,
+A050,LongMemEval,temporal-reasoning,How many days before the team meeting I was preparing for did I attend the workshop on 'Effective Communication in the Workplace'?,7 days. 8 days (including the last day) is also acceptable.,"The provided memories do not contain sufficient information to answer your question. While the memories state that you attended the ""Effective Communication in the Workplace"" workshop on January 10, 2023, they do not mention the specific date of the team meeting you were preparing for. Therefore, it is not possible to calculate how many days before the meeting you attended the workshop.",,
+A051,LongMemEval,single-session-preference,I noticed my bike seems to be performing even better during my Sunday group rides. Could there be a reason for this?,"The user would prefer responses that reference specific details from their previous interactions, such as the replacement of the bike's chain and cassette, and the use of a new Garmin bike computer. They might prefer explanations that connect these details to the observed improvement in bike performance. The user may not prefer responses that fail to acknowledge these specific details or provide vague, general explanations for the improvement.","The improved performance of your bike is likely because you replaced the old chain and cassette on February 1, 2024.",,
+A052,LoCoMo,category 1,What is a stress reliever for Evan?,"Drawing, traveling, places with a beautiful view, yoga, sunsets or something comfortable for Evan",Watercolor painting,,
+A053,LoCoMo,category 2,When did John have his first firefighter call-out?,The sunday before 3` July 2023,30 July 2023,,
+A054,LoCoMo,category 4,"What did Calvin recently get that is a ""masterpiece on wheels""?",Ferrari,A new car.,,
+A055,LongMemEval,single-session-preference,My kitchen's becoming a bit of a mess again. Any tips for keeping it clean?,"The user would prefer responses that acknowledge and build upon their existing efforts to organize their kitchen, such as utilizing their new utensil holder to keep countertops clutter-free. They would also appreciate tips that address their concern for maintaining their granite surface, particularly around the sink area. Preferred responses would provide practical and actionable steps to maintain cleanliness, leveraging the user's current tools and setup. They might not prefer generic or vague suggestions that do not take into account their specific kitchen setup or concerns.","Here are some tailored tips to help keep your kitchen clean and organized, keeping your specific setup in mind:
+
+1. **Maximize Your New Utensil Holder:** Since you recently bought a utensil holder to keep your countertops clutter-free, make sure to purge any duplicate utensils and group similar items together (like spatulas and spoons). Keep only your most frequently used tools in the holder, and store the rest in drawers with dividers. Don't forget to wipe down the holder regularly to prevent food residue buildup.
+2. **Care for Your Granite Countertops:** Clear off unnecessary items and wipe down your granite countertops daily using a **soft cloth** and warm water or stone-safe soap. Avoid harsh or acidic cleaners, and use coasters, pads, and cutting boards to prevent any new scratches—especially near the sink area. 
+3. **Maintain the Sink & Garbage Disposal:** Keep the sink area fresh by running cold water with a few ice cubes and rock salt, or a mix of baking soda and vinegar, down your **garbage disposal** to prevent clogs and odors. Also, wipe down the area around your **kitchen faucet** regularly to prevent mineral buildup or water spots (especially if it's still having that slight leak).
+4. **Clean as You Go & Store Appliances:** When cooking (like making pasta sauces or using your **slow cooker** for homemade yogurt), wash prep bowls and utensils while your food simmers or incubates so dishes don't pile up. Once appliances like your slow cooker are cooled and cleaned, store them in a cabinet to free up valuable counter space.",,
+A056,LoCoMo,category 4,"What instrument is John learning to play as of 27 March, 2022?",Drums,Drums,,
+A057,LongMemEval,multi-session,How much earlier do I wake up on Fridays compared to other weekdays?,30 minutes,"You wake up **30 minutes** earlier on Fridays (at 6:00 AM) compared to your usual weekday wake-up time of 6:30 AM. *(Note: You also mentioned on May 27, 2023, that you had been waking up at 7:30 AM every day, which would make your 6:00 AM Friday wake-up time **1 hour and 30 minutes** earlier).*",,
+A058,LoCoMo,category 2,When did John start working on his 2D Adventure mobile game?,approximately summer of 2022,A few months before September 2022.,,
+A059,LoCoMo,category 4,How does Andrew feel about their search for a pet-friendly place?,Discouraged but determined,He finds it tough and challenging.,,
+A060,LongMemEval,temporal-reasoning,How many weeks ago did I meet up with my aunt and receive the crystal chandelier?,4,"The provided memories do not contain the specific details of when you met up with your aunt, as the beginning of the conversation is cut off. However, the conversation in which you discussed caring for and researching your great-grandmother's crystal chandelier took place on **March 4, 2023**, which was **4 weeks ago** (from April 1, 2023).",,
+A061,LoCoMo,category 4,What map does Tim show to his friend John?,a map of Middle-earth from LOTR,A fantasy world map.,,
+A062,LongMemEval,single-session-preference,Can you suggest some activities that I can do in the evening?,"The user would prefer suggestions that involve relaxing activities that can be done in the evening, preferably before 9:30 pm. They would not prefer suggestions that involve using their phone or watching TV, as these activities have been affecting their sleep quality.","Based on your interests, hobbies, and preferred routine of winding down by 9:30 pm, here are some great activities you can do in the evening:
+
+1. **Meditation & Guided Imagery:** 
+   * Try the **""Body Scan"" meditation on the Insight Timer app**, which you mentioned wanting to try tonight, or revisit the **""Sleep"" meditation by Headspace** (since you enjoyed its imagery and visualization part).
+   * Practice **guided imagery exercises** (via apps like **Calm** or **Insight Timer**, or recordings by **Belleruth Naparstek** or **Dr. Rachel Naomi Remen**) to help process emotions and find comfort before bed.
+   * Do **deep breathing exercises** or **progressive muscle relaxation**.
+
+2. **Creative Hobbies (Early Evening):**
+   * **Knitting:** Work on knitting your **beanie** using the leftover textured **purple worsted-weight yarn** from the scarf you finished on May 21, 2023.
+   * **Painting:** Spend some time on your **acrylic cityscape at sunset** project, experimenting with **drybrushing** and **fabric stamping** (using your thrift-store **vintage scarf**) to create buildings and foliage.
+   * **Creative Writing:** Work on your **short story in Scrivener** or write **poetry in Google Docs** (Note: try to wrap up screen-based writing at least 30 minutes before bedtime).
+
+3. **Journaling & Reflection:**
+   * Write in the **journal** you started on January 15, 2023, to clear your mind and reflect on your day.
+   * Update your **dream journal** to track any patterns or themes from your recent vivid dreams.
+
+4. **Gentle Movement & Relaxation:**
+   * Practice **gentle yoga or stretching** to relax your muscles and complement your regular yoga routine.
+   * **Read a calming book** (ideally under the warm, soft glow of your adjustable bedroom table lamps) or **listen to soothing music** or nature sounds (like **Rainy Mood**). 
+
+If you are following your **8:30 pm to 9:30 pm wind-down schedule**, remember to put away electronic devices by **9:15 pm** to avoid blue light and prepare your sleep environment for a restful night!",,
+A063,LongMemEval,multi-session,How many points do I need to earn to redeem a free skincare product at Sephora?,100,"You need a total of **300 points** to redeem the free skincare product at Sephora. Since you currently have **200 points** in the Sephora loyalty program, you need to earn **100 more points**.",,
+A064,LongMemEval,abstention,How many days before I bought my iPad did I attend the Holiday Market?,"The information provided is not enough. You mentioned getting the iPhone 13 Pro and attending the market, but you did not mention buying an iPad.","There is no mention in the memories of you buying an iPad. However, you mentioned buying an **iPhone 13 Pro** from Best Buy for $800 on **Black Friday**. Since you attended the annual **Holiday Market** at the local mall a week before Black Friday, you attended the market **7 days** (1 week) before purchasing your iPhone 13 Pro.",,
+A065,LoCoMo,category 1,What are some foods that Audrey likes eating?,"chicken pot pie, chicken roast, blueberry muffins, sushi","Chicken pot pie, roasted chicken, sushi.",,
+A066,LoCoMo,category 4,What is essential to keep the dogs looking good according to Audrey?,"Daily brushing, regular baths, nail trims, and lots of love",Regular grooming.,,
+A067,LongMemEval,single-session-preference,"I've got some free time tonight, any documentary recommendations?","The user would prefer documentary recommendations that are similar in style and theme to 'Our Planet', 'Free Solo', and 'Tiger King', which they have previously enjoyed. They might not prefer recommendations of documentaries that are vastly different in tone or subject matter from these titles. The preferred response utilizes the user's previously mentioned viewing history to suggest documentaries that cater to their tastes.","Since you were interested in nature and wildlife documentaries on Netflix when we talked two days ago (on May 28, 2023), I highly recommend starting with the two you asked about if you haven't watched them yet:
+
+1. **Chasing Coral (2017)** (Netflix) – Since you only have tonight, this standalone feature film is a great choice. It follows a team of divers, photographers, and scientists documenting the decline of coral reefs with stunning underwater footage.
+2. **Dynasties (2018)** (Netflix) – If you're in the mood to start a series, this one is narrated by David Attenborough and focuses on the intimate family dynamics of five animal groups: chimpanzees, lions, wolves, tigers, and emperor penguins.
+
+**Other Nature & Wildlife Options on Netflix (similar to *Our Planet*):**
+* **Planet Earth** or **Blue Planet** – Classic BBC series narrated by David Attenborough.
+* **March of the Penguins** – A heartwarming documentary film about Emperor Penguins in Antarctica.
+* **The Last Lions** – A gripping documentary about the decline of lions in Africa.
+
+**If you want to switch genres tonight (based on you recently finishing *Free Solo* and *Tiger King*):**
+* **Adventure/Exploration:** *The Dawn Wall* or *14 Peaks: Nothing Is Impossible* (great follow-ups to *Free Solo*), or *Running Wild with Bear Grylls* (Netflix).
+* **True Crime/Mystery:** *The Keepers* (Netflix), *The Staircase* (Netflix), *Abducted in Plain Sight* (Netflix), or *Dont F**k with Cats: Hunting an Internet Killer* (Netflix).",,
+A068,LongMemEval,temporal-reasoning,What is the order of the six museums I visited from earliest to latest?,"Science Museum, Museum of Contemporary Art, Metropolitan Museum of Art, Museum of History, Modern Art Museum, Natural History Museum","Based on your memories, here is the chronological order of the six museums you visited from earliest to latest:
+
+1. **Science Museum** – Visited on **January 15, 2023** (for the ""Space Exploration"" exhibition). *(Note: On January 15, 2023, you also mentioned having ""recently"" attended a lecture series at the **Museum of Contemporary Art**, which would place your first visit there prior to January 15).*
+2. **Museum of Contemporary Art** – Visited on **January 22, 2023** (when you mentioned you ""just came back"" from Dr. Maria Rodriguez's lecture series; if counting your earlier mention, this swaps places with the Science Museum as the earliest).
+3. **Metropolitan Museum of Art** – Visited on **February 10, 2023** (for the ""Ancient Egyptian Artifacts"" exhibition).
+4. **Museum of History** – Visited on **February 15, 2023** (for a behind-the-scenes tour of the conservation lab).
+5. **Modern Art Museum** – Visited on **February 20, 2023** (for ""The Evolution of Abstract Expressionism"" tour; you also visited the similarly themed **Modern Art Gallery** on **February 17, 2023**).
+6. **Natural History Museum** – Visited on **March 4, 2023** (for the ""Dinosaur Fossils"" exhibition).",,
+A069,LongMemEval,temporal-reasoning,How many weeks ago did I start using the cashback app 'Ibotta'?,3 weeks ago,"You downloaded and started using the cashback app Ibotta on April 16, 2023, which was 20 days ago—or 2 weeks and 6 days (almost 3 weeks) ago.",,
+A070,LoCoMo,category 3,What personality traits might Melanie say Caroline has?,"Thoughtful, authentic, driven","Authentic, caring, courageous, mature, determined.",,
+A071,LoCoMo,category 4,What kind of programs are John's siblings making?,basic games and stories,A simple text-based adventure game.,,
+A072,LongMemEval,temporal-reasoning,"Which health issue did I deal with first, the persistent cough or the skin tag removal?",Persistent cough,"You dealt with the persistent cough first. You were initially treated for bronchitis and a cough on the 20th (February 20th)—which persisted and led to a follow-up on March 1st and a pneumonia diagnosis from your pulmonologist, Dr. Johnson, on March 10th—whereas the minor surgical procedure to remove the skin tag on your neck took place on February 22nd.",,
+A073,LongMemEval,temporal-reasoning,"Which event happened first, my attendance at a cultural festival or the start of my Spanish classes?",Spanish classes,"The provided memories do not contain sufficient information to answer your question. While you mentioned on May 27, 2023, that you have been taking Spanish classes, there is no mention of when you started them, nor is there any mention of you attending a cultural festival (only that you attended the ""Women in Art"" exhibition on February 10, 2023). Therefore, it is impossible to determine which event happened first.",,
+A074,LoCoMo,category 1,What events has Caroline participated in to help children?,"Mentoring program, school speech","School event, adoption council meeting, LGBTQ youth mentorship, youth center volunteering.",,
+A075,LongMemEval,multi-session,How many rare items do I have in total?,99,"You have a total of **99 rare items** (or **100** if the new vinyl record you got on May 22, 2023, was not yet counted in your 57 records). Here is the breakdown of your collections:
+
+* **Rare figurines:** 12
+* **Rare vinyl records:** 57 (plus 1 new vinyl record mentioned on May 22, 2023, though you later referred to the collection as 57 records; this excludes the 1967 pressing of The Beatles' *Sgt. Pepper's Lonely Hearts Club Band* that you already sold)
+* **Rare books:** 5 (including your first edition of *To Kill a Mockingbird*)
+* **Rare coins:** 25
+
+*(Note: You also have 1 antique vase belonging to your grandmother/friend, which would bring the total to 100 or 101 items if counted as part of your rare collection.)*",,
+A076,LongMemEval,temporal-reasoning,How many days had passed between the day I bought a gift for my brother's graduation ceremony and the day I bought a birthday gift for my best friend?,7 days. 8 days (including the last day) is also acceptable.,"Depending on which record is used for the wireless headphone you got as a graduation gift for your brother, either **7 days** or **33 days** had passed before you got the silver necklace with a tiny pendant for your best friend's 30th birthday on **March 15, 2023**:
+
+* **7 days:** Based on your statement that you got the wireless headphone for your brother's graduation on **March 8, 2023** (March 8 to March 15).
+* **33 days:** Based on your online shopping log, which lists the purchase date of the wireless headphone as **February 10, 2023** (""the 10th of last month"") (February 10 to March 15).",,
+A077,LongMemEval,multi-session,"How many tanks do I currently have, including the one I set up for my friend's kid?",3,"Based on our previous conversations and your question, you have **3 tanks** (and possibly a 4th if you went ahead with your quarantine tank):
+
+1. **A 5-gallon tank** that you got from your cousin (which held your solitary betta fish, Finley).
+2. **A 20-gallon community tank** that you recently set up.
+3. **The tank for your friend's kid** (which you mentioned in your question, though we haven't discussed the details of it in our previous chats).
+
+*(Note: On May 23, 2023, you also mentioned that you were thinking about setting up a separate **quarantine tank**, which would bring the total to **4 tanks** if you ended up setting it up.)*",,
+A078,LoCoMo,category 1,What kind of interests do Joanna and Nate share?,"Watching movies, making desserts",Watching movies.,,
+A079,LongMemEval,temporal-reasoning,How long had I been watching stand-up comedy specials regularly when I attended the open mic night at the local comedy club?,2 months,"You had been watching stand-up comedy specials regularly for **about 2 months** when you attended the open mic night. 
+
+Here is the timeline based on your conversations on May 20, 2023:
+* **Around February 2023 (3 months prior):** You started watching stand-up specials regularly after seeing a John Mulaney special on Netflix.
+* **April 2023 (1 month prior):** You attended the open mic night at the local comedy club.",,
+A080,LoCoMo,category 2,When did Caroline encounter people on a hike and have a negative experience?,The week before 25 August 2023,August 2023 (around mid-August),,
+A081,LoCoMo,category 1,What books has Tim read?,"Harry Potter, Game of Thrones, the Name of the Wind, The Alchemist, The Hobbit, A Dance with Dragons, and the Wheel of Time.","""The Alchemist"", ""A Dance with Dragons"", and the GoT series.",,
+A082,LoCoMo,category 3,What kind of yoga for building core strength might John benefit from?,Hatha Yoga,Warrior II and balancing poses.,,
+A083,LongMemEval,temporal-reasoning,"Who graduated first, second and third among Emma, Rachel and Alex?","Emma graduated first, followed by Rachel and then Alex.","Based on the memories provided, the order of graduation from first to third is:
+
+1. **Emma** graduated first from high school on **May 27, 2022** (late May 2022).
+2. **Rachel** graduated second with her master's degree on **June 21, 2022**.
+3. **Alex** graduated third from college with an engineering degree around **July 1, 2022** (about two weeks prior to July 15, 2022).",,
+A084,LoCoMo,category 2,How long did Evan and his partner date before getting married?,four months,Around 4.5 months (August to December 2023),,
+A085,LongMemEval,temporal-reasoning,How many weeks ago did I attend the 'Summer Nights' festival at Universal Studios Hollywood?,3 weeks ago,"You attended the ""Summer Nights"" festival at Universal Studios Hollywood (where you visited the Wizarding World of Harry Potter with Rachel and Mike) **3 weeks ago**, around **July 15, 2023**, which is when you mentioned that you had ""just got back"" from the trip. *(Note: In that same July 15, 2023 conversation, the assistant oddly remarked that you went ""three weeks ago"" [June 24, 2023], which would make it **6 weeks ago** from today, August 5, 2023, though your own statement indicates it was 3 weeks ago).*",,
+A086,LoCoMo,category 4,What did John celebrate at a restaurant with teammates?,a tough win,Winning a basketball game and scoring 40 points.,,
+A087,LongMemEval,multi-session,How many plants did I acquire in the last month?,3,"You acquired **2 plants** in the past 30 days (this month): a **peace lily** and a **succulent**, which you bought from a nursery on **May 6, 2023**. 
+
+*(Note: If you are also counting the previous calendar month, you acquired **3 plants** in total, as you got a **snake plant** from your sister in **April 2023**.)*",,
+A088,LongMemEval,single-session-assistant,I'm going back to our previous conversation about DIY home decor projects using recycled materials. Can you remind me what sealant you recommended for the newspaper flower vase?,Mod Podge or another sealant,"In our conversation on May 20, 2023, I recommended using **Mod Podge** (or another sealant) to seal the Newspaper Flower Vase and make it water-resistant.",,
+A089,LoCoMo,category 2,When was Jon in Rome?,June 2023,The week before 19 June 2023.,,
+A090,LoCoMo,category 2,When did Evan start taking painting classes?,"Few days before 19 August, 2023.",August 2023,,
+A091,LoCoMo,category 1,What kind of professional activities does Jolene participate in to gain more experience in her field?,"present work at virtual conference, attend workshops  and intern at firms",Interning at an engineering firm.,,
+A092,LongMemEval,single-session-preference,I'm planning a trip to Denver soon. Any suggestions on what to do there?,"The user would prefer responses that take into account their previous experience in Denver, specifically their interest in live music and memorable encounter with Brandon Flowers. They might appreciate suggestions that revisit or build upon this experience, such as revisiting the same bar or exploring similar music venues in the area. The user may not prefer general tourist recommendations or activities unrelated to their interest in live music.","Since you loved Denver's music scene during your last trip for The Killers' concert (where you met Brandon Flowers) and mentioned wanting to grab BBQ before a show, here are some tailored suggestions based on what we discussed on May 27, 2023:
+
+**Catch Live Music at Iconic Venues:**
+* **Red Rocks Park and Amphitheatre:** Since you are thinking of going back here for another concert, it's always worth a visit.
+* **The Ogden Theatre:** A historic venue in LoDo for indie, rock, and electronic acts.
+* **The Bluebird Theater:** Great for singer-songwriters and rock bands.
+* **The Fillmore Auditorium:** An iconic venue featuring rock, hip-hop, and more.
+* **Larimer Lounge:** A smaller, cozy venue for discovering new talent.
+* **The hi-dive & The Marquis Theater:** Great spots for punk, indie, alternative, rock, and pop shows.
+
+**Explore Music Spots & Festivals:**
+* **Twist & Shout Records:** A legendary record store where you can browse vinyl and CDs.
+* **Music Festivals:** Depending on when you go, check out **Grandoozy**, **Denver Folk Festival**, **Denver Jazz Festival**, **Westword Music Showcase**, or **Riot Fest Denver** (held in September).
+
+**Grab BBQ Near Red Rocks Amphitheatre:**
+If you head to Red Rocks early for dinner before a concert, check out one of these nearby BBQ joints:
+* **Wayne's Smoke Shack** (Morrison, CO – just a few minutes from Red Rocks)
+* **GQue BBQ** (Golden, CO – 10–15 minute drive from Red Rocks)
+* **Moe's Original BBQ** (Wheat Ridge, CO – 15–20 minute drive from Red Rocks)
+* **Dinosaur Bar-B-Que** (Lakewood, CO – 20–25 minute drive from Red Rocks)
+* **Big B's Delicious BBQ** (Arvada, CO – 20–25 minute drive from Red Rocks)",,
+A093,LongMemEval,single-session-preference,I am planning another theme park weekend; do you have any suggestions?,"The user would prefer theme park suggestions that cater to their interest in both thrill rides and special events, utilizing their previous experiences at Disneyland, Knott's Berry Farm, Six Flags Magic Mountain, and Universal Studios Hollywood as a reference point. They would also appreciate recommendations that highlight unique food experiences and nighttime shows. The user might not prefer suggestions that focus solely on one aspect of theme parks, such as only thrill rides or only family-friendly attractions, and may not be interested in parks that lack special events or unique dining options.","Based on your love for thrill rides, nighttime shows, unique food experiences, and your interest in Halloween events, here are two great options for your next theme park weekend:
+
+1. **Explore New Southern California Parks:** Since you recently visited **Disneyland**, **Knott's Berry Farm**, **Six Flags Magic Mountain**, and **Universal Studios Hollywood**, you could head south to San Diego or Carlsbad for a new experience:
+   - **SeaWorld San Diego:** Features great thrill rides (like *Emperor*, *Electric Eel*, and *Manta*), nighttime shows, and its **Howl-O-Scream** event (starting in September 2023), which offers haunted houses, scare zones, and themed food and drinks.
+   - **Disney California Adventure:** If you only visited Disneyland Park previously, head across the esplanade to experience **Oogie Boogie Bash**, Guardians of the Galaxy – Mission: BREAKOUT! (*Monsters After Dark* Halloween overlay), and unique culinary offerings across the park.
+   - **LEGOLAND California:** Hosts its annual **Brick-or-Treat** Monster Party on select weekends starting in September 2023 with seasonal snacks and live entertainment.
+
+2. **Plan a September/October 2023 ""Halloween & Foodie"" Return Trip:** Since you are particularly interested in Halloween-themed events and exclusive dining, consider scheduling your weekend between mid-September and early November 2023 to revisit your favorite parks as they transform for the season:
+   - **Disneyland Resort (Halloween Time):** Book a reservation for the Halloween menu at the **Blue Bayou Restaurant**, catch the **Oogie Boogie Bash** and Halloween parade, and try the *Pumpkin Beignets* and *Candy Corn Funnel Cake*.
+   - **Universal Studios Hollywood (Halloween Horror Nights) & Knott's Berry Farm (Knott's Scary Farm):** Pair these two in one weekend for top-tier haunted mazes, nighttime scare zones, thrill rides in the dark, and themed treats like *Flesh-Eating Zombie Fingers* and *Mummy Meatball Subs*.
+   - **Six Flags Magic Mountain (Fright Fest):** Ideal for riding heavy-hitting thrill coasters in the dark while enjoying *Zombie Brain Cupcakes* and *Witch's Brew*.",,
+A094,LoCoMo,category 4,What did Audrey share to show ways to keep dogs active in the city?,photography of a basket full of stuffed animals,"Photos of her entertaining her dogs with toys, games, and playing fetch in the park.",,
+A095,LoCoMo,category 4,What type of projects is Jolene interested in getting involved in the future?,Sustainable initiatives and developing innovative solutions for environmental issues,Renewable energy and clean water.,,
+A096,LoCoMo,category 2,When did Sam first go to the doctor and find out he had a weight problem?,"A few days before May 24, 2023.",A few days before 24 May 2023.,,
+A097,LoCoMo,category 2,How long did John practice chess for before winning the chess tournament?,nearly four months,About three and a half months.,,
+A098,LoCoMo,category 1,Who was injured in Evan's family?,Evan's son and Evan himself,His son.,,
+A099,LongMemEval,knowledge-update,What time do I wake up on Saturday mornings?,7:30 am,"Your wake-up time on Saturday mornings varies. Specifically, you woke up at 7:30 am on Saturday, May 13, 2023 (""the previous Saturday""), and at 9:30 am on Saturday, May 20, 2023 (""last Saturday""). However, your goal is to establish a consistent weekend wake-up time of 8:00 am.",,
+A100,LoCoMo,category 3,How old is Jolene?,likely no more than 30; since she's in school,Jolene's age is not mentioned.,,
+A101,LongMemEval,single-session-preference,Can you recommend some recent publications or conferences that I might find interesting?,"The user would prefer suggestions related to recent research papers, articles, or conferences that focus on artificial intelligence in healthcare, particularly those that involve deep learning for medical image analysis. They would not be interested in general AI topics or those unrelated to healthcare.","Based on your work and research interests in **deep learning for medical image analysis**, **explainable AI (XAI)**, **multi-agent and multimodal reinforcement learning**, and **functional neural interfaces**, here are some conferences and publications you might find interesting:
+
+### **1. Top AI, Computer Vision, & Reinforcement Learning Conferences**
+Since you are interested in deep learning, computer vision, and multi-agent/multimodal reinforcement learning (as well as autonomous systems for environmental sustainability), these premier peer-reviewed conferences are ideal:
+* **NeurIPS** (Conference on Neural Information Processing Systems) – Great for foundational deep learning, reinforcement learning, and computational neuroscience/BCI research.
+* **ICML** (International Conference on Machine Learning) & **ICLR** (International Conference on Learning Representations) – Top venues for advancements in representation learning, transfer learning, domain adaptation, and multi-agent RL.
+* **CVPR** (IEEE/CVF Conference on Computer Vision and Pattern Recognition) & **ICCV** (International Conference on Computer Vision) – Essential for image segmentation, multimodal fusion, and visual explainability techniques (such as saliency maps and attention mechanisms).
+* **AAMAS** (International Conference on Autonomous Agents and Multiagent Systems) & **ICRA** (IEEE International Conference on Robotics and Automation) – Highly relevant to your interest in autonomous agents and robotics.
+
+### **2. Medical Image Analysis Conferences**
+Given your focus on medical image segmentation, multimodal fusion, and clinical XAI:
+* **MICCAI** (Medical Image Computing and Computer Assisted Intervention) – The leading conference for medical image analysis, hosting workshops on brain tumor segmentation (BraTS), domain adaptation, and interpretability.
+* **ISBI** (IEEE International Symposium on Biomedical Imaging) – Focuses on mathematical, algorithmic, and computational aspects of biological and biomedical imaging.
+* **MIDL** (Medical Imaging with Deep Learning) – Specifically dedicated to deep learning methodologies in medical imaging.
+
+### **3. Relevant Journals & Publications**
+* **Medical Imaging & XAI:**
+  * *IEEE Transactions on Medical Imaging (TMI)*
+  * *Medical Image Analysis (MedIA)*
+  * *Nature Biomedical Engineering*
+  * **Key Papers to Explore:** Surveys and technical papers on **Grad-CAM**, **Attention-Gated Networks**, **SHAP**, and **LIME** applied to medical imaging, as well as recent reviews like *""Explainable AI in Medical Imaging: A Survey""* and *""Domain Adaptation for Medical Image Analysis: A Survey.""*
+* **AI, Robotics, & Sustainability:**
+  * *Journal of Machine Learning Research (JMLR)*
+  * *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
+  * Publications from the **University of Edinburgh's Autonomous Agents Research Group** (led by Dr. Stefano V. Albrecht) on multi-agent reinforcement learning.
+* **Neuroscience & Neural Interfaces:**
+  * *Journal of Neural Engineering*
+  * *IEEE Transactions on Neural Systems and Rehabilitation Engineering* (for research on nanotransducers and bidirectional brain-computer interfaces).",,
+A102,LongMemEval,single-session-preference,Can you recommend a show or movie for me to watch tonight?,"The user would prefer recommendations for stand-up comedy specials on Netflix, especially those that are known for their storytelling. They may not prefer recommendations for other genres or platforms.","Based on your interests in Ancient Egypt and stand-up comedy with strong storytelling (like John Mulaney's *Kid Gorgeous*), here are a few recommendations for what you could watch tonight:
+
+**If you're in the mood for Stand-Up Comedy (on Netflix):**
+*   **Previously Recommended:** If you haven't watched them yet, check out ***Hasan Minhaj: Homecoming King*** (2017) or ***Ali Wong: Hard Knock Wife*** (2018), both of which weave great personal anecdotes and storytelling into their sets.
+*   **New Recommendations:** 
+    *   ***Mike Birbiglia: The New One*** (2019) – Birbiglia is a master of long-form storytelling in comedy, blending humor with a deeply personal narrative about parenthood.
+    *   ***Dave Chappelle: Sticks & Stones*** (2019) or ***The Closer*** (2021) – Known for his masterful, conversational storytelling style.
+    *   ***Patton Oswalt: Annihilation*** (2017) – A brilliant example of weaving heavy personal life events into a cohesive, hilarious narrative.
+
+**If you're in the mood for Ancient Egypt Documentaries & Movies:**
+*   **Previously Recommended Series:** You could start one of the documentary series we discussed, such as ***Secrets of the Pharaohs*** (National Geographic, 2019, 4 parts), ***Ancient Egypt: Life and Death in the Valley of the Kings*** (BBC, 2016, 3 parts), or ***The Nile: Egypt's Great River*** (BBC, 2019, 3 parts).
+*   **New Feature-Length Recommendation:** ***Secrets of the Saqqara Tomb*** (2020) on Netflix – A fascinating feature-length documentary following a team of Egyptian archaeologists as they unearth a 4,400-year-old tomb that had never been looted.",,
+A103,LongMemEval,multi-session,What is the total number of days I spent in Japan and Chicago?,"11 days (or 12 days, if April 15th to 22nd is considered as 8 days)","You spent a total of **11 to 12 days** on your trips to Japan and Chicago:
+
+* **Chicago:** **4 days** (during your trip in March 2023).
+* **Japan (Tokyo):** **7 days**—or **8 days** if counting both start and end dates inclusively (during your trip from April 15th to April 22nd). 
+
+*(Note: In a separate conversation on May 28, 2023, you also mentioned that you had been living in Tokyo, Japan for about 5 months.)*",,
+A104,LoCoMo,category 2,When did John start working on his 2D Adventure mobile game?,approximately summer of 2022,A few months before September 2022.,,
+A105,LongMemEval,single-session-preference,I've been sneezing quite a bit lately. Do you think it might be my living room?,"The user would prefer responses that consider the potential impact of their cat, Luna, and her shedding on their sneezing, as well as the recent deep clean of the living room and its possible effect on stirring up dust. They might not prefer responses that fail to take into account these specific details previously mentioned, such as generic suggestions or unrelated factors.","Yes, your living room could very likely be the cause of your sneezing. On May 26, 2023, you mentioned struggling to keep your living room dust-free because you have a cat that sheds a lot. The accumulation of cat hair, pet dander, and dust in your living room can easily trigger allergy symptoms like sneezing. 
+
+If you haven't already, you might want to try some of the steps we discussed to reduce allergens in that space, such as vacuuming at least twice a week with a HEPA-filter vacuum (which traps 99.97% of dust and dander), dusting with a damp microfiber cloth, regularly grooming your cat, washing your cat's bedding, and changing your home's air filters every 1-3 months.",,
+A106,LoCoMo,category 4,How does Evan describe the island he grew up on?,A happy place,"A serene, peaceful slice of paradise.",,
+A107,LoCoMo,category 2,When is Caroline going to the transgender conference?,July 2023,10 July 2023,,
+A108,LongMemEval,abstention,"Which task did I complete first, fixing the fence or purchasing three cows from Peter?",The information provided is not enough. You mentioned fixing the fence but did not mention purchasing cows from Peter.,"You completed **fixing the broken fence** on the east side of your property first, which you did three weeks ago (around April 30, 2023). 
+
+As for purchasing three cows from Peter, there is no record of this in our conversations. You only mentioned that you are thinking about finalizing the purchase of a single new dairy cow (either a Brown Swiss or a Jersey) soon, meaning that task has not been completed yet.",,
+A109,LoCoMo,category 3,Why did Jolene sometimes put off doing yoga?,She's more interested in playing video games,Busy with engineering school and partner's video games.,,
+A110,LoCoMo,category 3,Which Star Wars-related locations would Tim enjoy during his visit to Ireland?,"Skellig Michael, Malin Head, Loop Head, Ceann Sibéal, and Brow Head because they are Star Wars filming locations.",Skellig Michael and Malin Head.,,
+A111,LongMemEval,knowledge-update,How long have I been living in my current apartment in Harajuku?,3 months,"Based on your most recent statement on October 15, 2023, you have been living in Harajuku for **3 months** (since around July 2023). *(Note: In an earlier conversation on April 11, 2023, you mentioned you had already been living in your new studio apartment in Harajuku for a month—since around March 2023—which would calculate to about **7 months** as of October 15, 2023).*",,
+A112,LoCoMo,category 1,Which of Deborah`s family and friends have passed away?,"mother, father, her friend Karlie","Mother, father, and friend Karlie.",,
+A113,LoCoMo,category 1,What activities does Deborah pursue besides practicing and teaching yoga?,"biking, going to art shows, running, organizing workshops to practice mindfulness and self-care, surfing, gardening",Biking and attending art shows.,,
+A114,LongMemEval,single-session-preference,I'm thinking of inviting my colleagues over for a small gathering. Any tips on what to bake?,"The user would prefer baking suggestions that take into account their previous success with the lemon poppyseed cake, such as variations of that recipe or other desserts that share similar qualities. They might prefer suggestions that balance impressiveness with manageability, considering their previous experience. The user may not prefer overly complex or unfamiliar recipes, or suggestions that do not build upon their existing baking experience.","Since the **lemon poppyseed cake** you previously baked for a colleague's going-away party was a big hit, you could make that again or try the **lemon lavender pound cake** recipe we recently discussed (using ground dried culinary lavender buds and a mix of granulated and brown sugar) for a sophisticated twist on a flavor they already love. 
+
+If you want to offer more variety or richer options, here are a few other ideas based on what you've been interested in lately:
+* **Chocolate Cake with Caramel Ganache Frosting:** A decadent option if you want to switch up the flavor profile from citrus to rich mocha/chocolate.
+* **Cookies:** Since you've been baking cookies on the weekends, you could whip up a batch of **chewy chocolate chip cookies** (using a mix of white and brown sugar, room-temperature butter, and a touch of honey or Greek yogurt for extra moisture) or experiment with **oatmeal raisin cookies with nuts** (like the almonds and walnuts you enjoy snacking on). 
+* **Slow Cooker Desserts:** If you want something hands-off using your new slow cooker from Bed Bath & Beyond, you could even try making a **chocolate lava cake** or **apple cider donuts**.",,
+A115,LoCoMo,category 1,What kinds of things did Evan have broken?,His old Prius and his new Prius.,His new Prius (car).,,
+A116,LoCoMo,category 2,When did Joanna make a desert with almond milk?,"The Friday before 14September, 2022",9 September 2022,,
+A117,LoCoMo,category 2,When did Deborah lead a meditation session during the sunset?,"week before 16 August, 2023",The week before 16 August 2023,,
+A118,LongMemEval,multi-session,How many projects have I led or am currently leading?,2,"Based on your memories, you have led or are currently leading **4 to 5** main academic and professional projects (or **6** if counting your two customer data analysis discussions separately):
+
+1. **Marketing Research Class Project (Past):** You led the data analysis team to conduct a comprehensive market analysis for a new product launch.
+2. **High-Priority Software Engineering Project (Past):** After being promoted to Senior Software Engineer in February 2023 (three months prior to May 28, 2023) to lead a team of five engineers, you led and completed a high-priority project two months ahead of schedule, significantly increasing company revenue.
+3. **New Product Feature Launch (Current):** You are currently leading your team of five engineers (including junior engineer Alex) to launch a new product feature in June 2023.
+4. **Data Mining Class Solo Project / Customer Data Analysis (Current):** You are leading a solo project for your Data Mining class analyzing customer purchase data to identify patterns and trends (which aligns with the customer data clustering project you discussed on May 21, 2023).
+5. **Nigeria Running Water Project (Current/Planning):** You also mentioned planning a project in Nigeria to connect 100 rural villages to running water. 
+
+*(Note: Additionally, you are part of the Ethereum México Community Team working on the Ethereum Mexico event grant, and you are planning a personal wood-and-stone sculpting project).*",,
+A119,LoCoMo,category 2,Which city was Calvin visiting in August 2023?,Miami,Tokyo (and Miami),,
+A120,LoCoMo,category 2,When did Audrey adopt Pixie?,"around April 2, 2023",Late March or early April 2023,,
+A121,LongMemEval,multi-session,How many hours of jogging and yoga did I do last week?,0.5 hours,"The provided memories do not contain information about any jogging or yoga sessions completed last week (May 21–28, 2023). 
+
+The only recorded workout in your memories is a **30-minute (0.5-hour) neighborhood jog** on **Saturday, May 20, 2023**. Additionally, on **Monday, May 22, 2023**, you mentioned planning to try the **Down Dog** app to get back into yoga, but there is no record of any completed yoga sessions or their duration.",,

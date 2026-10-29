@@ -1,0 +1,117 @@
+{
+  "session_id": "thao.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao reloads her laundry card $20 at a time; laundry room is card only",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need to reload my laundry card $20 first, it's card only in our laundry room.",
+      "support_quote": ""
+    },
+    {
+      "text": "Terrence keeps texting union flyers; Thao only sent a thumbs up",
+      "about": "terrence",
+      "kind": "fact",
+      "item_id": "thao.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "terrence keeps texting union flyers and i only sent a thumbs up.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is undecided on the union vote",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i honestly haven't decided on the union stuff.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao has a baking show she watches in the evening",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my baking show is waiting",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants short direct steps without padding",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just the steps pls, no padding",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao needs to reload her laundry card $20",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Reload the laundry card $20 first.",
+      "support_quote": "need to reload my laundry card $20 first, it's card only in our laundry room."
+    },
+    {
+      "text": "Terrence sends Thao union flyers",
+      "about": "terrence",
+      "kind": "fact",
+      "item_id": "thao.f52",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Send Terrence the neutral line, mute the thread",
+      "support_quote": "terrence keeps texting union flyers and i only sent a thumbs up."
+    },
+    {
+      "text": "Thao is undecided on the union question",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f15",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Reminder to revisit the union question later",
+      "support_quote": "i honestly haven't decided on the union stuff."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f34",
+      "present": true,
+      "quote": "need to reload my laundry card $20 first, it's card only in our laundry room."
+    },
+    {
+      "item_id": "thao.f52",
+      "present": true,
+      "quote": "terrence keeps texting union flyers and i only sent a thumbs up."
+    },
+    {
+      "item_id": "thao.f15",
+      "present": true,
+      "quote": "i honestly haven't decided on the union stuff. want to put it off til later."
+    },
+    {
+      "item_id": "thao.f32",
+      "present": true,
+      "quote": "i want this all done in time for an early night, my baking show is waiting."
+    },
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "just the steps pls, no padding"
+    }
+  ],
+  "sensitive": []
+}

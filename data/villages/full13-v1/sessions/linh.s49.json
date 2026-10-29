@@ -1,0 +1,39 @@
+{
+  "id": "linh.s49",
+  "principal": "linh",
+  "start": "2025-10-15T12:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i need a plan for tomorrow. okoye did the review in anatomy this morning at 9 and now im spiraling a little 🫠\n\nwhat should i expect at the practical and how do i pace myself"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Anatomy lab practicals usually run like this:\n\n- Stations: you rotate around the room, with a tagged structure (bone, muscle, nerve, model or specimen) at each one\n- Timing: about 60-90 seconds per station, then a signal to move on\n- Questions: identify the tagged structure, sometimes plus a function, location or relationship\n- No going back once you've rotated\n\nPacing tips:\n- Answer your first instinct, then move on. Don't spend the whole timer on one hard station.\n- If you blank, write a partial answer (like the region or muscle group) instead of leaving it empty.\n- Use any spare seconds at the end of a station to double-check spelling.\n\nDid Dr. Okoye mention how many stations there are or how long each one is? I can build a more exact plan with that. And do you want it color-coded? If so, tell me your colors."
+    },
+    {
+      "role": "user",
+      "text": "yes pls color coded to match my notes. pink muscles, blue bones, green nerves. and yellow for stuff she said is on the practical\n\nshe didnt say exact stations just that its timed and no going back. thats the practical for u 😭"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go, in your colors. I've assumed about 60-90 seconds per station, so adjust once you know the real timing.\n\n**Tonight**\n- 🟡 Run your yellow list once, only the things Okoye flagged this morning\n- 🟦 Blue: bones, landmarks and markings, 20 min\n- 🟪 Pink (muscles): origin, insertion, action, 20 min\n- 🟩 Green: nerves and what they supply, 20 min\n- Stop at a set time and sleep. Last-minute cramming helps less than rest.\n\n**Tomorrow morning**\n- Eat something real before you go\n- 🟡 Skim the yellow list for 10 min, nothing new\n\n**During the practical**\n- Read the tag and question fully before answering\n- 🟦 Bones: name the bone first, then the specific marking\n- 🟪 Muscles: name it, then give the action if asked\n- 🟩 Nerves: name it, then the structure it supplies\n- Skip-and-guess rule: if you're stuck after about 15 seconds, write your best guess and move on\n- Breathe on every rotation\n\n**After**\n- Don't re-quiz yourself on the way out. You can't change anything now."
+    },
+    {
+      "role": "user",
+      "text": "ok this is good. lol jun and the regulars at the cafe call me doc so i better pass"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, then you've got a reputation to protect, Doc. 😄 From what you've described, you've got a color-coded system, a yellow list and the review fresh in your head, so you're set up well. Follow the plan, sleep, and eat breakfast.\n\nWant me to turn tonight's block into a clock-time schedule? Tell me when you finish work or class and when you want lights out."
+    },
+    {
+      "role": "user",
+      "text": "nah this is enough thx\n\nok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call, go eat. Good luck tomorrow! ☕"
+    }
+  ]
+}

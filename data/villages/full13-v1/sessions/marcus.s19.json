@@ -1,0 +1,47 @@
+{
+  "id": "marcus.s19",
+  "principal": "marcus",
+  "start": "2025-10-04T14:54:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick i need to look into how the stats tutoring center at bayshore works. i got a D in stats 120 after the first two quizzes so i need to fix that. they have a wednesday 12:30 slot i wanna book"
+    },
+    {
+      "role": "assistant",
+      "text": "Good move getting ahead of it. I can't see Bayshore's live booking system, so check their site for exact policies, but most university tutoring centers work like this:\n\n1. Book online or at the front desk, pick a recurring weekly slot (Wednesday 12:30 works for that).\n2. Bring your syllabus, quiz results and any homework you're stuck on.\n3. Sessions are usually 30-60 minutes, drop-in or one-on-one, and free for enrolled students.\n4. Arrive a few minutes early to check in.\n\nFor Stats 120, early-semester quizzes usually cover:\n- Types of variables and data\n- Mean, median, mode, standard deviation, quartiles and boxplots\n- Histograms and describing distributions (skew, outliers)\n- Basic probability rules\n- Normal distribution and z-scores\n\nWant me to write some practice problems on those?"
+    },
+    {
+      "role": "user",
+      "text": "yeah gimme a few reps. also the intake form wants my age and ID. im 19"
+    },
+    {
+      "role": "assistant",
+      "text": "Here are some reps:\n\n1. Data: 4, 7, 7, 9, 12, 15, 30. Find the mean, median and mode. Which is pulled most by the outlier?\n2. Find Q1, Q3 and the IQR for the same data. Is 30 an outlier by the 1.5×IQR rule?\n3. Scores are normal with mean 70 and SD 8. What's the z-score for 86? Roughly what percent score above it?\n4. P(A)=0.4, P(B)=0.5, and they're independent. Find P(A and B) and P(A or B).\n5. Explain in one sentence why standard deviation can't be negative.\n\nFor the form, put 19 for age. What kind of ID does it ask for? Student ID is usually the one they want."
+    },
+    {
+      "role": "user",
+      "text": "it says gov id to verify me. my license is D7392841 how do i format that in the field"
+    },
+    {
+      "role": "assistant",
+      "text": "Government ID fields usually want the number exactly as printed on the card, so:\n\n- Type it with no spaces or dashes.\n- Keep the letter capitalized.\n- Pick \"Driver's License\" (California) in the ID type dropdown if there is one.\n- Double-check each character against the card before submitting.\n\nSince it's sensitive, make sure the page is the official Bayshore site (https and a university address) before you enter it. If they accept your student ID instead, that's the safer one to use."
+    },
+    {
+      "role": "user",
+      "text": "ok thanks. one more. how do i say \"i got it\" to my roommate after he handed me a printed budget. like nicely but not a whole convo"
+    },
+    {
+      "role": "assistant",
+      "text": "A few short options:\n\n1. \"Appreciate it, I've got it covered.\"\n2. \"Thanks man, I got this one.\"\n3. \"Good looking out, I'm handling it.\"\n\nNumber 2 is the most casual."
+    },
+    {
+      "role": "user",
+      "text": "lol 2 is good. thx"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice. Good luck with the Wednesday session. Come back if you want more practice problems."
+    }
+  ]
+}

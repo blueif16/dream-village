@@ -1,0 +1,102 @@
+{
+  "session_id": "noemi.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi needs to log six dead scanners on her RMA sheet",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need to log six dead scanners on the RMA sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Fleet is about 620 handhelds and the cage is filling up",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fleet is about 620 handhelds and the cage is filling up",
+      "support_quote": ""
+    },
+    {
+      "text": "Desk tickets go in the internal queue, RMAs tracked in her own spreadsheet",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "desk tickets go in the internal queue but i track rma stuff in my own spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Carla pings Noemi's cell whenever a scanner dies",
+      "about": "carla",
+      "kind": "fact",
+      "item_id": "noemi.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "carla pings my cell directly whenever a scanner dies",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's fleet is about 620 handhelds",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With a fleet of about 620, a few units out at a time is normal, but a full cage hurts.",
+      "support_quote": "fleet is about 620 handhelds and the cage is filling up"
+    },
+    {
+      "text": "Noemi tracks RMAs in her own spreadsheet",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Columns for your spreadsheet",
+      "support_quote": "i track rma stuff in my own spreadsheet"
+    },
+    {
+      "text": "Carla contacts Noemi about dead scanners",
+      "about": "carla",
+      "kind": "fact",
+      "item_id": "noemi.f52",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Number to give Carla",
+      "support_quote": "carla pings my cell directly whenever a scanner dies"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.r02",
+      "present": true,
+      "quote": "i need to log six dead scanners on the RMA sheet"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "fleet is about 620 handhelds and the cage is filling up"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "desk tickets go in the internal queue but i track rma stuff in my own spreadsheet"
+    },
+    {
+      "item_id": "noemi.f52",
+      "present": true,
+      "quote": "carla pings my cell directly whenever a scanner dies"
+    }
+  ],
+  "sensitive": []
+}

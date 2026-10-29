@@ -1,0 +1,353 @@
+{
+  "session_id": "rafael.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "G1 practice test is Nov 18, needed for shop internship",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the G1 practice test is tomorrow nov 18, i need it for the shop internship",
+      "support_quote": ""
+    },
+    {
+      "text": "uses the term 'the G1' for the practice exam",
+      "about": "rafael",
+      "kind": "reference_use",
+      "item_id": "rafael.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bro the G1 practice test is tomorrow nov 18",
+      "support_quote": ""
+    },
+    {
+      "text": "puts the stand ahead of his own goals",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nel never mind forget it. the stand needs me.",
+      "support_quote": ""
+    },
+    {
+      "text": "does things for his mom rather than saying it",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already sandbagged and tarped the stand area last week so my mom wouldnt have to lift anything",
+      "support_quote": ""
+    },
+    {
+      "text": "tempted by side deal but wary of risk",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its kinda tempting. what does labor only mean if the first car loses money",
+      "support_quote": ""
+    },
+    {
+      "text": "Dante offers 30% of profit labor-only car deal",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my classmate dante wants me to fix up civics he flips for 30% of the profit labor only",
+      "support_quote": ""
+    },
+    {
+      "text": "G1 test is tomorrow",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck on the G1 tomorrow.",
+      "support_quote": "the G1 practice test is tomorrow nov 18"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rafael.i01",
+      "present": true,
+      "quote": "nel never mind forget it. the stand needs me."
+    },
+    {
+      "item_id": "rafael.i04",
+      "present": true,
+      "quote": "i already sandbagged and tarped the stand area last week so my mom wouldnt have to lift anything. what else can i set up for her"
+    },
+    {
+      "item_id": "rafael.i06",
+      "present": true,
+      "quote": "its kinda tempting. what does labor only mean if the first car loses money"
+    },
+    {
+      "item_id": "rafael.r01",
+      "present": true,
+      "quote": "bro the G1 practice test is tomorrow nov 18"
+    },
+    {
+      "item_id": "rafael.f16",
+      "present": true,
+      "quote": "the G1 practice test is tomorrow nov 18, i need it for the shop internship"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

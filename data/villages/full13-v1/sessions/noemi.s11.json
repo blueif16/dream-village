@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s11",
+  "principal": "noemi",
+  "start": "2025-09-04T12:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. i need to log six dead scanners on the RMA sheet and i need to know typical vendor turnaround for returned handhelds. how does the rma process usually work and how long does it take"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Exact timing depends on the vendor and your warranty or service contract, but here's the typical flow:\n\n1. Request an RMA number: you submit serial numbers, model and a fault description (dead battery, bad trigger board, cracked screen, won't boot) through the vendor portal or support email.\n2. Vendor approves and issues the RMA, sometimes after remote troubleshooting steps.\n3. You ship the units, usually within 10-30 days of the RMA being issued, or it expires.\n4. Vendor receives and inspects, typically 2-5 business days.\n5. Repair or replace, then return shipping.\n\nTypical turnaround door to door:\n- Standard repair: 2-3 weeks, sometimes up to 4\n- Advance replacement (if your contract includes it): 3-7 business days\n- Expedited or premium service tiers: 5-10 business days\n\nThings that slow it down: missing serial numbers, damage that voids warranty, waiting on parts, and batches that sit before approval.\n\nDo you have a service contract with advance replacement? That changes the answer a lot."
+    },
+    {
+      "role": "user",
+      "text": "not sure on advance replacement, checking. fleet is about 620 handhelds and the cage is filling up so i cant sit on six forever. desk tickets go in the internal queue but i track rma stuff in my own spreadsheet. carla pings my cell directly whenever a scanner dies so i need a number i can actually tell her"
+    },
+    {
+      "role": "assistant",
+      "text": "That makes sense. With a fleet of about 620, a few units out at a time is normal, but a full cage hurts. Here's how I'd handle it:\n\n**Number to give Carla**\n- Safe default: 2-3 weeks for standard repair, and say it as a range, not a single date.\n- If advance replacement is on your contract: 3-7 business days for a swap.\n\n**Until you know, a line you can send:**\n\"Dead scanners go out for vendor repair. Expect about 2-3 weeks. I'll swap from spares where I can in the meantime.\"\n\n**Columns for your spreadsheet** (to track against the estimate):\n- Serial number\n- Date logged\n- RMA number\n- Date shipped\n- Date vendor received\n- Expected return (date shipped + 14-21 days)\n- Actual return\n- Status/notes\n\nA conditional formatting rule that highlights anything past its expected return date will catch stragglers before anyone has to ping you.\n\nOnce you confirm the contract terms, tell me and I can tighten the estimate."
+    },
+    {
+      "role": "user",
+      "text": "ty that's gg. adding the expected return col now"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Good luck with the six units, and ping me once you've checked the contract if you want the estimate tightened up."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "thao.s35",
+  "principal": "thao",
+  "start": "2025-11-03T17:26:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 5:26 and i work tonight. need a quick plan to fit laundry, groceries and sleep around my three night week. i work mon/tue/fri nights now so errands have to land wed/thu. bullet it pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan built around Mon/Tue/Fri nights:\n\n- Wed: laundry first (you're rested after Tue's shift and have a free evening). Do all loads in one trip.\n- Thu: groceries, then prep a few meals for Fri night.\n- Sat: sleep off Fri night, nothing scheduled.\n- Sun/Mon: light tidy only, then rest before Mon's shift.\n\nWant me to adjust the days or add anything?"
+    },
+    {
+      "role": "user",
+      "text": "laundry room is card only and i want to reload the card once, not every week. and everything needs to be done before i go to bed at 8:30am, blackout curtains and the box fan so no noise after"
+    },
+    {
+      "role": "assistant",
+      "text": "- Card: check the balance Wed, reload once for the whole stretch of loads you expect over the next couple of weeks, and keep the receipt/balance noted in your phone.\n- Batch all laundry into one Wed session: wash, dry, fold, put away that day.\n- Groceries Thu in one trip. Put cold items away right away, prep meals the same day.\n- Hard stop: finish all chores, dryers and any noisy stuff before 8:30 a.m. after your shift nights. After that it's curtains, fan, sleep, nothing else.\n- Mon/Tue/Fri mornings: just shower, eat, bed.\n\nThat keeps errands off your work days and your sleep window untouched."
+    },
+    {
+      "role": "user",
+      "text": "ok shorter. just the schedule"
+    },
+    {
+      "role": "assistant",
+      "text": "- Mon/Tue/Fri: work, home, bed by 8:30 a.m.\n- Wed: laundry (one card reload), all loads in one go\n- Thu: groceries + meal prep\n- Sat/Sun: rest, light tidy"
+    }
+  ]
+}

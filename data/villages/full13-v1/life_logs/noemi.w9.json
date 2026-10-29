@@ -1,0 +1,367 @@
+{
+  "principal": "noemi",
+  "week": 9,
+  "entries": [
+    {
+      "id": "noemi.w9.l01",
+      "date": "2025-10-20",
+      "what": "Late morning at the Verdant Commons kitchen table, Noemi asks for help writing a short email to Rhonda that 'mentions' she's covering Greg's duties without asking for anything.",
+      "with": [],
+      "outcome": "Sends a softened email that mentions the coverage and asks for nothing.",
+      "feeling": "awkward, guarded",
+      "facts": [
+        "noemi.f32"
+      ],
+      "impressions": [
+        "noemi.i01"
+      ]
+    },
+    {
+      "id": "noemi.w9.l02",
+      "date": "2025-10-20",
+      "what": "Before shift she moves her network cert exam from Nov 8 to Saturday Dec 6 because the overtime leaves no study time.",
+      "with": [],
+      "outcome": "Exam now Dec 6; she keeps drilling a little each day.",
+      "feeling": "annoyed, resigned",
+      "facts": [
+        "noemi.f07",
+        "noemi.f08"
+      ],
+      "impressions": [
+        "noemi.i05"
+      ]
+    },
+    {
+      "id": "noemi.w9.l03",
+      "date": "2025-10-20",
+      "what": "On the 1 p.m. to 11:30 p.m. swing at RF-4, Rhonda replies in the IT cage that the permanent lead decision comes after peak, mid-December.",
+      "with": [
+        "rhonda"
+      ],
+      "outcome": "Noemi knows the wait runs to December and keeps doing Greg's work.",
+      "feeling": "deflated",
+      "facts": [
+        "noemi.f50",
+        "noemi.f03",
+        "noemi.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l04",
+      "date": "2025-10-20",
+      "what": "Late night at home, Iris is still up and Noemi tells her about the timeline over reheated rice.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Iris says to just apply; Noemi goes to bed around 1 a.m.",
+      "feeling": "tired, supported",
+      "facts": [
+        "noemi.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l05",
+      "date": "2025-10-21",
+      "what": "Slow morning at home, Noemi calls this 'hardcore mode' week and asks for a meal-prep list for the 10-hour swings.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Gets a short list of rice bowls and snacks; Iris adds it to the budget sheet.",
+      "feeling": "wry, stretched",
+      "facts": [
+        "noemi.f25",
+        "noemi.f45"
+      ],
+      "impressions": [
+        "noemi.i06"
+      ]
+    },
+    {
+      "id": "noemi.w9.l06",
+      "date": "2025-10-21",
+      "what": "At RF-4 she spends the afternoon in the cage on dead scanners, with the ~30-handheld pile at peak.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao handles several battery swaps; the cage shrinks a bit.",
+      "feeling": "busy, steady",
+      "facts": [
+        "noemi.f34",
+        "noemi.f35",
+        "noemi.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l07",
+      "date": "2025-10-21",
+      "what": "Carla texts Noemi's cell about a dead scanner on the outbound dock mid-shift.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Swapped on the dock in ten minutes.",
+      "feeling": "hurried",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l08",
+      "date": "2025-10-22",
+      "what": "Noemi sleeps in until nine, then does a block of subnetting flashcards with coffee before shift.",
+      "with": [],
+      "outcome": "Finishes one chapter of the study guide.",
+      "feeling": "focused",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12",
+        "noemi.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l09",
+      "date": "2025-10-22",
+      "what": "She stops by Ana's office at RF-4 and learns Ana handles the internal lead posting paperwork.",
+      "with": [
+        "ana"
+      ],
+      "outcome": "Gets the posting details and says she'll think about it.",
+      "feeling": "nervous",
+      "facts": [
+        "noemi.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l10",
+      "date": "2025-10-22",
+      "what": "Evening swing: a run of frozen handhelds on the floor keeps her moving.",
+      "with": [],
+      "outcome": "Clears the queue by close.",
+      "feeling": "worn out",
+      "facts": [
+        "noemi.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l11",
+      "date": "2025-10-23",
+      "what": "Wakes late and updates her RMA sheet at home, listing scanners to send back to the vendor.",
+      "with": [],
+      "outcome": "Sheet current for the week.",
+      "feeling": "orderly",
+      "facts": [
+        "noemi.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l12",
+      "date": "2025-10-23",
+      "what": "Afternoon training with Bao in the cage on trigger-board swaps.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao completes one swap alone.",
+      "feeling": "patient, pleased",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l13",
+      "date": "2025-10-23",
+      "what": "Iris orders Thursday sushi and Noemi eats it at midnight after work.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Quiet end to the day.",
+      "feeling": "content",
+      "facts": [
+        "noemi.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l14",
+      "date": "2025-10-24",
+      "what": "Fills up at the Ruel Road station and has Taquería Colima tacos for the Friday meal at her desk.",
+      "with": [],
+      "outcome": "Eats between tickets.",
+      "feeling": "fine",
+      "facts": [
+        "noemi.f17",
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l15",
+      "date": "2025-10-24",
+      "what": "She submits her application for the permanent IT desk lead through Ana's posting process.",
+      "with": [
+        "ana"
+      ],
+      "outcome": "Application submitted and confirmed.",
+      "feeling": "nervous, proud",
+      "facts": [
+        "noemi.f36",
+        "noemi.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l16",
+      "date": "2025-10-24",
+      "what": "Evening on the floor, Victor's acting-lead mess slows her down on a vendor ticket; she works late.",
+      "with": [
+        "victor"
+      ],
+      "outcome": "Fixes it herself.",
+      "feeling": "irritated",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l17",
+      "date": "2025-10-25",
+      "what": "Saturday morning walk on the Ulloa marsh boardwalk before her overtime Saturday.",
+      "with": [],
+      "outcome": "Clears her head.",
+      "feeling": "calm",
+      "facts": [
+        "noemi.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l18",
+      "date": "2025-10-25",
+      "what": "Works the every-other-Saturday overtime shift at RF-4, mostly scanner triage.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Carla's crew gets through with few red beeps.",
+      "feeling": "drained",
+      "facts": [
+        "noemi.f03",
+        "noemi.f49"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l19",
+      "date": "2025-10-25",
+      "what": "Home late, she and Iris watch a show on their shared streaming account.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Asleep by one.",
+      "feeling": "cozy",
+      "facts": [
+        "noemi.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l20",
+      "date": "2025-10-26",
+      "what": "Sunday late morning she runs subnetting drills and asks for harder problems.",
+      "with": [],
+      "outcome": "Does a drill set and plans more before the next swing.",
+      "feeling": "determined",
+      "facts": [
+        "noemi.f12",
+        "noemi.f08"
+      ],
+      "impressions": [
+        "noemi.i05"
+      ]
+    },
+    {
+      "id": "noemi.w9.l21",
+      "date": "2025-10-26",
+      "what": "Visits her parents' fourplex off Vinca Avenue and fixes the printer.",
+      "with": [],
+      "outcome": "Printer works again.",
+      "feeling": "fond, tired",
+      "facts": [
+        "noemi.f27",
+        "noemi.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w9.l22",
+      "date": "2025-10-26",
+      "what": "Sunday night she plays her co-op survival game as packetloss_ with her squad.",
+      "with": [],
+      "outcome": "Finishes a run and logs off.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w9.n01",
+      "subject": "noemi",
+      "attribute": "lead_application_date",
+      "value": "told Iris she applied for the lead after submitting it",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w9.n02",
+      "subject": "noemi",
+      "attribute": "meal_prep",
+      "value": "preps rice bowls on Sundays for overtime weeks",
+      "valid_from": "2025-10-21",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w9.n03",
+      "subject": "noemi",
+      "attribute": "study_plan",
+      "value": "adds a daily subnetting drill set before each swing",
+      "valid_from": "2025-10-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w9.n04",
+      "subject": "bao",
+      "attribute": "milestone",
+      "value": "did a trigger-board swap solo",
+      "valid_from": "2025-10-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w9.n05",
+      "subject": "noemi",
+      "attribute": "printer_fix",
+      "value": "fixed her parents' printer on Oct 26",
+      "valid_from": "2025-10-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

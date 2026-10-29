@@ -1,0 +1,80 @@
+{
+  "impression_id": "rafael.i03",
+  "evidence_sessions": [
+    "rafael.s04",
+    "rafael.s09",
+    "rafael.s10"
+  ],
+  "inferred": [
+    {
+      "statement": "Rafael is confident in hands-on automotive work but loses footing on test wording, so he learns best when concepts are translated into what he'd see or do on the car.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s09"
+      ]
+    },
+    {
+      "statement": "He second-guesses himself on timed quizzes, changing right answers to wrong ones, and keeps asking for strategies to stop.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s09"
+      ]
+    },
+    {
+      "statement": "He seeks reassurance about his progress, asking whether his passing 71 practice score was just luck instead of crediting his own study method.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s09",
+        "rafael.s10"
+      ]
+    },
+    {
+      "statement": "He is diligent and resourceful about preparing for the G1, using flashcards, spoken voice memos played while he works at his family's stand, and drilling in advance.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s09",
+        "rafael.s10"
+      ]
+    },
+    {
+      "statement": "He feels guilty or hesitant about asking for accommodations or making purchases, such as apologizing for asking for a different lab time and saying he should have waited on the tools.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s10"
+      ]
+    },
+    {
+      "statement": "He balances work at his family's food stand with school and treats family obligations as a fixed constraint on his schedule.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s09",
+        "rafael.s10"
+      ]
+    },
+    {
+      "statement": "He prefers casual, short, practical help in slangy language and responds warmly to answers that are concrete and ready to use.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s09",
+        "rafael.s10"
+      ]
+    },
+    {
+      "statement": "He freely pastes sensitive personal and financial details (student ID, license number, bank routing and account numbers) into chats, showing low caution about sharing them.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s04",
+        "rafael.s10"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He second-guesses himself on timed quizzes, changing right answers to wrong ones, and keeps asking for strategies to stop.",
+  "rationale": "The strong statement that he second-guesses himself on timed quizzes, changing right answers to wrong ones, and seeks strategies to stop expresses the same pattern of test anxiety and self-doubt despite knowing the material."
+}

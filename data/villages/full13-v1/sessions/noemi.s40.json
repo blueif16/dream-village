@@ -1,0 +1,39 @@
+{
+  "id": "noemi.s40",
+  "principal": "noemi",
+  "start": "2025-10-06T18:04:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need a short subnetting + port numbers drill. first 10 hour swing starts today, 1 pm to 11:30 pm mon-fri plus every other sat. so i only have like 20 min on a break tonight. need it tight"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, a tight session. Which cert are you studying for, and what part trips you up most: finding the network and broadcast address, counting hosts, or picking the right mask?"
+    },
+    {
+      "role": "user",
+      "text": "subnetting and port numbers are what i keep missing. start there. i use a practice-test app plus a secondhand study guide with tabbed chapters so if you can explain it in a way that matches chapters thatd be great. currently averaging 71% on practice exams, need about 75 to pass"
+    },
+    {
+      "role": "assistant",
+      "text": "Good, that's about a 4-point gap, and these two topics are usually where it closes. Since I can't see your guide, I'll name the standard topics so you can find the matching tab: IP addressing, subnetting/CIDR, and common ports and protocols.\n\n**Subnetting in 3 steps**\n1. Host bits = 32 - prefix. Usable hosts = 2^(host bits) - 2.\n2. Block size = 256 - the interesting mask octet (/26 is 255.255.255.192, so block = 64).\n3. Network addresses are multiples of the block size. Broadcast = next network - 1.\n\nExample: 192.168.10.77/26. Block is 64, so networks are .0, .64, .128, .192. The .77 address sits in .64, broadcast is .127, usable range is .65 to .126.\n\n**Ports to memorize (pairs help)**\n- 20/21 FTP, 22 SSH, 23 Telnet (insecure; SSH is the secure pair)\n- 25 SMTP, 110 POP3, 143 IMAP\n- 53 DNS, 67/68 DHCP\n- 80 HTTP, 443 HTTPS\n- 3389 RDP\n\n**Drill (answers after you reply):**\n1. How many usable hosts in a /27?\n2. Broadcast address for 10.1.1.200/28?\n3. Which port does SSH use, and which insecure protocol does it replace?\n4. What port is DNS?\n5. Network address for 172.16.5.130/25?\n\nSend answers and I'll correct them."
+    },
+    {
+      "role": "user",
+      "text": "1. 30 2. 10.1.1.207 3. 22 and telnet 4. 53 5. 172.16.5.128"
+    },
+    {
+      "role": "assistant",
+      "text": "All five correct. gg.\n\n1. /27 has 5 host bits, so 32 - 2 = 30. ✔\n2. /28 block is 16; 200 sits in the 192 block, so the next network is 208 and broadcast is 207. ✔\n3. 22, replacing Telnet (23). ✔\n4. 53. ✔\n5. /25 block is 128, so .130 is in the .128 network. ✔\n\nSince those were easy for you, here are harder ones for the next break:\n- Hosts per subnet for a /21?\n- Which /prefix gives at least 50 usable hosts?\n- Broadcast for 192.168.4.99/29?\n- Ports for IMAP and RDP?\n\nTip: in the practice app, tag every miss by topic. If the misses cluster in one chapter tab, drill that tab first."
+    },
+    {
+      "role": "user",
+      "text": "ty. ill hit those on my next break. tldr of the block size trick?"
+    },
+    {
+      "role": "assistant",
+      "text": "TLDR: block size = 256 minus the mask's interesting octet. Networks are multiples of the block, and broadcast is the next network minus 1. Usable hosts = 2^host bits minus 2. Good luck on the long shift!"
+    }
+  ]
+}

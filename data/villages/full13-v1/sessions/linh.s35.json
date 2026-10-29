@@ -1,0 +1,47 @@
+{
+  "id": "linh.s35",
+  "principal": "linh",
+  "start": "2025-10-01T16:58:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi! ok so today is my first 3-9 closing shift at the cafe (mon/wed now, still doing sat/sun 6:30-1). can u look up how closing duties and breaks usually work for a student employee on a late shift? bullets pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on the new shift! Here's the general picture. Rules vary by state and employer, so check your own handbook too.\n\n**Breaks (general, e.g. California-style rules)**\n- Meal break: 30 min unpaid, usually must start before the end of your 5th hour. A 6-hour+ shift generally qualifies.\n- Rest breaks: 10 paid minutes per ~4 hours worked, so about two on a 6-hour shift.\n- If you're a minor, extra limits can apply on hours and late shifts.\n\n**Typical closing duties**\n- Clean and sanitize espresso machine, steam wands, grinder\n- Wipe counters, restock cups and lids\n- Waste log, empty trash, sweep and mop\n- Cash-out and lock up\n\nWhat does your cafe specifically ask closers to do? I can turn it into a checklist."
+    },
+    {
+      "role": "user",
+      "text": "ok yes. the cafe stays open til 9 now for the study crowd, thats why im closing. my boss wants closers to log milk waste on the clipboard and lock the vault-room outlets"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a closer's checklist with those included:\n\n**Last hour (8-9)**\n- Announce last call and start wiping down tables as people leave\n- Restock lids, cups and sleeves for the morning\n\n**Close (9-9:45 or so)**\n- Purge and wipe steam wands, backflush the machine, clean the grinder\n- **Milk waste:** measure what's being tossed and log it on the clipboard\n- Put milk away, label and date anything open\n- **Vault-room outlets:** check nothing is left plugged in, then lock them\n- Sweep, mop, take out trash\n- Cash-out, lights, lock up\n\nWant it in a printable table with a checkbox column?"
+    },
+    {
+      "role": "user",
+      "text": "maybe later. also they gave closers a raise, its $19.25 an hour plus tips now. how does that change my weekly pay estimate"
+    },
+    {
+      "role": "assistant",
+      "text": "I need your hours to be exact, so here's the formula and an example based on what you've told me.\n\n**Your scheduled shifts**\n- Mon + Wed: 3-9 = 6 hrs each, 12 hrs\n- Sat + Sun: 6:30-1 = 6.5 hrs each, 13 hrs\n- Total: 25 hrs/week (if any of that is an unpaid meal break, subtract it)\n\n**Pay**\n- 25 hrs x $19.25 = **$481.25/week before tips and taxes**\n- Add your usual weekly tips: [your tip average]\n- Taxes/deductions will lower the take-home amount\n\nIf you give me your typical weekly tips, I'll add the total."
+    },
+    {
+      "role": "user",
+      "text": "ok thx. last thing, i start at 3 and i pack a rice bowl for lunch. when can i actually eat it, i have class in the morning and dont wanna be starving behind the bar 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call packing it. Here's a simple plan:\n\n- **Before 3:** eat the bowl between your morning class and your start, ideally 30-60 min before clocking in. Even a half hour is enough.\n- **Backup:** keep a small snack in your bag (banana, nuts, a granola bar) in case class runs late.\n- **During the shift:** a 6-hour shift usually includes a meal break. Ask your manager when yours is, since slow stretches before the evening study crowd are often a good window.\n- **Water:** keep a bottle under the counter.\n\nIf your day is tight, eating the bowl on the way in or right when you arrive is fine too."
+    },
+    {
+      "role": "user",
+      "text": "ok perfect, im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Enjoy it, and good luck on your first close tonight! If you want that checklist as a printable table later, just ask."
+    }
+  ]
+}

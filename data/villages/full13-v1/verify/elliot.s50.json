@@ -1,0 +1,102 @@
+{
+  "session_id": "elliot.s50",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Bathroom faucet in unit 209 reported Aug 28, still dripping and unfixed",
+      "about": "gloria",
+      "kind": "fact",
+      "item_id": "elliot.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "has been dripping since i reported it on aug 28 and it's still not fixed",
+      "support_quote": ""
+    },
+    {
+      "text": "Lives in upstairs two-bedroom unit 209 at Marisol Gardens",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "209, upstairs two-bedroom at Marisol Gardens",
+      "support_quote": ""
+    },
+    {
+      "text": "Rent is due on the 1st through the portal",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's due on the 1st through the same portal",
+      "support_quote": ""
+    },
+    {
+      "text": "Apologizes and feels bad about following up with property manager",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sorry, i know it's just a faucet",
+      "support_quote": ""
+    },
+    {
+      "text": "Faucet leak unfixed for about seven weeks since Aug 28 report",
+      "about": "gloria",
+      "kind": "fact",
+      "item_id": "elliot.f52",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A leak that has gone unfixed for about seven weeks is worth pushing on",
+      "support_quote": "has been dripping since i reported it on aug 28 and it's still not fixed"
+    },
+    {
+      "text": "Rent is paid through the portal",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Pay on time through the portal, and keep the ticket open.",
+      "support_quote": "it's due on the 1st through the same portal"
+    },
+    {
+      "text": "Lives in Unit 209",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Follow-up: open repair request for bathroom faucet, Unit 209",
+      "support_quote": "209, upstairs two-bedroom at Marisol Gardens"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f52",
+      "present": true,
+      "quote": "has been dripping since i reported it on aug 28 and it's still not fixed"
+    },
+    {
+      "item_id": "elliot.f05",
+      "present": true,
+      "quote": "209, upstairs two-bedroom at Marisol Gardens"
+    },
+    {
+      "item_id": "elliot.f06",
+      "present": true,
+      "quote": "it's due on the 1st through the same portal"
+    },
+    {
+      "item_id": "elliot.i06",
+      "present": true,
+      "quote": "i don't want to sound rude, i've been kind of waiting rather than nagging, so i feel bad bringing it up again"
+    }
+  ],
+  "sensitive": []
+}

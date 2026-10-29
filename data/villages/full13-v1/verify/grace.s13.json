@@ -1,0 +1,353 @@
+{
+  "session_id": "grace.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Fall conferences start today, minimum day, 12:30-6 slots",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Today is the first of the fall conference days, a minimum day, back-to-back slots from 12:30 to 6 in B12.",
+      "support_quote": ""
+    },
+    {
+      "text": "Conferences are held in B12",
+      "about": "grace",
+      "kind": "reference_use",
+      "item_id": "grace.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I still have to set out chairs and the gradebook printouts in B12 before 12:30.",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants bullets, three per kid, no fluff",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Format: bullets, three per kid, no fluff.",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants shorter responses, no closing question",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Shorter next time. No closing question.",
+      "support_quote": ""
+    },
+    {
+      "text": "Holds daughter to a harsher standard than students",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I'm more patient with these kids than with my own.",
+      "support_quote": ""
+    },
+    {
+      "text": "Daughter has a 4.1",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "My daughter has a 4.1",
+      "support_quote": ""
+    },
+    {
+      "text": "Bristles at paperwork, filled in log early, vents sideways",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I already filled in the conference log days ago.",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.i05",
+      "present": true,
+      "quote": "Format: bullets, three per kid, no fluff."
+    },
+    {
+      "item_id": "grace.i01",
+      "present": true,
+      "quote": "My daughter has a 4.1 and that isn't the point if she can't manage her time."
+    },
+    {
+      "item_id": "grace.i07",
+      "present": true,
+      "quote": "One comment needs rewording so it doesn't sound snippy toward the office. Forms for the forms."
+    },
+    {
+      "item_id": "grace.f27",
+      "present": true,
+      "quote": "Today is the first of the fall conference days, a minimum day, back-to-back slots from 12:30 to 6 in B12."
+    },
+    {
+      "item_id": "grace.r04",
+      "present": true,
+      "quote": "I still have to set out chairs and the gradebook printouts in B12 before 12:30."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

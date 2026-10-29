@@ -1,0 +1,39 @@
+{
+  "id": "jun.s25",
+  "principal": "jun",
+  "start": "2025-10-09T23:55:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait quick one, how much oat milk does a cafe usually go through on a closing shift? and how do baristas keep track of restock so it doesnt run out"
+    },
+    {
+      "role": "assistant",
+      "text": "It varies a lot, but a rough guide: oat milk is usually 15-25% of milk drinks in a typical specialty cafe. For a closing shift of about 7 hours with moderate traffic, that's often 2-4 cartons (32 oz) of oat milk, a bit more if you have a student crowd in the evening.\n\nCommon ways to track restock:\n- A par level: a set number of cartons that should be on hand at open and at close (e.g., 4 in the fridge, 6 backstock)\n- A closing checklist with a line for 'count oat milk, restock to par'\n- A whiteboard or sticky note for anything that dropped below par\n- Counting cartons at shift change and writing the number down\n\nWant me to tailor this to your cafe's volume?"
+    },
+    {
+      "role": "user",
+      "text": "boss i need the short version lol. it ran out last night during my close because my head was on this permit packet, and beatrice left a note on the counter. i just want the minimum effort fix"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n1. Set one par number (say 4 cartons in the fridge at close).\n2. Put 'oat milk: count + restock to par' as the FIRST line on the closing checklist, so it happens before anything else.\n3. Stick a note on the fridge door with the par number.\n\nThat's it. Takes about 60 seconds per shift."
+    },
+    {
+      "role": "user",
+      "text": "ok actually can you make it a checklist i can tape up. i work the 2-9 close on wednesdays now since they extended the hours"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a tape-up version:\n\nCLOSING: MILK CHECK\n☐ Count oat milk in the fridge (par: 4 cartons)\n☐ Restock from backstock to par\n☐ Note anything that's down to the last carton\n☐ Count again before you clock out, for the next shift\n\nFor a 2-9 close, it helps to do the first count around 5 p.m. before the evening rush, then the final count near close. That way you don't run out mid-evening. You can adjust the par number once you see how many cartons you actually use."
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥 this morning was smooth at least, ledger was napping in beatrice's office and everything was stocked"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad the morning went well. A stocked fridge and a napping corgi sounds like a good start. With the 5 p.m. count and the checklist taped up, your Wednesday closes should be much smoother. Good luck with the permit packet too!"
+    }
+  ]
+}

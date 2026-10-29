@@ -1,0 +1,98 @@
+{
+  "session_id": "thao.s33",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "License renewal due Dec 31, needs 30 CE hours, has 18",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "renewal's due dec 31, need 30 hrs and i only have 18",
+      "support_quote": ""
+    },
+    {
+      "text": "Needs 12 more CE hours",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You need 12 more hours.",
+      "support_quote": "renewal's due dec 31, need 30 hrs and i only have 18"
+    },
+    {
+      "text": "Works tonight and has nights off",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work tonight so need stuff i can do in short chunks on my nights off",
+      "support_quote": ""
+    },
+    {
+      "text": "Her account number is 0038814471",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "account # 0038814471",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers short bullet answers",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bullet it",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a shift tonight",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "have a quiet shift tonight",
+      "support_quote": "i work tonight so need stuff i can do in short chunks on my nights off"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "bullet it"
+    },
+    {
+      "item_id": "thao.f24",
+      "present": true,
+      "quote": "renewal's due dec 31, need 30 hrs and i only have 18"
+    },
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "i work tonight so need stuff i can do in short chunks on my nights off"
+    },
+    {
+      "item_id": "thao.f23",
+      "present": true,
+      "quote": "account # 0038814471"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "thao.f23",
+      "user_quote": "account # 0038814471",
+      "assistant_quote": ""
+    }
+  ]
+}

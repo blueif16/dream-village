@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s43",
+  "principal": "noemi",
+  "start": "2025-10-10T10:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q the RMA sheet is cooked. added this week's returns and now the totals are off, i think theres duplicate rows and some formulas broke. desk tickets go in the internal queue but scanner RMAs live in my own spreadsheet so i gotta fix it myself ugh"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Duplicates plus broken formulas after adding rows is a common combo. A few quick questions so I can be specific:\n\n1. Which formula gives you the vendor return count (COUNTIF, SUM, something else)? Paste it if you can.\n2. What column identifies each unit (serial number, asset tag)?\n3. Is this Excel or Google Sheets?\n\nWhile you answer, here's the general fix:\n\n**Duplicates**\n- Select the serial/asset column and use Data > Remove duplicates (Excel) or Data > Data cleanup > Remove duplicates (Sheets). Make a copy of the tab first.\n- If one unit can legitimately be returned twice, dedupe on serial + RMA date instead.\n\n**Broken formulas**\n- Look for #REF! or ranges that stop short (e.g. A2:A40 when the data now runs to row 60). Pasted rows often don't extend the range.\n- Switch to whole-column ranges like COUNTIF(A:A,\"Sent to vendor\") or convert the data to a Table so ranges grow automatically."
+    },
+    {
+      "role": "user",
+      "text": "google sheets. asset tag in col B, status in col F. count formula is =COUNTIF(F2:F48,\"Sent\") and it's showing 9 but its should be like 12, a dozen units are waiting on the vendor rn. cage is packed cuz peak"
+    },
+    {
+      "role": "assistant",
+      "text": "That explains it. Your range stops at row 48, so rows you added after that aren't counted. Fix:\n\n1. Replace it with =COUNTIF(F2:F,\"Sent\") so it covers every row down the column.\n2. Check for typos in the status column. \"Sent \" with a trailing space or \"sent\" in a different spelling can slip through. To catch that, try =COUNTIF(F2:F,\"Sent*\") to compare.\n3. To remove duplicates by asset tag: select column B, Data > Data cleanup > Remove duplicates, and tick \"Data has header row\". Do this on a copy of the tab first.\n4. To see duplicates before deleting, put this in a spare column: =COUNTIF(B$2:B,B2)>1 and filter for TRUE.\n\nIf you want a count that ignores duplicate tags, use =COUNTA(UNIQUE(FILTER(B2:B,F2:F=\"Sent\"))). After the fixes it should read 12."
+    },
+    {
+      "role": "user",
+      "text": "ok doing the dedupe now. also its friday so im grabbing colima for shift food while i sort this. got 12 after the countif fix btw gg"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, 12 matches what you expected. A couple of habits will keep it from breaking again:\n\n- Convert the data range to a named range or use open-ended ranges (F2:F) so new rows are always included.\n- Add data validation on the status column (Data > Data validation > dropdown: Sent, Received, Repaired) so typos can't hide rows.\n- Add a simple check cell like =COUNTA(B2:B)-COUNTA(UNIQUE(B2:B)) that should read 0. If it ever doesn't, you've got duplicates.\n\nEnjoy the food, and let me know if the totals drift again."
+    }
+  ]
+}

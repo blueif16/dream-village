@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s16",
+  "principal": "noemi",
+  "start": "2025-09-10T23:07:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. what makes phishing emails actually convincing and how do people check a link before clicking. spam email hit the night crew at work and i'm making a poster for the break room. just got my usual large iced black coffee so i'm running on that lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Good topic for a poster. Here's the short version.\n\nWhat makes phishing convincing:\n- Urgency: 'act in 24 hours or your account is locked'\n- Authority: it looks like HR, IT, payroll or a delivery company\n- Familiar branding: copied logos, similar sender names\n- Believable context: a package, a schedule change, a pay stub\n- Small polish: few typos now, since scammers use AI to clean up their writing\n\nHow to check a link:\n1. Hover over it (or long-press on a phone) and read the real address before tapping.\n2. Look at the domain right before the first single slash. 'company.com.login-verify.net' belongs to login-verify.net, not company.com.\n3. Watch for lookalikes: rn instead of m, a zero instead of an o, extra words like 'secure' or 'support'.\n4. Shortened links (bit.ly etc.) hide the destination, so don't trust them from unexpected senders.\n5. When in doubt, skip the link and go to the site by typing the address or using your own bookmark.\n6. Never enter a password on a page you reached from an email you didn't expect.\n\nPoster idea: a headline like 'Stop. Hover. Verify.' with those three steps in big type, plus 'Report it to IT' with a contact spot at the bottom. Want a tighter version for the layout?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version for the poster? like 5 bullets max. also should say what to do if someone already clicked"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a poster-ready version:\n\n**STOP. HOVER. VERIFY.**\n- Urgent or scary email? That's the trick. Slow down.\n- Hover over the link and read the real address before you click.\n- Check the domain right before the first single slash.\n- Weren't expecting it? Don't click. Go to the site yourself.\n- Never type a password from an email link.\n\n**Already clicked?**\n- Don't panic, but tell IT right away. Fast reports limit the damage.\n- Change the password for that account, and for any other account that uses the same one.\n- Don't delete the email. IT may need it.\n\nAdd the IT desk contact at the bottom in a bold box."
+    },
+    {
+      "role": "user",
+      "text": "gg ty. printing it tomorrow. hopping into my co-op survival game after this, logging in w my usual password, same one as literally everything else i use lol. night"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helped. Have fun with the game, and good luck with the poster print tomorrow. Night!"
+    }
+  ]
+}

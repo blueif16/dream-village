@@ -1,0 +1,85 @@
+{
+  "impression_id": "noemi.i05",
+  "evidence_sessions": [
+    "noemi.s19",
+    "noemi.s49",
+    "noemi.s53",
+    "noemi.s59",
+    "noemi.s74"
+  ],
+  "inferred": [
+    {
+      "statement": "Noemi studies for her network cert in short, flexible slots squeezed around heavy overtime, and asks for plans that shrink rather than break when work gets busy.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s19",
+        "noemi.s49",
+        "noemi.s74"
+      ]
+    },
+    {
+      "statement": "She prefers terse, practical answers: she opens with 'quick q', asks for tldr, tables, templates and time-boxed blocks, and wants to finish before other obligations.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s19",
+        "noemi.s49",
+        "noemi.s53",
+        "noemi.s59",
+        "noemi.s74"
+      ]
+    },
+    {
+      "statement": "Work overload keeps eating her goals and she sometimes questions whether her effort is worthwhile, yet she persists and reschedules instead of quitting.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s49",
+        "noemi.s53"
+      ]
+    },
+    {
+      "statement": "She is taking on growing responsibility at work, such as lead duties, covering Greg's duties, and training Bao, and she handles it by building practical aids like flyers, charts, and handoff sheets for her team.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s19",
+        "noemi.s49",
+        "noemi.s53",
+        "noemi.s59",
+        "noemi.s74"
+      ]
+    },
+    {
+      "statement": "She is modest about her accomplishments and avoids drawing attention to her extra workload, asking for the note about covering Greg's duties in tiny print with no ask attached.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s53"
+      ]
+    },
+    {
+      "statement": "She is careful about what the assistant retains regarding coworkers, asking it to drop a negative remark about Victor.",
+      "strength": "weak",
+      "sessions": [
+        "noemi.s53"
+      ]
+    },
+    {
+      "statement": "She drills actively and measures progress by practice scores, asks for hard problems with answers withheld until she requests them, and wants data behind decisions like whether to move her exam date.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s49",
+        "noemi.s59",
+        "noemi.s74"
+      ]
+    },
+    {
+      "statement": "She protects restorative personal time, keeping Saturday mornings free for a marsh boardwalk walk, and fits study around family presence such as Iris being home.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s19",
+        "noemi.s74"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Work overload keeps eating her goals and she sometimes questions whether her effort is worthwhile, yet she persists and reschedules instead of quitting.",
+  "rationale": "The decoy says Noemi gives up on her certification when work gets heavy. The reader did not generalize it: the strong and moderate statements say she persists, reschedules, and adapts her plans rather than quitting."
+}

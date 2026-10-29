@@ -1,0 +1,157 @@
+{
+  "session_id": "linh.s58",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Linh opened at 6:30 at the cafe",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i opened at 6:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Sam left early and Linh covered his last hour",
+      "about": "sam",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "he bailed like an hour before close and i just covered it",
+      "support_quote": ""
+    },
+    {
+      "text": "Sam owes Linh two Saturday shifts from September",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he still owes me two saturday shifts from september btw",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh works Saturdays ending at 1",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we end at 1.",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh avoids confronting Sam directly",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "idk i dont want to like confront him.",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun sold out of lumpia at the counter that morning",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "jun sold out of lumpia at the counter this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh works Sunday too",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work sunday too",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh preps rice bowls for Sunday lunches",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "add rice bowl prep for sunday lunches",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants a short plan with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u make a plan w times",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh covered Sam's last hour on top of her early open",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "especially covering his last hour on top of your own early open",
+      "support_quote": "i opened at 6:30 and he bailed like an hour before close and i just covered it"
+    },
+    {
+      "text": "Sam owes Linh two shifts from September",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "i think you still have two shifts from september to make up",
+      "support_quote": "he still owes me two saturday shifts from september btw"
+    },
+    {
+      "text": "Linh has an early start on Sunday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "set out what you need for Sunday's early start",
+      "support_quote": "i work sunday too"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f55",
+      "present": true,
+      "quote": "he still owes me two saturday shifts from september btw"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "i opened at 6:30"
+    },
+    {
+      "item_id": "linh.f30",
+      "present": true,
+      "quote": "ok add rice bowl prep for sunday lunches, can u give me a short grocery and prep list pls. bullets"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "idk i dont want to like confront him. is there a way to handle it without it being a Thing"
+    },
+    {
+      "item_id": "cast.f65",
+      "present": true,
+      "quote": "jun sold out of lumpia at the counter this morning and the line was a hassle"
+    }
+  ],
+  "sensitive": []
+}

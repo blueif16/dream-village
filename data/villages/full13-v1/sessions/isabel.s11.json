@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s11",
+  "principal": "isabel",
+  "start": "2025-09-11T16:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "how does an sat fee waiver actually work. i just checked my status and it says approved. does it also cover college application fees or just the test"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on the approval. The SAT fee waiver mainly covers the test itself: usually two SAT registrations with unlimited score sends, plus extras like free score reports to colleges and often free CSS Profile waivers.\n\nIt also unlocks application fee waivers at many schools. Participating colleges, including many public universities and some private ones, accept it as proof of eligibility, so you usually just check a box or enter the code on the application. It's not automatic everywhere though. Some schools want a separate form or a counselor's confirmation, and some don't offer waivers at all, so you have to check each school's admissions page.\n\nWant me to go through how to find each school's policy?"
+    },
+    {
+      "role": "user",
+      "text": "yeah. also im saving $160 for app fees beyond the waivers. how many schools does that cover"
+    },
+    {
+      "role": "assistant",
+      "text": "It depends on the fees, but application fees typically run about $50-$90. Rough math for $160:\n\n- At $50 each: 3 schools (with $10 left)\n- At $65 each: 2 schools (with $30 left)\n- At $80 each: 2 schools exactly\n- At $90 each: 1 school\n\nSo realistically 2-3 schools. Stretching it further means getting waivers at the others or prioritizing schools with lower fees. Do you have a list of schools you're looking at?"
+    },
+    {
+      "role": "user",
+      "text": "which schools on the snow list charge the highest application fees. be so for real i dont want to guess"
+    },
+    {
+      "role": "assistant",
+      "text": "I don't have your snow list, so I can't say which ones are priciest without you telling me the schools. Fees also change each cycle, so I'd rather not guess from memory. Paste the names and I'll work with those, but verify the current numbers on each admissions page.\n\nGeneral pattern: highly selective private schools and some top public flagships typically charge the most, around $75-$100 or more. Smaller colleges and regional publics often charge $40-$60, and some have no fee at all. Those high-fee private schools are also often the ones that accept the fee waiver, so check them first before spending your $160."
+    },
+    {
+      "role": "user",
+      "text": "ok. also i have a 4.1 weighted gpa, does that help get waivers or merit aid at schools that dont offer waivers"
+    },
+    {
+      "role": "assistant",
+      "text": "Mostly for merit aid, less for waivers.\n\nWaivers: these are based on financial eligibility, not grades. A 4.1 weighted GPA won't qualify you for a waiver on its own. But at schools without a formal waiver, you can email admissions, explain your situation, and ask. Some will grant one case by case, and your SAT waiver can back you up.\n\nMerit aid: here the GPA helps. A 4.1 weighted is strong, and many schools give automatic or competitive merit scholarships based on GPA and test scores. Check each school's scholarship page for GPA thresholds and deadlines. Some require applying by an early date to be considered.\n\nNext step: put each school in a spreadsheet with fee, waiver policy, and merit deadline."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the list. Come back if you want help sorting the schools."
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "session_id": "jun.s03",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sells lumpiang shanghai with pork and shrimp with sweet chili and spiced vinegar dips",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "main thing is lumpiang shanghai with pork and shrimp, comes with sweet chili and spiced vinegar dips",
+      "support_quote": ""
+    },
+    {
+      "text": "Business is Lola's Roll, named for his grandmother",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "name is Lola's Roll and i want a little line that its named for my grandmother",
+      "support_quote": ""
+    },
+    {
+      "text": "Phone is cracked and nearly dead",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my phone is cracked and basically dead",
+      "support_quote": ""
+    },
+    {
+      "text": "Joan's commissary costs $28 an hour with 3-hour minimum",
+      "about": "joan",
+      "kind": "fact",
+      "item_id": "cast.f113",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its $28 an hour with a 3 hour minimum",
+      "support_quote": ""
+    },
+    {
+      "text": "Beatrice is his boss at the cafe",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f62",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gotta ask beatrice if i can put it by the counter",
+      "support_quote": ""
+    },
+    {
+      "text": "Commissary is $28 an hour with 3-hour minimum",
+      "about": "joan",
+      "kind": "fact",
+      "item_id": "cast.f113",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the 3-hour minimum at $28 an hour is $84 for kitchen time alone",
+      "support_quote": "its $28 an hour with a 3 hour minimum"
+    },
+    {
+      "text": "Beatrice is Jun's boss",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f62",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "When you ask your boss about the counter spot",
+      "support_quote": "also gotta ask beatrice if i can put it by the counter"
+    },
+    {
+      "text": "Jun's battery is nearly dead",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f29",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Save it now before your battery dies!",
+      "support_quote": "battery is at like 3%"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f35",
+      "present": true,
+      "quote": "main thing is lumpiang shanghai with pork and shrimp, comes with sweet chili and spiced vinegar dips"
+    },
+    {
+      "item_id": "jun.f10",
+      "present": true,
+      "quote": "name is Lola's Roll and i want a little line that its named for my grandmother"
+    },
+    {
+      "item_id": "jun.f29",
+      "present": true,
+      "quote": "my phone is cracked and basically dead so i need something i can finish fast"
+    },
+    {
+      "item_id": "cast.f113",
+      "present": true,
+      "quote": "i checked joan's commissary this afternoon, its $28 an hour with a 3 hour minimum so i need the price to actually cover that"
+    },
+    {
+      "item_id": "cast.f62",
+      "present": true,
+      "quote": "also gotta ask beatrice if i can put it by the counter, hopefully she says yes"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "principal": "rafael",
+  "week": 1,
+  "entries": [
+    {
+      "id": "rafael.w1.l01",
+      "date": "2025-08-25",
+      "what": "Slept in a bit before the semester's first Monday. Helped Gladys load the cooler and canopy back into the garage after the weekend stand, then did the brakes lab prep reading at the kitchen table.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Garage tidy and ready for the week.",
+      "feeling": "relaxed, a little restless",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l02",
+      "date": "2025-08-25",
+      "what": "Drove the Tacoma to Tamsen Valley College for the first brakes lab, which was only a walkthrough of the bay and safety rules, 8-11.",
+      "with": [],
+      "outcome": "Got a locker and a bay assignment.",
+      "feeling": "eager",
+      "facts": [
+        "rafael.f02",
+        "rafael.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l03",
+      "date": "2025-08-25",
+      "what": "Evening pickup soccer at Delgado Park, then watched an engine teardown video before bed.",
+      "with": [],
+      "outcome": "Tired legs, good sleep.",
+      "feeling": "loose and happy",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l04",
+      "date": "2025-08-26",
+      "what": "Fall term began at Tamsen Valley. Circled Lot C twice, gave up and parked on the street, then sat through the first engine performance class 1-4 with Roberto Salas going over grading and bay cleanliness.",
+      "with": [
+        "roberto",
+        "dante"
+      ],
+      "outcome": "Got the syllabus; Dante sat beside him as lab partner.",
+      "feeling": "focused, slightly nervous",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l05",
+      "date": "2025-08-26",
+      "what": "After class Dante floated his idea of flipping used Civics from auctions again over horchata.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Rafael said he'd think about it.",
+      "feeling": "curious but wary",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l06",
+      "date": "2025-08-26",
+      "what": "Helped Oscar check the generator oil in the driveway before bed.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Generator ready for the weekend.",
+      "feeling": "dutiful",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l07",
+      "date": "2025-08-27",
+      "what": "Brakes lab 8-11 in the heat wave; the bay was stifling and the instructor added water breaks while they pulled drums.",
+      "with": [],
+      "outcome": "Finished the drum inspection sheet.",
+      "feeling": "sweaty but into it",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l08",
+      "date": "2025-08-27",
+      "what": "Grabbed lunch at home, then drove Ximena to her cosmetology class because her Corolla's AC was weak, and looked it over in the lot.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "Told her it needs a recharge; he'll do it free.",
+      "feeling": "helpful",
+      "facts": [
+        "rafael.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l09",
+      "date": "2025-08-27",
+      "what": "Stayed in at night with a fan on, watching teardown videos.",
+      "with": [],
+      "outcome": "Went to bed past midnight.",
+      "feeling": "hot and drowsy",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l10",
+      "date": "2025-08-28",
+      "what": "Engine performance 1-4 at Tamsen Valley with Salas, stuck in the heat; they studied compression testing.",
+      "with": [
+        "roberto",
+        "dante"
+      ],
+      "outcome": "Passed the first small lab check.",
+      "feeling": "satisfied",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l11",
+      "date": "2025-08-28",
+      "what": "Thursday stand shift 5-10 p.m. at the Delgado Park lot setup, running the griddle with the generator in the heat.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Good sales once the evening cooled.",
+      "feeling": "tired but proud",
+      "facts": [
+        "rafael.f10",
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l12",
+      "date": "2025-08-28",
+      "what": "Dulce texted that Efraín is putting her on Fridays; Rafael agreed to pick her up.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Pickup plan set for tomorrow.",
+      "feeling": "glad to help",
+      "facts": [
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l13",
+      "date": "2025-08-29",
+      "what": "Worked out his Friday route in his head and with Gladys so he'd leave the stand in time to reach Colima by 9 and Dulce wouldn't wait outside alone.",
+      "with": [
+        "gladys",
+        "dulce"
+      ],
+      "outcome": "Route and timing settled.",
+      "feeling": "careful",
+      "facts": [
+        "rafael.f25",
+        "cast.f20"
+      ],
+      "impressions": [
+        "rafael.i04"
+      ]
+    },
+    {
+      "id": "rafael.w1.l14",
+      "date": "2025-08-29",
+      "what": "Worked the stand through the evening in the heat, griddle going nonstop.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Left a bit early for the pickup.",
+      "feeling": "busy",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l15",
+      "date": "2025-08-29",
+      "what": "Picked Dulce up from Taquería Colima at 9 p.m. and drove her home to Marisol Gardens, Mexican Coke in the cupholder.",
+      "with": [
+        "dulce",
+        "efrain"
+      ],
+      "outcome": "First ride done; she talked about her first shift the whole way.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f25",
+        "cast.f20"
+      ],
+      "impressions": [
+        "rafael.i04"
+      ]
+    },
+    {
+      "id": "rafael.w1.l16",
+      "date": "2025-08-30",
+      "what": "Slept late, then did the Saturday stand shift with Ximena helping on the griddle.",
+      "with": [
+        "ximena",
+        "gladys"
+      ],
+      "outcome": "Sold out of revueltas.",
+      "feeling": "happy",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l17",
+      "date": "2025-08-30",
+      "what": "Filled the Tacoma at the Ruel Road station and checked the slow oil leak.",
+      "with": [],
+      "outcome": "Leak is no worse.",
+      "feeling": "routine",
+      "facts": [
+        "rafael.f34",
+        "rafael.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l18",
+      "date": "2025-08-30",
+      "what": "Late evening walk with Ximena after the heat broke, talking about someday having a shop.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "She pushed him to dream bigger; he felt guilty again.",
+      "feeling": "hopeful, guilty",
+      "facts": [
+        "rafael.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l19",
+      "date": "2025-08-31",
+      "what": "Sunday morning helped Oscar and Gladys run the stand at the Delgado Park farmers market 8-2.",
+      "with": [
+        "oscar",
+        "gladys",
+        "luz"
+      ],
+      "outcome": "Steady crowd; Luz dropped by with elotes.",
+      "feeling": "busy and fine",
+      "facts": [
+        "rafael.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l20",
+      "date": "2025-08-31",
+      "what": "Family meal from day-old bread and leftover pupusas, then broke down the canopy.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Everything packed away.",
+      "feeling": "worn out",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w1.l21",
+      "date": "2025-08-31",
+      "what": "Late night skimmed the engine performance syllabus and set out the week's clothes.",
+      "with": [],
+      "outcome": "Ready for the week.",
+      "feeling": "calm",
+      "facts": [
+        "rafael.f53"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w1.n01",
+      "subject": "rafael",
+      "attribute": "lab_partner",
+      "value": "sits next to Dante in engine performance",
+      "valid_from": "2025-08-26",
+      "valid_to": "2025-09-02",
+      "superseded_by": "rafael.w2.n01",
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w1.n02",
+      "subject": "rafael",
+      "attribute": "parking",
+      "value": "gives up on Lot C and parks on the street near campus",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w1.n03",
+      "subject": "rafael",
+      "attribute": "ximena_corolla_task",
+      "value": "plans to recharge the AC on Ximena's Corolla for free",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w1.n04",
+      "subject": "rafael",
+      "attribute": "heat_wave_routine",
+      "value": "keeps a fan on at night and carries extra water to lab",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

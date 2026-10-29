@@ -1,0 +1,39 @@
+{
+  "id": "noemi.s29",
+  "principal": "noemi",
+  "start": "2025-09-23T18:45:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need a short handout for my new hire bao on logging scanner repairs. i train him tue/thu 3-5 and he's in the cage with the handheld pile, so it needs to be something he can follow standing at the bench. plain words pls, he's new"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few quick questions so it matches your setup: where does a repair get logged first, and what do you need him to record for each scanner? Do you want a step list, or a step list plus a small example entry?"
+    },
+    {
+      "role": "user",
+      "text": "tickets go in the internal queue. the RMA stuff i track in my own spreadsheet, not the queue. he only does battery swaps and trigger boards for now, no reimaging so leave that out. step list + one example"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a draft:\n\n**Logging a Scanner Repair: Quick Guide**\n\n**Before you start**\n- Grab one scanner from the pile. Don't start a second until the first is logged.\n- Find the asset tag/serial on the back.\n\n**Step 1: Open a ticket in the internal queue**\n1. Search the queue for the serial number first. If a ticket already exists, add to it. Don't make a new one.\n2. If there's none, create a new ticket.\n3. Write what's wrong in plain words (e.g., \"battery won't hold charge\" or \"trigger doesn't respond\").\n\n**Step 2: Do the repair (batteries and trigger boards only)**\n- Battery: swap in a charged one, power on, confirm it holds.\n- Trigger board: swap the board, press the trigger, confirm the scan beam fires.\n- If it needs anything else, don't force it. Set it aside and tell me.\n\n**Step 3: Update the ticket**\n- Write what you did (\"replaced battery\" / \"replaced trigger board\").\n- Mark it fixed or needs follow-up.\n\n**Step 4: If it can't be fixed**\n- Put it in the \"send back\" spot and tell me. I'll add it to the RMA spreadsheet myself, so you don't touch that sheet.\n\n**Example**\nSerial [serial #]: \"Trigger not responding.\" Replaced trigger board, tested scan, works. Ticket closed.\n\nWant me to add a short checklist version he can tape to the bench?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version? and wait he should log the RMA ones too actually, i'll show him the sheet. add that"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the short version with the RMA step added:\n\n**Scanner Repair Log: Cheat Sheet**\n1. Check the queue for the serial. Add to the existing ticket or open a new one.\n2. Note the problem in plain words.\n3. Fix it (battery or trigger board only), then test it.\n4. Update the ticket: what you did, fixed or follow-up.\n5. Can't fix it? Set it aside and add a line to the RMA spreadsheet: serial, problem, date. Your trainer will show you the sheet.\n\nExample: Serial [serial #], trigger not responding, replaced board, tested, closed.\n\nWant a Spanish version or a bigger-print copy for the bench?"
+    },
+    {
+      "role": "user",
+      "text": "nah that's gg. ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works. Good luck with the training session!"
+    }
+  ]
+}

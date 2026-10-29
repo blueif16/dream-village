@@ -1,0 +1,132 @@
+{
+  "session_id": "noemi.s22",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi works swing shift 2 to 10:30",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work swing 2 to 10:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi trains a new hire in the cage Tue/Thu 3-5",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i train a new hire in the cage tue/thu 3-5",
+      "support_quote": ""
+    },
+    {
+      "text": "Subnetting and port numbers trip her up",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers are what keep tripping me up on practice tests",
+      "support_quote": ""
+    },
+    {
+      "text": "Study built around practice-test app and tabbed study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "want it built around my practice-test app and my secondhand study guide with tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "Calls the exam the boss fight",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how many weeks of drills before the boss fight lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Averaging 71 on practice tests, pass about 75",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "averaging like 71 on practice, pass is around 75",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says shift starts at 2 and Tue/Thu 3-5 are taken",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since your shift starts at 2 and Tue/Thu 3-5 are taken",
+      "support_quote": "i work swing 2 to 10:30 and i train a new hire in the cage tue/thu 3-5"
+    },
+    {
+      "text": "Plan built around practice-test app and tabbed guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "built around your practice-test app and tabbed guide",
+      "support_quote": "want it built around my practice-test app and my secondhand study guide with tabbed chapters"
+    },
+    {
+      "text": "Assistant uses 'the boss fight' for exam",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Plan on 6 to 8 weeks of drills before the boss fight",
+      "support_quote": "also how many weeks of drills before the boss fight lol"
+    },
+    {
+      "text": "Averaging 71 vs 75 pass line",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "at 71 vs a ~75 pass line, you're about 4 points away",
+      "support_quote": "averaging like 71 on practice, pass is around 75"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "subnetting and port numbers are what keep tripping me up on practice tests"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "i train a new hire in the cage tue/thu 3-5 so those days are dead"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "want it built around my practice-test app and my secondhand study guide with tabbed chapters"
+    },
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "also how many weeks of drills before the boss fight lol"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s69",
+  "principal": "elliot",
+  "start": "2025-11-08T02:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "2:28 am update. just finished the 2 am feed, typing one-handed sorry. can you look up what pediatric guidance says about when to stop swaddling around 4 months? short version please. theo sleeps in the crib in the nursery half of the spare room, white-noise on 'rain', and he's starting to try to roll"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: the American Academy of Pediatrics advises stopping swaddling as soon as a baby shows signs of trying to roll over, which often happens somewhere between 2 and 4 months. Once a swaddled baby can roll onto their stomach, they can't use their arms to reposition, which raises suffocation risk. Key points:\n\n- Stop at the first signs of rolling (rocking onto the side, pushing up, flipping part way), even if he isn't a full rolling pro yet.\n- Swaddling should never be used as a way to keep a baby from rolling.\n- Back to sleep, firm flat mattress, nothing else in the crib.\n- Transition option: a wearable sleep sack, or a swaddle with one or both arms out for a few nights first.\n\nSince he's already trying to roll, that points toward ending the swaddle now. I can't verify his specific development, so his pediatrician is the best check. Want a sleep-sack transition plan for the first few nights?"
+    },
+    {
+      "role": "user",
+      "text": "yes please, in table form. also i want something i can actually quote to someone, like the exact source. my mother in law... no, my mom has been swaddling him for naps and i'd rather it come from official guidance than from me 🙃"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a transition plan:\n\n| Night | Setup | Notes |\n|---|---|---|\n| 1-2 | Swaddle with one arm out | Keep the other snug; back to sleep |\n| 3-4 | Both arms out, loose swaddle or sleep sack | Expect some fussing |\n| 5+ | Wearable sleep sack, arms free | Keep the white noise running |\n\nFor something quotable, the source is the American Academy of Pediatrics' safe sleep guidance, published on HealthyChildren.org (their parent site), in the article on swaddling. The relevant idea, paraphrased: swaddling should stop when a baby shows signs of trying to roll over. I'm paraphrasing rather than giving you word-for-word text, so please open the page and copy the exact sentence before quoting it. A quote like \"The AAP recommends stopping swaddling as soon as a baby shows signs of trying to roll\" is accurate in spirit, but verify the wording.\n\nAlso, his pediatrician can speak to this directly. Do you have a checkup coming up?"
+    },
+    {
+      "role": "user",
+      "text": "yes, 4 month visit with dr fong is nov 19 at 9:40. i could ask her then and quote her too. but the AAP page works for now, thanks. scoreboard: dad 1, sleepless night 0"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice plan. Asking Dr. Fong on the 19th gives you a personalized answer, and the AAP page covers you until then. A tip: jot down the exact sentence from the page and the date you read it so it's easy to share. Go get some sleep if the baby allows it. 🙂"
+    }
+  ]
+}

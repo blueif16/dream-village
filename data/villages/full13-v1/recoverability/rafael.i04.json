@@ -1,0 +1,76 @@
+{
+  "impression_id": "rafael.i04",
+  "evidence_sessions": [
+    "rafael.s01",
+    "rafael.s05",
+    "rafael.s09",
+    "rafael.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Rafael puts his family's food stand and his parents' needs ahead of his own goals, and drops requests for personal time off when he feels the stand needs him.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s01",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He takes on practical care for the people close to him, such as picking up his cousin, protecting his mom from heavy lifting, fixing Ximena's brakes for free, and giving his girlfriend a thoughtful birthday gift.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s01",
+        "rafael.s05",
+        "rafael.s09",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He is hands-on and cost-conscious with his truck and tools, doing repairs himself, comparing prices, and choosing the cheaper rebuilt part.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s09"
+      ]
+    },
+    {
+      "statement": "He is working toward an auto-tech career and studies seriously with flashcards, practice quizzes, and voice memos, but he feels anxious about test performance, such as changing right answers and doubting a 71.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s09",
+        "rafael.s13",
+        "rafael.s05"
+      ]
+    },
+    {
+      "statement": "He is wary about money and risk, and is tempted by Dante's car-flipping pitch but wants to keep his cash out and limit his exposure to labor only.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s09",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He prefers short, concrete, copy-ready help in a casual tone, such as checklists, scripts, and spoken-style questions, and he responds warmly to brief practical answers.",
+      "strength": "strong",
+      "sessions": [
+        "rafael.s01",
+        "rafael.s05",
+        "rafael.s09",
+        "rafael.s13"
+      ]
+    },
+    {
+      "statement": "He has a sense of responsibility and accountability, as when he insists on repaying Dante for lost sockets, and he tends to avoid awkward conversations by asking for scripted wording.",
+      "strength": "moderate",
+      "sessions": [
+        "rafael.s05",
+        "rafael.s13"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He takes on practical care for the people close to him, such as picking up his cousin, protecting his mom from heavy lifting, fixing Ximena's brakes for free, and giving his girlfriend a thoughtful birthday gift.",
+  "rationale": "The second inferred statement, rated strong, describes Rafael showing care through practical actions for close people (picking up his cousin, protecting his mom from heavy lifting, fixing brakes for free, a thoughtful gift), which is the same pattern as showing care by doing rather than saying."
+}

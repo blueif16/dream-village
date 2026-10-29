@@ -1,0 +1,313 @@
+{
+  "principal": "dulce",
+  "week": 4,
+  "entries": [
+    {
+      "id": "dulce.w4.l01",
+      "date": "2025-09-15",
+      "what": "Walks the 12 minutes down Vinca to Flats High, sits through geometry and English, and eats lunch at the B wing planters with Brianna, Karina and Sienna.",
+      "with": [
+        "brianna",
+        "karina",
+        "sienna"
+      ],
+      "outcome": "Normal day; the group plans Brianna's birthday party for Sunday night.",
+      "feeling": "relaxed, included",
+      "facts": [
+        "dulce.f23",
+        "dulce.f15",
+        "dulce.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l02",
+      "date": "2025-09-15",
+      "what": "Evening at unit 114 with Yesenia, who is home by 3:30 from her St. Anselm shift. Dulce counts her phone fund out loud and checks her chat.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Goes to bed around 11:30 after a late group chat.",
+      "feeling": "content, a bit tired",
+      "facts": [
+        "dulce.f11",
+        "dulce.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l03",
+      "date": "2025-09-16",
+      "what": "Third period chemistry with Ms. Tolentino: molar mass practice, lab partner Karina. Lunch is back at the planters.",
+      "with": [
+        "grace",
+        "karina",
+        "eli"
+      ],
+      "outcome": "Gets the problems done fast and starts the lab write-up.",
+      "feeling": "focused",
+      "facts": [
+        "dulce.f03",
+        "cast.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l04",
+      "date": "2025-09-16",
+      "what": "After school, Dulce takes the 22 bus to Calle Ortega with a friend for boba, then heads home. Yesenia mentions the hospital's new charting system has everyone at St. Anselm stressed.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Spends a few dollars on drinks again and hears about work stress at home.",
+      "feeling": "sympathetic, a little guilty",
+      "facts": [
+        "dulce.f58",
+        "dulce.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l05",
+      "date": "2025-09-17",
+      "what": "Chemistry lab day. Dulce finishes the molar mass calculations in seconds but stalls on the lab conclusion.",
+      "with": [
+        "karina",
+        "grace"
+      ],
+      "outcome": "Leaves the conclusion for the evening.",
+      "feeling": "stuck, annoyed",
+      "facts": [
+        "cast.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l06",
+      "date": "2025-09-17",
+      "what": "At home that evening, Dulce asks the assistant to just tell her what a conclusion is supposed to say. The math part is already done.",
+      "with": [],
+      "outcome": "Gets a short outline and writes three sentences.",
+      "feeling": "overwhelmed, relieved",
+      "facts": [
+        "dulce.f03"
+      ],
+      "impressions": [
+        "dulce.i03"
+      ]
+    },
+    {
+      "id": "dulce.w4.l07",
+      "date": "2025-09-18",
+      "what": "School day, then Dulce does homework at the kitchen table in unit 114 and finishes the lab conclusion.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Turns it into a full paragraph and packs her bag for the shift tomorrow.",
+      "feeling": "steady",
+      "facts": [
+        "dulce.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l08",
+      "date": "2025-09-18",
+      "what": "Dulce texts Karina about Saturday's street fair and sees the group chat go quiet, then comes back to jokes.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Plans to go to the fair with Karina after Saturday laundry.",
+      "feeling": "hopeful",
+      "facts": [
+        "dulce.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l09",
+      "date": "2025-09-19",
+      "what": "Fifth period PE volleyball, then the 22 bus to Calle Ortega for her 4-9 shift at Taquería Colima. Héctor's rancheras play behind the grill.",
+      "with": [
+        "hector",
+        "camila"
+      ],
+      "outcome": "Takes orders through the after-shift rush.",
+      "feeling": "busy, proud",
+      "facts": [
+        "cast.f20",
+        "dulce.f24",
+        "dulce.f35",
+        "dulce.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l10",
+      "date": "2025-09-19",
+      "what": "At close, Efraín lets Dulce count the drawer because she makes change faster than the register. She gets it to the penny on her own.",
+      "with": [
+        "efrain"
+      ],
+      "outcome": "Trusted with the drawer from now on.",
+      "feeling": "proud",
+      "facts": [
+        "dulce.f41",
+        "dulce.f02"
+      ],
+      "impressions": [
+        "dulce.i03",
+        "dulce.i06"
+      ]
+    },
+    {
+      "id": "dulce.w4.l11",
+      "date": "2025-09-19",
+      "what": "Rafael picks Dulce up after the 9 p.m. close and drives her home. She tells him about the drawer, and he says Tía Gladys will be proud.",
+      "with": [
+        "rafael"
+      ],
+      "outcome": "Gets home before 10 and tells her mom the news.",
+      "feeling": "glowing",
+      "facts": [
+        "dulce.f22",
+        "dulce.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l12",
+      "date": "2025-09-20",
+      "what": "Saturday laundry at the card-only laundry room, then Dulce and Karina walk the Calle Ortega Street Fair, with food stalls, live music and a crowded Panadería Las Hermanas.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Spends only a few dollars on a concha and an agua fresca.",
+      "feeling": "carefree",
+      "facts": [
+        "dulce.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l13",
+      "date": "2025-09-20",
+      "what": "Dulce stops by Taquería Colima's fair stall to say hi to Efraín, then Brianna texts to confirm Dulce is coming to the birthday party.",
+      "with": [
+        "efrain",
+        "brianna"
+      ],
+      "outcome": "Says yes to Brianna, forgetting she is on the Sunday shift.",
+      "feeling": "excited, rushed",
+      "facts": [
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l14",
+      "date": "2025-09-20",
+      "what": "Evening at home; Dulce realizes the party clashes with her Sunday 10-4 shift and thinks about how to fix it.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Decides to ask Camila about covering.",
+      "feeling": "anxious",
+      "facts": [
+        "dulce.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w4.l15",
+      "date": "2025-09-21",
+      "what": "Dulce pays Camila $20 to cover her Sunday shift so she can go to Brianna's party that night, a one-off because the party fell on her shift. She owes Camila until she can pay her back.",
+      "with": [
+        "camila"
+      ],
+      "outcome": "Camila agrees; Dulce still owes her $20.",
+      "feeling": "relieved, guilty",
+      "facts": [
+        "dulce.f37",
+        "dulce.f52"
+      ],
+      "impressions": [
+        "dulce.i06"
+      ]
+    },
+    {
+      "id": "dulce.w4.l16",
+      "date": "2025-09-21",
+      "what": "Having said yes to both Camila and Brianna, Dulce asks the assistant to help write a message to Efraín explaining the swap.",
+      "with": [
+        "efrain"
+      ],
+      "outcome": "Sends a polite note and hopes he's not mad.",
+      "feeling": "nervous",
+      "facts": [
+        "cast.f20"
+      ],
+      "impressions": [
+        "dulce.i01"
+      ]
+    },
+    {
+      "id": "dulce.w4.l17",
+      "date": "2025-09-21",
+      "what": "Dulce goes to Brianna's birthday party and then home, where Yesenia is waiting.",
+      "with": [
+        "brianna",
+        "sienna",
+        "yesenia"
+      ],
+      "outcome": "Gets in on time for Yesenia's rule.",
+      "feeling": "tired, happy",
+      "facts": [
+        "cast.f11"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "dulce.w4.n01",
+      "subject": "dulce",
+      "attribute": "lab_status",
+      "value": "turned in first chemistry lab write-up with a one-paragraph conclusion",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w4.n02",
+      "subject": "dulce",
+      "attribute": "street_fair_purchase",
+      "value": "bought a concha and an agua fresca at the Calle Ortega fair",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w4.n03",
+      "subject": "brianna",
+      "attribute": "birthday_party",
+      "value": "birthday party Sunday night, Sept 21",
+      "valid_from": "2025-09-21",
+      "valid_to": "2025-09-21",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w4.n04",
+      "subject": "dulce",
+      "attribute": "fair_plan",
+      "value": "went to the Calle Ortega fair with Karina on Saturday",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

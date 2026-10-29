@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s26",
+  "principal": "marcus",
+  "start": "2025-10-15T14:05:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick i just left the stats tutoring center at 12:30 and i got maybe a couple hours before my 2 section today. biomechanics midterm is tmrw. how do i split it between a last review and sleep"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. A couple of quick questions so I can be specific: what time do you need to be up and out for tonight's shift, and how much of the Biomechanics material have you already gone through? Also, what time does your 2 p.m. section let out?"
+    },
+    {
+      "role": "user",
+      "text": "section is 2 to 5:15. then the cold dock again tonight so i need to be in freezer layers and out the door early. cant be up late. i skipped monday's assigned reading after a double night so thats just sitting there. i dont have time for a full plan lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, so no full plan, just triage. Here's how I'd split it:\n\n**Now to 2 p.m. (about 60-90 min, if you can spare it)**\n- Skip the Monday reading as a full read. Instead, skim only the chapter headings, figures and summary or key-terms box, 15 min max.\n- Go through whatever study guide, lecture slides or a classmate's notes you have. Prioritize the topics your instructor emphasized or repeated.\n- Spend the rest on practice problems or past quiz questions. Those show you what you actually can't do yet.\n\n**During your 2-5:15 section**\n- Listen for any review hints from the instructor and jot them down. That's free study time.\n\n**5:15 to your pre-shift sleep**\n- Eat something real and pack your layers for tonight.\n- 20-30 min, one last pass on only the formulas, definitions and problem types you missed earlier. Stop there.\n- Then sleep as long as the clock allows. For a midterm, sleep beats extra cramming.\n\n**Tonight**\n- Don't study at the shift. Keep your phone off and save your energy.\n\nIf you tell me what topics the midterm covers, I can narrow the skim list to the highest-value stuff."
+    },
+    {
+      "role": "user",
+      "text": "fr thats useful. covers joint mechanics, torque and gait. i got a classmates notes for most of it but not the monday chapter"
+    },
+    {
+      "role": "assistant",
+      "text": "Perfect, that makes it easy:\n\n1. **Torque and joint mechanics (about 30 min):** Work 3-4 practice problems from your notes, since these are the most likely to cost you points if you freeze. Know how to set up moment arms and what the units are.\n2. **Gait (about 20 min):** Know the phases in order, the key terms, and which joints and muscles do what in each phase.\n3. **Monday chapter (about 10 min):** Read the summary and look at the figures. Write down 3 things you could be asked and move on.\n\nThen go to class and pack up tonight's layers. You're in better shape than it feels. Want a short list of the 10 formulas or terms to glance at right before bed?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good. short version saved. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck tomorrow, and get that sleep in before tonight."
+    }
+  ]
+}

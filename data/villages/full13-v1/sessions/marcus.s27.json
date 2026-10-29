@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s27",
+  "principal": "marcus",
+  "start": "2025-10-16T14:14:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick need a short pep talk and a checklist to recover after my biomechanics midterm. it was this morning and idk how it went lol. got like no sleep before it, my sleep window gets cut short on class days. ex phys midterm is next on oct 22 so cant fully crash"
+    },
+    {
+      "role": "assistant",
+      "text": "Short pep talk: you showed up and finished an exam on almost no sleep. That's the hard part done. The result is out of your hands now, so don't spend energy replaying questions.\n\nRecovery checklist for today:\n1. Eat a real meal with protein and carbs, and drink water.\n2. Take a proper sleep block today, even 90 minutes helps.\n3. Don't re-check answers or compare with classmates.\n4. Write down 2-3 topics you remember being shaky, then drop it.\n5. Block 30-45 minutes tomorrow to start the Oct 22 Ex Phys midterm prep: skim notes, list topics.\n6. Pick a bedtime or sleep-window plan for the days before Oct 22.\n\nWhat else is on your plate today?"
+    },
+    {
+      "role": "user",
+      "text": "jade is annoyed ive been unreachable lol. need to call her tonight. can u give me a funny text to open with instead of a big serious apology"
+    },
+    {
+      "role": "assistant",
+      "text": "Here are three options:\n\n1. \"Sorry I've been MIA, I've been replaced by a zombie who only knows how to take tests. The real me is back, can I call you tonight?\"\n2. \"Missing person report: me. Last seen near a midterm. Found alive, would like to call you tonight.\"\n3. \"I owe you a call and an explanation. Short version: I've been a ghost. Can I haunt your phone around [time]?\"\n\nThen on the call, a quick real sentence helps: \"I know I've been hard to reach and I want to fix that.\" Do you want a plan for making it up to her this weekend?"
+    },
+    {
+      "role": "user",
+      "text": "ya saturday is our night anyway. gonna take her to pho ben thanh and make it up to her. add that to the checklist"
+    },
+    {
+      "role": "assistant",
+      "text": "Added. Updated checklist:\n\n1. Eat, hydrate, and take a sleep block today.\n2. Skip replaying the exam.\n3. Jot down shaky topics, then drop it.\n4. Send the funny text, then call her tonight.\n5. Start light Ex Phys prep tomorrow for Oct 22.\n6. Saturday: take her to the pho place you mentioned, put your phone away, and be fully there.\n7. Set a simple check-in habit, like a quick text at a set time, so she's not left guessing.\n\nYou got this."
+    }
+  ]
+}

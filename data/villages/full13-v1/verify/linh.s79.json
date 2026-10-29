@@ -1,0 +1,122 @@
+{
+  "session_id": "linh.s79",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh just came from Pedro's 4 p.m. anatomy group at the library",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just came from pedros 4pm group at the library",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh got into Intro to Nutrition and the digestion unit feels meaningful",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got into intro to nutrition this morning so the digestion unit actually feels like it means something",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is moving toward nutrition",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got into intro to nutrition this morning so the digestion unit actually feels like it means something",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants to mention the class at home low-key, avoiding a big conversation",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i dont want it to turn into a whole convo lol, just kinda mention it in passing",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short bullet answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long just bullets",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is relieved by the timed blocks plan",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the timed blocks are perfect 😭",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Linh got the Intro to Nutrition seat",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f46",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on getting the seat!",
+      "support_quote": "i got into intro to nutrition this morning"
+    },
+    {
+      "text": "Assistant says Linh registered for spring classes today including Intro to Nutrition",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f46",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "\"Oh, I registered for my spring classes today. One's Intro to Nutrition.\"",
+      "support_quote": "i got into intro to nutrition this morning"
+    },
+    {
+      "text": "Assistant says Linh liked the digestion unit",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f46",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "\"It fit my schedule and I liked the digestion unit.\"",
+      "support_quote": "the digestion unit actually feels like it means something"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "also a script for mentioning the nutrition class at home. i dont want it to turn into a whole convo lol, just kinda mention it in passing"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "too long just bullets"
+    },
+    {
+      "item_id": "linh.f22",
+      "present": true,
+      "quote": "just came from pedros 4pm group at the library"
+    },
+    {
+      "item_id": "linh.f46",
+      "present": true,
+      "quote": "i got into intro to nutrition this morning so the digestion unit actually feels like it means something"
+    }
+  ],
+  "sensitive": []
+}

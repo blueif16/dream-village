@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s38",
+  "principal": "isabel",
+  "start": "2025-11-09T23:07:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "need advice on how to bring up the Mom sheet with grace tonight. i have net price figures for five schools, she's grading at the kitchen table rn so its basically a sunday night ambush lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. A few quick questions so I can be specific: which five schools do you have figures for, and what's the main thing you want her to walk away understanding (that out-of-state is affordable, or that you've done the work)?"
+    },
+    {
+      "role": "user",
+      "text": "genuinely the second one. i have a list of twelve, six out of state, four UC, and bayshore state + the in-state polytechnic as safeties. the five on the sheet are 3 out of state, 1 UC, and bayshore. not sure whether to feature the safeties or just the snow ones"
+    },
+    {
+      "role": "assistant",
+      "text": "Include the safeties. Showing a range tells her you're not fixated on one outcome, and it makes the out-of-state numbers read as one option among several rather than a demand.\n\nSuggested order:\n1. Start with the safe baseline: Bayshore State net price. It shows you took her side of the argument seriously.\n2. Then the UC.\n3. Then the three out-of-state schools, with the gap between each and the baseline in the last column.\n4. Close with how you'd cover that gap: aid, scholarships, your own savings, summer work.\n\nOpening line: \"I looked up the actual net prices, not the sticker prices. Can I show you five of them?\" Keep it to a request for ten minutes, not a decision."
+    },
+    {
+      "role": "user",
+      "text": "ok. also she grades everything like its a rubric, honestly so tedious, every worksheet has like 14 columns of points. but make the sheet look like that?? like clean, labeled, sources cited so she cant dismiss it"
+    },
+    {
+      "role": "assistant",
+      "text": "Good instinct. Format it like this:\n\n- Title line: \"Net Price Comparison, 5 Schools\"\n- Columns: School | Sticker cost | Expected aid | Net price | Difference vs. baseline | Source\n- Source column: link or note for each figure, such as the school's net price calculator, with the date you ran it\n- A short key at the bottom: what \"net price\" means and which figures are estimates\n- Bold or shade the baseline row so the comparison is easy\n\nOne page, no color overload, consistent rounding. A fixed layout she can check line by line makes it hard to wave away."
+    },
+    {
+      "role": "user",
+      "text": "nice. timing tho. im still home by 9 on weekends so i dont want to start a fight and get that reopened. after two bowls of lola cora's sinigang at lunch and fish at dinner im also skipping any chicken talk lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Then keep it low-key. Wait until she's done grading or at a natural pause, not mid-stack. Ask first, \"Do you have ten minutes for something I put together?\" Hand her the sheet, let her read, and start with the Bayshore line.\n\nIf it turns tense, you can say \"I'm not asking for an answer tonight, I just wanted you to see the numbers.\" That leaves the door open without a fight. Keep dinner talk out of it entirely."
+    },
+    {
+      "role": "user",
+      "text": "ok that works. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck tonight. If you want, send me the sheet afterward and I'll check it for anything she could pick at."
+    }
+  ]
+}

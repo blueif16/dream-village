@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s36",
+  "principal": "arjun",
+  "start": "2025-10-02T23:11:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok pasting my alum msg, this is my one for today (trying to do one alum per weekday). make it sound less like a robot wrote it pls\n\n\"Dear Mr. Okafor, I hope this message finds you well. My name is Arjun Sandhu and I am a junior studying logistics management at Bayshore State Tamsen. I am seeking a summer 2026 supply chain or transportation analyst internship in the Bay Area. I have a phone screen with Kestrel Cold Chain coming up and would greatly appreciate any insight into the company. I have attached v-whatever of my resume for your reference. Thank you for your time and consideration.\""
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a warmer version:\n\n\"Hi Mr. Okafor,\n\nI'm Arjun Sandhu, a logistics management junior at Bayshore State's Tamsen campus. I'm looking for a summer 2026 supply chain or transportation analyst internship in the Bay Area, and I saw you're an alum working in freight.\n\nI have a phone screen coming up with Kestrel Cold Chain and would love any insight you have on the company or on 3PL work in general. Even 10 minutes of your time would help.\n\nI've attached my resume in case it's useful. Thanks so much for reading this.\n\nBest,\nArjun\"\n\nI changed 'Dear' to 'Hi', cut the 'hope this finds you well' filler, and made the ask specific and small, which makes it easier to say yes. I added the line about seeing he's an alum in freight; delete it if it isn't accurate, or swap in something real about his work."
+    },
+    {
+      "role": "user",
+      "text": "nice. can u keep the interview part but less stiff. also the one-line bullets on th resume, are they tight enough? attaching v-whatever, lowkey not sure"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, a looser interview line:\n\n\"I've got a phone screen with Kestrel Cold Chain coming up, and since you know this space, I'd love your take on what they look for. Anything helps.\"\n\nOn the resume: I can't see the attachment, only text I can read here. Paste the bullets and I'll check them. In the meantime, a quick test for one-line bullets: each should fit on a single line, start with a strong verb, and include one number (a percent, a dollar figure, volume, time saved). If a bullet needs a comma and a second clause, trim it. Send them over and I'll tighten each one."
+    },
+    {
+      "role": "user",
+      "text": "thx, will paste them tmrw. sending it now 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with it. Before you send, check the name spelling and that the attachment is on the message. Tomorrow, paste the bullets and I'll tighten them. Good luck with the phone screen too."
+    }
+  ]
+}

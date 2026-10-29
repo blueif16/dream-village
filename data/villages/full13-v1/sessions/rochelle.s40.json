@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s40",
+  "principal": "rochelle",
+  "start": "2025-11-15T22:41:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "be honest am i screwed. spent the whole morning moving keisha's couch and my lower back flared up again so i cant sit at the table more than like 2 hrs. still dont have the brachial plexus down and anatomy final is dec 15. plus thanksgiving prep. gonna rewrite the plan on the fridge calendar tomorrow for the week"
+    },
+    {
+      "role": "assistant",
+      "text": "You're not screwed. The final is a month out, and one lost morning is recoverable. Here's a rough shape for the week:\n\n- Study in 25-30 minute blocks and stand or walk for 5 minutes between them. That also protects your back.\n- Brachial plexus gets 3 short sessions this week instead of one long one: index cards, then drawing it from memory, then a quick test.\n- Thanksgiving prep goes in fixed slots on the calendar, like the shopping list and cleaning, so it doesn't eat the study blocks.\n\nIt's also normal to feel behind after helping someone move, since that was a real chunk of your day..."
+    },
+    {
+      "role": "user",
+      "text": "just tell me what to drop. short answer"
+    },
+    {
+      "role": "assistant",
+      "text": "Drop these:\n1. Any extra errands this week that aren't Thanksgiving essentials.\n2. Long sit-down sessions. Use short blocks instead.\n3. Cleaning and decorating until the weekend before the holiday.\n\nKeep: brachial plexus 3x, your regular class and study group time, and the Thanksgiving shopping you've already done."
+    },
+    {
+      "role": "user",
+      "text": "ok. also gotta pay the propane bill online and the form wants my drivers license number. D4829175. where does it go and is it ok to type it in"
+    },
+    {
+      "role": "assistant",
+      "text": "Put it in the field labeled driver's license or ID number, with no spaces or dashes unless the form shows a format. Check that the page address starts with https and that it's the propane company's real site, not a link from a text or email. If you can, pay through the company's own login page or app instead. If the form won't submit, check the number against your license card. Once the payment goes through, save the confirmation number or take a screenshot."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Rest your back tonight, and good luck rewriting the calendar tomorrow."
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "principal": "noemi",
+  "week": 1,
+  "entries": [
+    {
+      "id": "noemi.w1.l01",
+      "date": "2025-08-25",
+      "what": "Slept in until 9, then made coffee and went through the weekend's ticket queue from home before driving the 9 minutes down Ruel Road.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Queue triaged before clocking in.",
+      "feeling": "steady, a little groggy",
+      "facts": [
+        "noemi.f14",
+        "noemi.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l02",
+      "date": "2025-08-25",
+      "what": "Swing shift in the IT cage next to the outbound break room; three frozen handhelds and a badge reader that wouldn't read were waiting.",
+      "with": [
+        "greg",
+        "bao"
+      ],
+      "outcome": "Cleared the pile before the night handoff.",
+      "feeling": "busy but fine",
+      "facts": [
+        "noemi.f01",
+        "noemi.f53",
+        "noemi.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l03",
+      "date": "2025-08-25",
+      "what": "Ate a leftover rice bowl at her desk, then logged the scanners sent out for vendor repair in the RMA sheet.",
+      "with": [],
+      "outcome": "RMA sheet current.",
+      "feeling": "organized",
+      "facts": [
+        "noemi.f33",
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l04",
+      "date": "2025-08-25",
+      "what": "Home at 11, watched a show with Iris and went to bed around 1.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Quiet night.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l05",
+      "date": "2025-08-26",
+      "what": "Morning at home, then filled up at the Ruel Road station before shift.",
+      "with": [],
+      "outcome": "Full tank for the week.",
+      "feeling": "routine",
+      "facts": [
+        "noemi.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l06",
+      "date": "2025-08-26",
+      "what": "Swing shift; Tuesday afternoon slot spent with Bao in the cage going over battery swaps on scanners.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao swapped three batteries on his own.",
+      "feeling": "patient, pleased",
+      "facts": [
+        "noemi.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l07",
+      "date": "2025-08-26",
+      "what": "Carla messaged her cell about a dead scanner on the outbound line during night handoff; Noemi swapped it from the stock shelf.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Picker back on rate in ten minutes.",
+      "feeling": "quick on her feet",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l08",
+      "date": "2025-08-26",
+      "what": "Late evening study session with the practice-test app and tabbed guide, mostly on port numbers.",
+      "with": [],
+      "outcome": "Got through one chapter before bed.",
+      "feeling": "mildly frustrated",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l09",
+      "date": "2025-08-27",
+      "what": "Heat wave day; drove in with the AC maxed. Ridgeline added water breaks and the warehouse felt hot even from the cage.",
+      "with": [],
+      "outcome": "Arrived fine; shift ran with extra breaks.",
+      "feeling": "sweaty, irritable",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l10",
+      "date": "2025-08-27",
+      "what": "Heat made scanners overheat and lock up; she piled them in the cage and cooled them down one by one.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Eleven handhelds in the cage by evening.",
+      "feeling": "swamped",
+      "facts": [
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l11",
+      "date": "2025-08-27",
+      "what": "Ate a rice bowl in the air-conditioned IT cage and skipped the outbound break room.",
+      "with": [],
+      "outcome": "Stayed cool.",
+      "feeling": "relieved",
+      "facts": [
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l12",
+      "date": "2025-08-27",
+      "what": "Got home to the Verdant Commons apartment and split a cold dinner with Iris.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Early night.",
+      "feeling": "drained",
+      "facts": [
+        "noemi.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l13",
+      "date": "2025-08-28",
+      "what": "Slept late and did a long practice-test block at home, with fans going on the heat.",
+      "with": [],
+      "outcome": "Finished two practice sections.",
+      "feeling": "focused",
+      "facts": [
+        "noemi.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l14",
+      "date": "2025-08-28",
+      "what": "Swing shift; spent the Thursday afternoon with Bao on trigger board swaps while Greg ate his turkey sandwich.",
+      "with": [
+        "bao",
+        "greg"
+      ],
+      "outcome": "Bao got a trigger board swapped without help.",
+      "feeling": "proud of Bao",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48",
+        "cast.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l15",
+      "date": "2025-08-28",
+      "what": "Iris ordered sushi for Thursday night and they ate it with the AC on full.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Good dinner.",
+      "feeling": "content",
+      "facts": [
+        "noemi.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l16",
+      "date": "2025-08-29",
+      "what": "Morning errand to fix her mom's phone and printer at the fourplex off Vinca.",
+      "with": [],
+      "outcome": "Printer working again.",
+      "feeling": "resigned, fond",
+      "facts": [
+        "noemi.f27",
+        "noemi.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l17",
+      "date": "2025-08-29",
+      "what": "Swing shift; picked up Friday tacos from Taquería Colima on the way in during the heat.",
+      "with": [],
+      "outcome": "Ate at her desk.",
+      "feeling": "happy about tacos",
+      "facts": [
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l18",
+      "date": "2025-08-29",
+      "what": "Handled a badge reader outage at the north door in the heat and logged it in the internal queue.",
+      "with": [
+        "victor"
+      ],
+      "outcome": "Reader replaced.",
+      "feeling": "efficient",
+      "facts": [
+        "noemi.f33",
+        "noemi.f49"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l19",
+      "date": "2025-08-29",
+      "what": "Home after 11, gaming a little with the headset on before bed.",
+      "with": [],
+      "outcome": "One co-op round, then sleep.",
+      "feeling": "unwinding",
+      "facts": [
+        "noemi.f19",
+        "noemi.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l20",
+      "date": "2025-08-30",
+      "what": "Slept in, then walked the Ulloa marsh boardwalk in the heat early before it peaked.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Short walk, cut off by heat.",
+      "feeling": "peaceful",
+      "facts": [
+        "noemi.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l21",
+      "date": "2025-08-30",
+      "what": "Afternoon study at home with the tabbed guide on subnetting, weakest topic.",
+      "with": [],
+      "outcome": "Struggled through drills.",
+      "feeling": "stubborn",
+      "facts": [
+        "noemi.f12",
+        "noemi.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l22",
+      "date": "2025-08-30",
+      "what": "Checked in on the household budget sheet with Iris over dinner.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Trip cushion on track.",
+      "feeling": "fine",
+      "facts": [
+        "noemi.f45",
+        "noemi.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l23",
+      "date": "2025-08-31",
+      "what": "Slow Sunday morning; lazy breakfast and cleaned the apartment.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Apartment tidy.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l24",
+      "date": "2025-08-31",
+      "what": "Afternoon practice test, then went over missed questions.",
+      "with": [],
+      "outcome": "Score around her usual range.",
+      "feeling": "determined",
+      "facts": [
+        "noemi.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w1.l25",
+      "date": "2025-08-31",
+      "what": "Sunday night co-op survival game with her online squad.",
+      "with": [],
+      "outcome": "Squad survived the night.",
+      "feeling": "happy",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w1.n01",
+      "subject": "noemi",
+      "attribute": "heat_wave_cage_count",
+      "value": "eleven overheated scanners in the cage on Aug 27",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w1.n02",
+      "subject": "noemi",
+      "attribute": "mom_printer_fix",
+      "value": "fixed her mom's printer on Aug 29",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w1.n03",
+      "subject": "bao",
+      "attribute": "scanner_progress",
+      "value": "swapped a trigger board without help on Aug 28",
+      "valid_from": "2025-08-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w1.n04",
+      "subject": "noemi",
+      "attribute": "study_focus_week",
+      "value": "drilling subnetting on weekends in late August",
+      "valid_from": "2025-08-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

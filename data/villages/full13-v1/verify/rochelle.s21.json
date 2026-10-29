@@ -1,0 +1,122 @@
+{
+  "session_id": "rochelle.s21",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Andre's Ridgeline job now has mandatory 10-hour days, 5am to 3:30pm, instead of 6 to 2:30",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": "cast.f77",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "andre's ridgeline job went to mandatory overtime. he used to do 6 to 2:30 now its 10 hr days 5am to 3:30pm.",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle does Sunday batch cooking, usually red beans and rice",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do sunday batch cooking, usually red beans and rice for the week",
+      "support_quote": ""
+    },
+    {
+      "text": "Andre gets home mid afternoon but is wiped",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "he gets home mid afternoon but is wiped",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle wants the van line not to stand out on the budget shown to Andre, having labeled it misc before",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how do i lay it out so the van line doesnt stick out. i put misc on it before when i showed him",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle refers to the van repair line as 'the van'",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how do i lay it out so the van line doesnt stick out",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle is putting the household budget with Andre's overtime pay on a sheet",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "im putting the household budget on a sheet with his overtime pay included",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Andre will be home about an hour later, leaves earlier",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": "cast.f77",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "He leaves earlier and gets home about an hour later",
+      "support_quote": "he used to do 6 to 2:30 now its 10 hr days 5am to 3:30pm"
+    },
+    {
+      "text": "Assistant says the user does Sunday batch cooking with beans and rice",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Here's how to stretch one big pot over the week:",
+      "support_quote": "i do sunday batch cooking, usually red beans and rice for the week"
+    },
+    {
+      "text": "Assistant says Andre gets home about 4",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Reheat when he gets home, so it's ready by about 4.",
+      "support_quote": "he gets home mid afternoon but is wiped"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "cast.f77",
+      "present": true,
+      "quote": "andre's ridgeline job went to mandatory overtime. he used to do 6 to 2:30 now its 10 hr days 5am to 3:30pm."
+    },
+    {
+      "item_id": "rochelle.i06",
+      "present": true,
+      "quote": "how do i lay it out so the van line doesnt stick out. i put misc on it before when i showed him"
+    },
+    {
+      "item_id": "rochelle.f36",
+      "present": true,
+      "quote": "i do sunday batch cooking, usually red beans and rice for the week"
+    },
+    {
+      "item_id": "rochelle.r03",
+      "present": true,
+      "quote": "how do i lay it out so the van line doesnt stick out"
+    }
+  ],
+  "sensitive": []
+}

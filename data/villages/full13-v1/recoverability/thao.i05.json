@@ -1,0 +1,81 @@
+{
+  "impression_id": "thao.i05",
+  "evidence_sessions": [
+    "thao.s09",
+    "thao.s22",
+    "thao.s32",
+    "thao.s36"
+  ],
+  "inferred": [
+    {
+      "statement": "Works overnight shifts as a nurse and plans meals, caffeine, chores, and sleep around that schedule, often messaging at 2am or right after getting home.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s09",
+        "thao.s22",
+        "thao.s36",
+        "thao.s32"
+      ]
+    },
+    {
+      "statement": "Prefers short, practical, bottom-line answers, often asking for the 'realistic' version, a short checklist, or bullets, and cuts off extra options with replies like 'nah that works'.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s09",
+        "thao.s22",
+        "thao.s32",
+        "thao.s36"
+      ]
+    },
+    {
+      "statement": "Handles household friction with a roommate through quiet structure such as labeled fridge shelves and a color-coded chore chart, and avoids confrontation ('i'd rather not make it a thing').",
+      "strength": "strong",
+      "sessions": [
+        "thao.s22",
+        "thao.s32",
+        "thao.s36"
+      ]
+    },
+    {
+      "statement": "Is conscientious and systematic, labeling bins, tracking card balances, and keeping routines organized, while looking for low-effort ways to maintain them rather than full overhauls.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s09",
+        "thao.s36",
+        "thao.s32"
+      ]
+    },
+    {
+      "statement": "Is professionally rigorous and has internalized nursing documentation standards (objective facts, no backdating, notify charge), answering quiz questions accurately and concisely.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s22"
+      ]
+    },
+    {
+      "statement": "Uses off-nights and spare time to catch up on obligations such as CE hours for renewal, and learns best by being taught key points and then quizzed.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s22"
+      ]
+    },
+    {
+      "statement": "Pays attention to food safety and budget details, tracking shelf life for work meals and homemade Vietnamese iced coffee, and the laundry card cost, which suggests care about health and money.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s09",
+        "thao.s36"
+      ]
+    },
+    {
+      "statement": "Stays anxious about work even on time off, lying awake over an upcoming go-live and joking about it.",
+      "strength": "weak",
+      "sessions": [
+        "thao.s09"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "",
+  "rationale": "The intended trait is a disorganized, messy housekeeper, which is not directly a decoy here. The reader inferred the opposite: conscientious, systematic, with labeled bins and a color-coded chore chart. No statement captures disorganization or messiness."
+}

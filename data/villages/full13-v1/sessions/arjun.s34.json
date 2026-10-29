@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s34",
+  "principal": "arjun",
+  "start": "2025-09-30T07:11:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "typing this on the 7:02 and it is running late 💀\n\nkestrel cold chain emailed, they want a phone screen. accepted a slot for next week. my first interview ever lol\n\nwhat does a 3pl recruiter phone screen usually ask and how long is it? tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on landing your first interview! Here's the short version.\n\n**Length:** usually 20-30 minutes, sometimes as short as 15.\n\n**Typical questions:**\n- Tell me about yourself / walk me through your resume\n- Why logistics, and why this company (3PL, cold chain)?\n- Why this internship and what are you hoping to learn?\n- A project or class where you used data or solved an operations problem\n- Teamwork or deadline-under-pressure example\n- Availability: start date, hours, location\n- Logistics basics: warehousing, transportation, inventory\n- Pay expectations or logistics (sometimes)\n- Your questions for them\n\n**Prep:** research what the company does, have 2-3 stories ready, and keep a short list of questions on hand.\n\nWant a one-line cheat sheet for each?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also quick thing, i built my sister a wedding timeline telling her to delegate and then took three of the tasks myself lol. can you give me a quick explainer on how to protect my prep time this week so i dont get eaten alive"
+    },
+    {
+      "role": "assistant",
+      "text": "**One-line cheat sheet**\n- Tell me about yourself: present (your major) → past (a relevant project or job) → future (why this role).\n- Why logistics/cold chain: one concrete moment that hooked you, plus why temperature-controlled freight is a harder problem.\n- Why them: one specific thing from their site or the job posting.\n- Project story: situation → what you did → a number for the result.\n- Teamwork/deadline: pick one story, keep it to 60-90 seconds.\n- Availability: have exact dates and hours ready.\n- Your questions: ask about the team, what a typical day looks like, and next steps.\n\n**Protecting your prep time**\n1. **Block it like a class.** Put 3-4 sessions of 30-45 minutes on your calendar before the call, and treat them as fixed.\n2. **Say what you can do, and when.** For extra asks: \"I can take that after [date].\" Don't say yes on the spot.\n3. **Pre-decide what can slip.** List 2-3 low-priority tasks that wait until after the screen.\n4. **Practice out loud.** Even 10 minutes a day beats rereading notes.\n5. **Stop at a set time.** Pick a cutoff each night so you're rested for the call.\n\nWant me to draft a short \"can this wait until next week?\" message you can reuse?"
+    },
+    {
+      "role": "user",
+      "text": "ngl the message would help. also gotta tell my roommate tonight over dinner before i leave for work so he doesnt blast music during the call"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a reusable message:\n\n\"Hey [name], thanks for thinking of me! I have a big deadline this week, so I can't take this on right now. I can pick it up after [date], or I can help with [smaller piece]. Does that work?\"\n\nFor your roommate, keep it simple: \"I have a phone interview on [day/time]. Can you keep it quiet for about 30 minutes? Happy to return the favor.\"\n\nAlso ask for a quiet spot and confirm the time zone and call format with the recruiter beforehand. Good luck!"
+    }
+  ]
+}

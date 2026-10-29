@@ -1,0 +1,102 @@
+{
+  "session_id": "thao.s08",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao attended the paid 8-hour charting training this morning",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just came off shift and sat through the paid 8 hour charting training this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao normally sleeps 8:30 to 3 with blackout curtains and a box fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i normally sleep 8:30 to 3 with blackout curtains and a box fan",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is going to Ruiz Family Market for fish sauce and produce",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm heading to ruiz family market for fish sauce and produce on the way home",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao brings thermoses of cà phê sữa đá on shift, possibly a second",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "is a second thermos of cà phê sữa đá too much for tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's shift starts at 7",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shift starts 7",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao prefers short, direct answers post-shift",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how much sleep do i need before tonight and when should i cut off caffeine",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao's shift needs her to drink coffee during the shift using thermoses of cà phê sữa đá",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "two thermoses of cà phê sữa đá is usually in the range of 400 mg",
+      "support_quote": "is a second thermos of cà phê sữa đá too much for tonight"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f14",
+      "present": true,
+      "quote": "just came off shift and sat through the paid 8 hour charting training this morning"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "i normally sleep 8:30 to 3 with blackout curtains and a box fan and that obviously didn't happen"
+    },
+    {
+      "item_id": "thao.f11",
+      "present": true,
+      "quote": "also is a second thermos of cà phê sữa đá too much for tonight"
+    },
+    {
+      "item_id": "thao.f33",
+      "present": true,
+      "quote": "i'm heading to ruiz family market for fish sauce and produce on the way home"
+    }
+  ],
+  "sensitive": []
+}

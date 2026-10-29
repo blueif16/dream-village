@@ -1,0 +1,84 @@
+{
+  "impression_id": "grace.i01",
+  "evidence_sessions": [
+    "grace.s03",
+    "grace.s05",
+    "grace.s09",
+    "grace.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Grace wants replies short, scannable and free of filler, and she explicitly asks for brevity (bullets, word limits, no closing question, 'shorter next time').",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s05",
+        "grace.s09",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is frustrated by administrative paperwork and reporting demands, and she tries to cut the time they take, with sardonic remarks like 'forms for the forms' and 'the dashboard' about her principal.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is detail-oriented and wants things verified: exact formulas, a pre-use checklist, a careful budget and a cost-conscious lab redesign.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s03",
+        "grace.s05"
+      ]
+    },
+    {
+      "statement": "Grace is stretched thin by work and family responsibilities (five sections, prep-period work, evening caregiving for her mother, a van in the shop), and she fits tasks into small gaps of time.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s05",
+        "grace.s09",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is warm and supportive toward her students and their parents, and she wants communications to sound soft and encouraging rather than stern, but she is much more demanding and less patient with her own daughter.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s09",
+        "grace.s13",
+        "grace.s05"
+      ]
+    },
+    {
+      "statement": "Grace is worried about the strain with her teenage daughter and brings it up in passing, such as phone rules, a curt text followed by silence, and time-management frustration, and she accepts a gentle correction when told her tone may have been harsh.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s03",
+        "grace.s09",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace seeks validation for her judgments (that a student's missed deadline shows a pattern) and accepts pushback without argument when the assistant declines to confirm.",
+      "strength": "weak",
+      "sessions": [
+        "grace.s05"
+      ]
+    },
+    {
+      "statement": "Grace is courteous and uses Filipino expressions such as 'Salamat' and 'Ay', and she tends to put her family caregiving into the background of her requests, with a partner, Ramón, whom she wants to avoid fuss.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s05",
+        "grace.s09",
+        "grace.s13"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Grace is warm and supportive toward her students and their parents, and she wants communications to sound soft and encouraging rather than stern, but she is much more demanding and less patient with her own daughter.",
+  "rationale": "The reader's statement that Grace is warm and supportive toward students and parents but much more demanding and less patient with her own daughter, rated strong, captures the core pattern of a stricter, colder standard for her daughter than for her students."
+}

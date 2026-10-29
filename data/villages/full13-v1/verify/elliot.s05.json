@@ -1,0 +1,97 @@
+{
+  "session_id": "elliot.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Elliot was up for the 2 a.m. feed",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i was up for the 2 am feed and he just would not settle",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has evening and overnight crying",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "He's been having a rough stretch with crying in the evenings and overnight",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot lives in unit 209",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "- Elliot, 209",
+      "support_quote": ""
+    },
+    {
+      "text": "Neighbor 211 is Walter, who gets the note",
+      "about": "walter",
+      "kind": "reference_use",
+      "item_id": "elliot.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i think 211 heard everything",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot over-apologizes to neighbors about the baby's noise",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I'm really, truly sorry and I'll understand if you're upset.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the baby's crying carried through the wall",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Our baby had a rough stretch of crying in the evening and overnight",
+      "support_quote": "He's been having a rough stretch with crying in the evenings and overnight"
+    },
+    {
+      "text": "Elliot lives in 209",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "- Elliot, 209",
+      "support_quote": "- Elliot, 209"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.r02",
+      "present": true,
+      "quote": "i think 211 heard everything"
+    },
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "He's been having a rough stretch with crying in the evenings and overnight and we're trying everything."
+    },
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "i was up for the 2 am feed and he just would not settle"
+    }
+  ],
+  "sensitive": []
+}

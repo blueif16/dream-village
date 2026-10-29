@@ -1,0 +1,39 @@
+{
+  "id": "jun.s34",
+  "principal": "jun",
+  "start": "2025-11-01T21:16:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss can you edit this text to paolo, needs to sound firm but not mean. here's what i wrote:\n\n\"hey man so after the missed prep sessions i think we gotta change the split. going 70/30 starting now, me 70 you 30. you keep the instagram and you handle market setup. i need you at setup by 6:30 every sunday, no exceptions. lmk if that works\"\n\nthe saturday table sold out early today so we need him way more now"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a tightened version that keeps your tone direct:\n\n\"Hey Paolo, after the missed prep sessions I'm changing our split. Starting now it's 70/30, me 70 and you 30. You keep the Instagram and you own market setup. I need you on site by 6:30 every Sunday, no exceptions. Let me know today if that works for you.\"\n\nI cut the \"I think we gotta\" and \"lmk\" so it reads as a decision, not a question. Want a slightly softer version too, with a line like \"I value working with you, but this has to change\"?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yeah show me the softer one"
+    },
+    {
+      "role": "assistant",
+      "text": "Softer version:\n\n\"Hey Paolo, I appreciate everything you've put into Lola's Roll, but the missed prep sessions have put a lot on me, so I'm changing the split. Starting now it's 70/30, me 70 and you 30. You keep the Instagram and you own market setup. I need you on site by 6:30 every Sunday. Can you confirm that works for you?\"\n\nThis one opens warmly and ends with a confirmation request, so it leaves a bit more room for him to respond."
+    },
+    {
+      "role": "user",
+      "text": "nah keep the firm one lol. also add a line that the canopy is coming, i ordered a 10x10 white one with weights tonight, $189, and he's gonna set it up. haven't heard from rick yet on the slot tho 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the firm version with the canopy line added:\n\n\"Hey Paolo, after the missed prep sessions I'm changing our split. Starting now it's 70/30, me 70 and you 30. You keep the Instagram and you own market setup. I ordered a 10x10 white canopy with weights ($189), and setting it up will be your job. I need you on site by 6:30 every Sunday, no exceptions. Let me know today if that works for you.\"\n\nSince the slot isn't confirmed yet, you could add \"pending the market slot\" after the canopy sentence so he knows the Sunday schedule depends on it. Want me to put that in?"
+    },
+    {
+      "role": "user",
+      "text": "sige add that, thanks that helps a ton 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Final version:\n\n\"Hey Paolo, after the missed prep sessions I'm changing our split. Starting now it's 70/30, me 70 and you 30. You keep the Instagram and you own market setup. I ordered a 10x10 white canopy with weights ($189), and setting it up will be your job. Sundays start at 6:30 on site, no exceptions, pending the market slot. Let me know today if that works for you.\"\n\nGood luck with it!"
+    }
+  ]
+}

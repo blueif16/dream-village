@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s01",
+  "principal": "noemi",
+  "start": "2025-08-25T12:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you make this email less rude pls. also i'm gonna send it before bed around 1 and i sleep till 9 so it needs to make sense for him reading it in the morning\n\n\"Greg. need to swap fri swing. my mom's printer is dead and i'm the only one who can fix it. i'm on 2-10:30 mon-fri so i can't do it any other time. i can drive the 9 min down ruel and be in early to cover handoff. let me know\n\n- Noemi, IT Support Tech II, RF-4 help desk\""
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Your draft is already clear, it just reads a bit abrupt. Here's a softer version:\n\nSubject: Friday swing shift swap request\n\nHi Greg,\n\nCould I swap my Friday swing shift with someone? My mom's printer has died and I'm the only one who can fix it, and with my regular 2 p.m. to 10:30 p.m. Monday to Friday schedule, I can't get to it any other time.\n\nIf it helps, I can come in early that day to cover the handoff. The drive is only about 9 minutes down Ruel Road, so it's easy for me to get in ahead of time.\n\nLet me know what works on your end. Thanks so much for considering it!\n\nNoemi\nIT Support Technician II, RF-4 Help Desk\n\nSince you're sending it around 1 a.m., you could add a line like \"No rush, whenever you see this in the morning.\" That way he doesn't feel he has to reply right away. You could also schedule it to send at a decent hour if your email app allows it. Want a shorter version?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version? and yeah add the no rush line ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Subject: Friday swing swap?\n\nHi Greg,\n\nCan I swap my Friday swing? I need to fix my mom's printer and can't do it around my 2-10:30 schedule. I can come in early to cover handoff.\n\nNo rush, reply whenever you see this in the morning. Thanks!\n\nNoemi\nIT Support Tech II, RF-4 Help Desk"
+    }
+  ]
+}

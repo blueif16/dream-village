@@ -1,0 +1,360 @@
+{
+  "principal": "rafael",
+  "week": 12,
+  "entries": [
+    {
+      "id": "rafael.w12.l01",
+      "date": "2025-11-10",
+      "what": "Brakes lab at Tamsen Valley 8-11, then lunch in the truck. Between classes he worries about the Civic deal and sits in the Taco typing out how to quietly tell Dante he's out if the first car loses money.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Decides to keep it low-key and not say anything yet",
+      "feeling": "uneasy",
+      "facts": [
+        "rafael.f24",
+        "rafael.f02"
+      ],
+      "impressions": [
+        "rafael.i06"
+      ]
+    },
+    {
+      "id": "rafael.w12.l02",
+      "date": "2025-11-10",
+      "what": "Afternoon errands for Gladys, picking up supplies at Ruiz Family Market and chicharrón pork from Chuy.",
+      "with": [
+        "gladys",
+        "chuy"
+      ],
+      "outcome": "Dropped groceries at home",
+      "feeling": "dutiful",
+      "facts": [
+        "rafael.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l03",
+      "date": "2025-11-10",
+      "what": "Pickup soccer at Delgado Park in the evening, then teardown videos in bed.",
+      "with": [],
+      "outcome": "Slept by midnight",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f33",
+        "rafael.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l04",
+      "date": "2025-11-11",
+      "what": "Veterans Day, college closed. Slept in, then helped Oscar fix the stand generator at home.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Generator serviced and running smooth",
+      "feeling": "satisfied",
+      "facts": [
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l05",
+      "date": "2025-11-11",
+      "what": "Listened to his G1 voice-memo flashcards in the truck while driving to Ximena's, where he did a quick brake check on her Corolla.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "Brakes fine; they got horchata afterward",
+      "feeling": "content",
+      "facts": [
+        "rafael.f20",
+        "rafael.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l06",
+      "date": "2025-11-11",
+      "what": "Evening at home, studying flashcards and eating dinner with his parents.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Got through two chapters of cards",
+      "feeling": "focused",
+      "facts": [
+        "rafael.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l07",
+      "date": "2025-11-12",
+      "what": "Brakes lab 8-11 at Tamsen Valley, cleaned his bay carefully because Salas docks points for mess.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Lab graded fine",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f02",
+        "rafael.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l08",
+      "date": "2025-11-12",
+      "what": "Lunch with Dante on campus; Dante pitched the next auction pick again and Rafael held to labor-only terms.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Left the talk open for later",
+      "feeling": "wary",
+      "facts": [
+        "rafael.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l09",
+      "date": "2025-11-12",
+      "what": "Afternoon flashcard practice, then filled the truck at the Ruel Road station and checked the forecast for tomorrow's storm.",
+      "with": [],
+      "outcome": "Planned to prep the stand the next day",
+      "feeling": "alert",
+      "facts": [
+        "rafael.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l10",
+      "date": "2025-11-13",
+      "what": "Storm day. Engine performance class 1-4 with Salas while rain flooded Ruel Road; Rafael asked how to sandbag the stand area so his mom wouldn't have to lift anything and then hauled tarps and sandbags himself.",
+      "with": [
+        "roberto",
+        "gladys"
+      ],
+      "outcome": "Stand secured with tarps and sandbags",
+      "feeling": "protective",
+      "facts": [
+        "rafael.f54",
+        "rafael.f02",
+        "rafael.f10"
+      ],
+      "impressions": [
+        "rafael.i04"
+      ]
+    },
+    {
+      "id": "rafael.w12.l11",
+      "date": "2025-11-13",
+      "what": "The family closed the stand that night because of the storm, and Rafael stayed home with the family to watch the rain.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Lost a night of sales but nothing damaged",
+      "feeling": "relieved",
+      "facts": [
+        "rafael.f54",
+        "rafael.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l12",
+      "date": "2025-11-13",
+      "what": "Late night, played flashcards on his phone and watched teardown videos.",
+      "with": [],
+      "outcome": "Asleep around midnight",
+      "feeling": "tired",
+      "facts": [
+        "rafael.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l13",
+      "date": "2025-11-14",
+      "what": "Still wet out. Brought Dulce's ride plan together: checked the lot for flooding, then worked a short Friday setup at the new lot.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Stand reopened though with slow business",
+      "feeling": "tired",
+      "facts": [
+        "rafael.f09",
+        "rafael.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l14",
+      "date": "2025-11-14",
+      "what": "Left the Ruel Road stand at 8:50 to pick up Dulce from Taquería Colima, back by 9:20.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Dulce got home dry",
+      "feeling": "caring",
+      "facts": [
+        "rafael.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l15",
+      "date": "2025-11-14",
+      "what": "Closed down the stand and packed the generator.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Home late",
+      "feeling": "worn out",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l16",
+      "date": "2025-11-15",
+      "what": "Ximena's birthday. Morning at the pan dulce bakery, then gave her the gel-manicure gift card.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "She loved it",
+      "feeling": "happy",
+      "facts": [
+        "rafael.f39",
+        "rafael.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l17",
+      "date": "2025-11-15",
+      "what": "Dinner out for Ximena before the stand, then went to the stand.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "Good night",
+      "feeling": "warm",
+      "facts": [
+        "rafael.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l18",
+      "date": "2025-11-15",
+      "what": "Saturday stand 5-10 p.m. with Ximena helping.",
+      "with": [
+        "ximena",
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Busy night",
+      "feeling": "busy",
+      "facts": [
+        "rafael.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l19",
+      "date": "2025-11-16",
+      "what": "Sunday stand set-up, midday cards study.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Worked through practice questions",
+      "feeling": "anxious",
+      "facts": [
+        "rafael.f16",
+        "rafael.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w12.l20",
+      "date": "2025-11-16",
+      "what": "Asked how to tell his dad he wants one weekend off before the practice test, then said never mind and dropped it.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Said nothing to Oscar",
+      "feeling": "guilty",
+      "facts": [
+        "rafael.f35"
+      ],
+      "impressions": [
+        "rafael.i01"
+      ]
+    },
+    {
+      "id": "rafael.w12.l21",
+      "date": "2025-11-16",
+      "what": "Worked the Sunday stand 5-10 p.m.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Closed out the weekend",
+      "feeling": "tired",
+      "facts": [
+        "rafael.f09"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w12.n01",
+      "subject": "rafael",
+      "attribute": "soccer_team",
+      "value": "plays on a loose Monday pickup side at Delgado Park",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w12.n02",
+      "subject": "rafael",
+      "attribute": "birthday_gift",
+      "value": "gave Ximena a gel-manicure gift card for her birthday",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w12.n03",
+      "subject": "rafael",
+      "attribute": "generator_service",
+      "value": "serviced the stand generator on Veterans Day",
+      "valid_from": "2025-11-11",
+      "valid_to": "2025-11-19",
+      "superseded_by": "rafael.w13.n04",
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w12.n04",
+      "subject": "rafael",
+      "attribute": "storm_lost_sales",
+      "value": "stand lost the Thursday night of sales to the storm",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

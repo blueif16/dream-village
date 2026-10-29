@@ -1,0 +1,81 @@
+{
+  "impression_id": "rochelle.i05",
+  "evidence_sessions": [
+    "rochelle.s15",
+    "rochelle.s27",
+    "rochelle.s34",
+    "rochelle.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Is working toward becoming an RN, with a concrete plan (anatomy 2 next, program entry by fall 2027, aiming at St. Anselm) and a mapped course plan she checks against before registering.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s34",
+        "rochelle.s27",
+        "rochelle.s43"
+      ]
+    },
+    {
+      "statement": "Is highly grade-conscious and wants exact numbers (minimum final score, effect of two points, GPA impact) to protect her B.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s27",
+        "rochelle.s43",
+        "rochelle.s34",
+        "rochelle.s15"
+      ]
+    },
+    {
+      "statement": "Juggles heavy caregiving and work obligations (Saturday senior lunch shifts, meal prepping for Andre, errands for her mother-in-law Loretta), so she studies late and tired and often feels she should have started sooner.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s27",
+        "rochelle.s43"
+      ]
+    },
+    {
+      "statement": "Opens requests with 'be honest' and wants direct, practical answers, then closes with brief thanks like 'ok bet thank u', preferring short, concise help.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s15",
+        "rochelle.s27",
+        "rochelle.s34",
+        "rochelle.s43"
+      ]
+    },
+    {
+      "statement": "Learns best through analogies from her own work life, such as explaining grade weighting as rates and totes on a shift.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s27"
+      ]
+    },
+    {
+      "statement": "Is financially tight and careful with money, noting the $310 refurbished laptop and relying on a Pell grant for class needs.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s15"
+      ]
+    },
+    {
+      "statement": "Downplays setbacks with a casual tone ('a C is a C whatever') while privately worrying about them, and sometimes vents frustration about people, then asks the assistant not to keep it.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s15",
+        "rochelle.s43"
+      ]
+    },
+    {
+      "statement": "Handles professors proactively and professionally, emailing about office hours and a score recheck, and wanting follow-ups to be polite but firm.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s15",
+        "rochelle.s43"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The decoy is that she doesn't care about grades. The reader instead inferred a strong, generalized claim that she is highly grade-conscious and wants exact numbers to protect her B, which contradicts the decoy. The 'a C is a C whatever' remark was framed as downplaying while privately worrying, so the decoy was not generalized."
+}

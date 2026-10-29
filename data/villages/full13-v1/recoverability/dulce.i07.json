@@ -1,0 +1,83 @@
+{
+  "impression_id": "dulce.i07",
+  "evidence_sessions": [
+    "dulce.s02",
+    "dulce.s08",
+    "dulce.s12",
+    "dulce.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Takes real pride in financial independence and earning her own way, wanting her family (mom, cousin Rafael) to see that she paid for things herself.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s08",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "Is close to her extended family and wants to be dependable and make them proud, seeking approval from her tía Gladys and cousin Rafael through her work at the stand and in her projects.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s08",
+        "dulce.s12",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "Budgets deliberately and tracks money in specific amounts (phone fund, paycheck splits, savings goals), asking for concrete math and timelines.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s08",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "Struggles with and avoids writing tasks, freezing under deadlines and asking the assistant to just write it, while being confident with numbers.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s08",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Overcommits and gets stressed juggling work shifts, chem study, and social or volunteer commitments, and tends to brush past her stress with 'lol' or 'anyway' before it gets addressed.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s12",
+        "dulce.s02"
+      ]
+    },
+    {
+      "statement": "Prefers a casual, friendly, slangy tone with the assistant ('bestie', 'lol'), wants texts and messages to sound sincere but 'not cringe', and often defers offered extras with 'maybe later'.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s02",
+        "dulce.s08",
+        "dulce.s12",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "Is cautious about sharing financial decisions with her mom and defers to her rules, such as checking before entering bank details and giving $20 per check toward the phone bill.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s08",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "Avoids social awkwardness about money by quietly absorbing costs rather than asking friends to pay their share.",
+      "strength": "weak",
+      "sessions": [
+        "dulce.s02"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Is close to her extended family and wants to be dependable and make them proud, seeking approval from her tía Gladys and cousin Rafael through her work at the stand and in her projects.",
+  "rationale": "The second inferred statement, rated strong, says she wants to make her family proud and seeks approval from her cousin Rafael and tía Gladys. That matches the intended trait of treating family approval, especially Rafael's, as her steadiest ground."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s79",
+  "principal": "noemi",
+  "start": "2025-11-17T13:58:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q make this less rude pls. need to send it before my swing starts, 10 hrs again lol\n\nAh Acting Victor,\n\nyou keep asking where the handoff notes are. i keep writing them. i also keep covering greg's vendor tickets and the RMA stuff and scheduling and still don't have the title. printed copy is taped in the cage by the outbound break room so you can stop pinging me. thx"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a version that keeps the facts but drops the edge:\n\nHi Victor,\n\nQuick note on the handoff notes: I've been writing them up as we go, and there's a printed copy taped up in the cage by the outbound break room, so it's easy to grab anytime. I'm also still covering the vendor tickets, scanner RMAs and scheduling that Greg used to handle, so if something's unclear, message me and I'll point you to the right place.\n\nThanks,\n[your name]\n\nI took out the \"stop pinging me\" line and the \"without the title\" jab, since those are what read as rude. If you want to keep a bit more of that point in, I can add something neutral like \"happy to talk about how we split these duties.\" Want a shorter one?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version? and keep the part that i'm covering the stuff, just not salty"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\nHi Victor, the handoff notes are written, and a printed copy is taped up in the cage by the outbound break room. I'm still covering Greg's vendor tickets, RMAs and scheduling, so ping me if you need anything. Thanks, [your name]"
+    },
+    {
+      "role": "user",
+      "text": "ty that's gg"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works! Good luck with the shift."
+    }
+  ]
+}

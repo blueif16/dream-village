@@ -1,0 +1,55 @@
+{
+  "id": "linh.s80",
+  "principal": "linh",
+  "start": "2025-11-19T23:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait can u help me plan a week of dinners for my family pls. sketching it in my planner rn ☕\n\nmy mom cooks dinner at 8 and leaves a plate for me on closing nights and i want to swap in earlier ones"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few quick questions so the plan fits:\n\n- How many people are you cooking for?\n- Which nights are you free to cook, and which are tight?\n- Any foods to avoid or budget limits?\n\nIf you'd rather, just tell me the rough shape and I'll fill in the rest."
+    },
+    {
+      "role": "user",
+      "text": "4 ppl. i close mon/wed 3-9 so those nights have to be make-ahead. other nights i can cook around 6\n\nno dairy milk for me (lactose ish) and keep it cheap pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a week, dinner times in bold:\n\n- **Mon (make-ahead, eat at 6 before you'd be home? no: reheats at 8)**: sheet-pan chicken thighs + roasted broccoli + rice. Cook Sunday, reheat Monday.\n- **Tue, 6:00**: tofu and veggie stir-fry with brown rice\n- **Wed (make-ahead)**: lentil and carrot soup, cooked Tuesday night, reheated Wednesday\n- **Thu, 6:00**: baked salmon or canned mackerel patties, green beans, potatoes\n- **Fri, 6:00**: egg fried rice loaded with peas and cabbage\n- **Sat, 6:00**: chicken and vegetable soup noodles\n- **Sun, 6:00**: turkey or bean chili with a side salad\n\nAll dairy-free. Want a shopping list and a prep schedule next?"
+    },
+    {
+      "role": "user",
+      "text": "yes!! and can u add rough macros per dinner? protein / veg / carb. i wanna see if the balance actually works, like is there enough protein on the lentil night.. lentils alone are kinda low right\n\nalso ok random but i set 3 alarms for 6:58 this morning for class registration and got the section i wanted. do u know if those fill super fast? like how many ppl even get in"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting your section! Priority registration sections for popular classes often fill within minutes, but it varies a lot by college and course, and I can't see your school's numbers. Your registration office may be able to tell you seat counts.\n\nYou're right about the lentils. Add a boost so that night isn't low in protein:\n\n**Approx. macros per adult serving (rough):**\n- Mon chicken thighs, broccoli, rice: ~35g protein, 2 cups veg, ~45g carb\n- Tue tofu stir-fry, brown rice: ~25g protein, 2 cups veg, ~45g carb\n- Wed lentil soup + 2 boiled eggs or a handful of edamame: ~28g protein, 1.5 cups veg, ~40g carb\n- Thu salmon, green beans, potatoes: ~30g protein, 1.5 cups veg, ~35g carb\n- Fri egg fried rice with peas and cabbage: ~22g protein, 1.5 cups veg, ~50g carb\n- Sat chicken veg noodle soup: ~28g protein, 2 cups veg, ~40g carb\n- Sun bean chili + salad: ~25g protein, 2 cups veg, ~40g carb\n\n**Shopping list:**\n- Protein: chicken thighs, firm tofu, salmon fillets or canned mackerel, eggs, edamame, dried lentils, canned beans, ground turkey\n- Veg: broccoli, carrots, green beans, cabbage, peas, mixed stir-fry veg, salad greens, onions, garlic, tomatoes\n- Carbs: rice, brown rice, potatoes, noodles\n- Pantry: soy sauce, oil, stock, chili spices\n\n**Prep:** Sunday cook the Monday chicken and rice. Tuesday night make the Wednesday soup while dinner cooks."
+    },
+    {
+      "role": "user",
+      "text": "ok thats good. can u make it fit my planner, like a day by day with times and a tiny prep line, bullets only. i fill it in w washi tape on sunday night so short pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a planner-friendly version:\n\n**Sun night (planning + prep)**\n- Roast Monday's chicken, broccoli, and rice\n- Buy groceries beforehand\n\n**Mon** (closing night)\n- 8:00: reheat chicken, broccoli, rice\n\n**Tue**\n- 6:00: tofu stir-fry\n- After dinner: make lentil soup\n\n**Wed** (closing night)\n- 8:00: reheat lentil soup + eggs\n\n**Thu**\n- 6:00: salmon, green beans, potatoes\n\n**Fri**\n- 6:00: egg fried rice\n\n**Sat**\n- 6:00: chicken veg noodle soup\n\n**Sun**\n- 6:00: chili + salad\n\nTip: use a different washi tape color for make-ahead nights so they stand out. Want a color-coded version for protein, veg, and carb?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls color coded!! pink protein, green veg, yellow carb"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n**Mon (8:00 reheat)**\n- 🩷 chicken thighs\n- 💚 broccoli\n- 💛 rice\n\n**Tue (6:00)**\n- 🩷 tofu\n- 💚 stir-fry veg\n- 💛 brown rice\n\n**Wed (8:00 reheat)**\n- 🩷 eggs/edamame\n- 💚 carrots, lentils' veg base\n- 💛 lentil soup base + bread or rice\n\n**Thu (6:00)**\n- 🩷 salmon\n- 💚 green beans\n- 💛 potatoes\n\n**Fri (6:00)**\n- 🩷 eggs\n- 💚 peas, cabbage\n- 💛 rice\n\n**Sat (6:00)**\n- 🩷 chicken\n- 💚 soup veg\n- 💛 noodles\n\n**Sun (6:00)**\n- 🩷 beans/turkey\n- 💚 salad\n- 💛 chili base + rice or bread\n\nEnjoy your Sunday planning!"
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. ok im gonna eat now 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan! Eat something, and good luck with the week."
+    }
+  ]
+}

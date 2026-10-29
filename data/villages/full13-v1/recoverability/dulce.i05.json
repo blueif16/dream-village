@@ -1,0 +1,86 @@
+{
+  "impression_id": "dulce.i05",
+  "evidence_sessions": [
+    "dulce.s05",
+    "dulce.s06",
+    "dulce.s11",
+    "dulce.s12"
+  ],
+  "inferred": [
+    {
+      "statement": "Dulce works late at night and leaves tasks until the last minute, often messaging near 11pm or midnight with a deadline looming and stuff piling up.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "She is socially anxious about friend-group conflict and wants to reassure everyone she isn't taking sides, repeatedly asking for help wording texts so they don't sound fake or desperate.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s11"
+      ]
+    },
+    {
+      "statement": "She gravitates to numbers and money tasks and takes pride in competence there (counting the drawer, quick math), while freezing on or avoiding writing tasks like lab conclusions and the Spanish project.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "She writes in a casual, joking tone ('bestie', 'lol', emojis) and often masks stress with humor, then tacks on light requests like captions, titles, or memes right after heavy topics.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s11",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "She tends to over-commit and then scramble or feel guilty (paying Camila to cover a shift, signing up for a food drive while behind in chem), and she asks for help avoiding repeats.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "She reads ambiguous social silence as possibly her fault (Eli not replying, being removed from a chat) and wants reassurance and a reality check.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s11"
+      ]
+    },
+    {
+      "statement": "She is stressed about her chemistry grade and lab writeups, and wants quick, direct, practical help rather than long explanations, often with limited time.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s11",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "She values her family and wants to honor them; she is proud of her aunt and uncle's pupusa stand and wants the project to make them proud, and she keeps up with Tío Oscar's stand.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s12"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "She writes in a casual, joking tone ('bestie', 'lol', emojis) and often masks stress with humor, then tacks on light requests like captions, titles, or memes right after heavy topics.",
+  "rationale": "The statement that she masks stress with humor and tacks on light requests like captions or memes right after heavy topics captures the core pattern of using jokes to deflect when a conversation turns serious. It is rated strong."
+}

@@ -1,0 +1,143 @@
+{
+  "session_id": "noemi.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Check engine light came on; she suspects O2 sensor",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "check engine light just came on while i was filling up at the ruel road station before shift. i think it's the o2 sensor?",
+      "support_quote": ""
+    },
+    {
+      "text": "Fills up at the Ruel Road station before shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "check engine light just came on while i was filling up at the ruel road station before shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Drives a 2014 silver hatchback 9 minutes to Ruel Road for swing shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "2014 silver hatchback. it's only 9 min to ruel road for swing shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Her half of the rent is tight",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f13",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my half of the rent is already tight",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris keeps the whole budget sheet and Noemi relies on her for it",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how do i fit this into iris's budget sheet, she keeps the whole thing",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris keeps a shared household budget sheet",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she keeps the whole thing",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris advised getting a quote first",
+      "about": "iris",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "iris said to get a quote first before doing anything",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Noemi just filled up and has a shared budget sheet with Iris",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since you just filled up, this is a real possibility",
+      "support_quote": "check engine light just came on while i was filling up at the ruel road station before shift"
+    },
+    {
+      "text": "Assistant says Noemi has a 9-minute drive",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A 9-minute drive on a steady light with normal behavior is a low-risk call.",
+      "support_quote": "it's only 9 min to ruel road for swing shift"
+    },
+    {
+      "text": "Assistant says Noemi shares a budget sheet with Iris",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Fitting it into the shared budget sheet",
+      "support_quote": "she keeps the whole thing"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f15",
+      "present": true,
+      "quote": "check engine light just came on while i was filling up at the ruel road station before shift"
+    },
+    {
+      "item_id": "noemi.f17",
+      "present": true,
+      "quote": "check engine light just came on while i was filling up at the ruel road station before shift"
+    },
+    {
+      "item_id": "noemi.f14",
+      "present": true,
+      "quote": "it's only 9 min to ruel road for swing shift so i'm gonna drive it today"
+    },
+    {
+      "item_id": "noemi.f13",
+      "present": true,
+      "quote": "my half of the rent is already tight so i want the cheap route"
+    },
+    {
+      "item_id": "noemi.i04",
+      "present": true,
+      "quote": "how do i fit this into iris's budget sheet, she keeps the whole thing"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

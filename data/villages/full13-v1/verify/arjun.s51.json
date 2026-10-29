@@ -1,0 +1,103 @@
+{
+  "session_id": "arjun.s51",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has about $1,300 in savings to move",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have about $1300 in savings i wanna move over",
+      "support_quote": ""
+    },
+    {
+      "text": "Keeps $450 food and transit money in checking",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need to keep my $450 food and transit money separate",
+      "support_quote": ""
+    },
+    {
+      "text": "Just ran on the marsh boardwalk loop",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got back from my run on the marsh boardwalk loop",
+      "support_quote": ""
+    },
+    {
+      "text": "Driver's license number is D4829175",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.w4.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my license number is D4829175",
+      "support_quote": ""
+    },
+    {
+      "text": "Has $450 in checking to keep untouched",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Keep your $450 in checking untouched.",
+      "support_quote": "i need to keep my $450 food and transit money separate"
+    },
+    {
+      "text": "Arjun has savings to transfer",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "set up a bank transfer for the rest of your savings",
+      "support_quote": "i have about $1300 in savings i wanna move over"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.w4.ns01",
+      "present": true,
+      "quote": "my license number is D4829175"
+    },
+    {
+      "item_id": "arjun.f57",
+      "present": true,
+      "quote": "i have about $1300 in savings i wanna move over"
+    },
+    {
+      "item_id": "arjun.f31",
+      "present": true,
+      "quote": "i need to keep my $450 food and transit money separate"
+    },
+    {
+      "item_id": "arjun.f35",
+      "present": true,
+      "quote": "got back from my run on the marsh boardwalk loop"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "my license number is D4829175",
+      "assistant_quote": ""
+    }
+  ]
+}

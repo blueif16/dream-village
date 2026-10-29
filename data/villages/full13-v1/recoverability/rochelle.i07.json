@@ -1,0 +1,94 @@
+{
+  "impression_id": "rochelle.i07",
+  "evidence_sessions": [
+    "rochelle.s10",
+    "rochelle.s19",
+    "rochelle.s24",
+    "rochelle.s25",
+    "rochelle.s27",
+    "rochelle.s42"
+  ],
+  "inferred": [
+    {
+      "statement": "Rochelle learns best through analogies drawn from her warehouse/sort-line work (scanners, totes, conveyors, dock doors) and family life, and she repeatedly asks for new material to be explained that way.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s10",
+        "rochelle.s19",
+        "rochelle.s24",
+        "rochelle.s25",
+        "rochelle.s27",
+        "rochelle.s42"
+      ]
+    },
+    {
+      "statement": "She prefers short, practical, to-the-point answers and often asks for 'short version' or 'keep it short', then closes with a quick 'ok bet thank u'.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s19",
+        "rochelle.s24",
+        "rochelle.s42",
+        "rochelle.s25",
+        "rochelle.s10"
+      ]
+    },
+    {
+      "statement": "She juggles school with heavy caregiving and family duties (driving her mother-in-law to the pharmacy, meal prepping for Andre, a daughter at home, a house to quiet down) and often studies late at night or when worn out.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s10",
+        "rochelle.s27",
+        "rochelle.s24",
+        "rochelle.s25",
+        "rochelle.s42"
+      ]
+    },
+    {
+      "statement": "She is financially tight and resourceful, working a low-wage weekend shift, printing at the library, buying used books and renting e-texts, and making plans around a small monthly school budget.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s19",
+        "rochelle.s24",
+        "rochelle.s27"
+      ]
+    },
+    {
+      "statement": "A recurring back problem shapes how she studies, so she asks for short blocks, stands at the counter, and mentions flare-ups and recoveries.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s10",
+        "rochelle.s24",
+        "rochelle.s25"
+      ]
+    },
+    {
+      "statement": "She is a diligent, self-directed student who plans ahead and checks her work, using index cards, self-quizzing, grade calculations, and course sequencing, and she turns to the assistant for targeted tools rather than general help.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s10",
+        "rochelle.s24",
+        "rochelle.s25",
+        "rochelle.s27",
+        "rochelle.s42"
+      ]
+    },
+    {
+      "statement": "She relies on Denny's guidance for her course sequence and trusts it, and she cross-checks her own plans against it.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s10",
+        "rochelle.s42"
+      ]
+    },
+    {
+      "statement": "She is somewhat self-critical about timing, saying she should have done things days ago, but she responds well to concrete numbers and clear next steps.",
+      "strength": "weak",
+      "sessions": [
+        "rochelle.s27"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Rochelle learns best through analogies drawn from her warehouse/sort-line work (scanners, totes, conveyors, dock doors) and family life, and she repeatedly asks for new material to be explained that way.",
+  "rationale": "The first inferred statement, rated strong, says Rochelle learns best through warehouse and family analogies and repeatedly asks for material explained that way, which matches the intended trait's core pattern."
+}

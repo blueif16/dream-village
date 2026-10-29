@@ -1,0 +1,63 @@
+{
+  "id": "thao.s24",
+  "principal": "thao",
+  "start": "2025-10-15T17:59:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's almost 6 and i just woke up, blackout curtains do their job lol. need a quiz on cranial nerves and muscle origins for my sister linh, she has her anatomy lab practical friday. i'm back on mon/tue/fri nights now so i can only go over it with her wed and thu. quiz me first then i'll forward it"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Quick note on format: I'll ask one question at a time, with a short answer after each. Cranial nerves first.\n\nThere are 12 pairs, and each one has a function (sensory, motor, or both) and a place where it exits the skull. Let's start with the basics. The classic mnemonic runs I through XII: Olfactory, Optic, Oculomotor, Trochlear, Trigeminal, Abducens, Facial, Vestibulocochlear, Glossopharyngeal, Vagus, Accessory, Hypoglossal. For the lab practical it also helps to know which nerve goes with which structure, because the exam usually points at a spot on a model or specimen and asks for a name, and the function questions come after that. Muscle origins are a separate category, where you need the origin, insertion, and action for each major muscle, and..."
+    },
+    {
+      "role": "user",
+      "text": "too long, just the key terms in 5 lines max"
+    },
+    {
+      "role": "assistant",
+      "text": "Ok, 5 lines:\n\n- I Olfactory (smell), II Optic (vision), III Oculomotor (most eye muscles), IV Trochlear (superior oblique), VI Abducens (lateral rectus)\n- V Trigeminal (face sensation, chewing), VII Facial (expression, taste front 2/3)\n- VIII Vestibulocochlear (hearing, balance), IX Glossopharyngeal (swallow, taste back 1/3)\n- X Vagus (heart, gut, voice), XI Accessory (traps, SCM), XII Hypoglossal (tongue)\n- Origins: biceps brachii, scapula (supraglenoid tubercle and coracoid process); deltoid, clavicle, acromion, scapular spine; masseter, zygomatic arch\n\nQuiz question 1: Which nerve moves the lateral rectus?"
+    },
+    {
+      "role": "user",
+      "text": "VI abducens"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct.\n\nQ2: Which two muscles does cranial nerve XI supply?"
+    },
+    {
+      "role": "user",
+      "text": "traps and scm"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes.\n\nQ3: Which nerve carries taste from the front two-thirds of the tongue, and which one carries it from the back third?"
+    },
+    {
+      "role": "user",
+      "text": "vii front, ix back"
+    },
+    {
+      "role": "assistant",
+      "text": "Right.\n\nQ4: Where does the masseter originate?"
+    },
+    {
+      "role": "user",
+      "text": "zygomatic arch?"
+    },
+    {
+      "role": "assistant",
+      "text": "Correct. It inserts on the mandible, at the angle and ramus.\n\nQ5: Which nerve controls the superior oblique, and what's the mnemonic to remember it? (Hint: LR6 SO4.)"
+    },
+    {
+      "role": "user",
+      "text": "iv trochlear. ok that's a good set, can you format all 5 as a clean list with answers at the bottom so i can send it to her"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go, ready to forward:\n\n**Cranial nerves and muscle origins quiz**\n1. Which nerve moves the lateral rectus?\n2. Which two muscles does CN XI supply?\n3. Which nerves carry taste from the front two-thirds and the back third of the tongue?\n4. Where does the masseter originate?\n5. Which nerve supplies the superior oblique?\n\n**Answers**\n1. VI Abducens\n2. Trapezius and sternocleidomastoid\n3. VII Facial (front), IX Glossopharyngeal (back)\n4. Zygomatic arch\n5. IV Trochlear (LR6 SO4)\n\nWant a second set on the other muscles?"
+    }
+  ]
+}

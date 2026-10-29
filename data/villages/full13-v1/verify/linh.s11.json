@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh studies at home in the Pell Road house",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill be studying at home in the pell road house",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's notes use blue for bones and pink for muscles",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "blue is bones, pink muscles",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants a short hour-by-hour plan and is relieved by times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "having times on it helps so much",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh asked Linh about pharmacy again",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "cast.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom asked about pharmacy again at the picnic",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is off work and skipping the football game",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "im off work and skipping the football game",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has a blue-for-bones tagging system matching her notes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I used blue circles as stand-ins for your blue pen.",
+      "support_quote": "blue is bones, pink muscles"
+    },
+    {
+      "text": "Linh plans to stay busy at her desk",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Staying busy at your desk sounds like a good plan.",
+      "support_quote": "i wanna stay busy at my desk lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "can u tag it blue for bones so it matches my notes? blue is bones, pink muscles"
+    },
+    {
+      "item_id": "linh.f07",
+      "present": true,
+      "quote": "ill be studying at home in the pell road house"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "oh perfect, having times on it helps so much"
+    },
+    {
+      "item_id": "cast.f31",
+      "present": true,
+      "quote": "my mom asked about pharmacy again at the picnic so i wanna stay busy at my desk lol"
+    }
+  ],
+  "sensitive": []
+}

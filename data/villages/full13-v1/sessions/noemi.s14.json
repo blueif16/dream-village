@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s14",
+  "principal": "noemi",
+  "start": "2025-09-08T23:12:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ugh. quick q, or not a q really. the annual self-review form got assigned today, due sept 30, and i keep putting it off. skimmed it in the cage by the outbound break room while greg hovered and now i feel weird about it"
+    },
+    {
+      "role": "assistant",
+      "text": "That sounds like a rough way to meet a form, with someone hovering while you read it. What feels weird about it? Is it the form itself, or the idea of having to write about your own work?"
+    },
+    {
+      "role": "user",
+      "text": "the second one lol. it wants me to justify being a tech II on the help desk. like list why i deserve the level. and the cage was full of frozen handhelds all afternoon so i didnt have time to even think about it. now its 11pm and im just staring at the blank boxes in my head"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a lot to ask of yourself at 11pm after a full shift of frozen handhelds. A form that asks you to justify your level can make even solid work feel awkward to describe, because it turns everyday things you just do into claims you have to defend.\n\nSome things that might take the pressure off:\n- You don't need to write it tonight. Just notice which part you dread most.\n- Try a rough list of what you actually fixed, built or taught this year, with no adjectives and no judging. The form can be shaped later.\n- Think of it as a report on what happened. Describing facts isn't bragging.\n\nWhat do you think is the hardest box to fill in?"
+    },
+    {
+      "role": "user",
+      "text": "the part where i say what i did well. i can write 'fixed scanners' all day but anything past that feels like im hyping myself. tldr i dont wanna do it"
+    },
+    {
+      "role": "assistant",
+      "text": "Tldr: it's normal to avoid it, and you have three weeks. A small first step is better than a perfect draft.\n\nTry this tomorrow before shift, for ten minutes: write down three things that would have gone worse if you weren't there. Don't polish them. That's enough to start the form, and you can decide later how to word them."
+    }
+  ]
+}

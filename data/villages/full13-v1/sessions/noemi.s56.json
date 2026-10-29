@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s56",
+  "principal": "noemi",
+  "start": "2025-10-24T12:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. just submitted my application for the permanent IT desk lead at work. how do internal postings usually get evaluated? what happens next. and what do hiring panels actually look for in a lead role"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting it in. That's often the hardest step.\n\nHow internal applications usually go:\n1. Screening: HR checks you meet the minimum requirements (tenure, no active discipline, role fit).\n2. Resume/application review: the hiring manager or a small panel scores you against the posting's listed criteria.\n3. Interview: usually 30-60 minutes with the hiring manager, a peer lead, and sometimes HR. Often structured, with the same questions for every candidate.\n4. Reference check: internal candidates are often judged by their current manager and the teams they support.\n5. Decision and feedback: ideally you get feedback whether or not you get it.\n\nWhat panels typically look for in a lead role:\n- Technical credibility: you can solve the hard problems, not only the easy ones\n- Ownership: you take things from start to finish without being chased\n- Process thinking: you document, improve workflows, and handle vendors and escalations\n- People skills: coaching, delegating, and communicating with non-technical stakeholders\n- Prioritization under pressure: triage when everything is on fire\n- Results you can show: numbers, before/after, specific examples\n\nInternal candidates have an edge in knowing the systems and the people, but panels often want evidence of leading work, not just doing it.\n\nDo you know the timeline or who owns the process on your end?"
+    },
+    {
+      "role": "user",
+      "text": "ana in hr handles the internal posting paperwork. and rhonda told me the decision comes after peak, mid-december. so a long wait lol\n\nthing is i'm already covering greg's stuff. vendor tickets, scanner RMAs, scheduling. no title tho. and acting victor slowed down a ticket tonight again 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "That's useful for this. Covering those duties is exactly the kind of evidence a panel wants for a lead role, and you have a long runway before mid-December to build it.\n\nWhile you wait:\n1. Keep a running log of what you handle: vendor tickets, RMAs, scheduling. Track dates, volumes, and outcomes (turnaround time, scanners recovered, downtime avoided).\n2. Turn it into stories using situation, what you did, result. Panels like concrete examples, such as a vendor escalation you resolved or a scheduling problem you fixed.\n3. Get a little visibility. A short, factual status update to Rhonda on what the desk is handling can help, without it feeling like a pitch.\n4. Check in with Ana. Ask what the process and next steps are, whether interviews are planned, and whether you'll get feedback either way.\n5. Prepare for leadership questions: how you prioritize, handle conflict, train others, and deal with delays caused by other people.\n\nOn the ticket slowing down: document it neutrally (what was waiting, how long, the impact) rather than commenting on the person. It protects you and keeps your record clean.\n\nI can draft a list of likely interview questions with example answer outlines if you want."
+    }
+  ]
+}

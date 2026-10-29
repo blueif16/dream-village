@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s82",
+  "principal": "noemi",
+  "start": "2025-11-20T10:03:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you clean up this quick ref for night pickers on swapping a dead scanner battery. english + spanish, needs to fit one page. we have about 620 handhelds and the cage fills up every peak so i want people to try the swap first\n\nDEAD SCANNER? try this first\n1. hold power 10 sec\n2. flip it over, press latch, battery comes out\n3. put in a charged one from the rack, click it in\n4. hold power. if no boot, drop it at the cage w/ a red tag\n\nSPANISH\n1. mantener power 10 seg\n2. voltea el scanner, presiona el seguro, sale la bateria\n3. poner una bateria cargada del rack, que haga click\n4. mantener power. si no prende, dejarlo en el cage con etiqueta roja"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a cleaned-up one-pager. I kept the steps short and plain so anyone can follow them mid-shift.\n\n**DEAD SCANNER? Try this first**\n1. Hold the power button for 10 seconds.\n2. Flip the scanner over and press the latch. The battery will slide out.\n3. Take a charged battery from the rack and push it in until it clicks.\n4. Hold the power button. If it still won't turn on, drop it at the cage with a red tag.\n\n**¿SCANNER APAGADO? Prueba esto primero**\n1. Mantén presionado el botón de encendido por 10 segundos.\n2. Voltea el scanner y presiona el seguro. La batería saldrá.\n3. Toma una batería cargada del rack y empújala hasta que haga clic.\n4. Mantén presionado el botón de encendido. Si no prende, déjalo en la jaula (the cage) con una etiqueta roja.\n\nNotes:\n- In the Spanish version I wrote \"el cage\" as \"la jaula (the cage)\" so it's clear, but if everyone on the floor already says \"the cage,\" you can just write \"the cage\" in both.\n- I changed \"batería\" to include the accent, and \"segundos\" is spelled out.\n- If you want it to fit better on one page, I can add a small box at the bottom, such as \"Questions? Find IT.\"\n\nWant me to format it as a two-column layout?"
+    },
+    {
+      "role": "user",
+      "text": "keep it as the cage in both, everyone says that. also bao is gonna test it at the thursday 3-5 block today, he only does battery and trigger board swaps so it has to be dummy simple. can you make it bigger steps, fewer words"
+    },
+    {
+      "role": "assistant",
+      "text": "Done. Bigger numbered steps, fewer words, and \"the cage\" in both languages.\n\n**DEAD SCANNER? FIX IT FAST**\n1. HOLD POWER – 10 sec\n2. PRESS LATCH – battery out\n3. NEW BATTERY – click it in\n4. HOLD POWER – no boot? Red tag, drop at the cage\n\n**¿SCANNER MUERTO? ARRÉGLALO RÁPIDO**\n1. MANTÉN POWER – 10 seg\n2. PRESIONA EL SEGURO – sale la batería\n3. BATERÍA NUEVA – hasta el clic\n4. MANTÉN POWER – ¿no prende? Etiqueta roja, déjalo en the cage\n\nTip: add a small picture of the latch next to step 2, since that's where people usually get stuck. Since Bao will be testing it, ask him afterward which step he hesitated on and I can tighten the wording."
+    }
+  ]
+}

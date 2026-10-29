@@ -1,0 +1,39 @@
+{
+  "id": "linh.s50",
+  "principal": "linh",
+  "start": "2025-10-16T16:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok the practical is tomorrow morning at 9 and cranial nerves still wont stick.. ive been going thru my 600 card anatomy deck on breaks and these 12 just slide right off 🫠 can u list them + what each does? green pls to match my notes. whats the fastest way to memorize without the dirty mnemonic"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! The 12 cranial nerves are traditionally numbered with Roman numerals, and each one is classified as sensory (S), motor (M), or both (B). Here they are in order, along with their main functions. Since the standard mnemonic is off the table, one good approach is to group them by region and function, then build a story or image for each group. For instance, the first two nerves are purely sensory and deal with smell and vision, the next three control eye movement, and so on. After that, I'd suggest quizzing yourself in both directions: number to name and function to number. Spaced repetition in your flashcard app would help too. Would you like me to walk through each nerve in detail, along with example exam questions and common clinical tests?"
+    },
+    {
+      "role": "user",
+      "text": "too long just bullets pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go, in green 🟩 (I can't change text color, so I've marked each line with a green square to match your notes):\n\n🟩 I Olfactory – smell (S)\n🟩 II Optic – vision (S)\n🟩 III Oculomotor – most eye movements, eyelid lift, pupil constriction (M)\n🟩 IV Trochlear – eye movement, superior oblique (M)\n🟩 V Trigeminal – face sensation, chewing muscles (B)\n🟩 VI Abducens – eye moves outward (M)\n🟩 VII Facial – facial expression, taste front 2/3 of tongue (B)\n🟩 VIII Vestibulocochlear – hearing, balance (S)\n🟩 IX Glossopharyngeal – taste back of tongue, swallowing (B)\n🟩 X Vagus – heart, gut, voice box (B)\n🟩 XI Accessory – shoulder shrug, head turn (M)\n🟩 XII Hypoglossal – tongue movement (M)\n\nFastest memory tricks:\n- Chunk them: I-II senses, III-IV-VI eyes, V-VII face, VIII-IX-X-XI-XII the rest\n- Eye trick: LR6 SO4, everything else is III (lateral rectus = VI, superior oblique = IV)\n- S/M/B pattern: Some Say Marry Money, But My Brother Says Big Brains Matter More (S S M M B M B S B B M M)\n- Make a drawing of a head and label each nerve where it acts\n- Test yourself out of order, not just 1-12\n\nWant a short timed plan for tonight so it all gets done?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls w times. i can study from like 7 to 10"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan for 7 to 10 tonight:\n\n- 7:00-7:15: read the list above out loud once, no cards\n- 7:15-7:45: chunk practice. Cover the functions, say each group's nerves and what they do\n- 7:45-8:00: break, eat something 🍜\n- 8:00-8:30: draw a head and label all 12 from memory, check, redo the misses\n- 8:30-9:00: quiz yourself out of order, function to number and number to name, mark misses\n- 9:00-9:15: break\n- 9:15-9:45: only the misses, twice each\n- 9:45-10:00: one last full run, then stop\n\nAfter that, sleep. A rested brain recalls better than another hour of cramming. Good luck tomorrow!"
+    },
+    {
+      "role": "user",
+      "text": "ok thank u!! ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan! You've got this. Good luck at the practical tomorrow 🍜"
+    }
+  ]
+}

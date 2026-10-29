@@ -1,0 +1,47 @@
+{
+  "id": "noemi.s57",
+  "principal": "noemi",
+  "start": "2025-10-25T23:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you tutor me on subnetting. its my weak spot along with port numbers. been using a practice-test app and a secondhand study guide with tabbed chapters but cidr still makes my brain buffer"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Quick foundation first:\n\n- A CIDR number like /26 is how many bits are the network part (out of 32).\n- Host bits = 32 minus the prefix.\n- Usable hosts = 2^(host bits) - 2 (minus network and broadcast addresses).\n\nExamples:\n- /24 -> 8 host bits -> 254 usable hosts, mask 255.255.255.0\n- /26 -> 6 host bits -> 62 usable hosts, mask 255.255.255.192\n- /28 -> 4 host bits -> 14 usable hosts, mask 255.255.255.240\n\nTrick: the block size in the interesting octet is 256 minus the mask value. For /26 that's 256-192 = 64, so subnets start at .0, .64, .128, .192.\n\nWarm-up, answer these:\n1. How many usable hosts in a /27?\n2. What's the mask for /29?\n3. 192.168.10.70/26: which subnet is it in, and what's the broadcast address?\n\nWhat's your exam timeline, so I can pace the difficulty?"
+    },
+    {
+      "role": "user",
+      "text": "exam is dec 6 now so a little more breathing room. im averaging like 71% on practice exams and pass line is around 75 so close but not gg yet\n\n1. 30\n2. 255.255.255.248\n3. .64 subnet, broadcast .127"
+    },
+    {
+      "role": "assistant",
+      "text": "All three correct.\n\n1. /27 -> 5 host bits -> 32-2 = 30 ✔\n2. /29 -> block size 8 -> 256-8 = 248 ✔\n3. Block size 64, so .70 is in 192.168.10.64/26, and the broadcast is the next network minus 1 = .127 ✔\n\nYou're about 4 points from the pass line, so this is very fixable. Most lost points on subnetting come from slips like forgetting the -2 or mixing up block sizes, not from not understanding it.\n\nWant to move up a level?"
+    },
+    {
+      "role": "user",
+      "text": "yeah give me harder ones. the boss fight wont be this nice. no answers till i ask"
+    },
+    {
+      "role": "assistant",
+      "text": "Okay, no answers until you ask.\n\n1. You need at least 50 hosts per subnet. What's the smallest prefix length (most hosts per subnet that still fits, i.e. longest prefix) that works, and what's the mask?\n2. 10.4.77.200/21: what's the network address and the broadcast address?\n3. How many usable hosts are in 172.16.0.0/20?\n4. Split 192.168.5.0/24 into 4 equal subnets. List each network address and the usable range of the second one.\n5. Are 192.168.1.130/25 and 192.168.1.100/25 in the same subnet? Explain why.\n6. Bonus for your other weak spot: what default port does each of these use: SSH, DNS, RDP, SMTP, HTTPS?\n\nTake your time and show your work for 2 and 4."
+    },
+    {
+      "role": "user",
+      "text": "1. /26 mask .192\n2. network 10.4.72.0 broadcast 10.4.79.255\n3. 4094\n4. .0 .64 .128 .192, second is .65-.126\n5. no, .130 is in .128 and .100 is in .0\n6. 22 53 3389 25 443\n\nok answers pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, let's check.\n\n1. /26 -> 62 usable, mask 255.255.255.192 ✔\n2. /21 means block size 8 in the third octet. 77 falls in the 72 block, so network is 10.4.72.0 and broadcast is 10.4.79.255 ✔\n3. /20 -> 12 host bits -> 4096-2 = 4094 ✔\n4. Subnets are /26: .0, .64, .128, .192. Second subnet usable range is .65 to .126 ✔\n5. Correct. Both are /25 so the boundaries are .0 and .128. .100 is in .0/25 and .130 is in .128/25 ✔\n6. SSH 22, DNS 53, RDP 3389, SMTP 25, HTTPS 443. All correct ✔\n\nThat's a perfect round. If your practice scores are lagging, check whether the misses are on speed or on question wording, since you clearly have the mechanics. Want a timed set, or a round with variable-length subnet masks (VLSM)?"
+    },
+    {
+      "role": "user",
+      "text": "vlsm next. ty that was actually gg"
+    },
+    {
+      "role": "assistant",
+      "text": "VLSM: allocate the largest subnet first, then work down so nothing overlaps.\n\nYou have 192.168.20.0/24 and need these networks:\n- A: 100 hosts\n- B: 50 hosts\n- C: 25 hosts\n- D: a point-to-point link (2 hosts)\n\nFor each, give the prefix length, network address, and usable range. Place them in order A, B, C, D. Send your answers when ready and I'll check them."
+    }
+  ]
+}

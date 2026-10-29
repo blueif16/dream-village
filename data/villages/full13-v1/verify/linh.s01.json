@@ -1,0 +1,87 @@
+{
+  "session_id": "linh.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh has a four-year-old phone with a cracked corner and bad battery",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its a 4 year old phone w a cracked corner and the battery drops like crazy",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh works at the cafe noon to 6 today (Monday)",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im at the cafe noon to 6 today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh uses a paper planner with washi tape and plans the week on Sunday nights",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i normally use a paper planner w washi tape and plan the week on sunday nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has an iPhone",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "iphone.",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has class and a cafe shift noon to 6 today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "noon to 6 at the cafe plus class means you need roughly 12+ hours",
+      "support_quote": "im at the cafe noon to 6 today so it has to survive class AND the shift"
+    },
+    {
+      "text": "Linh uses a paper planner with washi tape and plans on Sunday nights",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Do a Sunday night weekly setup: add everything for the week in one sitting, just like your planner",
+      "support_quote": "i normally use a paper planner w washi tape and plan the week on sunday nights"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f25",
+      "present": true,
+      "quote": "its a 4 year old phone w a cracked corner and the battery drops like crazy"
+    },
+    {
+      "item_id": "linh.f03",
+      "present": true,
+      "quote": "im at the cafe noon to 6 today so it has to survive class AND the shift"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "i normally use a paper planner w washi tape and plan the week on sunday nights"
+    }
+  ],
+  "sensitive": []
+}

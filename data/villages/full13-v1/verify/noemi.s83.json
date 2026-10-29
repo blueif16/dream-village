@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s83",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "subnetting and port numbers are her weak spot",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers are still my weak spot lol",
+      "support_quote": ""
+    },
+    {
+      "text": "averaging 80% on practice exams after drills",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ive been averaging 80% on practice exams after the drills",
+      "support_quote": ""
+    },
+    {
+      "text": "eating Taquería Colima tacos on break",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "typing this between bites of colima tacos on break",
+      "support_quote": ""
+    },
+    {
+      "text": "calls her certification exam 'the boss fight'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the boss fight is still scary",
+      "support_quote": ""
+    },
+    {
+      "text": "averaging 80% on practice tests",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice, 80% is a solid place to be.",
+      "support_quote": "ive been averaging 80% on practice exams after the drills"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "subnetting and port numbers are still my weak spot lol"
+    },
+    {
+      "item_id": "noemi.f11",
+      "present": true,
+      "quote": "ive been averaging 80% on practice exams after the drills"
+    },
+    {
+      "item_id": "noemi.f25",
+      "present": true,
+      "quote": "typing this between bites of colima tacos on break"
+    },
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "the boss fight is still scary"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,351 @@
+{
+  "principal": "arjun",
+  "week": 3,
+  "entries": [
+    {
+      "id": "arjun.w3.l01",
+      "date": "2025-09-08",
+      "what": "Arjun catches the 7:02 Tule Line from Flats Junction after buying a large masala chai from Anh's cart, then sits through MWF classes at Bayshore State.",
+      "with": [
+        "anh"
+      ],
+      "outcome": "Made it to class on time.",
+      "feeling": "focused, caffeinated",
+      "facts": [
+        "arjun.f03",
+        "arjun.f27",
+        "arjun.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l02",
+      "date": "2025-09-08",
+      "what": "Starts his new rule of reaching out to one alum per weekday and sends a LinkedIn note to a Bayshore alum working at a 3PL.",
+      "with": [],
+      "outcome": "One message sent and logged in the spreadsheet.",
+      "feeling": "determined",
+      "facts": [
+        "arjun.f47",
+        "arjun.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l03",
+      "date": "2025-09-08",
+      "what": "Works his front desk shift at the career center, then goes home to Marisol Gardens unit 132 and tweaks his resume until late.",
+      "with": [],
+      "outcome": "Resume updated; bed after 1 a.m.",
+      "feeling": "tired but driven",
+      "facts": [
+        "arjun.f07",
+        "arjun.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l04",
+      "date": "2025-09-09",
+      "what": "Takes the 7:02 north and attends Dr. Ashby's 10:30 operations management class, where the group project modeling Ridgeline-style tote flow is assigned.",
+      "with": [
+        "stephen"
+      ],
+      "outcome": "Project due Nov 20; he starts a task list.",
+      "feeling": "interested, a bit loaded",
+      "facts": [
+        "arjun.f39",
+        "arjun.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l05",
+      "date": "2025-09-09",
+      "what": "Sends another alum message at lunch and adds two new applications to the spreadsheet.",
+      "with": [],
+      "outcome": "Tracker grows.",
+      "feeling": "steady",
+      "facts": [
+        "arjun.f47",
+        "arjun.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l06",
+      "date": "2025-09-09",
+      "what": "Eats his rajma-and-rice meal prep at home and splits the evening between group project notes and applications.",
+      "with": [],
+      "outcome": "Project outline drafted.",
+      "feeling": "productive",
+      "facts": [
+        "arjun.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l07",
+      "date": "2025-09-10",
+      "what": "Morning commute on the 7:02, then MWF classes. Sends his daily alum message between sections.",
+      "with": [],
+      "outcome": "Alum message sent.",
+      "feeling": "routine",
+      "facts": [
+        "arjun.f47",
+        "arjun.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l08",
+      "date": "2025-09-10",
+      "what": "Plans to do his mock interview with Lena that evening but instead spends the night asking the assistant for a fourth rewrite of a cover letter, putting off speaking practice.",
+      "with": [
+        "lena"
+      ],
+      "outcome": "Cover letter polished again; mock interview not done.",
+      "feeling": "avoidant, restless",
+      "facts": [
+        "arjun.f16"
+      ],
+      "impressions": [
+        "arjun.i01"
+      ]
+    },
+    {
+      "id": "arjun.w3.l09",
+      "date": "2025-09-10",
+      "what": "Realizes near 1 a.m. that the mock interview slipped again and makes a note to reschedule with Lena.",
+      "with": [
+        "lena"
+      ],
+      "outcome": "Reschedule request drafted.",
+      "feeling": "sheepish",
+      "facts": [
+        "arjun.f16",
+        "arjun.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l10",
+      "date": "2025-09-11",
+      "what": "Takes the 7:02, sits through Tuesday/Thursday ops management with Dr. Ashby, then heads to his office hours at 2.",
+      "with": [
+        "stephen"
+      ],
+      "outcome": "Brief chat about the project; no letter ask yet.",
+      "feeling": "cautious",
+      "facts": [
+        "arjun.f02",
+        "arjun.f56",
+        "arjun.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l11",
+      "date": "2025-09-11",
+      "what": "Sends the alum message and applies to two logistics analyst roles after class.",
+      "with": [],
+      "outcome": "Tracker updated.",
+      "feeling": "grinding",
+      "facts": [
+        "arjun.f47",
+        "arjun.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l12",
+      "date": "2025-09-11",
+      "what": "Does laundry in the card-only Marisol Gardens laundry room Thursday night and chats briefly with Marcus before his shift.",
+      "with": [
+        "marcus"
+      ],
+      "outcome": "Clean clothes, blazer pressed.",
+      "feeling": "relaxed",
+      "facts": [
+        "arjun.f46",
+        "arjun.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l13",
+      "date": "2025-09-12",
+      "what": "Wakes to see an application cutoff passed an hour earlier because his calendar was set to the wrong time zone; it is a one-off slip, and he fixes the calendar setting.",
+      "with": [],
+      "outcome": "One application missed; calendar corrected and buffer column still in use.",
+      "feeling": "annoyed at himself",
+      "facts": [
+        "arjun.f08"
+      ],
+      "impressions": [
+        "arjun.i06"
+      ]
+    },
+    {
+      "id": "arjun.w3.l14",
+      "date": "2025-09-12",
+      "what": "Rides home on the Tule Line, sends his alum message, and buys the week's chai on his tab with Anh.",
+      "with": [
+        "anh"
+      ],
+      "outcome": "Tab settled for the week.",
+      "feeling": "wry",
+      "facts": [
+        "arjun.f53",
+        "arjun.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l15",
+      "date": "2025-09-12",
+      "what": "Spends the evening on case team and Punjabi Student Association treasurer tasks, then applications.",
+      "with": [],
+      "outcome": "Treasurer sheet updated.",
+      "feeling": "stretched",
+      "facts": [
+        "arjun.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l16",
+      "date": "2025-09-13",
+      "what": "Goes for his Saturday run on the Ulloa marsh boardwalk loop, about four miles.",
+      "with": [],
+      "outcome": "Run finished before the day warmed up.",
+      "feeling": "clear-headed",
+      "facts": [
+        "arjun.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l17",
+      "date": "2025-09-13",
+      "what": "Hears about the Ridgeline hiring fair from Marcus and Aaliyah's chatter around the complex; he skips it but keeps the tote-flow project in mind.",
+      "with": [
+        "marcus"
+      ],
+      "outcome": "Notes a few details for the project.",
+      "feeling": "curious",
+      "facts": [
+        "arjun.f39",
+        "cast.f82"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l18",
+      "date": "2025-09-13",
+      "what": "Afternoon at the apartment working on resume v14 and the project outline, plus the alum message.",
+      "with": [],
+      "outcome": "Resume tweaked.",
+      "feeling": "focused",
+      "facts": [
+        "arjun.f37",
+        "arjun.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l19",
+      "date": "2025-09-14",
+      "what": "Goes to his parents' Pell Road house for Sunday dinner and takes home a tub of dal.",
+      "with": [
+        "manpreet"
+      ],
+      "outcome": "Dal for the week.",
+      "feeling": "comfortable",
+      "facts": [
+        "arjun.f41",
+        "arjun.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l20",
+      "date": "2025-09-14",
+      "what": "Takes his mother's Sunday call about internships, tells her about the missed cutoff and the alum outreach.",
+      "with": [
+        "manpreet"
+      ],
+      "outcome": "She reminds him to keep the buffer column.",
+      "feeling": "patient, slightly pressured",
+      "facts": [
+        "cast.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w3.l21",
+      "date": "2025-09-14",
+      "what": "Meal-preps four containers of rajma and rice and lines up next week's applications.",
+      "with": [],
+      "outcome": "Week planned.",
+      "feeling": "prepared",
+      "facts": [
+        "arjun.f29",
+        "arjun.f08"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "arjun.w3.n01",
+      "subject": "arjun",
+      "attribute": "calendar_setting",
+      "value": "fixed his calendar time zone after missing a cutoff",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.w3.n02",
+      "subject": "arjun",
+      "attribute": "alum_outreach_target",
+      "value": "first alum message went to a Bayshore alum at a 3PL",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.w3.n03",
+      "subject": "arjun",
+      "attribute": "project_status",
+      "value": "drafted an outline for the tote-flow group project",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.w3.n04",
+      "subject": "arjun",
+      "attribute": "weekly_chai_tab",
+      "value": "settles his chai tab with Anh on Fridays",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.w3.n05",
+      "subject": "arjun",
+      "attribute": "mock_interview_plan",
+      "value": "asked Lena to reschedule the missed mock interview",
+      "valid_from": "2025-09-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

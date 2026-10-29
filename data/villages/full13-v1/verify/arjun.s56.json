@@ -1,0 +1,348 @@
+{
+  "session_id": "arjun.s56",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Operations management midterm is today in Ashby's 10:30 class",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "midterm is in ashby's 10:30 class today",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes the 6:48 train",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nvm i'm on the 6:48 and its pulling in",
+      "support_quote": ""
+    },
+    {
+      "text": "Usual train is the 7:02",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need to catch the 7:02 so i have like 3 min",
+      "support_quote": ""
+    },
+    {
+      "text": "Holding a large chai",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "holding a large chai in one hand so typing is rough",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a midterm today",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f40",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck on the midterm!",
+      "support_quote": "midterm is in ashby's 10:30 class today"
+    },
+    {
+      "text": "Is on the train/commuting",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Save it to your phone so it works offline on the train.",
+      "support_quote": "nvm i'm on the 6:48 and its pulling in"
+    },
+    {
+      "text": "Professor is Dr. Ashby",
+      "about": "stephen",
+      "kind": "fact",
+      "item_id": "cast.f115",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If Dr. Ashby's notes use different symbols",
+      "support_quote": "midterm is in ashby's 10:30 class today"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f40",
+      "present": true,
+      "quote": "midterm is in ashby's 10:30 class today"
+    },
+    {
+      "item_id": "arjun.r03",
+      "present": true,
+      "quote": "on the platform rn, need to catch the 7:02 so i have like 3 min"
+    },
+    {
+      "item_id": "arjun.f04",
+      "present": true,
+      "quote": "nvm i'm on the 6:48 and its pulling in"
+    },
+    {
+      "item_id": "arjun.f27",
+      "present": true,
+      "quote": "holding a large chai in one hand so typing is rough"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

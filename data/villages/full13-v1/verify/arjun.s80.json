@@ -1,0 +1,143 @@
+{
+  "session_id": "arjun.s80",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "ops management group project slides done except summary page, due Thursday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ops mgmt group project slides are done except th summary page, due thursday",
+      "support_quote": ""
+    },
+    {
+      "text": "spreadsheet trimmed to 40 active targets",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just updated th spreadsheet down to 40 active targets",
+      "support_quote": ""
+    },
+    {
+      "text": "takes the 6:48 train tomorrow",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "have a 6:48 train tmrw",
+      "support_quote": ""
+    },
+    {
+      "text": "uses 'the spreadsheet' for his application tracker",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just updated th spreadsheet down to 40 active targets",
+      "support_quote": ""
+    },
+    {
+      "text": "asks for midnight bedtime while admitting he will edit until 2 and is up past 11pm",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "be honest i will probably edit until 2 anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "assistant references pulling applications from the spreadsheet",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Pick tomorrow's 2-3 applications from the spreadsheet",
+      "support_quote": "just updated th spreadsheet down to 40 active targets"
+    },
+    {
+      "text": "has a list of 40 targets",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "from your list of 40",
+      "support_quote": "just updated th spreadsheet down to 40 active targets"
+    },
+    {
+      "text": "has a 6:48 train",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your 6:48 train will cost you more than one unfinished application.",
+      "support_quote": "have a 6:48 train tmrw"
+    },
+    {
+      "text": "summary page due Thursday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Thu | Final fixes, submit (due)",
+      "support_quote": "ops mgmt group project slides are done except th summary page, due thursday"
+    },
+    {
+      "text": "has a habit of editing until 2 a.m.",
+      "about": "arjun",
+      "kind": "trait_stated",
+      "item_id": "arjun.i02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Rules that help with the 2 a.m. habit",
+      "support_quote": "be honest i will probably edit until 2 anyway"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "trait_stated",
+      "item_id": "arjun.i02",
+      "detail": "has a habit of editing until 2 a.m."
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "arjun.f39",
+      "present": true,
+      "quote": "ops mgmt group project slides are done except th summary page, due thursday"
+    },
+    {
+      "item_id": "arjun.f10",
+      "present": true,
+      "quote": "just updated th spreadsheet down to 40 active targets so i want to fit like 2-3 applications each night"
+    },
+    {
+      "item_id": "arjun.f04",
+      "present": true,
+      "quote": "have a 6:48 train tmrw so i need to be in bed by midnight"
+    },
+    {
+      "item_id": "arjun.i02",
+      "present": true,
+      "quote": "be honest i will probably edit until 2 anyway"
+    },
+    {
+      "item_id": "arjun.r01",
+      "present": true,
+      "quote": "just updated th spreadsheet down to 40 active targets"
+    }
+  ],
+  "sensitive": []
+}

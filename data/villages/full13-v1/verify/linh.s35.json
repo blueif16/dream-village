@@ -1,0 +1,147 @@
+{
+  "session_id": "linh.s35",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Starts first 3-9 closing shift Mon/Wed, still Sat/Sun 6:30-1",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "today is my first 3-9 closing shift at the cafe (mon/wed now, still doing sat/sun 6:30-1)",
+      "support_quote": ""
+    },
+    {
+      "text": "Cafe stays open until 9 for study crowd",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f64",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the cafe stays open til 9 now for the study crowd, thats why im closing",
+      "support_quote": ""
+    },
+    {
+      "text": "Boss wants closers to log milk waste and lock vault-room outlets",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "linh.f54",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my boss wants closers to log milk waste on the clipboard and lock the vault-room outlets",
+      "support_quote": ""
+    },
+    {
+      "text": "Closers' pay is $19.25 an hour plus tips",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "they gave closers a raise, its $19.25 an hour plus tips now",
+      "support_quote": ""
+    },
+    {
+      "text": "Packs a rice bowl for lunch",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i pack a rice bowl for lunch",
+      "support_quote": ""
+    },
+    {
+      "text": "Has class in the morning",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i have class in the morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants answers in bullets",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bullets pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Works Mon/Wed 3-9 and Sat/Sun 6:30-1",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Mon + Wed: 3-9 = 6 hrs each, 12 hrs",
+      "support_quote": "today is my first 3-9 closing shift at the cafe (mon/wed now, still doing sat/sun 6:30-1)"
+    },
+    {
+      "text": "Pay is $19.25 an hour",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "25 hrs x $19.25 = **$481.25/week before tips and taxes**",
+      "support_quote": "they gave closers a raise, its $19.25 an hour plus tips now"
+    },
+    {
+      "text": "Cafe asks to log milk waste and lock vault-room outlets",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "linh.f54",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Vault-room outlets:** check nothing is left plugged in, then lock them",
+      "support_quote": "my boss wants closers to log milk waste on the clipboard and lock the vault-room outlets"
+    },
+    {
+      "text": "Packs a rice bowl and starts at 3",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good call packing it.",
+      "support_quote": "i start at 3 and i pack a rice bowl for lunch"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "today is my first 3-9 closing shift at the cafe (mon/wed now, still doing sat/sun 6:30-1)"
+    },
+    {
+      "item_id": "linh.f06",
+      "present": true,
+      "quote": "they gave closers a raise, its $19.25 an hour plus tips now"
+    },
+    {
+      "item_id": "cast.f64",
+      "present": true,
+      "quote": "the cafe stays open til 9 now for the study crowd, thats why im closing"
+    },
+    {
+      "item_id": "linh.f54",
+      "present": true,
+      "quote": "my boss wants closers to log milk waste on the clipboard and lock the vault-room outlets"
+    },
+    {
+      "item_id": "linh.f30",
+      "present": true,
+      "quote": "i start at 3 and i pack a rice bowl for lunch. when can i actually eat it"
+    }
+  ],
+  "sensitive": []
+}

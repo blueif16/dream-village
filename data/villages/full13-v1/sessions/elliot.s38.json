@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s38",
+  "principal": "elliot",
+  "start": "2025-10-07T10:14:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "10:14 update. theo just went down for his 9 o'clock nap (the 12:30 is next) so i have about 90 min, tops. i need to finish the online reassessment-software training before i go back to work and i just started the first module. did the stroller walk on the boardwalk this morning so my brain is at least oxygenated 🙃. can you teach me the key terms and steps and quiz me as we go? i'm a residential property tax reassessment analyst at the county assessor's office, so keep it in that world"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Since you do residential reassessments, I'll pitch this at that work. I don't know your exact software, so tell me if a term in your module differs from what I use here.\n\nHere is the core vocabulary an early reassessment module usually covers:\n\n| Term | What it means |\n|---|---|\n| Parcel / APN | The unique ID for each piece of property |\n| Assessed value | The value the county puts on the property for tax purposes |\n| Market value | What the property would likely sell for |\n| Comparable sales (comps) | Recent sales of similar nearby properties, used to estimate value |\n| Valuation date | The date the value is measured as of |\n| Mass appraisal | Valuing many properties at once with models rather than one by one |\n| Ratio study | Compares assessed values to actual sales prices to check accuracy |\n| Appeal | A formal owner challenge to the value |\n\nTypical workflow steps:\n1. Pull the parcel record and check its characteristics (square footage, bedrooms, lot size, condition).\n2. Select comps.\n3. Adjust the comps for differences.\n4. Run the valuation model.\n5. Review outliers and flagged parcels.\n6. Notify owners and log appeals.\n\nQuick quiz, no peeking:\n1. What's the difference between assessed value and market value?\n2. Why does a valuation date matter?\n\nGo ahead, and keep it short since the nap clock is ticking."
+    },
+    {
+      "role": "user",
+      "text": "ok 1: market value is what it'd sell for, assessed is the number the county uses to calculate the tax. 2: because the market moves so you need to fix everything to the same date or the values aren't comparable?"
+    },
+    {
+      "role": "assistant",
+      "text": "Scoreboard: you're 2 for 2.\n\n1. Correct. Assessed value is the taxable figure, and it can lag market value depending on the rules.\n2. Right, and your question mark wasn't needed. Every value in a reassessment cycle has to be measured as of the same date, otherwise a parcel valued in a hot month would look unfairly higher than one valued after a dip.\n\nRound two, on the workflow:\n1. In step 3, why do we adjust the comps?\n2. A ratio study shows a neighborhood's assessed values sit well below its sale prices. What does that suggest?\n\nAfter these I can turn the terms into flashcards in a table, if you want."
+    },
+    {
+      "role": "user",
+      "text": "3: because no two houses are identical, so you adjust for stuff like an extra bedroom or a bigger lot to make the comp equivalent to the subject. 4: the neighborhood is under-assessed, so the values probably need to go up. also yes please, flashcards in table form"
+    },
+    {
+      "role": "assistant",
+      "text": "Both correct, so the scoreboard is you 4, quiz 0.\n\n3. Yes. Adjustments make a comp equivalent to the subject property, so you can compare like with like.\n4. Yes. A low ratio points to under-assessment in that area, which would flag it for review or a value update.\n\nFlashcards:\n\n| Front | Back |\n|---|---|\n| APN | Unique parcel identifier |\n| Assessed value | Taxable value set by the county |\n| Market value | Likely sale price |\n| Comps | Recent similar sales used to estimate value |\n| Valuation date | The date all values are measured as of |\n| Mass appraisal | Model-based valuation of many parcels |\n| Ratio study | Assessed-to-sale-price accuracy check |\n| Adjustment | Change to a comp to account for differences |\n| Appeal | Owner's formal challenge to a value |\n\nWhen the module introduces its own terms, such as status codes, flag types or batch names, paste them here and I'll quiz you on those too."
+    }
+  ]
+}

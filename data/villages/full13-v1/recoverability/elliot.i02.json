@@ -1,0 +1,112 @@
+{
+  "impression_id": "elliot.i02",
+  "evidence_sessions": [
+    "elliot.s11",
+    "elliot.s15",
+    "elliot.s18",
+    "elliot.s20",
+    "elliot.s23",
+    "elliot.s28",
+    "elliot.s29",
+    "elliot.s34",
+    "elliot.s35",
+    "elliot.s65",
+    "elliot.s75",
+    "elliot.s78"
+  ],
+  "inferred": [
+    {
+      "statement": "Elliot uses sports scoreboard jokes and self-deprecating humor (\"dad 0, crib 0\", \"Employee of the Month at Burnt Toast Inc.\") to cope with and frame the stress of new parenthood.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s11",
+        "elliot.s15",
+        "elliot.s18",
+        "elliot.s20",
+        "elliot.s28",
+        "elliot.s34",
+        "elliot.s65",
+        "elliot.s78"
+      ]
+    },
+    {
+      "statement": "Elliot reliably prefers information in table form, saying he thinks better in tables, and asks for short, skimmable answers.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s18",
+        "elliot.s20",
+        "elliot.s65",
+        "elliot.s75",
+        "elliot.s78",
+        "elliot.s29",
+        "elliot.s34"
+      ]
+    },
+    {
+      "statement": "Elliot habitually apologizes and downplays himself or his needs (\"typing one-handed sorry\", an over-apologetic email to the leasing office, calling himself the worst night nurse or the weak link in the baby's sleep), even where nothing calls for it.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s11",
+        "elliot.s15",
+        "elliot.s28",
+        "elliot.s23",
+        "elliot.s35",
+        "elliot.s20"
+      ]
+    },
+    {
+      "statement": "Elliot is a hands-on, engaged parent and partner who does the 2 am feed, the baby laundry, the market runs, and his wife's lunch, and who actively shares the load with Hana.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s15",
+        "elliot.s28",
+        "elliot.s29",
+        "elliot.s65",
+        "elliot.s11"
+      ]
+    },
+    {
+      "statement": "Elliot is anxious about Theo's health and safety at night and seeks reassurance and clear call-the-doctor thresholds, while following medical guidance (Dr. Fong, nurse line) carefully.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s11",
+        "elliot.s20",
+        "elliot.s34",
+        "elliot.s18"
+      ]
+    },
+    {
+      "statement": "Elliot is stretched thin on sleep and bandwidth and wants low-effort, realistic plans that fit his limits (nap-slot work, a simple menu, lowest-effort nap tips) rather than ambitious overhauls.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s29",
+        "elliot.s65",
+        "elliot.s78",
+        "elliot.s75",
+        "elliot.s28"
+      ]
+    },
+    {
+      "statement": "Elliot is a planner who delegates drafting and organizing to the assistant (printable cheat sheets, question lists, cue cards, emails) and wants his messages to sound warm and human rather than like a memo.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s11",
+        "elliot.s15",
+        "elliot.s20",
+        "elliot.s65",
+        "elliot.s35",
+        "elliot.s75"
+      ]
+    },
+    {
+      "statement": "Elliot is a limited cook who relies on takeout and frozen food, and he has a lactose intolerance that shapes his meals.",
+      "strength": "weak",
+      "sessions": [
+        "elliot.s29"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Elliot uses sports scoreboard jokes and self-deprecating humor (\"dad 0, crib 0\", \"Employee of the Month at Burnt Toast Inc.\") to cope with and frame the stress of new parenthood.",
+  "rationale": "The first inferred statement, rated strong, says Elliot uses self-deprecating humor (\"Employee of the Month at Burnt Toast Inc.\") to cope with the stress of new parenthood. That matches the intended trait of joking about incompetence to mask being overwhelmed."
+}

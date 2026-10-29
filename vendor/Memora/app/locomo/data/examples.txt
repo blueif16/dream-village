@@ -1,0 +1,291 @@
+Examples from the LoCoMo dataset
+The LoCoMo dataset consists of very long, multi-turn conversations. Below are examples demonstrating how Memora delivers better memory management compared to state-of-the-art approaches like Mem0 and baseline methods such as RAG. Memora’s design enables more accurate retrieval of memory and context preservation, ensuring better performance on long-term conversational tasks.
+Original context in LoCoMo contains conversations that spanned over 20 sessions across more than a year, covering a wide range of events, reflections, and thoughts from the speakers’ life. Original data can be found here: LoCoMo data
+Memora performs better in managing memory for long context because its index–value representation not only enables pinpoint retrieval but also preserves the richness of the original context. The index acts as a guide to navigate memory, while the memory items themselves are stored with the right level of detail, maintaining relationships and meaning. In some cases, this indexing also allows Memora to link related information across different parts of the context, creating a more coherent and connected view that supports reasoning. In contrast, Mem0 stores very small factual fragments without capturing their connections. Even when a memory exists, it can easily get lost during retrieval. Sometimes, the memory isn’t even created at all. RAG faces a different limitation: it chunks the original context into large blocks, which makes retrieval coarse-grained. Each chunk contains too much information, so the relevant detail is buried among unrelated content, making it hard to pinpoint and retrieve the context that matters.
+
+Case 1
+Question: What did Mel and her kids paint in their latest project in July 2023?
+Reference Answer: a sunset with a palm tree
+Responses:
+----------------------------------------------------------------------------------------------------
+MEMORA: Sunset scene with palm tree and flowers
+MEM 0: A painting similar to their last one
+RAG: Mel and her kids painted a rainbow flag mural in their latest project in July 2023.
+----------------------------------------------------------------------------------------------------
+
+Retrieved memories: 
+----------------------------------------------------------------------------------------------------
+Memora - Response: Sunset scene with palm tree and flowers
+----------------------------------------------------------------------------------------------------
+Top 5 Speaker 1 Memories (Total: 15):
+  1. [Index: Recent painting by Melanie and kids] [Score: 1.00] [1:51 pm on 15 July, 2023]
+     Melanie's latest painting with the kids is a sunset scene featuring a palm tree and vibrant flowers against a sunset sky.
+  2. [Index: Melanie's work in progress and summer plans] [Score: 0.93] [1:14 pm on 25 May, 2023]
+     Melanie is currently working on a project and is doing her best to complete it, her kids are excited about summer break, and they are thinking about going camping next month.
+  3. [Index: Melanie's kids enjoying pottery making] [Score: 0.88] [1:51 pm on 15 July, 2023]
+     Melanie's kids loved making pottery and were very excited to get their hands dirty and create something with clay.
+  4. [Index: Melanie's recent family painting activity] [Score: 0.52] [2:31 pm on 17 July, 2023]
+     Melanie and her kids have just finished another painting similar to their last one.
+  5. [Index: Melanie's creative projects with kids] [Score: 0.50] [1:51 pm on 15 July, 2023]
+     Melanie engages in painting with kids, focusing especially on nature-inspired themes.
+
+Top 5 Speaker 2 Memories (Total: 15):
+  1. [Index: Recent painting by Melanie and kids] [Score: 1.00]
+     Melanie's latest painting with the kids is a sunset scene featuring a palm tree and vibrant flowers against a sunset sky, created last weekend.
+  2. [Index: Melanie's work in progress and summer plans] [Score: 0.95]
+     Melanie is currently working on a project and is doing her best to complete it, her kids are excited about summer break, and they are thinking about going camping next month.
+  3. [Index: Melanie's kids enjoying pottery making] [Score: 0.89]
+     Melanie's kids loved making pottery and were very excited to get their hands dirty and create something with clay.
+  4. [Index: Melanie's recent family painting activity] [Score: 0.52]
+     Melanie and her kids have just finished another painting similar to their last one.
+  5. [Index: Melanie's creative projects with kids] [Score: 0.50]
+     Melanie engages in painting with kids, focusing especially on nature-inspired themes.
+
+----------------------------------------------------------------------------------------------------
+MEM0 – Response: A painting similar to their last one
+----------------------------------------------------------------------------------------------------
+Top 5 Speaker 1 Memories (Total: 30):
+  1. [Score: 0.55] [2:31 pm on 17 July, 2023]
+     Melanie and children recently did a painting project last weekend
+  2. [Score: 0.59] [2:31 pm on 17 July, 2023]
+     Melanie and her kids recently finished another painting similar to their last one
+  3. [Score: 0.71] [1:51 pm on 15 July, 2023]
+     Melanie and children enjoy painting together, especially nature-inspired art
+  4. [Score: 0.91] [10:31 am on 13 October, 2023]
+     Melanie has been painting to keep busy
+  5. [Score: 0.92] [1:51 pm on 15 July, 2023]
+     Melanie took her kids to a pottery workshop last Friday
+
+Top 5 Speaker 2 Memories (Total: 30):
+  1. [Score: 0.57] [2:31 pm on 17 July, 2023]
+     Melanie and her kids recently finished a painting similar to their last one
+  2. [Score: 0.93] [1:33 pm on 25 August, 2023]
+     Melanie is feeling inspired by autumn and planning a few paintings
+  3. [Score: 0.94] [1:56 pm on 8 May, 2023]
+     Melanie painted a lake sunrise last year
+  4. [Score: 0.94] [1:51 pm on 15 July, 2023]
+     Melanie helped with a painting that highlights the beauty of nature
+  5. [Score: 0.96] [6:55 pm on 20 October, 2023]
+     Melanie and her kids enjoyed a relaxing activity in nature after a road trip yesterday
+
+----------------------------------------------------------------------------------------------------
+RAG – Response: : Mel and her kids painted a rainbow flag mural in their latest project in July 2023.
+----------------------------------------------------------------------------------------------------
+   transition and join the transgender community?
+1:33 pm on 25 August, 2023 | Caroline: Finding a community where I'm accepted, loved and supported has really meant a lot to me. It's made a huge difference to have people who get what I'm going through. Stuff like this mural are really special to me!
+1:33 pm on 25 August, 2023 | Melanie: Caroline, glad you found a supportive community! Can you tell me more about why it's special to you?
+1:33 pm on 25 August, 2023 | Caroline: The rainbow flag mural is important to me as it reflects the courage and strength of the trans community. The eagle symbolizes freedom and pride, representing my own resilience and that of others.
+1:33 pm on 25 August, 2023 | Melanie: I'm in awe of your courage as a trans person. Have you made any more art lately?
+1:33 pm on 25 August, 2023 | Caroline: Thanks, Mel! I made this stained glass window to remind myself and others that within us all is the key to discovering our true potential and living our best life.
+1:33 pm on 25 August, 2023 | Melanie: Wow, Caroline, that looks amazing! What inspired it?
+1:33 pm on 25 August, 2023 | Caroline: Thanks! It was made for a local church and shows time changing our lives. I made it to show my own journey as a transgender woman and how we should accept growth and change.
+1:33 pm on 25 August, 2023 | Melanie: Wow, Caroline!  All those colors are incredible and the story it tells is so inspiring.
+1:33 pm on 25 August, 2023 | Caroline: Thanks, Mel! Glad you like it. It's a symbol of togetherness, to celebrate differences and be that much closer. I'd love to make something like this next!
+1:33 pm on 25 August, 2023 | Melanie: Wow, that's gorgeous! Where did you find it?
+1:33 pm on 25 August, 2023 | Caroline: I was out walking in my neighborhood when I came across this cool rainbow sidewalk for Pride Month. It was so vibrant and welcoming, I had to take a picture! It reminds us that love and acceptance are everywhere—even where we least expect it.
+1:33 pm on 25 August, 2023 | Melanie: That's so nice, Caroline! Art can be in the most unlikely places. Love and acceptance really can be found everywhere.
+1:33 pm on 25 August, 2023 | Caroline: Agreed, Mel! Art can be a real mood-booster - I saw someone drawing on the ground the other day and it made me so happy. Creativity sure can lighten someone's day.
+1:33 pm on 25 August, 2023 | Melanie: Wow, Caroline, that's so nice! The colors are so bright and the flowers are so pretty. Art is such a source of joy.
+1:33 pm on 25 August, 2023 | Caroline: Thanks, Mel! Art gives me so much joy. It helps me show my feelings and freeze gorgeous moments, like a bouquet of flowers. 
+1:33 pm on 25 August, 2023 | Melanie: Wow, did you make that? It looks so real!
+1:33 pm on 25 August, 2023 | Caroline: Yeah, definitely! Drawing flowers is one of my faves. Appreciating nature and sharing it is great. What about you, Mel? What type of art do you love?
+1:33 pm on 25 August, 2023 | Melanie: Painting landscapes and still life is my favorite! Nature's amazing, here's a painting I did recently.
+1:33 pm on 25 August, 2023 | Caroline: Wow, Mel! Any more paintings coming up?
+1:33 pm on 25 August, 2023 | Melanie: I'm feeling inspired by autumn so I'm planning a few. You got any cool art projects coming up?
+1:33 pm on 25 August, 2023 | Caroline: I'm putting together an LGBTQ art show next month and I'm gonna show my paintings. Super stoked!
+1:33 pm on 25 August, 2023 | Melanie: Wow, Caroline, that's awesome! Can't wait to see your show - the LGBTQ community needs more platforms like this!
+1:33 pm on 25 August, 2023 | Caroline: Yeah Mel, stoked! Gonna be a great night featuring LGBTQ artists and their awesome talents. We want it to spread understanding and acceptance - let's make it happen!
+3:19 pm on 28 August, 2023 | Caroline: Hey Melanie
+
+ 
+Case 2
+Question: What pets does Melanie have?
+Reference Answer: Two cats and a dog
+Responses:
+----------------------------------------------------------------------------------------------------
+MEMORA: Dog and two cats (Luna, Oliver, Bailey)
+MEM 0: Luna and Oliver
+RAG: A cat named Oliver and another cat named Bailey.
+----------------------------------------------------------------------------------------------------
+Retrieved memory:
+----------------------------------------------------------------------------------------------------
+MEMORA – Response: Dog and two cats (Luna, Oliver, Bailey)
+----------------------------------------------------------------------------------------------------
+Top 5 Speaker 1 Memories (Total: 15):
+  1. [Index: Melanie's pets and inquiries about pets] [Score: 1.00] [3:31 pm on 23 August, 2023]
+     [4:33 pm on 12 July, 2023] Melanie has a dog and a cat as pets.
+[4:33 pm on 12 July, 2023] Melanie has two pets named Luna and Oliver.
+[3:31 pm on 23 August, 2023] Melanie asked Caroline if she has any pets during their conversation.
+  2. [Index: Melanie's agreement on pets] [Score: 0.98] [4:33 pm on 12 July, 2023]
+     Melanie agrees that pets bring joy and comfort.
+  3. [Index: Melanie's pets behavior] [Score: 0.98] [4:33 pm on 12 July, 2023]
+     Melanie's pets, Luna and Oliver, are described as sweet and playful and they really liven up the house.
+  4. [Index: Pets' effect on Melanie's family] [Score: 0.93] [4:33 pm on 12 July, 2023]
+     Melanie states that their dog and cat brighten up their day and always make them smile.
+  5. [Index: Melanie's cat Bailey addition] [Score: 0.89] [3:31 pm on 23 August, 2023]
+     Melanie mentions that they have another cat named Bailey.
+
+Top 5 Speaker 2 Memories (Total: 15):
+  1. [Index: Melanie's pets names and traits] [Score: 1.00]
+     [4:33 pm on 12 July, 2023] Melanie has a dog and a cat as pets.
+[4:33 pm on 12 July, 2023] Melanie has two pets named Luna and Oliver who are sweet and playful and liven up the house.
+  2. [Index: Melanie asked Caroline about pets] [Score: 1.00]
+     Melanie asked Caroline if she has any pets.
+  3. [Index: Melanie's pets including new cat Bailey] [Score: 0.99]
+     Melanie has pets including a new cat named Bailey in addition to others.
+  4. [Index: Melanie's agreement with Caroline on pets] [Score: 0.95]
+     Melanie agrees that pets are awesome for bringing joy and comfort.
+  5. [Index: Pets' effect on Melanie's family] [Score: 0.93]
+     Melanie states that their dog and cat brighten up their day and always make them smile.
+
+----------------------------------------------------------------------------------------------------
+MEM0 – Response: Luna and Oliver
+----------------------------------------------------------------------------------------------------
+Top 5 Speaker 1 Memories (Total: 30):
+  1. [Score: 0.71] [2:24 pm on 14 August, 2023]
+     Melanie has kids
+  2. [Score: 0.76] [3:31 pm on 23 August, 2023]
+     Melanie loves painting animals, especially horses
+  3. [Score: 0.86] [10:31 am on 13 October, 2023]
+     User knows Melanie
+  4. [Score: 0.93] [10:31 am on 13 October, 2023]
+     Melanie has been painting to keep busy
+  5. [Score: 0.95] [4:33 pm on 12 July, 2023]
+     Caroline finds joy in having pets
+
+Top 5 Speaker 2 Memories (Total: 30):
+  1. [Score: 0.78] [3:31 pm on 23 August, 2023]
+     Melanie paints horses
+  2. [Score: 0.84] [3:19 pm on 28 August, 2023]
+     Name is Melanie
+  3. [Score: 0.89] [12:09 am on 13 September, 2023]
+     Melanie had a great time
+  4. [Score: 0.89] [10:31 am on 13 October, 2023]
+     Melanie has a buddy who adopted a child last year
+  5. [Score: 0.90] [8:56 pm on 20 July, 2023]
+     Melanie's family brings her joy and love
+
+----------------------------------------------------------------------------------------------------
+RAG – Response: A cat named Oliver and another cat named Bailey.
+----------------------------------------------------------------------------------------------------
+   words really mean a lot. I've always felt a strong connection to art, and it's been a huge learning experience. It's both a sanctuary and a source of comfort. I'm so glad to have something that brings me so much happiness and fulfillment.
+1:50 pm on 17 August, 2023 | Caroline: Glad you found something that makes you so happy! Surrounding ourselves with things that bring us joy is important. Life's too short to do anything else!
+1:50 pm on 17 August, 2023 | Melanie: Agreed, Caroline. Life's tough but it's worth it when we have things that make us happy.
+1:50 pm on 17 August, 2023 | Caroline: Definitely, Mel! Finding those happy moments and clinging to them is key. It's what keeps us going, even when life's hard. I'm lucky to have people like you to remind me.
+1:50 pm on 17 August, 2023 | Melanie: Yeah, same here Caroline. You make life's struggles more bearable.
+1:50 pm on 17 August, 2023 | Caroline: Thanks, Melanie! It means a lot having you in my corner. Appreciate our friendship!
+1:50 pm on 17 August, 2023 | Melanie: I appreciate our friendship too, Caroline. You've always been there for me.
+1:50 pm on 17 August, 2023 | Caroline: I'm always here for you, Mel! We had a blast last year at the Pride fest. Those supportive friends definitely make everything worth it!
+1:50 pm on 17 August, 2023 | Melanie: That was a blast! So much fun with the whole gang! Wanna do a family outing this summer?
+1:50 pm on 17 August, 2023 | Caroline: Right, it was so much fun! We could do a family outting, or wanna plan something special for this summer, just us two? It'd be a great chance to catch up and explore nature! What do you think?
+1:50 pm on 17 August, 2023 | Melanie: Sounds great, Caroline! Let's plan something special!
+1:50 pm on 17 August, 2023 | Caroline: Sounds great, Mel! We'll make some awesome memories!
+1:50 pm on 17 August, 2023 | Melanie: Yeah, Caroline! I'll start thinking about what we can do.
+1:50 pm on 17 August, 2023 | Caroline: Yeah, Mel! Life's all about creating memories. Can't wait for the trip!
+3:31 pm on 23 August, 2023 | Caroline: Hi Melanie! Hope you're doing good. Guess what I did this week? I took the first step towards becoming a mom - I applied to adoption agencies! It's a big decision, but I think I'm ready to give all my love to a child. I got lots of help from this adoption advice/assistance group I attended. It was great!
+3:31 pm on 23 August, 2023 | Melanie: Caroline, congrats! So proud of you for taking this step. How does it feel? Also, do you have any pets?
+3:31 pm on 23 August, 2023 | Caroline: Thanks, Mel! Exciting but kinda nerve-wracking. Parenting's such a big responsibility. And yup, I do- Oscar, my guinea pig. He's been great. How are your pets?
+3:31 pm on 23 August, 2023 | Melanie: Yeah, it's normal to be both excited and nervous with a big decision. And thanks for asking, they're good- we got another cat named Bailey too. Here's a pic of Oliver. Can you show me one of Oscar?
+3:31 pm on 23 August, 2023 | Caroline: He's so cute! What’s the funniest thing Oliver's done? And sure, check out this pic of him eating parsley! Veggies are his fave!
+3:31 pm on 23 August, 2023 | Melanie: Oliver's hilarious! He hid his bone in my slipper once! Cute, right? Almost as silly as when I got to feed a horse a carrot. 
+3:31 pm on 23 August, 2023 | Caroline: That's so funny! I used to go horseback riding with my dad when I was a kid, we'd go through the fields, feeling the wind. It was so special. I've always had a love for horses!
+3:31 pm on 23 August, 2023 | Melanie: Wow, that sounds great - I agree, they're awesome. Here's a photo of my horse painting I did recently.
+3:31 pm on 23 August
+Case 3
+Question: What kind of pot did Mel and her kids make with clay?
+Reference Answer: a cup with a dog face on it
+Responses:
+----------------------------------------------------------------------------------------------------
+MEMORA: A cup with a dog face
+MEM 0: Black and white designed bowl
+RAG: A colorful bowl with various colors and patterns.
+----------------------------------------------------------------------------------------------------
+Retrieved memory:
+----------------------------------------------------------------------------------------------------
+MEMORA – Response: A cup with a dog face
+----------------------------------------------------------------------------------------------------
+
+Top 5 Speaker 1 Memories (Total: 16):
+  1. [Index: Melanie's kids enjoying pottery making] [Score: 1.00] [1:51 pm on 15 July, 2023]
+     Melanie's kids loved making pottery and were very excited to get their hands dirty and create something with clay.
+  2. [Index: Melanie's feelings about clay] [Score: 0.87] [1:36 pm on 3 July, 2023]
+     Melanie finds clay to be incredible and it brings her a lot of joy.
+  3. [Index: Melanie's recent activity with kids] [Score: 0.72] [3:19 pm on 28 August, 2023]
+     Melanie took her kids to a park yesterday, where they had fun exploring and playing.
+  4. [Index: Melanie's kids pottery finished pieces] [Score: 0.51] [1:51 pm on 15 July, 2023]
+     The kids created pottery finished pieces, including a cup with a dog face on it.
+  5. [Index: Melanie's pottery as a creative and therapeutic outlet] [Score: 0.50] [10:31 am on 13 October, 2023]
+     [1:36 pm on 3 July, 2023] Melanie signed up for a pottery class, which she considers therapeutic and allows her to express herself and be creative.
+[12:09 am on 13 September, 2023] Melanie loves that pottery is both a creative outlet and a form of therapy.
+[10:31 am on 13 October, 2023] Melanie uses pottery as a means for self-expression and to find peace.
+
+Top 5 Speaker 2 Memories (Total: 14):
+  1. [Index: Melanie's kids enjoying pottery making] [Score: 1.00]
+     Melanie's kids loved making pottery and were very excited to get their hands dirty and create something with clay.
+  2. [Index: Melanie's emotional connection to clay] [Score: 0.88]
+     Melanie finds clay incredible and says it brings her so much joy.
+  3. [Index: Kids' creativity in pottery] [Score: 0.52]
+     It was special for Melanie to watch her kids' creativity and imagination come to life during the pottery activity.
+  4. [Index: Melanie's description of pottery workshop experience] [Score: 0.50]
+     Melanie described the pottery workshop as fun and therapeutic.
+  5. [Index: Melanie's pottery journey, creations, and self-expression] [Score: 0.49]
+     [1:36 pm on 3 July, 2023] Melanie has created a pottery bowl with a black and white flower design that features an intricate painted pattern.
+[1:36 pm on 3 July, 2023] Melanie is excited to see where pottery takes her.
+[1:50 pm on 17 August, 2023] Melanie has completed another pottery project and is offering to share a picture of it.
+[1:50 pm on 17 August, 2023] Melanie has created a ceramic bowl with a colorful design as her pottery project.
+[1:33 pm on 25 August, 2023] Melanie made the awesome plate in pottery class yesterday.
+[12:09 am on 13 September, 2023] Melanie created pottery bowls with intricate patterns and purple glaze, as shown in a photo with a starfish on a white surface.
+[10:31 am on 13 October, 2023] Melanie uses pottery as a means for self-expression and to find peace.
+
+----------------------------------------------------------------------------------------------------
+MEM0 – Response: Black and white designed bowl
+----------------------------------------------------------------------------------------------------
+Top 5 Speaker 1 Memories (Total: 30):
+  1. [Score: 0.74] [1:51 pm on 15 July, 2023]
+     The kids enjoyed making things with clay
+  2. [Score: 0.77] [1:51 pm on 15 July, 2023]
+     Melanie took her kids to a pottery workshop last Friday
+  3. [Score: 0.82] [1:50 pm on 17 August, 2023]
+     Melanie recently finished a pottery project
+  4. [Score: 0.82] [10:31 am on 13 October, 2023]
+     Pottery is a huge part of Melanie's life and helps her express her emotions
+  5. [Score: 0.82] [1:50 pm on 17 August, 2023]
+     Melanie is proud of her pottery project and had a great experience making it
+
+Top 5 Speaker 2 Memories (Total: 30):
+  1. [Score: 0.70] [1:51 pm on 15 July, 2023]
+     Enjoyed making pots with kids
+  2. [Score: 0.73] [1:51 pm on 15 July, 2023]
+     The kids loved making something with clay
+  3. [Score: 0.81] [1:51 pm on 15 July, 2023]
+     Recently did a creative project involving pottery with kids
+  4. [Score: 0.84] [1:51 pm on 15 July, 2023]
+     The kids were excited to get their hands dirty and be creative with clay
+  5. [Score: 0.85] [1:50 pm on 17 August, 2023]
+     Melanie finished another pottery project
+
+----------------------------------------------------------------------------------------------------
+RAG – Response: A colorful bowl with various colors and patterns.
+----------------------------------------------------------------------------------------------------
+Retrieved Context:
+  , 2023 | Melanie: Wow, that's awesome! How did it feel being part of that community?
+2:24 pm on 14 August, 2023 | Caroline: It was so inspiring, Mel! Check out the crowd. People of all kinds celebrating love and acceptance - it really pushed me to keep fighting for LGBTQ rights.
+2:24 pm on 14 August, 2023 | Melanie: Wow, Caroline! That sounds awesome. This pic's from last night - looks like everyone was having a blast! Reminds me it's important to cultivate a loving and accepting environment for our kids. How do you stay inclusive in your work as an artist?
+2:24 pm on 14 August, 2023 | Caroline: That pic is cool! Representing inclusivity and diversity in my art is important to me. I also use it to speak up for the LGBTQ+ community and push for acceptance. Here's a recent painting!
+2:24 pm on 14 August, 2023 | Melanie: Wow, that rocks! What's the main idea of your art?
+2:24 pm on 14 August, 2023 | Caroline: My art is about expressing my trans experience. It's my way of showing my story and helping people understand the trans community.
+2:24 pm on 14 August, 2023 | Melanie: Your art's amazing, Caroline. I love how you use it to tell your stories and teach people about trans folks. I'd love to see another painting of yours!
+2:24 pm on 14 August, 2023 | Caroline: Thanks, Melanie. Here's one- 'Embracing Identity' is all about finding comfort and love in being yourself. The woman in the painting stands for the journey of acceptance. My aim was to show warmth, love and self-acceptance.
+2:24 pm on 14 August, 2023 | Melanie: Wow, Caroline, that's gorgeous! I love the self-acceptance and love theme. How does art help you with your self-discovery and acceptance journey?
+2:24 pm on 14 August, 2023 | Caroline: Art's allowed me to explore my transition and my changing body. It's been a great way to work through stuff I'm going through. I love that it teaches me to accept the beauty of imperfections.
+2:24 pm on 14 August, 2023 | Melanie: Wow, Caroline, that's so cool! Art can be so healing and a way to really connect with who you are. It's awesome that beauty can be found in the imperfections. We're all individual and wonderfully imperfect. Thanks for sharing it with me!
+2:24 pm on 14 August, 2023 | Caroline: Thanks, Melanie. It means a lot to share this with you.
+2:24 pm on 14 August, 2023 | Melanie: Great chatting with you! Feel free to reach out any time.
+1:50 pm on 17 August, 2023 | Caroline: Hey Mel! How're ya doin'? Recently, I had a not-so-great experience on a hike. I ran into a group of religious conservatives who said something that really upset me. It made me think how much work we still have to do for LGBTQ rights. It's been so helpful to have people around me who accept and support me, so I know I'll be ok!
+1:50 pm on 17 August, 2023 | Melanie: Hey Caroline, sorry about the hike. It sucks when people are so closed-minded. Strong support really helps. FYI, I finished another pottery project - want to see a pic?
+1:50 pm on 17 August, 2023 | Caroline: Sure thing, Melanie! Can't wait to see your pottery project.  I'm happy you found something that makes you happy. Show me when you can!
+1:50 pm on 17 August, 2023 | Melanie: Here it is. Pretty proud of it! It was a great experience. Thoughts?
+1:50 pm on 17 August, 2023 | Caroline: That bowl is awesome, Mel! What gave you the idea for all the colors and patterns?
+1:50 pm on 17 August, 2023 | Melanie: Thanks, Caroline! I'm obsessed with those, so I made something to catch the eye and make people smile. Plus, painting helps me express my feelings and be creative. Each stroke carries a part of me.
+1:50 pm on 17 August, 2023 | Caroline: That's amazing! You put so much effort and passion into it. Your creativity really shines. Seeing how art can be a source of self-expression and growth is truly inspiring. You're killing it!
+1:50 pm on 17 August, 2023 | Melanie: Thanks, Caroline! Your

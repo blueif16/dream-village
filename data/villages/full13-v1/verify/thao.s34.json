@@ -1,0 +1,92 @@
+{
+  "session_id": "thao.s34",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Hạnh calls Thao at 1 p.m. mid-sleep and leaves Vietnamese voicemails",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom called at 1 again mid sleep and left a voicemail in vietnamese",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao just woke up at 5pm after night shift sleep",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's 5pm and i just woke up lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao avoids calling and prefers texting back",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "can i just text her back instead of calling",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao speaks Vietnamese with mother, English with sister",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f59",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom speaks vietnamese to me and i answer in english with my sister",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao works nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i work nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao has an iPhone",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "iphone.",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "my mom called at 1 again mid sleep and left a voicemail in vietnamese, haven't listened"
+    },
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "can i just text her back instead of calling"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "it's 5pm and i just woke up lol"
+    },
+    {
+      "item_id": "thao.f59",
+      "present": true,
+      "quote": "my mom speaks vietnamese to me and i answer in english with my sister so i need viet to english"
+    }
+  ],
+  "sensitive": []
+}

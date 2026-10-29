@@ -1,0 +1,378 @@
+{
+  "session_id": "jun.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Beatrice lets Jun sell lumpia at the counter for a 15% cut",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "beatrice lets me sell at the counter for a 15% cut",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun sold out about 150 lumpia",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "like ~150 lumpia gone by the afternoon",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun keeps receipts crumpled in the shoebox and adds up in notes app",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my receipts are still crumpled in the shoebox, i just kinda add stuff up in my notes app",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun leans on coworker Linh's skill and feels weird about it",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "now i feel weird bc she's the one who's actually good at this stuff and i keep wanting to ask her",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun stalls on the number/receipt system",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my receipts are still crumpled in the shoebox",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun mentions the shoebox as shared term",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my receipts are still crumpled in the shoebox",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun sold out 150 lumpia",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats, selling out of 150 on your first few Saturdays is a great sign.",
+      "support_quote": "like ~150 lumpia gone by the afternoon"
+    },
+    {
+      "text": "Assistant says the counter sale has a 15% cut",
+      "about": "beatrice",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Subtract the 15% cut** from the counter sales.",
+      "support_quote": "beatrice lets me sell at the counter for a 15% cut"
+    },
+    {
+      "text": "Assistant says Jun has a shoebox of receipts",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Empty the shoebox and make piles",
+      "support_quote": "my receipts are still crumpled in the shoebox"
+    },
+    {
+      "text": "Jun's coworker is good at this and he'd like to ask her",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.i03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you'd like to ask your coworker for more because she's good at this",
+      "support_quote": "now i feel weird bc she's the one who's actually good at this stuff and i keep wanting to ask her"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.i03",
+      "present": true,
+      "quote": "now i feel weird bc she's the one who's actually good at this stuff and i keep wanting to ask her"
+    },
+    {
+      "item_id": "cast.f65",
+      "present": true,
+      "quote": "beatrice lets me sell at the counter for a 15% cut so now im weirdly hyped about numbers stuff"
+    },
+    {
+      "item_id": "jun.f21",
+      "present": true,
+      "quote": "like ~150 lumpia gone by the afternoon"
+    },
+    {
+      "item_id": "jun.f23",
+      "present": true,
+      "quote": "my receipts are still crumpled in the shoebox"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

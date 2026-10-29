@@ -1,0 +1,39 @@
+{
+  "id": "isabel.s25",
+  "principal": "isabel",
+  "start": "2025-10-11T00:53:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "need help splitting my weekend. its saturday now technically lol. stuff i need to fit in: sat practice, essay edits, and parallel parking w my dad. he takes me driving in the ruel road lots on his off days and i still suck at parallel parking"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few things I need so the plan isn't fiction:\n\n1. Is your dad free both days or just one?\n2. Any fixed commitments (classes, sessions, work)?\n3. Any hard stops, like a time you have to be home?\n\nTell me those and I'll build it."
+    },
+    {
+      "role": "user",
+      "text": "dad is off sunday. harper does sat prep at the library saturday 10-12 and i also have to do 2 practice sections a week. i have to be home by 9 on weekends. also on his shift days i have to make sure my lola takes her lunch but he's off sunday so thats just saturday. and can u make it not assume i sleep 8 hrs, im up past 1 most nights and my alarm is 6:50"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's a plan that doesn't assume a full night of sleep and keeps evenings short.\n\n**Saturday**\n- Sleep in a little if you can. You're up now, so aim for lights out soon and be up by ~8:30 (a weekend alarm later than 6:50 is the one place to claw back sleep).\n- 8:45-9:30: breakfast, then check on your lola's lunch plan so it's handled early (set it out or remind her before you leave).\n- 10:00-12:00: Harper's library session.\n- 12:15-1:00: lunch. Quickly confirm your lola actually ate hers.\n- 1:00-2:00: SAT practice section #1, timed.\n- 2:00-3:30: break.\n- 3:30-5:00: essay edits, only the focused kind. Pick 2-3 specific things to fix, not a full rewrite.\n- 5:00-8:00: free time. Leave a buffer so you're home well before 9.\n- Lights out by midnight.\n\n**Sunday**\n- 9:00-10:00: slow start.\n- 10:00-11:00: SAT practice section #2, timed.\n- 11:00-12:00: break.\n- 12:00-1:30: parallel parking with your dad in the Ruel Road lot. Midday works better than evening, since light and curfew both squeeze later slots. Ask him to set up two cones or a pair of cardboard boxes at car length plus about three feet, and repeat the same maneuver 8-10 times.\n- 2:00-3:30: essay edits round two, if needed.\n- Evening: light review of SAT mistakes, home by 9, bed by 12:30.\n\nThat's both practice sections done, the essay worked on twice, and a solid driving block. Want me to turn the parking session into a step-by-step checklist?"
+    },
+    {
+      "role": "user",
+      "text": "yes short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Parallel parking, short version:\n\n1. Pull alongside the front car, about 2-3 feet away, mirrors lined up.\n2. Reverse until your rear bumper passes their rear bumper... wait, correct that: stop when your back bumper is even with theirs.\n3. Turn the wheel fully toward the curb and back slowly until you're at roughly 45 degrees.\n4. Straighten the wheel and keep backing until your front clears their back corner.\n5. Turn the wheel fully away from the curb and back in to finish.\n6. Straighten out and pull forward to center in the space.\n\nDo it 8-10 times, and have your dad call out a cue only if you ask."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck this weekend. Sleep a little, and have fun parking."
+    }
+  ]
+}

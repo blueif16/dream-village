@@ -1,0 +1,373 @@
+{
+  "principal": "rafael",
+  "week": 6,
+  "entries": [
+    {
+      "id": "rafael.w6.l01",
+      "date": "2025-09-29",
+      "what": "Brakes lab at Tamsen Valley 8-11, then lunch in the truck and a bit of chapter reading before heading home.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Finished the brake job clean, bay swept before leaving.",
+      "feeling": "focused, a little tired",
+      "facts": [
+        "rafael.f02",
+        "rafael.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l02",
+      "date": "2025-09-29",
+      "what": "Filled up the Tacoma at the Ruel Road station, then helped Gladys and Oscar run through supplies for the stand.",
+      "with": [
+        "gladys",
+        "oscar"
+      ],
+      "outcome": "Supply list ready for the weekend.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l03",
+      "date": "2025-09-29",
+      "what": "Pickup soccer at Delgado Park Monday evening with friends.",
+      "with": [],
+      "outcome": "Played hard, got home sweaty and hungry.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l04",
+      "date": "2025-09-29",
+      "what": "Watched engine teardown videos in bed until midnight.",
+      "with": [],
+      "outcome": "Fell asleep with the phone at 20%.",
+      "feeling": "sleepy",
+      "facts": [
+        "rafael.f32",
+        "rafael.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l05",
+      "date": "2025-09-30",
+      "what": "Quiet morning at home, then drove to Tamsen Valley for the afternoon.",
+      "with": [],
+      "outcome": "Got a decent parking spot in Lot C.",
+      "feeling": "fine",
+      "facts": [
+        "rafael.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l06",
+      "date": "2025-09-30",
+      "what": "Engine performance class 1-4 with Salas, working on a misfire diagnosis with Dante.",
+      "with": [
+        "roberto",
+        "dante"
+      ],
+      "outcome": "Diagnosed the misfire by ear before the scope confirmed it.",
+      "feeling": "proud",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l07",
+      "date": "2025-09-30",
+      "what": "Dante mentioned the Tuesday salvage auction again while they cleaned the bay.",
+      "with": [
+        "dante"
+      ],
+      "outcome": "Rafael listened but did not commit.",
+      "feeling": "curious, wary",
+      "facts": [
+        "rafael.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l08",
+      "date": "2025-09-30",
+      "what": "Ate dinner with his parents and talked about moving the stand on Saturday.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Agreed to haul the canopy and generator to the new lot.",
+      "feeling": "dutiful",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l09",
+      "date": "2025-10-01",
+      "what": "Brakes lab 8-11, then a stop at Ruiz Family Market with Gladys for stand groceries.",
+      "with": [
+        "gladys",
+        "chuy"
+      ],
+      "outcome": "Got pork shoulder at the family price.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l10",
+      "date": "2025-10-01",
+      "what": "Serviced the stand's generator in the driveway before the move.",
+      "with": [],
+      "outcome": "It ran smooth after an oil check.",
+      "feeling": "satisfied",
+      "facts": [
+        "rafael.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l11",
+      "date": "2025-10-01",
+      "what": "Evening at home reading the G1 chapter and getting frustrated with the wording.",
+      "with": [],
+      "outcome": "Gave up around 10 and watched videos instead.",
+      "feeling": "frustrated",
+      "facts": [
+        "rafael.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l12",
+      "date": "2025-10-02",
+      "what": "Morning class prep, then engine performance 1-4 with Salas.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Solid lab day.",
+      "feeling": "okay",
+      "facts": [
+        "rafael.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l13",
+      "date": "2025-10-02",
+      "what": "Asked the assistant to turn the chapter into short spoken flashcards he could record as voice memos.",
+      "with": [],
+      "outcome": "Recorded the first batch from the truck and dropped rereading the chapter the night before.",
+      "feeling": "hopeful",
+      "facts": [
+        "rafael.f19",
+        "rafael.f20"
+      ],
+      "impressions": [
+        "rafael.i02"
+      ]
+    },
+    {
+      "id": "rafael.w6.l14",
+      "date": "2025-10-02",
+      "what": "Thursday stand shift at the Delgado lot, listening to flashcards while prepping the griddle.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Remembered more terms than expected.",
+      "feeling": "encouraged",
+      "facts": [
+        "rafael.f20",
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l15",
+      "date": "2025-10-03",
+      "what": "Brakes lab and a quick lunch with Ximena on campus.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "She asked about the stand move and his plans beyond it.",
+      "feeling": "warm",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l16",
+      "date": "2025-10-03",
+      "what": "Friday evening at the stand packing up early to drive Dulce home from Colima at 9.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Dulce got home safe by 9:30.",
+      "feeling": "caring",
+      "facts": [
+        "rafael.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l17",
+      "date": "2025-10-03",
+      "what": "Helped load the truck bed with the canopy poles for tomorrow.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Everything staged by the garage door.",
+      "feeling": "tired",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l18",
+      "date": "2025-10-04",
+      "what": "Moved the canopy, generator and griddle to the Ruel Road gas station lot and set up for the first night, with Oscar and Gladys.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Stand opened 5-10 p.m. in the new lot, replacing the Sunday market; Gladys kept watching the dark edges of the lot.",
+      "feeling": "nervous, busy",
+      "facts": [
+        "rafael.f08",
+        "rafael.f09",
+        "rafael.f44",
+        "cast.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l19",
+      "date": "2025-10-04",
+      "what": "Luz stayed at the Delgado market and stopped by to wish them luck on the move.",
+      "with": [
+        "luz"
+      ],
+      "outcome": "Friendly send-off.",
+      "feeling": "touched",
+      "facts": [
+        "rafael.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l20",
+      "date": "2025-10-04",
+      "what": "Got home late and stayed up drafting a setup checklist for his parents instead of studying.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Checklist printed for next week; no flashcards tonight.",
+      "feeling": "responsible, guilty",
+      "facts": [
+        "rafael.f26"
+      ],
+      "impressions": [
+        "rafael.i01"
+      ]
+    },
+    {
+      "id": "rafael.w6.l21",
+      "date": "2025-10-05",
+      "what": "Slept in, then helped Gladys with masa and curtido at the house.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Prep done by noon.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l22",
+      "date": "2025-10-05",
+      "what": "Sunday evening shift at the Ruel Road lot, using the new checklist.",
+      "with": [
+        "oscar",
+        "gladys",
+        "ximena"
+      ],
+      "outcome": "Setup went faster than Saturday; Ximena helped with the line.",
+      "feeling": "relieved",
+      "facts": [
+        "rafael.f09",
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w6.l23",
+      "date": "2025-10-05",
+      "what": "Played voice-memo flashcards in the truck on the drive home.",
+      "with": [],
+      "outcome": "Got most right.",
+      "feeling": "hopeful",
+      "facts": [
+        "rafael.f20"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w6.n01",
+      "subject": "rafael",
+      "attribute": "checklist",
+      "value": "printed a setup checklist for the Ruel Road stand",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w6.n02",
+      "subject": "rafael",
+      "attribute": "flashcard_batch",
+      "value": "recorded first batch of about 10 G1 voice memos",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w6.n03",
+      "subject": "rafael",
+      "attribute": "weekend_plan",
+      "value": "Ximena helps at the stand on Sundays too this month",
+      "valid_from": "2025-10-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w6.n04",
+      "subject": "rafael",
+      "attribute": "truck_audio",
+      "value": "plays flashcard memos through the Tacoma speakers",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

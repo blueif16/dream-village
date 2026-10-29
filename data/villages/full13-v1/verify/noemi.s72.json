@@ -1,0 +1,122 @@
+{
+  "session_id": "noemi.s72",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Iris works 8 to 5 on weekdays",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work 8 to 5 weekdays and i miss you",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's brother Mateo wants help building his first PC for his December birthday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he wants help building his first pc for his december bday",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi plays a co-op game with her squad Sunday nights",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i can only talk parts after my sunday night co-op game w my squad",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi has a self-built desktop with ultrawide monitor and mid-range GPU",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my desktop has the ultrawide and a mid range gpu and it runs everything fine",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is off work around 11:30 most nights",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm off the clock around 11:30 most nights so late",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is not off until around 11:30 most nights",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm not off until around 11:30 most nights",
+      "support_quote": "i'm off the clock around 11:30 most nights so late"
+    },
+    {
+      "text": "Noemi built her desktop with a mid-range GPU and ultrawide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I built my desktop with a mid-range GPU and an ultrawide monitor",
+      "support_quote": "my desktop has the ultrawide and a mid range gpu and it runs everything fine"
+    },
+    {
+      "text": "Noemi plays co-op Sunday nights with her squad",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I can only talk parts after my Sunday night co-op game with my squad",
+      "support_quote": "i can only talk parts after my sunday night co-op game w my squad"
+    },
+    {
+      "text": "Noemi is building Mateo's first PC before his December birthday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f29",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "we're building your first PC before your birthday in December",
+      "support_quote": "he wants help building his first pc for his december bday"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f29",
+      "present": true,
+      "quote": "we'll build ur first pc before ur bday in december"
+    },
+    {
+      "item_id": "noemi.f20",
+      "present": true,
+      "quote": "my desktop has the ultrawide and a mid range gpu and it runs everything fine"
+    },
+    {
+      "item_id": "noemi.f18",
+      "present": true,
+      "quote": "i can only talk parts after my sunday night co-op game w my squad"
+    },
+    {
+      "item_id": "noemi.f46",
+      "present": true,
+      "quote": "i work 8 to 5 weekdays and i miss you"
+    }
+  ],
+  "sensitive": []
+}

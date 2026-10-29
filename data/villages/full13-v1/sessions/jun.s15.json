@@ -1,0 +1,39 @@
+{
+  "id": "jun.s15",
+  "principal": "jun",
+  "start": "2025-09-21T14:44:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need the short version, sore from pickup basketball at delgado park this morning lol. can you explain the sales tax and record keeping stuff for selling homemade food? like explain like im tired. numbers stuff has been sitting on my plate for days"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version, no problem. Basic rules for selling homemade food (check your local rules, since they vary):\n\n1. Sales tax: Many places don't tax most unprepared grocery food, but prepared or hot food often is taxable. Fried food you sell ready to eat usually counts as prepared. Check your state tax agency's page for food sellers.\n2. Seller's permit: If your sales are taxable, you generally need to register with the state tax agency to collect and report it.\n3. Records: Keep every sale (date, item, amount, cash or app) and every receipt for ingredients and supplies. Those receipts reduce your taxable profit.\n4. Keep it simple: One running list per week, with sales on one side and expenses on the other. Hold onto receipts for at least 3 to 7 years.\n\nWant me to lay out a simple weekly template?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yes. so right now im just putting the week's sales and receipt totals into my notes app instead of dealing with the shoebox lol. can i just guess the total for the shoebox? its a mess"
+    },
+    {
+      "role": "assistant",
+      "text": "I'd avoid guessing. Estimated expense totals are hard to defend if anyone ever asks, and you might also under-claim and pay more tax than you need to.\n\nThe fix is quick:\n1. Dump all the receipts on a table and sort them by date or store.\n2. Add them in batches and write the batch totals in your notes app.\n3. Snap a photo of each pile so you have a backup.\n4. For any lost receipt, note the date, store and amount from your bank or card statement.\n\nThat's probably 20 to 30 minutes, and it beats guessing. Do you want the weekly template now?"
+    },
+    {
+      "role": "user",
+      "text": "sige. also my mom added three more dozen coworker orders on the fridge list, how do i count those sales"
+    },
+    {
+      "role": "assistant",
+      "text": "Count them like any other sale. Each order counts as income on the day you receive payment (or deliver, if you pick one method and stick to it).\n\n- Three dozen = three dozen sold. Log them with date, quantity, price per dozen, total, and how they paid.\n- If your mom collects the money from her coworkers and passes it to you, log it on the day you receive it.\n- If you're giving her a cut or a gift for selling them, keep a note of that too.\n\nTemplate, one row per sale:\nDate | Item | Qty | Price | Total | Paid by | Notes\n\nAnd one row per expense:\nDate | Store | What | Amount | Receipt photo? (Y/N)\n\nAdd up each side at week's end and you're done."
+    },
+    {
+      "role": "user",
+      "text": "nice thanks that helps a ton 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Rest up after the basketball. If you want, paste your week's numbers later and I'll help you total them and check the sales and expenses lines."
+    }
+  ]
+}

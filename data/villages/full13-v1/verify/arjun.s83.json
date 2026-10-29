@@ -1,0 +1,82 @@
+{
+  "session_id": "arjun.s83",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has a career center desk shift starting in about 40 minutes",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have like 40 min before my career center desk shift starts",
+      "support_quote": ""
+    },
+    {
+      "text": "Is a logistics management junior",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im a logistics management junior",
+      "support_quote": ""
+    },
+    {
+      "text": "Dr. Ashby covered the final review on Tuesday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dr ashby covered a ton of stuff tuesday in th final review",
+      "support_quote": ""
+    },
+    {
+      "text": "Compares himself to Omar's internship success and feels pressure",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "omar was talking about his internship again at lunch and its lowkey making me want to over-study",
+      "support_quote": ""
+    },
+    {
+      "text": "Has about 40 minutes to study before his shift",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With 40 minutes, I'd do three timed problems",
+      "support_quote": "i have like 40 min before my career center desk shift starts"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f02",
+      "present": true,
+      "quote": "dr ashby covered a ton of stuff tuesday in th final review and my notes are a mess"
+    },
+    {
+      "item_id": "arjun.f01",
+      "present": true,
+      "quote": "im a logistics management junior so i should know this"
+    },
+    {
+      "item_id": "arjun.f07",
+      "present": true,
+      "quote": "i have like 40 min before my career center desk shift starts"
+    },
+    {
+      "item_id": "arjun.i03",
+      "present": true,
+      "quote": "omar was talking about his internship again at lunch and its lowkey making me want to over-study"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,92 @@
+{
+  "session_id": "marcus.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Stats grade came up to a C+ after tutoring sessions",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my stats grade just came up to a C+ after the wednesday 12:30 tutoring center sessions",
+      "support_quote": ""
+    },
+    {
+      "text": "Attends Wednesday 12:30 tutoring center sessions",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the wednesday 12:30 tutoring center sessions",
+      "support_quote": ""
+    },
+    {
+      "text": "Stats grade was a D after the first two quizzes",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "was a D after the first two quizzes",
+      "support_quote": ""
+    },
+    {
+      "text": "C+ gets him closer to the 2.7 GPA needed",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "that C+ gets me closer to holt's number",
+      "support_quote": ""
+    },
+    {
+      "text": "Stats grade climbed from a D to a C+",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f27",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice work climbing from a D to a C+, that's real progress.",
+      "support_quote": "my stats grade just came up to a C+ after the wednesday 12:30 tutoring center sessions"
+    },
+    {
+      "text": "Stats grade was previously a D",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f26",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice work climbing from a D to a C+, that's real progress.",
+      "support_quote": "was a D after the first two quizzes"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f27",
+      "present": true,
+      "quote": "my stats grade just came up to a C+ after the wednesday 12:30 tutoring center sessions"
+    },
+    {
+      "item_id": "marcus.f28",
+      "present": true,
+      "quote": "i want extra reps to use before the next tutoring session"
+    },
+    {
+      "item_id": "marcus.f26",
+      "present": true,
+      "quote": "was a D after the first two quizzes so im trying to keep climbing"
+    },
+    {
+      "item_id": "marcus.r02",
+      "present": true,
+      "quote": "that C+ gets me closer to holt's number"
+    }
+  ],
+  "sensitive": []
+}

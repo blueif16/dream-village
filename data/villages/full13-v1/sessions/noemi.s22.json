@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s22",
+  "principal": "noemi",
+  "start": "2025-09-16T13:14:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need a plan for subnetting drills this week. i work swing 2 to 10:30 and i train a new hire in the cage tue/thu 3-5 so those days are dead. subnetting and port numbers are what keep tripping me up on practice tests. want it built around my practice-test app and my secondhand study guide with tabbed chapters. also how many weeks of drills before the boss fight lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Since your shift starts at 2 and Tue/Thu 3-5 are taken, your study windows are mornings before 1 p.m. and late evenings after you're home. Here's a plan for this week, built around your practice-test app and tabbed guide.\n\nToday (Tue): the training block means no study during work. Do 20 minutes tonight after your shift, flipping to the subnetting tab and working 5 problems by hand (CIDR to mask, number of hosts).\n\nWed: morning, 45 min. Read the subnetting chapter section by section, then do a 15-question subnetting-only set in the app. Evening: 10 minutes of port number flashcards (the common ones: 20/21, 22, 23, 25, 53, 67/68, 80, 110, 143, 443, 3389).\n\nThu: training day again, so only a 15-minute port review late evening.\n\nFri: morning, 45 min. Take a full practice test in the app and mark every missed subnetting or port question with a tab flag in your guide.\n\nSat: 60 minutes. Redo only the missed questions, then write out a subnetting cheat table (powers of 2, masks, block sizes) from memory.\n\nSun: 30 minutes of mixed review, then rest.\n\nHow long for the boss fight: I don't know your exam date or your current scores, so tell me those. As a rule of thumb, 6 to 10 weeks of this rhythm (about 4 to 5 hours a week) is typical for an entry-level network cert. If you're already close to the passing line, the shorter end works. Want me to turn the weekly pattern into a longer schedule once you give me the date?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version? exam date is not locked yet. averaging like 71 on practice, pass is around 75"
+    },
+    {
+      "role": "assistant",
+      "text": "TLDR:\n\n- Study before 1 p.m. or after your shift. Tue/Thu are only for 15-20 min of ports or a few problems.\n- Wed + Fri mornings: subnetting set in the app, then a full practice test Fri.\n- Sat: redo missed questions, write the subnet cheat table from memory.\n- Sun: light mixed review.\n\nWeeks: at 71 vs a ~75 pass line, you're about 4 points away. Plan on 6 to 8 weeks of drills before the boss fight, and book the exam for when you're scoring 80 or higher for two tests in a row, so you have a cushion."
+    }
+  ]
+}

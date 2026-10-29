@@ -1,0 +1,118 @@
+{
+  "session_id": "marcus.s30",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Ex Phys midterm is tomorrow",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ex phys midterm is tomorrow and i havent done enough review",
+      "support_quote": ""
+    },
+    {
+      "text": "Has section 2-5:15 today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have section 2-5:15 today",
+      "support_quote": ""
+    },
+    {
+      "text": "Clocked in at 9 tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gotta be clocked in at 9 tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Reviews from Fatima's shared Google doc notes",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "review is fatimas shared google doc notes, thats basically all im using",
+      "support_quote": ""
+    },
+    {
+      "text": "Stats tutoring is tomorrow at 12:30",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tutoring is tomorrow 12:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he has section until 5:15 and a 9 p.m. clock-in",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Here's a plan around section and your 9 p.m. clock-in:",
+      "support_quote": "gotta be clocked in at 9 tonight"
+    },
+    {
+      "text": "Assistant says review material is Fatima's doc",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "skim Fatima's doc, headings only",
+      "support_quote": "review is fatimas shared google doc notes, thats basically all im using"
+    },
+    {
+      "text": "Wants to do plan his own way",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill do it my way but this gives me the skeleton",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 4 uses the name 'Fatima' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "marcus.f25",
+      "present": true,
+      "quote": "ex phys midterm is tomorrow and i havent done enough review"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i have section 2-5:15 today"
+    },
+    {
+      "item_id": "marcus.f05",
+      "present": true,
+      "quote": "gotta be clocked in at 9 tonight"
+    },
+    {
+      "item_id": "marcus.f55",
+      "present": true,
+      "quote": "review is fatimas shared google doc notes, thats basically all im using"
+    }
+  ],
+  "sensitive": []
+}

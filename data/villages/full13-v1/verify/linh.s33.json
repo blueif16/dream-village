@@ -1,0 +1,137 @@
+{
+  "session_id": "linh.s33",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Linh has anatomy MWF 9 and chem TTh 11, stats online",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anatomy MWF 9, chem TTh 11, stats is online.",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh worked Monday 12-6 shift; schedule switches to closing Wednesday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got off my monday 12-6 shift at the cafe, last week of that schedule bc wednesday it switches to closing 3-9",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's bike is stolen; uses shuttle or Kenji's rides",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "no bike rn (stolen) so its the shuttle bus or kenji gives me rides tue/thu",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh fills in a paper planner with washi tape",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i usually fill in my paper planner w washi tape so i need it to copy over easy",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short bulleted answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long lol just bullets.",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh uses color-coded notes: pink muscles, blue bones, green nerves, yellow for practical",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pink muscles blue bones green nerves for anatomy topics, yellow for whatever is on the practical",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has a study group Tuesday 4 at the library",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "study group tuesday 4 at the library",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Linh has a shift Wed 3-9 (closing starts)",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Wed (closing starts)**",
+      "support_quote": "wednesday it switches to closing 3-9"
+    },
+    {
+      "text": "Linh rides with a friend Tue/Thu",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Ride with your friend to campus",
+      "support_quote": "kenji gives me rides tue/thu"
+    },
+    {
+      "text": "Linh works Sat/Sun 6:30-1",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**SAT** 6:30-1 shift",
+      "support_quote": "add sat/sun 6:30-1"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "anatomy MWF 9, chem TTh 11, stats is online."
+    },
+    {
+      "item_id": "linh.f03",
+      "present": true,
+      "quote": "just got off my monday 12-6 shift at the cafe, last week of that schedule bc wednesday it switches to closing 3-9"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "i usually fill in my paper planner w washi tape so i need it to copy over easy"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "too long lol just bullets."
+    },
+    {
+      "item_id": "linh.f10",
+      "present": true,
+      "quote": "no bike rn (stolen) so its the shuttle bus or kenji gives me rides tue/thu"
+    }
+  ],
+  "sensitive": []
+}

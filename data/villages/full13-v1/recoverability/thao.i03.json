@@ -1,0 +1,95 @@
+{
+  "impression_id": "thao.i03",
+  "evidence_sessions": [
+    "thao.s13",
+    "thao.s20",
+    "thao.s21",
+    "thao.s28",
+    "thao.s42",
+    "thao.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Wants responses brief, structured and actionable (checklists, numbered steps, bulleted summaries) and repeatedly asks for things to be shortened.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s13",
+        "thao.s20",
+        "thao.s28",
+        "thao.s42",
+        "thao.s43"
+      ]
+    },
+    {
+      "statement": "Works night shifts as a nurse and is chronically tired, so she frames requests around exhaustion and sleep and prefers text or online channels over phone calls.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s13",
+        "thao.s20",
+        "thao.s21",
+        "thao.s28",
+        "thao.s42",
+        "thao.s43"
+      ]
+    },
+    {
+      "statement": "Avoids conflict and drama and aims for polite, calm, non-committal communication, keeping her stances low-key and private.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s13",
+        "thao.s20",
+        "thao.s21",
+        "thao.s28"
+      ]
+    },
+    {
+      "statement": "Plans ahead and prepares scripts or drafts for social and practical situations, then uses the assistant to polish them.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s20",
+        "thao.s21",
+        "thao.s28",
+        "thao.s42"
+      ]
+    },
+    {
+      "statement": "Protective of her family dynamics: she shields her sister from her mother's pharmacy pressure and carefully manages how to introduce a partner to her mother.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s21",
+        "thao.s28"
+      ]
+    },
+    {
+      "statement": "Often prefaces a pivot or admission with 'ok but realistically' and shifts through several unrelated tasks in one conversation, wanting each handled quickly.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s13",
+        "thao.s20",
+        "thao.s21",
+        "thao.s28",
+        "thao.s42"
+      ]
+    },
+    {
+      "statement": "Is self-reliant and practical about logistics, handling things like a roadside tire change herself with a step list, and values clear ordering around her shift schedule.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s42",
+        "thao.s43"
+      ]
+    },
+    {
+      "statement": "Leans on a small circle of coworkers (Jasmine) for confidences, sharing sensitive things like a crush or her union vote carefully and in private.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s13",
+        "thao.s20",
+        "thao.s28"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "Avoids conflict and drama and aims for polite, calm, non-committal communication, keeping her stances low-key and private.",
+  "rationale": "The closest inferred statement is the one about avoiding conflict and drama with calm, non-committal communication. It covers the wave-avoidance half but says nothing about staying steady and procedural in a crisis or stalling on decisions. The roadside tire step list hints at procedural competence, but it is not framed as crisis steadiness, so the core pattern is only partly captured."
+}

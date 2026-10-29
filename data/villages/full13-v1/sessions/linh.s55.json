@@ -1,0 +1,47 @@
+{
+  "id": "linh.s55",
+  "principal": "linh",
+  "start": "2025-10-21T07:19:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok my phone is dying again.. its 4 years old w a cracked corner and the battery drops to like 20% by afternoon. on closing days (mon/wed) it def wont make it to 9pm"
+    },
+    {
+      "role": "assistant",
+      "text": "That's common with a four-year-old battery. Quick questions so I can tailor this: iPhone or Android, and roughly how much does it drop on a normal day? Meanwhile, the biggest wins are usually:\n- Turn on Low Power / Battery Saver\n- Lower screen brightness, use auto-brightness\n- Check Settings > Battery for apps draining the most\n- Turn off background app refresh for apps you don't need"
+    },
+    {
+      "role": "user",
+      "text": "android. also i charge my e-bike behind the counter at the cafe so i need a power plan for both devices pls. tuesdays kenji drives me to campus so i can charge the phone in his car during the ride"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, that gives you a few charging windows. Here's a plan:\n\n**Tuesdays (Kenji's ride)**\n- Bring a short cable and plug into his car for the whole drive\n- Aim to leave the car at 70-80%\n\n**Closing days at the cafe**\n- Plug the e-bike in behind the counter as soon as you arrive\n- If there's a second outlet or a USB port nearby, charge the phone during slow stretches, ideally in 20-30 min bursts\n- Check with your boss that sharing the outlet is okay\n\n**Backup**\n- A small power bank (5,000-10,000 mAh, about $15-25) in your bag covers the gap\n\nYou can also replace the battery. Many repair shops do it for far less than a new phone, and it would fix the root problem."
+    },
+    {
+      "role": "user",
+      "text": "ok. what battery saver settings tho, i still wanna run a lo-fi study playlist while i study"
+    },
+    {
+      "role": "assistant",
+      "text": "Audio is easy on the battery, so you can keep the playlist. Try this:\n- Battery Saver: on, set to turn on automatically at 30%\n- Download the playlist offline instead of streaming\n- Screen off while it plays, use a Bluetooth speaker or wired earbuds if you can\n- Brightness low, screen timeout 30 seconds\n- Dark mode (helps on OLED screens)\n- Turn off Wi-Fi scanning, location for apps that don't need it, and always-on display\n- Restrict background activity for social apps\n\nWant this as a short checklist with times for the week?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls but bullets only, too long lol"
+    },
+    {
+      "role": "assistant",
+      "text": "- **Tue:** plug into Kenji's car on the ride; download playlist offline\n- **Mon/Wed (closing):** leave home at 70%+, power bank in bag, plug e-bike in on arrival, phone top-up on slow stretches\n- **Every day:** Battery Saver auto at 30%, brightness low, screen off during music\n- **This week:** look up battery replacement prices\n\nGood luck! ☕"
+    },
+    {
+      "role": "user",
+      "text": "thank u!! ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Enjoy your meal!"
+    }
+  ]
+}

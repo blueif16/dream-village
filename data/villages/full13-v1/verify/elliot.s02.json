@@ -1,0 +1,92 @@
+{
+  "session_id": "elliot.s02",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot takes the 2 a.m. feed and Hana takes the 5 a.m.",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I take the 2 a.m. feed and log it before going back to bed, you take the 5 a.m.",
+      "support_quote": ""
+    },
+    {
+      "text": "Baby tracking spreadsheet has tabs for feeds, naps, diapers and incidents",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Tabs along the bottom: feeds, naps, diapers, and the new incidents tab",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot uses the log to look for patterns in the baby's wake windows",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "There's also a column for wake-window variance (actual wake window minus 90 min) so we can see if there's a pattern.",
+      "support_quote": ""
+    },
+    {
+      "text": "'the log' refers to the tracking spreadsheet",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Hana - how to read the log.",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot takes the 2 a.m. feed and Hana takes the 5 a.m.",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I take the 2 a.m. feed and log it before going back to bed. You take the 5 a.m. one.",
+      "support_quote": "I take the 2 a.m. feed and log it before going back to bed, you take the 5 a.m."
+    },
+    {
+      "text": "Spreadsheet has tabs for feeds, naps, diapers and incidents",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "| Incidents | Spit-up, unusual cries, anything that makes you think \"huh\" |",
+      "support_quote": "Tabs along the bottom: feeds, naps, diapers, and the new incidents tab"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.r01",
+      "present": true,
+      "quote": "Hana - how to read the log."
+    },
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "I take the 2 a.m. feed and log it before going back to bed, you take the 5 a.m."
+    },
+    {
+      "item_id": "elliot.f09",
+      "present": true,
+      "quote": "Tabs along the bottom: feeds, naps, diapers, and the new incidents tab"
+    },
+    {
+      "item_id": "elliot.i01",
+      "present": true,
+      "quote": "There's also a column for wake-window variance (actual wake window minus 90 min) so we can see if there's a pattern."
+    }
+  ],
+  "sensitive": []
+}

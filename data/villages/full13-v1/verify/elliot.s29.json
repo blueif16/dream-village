@@ -1,0 +1,373 @@
+{
+  "session_id": "elliot.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Shops at Ruiz Family Market with Theo in carrier; delivery only for diapers",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got back from Ruiz Family Market with theo in the carrier. delivery is only for diapers now",
+      "support_quote": ""
+    },
+    {
+      "text": "Lactose intolerant, uses oat milk",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dinners need to work with oat milk, i'm lactose intolerant",
+      "support_quote": ""
+    },
+    {
+      "text": "Cooking range is eggs, boxed pasta, one chili",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my range is scrambled eggs, boxed pasta and one chili recipe",
+      "support_quote": ""
+    },
+    {
+      "text": "Dinners are nearly always takeout or frozen",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dinners have been takeout or frozen basically every night",
+      "support_quote": ""
+    },
+    {
+      "text": "Jokes about being incompetent while overwhelmed",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm basically Employee of the Month at Burnt Toast Inc.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Elliot cooks his own chili",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your chili (double batch)",
+      "support_quote": "one chili recipe"
+    },
+    {
+      "text": "Assistant says rest can be takeout or frozen",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the rest can be takeout or frozen with no guilt",
+      "support_quote": "dinners have been takeout or frozen basically every night"
+    },
+    {
+      "text": "Assistant says Elliot is lactose intolerant/oat milk friendly",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Dinners for next week (dairy-free, oat milk friendly)",
+      "support_quote": "dinners need to work with oat milk, i'm lactose intolerant"
+    },
+    {
+      "text": "Assistant says baby asleep on Elliot, one-handed typing",
+      "about": "elliot",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "(while the baby sleeps on you)",
+      "support_quote": "he's asleep on me so typing one-handed sorry"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "just got back from Ruiz Family Market with theo in the carrier. delivery is only for diapers now"
+    },
+    {
+      "item_id": "elliot.f37",
+      "present": true,
+      "quote": "dinners need to work with oat milk, i'm lactose intolerant"
+    },
+    {
+      "item_id": "elliot.f36",
+      "present": true,
+      "quote": "my range is scrambled eggs, boxed pasta and one chili recipe"
+    },
+    {
+      "item_id": "elliot.f23",
+      "present": true,
+      "quote": "dinners have been takeout or frozen basically every night, last night was takeout with hana again"
+    },
+    {
+      "item_id": "elliot.i02",
+      "present": true,
+      "quote": "i'm basically Employee of the Month at Burnt Toast Inc."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

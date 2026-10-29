@@ -1,0 +1,358 @@
+{
+  "session_id": "marcus.s22",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "It is vampire week, overtime nights",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "this is vampire week fr so short version pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a biomechanics midterm coming up",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a biomechanics midterm coming up",
+      "support_quote": ""
+    },
+    {
+      "text": "Deadlift best is 375, aiming for 405 by year end",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my best is 375 and im trying to hit 405 by end of year",
+      "support_quote": ""
+    },
+    {
+      "text": "Can only lift Fri/Sat mornings, two sessions",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i can only lift fri/sat mornings now so it has to fit two sessions a week",
+      "support_quote": ""
+    },
+    {
+      "text": "Gets more methodical about body and fuel",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "what should i eat around those 2 days to get the most out of them. like timing",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he has a midterm",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck on the midterm",
+      "support_quote": "i have a biomechanics midterm coming up"
+    },
+    {
+      "text": "Assistant says his best deadlift is 375 and goal 405",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Going from 375 to 405 is 30 lb",
+      "support_quote": "my best is 375 and im trying to hit 405 by end of year"
+    },
+    {
+      "text": "Assistant says he has only two sessions a week",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you have only two sessions, make each one count:",
+      "support_quote": "i can only lift fri/sat mornings now so it has to fit two sessions a week"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i06",
+      "present": true,
+      "quote": "what should i eat around those 2 days to get the most out of them. like timing"
+    },
+    {
+      "item_id": "marcus.r04",
+      "present": true,
+      "quote": "this is vampire week fr so short version pls"
+    },
+    {
+      "item_id": "marcus.f21",
+      "present": true,
+      "quote": "i can only lift fri/sat mornings now so it has to fit two sessions a week"
+    },
+    {
+      "item_id": "marcus.f22",
+      "present": true,
+      "quote": "my best is 375 and im trying to hit 405 by end of year"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

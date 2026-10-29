@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s30",
+  "principal": "marcus",
+  "start": "2025-10-21T14:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick i need a plan for tomorrow. ex phys midterm is tomorrow and i havent done enough review"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. To build something realistic I need a few things: what else is on your plate today and tomorrow (classes, work), when you plan to sleep, and what you're reviewing from?"
+    },
+    {
+      "role": "user",
+      "text": "i have section 2-5:15 today. gotta be clocked in at 9 tonight. and i also wanna fit in stats tutoring. review is fatimas shared google doc notes, thats basically all im using"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's a plan around section and your 9 p.m. clock-in:\n\n**Today**\n- Now to 2:00: skim Fatima's doc, headings only, and mark the sections that look shakiest. 30 minutes max.\n- 5:15 to 6:15: after section, eat, then do one focused pass on the marked sections. Write 5-10 quick self-test questions as you go.\n- 6:15 to 7:15: answer those questions from memory, then check the doc for what you missed.\n- 7:15 to 8:00: get ready and head out. Keep a short list of weak spots on your phone.\n\n**On shift tonight**\n- Use breaks for flashcard-style review of the weak list. Don't try to read the doc on your phone, just recall.\n\n**Tomorrow**\n- When you get home, sleep first. Set an alarm and give yourself a 20-minute last look at the weak list before the exam.\n- Stats tutoring: tell me what time the session is and I'll slot it in. If it overlaps the exam window, it may be worth asking the center to move it.\n\nWant me to tighten this into a shorter version?"
+    },
+    {
+      "role": "user",
+      "text": "short version pls. tutoring is tomorrow 12:30"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Today**\n- Before 2: skim the doc, mark weak spots (30 min)\n- After 5:15: eat, one focused pass on weak spots, write self-test questions\n- By 7:15: quiz yourself, then leave for work\n\n**Tonight**\n- Break time: recall the weak list, no reading\n\n**Tomorrow**\n- Get home, sleep as long as you can\n- 12:30 tutoring: bring your stats questions, keep it to the session\n- Before the midterm: 20 minutes on the weak list, nothing new\n\nIf the exam time clashes with 12:30, ask the tutoring center to shift you."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. ill do it my way but this gives me the skeleton"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good, a skeleton you can adjust is all it needs to be. Good luck on the midterm. If you want practice questions for a particular topic, send them my way."
+    }
+  ]
+}

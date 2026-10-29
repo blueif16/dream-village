@@ -1,0 +1,353 @@
+{
+  "principal": "isabel",
+  "week": 11,
+  "entries": [
+    {
+      "id": "isabel.w11.l01",
+      "date": "2025-11-03",
+      "what": "Isabel wakes at 6:50, gets a ride from Grace at 7:30 and sits through AP Calc and AP Lang at Flats High.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Got through the day on little sleep.",
+      "feeling": "groggy but focused",
+      "facts": [
+        "isabel.f26",
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l02",
+      "date": "2025-11-03",
+      "what": "After school she works at the library homework center on her summer program form and fall sports photos with Nadia.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Form is nearly done, photo picks are made.",
+      "feeling": "productive",
+      "facts": [
+        "isabel.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l03",
+      "date": "2025-11-03",
+      "what": "Dishes after dinner, then she checks that Lola Cora ate her lunch leftovers while Ramón is at dispatch.",
+      "with": [
+        "corazon",
+        "ramon"
+      ],
+      "outcome": "Lola Cora grumbled but ate.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "isabel.f45",
+        "cast.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l04",
+      "date": "2025-11-04",
+      "what": "Election day: Isabel is too young to vote, but walks past the community center polling line on her way to school and rolls her eyes at the Measure K signs.",
+      "with": [],
+      "outcome": "Skipped the debate at home.",
+      "feeling": "detached",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l05",
+      "date": "2025-11-04",
+      "what": "Robotics isn't scheduled today, so she studies for AP Chem and APUSH at the library homework center.",
+      "with": [],
+      "outcome": "Finished two APUSH chapters.",
+      "feeling": "steady",
+      "facts": [
+        "isabel.f16",
+        "isabel.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l06",
+      "date": "2025-11-04",
+      "what": "At dinner the family talks about Measure K and who voted; Grace is pleased she voted, Isabel stays quiet and eats fish.",
+      "with": [
+        "grace",
+        "ramon",
+        "corazon"
+      ],
+      "outcome": "Dinner ended without a fight.",
+      "feeling": "quiet",
+      "facts": [
+        "isabel.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l07",
+      "date": "2025-11-05",
+      "what": "Isabel tutors Mateo in fractions and ratios at 4 p.m. for $20, using the pizza drawings again.",
+      "with": [],
+      "outcome": "Mateo finished all his practice problems.",
+      "feeling": "patient and pleased",
+      "facts": [
+        "isabel.f29",
+        "isabel.f60"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l08",
+      "date": "2025-11-05",
+      "what": "Father Ben's food drive sign-up goes out; Isabel signs herself and Lola Cora up to help on Nov 22.",
+      "with": [
+        "corazon",
+        "ben"
+      ],
+      "outcome": "Committed to the Nov 22 food drive with Lola Cora.",
+      "feeling": "quietly glad",
+      "facts": [
+        "isabel.f49",
+        "cast.f143"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l09",
+      "date": "2025-11-05",
+      "what": "Late night, she tweaks the egret count notes at Ramón's old desktop before bed.",
+      "with": [],
+      "outcome": "Went to bed near 1 a.m.",
+      "feeling": "tired",
+      "facts": [
+        "isabel.f25",
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l10",
+      "date": "2025-11-06",
+      "what": "Thursday robotics in room C7: Lucas shares his drivetrain design review plans and Isabel quietly wants to beat them.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "She left with a list of weak spots in the current drivetrain.",
+      "feeling": "competitive",
+      "facts": [
+        "isabel.f16",
+        "isabel.f15"
+      ],
+      "impressions": [
+        "isabel.i04"
+      ]
+    },
+    {
+      "id": "isabel.w11.l11",
+      "date": "2025-11-06",
+      "what": "At home she asks the assistant for drivetrain improvements she can propose before Lucas's design review.",
+      "with": [],
+      "outcome": "Has three ideas to bring to the team.",
+      "feeling": "driven",
+      "facts": [
+        "isabel.f15"
+      ],
+      "impressions": [
+        "isabel.i04"
+      ]
+    },
+    {
+      "id": "isabel.w11.l12",
+      "date": "2025-11-06",
+      "what": "Dinner is a short, quiet one with Grace and Lola Cora; Isabel heads to her room early.",
+      "with": [
+        "grace",
+        "corazon"
+      ],
+      "outcome": "No arguments tonight.",
+      "feeling": "calm",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l13",
+      "date": "2025-11-07",
+      "what": "School day with lunch in the yearbook room with Nadia, who shows her a spread layout.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Chose the best football photos.",
+      "feeling": "relaxed",
+      "facts": [
+        "isabel.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l14",
+      "date": "2025-11-07",
+      "what": "Fernanda reads her one essay draft per week on Fridays and returns notes.",
+      "with": [
+        "fernanda"
+      ],
+      "outcome": "Got a short list of paragraph fixes.",
+      "feeling": "nervous but hopeful",
+      "facts": [
+        "isabel.f58",
+        "isabel.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l15",
+      "date": "2025-11-07",
+      "what": "Evening, Nadia drives them in her brother's sedan to see the Flats High fall play at the Ortega Playhouse.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Home before the 9 p.m. curfew after a fun show.",
+      "feeling": "entertained",
+      "facts": [
+        "isabel.f12",
+        "isabel.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l16",
+      "date": "2025-11-08",
+      "what": "Saturday SAT prep time passes and she sleeps in, then goes to the library to work on the Mom sheet numbers.",
+      "with": [],
+      "outcome": "Collected net price figures for five schools.",
+      "feeling": "focused",
+      "facts": [
+        "isabel.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l17",
+      "date": "2025-11-08",
+      "what": "Afternoon in the driveway watching Ramón work on the Bronco carburetor while she holds the flashlight.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Ramón again promised she can drive it when it runs.",
+      "feeling": "fond",
+      "facts": [
+        "isabel.f54",
+        "isabel.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l18",
+      "date": "2025-11-08",
+      "what": "Evening at home with a jasmine milk tea from Cloud Nine, writing out her egret count gear list.",
+      "with": [],
+      "outcome": "Packed her bag for the count a week out.",
+      "feeling": "anticipating",
+      "facts": [
+        "isabel.f34",
+        "isabel.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l19",
+      "date": "2025-11-09",
+      "what": "Sunday morning she goes with Grace and Lola Cora to Tagalog Mass at 9 a.m. at Our Lady of the Marsh.",
+      "with": [
+        "grace",
+        "corazon"
+      ],
+      "outcome": "Sat through Mass without complaint.",
+      "feeling": "dutiful",
+      "facts": [
+        "cast.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l20",
+      "date": "2025-11-09",
+      "what": "Lola Cora cooks sinigang for lunch and Isabel eats two bowls while pretending to be indifferent.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Lola Cora saves leftovers for her.",
+      "feeling": "content",
+      "facts": [
+        "isabel.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w11.l21",
+      "date": "2025-11-09",
+      "what": "Grace grades at the kitchen table while Isabel does homework nearby; Hana's return to work is mentioned only in town talk.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Worked side by side in near silence.",
+      "feeling": "neutral",
+      "facts": [],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "isabel.w11.n01",
+      "subject": "isabel",
+      "attribute": "yearbook_photo_pick",
+      "value": "chose a night-game football photo for Nadia's spread",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w11.n02",
+      "subject": "isabel",
+      "attribute": "drivetrain_ideas",
+      "value": "has three drivetrain proposals for Lucas's design review",
+      "valid_from": "2025-11-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.w11.n03",
+      "subject": "isabel",
+      "attribute": "play_attendance",
+      "value": "saw the Flats High fall play with Nadia on opening night",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w11.n04",
+      "subject": "isabel",
+      "attribute": "net_price_research",
+      "value": "collected net price figures for five schools for the Mom sheet",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.w11.n05",
+      "subject": "isabel",
+      "attribute": "egret_count_gear",
+      "value": "packed a gear list for the Nov 15 count",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

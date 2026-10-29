@@ -1,0 +1,83 @@
+{
+  "session_id": "thao.s39",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Finished all 30 CE hours and submitted RN renewal",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i finished all 30 CE hours and submitted my renewal saturday",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers one-line answers, post-shift",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long. one line, i'm post-shift.",
+      "support_quote": ""
+    },
+    {
+      "text": "Works a shift tonight (Monday)",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also needs to go out before i start tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Submitted RN renewal Saturday with all 30 CE hours",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I submitted my RN renewal on Saturday with all 30 CE hours complete.",
+      "support_quote": "i finished all 30 CE hours and submitted my renewal saturday"
+    },
+    {
+      "text": "Has a shift tonight",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Have a good shift tonight.",
+      "support_quote": "also needs to go out before i start tonight"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f25",
+      "present": true,
+      "quote": "i finished all 30 CE hours and submitted my renewal saturday"
+    },
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "too long. one line, i'm post-shift."
+    },
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "also needs to go out before i start tonight"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

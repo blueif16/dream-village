@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s08",
+  "principal": "marcus",
+  "start": "2025-09-10T14:24:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u proofread this text to jade. gotta leave for my 2 section soon so need it done before i go. keep it short\n\n\"hey i'm sorry i was out cold again on ur day off. saturday evening pho at phở bến thành like usual? my treat\""
+    },
+    {
+      "role": "assistant",
+      "text": "Looks good. Only small fixes, mostly capitalization and punctuation:\n\n\"Hey, I'm sorry I was out cold again on your day off. Saturday evening at Phở Bến Thành like usual? My treat.\"\n\nIf you'd rather keep your lowercase texting style, it works as is. Want a slightly warmer version, or is this the one?"
+    },
+    {
+      "role": "user",
+      "text": "nah keep it lowercase. she texted me this earlier tho: \"it's just kinda lonely when ur asleep the whole time i'm off. wish u were awake more\" so idk if sorry + pho is enough"
+    },
+    {
+      "role": "assistant",
+      "text": "Her message sounds like she wants time with you, not just an apology. You could add a line that shows you're thinking about that, still short and lowercase:\n\n\"hey i'm sorry i was out cold again on ur day off. i hear u. saturday evening at phở bến thành like usual? my treat\"\n\nIf you want to offer something extra, I can add a spot like \"and i'll try to be up for a call on ur next day off.\" Want that in?"
+    },
+    {
+      "role": "user",
+      "text": "call before 1 wont work tho i sleep 8 to 1 after shift. can u help me fix my sleep schedule real quick so i can be up more on her days off. not the 8 hours lecture, i know. ill tweak it myself"
+    },
+    {
+      "role": "assistant",
+      "text": "No lecture. Here's a rough starting point you can adjust:\n\n- Keep your main sleep after shift, but on her days off, set an alarm for a shorter block, like 8 to 11:30.\n- Take a 60 to 90 minute nap later in the afternoon so you don't crash in the evening.\n- Save the call or hangout for that stretch after you're up.\n\nTweak the times however fits your week. For the text, here's a version that doesn't promise a call before 1:\n\n\"hey i'm sorry i was out cold again on ur day off. i hear u. saturday evening at phở bến thành like usual? my treat. and i'll try to be up earlier for ur next one\""
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. sending it. thx"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, good luck in your section. Hope the evening goes well!"
+    }
+  ]
+}

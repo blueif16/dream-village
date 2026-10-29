@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s08",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "General Chemistry midterm is Oct 20 at 8 a.m.",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "syllabus says midterm is oct 20 at 8 am",
+      "support_quote": ""
+    },
+    {
+      "text": "Has Gen Chem TTh at 11 and Anatomy MWF at 9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have gen chem TTh at 11 and anatomy MWF at 9",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses a paper planner",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "a weekly list i can tape into my paper planner",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants short bullet answers with times attached",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long, just bullets pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Exam is Oct 20 at 8 a.m.",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since the exam is Oct 20, the 4-week plan starts the week of Sept 22.",
+      "support_quote": "syllabus says midterm is oct 20 at 8 am"
+    },
+    {
+      "text": "Has Gen Chem TTh 11 and Anatomy MWF 9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "planned around Gen Chem TTh 11:00 and Anatomy MWF 9:00",
+      "support_quote": "i have gen chem TTh at 11 and anatomy MWF at 9"
+    },
+    {
+      "text": "Linh uses a paper planner",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Here's a compact version that should fit a planner page:",
+      "support_quote": "can u redo it as a weekly list i can tape into my paper planner?"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f20",
+      "present": true,
+      "quote": "syllabus says midterm is oct 20 at 8 am"
+    },
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "i have gen chem TTh at 11 and anatomy MWF at 9 so keep blocks away from those"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "can u redo it as a weekly list i can tape into my paper planner?"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "too long, just bullets pls"
+    }
+  ],
+  "sensitive": []
+}

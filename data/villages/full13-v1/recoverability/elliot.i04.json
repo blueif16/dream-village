@@ -1,0 +1,96 @@
+{
+  "impression_id": "elliot.i04",
+  "evidence_sessions": [
+    "elliot.s15",
+    "elliot.s21",
+    "elliot.s43",
+    "elliot.s47",
+    "elliot.s63",
+    "elliot.s65",
+    "elliot.s72"
+  ],
+  "inferred": [
+    {
+      "statement": "Elliot takes on the domestic and childcare load proactively (night feeds, laundry, errands, lunches, tours) and deliberately shields his wife Hana from extra mental load, often saying she doesn't need to think about it.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s15",
+        "elliot.s21",
+        "elliot.s43",
+        "elliot.s63",
+        "elliot.s65",
+        "elliot.s72"
+      ]
+    },
+    {
+      "statement": "He uses self-deprecating humor and a running 'scoreboard: dad 1, X 0' joke to cope with exhaustion and mark small wins.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s15",
+        "elliot.s43",
+        "elliot.s63",
+        "elliot.s65"
+      ]
+    },
+    {
+      "statement": "He prefers structured, concise output, especially tables and short versions, and asks for them repeatedly, particularly when tired.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s21",
+        "elliot.s43",
+        "elliot.s63",
+        "elliot.s65",
+        "elliot.s15"
+      ]
+    },
+    {
+      "statement": "He is chronically sleep-deprived and works late at night or in the small hours, typically opening with a timestamped 'update' and apologizing for typing one-handed while holding the baby.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s15",
+        "elliot.s21",
+        "elliot.s43",
+        "elliot.s63",
+        "elliot.s65",
+        "elliot.s72"
+      ]
+    },
+    {
+      "statement": "He wants messages to his wife to sound warm, light and in his own voice rather than formal, and cares about tone while keeping all the information.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s15",
+        "elliot.s43",
+        "elliot.s21"
+      ]
+    },
+    {
+      "statement": "He tends to over-apologize and downplay his own effort in casual contexts, yet wants firmness and no apology when advocating in a formal dispute.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s72",
+        "elliot.s15",
+        "elliot.s65"
+      ]
+    },
+    {
+      "statement": "He handles outward-facing logistics and gatekeeping himself (declining visitors, landlord dispute, daycare tours), taking responsibility so Hana doesn't have to be involved.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s47",
+        "elliot.s72"
+      ]
+    },
+    {
+      "statement": "He readily pastes sensitive identifiers (license number, bank account) into chats and asks for form fields to be filled, showing low caution about sharing private data.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s63",
+        "elliot.s72"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Elliot takes on the domestic and childcare load proactively (night feeds, laundry, errands, lunches, tours) and deliberately shields his wife Hana from extra mental load, often saying she doesn't need to think about it.",
+  "rationale": "The first inferred statement, rated strong, says Elliot proactively takes on domestic and childcare load and shields Hana from extra mental load. That matches the intended trait of quietly taking load off Hana. The 'doesn't need to think about it' detail fits the pattern, though it says he sometimes tells her that rather than never explaining."
+}

@@ -1,0 +1,127 @@
+{
+  "session_id": "noemi.s45",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Brother Mateo, 17, wants to build his first PC for his December birthday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my brother mateo is 17 and wants to build his first pc for his december birthday",
+      "support_quote": ""
+    },
+    {
+      "text": "Parents live in a fourplex off Vinca",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i was at my parents' fourplex off vinca this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi has a self-built desktop with mid-range GPU",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my own self-built desktop, mid-range gpu",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi fixed the family printer, acts as family tech support",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also fixed the family printer again lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris is the organized one who does the spreadsheets and budget",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's the one who actually does the spreadsheets",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris works Mon-Fri 8 to 5",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's m-f 8 to 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi works overtime swings and is off Sundays",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work overtime swings, off sundays",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Noemi is off Sundays and Iris is free evenings and weekends",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you're off Sundays and Iris is free evenings and weekends",
+      "support_quote": "i work overtime swings, off sundays"
+    },
+    {
+      "text": "Iris will review the budget",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Late Oct: we check the budget with Iris",
+      "support_quote": "she's gonna have to look at the budget for the parts anyway"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i04",
+      "present": true,
+      "quote": "iris made me a study calendar for my cert so she's gonna have to look at the budget for the parts anyway, she's the one who actually does the spreadsheets"
+    },
+    {
+      "item_id": "noemi.f29",
+      "present": true,
+      "quote": "my brother mateo is 17 and wants to build his first pc for his december birthday"
+    },
+    {
+      "item_id": "noemi.f27",
+      "present": true,
+      "quote": "i was at my parents' fourplex off vinca this morning where he asked"
+    },
+    {
+      "item_id": "noemi.f20",
+      "present": true,
+      "quote": "i want the parts to be similar to my own self-built desktop, mid-range gpu"
+    },
+    {
+      "item_id": "noemi.f28",
+      "present": true,
+      "quote": "also fixed the family printer again lol"
+    }
+  ],
+  "sensitive": []
+}

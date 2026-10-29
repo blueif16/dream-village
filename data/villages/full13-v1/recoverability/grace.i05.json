@@ -1,0 +1,93 @@
+{
+  "impression_id": "grace.i05",
+  "evidence_sessions": [
+    "grace.s01",
+    "grace.s02",
+    "grace.s04",
+    "grace.s08",
+    "grace.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Grace wants terse, directly formatted answers (numbered steps, bullets, word limits, no preamble or closing questions) and corrects the assistant when it is too long or adds extras.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s01",
+        "grace.s02",
+        "grace.s04",
+        "grace.s08",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace works under constant time pressure, squeezing tasks into prep periods, evenings and weekends before grading or conferences.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s01",
+        "grace.s02",
+        "grace.s04",
+        "grace.s08",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace routinely pastes sensitive personal identifiers (bank account, license number, SSN) into the chat without hesitation, treating it as a practical form-filling tool.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s02",
+        "grace.s04",
+        "grace.s08"
+      ]
+    },
+    {
+      "statement": "Grace is a conscientious, safety-minded teacher who writes parent communications that are firm but supportive, and who wants warm, effort-praising framing for students.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s01",
+        "grace.s08",
+        "grace.s13",
+        "grace.s02"
+      ]
+    },
+    {
+      "statement": "Grace carries heavy family caregiving and financial planning responsibilities (her mother Nanay's health and billing, her husband Ramón, a daughter heading to college) and handles them carefully and privately.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s08",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace is sensitive to tone in dealing with others, wanting to avoid sounding snippy toward the office or like she is checking up on her mother, while she also resists redundant administrative paperwork ('forms for the forms').",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s08",
+        "grace.s13"
+      ]
+    },
+    {
+      "statement": "Grace tends to make decisions on her own and wants them settled before others can weigh in, such as settling the glucose conversation before Ramón's shift ends and closing off the Colorado school.",
+      "strength": "weak",
+      "sessions": [
+        "grace.s08",
+        "grace.s04"
+      ]
+    },
+    {
+      "statement": "Grace uses brief Filipino expressions ('Salamat', 'Ay') and is polite but curt, thanking the assistant while still directing it.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s01",
+        "grace.s02",
+        "grace.s04",
+        "grace.s08",
+        "grace.s13"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Grace wants terse, directly formatted answers (numbered steps, bullets, word limits, no preamble or closing questions) and corrects the assistant when it is too long or adds extras.",
+  "rationale": "The first inferred statement, rated strong, says Grace wants terse, directly formatted answers with numbered steps and no preamble, and corrects the assistant when it is too long. That matches the intended pattern of wanting precise numbered steps and impatience with long preambles."
+}

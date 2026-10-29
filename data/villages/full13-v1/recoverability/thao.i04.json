@@ -1,0 +1,83 @@
+{
+  "impression_id": "thao.i04",
+  "evidence_sessions": [
+    "thao.s04",
+    "thao.s17",
+    "thao.s22",
+    "thao.s38",
+    "thao.s45"
+  ],
+  "inferred": [
+    {
+      "statement": "Shows care through practical, concrete help for her younger sister Linh (monthly $50, batch-cooked meals, food drop-offs) rather than emotional conversations.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s38",
+        "thao.s45"
+      ]
+    },
+    {
+      "statement": "Keeps her help for Linh quiet and hidden from their mother (labeling the transfer 'textbook fund', asking how to avoid her mom finding out), suggesting a strained or controlling dynamic with her mom.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s38"
+      ]
+    },
+    {
+      "statement": "Avoids phone calls and unplayed voicemails from her mother, preferring text or chat because calls produce dread.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s04"
+      ]
+    },
+    {
+      "statement": "Wants short, bulleted, ready-to-use answers (templates, lists, 2-line drafts) and signals this repeatedly, often citing limited time or being about to sleep or go on break.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s17",
+        "thao.s22",
+        "thao.s38",
+        "thao.s45"
+      ]
+    },
+    {
+      "statement": "Works night shifts as a nurse and organizes life around protecting a daytime sleep window (blackout curtains, fan, earplugs), and sets up systems to defend it.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s17",
+        "thao.s45"
+      ]
+    },
+    {
+      "statement": "Avoids confrontation in her shared home, preferring quiet structural fixes (labeled fridge shelves done while he's out, quiet-hours signs) over direct conversations with Tomás about his mess.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s17",
+        "thao.s22",
+        "thao.s45"
+      ]
+    },
+    {
+      "statement": "Is conscientious and quietly generous toward others, including strangers, such as making a playlist kit for the noisy neighbors and volunteering at a food drive, while minimizing her own stress.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s17",
+        "thao.s45"
+      ]
+    },
+    {
+      "statement": "Is diligent about professional competence, using off-nights to finish CE modules before renewal and answering quiz questions precisely and in her own words.",
+      "strength": "weak",
+      "sessions": [
+        "thao.s22"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Shows care through practical, concrete help for her younger sister Linh (monthly $50, batch-cooked meals, food drop-offs) rather than emotional conversations.",
+  "rationale": "The first inferred statement, rated strong, says she shows care through practical, concrete help for her sister rather than emotional conversations, which is the same pattern as the intended trait."
+}

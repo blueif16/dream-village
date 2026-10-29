@@ -1,0 +1,39 @@
+{
+  "id": "jun.s45",
+  "principal": "jun",
+  "start": "2025-11-18T21:27:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss can you teach me how to do cost per lumpia and break even for the thanksgiving preorders. like step by step, i wanna actually learn it myself so i stop asking my coworker to do the numbers stuff every time lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Let's build it in four steps, and you can plug in your own numbers as we go.\n\n**Step 1: Add up the batch costs.** List everything that went into one batch: pork, shrimp, wrappers, onion, seasoning, oil, packaging, plus kitchen time if you're renting. Add it all up for the total batch cost.\n\n**Step 2: Count what you actually made.** Count the finished lumpia, not the ones you planned. Subtract anything that tore or got burnt.\n\n**Step 3: Cost per lumpia = total batch cost ÷ lumpia made.**\n\n**Step 4: Break-even = fixed costs ÷ (price per piece − cost per piece).** Fixed costs are things you pay no matter how many you sell, like kitchen time or a sign.\n\nWhat's your price per piece, and roughly how big is the batch?"
+    },
+    {
+      "role": "user",
+      "text": "ok so i make about 400 lumpia a week split between saturday counter and sunday market. prices are $12 for a half dozen and $22 a dozen. for the preorder lets say i spend $240 total on ingredients and packaging for 400 and the kitchen block is another $84"
+    },
+    {
+      "role": "assistant",
+      "text": "Great, that's enough to run it.\n\n**Cost per lumpia**\n- Total cost: $240 + $84 = $324\n- $324 ÷ 400 = **$0.81 per lumpia**\n\n**Revenue per piece at your prices**\n- Half dozen: $12 ÷ 6 = $2.00 per lumpia\n- Dozen: $22 ÷ 12 = about $1.83 per lumpia\n\n**Profit per piece**\n- Half dozen: $2.00 − $0.81 = $1.19\n- Dozen: $1.83 − $0.81 = about $1.02\n\n**Break-even** (treating the full $324 as the amount to recover)\n- At half-dozen pricing: $324 ÷ $2.00 = 162 lumpia, so 27 half dozens\n- At dozen pricing: $324 ÷ $1.83 = about 177 lumpia, so roughly 15 dozens\n\nSo once you've sold around 160-180 pieces, everything after that is profit. One caveat: if some of your costs scale with each lumpia, like wrappers and filling, the more precise version separates fixed from per-piece costs. Want me to show that version?"
+    },
+    {
+      "role": "user",
+      "text": "sige yes but short version pls, i open at the cafe tomorrow and monday's my day off so im studying tonight lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n1. **Per-piece costs** (ingredients + packaging): $240 ÷ 400 = **$0.60**\n2. **Fixed cost** (kitchen block): **$84**\n3. **Break-even = fixed ÷ (price − per-piece cost)**\n - Half dozen: $84 ÷ ($2.00 − $0.60) = **60 lumpia** (10 half dozens)\n - Dozen: $84 ÷ ($1.83 − $0.60) = about **68 lumpia** (6 dozens)\n\nSo the kitchen time is covered after about 60-70 lumpia, and the ingredients are paid for as you go. Anything beyond that is profit. Try it with your real receipts to check."
+    },
+    {
+      "role": "user",
+      "text": "ok actually that's way less scary than i thought 🔥 can you give me a little template i can paste into linh's sheet after"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's a layout you can paste in, with formulas using column letters:\n\n| Item | Value |\n|---|---|\n| Ingredients + packaging | $240 |\n| Lumpia made | 400 |\n| Per-piece cost | =B1/B3 |\n| Kitchen/fixed cost | $84 |\n| Price per piece (half dozen) | =12/6 |\n| Price per piece (dozen) | =22/12 |\n| Break-even pieces (half dozen) | =B5/(B6-B4) |\n| Break-even pieces (dozen) | =B5/(B7-B4) |\n\nAdjust the row references to match where you place it. Next batch, swap in your real costs and count, and the break-even updates automatically."
+    }
+  ]
+}

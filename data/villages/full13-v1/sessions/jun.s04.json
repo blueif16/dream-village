@@ -1,0 +1,31 @@
+{
+  "id": "jun.s04",
+  "principal": "jun",
+  "start": "2025-09-02T21:41:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss can you help me write a sign + a short caption for my lumpia table this saturday at the cafe. its for the counter at heron & grind 🥢 the business is Lola's Roll, named for my grandmother. i want the sign to list the lumpiang shanghai with pork and shrimp and the two dips, sweet chili and spiced vinegar. $10 for a half dozen. keep it friendly not desperate lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a sign that's warm and easy to read at a glance:\n\n**LOLA'S ROLL** 🥢\n*Named for my grandmother, made with love*\n\n**Lumpiang Shanghai**\nPork & shrimp, crispy and hot\n\n**Dips:** Sweet chili or spiced vinegar\n\n**$10 for a half dozen**\n\nAnd a short caption for social or the counter card:\n\n\"First Saturday for Lola's Roll! 🥢 Lumpiang shanghai with pork and shrimp, fried fresh and served with sweet chili and spiced vinegar dips. Named for my grandmother, and made to be shared. Stop by the table with your coffee, $10 a half dozen.\"\n\nWant a shorter or sillier version too?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually make the sign a little shorter, shift starts soon. and add something like come say hi"
+    },
+    {
+      "role": "assistant",
+      "text": "Shorter version:\n\n**LOLA'S ROLL** 🥢\n*Named for my grandmother*\n\nLumpiang Shanghai (pork & shrimp)\nSweet chili + spiced vinegar dips\n**$10 / half dozen**\n\n*Come say hi!*\n\nI can also make a version with a little hand-drawn style layout if you want to print it."
+    },
+    {
+      "role": "user",
+      "text": "perfect sige thanks that helps a ton 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Good luck with the first Saturday table. I hope the lumpia sell out."
+    }
+  ]
+}

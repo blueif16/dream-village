@@ -1,0 +1,97 @@
+{
+  "impression_id": "elliot.i06",
+  "evidence_sessions": [
+    "elliot.s06",
+    "elliot.s27",
+    "elliot.s35",
+    "elliot.s50",
+    "elliot.s61",
+    "elliot.s72",
+    "elliot.s80"
+  ],
+  "inferred": [
+    {
+      "statement": "Elliot habitually over-apologizes and softens his requests, to the point that he asks the assistant to check or cut the sorries in his drafts.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s06",
+        "elliot.s27",
+        "elliot.s35",
+        "elliot.s50",
+        "elliot.s61"
+      ]
+    },
+    {
+      "statement": "He is working to become more assertive: he increasingly asks for firm, apology-free messages with concrete dates and deadlines and wants to stop backing down, though he still needs reassurance that a draft isn't too sharp.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s35",
+        "elliot.s50",
+        "elliot.s61",
+        "elliot.s72",
+        "elliot.s80"
+      ]
+    },
+    {
+      "statement": "He feels guilt and anxiety about imposing on others (neighbor, landlord, supervisor) and tends to wait rather than press, but then escalates once he has structure and backup.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s06",
+        "elliot.s50",
+        "elliot.s27",
+        "elliot.s35"
+      ]
+    },
+    {
+      "statement": "He uses self-deprecating humor and a running 'scoreboard' joke, with the 🙃 emoji, to lighten stress and mark small wins as a new parent.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s06",
+        "elliot.s27",
+        "elliot.s35",
+        "elliot.s80"
+      ]
+    },
+    {
+      "statement": "He is the hands-on at-home parent who often works through late-night or early-morning feeds, and he shields his wife from extra mental load by taking on logistics like daycare tours.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s06",
+        "elliot.s35",
+        "elliot.s61",
+        "elliot.s72",
+        "elliot.s80"
+      ]
+    },
+    {
+      "statement": "He is budget-conscious while on leave pay and wants cheap, practical solutions, and he checks before buying.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s27",
+        "elliot.s06"
+      ]
+    },
+    {
+      "statement": "He prefers concise, practical help such as ready-to-send drafts, tables, and lists, and he gives specific feedback on what to tweak.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s27",
+        "elliot.s35",
+        "elliot.s61",
+        "elliot.s72"
+      ]
+    },
+    {
+      "statement": "He dreads confrontation with authority figures like his supervisor and the neighbor, and prepares scripts in advance for them.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s06",
+        "elliot.s61",
+        "elliot.s80"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Elliot habitually over-apologizes and softens his requests, to the point that he asks the assistant to check or cut the sorries in his drafts.",
+  "rationale": "The first two strong statements capture habitual over-apologizing and the shift toward firm, apology-free messages, which matches the intended arc of over-apologizing until he holds his ground. The neighbor context is also touched on in other statements."
+}

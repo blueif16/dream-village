@@ -1,0 +1,98 @@
+{
+  "session_id": "thao.s32",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao made a color-coded fridge chore chart",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "i made it monday, color coded, blue for tomás and green for me, and different colors per task.",
+      "support_quote": ""
+    },
+    {
+      "text": "Tomás does dishes and trash; Thao does laundry and groceries",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's been doing dishes and trash like the board says, i keep laundry and groceries.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao shops at Ruiz Family Market",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i went to ruiz family market today for groceries",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao booked dental cleaning Nov 18 at 3:30 at Plaza Marisol dentist",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just booked my overdue dental cleaning at the plaza marisol dentist, nov 18 at 3:30.",
+      "support_quote": ""
+    },
+    {
+      "text": "Dental cleaning Nov 18, 3:30 p.m.",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Write: \"Nov 18, 3:30 p.m., dental cleaning\" in its own color.",
+      "support_quote": "i just booked my overdue dental cleaning at the plaza marisol dentist, nov 18 at 3:30."
+    },
+    {
+      "text": "Thao is sometimes post-shift and groggy",
+      "about": "thao",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Since you've said you're post-shift and groggy at times",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 6 says \"Since you've said you're post-shift and groggy at times\" before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "thao.i05",
+      "present": true,
+      "quote": "i made it monday, color coded, blue for tomás and green for me, and different colors per task."
+    },
+    {
+      "item_id": "thao.f21",
+      "present": true,
+      "quote": "he's been doing dishes and trash like the board says, i keep laundry and groceries."
+    },
+    {
+      "item_id": "thao.f33",
+      "present": true,
+      "quote": "i went to ruiz family market today for groceries, want grocery duty to include a shared list so he can add stuff."
+    },
+    {
+      "item_id": "thao.f41",
+      "present": true,
+      "quote": "i just booked my overdue dental cleaning at the plaza marisol dentist, nov 18 at 3:30."
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,385 @@
+{
+  "principal": "linh",
+  "week": 6,
+  "entries": [
+    {
+      "id": "linh.w6.l01",
+      "date": "2025-09-29",
+      "what": "Linh wakes at 6:45 and rides the Kenji-ride/shuttle route to Tamsen Valley for Anatomy with Dr. Okoye at 9, then skips lunch again until her shift.",
+      "with": [
+        "miriam"
+      ],
+      "outcome": "Takes pages of color-coded notes on the muscles unit.",
+      "feeling": "focused, a bit hungry",
+      "facts": [
+        "linh.f02",
+        "linh.f23",
+        "linh.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l02",
+      "date": "2025-09-29",
+      "what": "Works the Monday 12-6 shift at Heron & Grind, pulling shots for the afternoon crowd and reviewing flashcards on breaks. Jun critiques her pour.",
+      "with": [
+        "jun",
+        "beatrice"
+      ],
+      "outcome": "Shift ends on time; Beatrice mentions the new evening hours start Wednesday.",
+      "feeling": "steady",
+      "facts": [
+        "linh.f03",
+        "linh.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l03",
+      "date": "2025-09-29",
+      "what": "Eats the plate Hạnh left, then plans the week in her washi-tape planner and sets up Tuesday's study group.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Planner filled in through Sunday.",
+      "feeling": "organized",
+      "facts": [
+        "linh.f37",
+        "linh.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l04",
+      "date": "2025-09-30",
+      "what": "Gets a ride from Kenji to campus for General Chemistry at 11, then studies at the library until the group.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Finishes a chem problem set early.",
+      "feeling": "productive",
+      "facts": [
+        "linh.f52",
+        "linh.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l05",
+      "date": "2025-09-30",
+      "what": "At 4 p.m. she goes to Pedro's Tuesday anatomy study group at the library for the first time instead of studying alone; Pedro quizzes with his bag of 3D-printed bones.",
+      "with": [
+        "pedro",
+        "rochelle"
+      ],
+      "outcome": "Learns the bone markings faster than alone and agrees to come back weekly.",
+      "feeling": "pleasantly surprised",
+      "facts": [
+        "linh.f21",
+        "linh.f22",
+        "linh.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l06",
+      "date": "2025-09-30",
+      "what": "Gets home, packs tomorrow's rice bowl, and lays out clothes for her first closing shift.",
+      "with": [],
+      "outcome": "In bed around 12:30.",
+      "feeling": "a little nervous",
+      "facts": [
+        "linh.f30",
+        "linh.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l07",
+      "date": "2025-10-01",
+      "what": "Anatomy at 9 with Okoye, then a quick packed lunch on the library steps before heading to the cafe.",
+      "with": [
+        "miriam"
+      ],
+      "outcome": "Actually eats lunch.",
+      "feeling": "proud of herself",
+      "facts": [
+        "linh.f02",
+        "linh.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l08",
+      "date": "2025-10-01",
+      "what": "The cafe's new 6:30 a.m. to 9 p.m. hours begin and Linh works her first 3-9 closing shift at the new $19.25 rate. Beatrice shows her the milk-waste clipboard and has her lock the vault-room outlets at close.",
+      "with": [
+        "beatrice",
+        "jun"
+      ],
+      "outcome": "Closes without a mistake and clocks out near 9:30.",
+      "feeling": "tired but pleased",
+      "facts": [
+        "linh.f04",
+        "linh.f06",
+        "linh.f54",
+        "cast.f64",
+        "linh.f03",
+        "linh.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l09",
+      "date": "2025-10-01",
+      "what": "Gets home late; Hạnh has left a plate out and Linh eats it cold while noting the raise in her budget.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Updates her bike-fund tally.",
+      "feeling": "tired, content",
+      "facts": [
+        "linh.f51",
+        "linh.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l10",
+      "date": "2025-10-01",
+      "what": "Thao's boyfriend Tomás finishes moving into unit 207; Thao mentions it by text before her night shift.",
+      "with": [
+        "thao",
+        "tomas"
+      ],
+      "outcome": "Linh sends a thumbs-up and teases Thao.",
+      "feeling": "amused",
+      "facts": [
+        "cast.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l11",
+      "date": "2025-10-02",
+      "what": "Rides with Kenji to campus for General Chemistry at 11 and reviews the yellow list afterward.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Chem lecture makes sense; notes updated.",
+      "feeling": "steady",
+      "facts": [
+        "linh.f52",
+        "linh.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l12",
+      "date": "2025-10-02",
+      "what": "Stops at Heron & Grind for a cortado and Wes calls her 'Doc' when he spots her flashcards.",
+      "with": [
+        "wes"
+      ],
+      "outcome": "She laughs and uses the nickname back.",
+      "feeling": "amused",
+      "facts": [
+        "linh.f56",
+        "linh.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l13",
+      "date": "2025-10-02",
+      "what": "Studies at home with the lo-fi playlist and her dad's old radio on the desk.",
+      "with": [],
+      "outcome": "Finishes the statistics module online.",
+      "feeling": "calm",
+      "facts": [
+        "linh.f48",
+        "linh.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l14",
+      "date": "2025-10-03",
+      "what": "Anatomy at 9, then the library to quiz herself on the muscles of the arm.",
+      "with": [
+        "miriam"
+      ],
+      "outcome": "Gets through half the 600-card deck.",
+      "feeling": "focused",
+      "facts": [
+        "linh.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l15",
+      "date": "2025-10-03",
+      "what": "Meets Kenji for a late lunch near campus and they swap transfer-application gossip.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Kenji says he will submit his Bayshore app by Nov 30.",
+      "feeling": "relaxed",
+      "facts": [
+        "linh.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l16",
+      "date": "2025-10-03",
+      "what": "Evening at home with Hạnh; Hạnh asks about pharmacy classes and Linh gives short answers.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Conversation stays on the surface.",
+      "feeling": "guarded",
+      "facts": [
+        "linh.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l17",
+      "date": "2025-10-04",
+      "what": "Opens Heron & Grind at 6:30 for the Saturday shift in the new longer-hours schedule; Jun sells lumpia from the counter.",
+      "with": [
+        "jun",
+        "beatrice"
+      ],
+      "outcome": "Busy rush; Sam still owes her shifts.",
+      "feeling": "busy",
+      "facts": [
+        "linh.f04",
+        "linh.f55",
+        "cast.f65"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l18",
+      "date": "2025-10-04",
+      "what": "After the 1 p.m. end of shift she eats her packed rice bowl and reviews anatomy at a corner table.",
+      "with": [],
+      "outcome": "Leaves with a plan for Sunday.",
+      "feeling": "worn but fine",
+      "facts": [
+        "linh.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l19",
+      "date": "2025-10-04",
+      "what": "Hears from her cousin-type neighbors that Oscar Henríquez's pupusa stand opened in the Ruel Road gas station lot this evening; she plans to go with Thao later.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Just a plan for later.",
+      "feeling": "curious",
+      "facts": [
+        "cast.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l20",
+      "date": "2025-10-05",
+      "what": "Works the 6:30-1 Sunday cafe shift, pouring hearts and practicing the rosetta between orders.",
+      "with": [
+        "jun"
+      ],
+      "outcome": "Rosetta still lopsided.",
+      "feeling": "determined",
+      "facts": [
+        "linh.f04",
+        "linh.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l21",
+      "date": "2025-10-05",
+      "what": "Helps at the Lotus Nails front desk from 2 to 5 for Hạnh.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Books appointments and gets praised by customers.",
+      "feeling": "dutiful",
+      "facts": [
+        "linh.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w6.l22",
+      "date": "2025-10-05",
+      "what": "Walks the Ulloa marsh boardwalk, then plans the week in her planner Sunday night.",
+      "with": [],
+      "outcome": "Week mapped out with color tags.",
+      "feeling": "calm",
+      "facts": [
+        "linh.f36",
+        "linh.f37"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "linh.w6.n01",
+      "subject": "linh",
+      "attribute": "closing_shift_ride",
+      "value": "Hạnh picks her up after the first closing shifts at 9:30 p.m.",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w6.n02",
+      "subject": "linh",
+      "attribute": "study_group_buddy",
+      "value": "sits next to Rochelle at Pedro's group",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w6.n03",
+      "subject": "linh",
+      "attribute": "lunch_container",
+      "value": "uses a green glass container for Sunday-prepped rice bowls",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w6.n04",
+      "subject": "linh",
+      "attribute": "weekend_plan",
+      "value": "plans to try the new Henríquez pupusa stand with Thao",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w6.n05",
+      "subject": "linh",
+      "attribute": "tip_jar_total",
+      "value": "first closing shift tips about $28",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

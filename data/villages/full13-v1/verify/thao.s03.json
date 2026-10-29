@@ -1,0 +1,127 @@
+{
+  "session_id": "thao.s03",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Phone voicemail almost full, 3-year-old phone with cracked screen protector",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my phone says voicemail is almost full and i keep getting the notification",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom calls at 1pm during sleep and leaves Vietnamese voicemails",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she calls at 1pm when i'm asleep and leaves them in vietnamese",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants to read voicemails as text rather than listen or call back",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can i just read them as text instead of listening or calling back",
+      "support_quote": ""
+    },
+    {
+      "text": "Submitted repair request for leaking faucet in 207",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i put in a repair request for the leaking bathroom faucet in 207 and want to track it",
+      "support_quote": ""
+    },
+    {
+      "text": "Property manager office open 10-3 weekdays while she sleeps",
+      "about": "gloria",
+      "kind": "fact",
+      "item_id": "cast.f131",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "property manager office is only open 10-3 weekdays and that's when i'm asleep",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Vietnamese voicemails exist for the user",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Vietnamese messages may come out garbled or not transcribe at all",
+      "support_quote": "she calls at 1pm when i'm asleep and leaves them in vietnamese"
+    },
+    {
+      "text": "User works nights and sleeps during office hours",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I work nights and am usually asleep during office hours",
+      "support_quote": "property manager office is only open 10-3 weekdays and that's when i'm asleep so calling isn't happening"
+    },
+    {
+      "text": "User submitted repair request for leaking faucet in 207",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f53",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I submitted a repair request for a leaking bathroom faucet in unit 207",
+      "support_quote": "i put in a repair request for the leaking bathroom faucet in 207 and want to track it"
+    },
+    {
+      "text": "User has an iPhone",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Yes, on iPhone:",
+      "support_quote": "iphone."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f53",
+      "present": true,
+      "quote": "i put in a repair request for the leaking bathroom faucet in 207 and want to track it"
+    },
+    {
+      "item_id": "cast.f131",
+      "present": true,
+      "quote": "property manager office is only open 10-3 weekdays and that's when i'm asleep so calling isn't happening"
+    },
+    {
+      "item_id": "thao.f12",
+      "present": true,
+      "quote": "my phone says voicemail is almost full and i keep getting the notification"
+    },
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "most are my mom's, she calls at 1pm when i'm asleep and leaves them in vietnamese"
+    },
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "can i just read them as text instead of listening or calling back"
+    }
+  ],
+  "sensitive": []
+}

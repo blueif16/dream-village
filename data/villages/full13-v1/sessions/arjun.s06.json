@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s06",
+  "principal": "arjun",
+  "start": "2025-08-31T23:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok need a quick favor. tonight's sunday call is coming and i want something ready so it goes better than last week"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. To make the talking points useful, what's the honest status of things right now? What do you have to report, and what's the part you'd rather steer around?"
+    },
+    {
+      "role": "user",
+      "text": "ngl still no interviews yet 💀 but i promised her 5 new applications by next sunday so i wanna show her a plan. also i introduced myself at ashby's office hours thursday, that counts as progress right"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, that counts. Building a relationship with a professor now is groundwork for a recommendation letter later. Here's a short list:\n\n1. Progress: introduced yourself at your professor's office hours Thursday, a first step toward a future recommendation letter.\n2. Honest status: no interviews yet, but applications are still going out.\n3. The plan: 5 new applications by next Sunday, roughly one per weekday, with a spare day as buffer.\n4. Offer an update: you'll tell her how many went out when she calls next week.\n\nLeading with the plan keeps the conversation on what you're doing instead of what hasn't happened yet."
+    },
+    {
+      "role": "user",
+      "text": "thx. i just finished prepping the rajma containers so i should have time for the apps this week"
+    },
+    {
+      "role": "assistant",
+      "text": "Good point. With food sorted, your evenings are freer. You could add a line like: \"Meals are prepped for the week, so I've blocked evenings for applications.\" It shows you've planned your time, not just promised numbers."
+    },
+    {
+      "role": "user",
+      "text": "nice, can you make the plan part a tiny table"
+    },
+    {
+      "role": "assistant",
+      "text": "| Day | Goal |\n|---|---|\n| Mon | Application 1 |\n| Tue | Application 2 |\n| Wed | Application 3 |\n| Thu | Application 4 |\n| Fri | Application 5 |\n| Sat/Sun | Buffer, catch-up, tally for your update |\n\nIf you'd like, swap in your actual busiest days and I'll rebalance it."
+    }
+  ]
+}

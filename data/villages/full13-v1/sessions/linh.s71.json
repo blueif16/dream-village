@@ -1,0 +1,47 @@
+{
+  "id": "linh.s71",
+  "principal": "linh",
+  "start": "2025-11-09T12:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok can u tutor me on stoichiometry pls. gen chem tuesday 11am and im shaky on it\n\nim free from like 1:30 til 2 then i have the lotus nails front desk 2-5 w my mom, so need it to fit before and after"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Let's start with a quick check of the core method, then you can try a problem.\n\n**Stoichiometry in 4 steps**\n- Balance the equation\n- Grams to moles (divide by molar mass)\n- Moles to moles (use the coefficient ratio)\n- Moles to grams (multiply by molar mass)\n\n**Try this one:** How many grams of H2O form when 8.0 g of H2 reacts with excess O2?\n2H2 + O2 → 2H2O\n\nWhat do you get for step 2 (moles of H2)? Show me whatever you've got, even if it's rough."
+    },
+    {
+      "role": "user",
+      "text": "too long lol just bullets\n\nmoles h2 = 8.0/2.02 = 3.96?"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, 3.96 mol H2.\n\n- Ratio H2:H2O is 2:2, so 1:1 → 3.96 mol H2O\n- Molar mass H2O = 18.02 g/mol\n- 3.96 × 18.02 ≈ **71 g H2O**\n\nNext type is limiting reactant:\n- Convert each reactant to moles\n- Divide each by its coefficient\n- Smaller number = limiting\n- Use the limiting one for the answer\n\nWant to try one?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls but also can u make me a plan w times for today. like 1:30 to 2 and then after 5. i do my planner sunday nights so ill copy it in"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan you can copy into your planner:\n\n- **1:30–1:55** Practice: limiting reactant problem (below) plus review the 4 steps\n- **1:55–2:00** Pack up, head to the front desk\n- **2:00–5:00** Lotus Nails desk. If it's quiet, glance at your notes for 5 min, but no pressure\n- **5:30–5:50** Eat something first\n- **5:50–6:30** 4 mixed problems: grams to grams, then limiting reactant, then percent yield\n- **6:30–6:40** Mark what you missed so Monday's review is short\n- **Monday:** 20 min redo of the missed ones\n- **Tuesday before 11:00:** 10 min skim of the 4 steps\n\n**Your problem now:**\nN2 + 3H2 → 2NH3. You have 14.0 g N2 and 3.0 g H2. Which is limiting, and how many grams of NH3 can form?\n\nGive it a go."
+    },
+    {
+      "role": "user",
+      "text": "ok wait\n\nn2 = 14/28.02 = 0.50, h2 = 3.0/2.02 = 1.49 → /3 = 0.50. so tie?? 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work, you're nearly there. N2: 0.50 ÷ 1 = 0.50. H2: 1.49 ÷ 3 ≈ 0.495. H2 is a hair smaller, so it's technically limiting, but the amounts are basically in perfect ratio (both get used up). Either way:\n\n- Moles NH3 = 0.50 × 2 = ~1.0 mol (from N2) or 1.49 × 2/3 ≈ 0.99 mol (from H2)\n- Grams = ~0.99 × 17.03 ≈ **17 g NH3**\n\nOn the exam, a near-tie like this means you rounded; just pick H2 and show the work. Plan locked in for 1:30. Go!"
+    },
+    {
+      "role": "user",
+      "text": "ok that makes sense. thank u!! ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome! Eat something good, and good luck at the desk. You've got this for Tuesday."
+    }
+  ]
+}

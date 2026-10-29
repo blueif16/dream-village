@@ -1,0 +1,39 @@
+{
+  "id": "linh.s31",
+  "principal": "linh",
+  "start": "2025-09-27T16:54:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi! quick q.. whats the typical sodium and fat in a fried lumpia (pork one, small cocktail size). and does baking them change it much"
+    },
+    {
+      "role": "assistant",
+      "text": "Rough numbers for a small fried pork lumpia (about 20-25 g each):\n\n- Calories: ~60-80\n- Total fat: ~4-6 g (about 1-2 g saturated)\n- Sodium: ~90-160 mg, depending on the filling seasoning and dipping sauce (not included)\n\nBaking vs frying:\n- Baked (brushed or sprayed lightly with oil): fat drops roughly 25-40%, so ~2.5-4 g per roll\n- Sodium barely changes, since it comes from the filling (soy sauce, salt, seasoning), not the oil\n- Texture is a bit less blistered, but still crisp\n\nIf you tell me your recipe, I can estimate more precisely."
+    },
+    {
+      "role": "user",
+      "text": "ok thats helpful. its for a label for a friend so i wanna double check the numbers in Jun's sheet. he sold lumpia at the cafe counter this morning under Beatrice's deal and sold out by 11 lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, selling out by 11 is a great sign! Since you're checking a spreadsheet, here's how to verify the label numbers:\n\n- Weigh the whole batch of filling and wrappers raw, then count finished rolls to get grams per roll\n- Add up fat and sodium for each ingredient (pork, shrimp, soy sauce, salt, wrappers) from package labels or USDA data\n- Divide by number of rolls for the per-roll totals\n- Add oil absorbed in frying: usually ~1-2 g fat per small roll, which you can estimate by weighing the oil before and after\n- Sodium: don't forget soy sauce and any bouillon, they usually dominate\n\nIf you paste the numbers from the sheet, I can sanity check them."
+    },
+    {
+      "role": "user",
+      "text": "ok yes. also i opened at 6:30 today covering sams shift so he owes me two saturdays now 🫠\n\nso in the sheet it says 5.2g fat and 138mg sodium per roll for fried. but wait, does the sodium change depending on how much filling vs wrapper? bc the wrapper has some too right. and whats the saturated fat split, pork vs the frying oil. can u break it out per ingredient like a table"
+    },
+    {
+      "role": "assistant",
+      "text": "Those totals are plausible for a small fried roll. Yes, the wrapper has some sodium, usually ~20-40 mg per wrapper, so a roll with a thicker wrapper or less filling shifts the numbers.\n\nApproximate breakdown per small fried roll (estimates; swap in your recipe's real amounts):\n\n| Component | Fat (g) | Sat fat (g) | Sodium (mg) |\n|---|---|---|---|\n| Ground pork filling (~12 g) | 2.0-2.5 | 0.8-1.0 | 20-30 |\n| Seasoning (soy sauce, salt, garlic) | ~0 | 0 | 70-90 |\n| Veg (carrot, onion, etc.) | ~0 | 0 | 5-10 |\n| Wrapper | 0.3 | 0.1 | 20-40 |\n| Frying oil absorbed | 1.5-2.5 | 0.2-0.5 (depends on oil) | 0 |\n| Total | ~4-5.5 | ~1.1-1.7 | ~115-170 |\n\nSo 5.2 g fat and 138 mg sodium sit inside the range. Frying oil is mostly unsaturated if you use a vegetable oil, so the saturated fat mostly comes from the pork.\n\nBaked would cut the oil row to ~0.5-1 g, leaving sodium about the same.\n\nWant me to set this up as a template you can plug the real ingredient weights into?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. color coded if u can, fat in yellow and sodium in blue"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plug-in template. Paste it into a sheet and fill in the white cells:\n\n[Table: columns Ingredient | Grams in batch | Fat per 100 g | Sodium per 100 mg | Total fat | Total sodium | Per roll. Fat columns shaded yellow, sodium columns shaded blue. Bottom rows: Rolls per batch, Fat per roll (fried), Fat per roll (baked, oil absorbed reduced by ~60%), Sodium per roll, and a % daily value row for sodium using 2,300 mg.]\n\nFormulas:\n- Total fat = grams × fat per 100 g ÷ 100\n- Total sodium = grams × sodium per 100 g ÷ 100\n- Per roll = total ÷ rolls per batch\n- Baked fat = fried fat minus the oil-absorption row, plus ~0.5-1 g for the light oil brush\n\nTip: weigh a few finished rolls to get an accurate average, since label rounding rules allow a bit of variation."
+    }
+  ]
+}

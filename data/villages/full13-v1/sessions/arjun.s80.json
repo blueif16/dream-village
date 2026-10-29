@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s80",
+  "principal": "arjun",
+  "start": "2025-11-17T23:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok need a realistic plan for th rest of th week. its 11pm monday so yes i know"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. To make it realistic, what are the fixed things this week, and what do you need to get done? Tell me deadlines, classes or work, and what you'd like to fit in each night."
+    },
+    {
+      "role": "user",
+      "text": "ops mgmt group project slides are done except th summary page, due thursday. also just updated th spreadsheet down to 40 active targets so i want to fit like 2-3 applications each night, quality over volume. have a 6:48 train tmrw so i need to be in bed by midnight. be honest i will probably edit until 2 anyway 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan built around your deadline and a midnight bedtime. I'll also include a fallback for the nights you slip.\n\n**Monday (tonight)**\n- 11:10-11:30: Write a rough outline of the summary page (3-4 key findings, one takeaway). No polishing.\n- 11:30-11:50: Pick tomorrow's 2-3 applications from the spreadsheet so tomorrow is a quick start.\n- 11:50: Laptop closed, in bed by midnight for the 6:48.\n\n**Tuesday**\n- Before bed: Draft the full summary page (45 min).\n- Then 2 applications, tailored, from your list of 40.\n\n**Wednesday**\n- 30 min: Review and tighten the summary page, send it to your group for a look.\n- 2-3 applications.\n\n**Thursday (due day)**\n- Morning: Final fixes and submit before anything else.\n- Evening: 2 applications, then take it easy.\n\n**Friday**\n- Catch-up night for anything that slid. Update the spreadsheet.\n\n**Rules that help with the 2 a.m. habit**\n- Set a hard stop alarm at 11:45 p.m. that makes you close the laptop.\n- Decide each night's tasks in advance so you aren't choosing at midnight.\n- If you run over, cap it at 12:45 and push whatever's left to the next day. Your 6:48 train will cost you more than one unfinished application.\n\nWant me to turn this into a table you can paste somewhere?"
+    },
+    {
+      "role": "user",
+      "text": "yes table pls, shorter"
+    },
+    {
+      "role": "assistant",
+      "text": "| Day | Main task | Applications | Laptop off |\n|---|---|---|---|\n| Mon | Outline summary page | Pick tomorrow's 2-3 | 11:50 |\n| Tue | Draft summary page | 2 | 11:45 |\n| Wed | Tighten + send to group | 2-3 | 11:45 |\n| Thu | Final fixes, submit (due) | 2 | 11:30 |\n| Fri | Catch up, update spreadsheet | Whatever slid | 12:00 |\n\nGood luck tomorrow on the early train."
+    }
+  ]
+}

@@ -1,0 +1,348 @@
+{
+  "session_id": "thao.s09",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao packs leftover rice for her 2am meal on shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i pack it for my 2am meal on shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao makes thermoses of cà phê sữa đá, two on bad nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i make thermoses of cà phê sữa đá, two on bad nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is awake thinking about go-live on a night off",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm awake thinking about go-live",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's pantry bins are labeled and in order, yet she considers sorting by expiration date",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "my bins are already labeled but i'm wondering if sorting them by expiration date, soonest in front, is worth redoing",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's pantry bins are labeled and nothing is out of order",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.w3.n01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If they're labeled and nothing is out of order, probably not a full redo.",
+      "support_quote": "my bins are already labeled but i'm wondering if sorting them by expiration date, soonest in front, is worth redoing"
+    },
+    {
+      "text": "Thao packs rice for work",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f43",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "For packing for work: keep it in an insulated bag with an ice pack",
+      "support_quote": "i pack it for my 2am meal on shift"
+    },
+    {
+      "text": "Thao brings thermoses of coffee on shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Pop out a cube or two per thermos",
+      "support_quote": "i make thermoses of cà phê sữa đá, two on bad nights"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i05",
+      "present": true,
+      "quote": "my bins are already labeled but i'm wondering if sorting them by expiration date, soonest in front, is worth redoing"
+    },
+    {
+      "item_id": "thao.f43",
+      "present": true,
+      "quote": "i pack it for my 2am meal on shift"
+    },
+    {
+      "item_id": "thao.f11",
+      "present": true,
+      "quote": "i make thermoses of cà phê sữa đá, two on bad nights"
+    },
+    {
+      "item_id": "thao.r01",
+      "present": true,
+      "quote": "it's 2:39am and i'm awake thinking about go-live"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

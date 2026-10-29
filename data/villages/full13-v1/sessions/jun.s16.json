@@ -1,0 +1,39 @@
+{
+  "id": "jun.s16",
+  "principal": "jun",
+  "start": "2025-09-22T14:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss quick numbers stuff, typing this between rushes at the cafe lol. i buy spring roll wrappers by the case in aisle 6 at ruiz family market, how do i figure out cost per piece when its bulk"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. The basic formula is:\n\ncost per piece = total price paid ÷ number of pieces you actually get\n\nFor wrappers: price of the case ÷ wrappers per case (check the label for the count, since some cases list packs and each pack has a count).\n\nExample with made-up numbers: a $48 case with 10 packs of 25 wrappers = 250 wrappers. $48 ÷ 250 = about $0.19 per wrapper.\n\nTip: one lumpia usually uses one wrapper (or a half if you cut them), so decide that first. Want to send me the case price and count?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually i also need the whole thing per lumpia not just wrappers, filling too. and every time i buy a case it kinda eats into the business money so i wanna know it makes sense lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Totally. Here's the full-cost method:\n\n1. Add up the cost of everything in one batch: wrappers used, meat, shrimp, veggies, oil, dips, anything else.\n2. Count how many finished lumpia the batch makes.\n3. Divide batch cost by finished count.\n\nFor items bought in bulk, only count what you actually used. So if a case has 250 wrappers and a batch uses 100, charge the batch 100 × the per-wrapper cost, not the whole case.\n\nTwo extras: add a little for waste (torn wrappers, burnt ones, usually 5 to 10%), and keep a running tally of what's left from each case so you can see when you really need to buy again. That also helps you judge whether a bulk buy is worth tying up cash in."
+    },
+    {
+      "role": "user",
+      "text": "nice. my moms coworkers keep ordering dozens too so i gotta know what to charge for those. like how do i go from cost per piece to a price"
+    },
+    {
+      "role": "assistant",
+      "text": "Easy way: take your full cost per lumpia and multiply by 2 to 3 for a starting price, depending on how much time and effort goes in.\n\nSteps:\n1. Cost per lumpia (from above), say [your cost].\n2. Multiply by your markup, e.g. 2.5.\n3. Multiply by 12 for a dozen price, then round to a clean number.\n\nExample with made-up numbers: $0.55 cost × 2.5 = about $1.38 each, so ~$16.50 a dozen, round to $16 or $17.\n\nSince those are repeat orders, you could do a small discount for a dozen versus a half dozen. Just make sure it still covers your cost plus your time. Send me your real numbers and I'll run it for you."
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥 ok actually can u give me that as a short checklist, break is almost over"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick checklist:\n\n☐ Case price ÷ wrappers per case = cost per wrapper\n☐ Add filling, oil, dips for one batch (only what you used)\n☐ Add 5-10% for waste\n☐ Batch cost ÷ finished lumpia = cost per lumpia\n☐ × 2 to 3 = price each\n☐ × 12 = dozen price, then round\n☐ Track what's left from each case\n\nGood luck with the rest of your shift!"
+    }
+  ]
+}

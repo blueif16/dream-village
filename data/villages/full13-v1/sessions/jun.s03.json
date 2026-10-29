@@ -1,0 +1,39 @@
+{
+  "id": "jun.s03",
+  "principal": "jun",
+  "start": "2025-08-30T14:10:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need a menu flyer for lola's roll, its for the counter at heron & grind. my phone is cracked and basically dead so i need something i can finish fast 🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Let me get the essentials so you can wrap this up quickly: what's on the menu, what's the price, and any line you want on it?"
+    },
+    {
+      "role": "user",
+      "text": "main thing is lumpiang shanghai with pork and shrimp, comes with sweet chili and spiced vinegar dips. name is Lola's Roll and i want a little line that its named for my grandmother"
+    },
+    {
+      "role": "assistant",
+      "text": "Lovely. Do you have a price in mind? Also, do you want a contact or Instagram handle on it?"
+    },
+    {
+      "role": "user",
+      "text": "price is the thing lol. i checked joan's commissary this afternoon, its $28 an hour with a 3 hour minimum so i need the price to actually cover that. thinking $10 for a half dozen? also gotta ask beatrice if i can put it by the counter, hopefully she says yes 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick math: the 3-hour minimum at $28 an hour is $84 for kitchen time alone, before wrappers, pork and shrimp. At $10 per half dozen you'd need to sell about 9 half dozens (roughly 50 lumpia) just to cover the kitchen. So $10 works if you're making a decent batch, and it leaves room for ingredients if you go bigger. Here's the flyer:\n\n[Image: A warm cream flyer with a hand-drawn stack of golden lumpia at the top. Large red headline: \"Lola's Roll\". Subtitle in smaller script: \"Named for my grandmother, made with her love.\" Center: \"Lumpiang Shanghai, pork & shrimp, crispy-fried.\" Below, two small dip icons labeled \"Sweet chili\" and \"Spiced vinegar\". A bold price badge: \"$10 / half dozen\". Bottom strip: \"Ask at the counter!\" with space for your Instagram handle.]\n\nIt's simple enough to print as is. When you ask your boss about the counter spot, I can also write a short, friendly note for her."
+    },
+    {
+      "role": "user",
+      "text": "ok actually can you make the grandmother line warmer and shorter. battery is at like 3%"
+    },
+    {
+      "role": "assistant",
+      "text": "Done: [Image: Same flyer, with the subtitle changed to \"Named for my Lola, made with love.\" in a softer script, everything else unchanged.] Save it now before your battery dies!"
+    }
+  ]
+}

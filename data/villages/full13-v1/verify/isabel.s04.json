@@ -1,0 +1,348 @@
+{
+  "session_id": "isabel.s04",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel is registered for the Oct 4 SAT at Tamsen Valley College",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im registered for the oct 4 sat at tamsen valley college",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel's tutor runs Saturday library sessions and she plans 2 practice sections a week",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my tutor runs saturday library sessions and im planning 2 practice sections a week on top",
+      "support_quote": ""
+    },
+    {
+      "text": "Harper makes students time every section with a kitchen timer",
+      "about": "harper",
+      "kind": "fact",
+      "item_id": "isabel.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she makes us time every section with a kitchen timer",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel complains about the nothing town but cares about egret nesting at Ulloa",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its like 90 at midnight in this nothing town. wait random but does heat actually mess with egret nesting at ulloa",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel has about five weeks until the SAT",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With about five weeks, here's a focused plan:",
+      "support_quote": "im registered for the oct 4 sat at tamsen valley college"
+    },
+    {
+      "text": "Isabel plans two weekly practice sections",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Keep your two weekly sections on a schedule",
+      "support_quote": "im planning 2 practice sections a week on top"
+    },
+    {
+      "text": "Isabel has Saturday timed sessions with the tutor",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Saturday session timed with the tutor",
+      "support_quote": "my tutor runs saturday library sessions"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.i03",
+      "present": true,
+      "quote": "its like 90 at midnight in this nothing town. wait random but does heat actually mess with egret nesting at ulloa"
+    },
+    {
+      "item_id": "isabel.f09",
+      "present": true,
+      "quote": "im registered for the oct 4 sat at tamsen valley college so what should i fix by then"
+    },
+    {
+      "item_id": "isabel.f56",
+      "present": true,
+      "quote": "she makes us time every section with a kitchen timer so make it fit the clock"
+    },
+    {
+      "item_id": "isabel.f10",
+      "present": true,
+      "quote": "my tutor runs saturday library sessions and im planning 2 practice sections a week on top"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

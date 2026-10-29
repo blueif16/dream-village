@@ -1,0 +1,363 @@
+{
+  "session_id": "jun.s47",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Jun's standing Friday 5-9 block at the commissary just ended",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my friday 5-9 block at the commissary just ended",
+      "support_quote": ""
+    },
+    {
+      "text": "Joan's fryer rule is a shared term for the commissary penalty",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Joan's fryer rule is no joke lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Paolo helped roll and fry and handles market setup Sunday",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "paolo helped roll and fry tonight which was nice, he's doing the market setup sunday",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess keeps coworker orders on a fridge list",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom Tess keeps the coworker orders on a list on the fridge",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun has a canopy for Sunday's stall",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "for the stall sunday, what weights for the canopy",
+      "support_quote": ""
+    },
+    {
+      "text": "Paolo is handling Sunday market setup",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "jun.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice that you've got help for Sunday.",
+      "support_quote": "he's doing the market setup sunday"
+    },
+    {
+      "text": "Jun's orders are by the dozen with a fridge pickup list",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "which matches your orders",
+      "support_quote": "my mom Tess keeps the coworker orders on a list on the fridge"
+    },
+    {
+      "text": "Jun has a stall Sunday",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Good luck Sunday!",
+      "support_quote": "for the stall sunday, what weights for the canopy"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.r02",
+      "present": true,
+      "quote": "Joan's fryer rule is no joke lol"
+    },
+    {
+      "item_id": "jun.f16",
+      "present": true,
+      "quote": "my friday 5-9 block at the commissary just ended"
+    },
+    {
+      "item_id": "jun.f51",
+      "present": true,
+      "quote": "my mom Tess keeps the coworker orders on a list on the fridge so a lot of these are for pickup"
+    },
+    {
+      "item_id": "jun.f55",
+      "present": true,
+      "quote": "paolo helped roll and fry tonight which was nice, he's doing the market setup sunday"
+    },
+    {
+      "item_id": "jun.f33",
+      "present": true,
+      "quote": "for the stall sunday, what weights for the canopy and how do i keep it dry if it drizzles"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

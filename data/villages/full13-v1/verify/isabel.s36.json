@@ -1,0 +1,117 @@
+{
+  "session_id": "isabel.s36",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has AP Chem review, APUSH chapters to do",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have ap chem review, apush chapters and the mom sheet numbers to get through",
+      "support_quote": ""
+    },
+    {
+      "text": "Robotics at C7 on Thursday takes her afternoon",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thursday is c7 and that eats everything",
+      "support_quote": ""
+    },
+    {
+      "text": "Alarm at 6:50, usually up till 1",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "alarm is 6:50 and im usually up till 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Working on the Mom sheet numbers",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the mom sheet numbers to get through",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants no sleep lecture, just the schedule",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just the schedule, no sleep lecture",
+      "support_quote": ""
+    },
+    {
+      "text": "Robotics at C7 takes Thursday afternoon",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since robotics at C7 takes the afternoon",
+      "support_quote": "thursday is c7 and that eats everything"
+    },
+    {
+      "text": "Has Mom sheet numbers to work on",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Mom sheet numbers",
+      "support_quote": "the mom sheet numbers to get through"
+    },
+    {
+      "text": "Has AP Chem and APUSH work",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "9:30-10:30: AP Chem review",
+      "support_quote": "i have ap chem review, apush chapters and the mom sheet numbers to get through"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f02",
+      "present": true,
+      "quote": "i have ap chem review, apush chapters and the mom sheet numbers to get through"
+    },
+    {
+      "item_id": "isabel.f16",
+      "present": true,
+      "quote": "robotics isnt today so i had the library all afternoon but thursday is c7 and that eats everything"
+    },
+    {
+      "item_id": "isabel.f33",
+      "present": true,
+      "quote": "alarm is 6:50 and im usually up till 1 so dont build it around 8 hrs of sleep lol"
+    },
+    {
+      "item_id": "isabel.r03",
+      "present": true,
+      "quote": "the mom sheet numbers to get through"
+    },
+    {
+      "item_id": "isabel.i07",
+      "present": true,
+      "quote": "just the schedule, no sleep lecture"
+    }
+  ],
+  "sensitive": []
+}

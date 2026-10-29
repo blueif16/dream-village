@@ -1,0 +1,31 @@
+{
+  "id": "thao.s17",
+  "principal": "thao",
+  "start": "2025-09-29T15:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's almost 4 and i'm up. my boyfriend Tomás moves in tomorrow, wednesday is when things settle but tonight is the night before. i work mon/tue/wed/sat nights this stretch so i'm on shift tomorrow night too. need a short plan for tonight + a little care package for him, and quiet hours setup so my sleep is protected. i sleep 8:30 to 3 with blackout curtains and the box fan. ok but realistically keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick plan, built around your 8:30-3 sleep window and four nights a week.\n\n**Tonight (before he arrives)**\n- Clear one shelf in the fridge and one drawer or closet section for Tomás.\n- Wash a set of sheets so the bed is ready.\n- Pack your shift bag and thermos now so you're not rattling around tomorrow.\n\n**Care package (cheap, 10 min)**\n- Spare key on a tag\n- A pair of earplugs\n- Snacks he likes plus a bottle of water\n- Sticky note with wifi password and where the trash goes\n\n**Quiet-hours setup**\n- Agree on 8:30 a.m.-3 p.m. as quiet after your shifts: no vacuum, no speakerphone, shoes off in the hall.\n- Put a small sign or a text-me rule on the bedroom door.\n- Keep blackout curtains and the box fan as is.\n- Since you work Mon/Tue/Wed/Sat, put those nights on a shared calendar so he knows which mornings are quiet ones.\n\nWant a one-line version for the sticky note?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also the baby next door cries thru the 207/209 wall, i wear earplugs and white noise. i made a white noise + soothing playlist for the parents there. can i make it more useful than just a link to them?"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, turn it into a small ready-to-use kit.\n\n**Sticky note for Tomás:** \"Quiet 8:30-3 after her shifts. Shoes off, low volume, text don't call. Thanks!\"\n\n**Making the playlist practical for your neighbors**\n- Split it into two: a 45-minute nap playlist and a 3-hour overnight loop, so they can press play without picking.\n- Name them plainly, like \"Nap\" and \"Overnight\".\n- Keep tracks gapless and with no ads, and note the best volume so it masks sound without being loud.\n- Add a QR code on a small card so they can scan it with one hand. Put it on their door with a short note: \"Hope this helps with sleep. No need to reply.\"\n- Optional: a pair of foam earplugs or a cheap sound machine setting suggestion in the card.\n\nI can draft the card text if you'd like."
+    },
+    {
+      "role": "user",
+      "text": "draft it, 2 lines"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Two playlists for naps and nights, scan and press play. Hope you all get some sleep. No need to reply! - [your name], next door\""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "jun.s46",
+  "principal": "jun",
+  "start": "2025-11-20T05:18:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "boss i need a chalkboard note for the cafe before the rush, opening in like 40 min. the cortado got retuned. new bean blend, i dialed the grind and dose in this morning after a regular said it tasted flat yesterday. want the board to say its been dialed in 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Here's a chalkboard-sized option:\n\n**The cortado is back, dialed in.**\nNew blend, fresh grind, a little more dose.\nSmooth, sweet, nothing flat about it.\nTry one. ☕\n\nIf you tell me the actual dose and grind change, I can add it to the tasting card. Want a tasting-card blurb too?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. ok so ive been on the espresso bar three years so i know how it should taste, ive been pulling double ristretto tests with no milk between rushes to judge it. its sweet, caramel-ish, bit of dark chocolate at the end. dose went up a gram, grind a touch finer"
+    },
+    {
+      "role": "assistant",
+      "text": "Great details. Tasting card:\n\n**The Cortado: Retuned**\nEqual parts espresso and steamed milk, built on our new blend. Ground a touch finer and dosed a gram heavier, so the espresso holds up against the milk.\nTastes like: caramel sweetness, a bit of dark chocolate on the finish.\n\nShort version for the chalkboard, if space is tight:\n**Cortado, dialed in. Caramel, dark chocolate, zero flat.**"
+    },
+    {
+      "role": "user",
+      "text": "ok actually make the board one warmer, like less ad-y. and shorter. i open again today so i gotta get it up before 6:15"
+    },
+    {
+      "role": "assistant",
+      "text": "Warmer and shorter:\n\n**We retuned the cortado.**\nNew blend, dialed in by hand.\nCome taste the difference. ☕\n\nOr even simpler:\n**Cortado, dialed in just right. Say hi and try one.**\n\nBoth fit on a few chalk lines. Good luck with the rush!"
+    }
+  ]
+}

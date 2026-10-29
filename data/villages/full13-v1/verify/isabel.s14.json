@@ -1,0 +1,97 @@
+{
+  "session_id": "isabel.s14",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel has a crush on Lucas but considers him her rival",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do have a crush on him but that doesnt change that",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel worked on a drivetrain in C7 on Tuesday with Lucas",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i was thinking about the drivetrain we put together in C7 on tuesday",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel competes with Lucas over designs",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i think mine handles torque better, wanna compare numbers thursday",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is gentle and attentive to the kid she tutors",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the kid i tutor said hes just dumb at math again. what do i say that isnt cheesy",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel tutors a seventh grader",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f60",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "seventh grade.",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel wants Lucas message not flirty, he is her rival",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f46",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Got it, so the goal is purely about the robot.",
+      "support_quote": "hes my rival. i do have a crush on him"
+    },
+    {
+      "text": "Isabel meets Lucas for robotics in C7 on Tuesday/Thursday",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Want to compare numbers Thursday in C7?",
+      "support_quote": "i was thinking about the drivetrain we put together in C7 on tuesday"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f46",
+      "present": true,
+      "quote": "i do have a crush on him but that doesnt change that, so it cant sound flirty AT ALL"
+    },
+    {
+      "item_id": "isabel.i05",
+      "present": true,
+      "quote": "the kid i tutor said hes just dumb at math again. what do i say that isnt cheesy"
+    },
+    {
+      "item_id": "isabel.f16",
+      "present": true,
+      "quote": "i was thinking about the drivetrain we put together in C7 on tuesday"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,127 @@
+{
+  "session_id": "thao.s44",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao is going to the dentist at Plaza Marisol",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm walking into the dentist at plaza marisol in a min",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh calls at 1 p.m. mid-sleep and leaves long Vietnamese voicemails",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she calls at 1pm when im mid sleep and leaves long vietnamese voicemails",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's voicemail greeting says to text her",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f13",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my voicemail greeting already says to text me",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao attends Sunday dinner at Hạnh's Pell Road house",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll see her at sunday dinner at her pell road house",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao avoids calls and ignores voicemails but answers texts right away",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm not gonna listen to them",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is asleep at 1 when Hạnh calls",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm usually asleep at 1 when you call",
+      "support_quote": "she calls at 1pm when im mid sleep"
+    },
+    {
+      "text": "Thao's greeting says to text her",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f13",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "My greeting says to text me",
+      "support_quote": "my voicemail greeting already says to text me"
+    },
+    {
+      "text": "Thao will see Hạnh at Sunday dinner at her house",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "See you at Sunday dinner at your house!",
+      "support_quote": "i'll see her at sunday dinner at her pell road house"
+    },
+    {
+      "text": "Thao is at the dentist",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck at the dentist!",
+      "support_quote": "i'm walking into the dentist at plaza marisol in a min"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "she calls at 1pm when im mid sleep and leaves long vietnamese voicemails"
+    },
+    {
+      "item_id": "thao.f13",
+      "present": true,
+      "quote": "my voicemail greeting already says to text me"
+    },
+    {
+      "item_id": "thao.f35",
+      "present": true,
+      "quote": "i'll see her at sunday dinner at her pell road house"
+    },
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "i'm not gonna listen to them"
+    },
+    {
+      "item_id": "thao.f41",
+      "present": true,
+      "quote": "it's 3:31 and i'm walking into the dentist at plaza marisol in a min"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,367 @@
+{
+  "principal": "marcus",
+  "week": 2,
+  "entries": [
+    {
+      "id": "marcus.w2.l01",
+      "date": "2025-09-01",
+      "what": "Labor Day: Marcus works his Sunday-night shift into Monday morning at Ridgeline RF-4, picking totes on the general pick floor at holiday time-and-a-half. Carla walks the floor more than usual.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Finished the shift with a bigger check coming.",
+      "feeling": "tired but pleased",
+      "facts": [
+        "marcus.f03",
+        "marcus.f04",
+        "marcus.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l02",
+      "date": "2025-09-01",
+      "what": "Rides the bike home from Ridgeline past families setting up picnics at Delgado Park, eats eggs and rice, and sleeps 8 a.m. to 1 p.m. while the college is closed.",
+      "with": [],
+      "outcome": "Full sleep, no class today.",
+      "feeling": "wiped, content",
+      "facts": [
+        "marcus.f08",
+        "marcus.f17",
+        "marcus.f36",
+        "marcus.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l03",
+      "date": "2025-09-01",
+      "what": "Evening at the Marisol Gardens unit with Arjun, who talks about internship applications; Marcus pays his rent share portal reminder and heads out to the 10 p.m. shift.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Rent share paid via the portal.",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f10",
+        "marcus.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l04",
+      "date": "2025-09-02",
+      "what": "After the night shift Marcus sleeps 8 a.m. to 1 p.m., then skips the gym and goes over Fatima's shared Ex Phys notes before the week's classes.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Caught up on Monday's missed lecture notes.",
+      "feeling": "groggy",
+      "facts": [
+        "marcus.f55",
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l05",
+      "date": "2025-09-02",
+      "what": "At Ridgeline, Noemi's help desk swaps a dead scanner for him, and new tech Bao Tran is shadowing her on his first day.",
+      "with": [
+        "noemi",
+        "bao"
+      ],
+      "outcome": "Got a working scanner and kept rate.",
+      "feeling": "relieved",
+      "facts": [
+        "cast.f125",
+        "marcus.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l06",
+      "date": "2025-09-02",
+      "what": "Reads the breakroom board at 9:40 p.m. for his dock assignment, then clocks in at 10 with Trevor beside him on the floor.",
+      "with": [
+        "jose",
+        "trevor"
+      ],
+      "outcome": "Assigned the general pick floor again.",
+      "feeling": "routine",
+      "facts": [
+        "marcus.f56",
+        "marcus.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l07",
+      "date": "2025-09-03",
+      "what": "Back from the night shift, sleeps until 1, then takes the Tule Line to Bayshore for the 2 p.m. section, nodding off in Biomechanics.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Fatima shares her notes after class.",
+      "feeling": "half-awake",
+      "facts": [
+        "marcus.f02",
+        "marcus.f24",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l08",
+      "date": "2025-09-03",
+      "what": "Quick call with his mom Denise on the train home about her week at the drugstore; she says she is fine.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "Marcus hung up unsure she is telling him everything.",
+      "feeling": "worried",
+      "facts": [
+        "marcus.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l09",
+      "date": "2025-09-03",
+      "what": "Heads to Ridgeline for the night shift, listening to old-school West Coast rap in one earbud while picking.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Hit rate without trouble.",
+      "feeling": "focused",
+      "facts": [
+        "marcus.f43",
+        "marcus.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l10",
+      "date": "2025-09-04",
+      "what": "Sleeps after shift, then goes to the 2 p.m. Thursday section at Bayshore and the Stats 120 lecture.",
+      "with": [],
+      "outcome": "Stats material went over his head; wrote down questions.",
+      "feeling": "behind",
+      "facts": [
+        "marcus.f02",
+        "marcus.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l11",
+      "date": "2025-09-04",
+      "what": "Quick dinner of leftover rice and chicken at home; Arjun suggests he go to bed earlier and Marcus brushes it off.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Said he would handle it himself.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l12",
+      "date": "2025-09-04",
+      "what": "Thursday night shift at Ridgeline; Trevor complains about rate again while Marcus keeps his phone on a power bank-less battery that dies before 4 a.m.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Phone dead by 4 a.m. again.",
+      "feeling": "annoyed",
+      "facts": [
+        "marcus.f30",
+        "marcus.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l13",
+      "date": "2025-09-05",
+      "what": "Payday Friday: after shift Marcus gets a Taquería Colima burrito on Calle Ortega, then sleeps. Ridgeline pays biweekly on Fridays.",
+      "with": [],
+      "outcome": "Paycheck landed; burrito treat.",
+      "feeling": "good",
+      "facts": [
+        "marcus.f15",
+        "marcus.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l14",
+      "date": "2025-09-05",
+      "what": "Lifts at Iron Flats Fitness in the early evening with Mike's 5/3/1 program, working toward his deadlift goal.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Solid session, kept his deadlift at 375.",
+      "feeling": "strong",
+      "facts": [
+        "marcus.f20",
+        "marcus.f57",
+        "marcus.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l15",
+      "date": "2025-09-05",
+      "what": "Stays home during the Egrets home opener that draws half the town to the stadium, and texts Jade about her day off before his shift.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Jade was a bit short with him about his schedule.",
+      "feeling": "guilty",
+      "facts": [
+        "marcus.f45",
+        "marcus.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l16",
+      "date": "2025-09-06",
+      "what": "Finishes the night shift; Carla hands out conchas to the crew as she does on Saturdays.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Free concha, shift ended on time.",
+      "feeling": "cheerful",
+      "facts": [
+        "cast.f49"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l17",
+      "date": "2025-09-06",
+      "what": "Sleeps until early afternoon, then a lift at Iron Flats Fitness and groceries at Ruiz Family Market.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Stocked up for the next day's prep.",
+      "feeling": "productive",
+      "facts": [
+        "marcus.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l18",
+      "date": "2025-09-06",
+      "what": "Saturday evening date with Jade at Phở Bến Thành, trying to make up for last night's tension.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Good night; Jade laughed at his jokes.",
+      "feeling": "relieved",
+      "facts": [
+        "marcus.f45",
+        "marcus.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l19",
+      "date": "2025-09-07",
+      "what": "Messages the assistant right after his shift at 7 a.m. asking for a cheap high-protein meal prep list for the week, since he can't keep eating random meals.",
+      "with": [],
+      "outcome": "Got a chicken-and-rice prep list.",
+      "feeling": "motivated",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": [
+        "marcus.i06"
+      ]
+    },
+    {
+      "id": "marcus.w2.l20",
+      "date": "2025-09-07",
+      "what": "Sleeps, then cooks his first Sunday chicken-and-rice batch into five containers in the Marisol Gardens kitchen.",
+      "with": [],
+      "outcome": "Five containers stacked in the fridge.",
+      "feeling": "proud",
+      "facts": [
+        "marcus.f37",
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w2.l21",
+      "date": "2025-09-07",
+      "what": "Quiet evening with Arjun before heading out to a Sunday-night shift at Ridgeline.",
+      "with": [
+        "arjun",
+        "trevor"
+      ],
+      "outcome": "Week starts with food ready.",
+      "feeling": "settled",
+      "facts": [
+        "marcus.f04"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w2.n01",
+      "subject": "marcus",
+      "attribute": "favorite_prep_seasoning",
+      "value": "uses garlic powder and smoked paprika on his chicken",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w2.n02",
+      "subject": "marcus",
+      "attribute": "phone_charger",
+      "value": "keeps a spare charger in his Ridgeline locker",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w2.n03",
+      "subject": "marcus",
+      "attribute": "deadlift_session",
+      "value": "held 375 lb on Friday evening session",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w2.n04",
+      "subject": "marcus",
+      "attribute": "holiday_pay",
+      "value": "earned time-and-a-half for working Labor Day",
+      "valid_from": "2025-09-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.w2.n05",
+      "subject": "marcus",
+      "attribute": "date_plan",
+      "value": "Saturday dinner with Jade at Phở Bến Thành on Sept 6",
+      "valid_from": "2025-09-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

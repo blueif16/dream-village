@@ -1,0 +1,117 @@
+{
+  "session_id": "marcus.s39",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thanksgiving is at his mom's duplex and he is bringing mac and cheese",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f44",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thanksgiving is at my moms duplex and im bringing mac and cheese",
+      "support_quote": ""
+    },
+    {
+      "text": "Denise calls his money loans and writes them in a notebook",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": "marcus.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she calls my money loans and writes it all in a notebook",
+      "support_quote": ""
+    },
+    {
+      "text": "He has section Wednesday 2-5:15",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got section wed 2-5:15 today",
+      "support_quote": ""
+    },
+    {
+      "text": "He got only about 4 hours of sleep after shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "only got like 4 hrs after shift",
+      "support_quote": ""
+    },
+    {
+      "text": "He quietly covers his mom's groceries without her knowing the cost",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also dont want her to know what it costs me",
+      "support_quote": ""
+    },
+    {
+      "text": "His mom is at work most days",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "shes at work most days",
+      "support_quote": ""
+    },
+    {
+      "text": "He has class today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since you'll be in class today",
+      "support_quote": "i got section wed 2-5:15 today so cant do it then"
+    },
+    {
+      "text": "He is bringing mac and cheese for Thanksgiving",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f44",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "see you with the mac and cheese.'",
+      "support_quote": "im bringing mac and cheese"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i02",
+      "present": true,
+      "quote": "i wanna buy the turkey sides and canned goods and just drop em off without her making a thing of it"
+    },
+    {
+      "item_id": "marcus.f44",
+      "present": true,
+      "quote": "thanksgiving is at my moms duplex and im bringing mac and cheese"
+    },
+    {
+      "item_id": "marcus.f49",
+      "present": true,
+      "quote": "she calls my money loans and writes it all in a notebook lol so i dont want this in there"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i got section wed 2-5:15 today so cant do it then"
+    },
+    {
+      "item_id": "marcus.f09",
+      "present": true,
+      "quote": "only got like 4 hrs after shift"
+    }
+  ],
+  "sensitive": []
+}

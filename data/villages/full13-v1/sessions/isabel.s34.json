@@ -1,0 +1,31 @@
+{
+  "id": "isabel.s34",
+  "principal": "isabel",
+  "start": "2025-11-01T00:31:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so curfew is back to 10 on weekends. ramon talked grace into it, so no more 9 like after the street fair. i want to actually use it well this weekend and not blow it"
+    },
+    {
+      "role": "assistant",
+      "text": "Good news on getting the later curfew back. To build a useful plan I need a few things: what's already fixed this weekend (homework, tutoring, family stuff), what you want to get done, and what the egret count prep involves. Give me the rough picture and I'll sort it into a schedule."
+    },
+    {
+      "role": "user",
+      "text": "egret count is saturday nov 15 at 7am at the boardwalk trailhead. i need to scout spots before then and nadia can give me a ride in the beige sedan. genuinely this town is a nothing place but the marsh is fine i guess. also i want the plan as a bare list. and no talk-to-your-parents lecture pls, i did that part already"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the bare list:\n\n**This weekend (home by 10 p.m.)**\n- Sat morning: finish the count spreadsheet. Columns: date, spot, tide time, start time, notes, counts from last year.\n- Sat afternoon: scout 2-3 spots with Nadia in the sedan. Photograph each one and note which have a clear view.\n- Sat evening: log scouting notes. Be home by 10.\n- Sun: enter last year's tally numbers from your notebook. Leave a free block for homework.\n\n**Spreadsheet setup**\n- Header: Count day, Sat Nov 15, start 7:00 a.m., boardwalk trailhead\n- Rows: each spot, tide time that morning, walking order, and a backup spot if the trail is wet\n- Check tide tables for Nov 15 and add high and low times\n\n**Before the 15th**\n- Charge your phone and pack the notebook\n- Confirm Nadia's ride for the early start\n\nWant me to draft the sheet layout as a table?"
+    },
+    {
+      "role": "user",
+      "text": "yes the table. short version"
+    },
+    {
+      "role": "assistant",
+      "text": "| Spot | Tide time (Nov 15) | Arrive by | Last year's count | Scouted? | Notes |\n|---|---|---|---|---|---|\n| Boardwalk trailhead | [add] | 7:00 a.m. | [add] | | Start point |\n| [Spot 2] | [add] | [add] | [add] | | |\n| [Spot 3] | [add] | [add] | [add] | | |\n| Backup (dry) | [add] | [add] | [add] | | If trail floods |\n\nFill in tide times from a tide table and the counts from your notebook."
+    }
+  ]
+}

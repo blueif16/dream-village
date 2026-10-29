@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s02",
+  "principal": "arjun",
+  "start": "2025-08-26T12:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hey quick q. how do recruiters at 3PL and freight companies usually screen summer intern apps? im going for summer 2026 supply chain or transportation analyst internships, bay area"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. At 3PLs, freight brokerages and carriers, screening usually goes like this:\n\n1. **ATS filter**: Most applications go through an applicant tracking system first. It checks keywords (Excel, SQL, TMS, route optimization, inventory, KPIs), graduation date, and work authorization.\n2. **Recruiter skim**: Roughly 20-40 seconds on your resume. They look for your major, GPA if it's strong, relevant projects, and any operations or customer-facing work.\n3. **Hiring manager review**: Resumes that pass get forwarded to the team, often with a short list.\n4. **Phone or video screen**: 15-30 minutes covering your background, why logistics, and basic situational questions. Some send an Excel or case exercise.\n5. **Final round**: Usually a virtual panel or one on-site day.\n\nWhat gets you through: quantified bullets (cost saved, time cut, volume handled), tools you've used, and a clear reason for choosing that company.\n\nTiming: big companies post early and often fill by fall, with replies in 2-6 weeks. Smaller 3PLs and brokerages move faster, sometimes 1-2 weeks, or hire in the spring. Many send nothing unless you advance, so silence for a month is common."
+    },
+    {
+      "role": "user",
+      "text": "ok thats helpful. my tracker is at 63 apps rn and no replies yet so i have nothing to compare against. how long should i wait before calling it a no"
+    },
+    {
+      "role": "assistant",
+      "text": "With 63 applications and no replies yet, you're still inside the normal window, especially for summer 2026 roles posted this early. A rough rule of thumb:\n\n- **Up to 2 weeks**: nothing to read into.\n- **2-4 weeks**: normal for larger companies. Keep waiting.\n- **4-6 weeks**: likely a no or a pause, unless the posting says rolling review. A short follow-up email to the recruiter is fine here.\n- **6+ weeks**: treat it as a no and move on, but don't withdraw. Roles sometimes reopen.\n\nTwo tips: check whether each posting is rolling or has a deadline, since rolling roles reward applying early, and follow up once, politely, 2 weeks after applying if you can find a recruiter or alum contact. Keep it to two or three lines."
+    },
+    {
+      "role": "user",
+      "text": "nice, ima add that to th spreadsheet as a new column. th wait window or smth"
+    },
+    {
+      "role": "assistant",
+      "text": "Good idea. Here's a simple setup for the new column:\n\n| Column | What to put in it |\n|---|---|\n| Date applied | The submission date |\n| Rolling or deadline | Which type the posting is |\n| Follow-up date | Date applied + 14 days |\n| Call it a no | Date applied + 6 weeks |\n| Status | Waiting, Follow-up sent, Screen, Closed |\n\nYou can use a formula like =C2+14 for the follow-up date and =C2+42 for the cutoff. Conditional formatting that turns a row yellow at the follow-up date and gray at the cutoff makes it easy to scan. Want me to write a follow-up email template too?"
+    }
+  ]
+}

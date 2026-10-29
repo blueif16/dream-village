@@ -1,0 +1,86 @@
+{
+  "impression_id": "grace.i04",
+  "evidence_sessions": [
+    "grace.s04",
+    "grace.s07",
+    "grace.s10",
+    "grace.s12"
+  ],
+  "inferred": [
+    {
+      "statement": "Grace wants terse, numbered, step-by-step answers and repeatedly asks for short replies, with figures before commentary.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s07",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "She verifies numbers herself and wants evidence before decisions, running her own net-price calculators and holding off on net costs until Isabel brings real aid figures.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s07",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Money is a persistent, careful worry: she budgets tightly, hunts small savings such as 30 cents a gallon, and stress-tests scenarios like Ramón being hurt or out of work, her mother needing care, or the furnace failing.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s07",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "Her family responsibilities shape her planning: she fits her schedule around her mother's care, plans Isabel's college around Ramón's situation, and sets rules for Isabel.",
+      "strength": "strong",
+      "sessions": [
+        "grace.s04",
+        "grace.s07",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "She relaxes limits only against written, concrete commitments, such as Isabel's one-page plan for the curfew, and wants her setup to match the paper exactly.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "She readily pastes her license number into chats despite the assistant's cautions, which suggests low wariness about sharing sensitive ID details.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s10",
+        "grace.s12"
+      ]
+    },
+    {
+      "statement": "She is a teacher who makes her own tools, building a spreadsheet to replace hand-filled forms, and she keeps workplace actions low-key by holding the draft and not sending it to the office.",
+      "strength": "weak",
+      "sessions": [
+        "grace.s04"
+      ]
+    },
+    {
+      "statement": "She is polite and warm in closing, often thanking the assistant with 'Salamat' even when curt.",
+      "strength": "moderate",
+      "sessions": [
+        "grace.s04",
+        "grace.s07",
+        "grace.s10"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "She verifies numbers herself and wants evidence before decisions, running her own net-price calculators and holding off on net costs until Isabel brings real aid figures.",
+  "rationale": "The intended trait is that Grace softens on Isabel's out-of-state college dream only when shown evidence rather than argument. The closest inference says she wants evidence before decisions and holds off on net costs until Isabel brings real aid figures. That covers evidence-driven decisions generally and touches the college context, but it never says she softens on the out-of-state dream. A separate statement on curfew commitments is a different topic."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s20",
+  "principal": "arjun",
+  "start": "2025-09-15T23:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so i got handed the cost model piece for case comp at midnight basically. team of four, its nov 8 at bayshore. what do judges actually look for in these"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting a defined piece. Judging varies by event, but regional supply-chain case competitions usually score on:\n\n1. **Analytical rigor**: are the numbers right, and are assumptions explicit and defensible?\n2. **Recommendation quality**: a clear, actionable answer, not just analysis.\n3. **Feasibility**: can the company implement it (timeline, risk, capacity)?\n4. **Financial impact**: cost savings or ROI, with payback period.\n5. **Presentation and Q&A**: clarity, teamwork, handling tough questions.\n6. **Creativity**: a differentiated idea grounded in the data.\n\nFor the cost model specifically, judges tend to reward transparency: assumptions listed up front and a sensitivity analysis. Want me to lay out what the model should include?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls, tight table. its almost midnight lol"
+    },
+    {
+      "role": "assistant",
+      "text": "| Component | What to include | Why judges care |\n|---|---|---|\n| Transportation | Cost per mile or per shipment, mode mix, fuel surcharges, empty-mile share | Usually the largest lever |\n| Warehousing | Labor, rent or cost per pallet position, utilities, handling cost per unit | Shows facility trade-offs |\n| Inventory carrying | Capital cost, storage, shrinkage, obsolescence (often 15-25% of inventory value per year) | Links service level to cost |\n| Order/admin | Processing, systems, customer service | Often overlooked |\n| Fixed vs variable | Separate them explicitly | Needed for scenarios |\n| One-time costs | Implementation, equipment, training | Feeds payback and ROI |\n| Service impact | Lead time, fill rate, penalties for stockouts | Cost cuts that hurt service lose points |\n| Baseline vs proposed | Side-by-side totals, savings, payback, NPV | The headline number |\n| Sensitivity | Best, base, worst case on fuel, volume, labor | Shows risk awareness |\n| Assumptions log | Every input with source | Makes the model defensible |\n\nTip: put the assumptions on one slide or appendix page so Q&A goes smoothly. If you share the case data, I can help structure the spreadsheet."
+    },
+    {
+      "role": "user",
+      "text": "thx. also should the model be one tab or split by cost type"
+    },
+    {
+      "role": "assistant",
+      "text": "Split it:\n\n- **Inputs/Assumptions**: all editable numbers in one place\n- **Baseline**: current-state costs\n- **Proposed**: new scenario, same structure\n- **Summary**: savings, payback, charts\n- **Sensitivity**: scenario toggles\n\nEverything links back to Inputs, so a change updates the whole workbook. Color-code input cells (blue) and formulas (black). Then teammates can audit it quickly."
+    }
+  ]
+}

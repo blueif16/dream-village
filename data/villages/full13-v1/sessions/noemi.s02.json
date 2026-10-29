@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s02",
+  "principal": "noemi",
+  "start": "2025-08-26T23:46:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. its almost midnight, just got home from shift. i want to do some practice tests but also iris and i have a show we split a streaming account on and i feel bad skipping it again. how do i split the night"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. A few quick things so I can make this realistic: how much time do you have before bed, and what are you studying for? Also, how long is an episode?"
+    },
+    {
+      "role": "user",
+      "text": "like 90 min tops before i need to crash. network cert prep. ep is about 45. i use a practice-test app plus a secondhand study guide with tabbed chapters, not sure how to rotate them. port numbers keep tripping me up so i want those first. gas is already done, filled up at the ruel road station before shift so no errands tmrw morning"
+    },
+    {
+      "role": "assistant",
+      "text": "Good news: with errands handled, you can give the 90 minutes a clean structure.\n\n**Option: study first, show second (about 90 min)**\n- 0:00-0:10: Open the tabbed guide to the port numbers chapter and read it actively. Say each port and its protocol out loud, then cover the page and write down what you remember.\n- 0:10-0:35: Take a short, port-focused set in the practice-test app. Skip full-length exams tonight; they're too long for a late session.\n- 0:35-0:45: Go back to the guide and review only the questions you missed. This is where the learning happens.\n- 0:45-1:30: One episode with Iris, fully phone-free.\n\n**How to rotate the two tools:** Use the guide to learn, then the app to test. Start with the guide, quiz in the app, return to the guide for misses. Front-loading ports while you're still sharp, even at midnight, beats saving them for the end.\n\nIf you're wiped, cut study to 35 minutes and keep the episode. A short daily port drill sticks better than one long push, and keeping that time with Iris matters too. You can do a longer block on a day off."
+    },
+    {
+      "role": "user",
+      "text": "ok that's actually gg. tldr for the port drill part? want to screenshot it"
+    },
+    {
+      "role": "assistant",
+      "text": "**Port drill tldr**\n1. Read the ports chapter (10 min), say each one out loud\n2. Cover the page, write what you remember\n3. Short port-only quiz in the app (25 min)\n4. Re-read only your misses in the guide (10 min)\n5. Then the show with Iris\n\nTip: keep a running list of the ports you miss and start tomorrow's session with that list."
+    }
+  ]
+}

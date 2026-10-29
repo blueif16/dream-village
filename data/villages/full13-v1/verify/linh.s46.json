@@ -1,0 +1,378 @@
+{
+  "session_id": "linh.s46",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Wants a countdown to the practical on Oct 17",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u turn this into a countdown to the practical pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks for short bullets, time-stamped plan",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bullets pls, too long makes my brain hurt",
+      "support_quote": ""
+    },
+    {
+      "text": "Notes color-coded: pink muscles, blue bones, green nerves, yellow practical",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tags match my notes: pink muscles, blue bones, green nerves, yellow for stuff thats on the practical",
+      "support_quote": ""
+    },
+    {
+      "text": "Closes Mon/Wed 3-9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "mon/wed i close 3-9 so those nights only light review",
+      "support_quote": ""
+    },
+    {
+      "text": "Worked cafe then Lotus Nails front desk Sunday 2-5",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i worked the cafe then lotus nails front desk 2-5",
+      "support_quote": ""
+    },
+    {
+      "text": "Copies plan into paper planner with washi tape",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im gonna copy it into my paper planner with washi tape rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Linh closes Mon and Wed 3-9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Mon (close 3-9)**",
+      "support_quote": "mon/wed i close 3-9 so those nights only light review"
+    },
+    {
+      "text": "Assistant uses yellow list and color tags matching notes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Washi tape in matching colors would work well here: pink, blue, green and yellow blocks.",
+      "support_quote": "tags match my notes: pink muscles, blue bones, green nerves, yellow for stuff thats on the practical"
+    },
+    {
+      "text": "Assistant says practical is Friday at 9 am",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "9 am: the practical. Eat breakfast first.",
+      "support_quote": "can u turn this into a countdown to the practical pls"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "bullets pls, too long makes my brain hurt"
+    },
+    {
+      "item_id": "linh.r01",
+      "present": true,
+      "quote": "can u turn this into a countdown to the practical pls"
+    },
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "tags match my notes: pink muscles, blue bones, green nerves, yellow for stuff thats on the practical"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "mon/wed i close 3-9 so those nights only light review"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "i worked the cafe then lotus nails front desk 2-5 so sunday night is tight"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "im gonna copy it into my paper planner with washi tape rn"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

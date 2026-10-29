@@ -1,0 +1,31 @@
+{
+  "id": "grace.s11",
+  "principal": "grace",
+  "start": "2025-11-03T21:57:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "Please help me look up what the district and state require for relabeling an acids cabinet in a school chemistry lab. My room, B12, passed the Oct 30 audit with one note: relabel the acids cabinet by Dec 1. I need the exact labeling requirements and what to buy. Bullets please."
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. I can't browse live, so confirm the district-specific wording with your district's safety office or the audit note. Here is what generally applies:\n\n- Cabinet exterior: \"ACIDS\" in large lettering, plus \"CORROSIVE\" and \"Keep Closed\" or similar.\n- GHS pictograms: corrosion (the hand-and-metal symbol), and the exclamation mark where relevant.\n- Separate oxidizing acids (nitric, perchloric) from organic acids like acetic. Label shelves or bins accordingly.\n- Cabinet should be corrosion-resistant or polyethylene-lined. Do not store acids with bases, solvents or flammables.\n- Containers: original manufacturer labels intact, with chemical name, hazard statements and date received or opened.\n- Posted inventory and SDS binder location.\n\nWhat to buy:\n1) Corrosive GHS pictogram labels, weatherproof vinyl\n2) \"ACIDS - CORROSIVE\" cabinet sign\n3) Shelf labels for oxidizing vs. organic acids\n4) Chemical-resistant label sleeves or tape for bottles\n5) Date labels\n\nThe California-specific wording should come from your district's chemical hygiene plan. Do you have the audit note text?"
+    },
+    {
+      "role": "user",
+      "text": "The note just says relabel by Dec 1. Nothing more.\n\nI am only getting to this tonight because my mother slipped on the back step yesterday. She uses a cane now. I researched grab rails and put one in myself this morning before school.\n\nAlso, I made a color-coded chemical inventory for B12 days before the audit. Nobody will read it. But I still want the exact wording that will satisfy them. Not close. Exact."
+    },
+    {
+      "role": "assistant",
+      "text": "I'm sorry about your mother. I hope she is steadier with the cane. Getting a rail in before school was quick work.\n\nOn exact wording: no one source gives one universal phrase, so \"exact\" means matching your district's chemical hygiene plan. Your color-coded inventory will help. Here is how to get it quickly:\n\n1) Email the district safety or risk management office: \"Please send the required label wording and signage standard for acid storage cabinets, per the Oct 30 audit note.\" Ask for the answer in writing.\n2) Check the district chemical hygiene plan and your SDS binder.\n3) Meanwhile, use the standard text, which is compliant with OSHA hazard communication:\n- Cabinet sign: \"ACIDS - CORROSIVE. Keep Closed. Store Only Compatible Materials.\"\n- Pictogram: corrosion.\n- Each bottle: product name, signal word (Danger or Warning), hazard statements, date opened.\n\nPlace the written reply with your inventory so the next auditor sees it. Want a short email draft with placeholders for your name and school?"
+    },
+    {
+      "role": "user",
+      "text": "Yes. Under 100 words. I also have to prep more tonight. I stayed up past 11 last night building a mole-concept review game for third period because quiz scores dipped."
+    },
+    {
+      "role": "assistant",
+      "text": "Here is the draft (about 80 words):\n\nSubject: Acids cabinet labeling requirements, Room B12\n\nHello,\n\nOur chemistry lab, B12, passed the Oct 30 audit with one note: relabel the acids cabinet by Dec 1. Please send the exact label wording, pictograms and signage required by the district, plus any approved vendor or template.\n\nI would appreciate a written reply by [date] so I can order supplies in time.\n\nThank you,\n[your name]\n[your title, school]\n\nGood luck with the prep. If you want, tell me the grade level and I can help tighten the mole game's follow-up questions."
+    }
+  ]
+}

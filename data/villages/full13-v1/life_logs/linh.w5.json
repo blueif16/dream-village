@@ -1,0 +1,365 @@
+{
+  "principal": "linh",
+  "week": 5,
+  "entries": [
+    {
+      "id": "linh.w5.l01",
+      "date": "2025-09-22",
+      "what": "Linh wakes at 6:45 and gets through Monday anatomy with Dr. Okoye on an empty stomach, then bikes to Heron & Grind for her noon shift.",
+      "with": [
+        "miriam",
+        "rochelle"
+      ],
+      "outcome": "Class done, but she skipped breakfast and lunch again.",
+      "feeling": "foggy, rushed",
+      "facts": [
+        "linh.f02",
+        "linh.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l02",
+      "date": "2025-09-22",
+      "what": "Pulling shots at Heron & Grind, Linh goes gray and nearly faints at the espresso bar; Jun sits her down with a banana and Wes teases her.",
+      "with": [
+        "jun",
+        "wes"
+      ],
+      "outcome": "Jun makes her sit and eat; Beatrice lets her take a break.",
+      "feeling": "shaken, embarrassed",
+      "facts": [
+        "linh.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l03",
+      "date": "2025-09-22",
+      "what": "On break she asks the assistant for quick lunch ideas she can pack, and settles on Sunday-prepped rice bowls.",
+      "with": [],
+      "outcome": "Decides to make a rice bowl plan and starts packing lunch from now on.",
+      "feeling": "sheepish but determined",
+      "facts": [
+        "linh.f30"
+      ],
+      "impressions": [
+        "linh.i03"
+      ]
+    },
+    {
+      "id": "linh.w5.l04",
+      "date": "2025-09-22",
+      "what": "Closes out the shift, then eats the plate Hạnh left her at home and plans the week in her paper planner.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Planner filled in with meal prep on Sunday.",
+      "feeling": "relieved",
+      "facts": [
+        "linh.f37",
+        "linh.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l05",
+      "date": "2025-09-23",
+      "what": "Tuesday: General Chemistry at 11, with a ride from Kenji in his dented hatchback.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Solid notes; she ate her packed rice bowl at noon.",
+      "feeling": "proud of herself",
+      "facts": [
+        "linh.f02",
+        "linh.f52",
+        "linh.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l06",
+      "date": "2025-09-23",
+      "what": "Skips Pedro's 4 p.m. anatomy group at the library and studies alone with her color-coded notes.",
+      "with": [],
+      "outcome": "Got through the muscle chapter solo.",
+      "feeling": "focused, a bit isolated",
+      "facts": [
+        "linh.f21",
+        "linh.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l07",
+      "date": "2025-09-23",
+      "what": "Evening review of her 600-card anatomy deck while lo-fi plays.",
+      "with": [],
+      "outcome": "Bed by 12:30.",
+      "feeling": "tired but steady",
+      "facts": [
+        "linh.f24",
+        "linh.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l08",
+      "date": "2025-09-24",
+      "what": "Wednesday anatomy at 9, then a noon shift at Heron & Grind.",
+      "with": [
+        "miriam",
+        "beatrice"
+      ],
+      "outcome": "Busy lunch rush, no near-faint this time.",
+      "feeling": "steady",
+      "facts": [
+        "linh.f03",
+        "linh.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l09",
+      "date": "2025-09-24",
+      "what": "Between customers Linh highlights a yellow list of structures likely on the practical, and Wes calls her Doc.",
+      "with": [
+        "wes"
+      ],
+      "outcome": "Yellow list is two pages long.",
+      "feeling": "anxious but organized",
+      "facts": [
+        "linh.f24",
+        "linh.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l10",
+      "date": "2025-09-24",
+      "what": "Home dinner at 8 with Hạnh, who asks about pharmacy classes; Linh gives short answers.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Pharmacy talk postponed again.",
+      "feeling": "guarded",
+      "facts": [
+        "linh.f14",
+        "linh.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l11",
+      "date": "2025-09-25",
+      "what": "Thursday chemistry at 11 with a Kenji ride; lunch is her packed rice bowl.",
+      "with": [
+        "kenji"
+      ],
+      "outcome": "Finished the problem set early.",
+      "feeling": "productive",
+      "facts": [
+        "linh.f02",
+        "linh.f52",
+        "linh.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l12",
+      "date": "2025-09-25",
+      "what": "Walks her bike's replacement problem through: she is taking the shuttle bus after her lock replacement and the library theft.",
+      "with": [],
+      "outcome": "Shuttle gets her to campus on time.",
+      "feeling": "resigned",
+      "facts": [
+        "linh.f10",
+        "linh.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l13",
+      "date": "2025-09-25",
+      "what": "Evening at the library with her notes on the nervous system; pours a pour-over at home after.",
+      "with": [],
+      "outcome": "Green nerve notes finished.",
+      "feeling": "calm",
+      "facts": [
+        "linh.f23",
+        "linh.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l14",
+      "date": "2025-09-26",
+      "what": "Friday anatomy at 9; Dr. Okoye posts grades and Linh sees she is sitting at a B+.",
+      "with": [
+        "miriam"
+      ],
+      "outcome": "B+ going into the first practical.",
+      "feeling": "uneasy",
+      "facts": [
+        "linh.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l15",
+      "date": "2025-09-26",
+      "what": "Over lunch Linh asks the assistant what percentile a B+ would be in a section where a third fail the practicals, and whether she's doing okay.",
+      "with": [
+        "rochelle"
+      ],
+      "outcome": "Gets a rough sense but keeps wondering how others are doing.",
+      "feeling": "restless, competitive",
+      "facts": [
+        "linh.f18"
+      ],
+      "impressions": [
+        "linh.i02"
+      ]
+    },
+    {
+      "id": "linh.w5.l16",
+      "date": "2025-09-26",
+      "what": "Evening shift swap texts with Sam about Saturday; Linh quietly agrees to cover again.",
+      "with": [
+        "sam"
+      ],
+      "outcome": "Another swap on the books.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "linh.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l17",
+      "date": "2025-09-27",
+      "what": "Saturday 6:30 opening at Heron & Grind, covering part of Sam's shifts.",
+      "with": [
+        "sam",
+        "beatrice"
+      ],
+      "outcome": "Sam now owes Linh two Saturday shifts.",
+      "feeling": "tired, patient",
+      "facts": [
+        "linh.f55",
+        "linh.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l18",
+      "date": "2025-09-27",
+      "what": "Jun sells lumpia at the counter on Saturday under Beatrice's deal; Linh bags orders.",
+      "with": [
+        "jun",
+        "beatrice"
+      ],
+      "outcome": "Sold out by 11.",
+      "feeling": "cheerful",
+      "facts": [
+        "cast.f65"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l19",
+      "date": "2025-09-27",
+      "what": "Afternoon studying the skeleton with blue notes, followed by phở leftovers at home.",
+      "with": [],
+      "outcome": "Bones chapter reviewed.",
+      "feeling": "focused",
+      "facts": [
+        "linh.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l20",
+      "date": "2025-09-28",
+      "what": "Sunday shift 6:30 to 1 at Heron & Grind, then Lotus Nails front desk 2 to 5.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Long day but helped Hạnh.",
+      "feeling": "worn out",
+      "facts": [
+        "linh.f39",
+        "linh.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l21",
+      "date": "2025-09-28",
+      "what": "Walks the Ulloa marsh boardwalk, passing the farmers market crowd at Delgado Park on the way.",
+      "with": [],
+      "outcome": "Head cleared before the week.",
+      "feeling": "peaceful",
+      "facts": [
+        "linh.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "linh.w5.l22",
+      "date": "2025-09-28",
+      "what": "Preps rice bowls for the week and fills in her planner with washi tape.",
+      "with": [],
+      "outcome": "Five bowls packed.",
+      "feeling": "satisfied",
+      "facts": [
+        "linh.f30",
+        "linh.f37"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "linh.w5.n01",
+      "subject": "linh",
+      "attribute": "lunch_container",
+      "value": "uses a glass rice bowl container with a blue lid",
+      "valid_from": "2025-09-23",
+      "valid_to": "2025-10-01",
+      "superseded_by": "linh.w6.n03",
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w5.n02",
+      "subject": "jun",
+      "attribute": "banana_rescue",
+      "value": "keeps bananas behind the counter for emergencies",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w5.n03",
+      "subject": "linh",
+      "attribute": "yellow_list_length",
+      "value": "yellow list is two pages long",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "linh.w5.n04",
+      "subject": "linh",
+      "attribute": "sunday_meal_prep",
+      "value": "preps five rice bowls every Sunday afternoon",
+      "valid_from": "2025-09-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

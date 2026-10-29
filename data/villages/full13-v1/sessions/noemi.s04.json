@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s04",
+  "principal": "noemi",
+  "start": "2025-08-28T13:02:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. subnetting and port numbers are my weak topic for the network cert, just finished a couple practice sections in the app and bombed the subnetting ones. can we do subnetting first? i'm checking the tabbed chapter in my study guide against it and it's not clicking. how do you find the network address"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, let's start with subnetting. Here's the quick version for finding the network address.\n\n1. Write the IP address and the subnet mask in binary (or just focus on the one interesting octet).\n2. Network address = IP AND mask. Wherever the mask has a 1, keep the IP bit. Wherever it has a 0, the bit becomes 0.\n\nShortcut with no binary:\n- Find the \"interesting octet\", the first one where the mask isn't 255 or 0.\n- Block size = 256 minus the mask value in that octet.\n- Network address = the biggest multiple of the block size that is less than or equal to the IP's value in that octet. Octets before it copy over, octets after become 0.\n\nExample: 192.168.10.77 /26\n- /26 mask = 255.255.255.192, interesting octet is the 4th\n- Block size = 256 - 192 = 64\n- Multiples of 64: 0, 64, 128, 192. Biggest one at or under 77 is 64\n- Network address = 192.168.10.64\n- Broadcast = 64 + 64 - 1 = 127, so 192.168.10.127\n\nWant to try some? Here are three:\n\n1. 10.1.1.200 /27\n2. 172.16.45.130 /20\n3. 192.168.5.99 /28\n\nShow your work and I'll check it."
+    },
+    {
+      "role": "user",
+      "text": "ok. 1: block size 32, multiples 0 32 64 96 128 160 192 224, 200 is between 192 and 224 so 10.1.1.192\n2: /20 is 255.255.240.0 so third octet, block 16, 45 is between 32 and 48 so 172.16.32.0\n3: /28 is 240, block 16, 99 -> 96. 192.168.5.96\ngg?"
+    },
+    {
+      "role": "assistant",
+      "text": "gg, all three are correct.\n\n1. 10.1.1.192 ✔ (/27 = 255.255.255.224, block 32)\n2. 172.16.32.0 ✔ (you correctly moved to the third octet for /20 and zeroed the fourth)\n3. 192.168.5.96 ✔\n\nThe usual trap is picking the wrong interesting octet, and you handled that on #2. Ready for harder ones? Try these, and add the broadcast address and the usable host range for each:\n\n1. 10.20.77.140 /21\n2. 192.168.100.200 /29\n3. 172.31.200.10 /18\n4. 10.0.99.5 /30\n\nI'll hold the answers until you send yours."
+    },
+    {
+      "role": "user",
+      "text": "ty. give me hard ones no answers til i ask. i'll do these then retry the app section"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a harder set. No answers until you ask.\n\n1. 10.20.77.140 /21 (network, broadcast, usable range)\n2. 192.168.100.200 /29 (same three)\n3. 172.31.200.10 /18 (same three)\n4. 10.0.99.5 /30 (same three)\n5. 192.168.1.130 /25: how many usable hosts?\n6. You need at least 50 hosts per subnet. What is the smallest prefix length that works?\n7. 10.8.130.17 with mask 255.255.252.0: network address?\n8. Are 172.16.14.5 /22 and 172.16.17.9 /22 in the same subnet? Why or why not?\n\nTip: for the usable range, add 1 to the network address and subtract 1 from the broadcast. Send \"answers\" whenever you want to check, and I'll explain any you miss."
+    }
+  ]
+}

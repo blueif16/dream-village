@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s03",
+  "principal": "marcus",
+  "start": "2025-08-31T20:15:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u help me write a text to jade. funny but warm. thanking her for last night, pho at Phở Bến Thành was a good date fr"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A couple of quick things so it sounds like you: is there anything specific you want to promise or say besides the thank-you? And how funny are we going, light teasing or full goofball?"
+    },
+    {
+      "role": "user",
+      "text": "want to say i'll be around friday next week. she has clinic labs tue/thu mornings and fridays shes off so thats when we can actually hang. i start my shift at 10 tonight so im texting before i head out. make it funny cause she barely sees me lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a draft:\n\n\"Thank you for last night! Hot pho in a heat wave was a terrible idea and the best date I've had all week. I'm heading out for another night of being a nocturnal raccoon, but your Friday off is officially mine. I'll be awake, upright, and fully present. Pho was on me, Friday is on me too. 🍜\"\n\nWant it sillier, or a bit sweeter?"
+    },
+    {
+      "role": "user",
+      "text": "lol the raccoon is good. little less long tho, short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Shorter:\n\n\"Thanks for last night! Pho in a heat wave was a bad idea and a great date. Off to raccoon duty tonight, but your Friday off is mine. I'll be awake, promise. 🍜\"\n\nWant me to tweak the ending?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats it. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Have a good shift, and enjoy your Friday with her next week!"
+    }
+  ]
+}

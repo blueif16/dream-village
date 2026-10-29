@@ -1,0 +1,4195 @@
+[
+  {
+    "id": "isabel.s01",
+    "principal": "isabel",
+    "start": "2025-08-26T23:45:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s02",
+    "principal": "isabel",
+    "start": "2025-08-27T00:59:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s03",
+    "principal": "isabel",
+    "start": "2025-08-28T00:50:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s04",
+    "principal": "isabel",
+    "start": "2025-08-30T00:10:00",
+    "week": 1,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "isabel.s05",
+    "principal": "isabel",
+    "start": "2025-09-04T16:51:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s06",
+    "principal": "isabel",
+    "start": "2025-09-05T16:20:00",
+    "week": 2,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s07",
+    "principal": "isabel",
+    "start": "2025-09-06T00:56:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s08",
+    "principal": "isabel",
+    "start": "2025-09-07T23:04:00",
+    "week": 2,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "isabel.s09",
+    "principal": "isabel",
+    "start": "2025-09-09T21:48:00",
+    "week": 3,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "isabel.s10",
+    "principal": "isabel",
+    "start": "2025-09-10T23:08:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s11",
+    "principal": "isabel",
+    "start": "2025-09-11T16:06:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s12",
+    "principal": "isabel",
+    "start": "2025-09-14T16:17:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s13",
+    "principal": "isabel",
+    "start": "2025-09-17T16:37:00",
+    "week": 4,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s14",
+    "principal": "isabel",
+    "start": "2025-09-19T23:22:00",
+    "week": 4,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s15",
+    "principal": "isabel",
+    "start": "2025-09-20T23:50:00",
+    "week": 4,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "isabel.s16",
+    "principal": "isabel",
+    "start": "2025-09-21T16:52:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s17",
+    "principal": "isabel",
+    "start": "2025-09-25T00:32:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s18",
+    "principal": "isabel",
+    "start": "2025-09-26T21:03:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s19",
+    "principal": "isabel",
+    "start": "2025-09-28T00:54:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s20",
+    "principal": "isabel",
+    "start": "2025-09-29T00:57:00",
+    "week": 6,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "isabel.s21",
+    "principal": "isabel",
+    "start": "2025-09-30T21:46:00",
+    "week": 6,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "isabel.s22",
+    "principal": "isabel",
+    "start": "2025-10-03T23:19:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s23",
+    "principal": "isabel",
+    "start": "2025-10-07T23:54:00",
+    "week": 7,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "isabel.s24",
+    "principal": "isabel",
+    "start": "2025-10-09T16:33:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s25",
+    "principal": "isabel",
+    "start": "2025-10-11T00:53:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s26",
+    "principal": "isabel",
+    "start": "2025-10-13T21:19:00",
+    "week": 8,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "isabel.s27",
+    "principal": "isabel",
+    "start": "2025-10-14T00:34:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "isabel.s28",
+    "principal": "isabel",
+    "start": "2025-10-16T21:20:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s29",
+    "principal": "isabel",
+    "start": "2025-10-21T00:52:00",
+    "week": 9,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "isabel.s30",
+    "principal": "isabel",
+    "start": "2025-10-24T21:35:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s31",
+    "principal": "isabel",
+    "start": "2025-10-25T16:35:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s32",
+    "principal": "isabel",
+    "start": "2025-10-26T00:58:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s33",
+    "principal": "isabel",
+    "start": "2025-10-28T16:19:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "isabel.s34",
+    "principal": "isabel",
+    "start": "2025-11-01T00:31:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s35",
+    "principal": "isabel",
+    "start": "2025-11-02T21:56:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s36",
+    "principal": "isabel",
+    "start": "2025-11-04T21:26:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s37",
+    "principal": "isabel",
+    "start": "2025-11-08T00:49:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s38",
+    "principal": "isabel",
+    "start": "2025-11-09T23:07:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "isabel.s39",
+    "principal": "isabel",
+    "start": "2025-11-10T16:52:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s40",
+    "principal": "isabel",
+    "start": "2025-11-14T23:37:00",
+    "week": 12,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "isabel.s41",
+    "principal": "isabel",
+    "start": "2025-11-16T16:43:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "isabel.s42",
+    "principal": "isabel",
+    "start": "2025-11-17T23:42:00",
+    "week": 13,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "isabel.s43",
+    "principal": "isabel",
+    "start": "2025-11-21T23:41:00",
+    "week": 13,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "isabel.s44",
+    "principal": "isabel",
+    "start": "2025-11-22T16:56:00",
+    "week": 13,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "dulce.s01",
+    "principal": "dulce",
+    "start": "2025-08-28T22:50:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "dulce.s02",
+    "principal": "dulce",
+    "start": "2025-09-07T21:32:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "dulce.s03",
+    "principal": "dulce",
+    "start": "2025-09-13T16:29:00",
+    "week": 3,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "dulce.s04",
+    "principal": "dulce",
+    "start": "2025-09-16T21:41:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "dulce.s05",
+    "principal": "dulce",
+    "start": "2025-09-22T23:47:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "dulce.s06",
+    "principal": "dulce",
+    "start": "2025-10-05T23:15:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "dulce.s07",
+    "principal": "dulce",
+    "start": "2025-10-06T23:57:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "dulce.s08",
+    "principal": "dulce",
+    "start": "2025-10-14T23:21:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "dulce.s09",
+    "principal": "dulce",
+    "start": "2025-10-21T16:11:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "dulce.s10",
+    "principal": "dulce",
+    "start": "2025-10-30T22:59:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "dulce.s11",
+    "principal": "dulce",
+    "start": "2025-11-05T16:17:00",
+    "week": 11,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "dulce.s12",
+    "principal": "dulce",
+    "start": "2025-11-12T23:41:00",
+    "week": 12,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "dulce.s13",
+    "principal": "dulce",
+    "start": "2025-11-18T22:06:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s01",
+    "principal": "linh",
+    "start": "2025-08-25T07:15:00",
+    "week": 1,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "linh.s02",
+    "principal": "linh",
+    "start": "2025-08-26T16:47:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s03",
+    "principal": "linh",
+    "start": "2025-08-27T23:39:00",
+    "week": 1,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "linh.s04",
+    "principal": "linh",
+    "start": "2025-08-28T16:14:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s05",
+    "principal": "linh",
+    "start": "2025-08-29T22:42:00",
+    "week": 1,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s06",
+    "principal": "linh",
+    "start": "2025-08-30T23:16:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s07",
+    "principal": "linh",
+    "start": "2025-08-31T23:34:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s08",
+    "principal": "linh",
+    "start": "2025-09-02T22:52:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s09",
+    "principal": "linh",
+    "start": "2025-09-03T23:52:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s10",
+    "principal": "linh",
+    "start": "2025-09-04T22:57:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s11",
+    "principal": "linh",
+    "start": "2025-09-05T16:28:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s12",
+    "principal": "linh",
+    "start": "2025-09-06T07:51:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s13",
+    "principal": "linh",
+    "start": "2025-09-07T22:57:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s14",
+    "principal": "linh",
+    "start": "2025-09-08T07:32:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s15",
+    "principal": "linh",
+    "start": "2025-09-09T16:46:00",
+    "week": 3,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "linh.s16",
+    "principal": "linh",
+    "start": "2025-09-10T22:40:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s17",
+    "principal": "linh",
+    "start": "2025-09-11T22:48:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s18",
+    "principal": "linh",
+    "start": "2025-09-12T22:32:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s19",
+    "principal": "linh",
+    "start": "2025-09-13T22:14:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s20",
+    "principal": "linh",
+    "start": "2025-09-15T23:18:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s21",
+    "principal": "linh",
+    "start": "2025-09-16T16:14:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s22",
+    "principal": "linh",
+    "start": "2025-09-17T07:52:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s23",
+    "principal": "linh",
+    "start": "2025-09-18T23:57:00",
+    "week": 4,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "linh.s24",
+    "principal": "linh",
+    "start": "2025-09-20T07:13:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s25",
+    "principal": "linh",
+    "start": "2025-09-21T16:41:00",
+    "week": 4,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "linh.s26",
+    "principal": "linh",
+    "start": "2025-09-22T23:48:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s27",
+    "principal": "linh",
+    "start": "2025-09-23T16:52:00",
+    "week": 5,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "linh.s28",
+    "principal": "linh",
+    "start": "2025-09-24T12:38:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s29",
+    "principal": "linh",
+    "start": "2025-09-25T12:20:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s30",
+    "principal": "linh",
+    "start": "2025-09-26T22:54:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s31",
+    "principal": "linh",
+    "start": "2025-09-27T16:54:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s32",
+    "principal": "linh",
+    "start": "2025-09-28T16:55:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s33",
+    "principal": "linh",
+    "start": "2025-09-29T16:50:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s34",
+    "principal": "linh",
+    "start": "2025-09-30T16:21:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s35",
+    "principal": "linh",
+    "start": "2025-10-01T16:58:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s36",
+    "principal": "linh",
+    "start": "2025-10-02T23:14:00",
+    "week": 6,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "linh.s37",
+    "principal": "linh",
+    "start": "2025-10-03T12:58:00",
+    "week": 6,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "linh.s38",
+    "principal": "linh",
+    "start": "2025-10-04T16:05:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s39",
+    "principal": "linh",
+    "start": "2025-10-05T12:06:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s40",
+    "principal": "linh",
+    "start": "2025-10-06T22:47:00",
+    "week": 7,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s41",
+    "principal": "linh",
+    "start": "2025-10-07T16:42:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s42",
+    "principal": "linh",
+    "start": "2025-10-08T22:01:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s43",
+    "principal": "linh",
+    "start": "2025-10-09T22:34:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s44",
+    "principal": "linh",
+    "start": "2025-10-10T12:23:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s45",
+    "principal": "linh",
+    "start": "2025-10-11T22:36:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s46",
+    "principal": "linh",
+    "start": "2025-10-12T23:03:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s47",
+    "principal": "linh",
+    "start": "2025-10-13T16:22:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s48",
+    "principal": "linh",
+    "start": "2025-10-14T23:38:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s49",
+    "principal": "linh",
+    "start": "2025-10-15T12:30:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s50",
+    "principal": "linh",
+    "start": "2025-10-16T16:09:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s51",
+    "principal": "linh",
+    "start": "2025-10-17T12:57:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s52",
+    "principal": "linh",
+    "start": "2025-10-18T12:55:00",
+    "week": 8,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s53",
+    "principal": "linh",
+    "start": "2025-10-19T12:45:00",
+    "week": 8,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s54",
+    "principal": "linh",
+    "start": "2025-10-20T07:27:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s55",
+    "principal": "linh",
+    "start": "2025-10-21T07:19:00",
+    "week": 9,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "linh.s56",
+    "principal": "linh",
+    "start": "2025-10-22T16:50:00",
+    "week": 9,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s57",
+    "principal": "linh",
+    "start": "2025-10-24T23:19:00",
+    "week": 9,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s58",
+    "principal": "linh",
+    "start": "2025-10-25T12:30:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s59",
+    "principal": "linh",
+    "start": "2025-10-26T16:50:00",
+    "week": 9,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s60",
+    "principal": "linh",
+    "start": "2025-10-27T12:33:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s61",
+    "principal": "linh",
+    "start": "2025-10-29T23:45:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s62",
+    "principal": "linh",
+    "start": "2025-10-30T12:47:00",
+    "week": 10,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s63",
+    "principal": "linh",
+    "start": "2025-10-31T16:22:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s64",
+    "principal": "linh",
+    "start": "2025-11-01T22:32:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s65",
+    "principal": "linh",
+    "start": "2025-11-02T12:58:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s66",
+    "principal": "linh",
+    "start": "2025-11-03T16:10:00",
+    "week": 11,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s67",
+    "principal": "linh",
+    "start": "2025-11-04T23:03:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s68",
+    "principal": "linh",
+    "start": "2025-11-06T16:54:00",
+    "week": 11,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "linh.s69",
+    "principal": "linh",
+    "start": "2025-11-07T12:42:00",
+    "week": 11,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s70",
+    "principal": "linh",
+    "start": "2025-11-08T22:23:00",
+    "week": 11,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s71",
+    "principal": "linh",
+    "start": "2025-11-09T12:23:00",
+    "week": 11,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s72",
+    "principal": "linh",
+    "start": "2025-11-10T22:25:00",
+    "week": 12,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s73",
+    "principal": "linh",
+    "start": "2025-11-11T16:37:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s74",
+    "principal": "linh",
+    "start": "2025-11-12T16:17:00",
+    "week": 12,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "linh.s75",
+    "principal": "linh",
+    "start": "2025-11-13T16:34:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "linh.s76",
+    "principal": "linh",
+    "start": "2025-11-14T12:58:00",
+    "week": 12,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "linh.s77",
+    "principal": "linh",
+    "start": "2025-11-15T12:34:00",
+    "week": 12,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "linh.s78",
+    "principal": "linh",
+    "start": "2025-11-16T07:49:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s79",
+    "principal": "linh",
+    "start": "2025-11-18T16:41:00",
+    "week": 13,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s80",
+    "principal": "linh",
+    "start": "2025-11-19T23:51:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s81",
+    "principal": "linh",
+    "start": "2025-11-20T22:42:00",
+    "week": 13,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "linh.s82",
+    "principal": "linh",
+    "start": "2025-11-21T16:29:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "linh.s83",
+    "principal": "linh",
+    "start": "2025-11-22T22:25:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "linh.s84",
+    "principal": "linh",
+    "start": "2025-11-23T16:13:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s01",
+    "principal": "arjun",
+    "start": "2025-08-25T01:06:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s02",
+    "principal": "arjun",
+    "start": "2025-08-26T12:20:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s03",
+    "principal": "arjun",
+    "start": "2025-08-27T07:51:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s04",
+    "principal": "arjun",
+    "start": "2025-08-29T07:14:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s05",
+    "principal": "arjun",
+    "start": "2025-08-30T23:38:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s06",
+    "principal": "arjun",
+    "start": "2025-08-31T23:08:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s07",
+    "principal": "arjun",
+    "start": "2025-09-01T22:37:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s08",
+    "principal": "arjun",
+    "start": "2025-09-03T12:38:00",
+    "week": 2,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s09",
+    "principal": "arjun",
+    "start": "2025-09-04T22:18:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s10",
+    "principal": "arjun",
+    "start": "2025-09-05T01:37:00",
+    "week": 2,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s11",
+    "principal": "arjun",
+    "start": "2025-09-06T07:13:00",
+    "week": 2,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "arjun.s12",
+    "principal": "arjun",
+    "start": "2025-09-07T22:46:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s13",
+    "principal": "arjun",
+    "start": "2025-09-08T22:30:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s14",
+    "principal": "arjun",
+    "start": "2025-09-09T23:38:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s15",
+    "principal": "arjun",
+    "start": "2025-09-10T07:15:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s16",
+    "principal": "arjun",
+    "start": "2025-09-11T22:30:00",
+    "week": 3,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s17",
+    "principal": "arjun",
+    "start": "2025-09-12T22:30:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s18",
+    "principal": "arjun",
+    "start": "2025-09-13T07:39:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s19",
+    "principal": "arjun",
+    "start": "2025-09-14T23:37:00",
+    "week": 3,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s20",
+    "principal": "arjun",
+    "start": "2025-09-15T23:48:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s21",
+    "principal": "arjun",
+    "start": "2025-09-16T07:19:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s22",
+    "principal": "arjun",
+    "start": "2025-09-17T23:48:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s23",
+    "principal": "arjun",
+    "start": "2025-09-18T07:40:00",
+    "week": 4,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s24",
+    "principal": "arjun",
+    "start": "2025-09-19T22:11:00",
+    "week": 4,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "arjun.s25",
+    "principal": "arjun",
+    "start": "2025-09-20T23:23:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s26",
+    "principal": "arjun",
+    "start": "2025-09-21T12:54:00",
+    "week": 4,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s27",
+    "principal": "arjun",
+    "start": "2025-09-22T12:03:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s28",
+    "principal": "arjun",
+    "start": "2025-09-23T01:07:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s29",
+    "principal": "arjun",
+    "start": "2025-09-24T23:28:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s30",
+    "principal": "arjun",
+    "start": "2025-09-26T23:54:00",
+    "week": 5,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s31",
+    "principal": "arjun",
+    "start": "2025-09-27T22:06:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s32",
+    "principal": "arjun",
+    "start": "2025-09-28T23:04:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s33",
+    "principal": "arjun",
+    "start": "2025-09-29T07:36:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s34",
+    "principal": "arjun",
+    "start": "2025-09-30T07:11:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s35",
+    "principal": "arjun",
+    "start": "2025-10-01T22:44:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s36",
+    "principal": "arjun",
+    "start": "2025-10-02T23:11:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s37",
+    "principal": "arjun",
+    "start": "2025-10-03T22:48:00",
+    "week": 6,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s38",
+    "principal": "arjun",
+    "start": "2025-10-04T07:21:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s39",
+    "principal": "arjun",
+    "start": "2025-10-05T12:34:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s40",
+    "principal": "arjun",
+    "start": "2025-10-07T23:13:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s41",
+    "principal": "arjun",
+    "start": "2025-10-08T01:28:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s42",
+    "principal": "arjun",
+    "start": "2025-10-09T12:44:00",
+    "week": 7,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s43",
+    "principal": "arjun",
+    "start": "2025-10-10T12:23:00",
+    "week": 7,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "arjun.s44",
+    "principal": "arjun",
+    "start": "2025-10-11T12:12:00",
+    "week": 7,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "arjun.s45",
+    "principal": "arjun",
+    "start": "2025-10-12T12:33:00",
+    "week": 7,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s46",
+    "principal": "arjun",
+    "start": "2025-10-13T01:56:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s47",
+    "principal": "arjun",
+    "start": "2025-10-14T23:55:00",
+    "week": 8,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s48",
+    "principal": "arjun",
+    "start": "2025-10-15T07:11:00",
+    "week": 8,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "arjun.s49",
+    "principal": "arjun",
+    "start": "2025-10-16T23:50:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s50",
+    "principal": "arjun",
+    "start": "2025-10-17T01:05:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s51",
+    "principal": "arjun",
+    "start": "2025-10-18T23:03:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s52",
+    "principal": "arjun",
+    "start": "2025-10-19T23:41:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s53",
+    "principal": "arjun",
+    "start": "2025-10-20T12:30:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s54",
+    "principal": "arjun",
+    "start": "2025-10-21T22:06:00",
+    "week": 9,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s55",
+    "principal": "arjun",
+    "start": "2025-10-22T23:21:00",
+    "week": 9,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s56",
+    "principal": "arjun",
+    "start": "2025-10-23T07:13:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "arjun.s57",
+    "principal": "arjun",
+    "start": "2025-10-24T23:58:00",
+    "week": 9,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s58",
+    "principal": "arjun",
+    "start": "2025-10-25T01:00:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "arjun.s59",
+    "principal": "arjun",
+    "start": "2025-10-26T07:49:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s60",
+    "principal": "arjun",
+    "start": "2025-10-27T12:21:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s61",
+    "principal": "arjun",
+    "start": "2025-10-28T23:52:00",
+    "week": 10,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "arjun.s62",
+    "principal": "arjun",
+    "start": "2025-10-29T07:09:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s63",
+    "principal": "arjun",
+    "start": "2025-10-30T22:48:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s64",
+    "principal": "arjun",
+    "start": "2025-10-31T12:33:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s65",
+    "principal": "arjun",
+    "start": "2025-11-01T23:59:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s66",
+    "principal": "arjun",
+    "start": "2025-11-02T01:55:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s67",
+    "principal": "arjun",
+    "start": "2025-11-03T23:10:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s68",
+    "principal": "arjun",
+    "start": "2025-11-05T22:50:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s69",
+    "principal": "arjun",
+    "start": "2025-11-06T12:32:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s70",
+    "principal": "arjun",
+    "start": "2025-11-07T22:23:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "arjun.s71",
+    "principal": "arjun",
+    "start": "2025-11-08T22:04:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s72",
+    "principal": "arjun",
+    "start": "2025-11-09T12:53:00",
+    "week": 11,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "arjun.s73",
+    "principal": "arjun",
+    "start": "2025-11-10T22:41:00",
+    "week": 12,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "arjun.s74",
+    "principal": "arjun",
+    "start": "2025-11-11T07:02:00",
+    "week": 12,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "arjun.s75",
+    "principal": "arjun",
+    "start": "2025-11-12T12:58:00",
+    "week": 12,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s76",
+    "principal": "arjun",
+    "start": "2025-11-13T01:04:00",
+    "week": 12,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "arjun.s77",
+    "principal": "arjun",
+    "start": "2025-11-14T22:56:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s78",
+    "principal": "arjun",
+    "start": "2025-11-15T22:02:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s79",
+    "principal": "arjun",
+    "start": "2025-11-16T22:22:00",
+    "week": 12,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "arjun.s80",
+    "principal": "arjun",
+    "start": "2025-11-17T23:09:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s81",
+    "principal": "arjun",
+    "start": "2025-11-18T01:19:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "arjun.s82",
+    "principal": "arjun",
+    "start": "2025-11-20T07:09:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s83",
+    "principal": "arjun",
+    "start": "2025-11-21T12:20:00",
+    "week": 13,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "arjun.s84",
+    "principal": "arjun",
+    "start": "2025-11-22T23:59:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "arjun.s85",
+    "principal": "arjun",
+    "start": "2025-11-23T22:41:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s01",
+    "principal": "marcus",
+    "start": "2025-08-27T13:28:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s02",
+    "principal": "marcus",
+    "start": "2025-08-28T14:50:00",
+    "week": 1,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "marcus.s03",
+    "principal": "marcus",
+    "start": "2025-08-31T20:15:00",
+    "week": 1,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "marcus.s04",
+    "principal": "marcus",
+    "start": "2025-09-01T20:18:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s05",
+    "principal": "marcus",
+    "start": "2025-09-02T20:02:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s06",
+    "principal": "marcus",
+    "start": "2025-09-03T21:34:00",
+    "week": 2,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "marcus.s07",
+    "principal": "marcus",
+    "start": "2025-09-09T14:14:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s08",
+    "principal": "marcus",
+    "start": "2025-09-10T14:24:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s09",
+    "principal": "marcus",
+    "start": "2025-09-13T14:02:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s10",
+    "principal": "marcus",
+    "start": "2025-09-14T20:33:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s11",
+    "principal": "marcus",
+    "start": "2025-09-18T13:49:00",
+    "week": 4,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "marcus.s12",
+    "principal": "marcus",
+    "start": "2025-09-19T14:19:00",
+    "week": 4,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "marcus.s13",
+    "principal": "marcus",
+    "start": "2025-09-20T21:12:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s14",
+    "principal": "marcus",
+    "start": "2025-09-23T13:48:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "marcus.s15",
+    "principal": "marcus",
+    "start": "2025-09-26T07:08:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s16",
+    "principal": "marcus",
+    "start": "2025-09-28T20:56:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "marcus.s17",
+    "principal": "marcus",
+    "start": "2025-09-29T21:07:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s18",
+    "principal": "marcus",
+    "start": "2025-09-30T13:20:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s19",
+    "principal": "marcus",
+    "start": "2025-10-04T14:54:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s20",
+    "principal": "marcus",
+    "start": "2025-10-05T14:24:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s21",
+    "principal": "marcus",
+    "start": "2025-10-08T14:05:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s22",
+    "principal": "marcus",
+    "start": "2025-10-09T13:16:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "marcus.s23",
+    "principal": "marcus",
+    "start": "2025-10-11T21:12:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s24",
+    "principal": "marcus",
+    "start": "2025-10-12T13:56:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s25",
+    "principal": "marcus",
+    "start": "2025-10-13T13:09:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s26",
+    "principal": "marcus",
+    "start": "2025-10-15T14:05:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s27",
+    "principal": "marcus",
+    "start": "2025-10-16T14:14:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s28",
+    "principal": "marcus",
+    "start": "2025-10-19T13:48:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s29",
+    "principal": "marcus",
+    "start": "2025-10-20T20:04:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "marcus.s30",
+    "principal": "marcus",
+    "start": "2025-10-21T14:30:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s31",
+    "principal": "marcus",
+    "start": "2025-10-22T07:27:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s32",
+    "principal": "marcus",
+    "start": "2025-10-28T21:00:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s33",
+    "principal": "marcus",
+    "start": "2025-10-30T21:59:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s34",
+    "principal": "marcus",
+    "start": "2025-11-01T20:44:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s35",
+    "principal": "marcus",
+    "start": "2025-11-06T14:22:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s36",
+    "principal": "marcus",
+    "start": "2025-11-07T07:19:00",
+    "week": 11,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "marcus.s37",
+    "principal": "marcus",
+    "start": "2025-11-08T14:40:00",
+    "week": 11,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "marcus.s38",
+    "principal": "marcus",
+    "start": "2025-11-10T13:45:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s39",
+    "principal": "marcus",
+    "start": "2025-11-12T13:21:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "marcus.s40",
+    "principal": "marcus",
+    "start": "2025-11-15T21:07:00",
+    "week": 12,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "marcus.s41",
+    "principal": "marcus",
+    "start": "2025-11-16T14:25:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "marcus.s42",
+    "principal": "marcus",
+    "start": "2025-11-19T14:22:00",
+    "week": 13,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "marcus.s43",
+    "principal": "marcus",
+    "start": "2025-11-20T20:20:00",
+    "week": 13,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "marcus.s44",
+    "principal": "marcus",
+    "start": "2025-11-21T14:30:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "marcus.s45",
+    "principal": "marcus",
+    "start": "2025-11-23T14:54:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rafael.s01",
+    "principal": "rafael",
+    "start": "2025-08-30T22:50:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rafael.s02",
+    "principal": "rafael",
+    "start": "2025-09-02T23:07:00",
+    "week": 2,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "rafael.s03",
+    "principal": "rafael",
+    "start": "2025-09-09T22:04:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rafael.s04",
+    "principal": "rafael",
+    "start": "2025-09-17T22:57:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rafael.s05",
+    "principal": "rafael",
+    "start": "2025-09-28T23:28:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rafael.s06",
+    "principal": "rafael",
+    "start": "2025-10-01T07:42:00",
+    "week": 6,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "rafael.s07",
+    "principal": "rafael",
+    "start": "2025-10-08T13:11:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rafael.s08",
+    "principal": "rafael",
+    "start": "2025-10-18T13:41:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rafael.s09",
+    "principal": "rafael",
+    "start": "2025-10-25T07:25:00",
+    "week": 9,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "rafael.s10",
+    "principal": "rafael",
+    "start": "2025-10-28T07:41:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rafael.s11",
+    "principal": "rafael",
+    "start": "2025-11-05T22:08:00",
+    "week": 11,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "rafael.s12",
+    "principal": "rafael",
+    "start": "2025-11-10T23:57:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rafael.s13",
+    "principal": "rafael",
+    "start": "2025-11-17T13:30:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s01",
+    "principal": "thao",
+    "start": "2025-08-26T15:05:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s02",
+    "principal": "thao",
+    "start": "2025-08-27T02:21:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s03",
+    "principal": "thao",
+    "start": "2025-08-28T02:30:00",
+    "week": 1,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "thao.s04",
+    "principal": "thao",
+    "start": "2025-09-03T15:15:00",
+    "week": 2,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "thao.s05",
+    "principal": "thao",
+    "start": "2025-09-04T17:19:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s06",
+    "principal": "thao",
+    "start": "2025-09-05T08:06:00",
+    "week": 2,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "thao.s07",
+    "principal": "thao",
+    "start": "2025-09-07T15:26:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s08",
+    "principal": "thao",
+    "start": "2025-09-09T15:40:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s09",
+    "principal": "thao",
+    "start": "2025-09-12T02:39:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s10",
+    "principal": "thao",
+    "start": "2025-09-14T08:49:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s11",
+    "principal": "thao",
+    "start": "2025-09-16T08:12:00",
+    "week": 4,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "thao.s12",
+    "principal": "thao",
+    "start": "2025-09-17T15:23:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s13",
+    "principal": "thao",
+    "start": "2025-09-21T17:47:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s14",
+    "principal": "thao",
+    "start": "2025-09-22T08:32:00",
+    "week": 5,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "thao.s15",
+    "principal": "thao",
+    "start": "2025-09-23T17:22:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s16",
+    "principal": "thao",
+    "start": "2025-09-27T08:28:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s17",
+    "principal": "thao",
+    "start": "2025-09-29T15:51:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s18",
+    "principal": "thao",
+    "start": "2025-09-30T08:02:00",
+    "week": 6,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "thao.s19",
+    "principal": "thao",
+    "start": "2025-10-01T17:38:00",
+    "week": 6,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "thao.s20",
+    "principal": "thao",
+    "start": "2025-10-02T08:30:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s21",
+    "principal": "thao",
+    "start": "2025-10-06T08:51:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s22",
+    "principal": "thao",
+    "start": "2025-10-09T02:04:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "thao.s23",
+    "principal": "thao",
+    "start": "2025-10-10T15:17:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s24",
+    "principal": "thao",
+    "start": "2025-10-15T17:59:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "thao.s25",
+    "principal": "thao",
+    "start": "2025-10-16T15:40:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s26",
+    "principal": "thao",
+    "start": "2025-10-17T02:44:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s27",
+    "principal": "thao",
+    "start": "2025-10-19T17:07:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s28",
+    "principal": "thao",
+    "start": "2025-10-21T15:36:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s29",
+    "principal": "thao",
+    "start": "2025-10-25T02:37:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "thao.s30",
+    "principal": "thao",
+    "start": "2025-10-26T15:27:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "thao.s31",
+    "principal": "thao",
+    "start": "2025-10-27T02:15:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s32",
+    "principal": "thao",
+    "start": "2025-10-29T15:26:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s33",
+    "principal": "thao",
+    "start": "2025-10-31T17:43:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s34",
+    "principal": "thao",
+    "start": "2025-11-01T17:11:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s35",
+    "principal": "thao",
+    "start": "2025-11-03T17:26:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s36",
+    "principal": "thao",
+    "start": "2025-11-04T08:45:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s37",
+    "principal": "thao",
+    "start": "2025-11-06T08:58:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "thao.s38",
+    "principal": "thao",
+    "start": "2025-11-07T02:43:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s39",
+    "principal": "thao",
+    "start": "2025-11-10T02:08:00",
+    "week": 12,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "thao.s40",
+    "principal": "thao",
+    "start": "2025-11-11T08:24:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s41",
+    "principal": "thao",
+    "start": "2025-11-12T15:51:00",
+    "week": 12,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "thao.s42",
+    "principal": "thao",
+    "start": "2025-11-14T08:19:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "thao.s43",
+    "principal": "thao",
+    "start": "2025-11-17T02:23:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "thao.s44",
+    "principal": "thao",
+    "start": "2025-11-18T15:31:00",
+    "week": 13,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "thao.s45",
+    "principal": "thao",
+    "start": "2025-11-21T08:56:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s01",
+    "principal": "noemi",
+    "start": "2025-08-25T12:48:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s02",
+    "principal": "noemi",
+    "start": "2025-08-26T23:46:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s03",
+    "principal": "noemi",
+    "start": "2025-08-27T23:36:00",
+    "week": 1,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s04",
+    "principal": "noemi",
+    "start": "2025-08-28T13:02:00",
+    "week": 1,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s05",
+    "principal": "noemi",
+    "start": "2025-08-29T12:06:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s06",
+    "principal": "noemi",
+    "start": "2025-08-30T10:38:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s07",
+    "principal": "noemi",
+    "start": "2025-08-31T23:05:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s08",
+    "principal": "noemi",
+    "start": "2025-09-01T13:20:00",
+    "week": 2,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "noemi.s09",
+    "principal": "noemi",
+    "start": "2025-09-02T12:38:00",
+    "week": 2,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "noemi.s10",
+    "principal": "noemi",
+    "start": "2025-09-03T13:26:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s11",
+    "principal": "noemi",
+    "start": "2025-09-04T12:51:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s12",
+    "principal": "noemi",
+    "start": "2025-09-06T13:11:00",
+    "week": 2,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s13",
+    "principal": "noemi",
+    "start": "2025-09-07T18:38:00",
+    "week": 2,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s14",
+    "principal": "noemi",
+    "start": "2025-09-08T23:12:00",
+    "week": 3,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "noemi.s15",
+    "principal": "noemi",
+    "start": "2025-09-09T23:21:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s16",
+    "principal": "noemi",
+    "start": "2025-09-10T23:07:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s17",
+    "principal": "noemi",
+    "start": "2025-09-11T23:30:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s18",
+    "principal": "noemi",
+    "start": "2025-09-12T12:03:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s19",
+    "principal": "noemi",
+    "start": "2025-09-13T18:36:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s20",
+    "principal": "noemi",
+    "start": "2025-09-14T10:03:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s21",
+    "principal": "noemi",
+    "start": "2025-09-15T18:50:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s22",
+    "principal": "noemi",
+    "start": "2025-09-16T13:14:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s23",
+    "principal": "noemi",
+    "start": "2025-09-17T23:13:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s24",
+    "principal": "noemi",
+    "start": "2025-09-18T13:51:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s25",
+    "principal": "noemi",
+    "start": "2025-09-19T23:08:00",
+    "week": 4,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s26",
+    "principal": "noemi",
+    "start": "2025-09-20T13:12:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s27",
+    "principal": "noemi",
+    "start": "2025-09-21T12:03:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s28",
+    "principal": "noemi",
+    "start": "2025-09-22T12:28:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s29",
+    "principal": "noemi",
+    "start": "2025-09-23T18:45:00",
+    "week": 5,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s30",
+    "principal": "noemi",
+    "start": "2025-09-24T18:29:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s31",
+    "principal": "noemi",
+    "start": "2025-09-26T23:51:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s32",
+    "principal": "noemi",
+    "start": "2025-09-27T13:21:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s33",
+    "principal": "noemi",
+    "start": "2025-09-28T12:31:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s34",
+    "principal": "noemi",
+    "start": "2025-09-29T18:21:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s35",
+    "principal": "noemi",
+    "start": "2025-10-01T18:37:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s36",
+    "principal": "noemi",
+    "start": "2025-10-02T18:09:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s37",
+    "principal": "noemi",
+    "start": "2025-10-03T10:38:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s38",
+    "principal": "noemi",
+    "start": "2025-10-04T23:20:00",
+    "week": 6,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "noemi.s39",
+    "principal": "noemi",
+    "start": "2025-10-05T10:50:00",
+    "week": 6,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "noemi.s40",
+    "principal": "noemi",
+    "start": "2025-10-06T18:04:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s41",
+    "principal": "noemi",
+    "start": "2025-10-08T13:55:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s42",
+    "principal": "noemi",
+    "start": "2025-10-09T23:16:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s43",
+    "principal": "noemi",
+    "start": "2025-10-10T10:48:00",
+    "week": 7,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "noemi.s44",
+    "principal": "noemi",
+    "start": "2025-10-11T12:22:00",
+    "week": 7,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "noemi.s45",
+    "principal": "noemi",
+    "start": "2025-10-12T13:47:00",
+    "week": 7,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s46",
+    "principal": "noemi",
+    "start": "2025-10-13T10:04:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s47",
+    "principal": "noemi",
+    "start": "2025-10-14T10:59:00",
+    "week": 8,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s48",
+    "principal": "noemi",
+    "start": "2025-10-15T10:11:00",
+    "week": 8,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s49",
+    "principal": "noemi",
+    "start": "2025-10-16T13:48:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s50",
+    "principal": "noemi",
+    "start": "2025-10-17T18:19:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s51",
+    "principal": "noemi",
+    "start": "2025-10-18T23:08:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s52",
+    "principal": "noemi",
+    "start": "2025-10-19T12:43:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s53",
+    "principal": "noemi",
+    "start": "2025-10-21T13:44:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "noemi.s54",
+    "principal": "noemi",
+    "start": "2025-10-22T10:51:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s55",
+    "principal": "noemi",
+    "start": "2025-10-23T12:52:00",
+    "week": 9,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s56",
+    "principal": "noemi",
+    "start": "2025-10-24T12:09:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s57",
+    "principal": "noemi",
+    "start": "2025-10-25T23:09:00",
+    "week": 9,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s58",
+    "principal": "noemi",
+    "start": "2025-10-26T12:00:00",
+    "week": 9,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "noemi.s59",
+    "principal": "noemi",
+    "start": "2025-10-27T13:18:00",
+    "week": 10,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "noemi.s60",
+    "principal": "noemi",
+    "start": "2025-10-28T10:34:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s61",
+    "principal": "noemi",
+    "start": "2025-10-29T10:02:00",
+    "week": 10,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "noemi.s62",
+    "principal": "noemi",
+    "start": "2025-10-30T10:36:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s63",
+    "principal": "noemi",
+    "start": "2025-10-31T12:58:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s64",
+    "principal": "noemi",
+    "start": "2025-11-01T12:39:00",
+    "week": 10,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s65",
+    "principal": "noemi",
+    "start": "2025-11-02T13:41:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s66",
+    "principal": "noemi",
+    "start": "2025-11-03T10:25:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s67",
+    "principal": "noemi",
+    "start": "2025-11-04T23:39:00",
+    "week": 11,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "noemi.s68",
+    "principal": "noemi",
+    "start": "2025-11-05T13:56:00",
+    "week": 11,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s69",
+    "principal": "noemi",
+    "start": "2025-11-06T18:51:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s70",
+    "principal": "noemi",
+    "start": "2025-11-07T10:19:00",
+    "week": 11,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s71",
+    "principal": "noemi",
+    "start": "2025-11-08T12:58:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s72",
+    "principal": "noemi",
+    "start": "2025-11-09T23:27:00",
+    "week": 11,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s73",
+    "principal": "noemi",
+    "start": "2025-11-10T10:24:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s74",
+    "principal": "noemi",
+    "start": "2025-11-11T10:45:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s75",
+    "principal": "noemi",
+    "start": "2025-11-12T23:37:00",
+    "week": 12,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "noemi.s76",
+    "principal": "noemi",
+    "start": "2025-11-13T10:43:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s77",
+    "principal": "noemi",
+    "start": "2025-11-14T23:27:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s78",
+    "principal": "noemi",
+    "start": "2025-11-15T12:13:00",
+    "week": 12,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "noemi.s79",
+    "principal": "noemi",
+    "start": "2025-11-17T13:58:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s80",
+    "principal": "noemi",
+    "start": "2025-11-18T13:23:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "noemi.s81",
+    "principal": "noemi",
+    "start": "2025-11-19T18:57:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s82",
+    "principal": "noemi",
+    "start": "2025-11-20T10:03:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "noemi.s83",
+    "principal": "noemi",
+    "start": "2025-11-21T23:20:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s84",
+    "principal": "noemi",
+    "start": "2025-11-22T10:44:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "noemi.s85",
+    "principal": "noemi",
+    "start": "2025-11-23T10:01:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s01",
+    "principal": "jun",
+    "start": "2025-08-26T05:06:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s02",
+    "principal": "jun",
+    "start": "2025-08-29T23:08:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s03",
+    "principal": "jun",
+    "start": "2025-08-30T14:10:00",
+    "week": 1,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "jun.s04",
+    "principal": "jun",
+    "start": "2025-09-02T21:41:00",
+    "week": 2,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "jun.s05",
+    "principal": "jun",
+    "start": "2025-09-04T05:57:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s06",
+    "principal": "jun",
+    "start": "2025-09-06T14:20:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s07",
+    "principal": "jun",
+    "start": "2025-09-07T05:28:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s08",
+    "principal": "jun",
+    "start": "2025-09-09T14:00:00",
+    "week": 3,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "jun.s09",
+    "principal": "jun",
+    "start": "2025-09-11T21:14:00",
+    "week": 3,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "jun.s10",
+    "principal": "jun",
+    "start": "2025-09-12T05:45:00",
+    "week": 3,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "jun.s11",
+    "principal": "jun",
+    "start": "2025-09-13T23:42:00",
+    "week": 3,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "jun.s12",
+    "principal": "jun",
+    "start": "2025-09-16T23:37:00",
+    "week": 4,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "jun.s13",
+    "principal": "jun",
+    "start": "2025-09-17T14:58:00",
+    "week": 4,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s14",
+    "principal": "jun",
+    "start": "2025-09-20T23:49:00",
+    "week": 4,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s15",
+    "principal": "jun",
+    "start": "2025-09-21T14:44:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s16",
+    "principal": "jun",
+    "start": "2025-09-22T14:23:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s17",
+    "principal": "jun",
+    "start": "2025-09-25T21:56:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s18",
+    "principal": "jun",
+    "start": "2025-09-26T21:56:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s19",
+    "principal": "jun",
+    "start": "2025-09-28T23:34:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s20",
+    "principal": "jun",
+    "start": "2025-09-29T21:20:00",
+    "week": 6,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s21",
+    "principal": "jun",
+    "start": "2025-10-01T23:47:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s22",
+    "principal": "jun",
+    "start": "2025-10-02T14:52:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s23",
+    "principal": "jun",
+    "start": "2025-10-07T05:57:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s24",
+    "principal": "jun",
+    "start": "2025-10-08T05:17:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s25",
+    "principal": "jun",
+    "start": "2025-10-09T23:55:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s26",
+    "principal": "jun",
+    "start": "2025-10-12T14:25:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s27",
+    "principal": "jun",
+    "start": "2025-10-15T23:20:00",
+    "week": 8,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "jun.s28",
+    "principal": "jun",
+    "start": "2025-10-16T14:10:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s29",
+    "principal": "jun",
+    "start": "2025-10-18T05:22:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s30",
+    "principal": "jun",
+    "start": "2025-10-20T05:45:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s31",
+    "principal": "jun",
+    "start": "2025-10-21T21:48:00",
+    "week": 9,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "jun.s32",
+    "principal": "jun",
+    "start": "2025-10-23T14:35:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s33",
+    "principal": "jun",
+    "start": "2025-10-31T14:50:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s34",
+    "principal": "jun",
+    "start": "2025-11-01T21:16:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s35",
+    "principal": "jun",
+    "start": "2025-11-02T23:05:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s36",
+    "principal": "jun",
+    "start": "2025-11-05T23:08:00",
+    "week": 11,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "jun.s37",
+    "principal": "jun",
+    "start": "2025-11-06T14:33:00",
+    "week": 11,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "jun.s38",
+    "principal": "jun",
+    "start": "2025-11-07T23:31:00",
+    "week": 11,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s39",
+    "principal": "jun",
+    "start": "2025-11-09T21:45:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s40",
+    "principal": "jun",
+    "start": "2025-11-10T05:54:00",
+    "week": 12,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "jun.s41",
+    "principal": "jun",
+    "start": "2025-11-13T05:59:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "jun.s42",
+    "principal": "jun",
+    "start": "2025-11-14T23:49:00",
+    "week": 12,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "jun.s43",
+    "principal": "jun",
+    "start": "2025-11-16T21:30:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "jun.s44",
+    "principal": "jun",
+    "start": "2025-11-17T21:23:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "jun.s45",
+    "principal": "jun",
+    "start": "2025-11-18T21:27:00",
+    "week": 13,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "jun.s46",
+    "principal": "jun",
+    "start": "2025-11-20T05:18:00",
+    "week": 13,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "jun.s47",
+    "principal": "jun",
+    "start": "2025-11-21T23:39:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s01",
+    "principal": "elliot",
+    "start": "2025-08-25T14:23:00",
+    "week": 1,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "elliot.s02",
+    "principal": "elliot",
+    "start": "2025-08-26T14:48:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s03",
+    "principal": "elliot",
+    "start": "2025-08-27T21:36:00",
+    "week": 1,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "elliot.s04",
+    "principal": "elliot",
+    "start": "2025-08-28T21:08:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s05",
+    "principal": "elliot",
+    "start": "2025-08-29T02:22:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s06",
+    "principal": "elliot",
+    "start": "2025-08-31T05:02:00",
+    "week": 1,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "elliot.s07",
+    "principal": "elliot",
+    "start": "2025-09-02T05:57:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s08",
+    "principal": "elliot",
+    "start": "2025-09-03T21:09:00",
+    "week": 2,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "elliot.s09",
+    "principal": "elliot",
+    "start": "2025-09-04T14:42:00",
+    "week": 2,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "elliot.s10",
+    "principal": "elliot",
+    "start": "2025-09-05T10:31:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s11",
+    "principal": "elliot",
+    "start": "2025-09-06T02:22:00",
+    "week": 2,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "elliot.s12",
+    "principal": "elliot",
+    "start": "2025-09-07T21:42:00",
+    "week": 2,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s13",
+    "principal": "elliot",
+    "start": "2025-09-08T21:50:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s14",
+    "principal": "elliot",
+    "start": "2025-09-09T10:11:00",
+    "week": 3,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "elliot.s15",
+    "principal": "elliot",
+    "start": "2025-09-10T21:09:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s16",
+    "principal": "elliot",
+    "start": "2025-09-11T02:25:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s17",
+    "principal": "elliot",
+    "start": "2025-09-13T02:13:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s18",
+    "principal": "elliot",
+    "start": "2025-09-14T14:27:00",
+    "week": 3,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s19",
+    "principal": "elliot",
+    "start": "2025-09-15T05:59:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s20",
+    "principal": "elliot",
+    "start": "2025-09-17T10:19:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s21",
+    "principal": "elliot",
+    "start": "2025-09-18T21:50:00",
+    "week": 4,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s22",
+    "principal": "elliot",
+    "start": "2025-09-19T10:08:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s23",
+    "principal": "elliot",
+    "start": "2025-09-20T10:37:00",
+    "week": 4,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "elliot.s24",
+    "principal": "elliot",
+    "start": "2025-09-21T02:23:00",
+    "week": 4,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s25",
+    "principal": "elliot",
+    "start": "2025-09-22T05:26:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s26",
+    "principal": "elliot",
+    "start": "2025-09-23T10:48:00",
+    "week": 5,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s27",
+    "principal": "elliot",
+    "start": "2025-09-24T21:33:00",
+    "week": 5,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "elliot.s28",
+    "principal": "elliot",
+    "start": "2025-09-25T02:35:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s29",
+    "principal": "elliot",
+    "start": "2025-09-27T14:47:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s30",
+    "principal": "elliot",
+    "start": "2025-09-28T10:30:00",
+    "week": 5,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "elliot.s31",
+    "principal": "elliot",
+    "start": "2025-09-29T10:07:00",
+    "week": 6,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s32",
+    "principal": "elliot",
+    "start": "2025-09-30T05:07:00",
+    "week": 6,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s33",
+    "principal": "elliot",
+    "start": "2025-10-01T21:50:00",
+    "week": 6,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "elliot.s34",
+    "principal": "elliot",
+    "start": "2025-10-02T02:19:00",
+    "week": 6,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s35",
+    "principal": "elliot",
+    "start": "2025-10-03T14:46:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s36",
+    "principal": "elliot",
+    "start": "2025-10-04T14:55:00",
+    "week": 6,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "elliot.s37",
+    "principal": "elliot",
+    "start": "2025-10-06T21:40:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s38",
+    "principal": "elliot",
+    "start": "2025-10-07T10:14:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s39",
+    "principal": "elliot",
+    "start": "2025-10-08T14:24:00",
+    "week": 7,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "elliot.s40",
+    "principal": "elliot",
+    "start": "2025-10-09T05:07:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s41",
+    "principal": "elliot",
+    "start": "2025-10-10T05:42:00",
+    "week": 7,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "elliot.s42",
+    "principal": "elliot",
+    "start": "2025-10-11T02:48:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s43",
+    "principal": "elliot",
+    "start": "2025-10-12T02:38:00",
+    "week": 7,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s44",
+    "principal": "elliot",
+    "start": "2025-10-13T05:33:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s45",
+    "principal": "elliot",
+    "start": "2025-10-14T21:23:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s46",
+    "principal": "elliot",
+    "start": "2025-10-15T10:18:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s47",
+    "principal": "elliot",
+    "start": "2025-10-16T14:30:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s48",
+    "principal": "elliot",
+    "start": "2025-10-17T10:40:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s49",
+    "principal": "elliot",
+    "start": "2025-10-18T02:04:00",
+    "week": 8,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "elliot.s50",
+    "principal": "elliot",
+    "start": "2025-10-19T10:32:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s51",
+    "principal": "elliot",
+    "start": "2025-10-20T02:58:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s52",
+    "principal": "elliot",
+    "start": "2025-10-21T14:12:00",
+    "week": 9,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "elliot.s53",
+    "principal": "elliot",
+    "start": "2025-10-22T14:36:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s54",
+    "principal": "elliot",
+    "start": "2025-10-23T10:59:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s55",
+    "principal": "elliot",
+    "start": "2025-10-24T21:29:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s56",
+    "principal": "elliot",
+    "start": "2025-10-25T10:48:00",
+    "week": 9,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s57",
+    "principal": "elliot",
+    "start": "2025-10-27T05:42:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s58",
+    "principal": "elliot",
+    "start": "2025-10-28T02:22:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s59",
+    "principal": "elliot",
+    "start": "2025-10-29T14:28:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s60",
+    "principal": "elliot",
+    "start": "2025-10-30T05:40:00",
+    "week": 10,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s61",
+    "principal": "elliot",
+    "start": "2025-10-31T05:39:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s62",
+    "principal": "elliot",
+    "start": "2025-11-01T14:58:00",
+    "week": 10,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "elliot.s63",
+    "principal": "elliot",
+    "start": "2025-11-02T02:30:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s64",
+    "principal": "elliot",
+    "start": "2025-11-03T05:44:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s65",
+    "principal": "elliot",
+    "start": "2025-11-04T21:45:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s66",
+    "principal": "elliot",
+    "start": "2025-11-05T21:15:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s67",
+    "principal": "elliot",
+    "start": "2025-11-06T21:05:00",
+    "week": 11,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s68",
+    "principal": "elliot",
+    "start": "2025-11-07T02:21:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s69",
+    "principal": "elliot",
+    "start": "2025-11-08T02:28:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s70",
+    "principal": "elliot",
+    "start": "2025-11-09T14:20:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s71",
+    "principal": "elliot",
+    "start": "2025-11-10T05:44:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s72",
+    "principal": "elliot",
+    "start": "2025-11-11T21:54:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s73",
+    "principal": "elliot",
+    "start": "2025-11-12T14:16:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s74",
+    "principal": "elliot",
+    "start": "2025-11-13T10:40:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s75",
+    "principal": "elliot",
+    "start": "2025-11-15T05:43:00",
+    "week": 12,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s76",
+    "principal": "elliot",
+    "start": "2025-11-16T14:08:00",
+    "week": 12,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s77",
+    "principal": "elliot",
+    "start": "2025-11-17T02:12:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "elliot.s78",
+    "principal": "elliot",
+    "start": "2025-11-18T21:47:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "elliot.s79",
+    "principal": "elliot",
+    "start": "2025-11-19T21:06:00",
+    "week": 13,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "elliot.s80",
+    "principal": "elliot",
+    "start": "2025-11-20T02:45:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "elliot.s81",
+    "principal": "elliot",
+    "start": "2025-11-21T14:08:00",
+    "week": 13,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "elliot.s82",
+    "principal": "elliot",
+    "start": "2025-11-22T05:24:00",
+    "week": 13,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s01",
+    "principal": "rochelle",
+    "start": "2025-08-25T12:02:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s02",
+    "principal": "rochelle",
+    "start": "2025-08-30T22:45:00",
+    "week": 1,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s03",
+    "principal": "rochelle",
+    "start": "2025-08-31T15:55:00",
+    "week": 1,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s04",
+    "principal": "rochelle",
+    "start": "2025-09-01T12:29:00",
+    "week": 2,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "rochelle.s05",
+    "principal": "rochelle",
+    "start": "2025-09-02T21:12:00",
+    "week": 2,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "rochelle.s06",
+    "principal": "rochelle",
+    "start": "2025-09-03T15:03:00",
+    "week": 2,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s07",
+    "principal": "rochelle",
+    "start": "2025-09-04T12:58:00",
+    "week": 2,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "rochelle.s08",
+    "principal": "rochelle",
+    "start": "2025-09-10T22:00:00",
+    "week": 3,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s09",
+    "principal": "rochelle",
+    "start": "2025-09-11T15:53:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s10",
+    "principal": "rochelle",
+    "start": "2025-09-12T15:03:00",
+    "week": 3,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s11",
+    "principal": "rochelle",
+    "start": "2025-09-15T15:00:00",
+    "week": 4,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s12",
+    "principal": "rochelle",
+    "start": "2025-09-20T15:20:00",
+    "week": 4,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s13",
+    "principal": "rochelle",
+    "start": "2025-09-21T15:21:00",
+    "week": 4,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s14",
+    "principal": "rochelle",
+    "start": "2025-09-22T12:26:00",
+    "week": 5,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s15",
+    "principal": "rochelle",
+    "start": "2025-09-24T15:09:00",
+    "week": 5,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "rochelle.s16",
+    "principal": "rochelle",
+    "start": "2025-09-26T22:58:00",
+    "week": 5,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s17",
+    "principal": "rochelle",
+    "start": "2025-09-28T07:50:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s18",
+    "principal": "rochelle",
+    "start": "2025-09-30T21:53:00",
+    "week": 6,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "rochelle.s19",
+    "principal": "rochelle",
+    "start": "2025-10-02T12:06:00",
+    "week": 6,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "rochelle.s20",
+    "principal": "rochelle",
+    "start": "2025-10-03T15:50:00",
+    "week": 6,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s21",
+    "principal": "rochelle",
+    "start": "2025-10-07T22:58:00",
+    "week": 7,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s22",
+    "principal": "rochelle",
+    "start": "2025-10-08T15:23:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s23",
+    "principal": "rochelle",
+    "start": "2025-10-10T12:23:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "rochelle.s24",
+    "principal": "rochelle",
+    "start": "2025-10-11T22:01:00",
+    "week": 7,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "rochelle.s25",
+    "principal": "rochelle",
+    "start": "2025-10-13T22:00:00",
+    "week": 8,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "rochelle.s26",
+    "principal": "rochelle",
+    "start": "2025-10-14T07:32:00",
+    "week": 8,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "rochelle.s27",
+    "principal": "rochelle",
+    "start": "2025-10-18T21:49:00",
+    "week": 8,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s28",
+    "principal": "rochelle",
+    "start": "2025-10-22T22:16:00",
+    "week": 9,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s29",
+    "principal": "rochelle",
+    "start": "2025-10-23T21:15:00",
+    "week": 9,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "rochelle.s30",
+    "principal": "rochelle",
+    "start": "2025-10-25T21:32:00",
+    "week": 9,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s31",
+    "principal": "rochelle",
+    "start": "2025-10-27T15:46:00",
+    "week": 10,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s32",
+    "principal": "rochelle",
+    "start": "2025-10-28T22:39:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s33",
+    "principal": "rochelle",
+    "start": "2025-10-29T22:44:00",
+    "week": 10,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s34",
+    "principal": "rochelle",
+    "start": "2025-11-04T22:35:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s35",
+    "principal": "rochelle",
+    "start": "2025-11-05T21:34:00",
+    "week": 11,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "rochelle.s36",
+    "principal": "rochelle",
+    "start": "2025-11-07T15:14:00",
+    "week": 11,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s37",
+    "principal": "rochelle",
+    "start": "2025-11-09T22:34:00",
+    "week": 11,
+    "task_type": "personal_reflection"
+  },
+  {
+    "id": "rochelle.s38",
+    "principal": "rochelle",
+    "start": "2025-11-10T07:13:00",
+    "week": 12,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "rochelle.s39",
+    "principal": "rochelle",
+    "start": "2025-11-11T15:10:00",
+    "week": 12,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "rochelle.s40",
+    "principal": "rochelle",
+    "start": "2025-11-15T22:41:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "rochelle.s41",
+    "principal": "rochelle",
+    "start": "2025-11-17T07:22:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s42",
+    "principal": "rochelle",
+    "start": "2025-11-18T22:07:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "rochelle.s43",
+    "principal": "rochelle",
+    "start": "2025-11-22T21:01:00",
+    "week": 13,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "grace.s01",
+    "principal": "grace",
+    "start": "2025-08-26T11:24:00",
+    "week": 1,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "grace.s02",
+    "principal": "grace",
+    "start": "2025-09-02T11:50:00",
+    "week": 2,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "grace.s03",
+    "principal": "grace",
+    "start": "2025-09-13T16:46:00",
+    "week": 3,
+    "task_type": "tutoring"
+  },
+  {
+    "id": "grace.s04",
+    "principal": "grace",
+    "start": "2025-09-16T21:49:00",
+    "week": 4,
+    "task_type": "writing_new"
+  },
+  {
+    "id": "grace.s05",
+    "principal": "grace",
+    "start": "2025-09-27T21:08:00",
+    "week": 5,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "grace.s06",
+    "principal": "grace",
+    "start": "2025-10-05T22:04:00",
+    "week": 6,
+    "task_type": "multimedia"
+  },
+  {
+    "id": "grace.s07",
+    "principal": "grace",
+    "start": "2025-10-11T22:06:00",
+    "week": 7,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "grace.s08",
+    "principal": "grace",
+    "start": "2025-10-18T16:46:00",
+    "week": 8,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "grace.s09",
+    "principal": "grace",
+    "start": "2025-10-21T21:58:00",
+    "week": 9,
+    "task_type": "writing_edit"
+  },
+  {
+    "id": "grace.s10",
+    "principal": "grace",
+    "start": "2025-10-27T06:35:00",
+    "week": 10,
+    "task_type": "technical_help"
+  },
+  {
+    "id": "grace.s11",
+    "principal": "grace",
+    "start": "2025-11-03T21:57:00",
+    "week": 11,
+    "task_type": "seeking_information"
+  },
+  {
+    "id": "grace.s12",
+    "principal": "grace",
+    "start": "2025-11-15T16:38:00",
+    "week": 12,
+    "task_type": "practical_guidance"
+  },
+  {
+    "id": "grace.s13",
+    "principal": "grace",
+    "start": "2025-11-18T06:49:00",
+    "week": 13,
+    "task_type": "practical_guidance"
+  }
+]

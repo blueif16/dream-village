@@ -1,0 +1,361 @@
+{
+  "principal": "rafael",
+  "week": 10,
+  "entries": [
+    {
+      "id": "rafael.w10.l01",
+      "date": "2025-10-27",
+      "what": "Rafael has brakes lab at Tamsen Valley College from 8 to 11, bleeding a caliper on the shop's practice rotor. Afterward he fills up the Tacoma at the Ruel Road station.",
+      "with": [],
+      "outcome": "Lab work finished and the truck is fueled for the week.",
+      "feeling": "focused, a bit tired",
+      "facts": [
+        "rafael.f02",
+        "rafael.f34",
+        "rafael.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l02",
+      "date": "2025-10-27",
+      "what": "Pickup soccer at Delgado Park in the evening with the usual Monday crowd.",
+      "with": [],
+      "outcome": "Sweaty and loosened up, home by 9.",
+      "feeling": "relaxed",
+      "facts": [
+        "rafael.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l03",
+      "date": "2025-10-27",
+      "what": "At night he watches engine teardown videos in bed before sleeping around midnight.",
+      "with": [],
+      "outcome": "Fell asleep partway through a transmission teardown.",
+      "feeling": "sleepy",
+      "facts": [
+        "rafael.f32",
+        "rafael.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l04",
+      "date": "2025-10-28",
+      "what": "Engine performance class with Salas from 1 to 4. Dante pitches another auction Civic while they share a lab bench.",
+      "with": [
+        "roberto",
+        "dante"
+      ],
+      "outcome": "Rafael diagnosed the misfire first, and told Dante he'd think about the Civic.",
+      "feeling": "confident, a little tempted",
+      "facts": [
+        "rafael.f02",
+        "rafael.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l05",
+      "date": "2025-10-28",
+      "what": "Records voice-memo flashcards in the truck and plays them back while he runs errands for his mom.",
+      "with": [],
+      "outcome": "Ten new cards recorded for the G1.",
+      "feeling": "determined",
+      "facts": [
+        "rafael.f20",
+        "rafael.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l06",
+      "date": "2025-10-28",
+      "what": "Dinner at home with Oscar and Gladys, who talk about the new lot's slow weeknight sales.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Agreed to a longer setup on Thursday.",
+      "feeling": "dutiful",
+      "facts": [
+        "rafael.f03",
+        "rafael.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l07",
+      "date": "2025-10-29",
+      "what": "Brakes lab from 8 to 11 at Tamsen Valley, then he sits down in the truck to start the Ortega Auto & Tire internship application.",
+      "with": [],
+      "outcome": "Basic fields done, cover letter still blank.",
+      "feeling": "nervous",
+      "facts": [
+        "rafael.f02",
+        "rafael.f21"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l08",
+      "date": "2025-10-29",
+      "what": "Drafts the cover letter and writes that he can only start after family obligations. He asks the assistant if that sounds bad.",
+      "with": [],
+      "outcome": "Softened the wording but kept the mention of the stand.",
+      "feeling": "guilty, unsure",
+      "facts": [
+        "rafael.f21",
+        "rafael.f35"
+      ],
+      "impressions": [
+        "rafael.i01"
+      ]
+    },
+    {
+      "id": "rafael.w10.l09",
+      "date": "2025-10-29",
+      "what": "Rewatches his teardown videos at night and listens to flashcards once through.",
+      "with": [],
+      "outcome": "Went to bed on time.",
+      "feeling": "tired but okay",
+      "facts": [
+        "rafael.f20",
+        "rafael.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l10",
+      "date": "2025-10-30",
+      "what": "Engine performance class from 1 to 4. He tells Salas he is submitting the internship application tonight.",
+      "with": [
+        "roberto"
+      ],
+      "outcome": "Salas reminded him the recommendation depends on the G1 practice result.",
+      "feeling": "motivated, pressured",
+      "facts": [
+        "rafael.f49"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l11",
+      "date": "2025-10-30",
+      "what": "Submits the application to Ortega Auto & Tire for a spring internship, pending his ASE practice result.",
+      "with": [],
+      "outcome": "Application sent, waiting on the G1 practice result.",
+      "feeling": "relieved, anxious",
+      "facts": [
+        "rafael.f21",
+        "rafael.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l12",
+      "date": "2025-10-30",
+      "what": "Works the stand at the Ruel Road lot from 5 to 10 p.m., running the griddle while flashcards play from his phone.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Busy night, sold out of revueltas by 9:30.",
+      "feeling": "tired, proud",
+      "facts": [
+        "rafael.f09",
+        "rafael.f10",
+        "rafael.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l13",
+      "date": "2025-10-31",
+      "what": "Morning at home, then a quick lunch of leftover pupusas before picking up supplies for the stand.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Restocked masa and curtido supplies.",
+      "feeling": "steady",
+      "facts": [
+        "rafael.f29",
+        "rafael.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l14",
+      "date": "2025-10-31",
+      "what": "Halloween Friday: he works the stand from 5, with kids in costumes stopping by on the way to Calle Ortega. At 8:50 he leaves to get Dulce from Taquería Colima.",
+      "with": [
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Good night of sales and the stand left in his parents' hands.",
+      "feeling": "cheerful",
+      "facts": [
+        "rafael.f09",
+        "rafael.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l15",
+      "date": "2025-10-31",
+      "what": "Picks up Dulce outside Colima, who is still in a costume headband from the Halloween rush, and drives her home to Marisol Gardens before returning to the lot.",
+      "with": [
+        "dulce"
+      ],
+      "outcome": "Dulce got home safely and he was back by 9:20.",
+      "feeling": "content",
+      "facts": [
+        "rafael.f26",
+        "rafael.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l16",
+      "date": "2025-11-01",
+      "what": "Stand shift at the Ruel Road lot in the evening, with Ximena helping on Saturday.",
+      "with": [
+        "ximena",
+        "oscar",
+        "gladys"
+      ],
+      "outcome": "Steady crowd, a smooth night.",
+      "feeling": "happy",
+      "facts": [
+        "rafael.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l17",
+      "date": "2025-11-01",
+      "what": "Morning setup help for his mother, then he tops off the generator oil before heading to the lot.",
+      "with": [
+        "gladys"
+      ],
+      "outcome": "Generator ran fine all night.",
+      "feeling": "capable",
+      "facts": [
+        "rafael.f52",
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l18",
+      "date": "2025-11-01",
+      "what": "After closing, he drives Ximena home in the Tacoma and talks about her birthday plans.",
+      "with": [
+        "ximena"
+      ],
+      "outcome": "Settled on a dinner idea.",
+      "feeling": "warm",
+      "facts": [
+        "rafael.f39",
+        "rafael.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l19",
+      "date": "2025-11-02",
+      "what": "Sleeps in, then helps Oscar with tool and canopy upkeep before the Sunday evening stand.",
+      "with": [
+        "oscar"
+      ],
+      "outcome": "Canopy fixed and ready.",
+      "feeling": "lazy then productive",
+      "facts": [
+        "rafael.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l20",
+      "date": "2025-11-02",
+      "what": "Works the Sunday stand shift from 5 to 10 p.m. at the Ruel Road lot.",
+      "with": [
+        "gladys",
+        "oscar"
+      ],
+      "outcome": "Closed the week with decent sales.",
+      "feeling": "worn out",
+      "facts": [
+        "rafael.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "rafael.w10.l21",
+      "date": "2025-11-02",
+      "what": "At night he listens to his flashcards in the truck and checks his schedule for the next week.",
+      "with": [],
+      "outcome": "Planned a study block for Monday.",
+      "feeling": "resolved",
+      "facts": [
+        "rafael.f20",
+        "rafael.f16"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "rafael.w10.n01",
+      "subject": "rafael",
+      "attribute": "cover_letter_status",
+      "value": "cover letter for Ortega Auto & Tire mentions the stand as a start-date limit",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w10.n02",
+      "subject": "rafael",
+      "attribute": "halloween_night",
+      "value": "worked the stand on Halloween and gave out free pupusa samples to kids",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w10.n03",
+      "subject": "rafael",
+      "attribute": "flashcard_count",
+      "value": "recorded about 40 voice-memo flashcards so far",
+      "valid_from": "2025-10-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.w10.n04",
+      "subject": "rafael",
+      "attribute": "saturday_plan",
+      "value": "plans a Monday study block for the G1 after the weekend stand shifts",
+      "valid_from": "2025-11-02",
+      "valid_to": "2025-11-22",
+      "superseded_by": "rafael.w13.n03",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.w10.n05",
+      "subject": "rafael",
+      "attribute": "generator_service",
+      "value": "changed the generator oil on Saturday morning",
+      "valid_from": "2025-11-01",
+      "valid_to": "2025-11-11",
+      "superseded_by": "rafael.w12.n03",
+      "class": "trivia"
+    }
+  ]
+}

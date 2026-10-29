@@ -1,0 +1,153 @@
+{
+  "session_id": "rochelle.s28",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Uses index cards plus printed library quizzes and times herself with the kitchen timer",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do index cards plus printed practice quizzes from the library and time myself with the kitchen timer now",
+      "support_quote": ""
+    },
+    {
+      "text": "Final is Dec 15",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "final is dec 15",
+      "support_quote": ""
+    },
+    {
+      "text": "Andre is on 10 hour days",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": "cast.f77",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "andre is on 10 hour days",
+      "support_quote": ""
+    },
+    {
+      "text": "Tuesday 3:30 pharmacy run with mother-in-law",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tuesday is Loretta Tuesdays 3:30 pharmacy run with my mother in law",
+      "support_quote": ""
+    },
+    {
+      "text": "Loretta Tuesdays clashes with Pedro's group",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Loretta Tuesdays 3:30 pharmacy run with my mother in law so it keeps cutting into Pedros group",
+      "support_quote": ""
+    },
+    {
+      "text": "Can only do timed quiz after 9pm at kitchen table",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "only after 9pm at the kitchen table when the house is quiet",
+      "support_quote": ""
+    },
+    {
+      "text": "Freezes with timer on screen, prefers paper",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i freeze when the timer starts on the laptop lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants answers short",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "short version of the quiz topics pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Tuesday pharmacy run with mother-in-law at 3:30 cuts into study group",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the 3:30 pharmacy run with your mother-in-law cuts into the study group",
+      "support_quote": "tuesday is Loretta Tuesdays 3:30 pharmacy run with my mother in law"
+    },
+    {
+      "text": "Does DeShawn pickup and cooks dinner",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Cook dinner, DeShawn pickup.",
+      "support_quote": "andre is on 10 hour days so im doing dinner most nights"
+    },
+    {
+      "text": "Can do quizzes at 9 p.m. at kitchen table",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "built around 9 p.m. at the kitchen table",
+      "support_quote": "only after 9pm at the kitchen table when the house is quiet"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f21",
+      "present": true,
+      "quote": "i do index cards plus printed practice quizzes from the library and time myself with the kitchen timer now"
+    },
+    {
+      "item_id": "rochelle.i02",
+      "present": true,
+      "quote": "i freeze when the timer starts on the laptop lol. can u get me more printable practice questions so i can do them like a real test"
+    },
+    {
+      "item_id": "rochelle.f24",
+      "present": true,
+      "quote": "only after 9pm at the kitchen table when the house is quiet"
+    },
+    {
+      "item_id": "rochelle.f41",
+      "present": true,
+      "quote": "tuesday is Loretta Tuesdays 3:30 pharmacy run with my mother in law"
+    },
+    {
+      "item_id": "rochelle.r05",
+      "present": true,
+      "quote": "tuesday is Loretta Tuesdays 3:30 pharmacy run with my mother in law so it keeps cutting into Pedros group"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

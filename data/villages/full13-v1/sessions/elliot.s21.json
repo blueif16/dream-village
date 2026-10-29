@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s21",
+  "principal": "elliot",
+  "start": "2025-09-18T21:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:50 pm update. typing one-handed, sorry. can you tutor me on how infant feeding schedules actually work? theo is two months, formula plus breastmilk. right now i take the 2 am feed and hana takes the 5 am. i want to be able to cover the 5 too, just for a while, without wrecking the night routine. i was at library story time this morning and basically dozing through the puppet show 🙃"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to walk you through it. Fair warning, a morning of dozing through puppets is a very normal baseline for parents of a 2-month-old.\n\n**How feeding works at about 2 months**\n- Most babies this age eat every 2.5-4 hours, roughly 8-12 feeds per 24 hours. Night stretches of 4-5 hours start to appear, but they aren't guaranteed.\n- Feed on cues (rooting, hands to mouth, fussing) rather than strictly by the clock. Crying is a late cue.\n- Formula volume is typically around 4-5 oz per feed at this age, but your pediatrician's guidance beats any general number.\n- Total intake matters more than any single feed. Wet diapers (about 5-6+ a day) and steady weight gain are the reassurance.\n\n**Taking over a second night feed**\nThe 2 a.m. and 5 a.m. feeds are about 3 hours apart, which fits a normal interval. Things to sort out:\n1. **Milk logistics:** Is the 5 a.m. feed breastmilk, formula, or a mix? If it's expressed milk, make sure there's enough in the fridge. Prepare bottles or pre-measure formula before bed so you're not fumbling at 5.\n2. **Keep the routine identical:** same dim light, same white noise, same burp and diaper order, so Theo doesn't learn that 5 a.m. means playtime.\n3. **Safe handling:** warm bottles in a water bath, not the microwave. Discard formula left in the bottle after the feed. Prepared formula shouldn't sit out more than an hour.\n4. **Stay awake:** if you feel yourself dozing mid-feed, put the baby in the crib. Don't feed in a sofa or armchair when very drowsy.\n\nWant a one-night rehearsal plan, or a prep checklist in table form?"
+    },
+    {
+      "role": "user",
+      "text": "table form please, you know me. also how do i put it to my wife. i don't want it to be a big thing. i'd like to say i'm up anyway at 2 and might as well just stay up, something like that"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a prep table:\n\n| When | Task | Notes |\n|---|---|---|\n| Before bed | Pre-measure formula or set out expressed milk | Label and place within easy reach |\n| Before bed | Set out burp cloth, diaper, wipes at the changing spot | Dim lamp, no overhead light |\n| 2 a.m. | Usual feed | Note the time and amount in your log |\n| ~4:45-5 a.m. | Watch for hunger cues | Don't wait for crying |\n| 5 a.m. | Warm bottle in water bath, feed, burp, diaper | Same order as the 2 a.m. routine |\n| After | Log time, amount, wet diapers | Keeps day and night feeds comparable |\n\n**Saying it to your wife**\nKeep it light and practical, for example:\n\n\"I'm up at 2 anyway, so I figure I'll just stay up and take the 5 too for a while. Easier than both of us getting woken. We can see how it goes.\"\n\nA few tips: say it as a trial with an easy way to revisit it, so it doesn't feel like a permanent change. Offer a small practical hook, like \"I've got the bottles prepped,\" so it sounds like logistics, not a big decision.\n\nIf you want, I can also sketch a quick plan for the first three nights."
+    }
+  ]
+}

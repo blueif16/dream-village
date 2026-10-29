@@ -1,0 +1,393 @@
+{
+  "session_id": "elliot.s66",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Hosting Thanksgiving at unit 209 on Nov 27, potluck, with Judith and Hana's parents",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f59",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm hosting at our place (unit 209) on nov 27, potluck style",
+      "support_quote": ""
+    },
+    {
+      "text": "Can only make scrambled eggs, boxed pasta and one chili",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i can make scrambled eggs, boxed pasta and one chili recipe",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith won't eat cilantro and wants decaf after noon",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom won't eat cilantro, and she asks for decaf after noon",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot is lactose intolerant, uses oat milk",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm lactose intolerant (oat milk guy)",
+      "support_quote": ""
+    },
+    {
+      "text": "Witching hour is Theo's crying stretch",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dinner prep has to stay out of the witching hour",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says chili is the one dish he knows",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "it's the one dish you know",
+      "support_quote": "i can make scrambled eggs, boxed pasta and one chili recipe"
+    },
+    {
+      "text": "Mom wants decaf after noon",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f49",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since your mom wants decaf after noon",
+      "support_quote": "she asks for decaf after noon"
+    },
+    {
+      "text": "Mom avoids cilantro",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f49",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Ask her to skip cilantro anywhere it might sneak in",
+      "support_quote": "my mom won't eat cilantro"
+    },
+    {
+      "text": "Elliot needs dairy-free sides",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Dairy-free sides that work for you:",
+      "support_quote": "i'm lactose intolerant (oat milk guy)"
+    },
+    {
+      "text": "Evening fussy stretch of the baby",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "so cleanup and dessert happen before the evening fussy stretch",
+      "support_quote": "dinner prep has to stay out of the witching hour"
+    },
+    {
+      "text": "Elliot is hosting with Hana's parents as guests",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f59",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Hana's parents",
+      "support_quote": "it's Hana's parents and my mom Judith plus Hana and me"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f59",
+      "present": true,
+      "quote": "i'm hosting at our place (unit 209) on nov 27, potluck style. it's Hana's parents and my mom Judith plus Hana and me"
+    },
+    {
+      "item_id": "elliot.f36",
+      "present": true,
+      "quote": "i can make scrambled eggs, boxed pasta and one chili recipe"
+    },
+    {
+      "item_id": "elliot.f49",
+      "present": true,
+      "quote": "my mom won't eat cilantro, and she asks for decaf after noon"
+    },
+    {
+      "item_id": "elliot.f37",
+      "present": true,
+      "quote": "i'm lactose intolerant (oat milk guy)"
+    },
+    {
+      "item_id": "elliot.r03",
+      "present": true,
+      "quote": "dinner prep has to stay out of the witching hour"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

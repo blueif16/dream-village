@@ -1,0 +1,47 @@
+{
+  "id": "rafael.s13",
+  "principal": "rafael",
+  "start": "2025-11-17T13:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "bro the G1 practice test is tomorrow nov 18, i need it for the shop internship. how is it scored and what should i expect"
+    },
+    {
+      "role": "assistant",
+      "text": "Good to know it's tomorrow, so let's keep this practical. For a typical ASE-style practice test:\n\n- Multiple choice, one best answer per question, no penalty for guessing, so never leave one blank.\n- Score is the percent correct. Check your program's passing mark (you'd know if it's 70%).\n- Questions are usually short scenarios: a symptom, then which cause or next step is most likely. Watch for words like MOST likely, EXCEPT, and NOT.\n- Expect topics like brakes, steering and suspension, electrical, engine performance, HVAC and routine maintenance.\n\nFirst-timer tips:\n1. Read the last line of the question first so you know what it asks.\n2. Picture the car in the bay and ask what you'd check first.\n3. Knock out two obviously wrong answers, then pick between the rest.\n4. Flag hard ones and come back instead of burning time.\n5. Don't change an answer unless you find a clear reason.\n\nWant the short version as a checklist for tonight?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good. also how would i ask my dad for one weekend off from the stand before a test like this. like how do i word it"
+    },
+    {
+      "role": "assistant",
+      "text": "Keep it short, specific and give him time to plan:\n\n\"Dad, I have an important test for my internship on [date]. Could I take [weekend dates] off to study? I'll cover setup the weekend before / make up a shift after, and I'll tell you the plan so the stand doesn't get short.\"\n\nPick a calm moment, not during a rush, and offer a concrete way to make it up. Want me to adjust it for how you two usually talk?"
+    },
+    {
+      "role": "user",
+      "text": "nel never mind forget it. the stand needs me. anyway i already sandbagged and tarped the stand area last week so my mom wouldnt have to lift anything. what else can i set up for her"
+    },
+    {
+      "role": "assistant",
+      "text": "Okay, we can drop it. If it comes back later I'm happy to help.\n\nFor making things easier on your mom at the stand:\n- Put heavy items (bags of masa, coolers, propane or water jugs) on a small hand truck or wheeled cart so she never carries them.\n- Set up a table at waist height for the cash box and prep so she isn't bending.\n- Pre-stage supplies in labeled bins, ready to grab.\n- Add a mat for standing, a stool, and good lighting.\n- Keep a tarp and bungees ready for rain.\n\nWant a quick setup checklist you could print?"
+    },
+    {
+      "role": "user",
+      "text": "simón maybe later. last thing. my classmate dante wants me to fix up civics he flips for 30% of the profit labor only. its kinda tempting. what does labor only mean if the first car loses money"
+    },
+    {
+      "role": "assistant",
+      "text": "Labor-only means you put in work but no cash. If a car loses money, you generally don't owe for the purchase price or parts, as long as your agreement says so. Your risk is mainly unpaid time, and possibly 30% of nothing.\n\nThings to put in writing: who pays for parts, how profit is calculated (sale price minus purchase, parts and fees), when you get paid, and that you carry no losses. Also check whether selling several cars a year needs a dealer license, since that's his responsibility to sort out.\n\nIf you want to quietly step back after a loss, something like: \"Hey, I've got a lot with school and the stand right now. I'm going to pass on more cars after this one. Thanks for the shot, no hard feelings.\" Friendly, brief, no blame.\n\nWant me to draft a simple written agreement too?"
+    },
+    {
+      "role": "user",
+      "text": "yeah thats the move. thanks bro 👍"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck on the G1 tomorrow. Eat something solid beforehand, trust what you know from the bay, and breathe through the first few questions."
+    }
+  ]
+}

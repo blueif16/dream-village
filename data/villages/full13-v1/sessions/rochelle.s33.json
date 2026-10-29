@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s33",
+  "principal": "rochelle",
+  "start": "2025-10-29T22:44:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest how do i set up a small automatic transfer on my credit union website. its for my share of the thanksgiving groceries with keisha. i'll do it tonight after my timed practice questions w the kitchen timer"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Here's the usual path:\n\n1. Log in to your credit union's online banking.\n2. Go to Transfers, then Schedule or Recurring Transfer.\n3. From: your checking account. To: the account you're sending to (if it's Keisha's, you may need to add her as an external recipient first).\n4. Enter the amount and pick a frequency. For a one-time split, choose one date. For a small repeating amount, weekly or biweekly.\n5. Set the start date and an end date so it stops after Thanksgiving.\n6. Review and confirm.\n\nSome forms ask you to verify your identity before they'll set up a new transfer. What are you seeing on your screen?"
+    },
+    {
+      "role": "user",
+      "text": "it wants me to verify my identity b4 it will set it up. asks for drivers license number. its D4829175 lol ok typing it in. also what happens if the page times out halfway and i lose everything i typed 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Good, that's the right field. Make sure the number matches your license exactly and pick the state on the dropdown.\n\nOn the timeout: most banking sites log you out after a few minutes of no activity, and yes, anything unsaved is usually lost. To keep that from hurting you:\n\n- Have everything ready before you start: the recipient details, the amount, the dates.\n- Keep moving through the form and don't leave it sitting open.\n- If you get a warning pop-up about ending your session, click to stay logged in.\n- If it does time out, log back in. The form will probably be blank, but it only takes a couple of minutes to redo.\n- Don't submit twice. Check your scheduled transfers list first to see whether the first one went through.\n\nWant to run through the last steps?"
+    },
+    {
+      "role": "user",
+      "text": "yes short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "1. Finish the identity step with your license info.\n2. Enter the recipient details, amount, and dates.\n3. Set an end date after Thanksgiving.\n4. Click Review, check everything, then Confirm.\n5. Screenshot the confirmation page.\n\nThen look under scheduled transfers to make sure it shows up."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck with the practice questions and the form tonight!"
+    }
+  ]
+}

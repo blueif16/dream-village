@@ -1,0 +1,94 @@
+{
+  "impression_id": "arjun.i04",
+  "evidence_sessions": [
+    "arjun.s05",
+    "arjun.s28",
+    "arjun.s42",
+    "arjun.s43",
+    "arjun.s57",
+    "arjun.s72",
+    "arjun.s77",
+    "arjun.s81"
+  ],
+  "inferred": [
+    {
+      "statement": "Arjun prefers short, efficient replies and often asks for tldr or shorter versions, declining extra offers like tables or extended options.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s28",
+        "arjun.s77",
+        "arjun.s81",
+        "arjun.s05"
+      ]
+    },
+    {
+      "statement": "He uses self-deprecating humor and jokes (skull emoji, 'fisherman of rejections', 'message in a bottle') to cope with stress and rejection, while the sting underneath is real.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s28",
+        "arjun.s42",
+        "arjun.s57",
+        "arjun.s72",
+        "arjun.s81"
+      ]
+    },
+    {
+      "statement": "He is methodical and persistent in a tough internship search, tracking applications in a color-coded spreadsheet, tailoring resume versions, and preparing with research outlines and weekly mock interviews.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s28",
+        "arjun.s42",
+        "arjun.s43",
+        "arjun.s57",
+        "arjun.s72",
+        "arjun.s81"
+      ]
+    },
+    {
+      "statement": "He worries about freezing or blanking in interviews, and the memory of the failed phone screen keeps resurfacing and drives his repeated resume tweaking.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s42",
+        "arjun.s43",
+        "arjun.s72",
+        "arjun.s81"
+      ]
+    },
+    {
+      "statement": "He feels a strong sense of obligation to family and those who help him, and worries about letting down his sister who vouched for him, while feeling pressured by relatives' constant questions about his career.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s72",
+        "arjun.s57"
+      ]
+    },
+    {
+      "statement": "He is money-conscious and upfront about budget limits, wanting others to understand why he chooses cheap options.",
+      "strength": "weak",
+      "sessions": [
+        "arjun.s05"
+      ]
+    },
+    {
+      "statement": "He keeps editing his own voice into drafts, preserving his honest, humorous tone over polished phrasing and making deliberate choices about what to keep.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s05",
+        "arjun.s81"
+      ]
+    },
+    {
+      "statement": "He often works late at night, staying up past midnight on applications and emails despite knowing he should sleep.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s28",
+        "arjun.s57",
+        "arjun.s81",
+        "arjun.s05"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He uses self-deprecating humor and jokes (skull emoji, 'fisherman of rejections', 'message in a bottle') to cope with stress and rejection, while the sting underneath is real.",
+  "rationale": "The strong statement that Arjun uses self-deprecating humor and jokes to cope with stress and rejection, with real sting underneath, matches the trait of using dry jokes to deflect when things go badly."
+}

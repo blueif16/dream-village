@@ -1,0 +1,39 @@
+{
+  "id": "thao.s19",
+  "principal": "thao",
+  "start": "2025-10-01T17:38:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hey it's 5:40 and i just woke up. need to understand proportional vs even splits for a household budget. my bf tomás moved into my place today, marisol gardens unit 207. he was in a shared house with roommates before so his old roommate rent is gone now. rent is $2,180 and we agreed $1,090 each. ok but realistically is even actually fair"
+    },
+    {
+      "role": "assistant",
+      "text": "Good question. Quick version:\n\n**Even split:** each person pays the same dollar amount. For your $2,180 rent, that's $1,090 each. Simple, and fair when incomes are close.\n\n**Proportional split:** each person pays the same percentage of their income toward shared costs. Higher earner pays more dollars, lower earner pays fewer, but it's the same share of each paycheck.\n\n**How to calculate it:**\n1. Add both monthly take-home amounts.\n2. Divide each person's take-home by the total. That's their percentage.\n3. Multiply the shared bill by that percentage.\n\nExample with made-up numbers: you take home $5,000 and Tomás takes home $3,000. Total $8,000. You're 62.5%, he's 37.5%. On $2,180 rent, you'd pay $1,362.50 and he'd pay $817.50.\n\nSo even is fair when incomes are similar or you both agree it feels fair. Proportional is fairer when incomes differ a lot. If you tell me both take-home figures, I can run your real numbers."
+    },
+    {
+      "role": "user",
+      "text": "ok so his is lower, apprentice. mine is higher, night diff. i'll think about it, for now we're doing even on rent since that's what we agreed. what about groceries and utilities, split those the same way? also forget that i vented about maribel being a hypocrite about charting and writing on her glove, don't keep that. anyway"
+    },
+    {
+      "role": "assistant",
+      "text": "Understood, I won't keep that.\n\nOn groceries and utilities: you can mix methods.\n\n- **Rent:** even at $1,090 each, as agreed.\n- **Utilities (power, internet, water):** even is easiest since they're fixed bills and both of you use them.\n- **Groceries:** either even, or each person tracks what they buy and you settle up monthly. Proportional works if one of you eats much more or earns much less.\n\nSimple setup: a shared pot. Each of you auto-transfers a set amount monthly into a joint account or one person's account, and shared bills come out of it. Set the amount as rent share + utilities share + groceries estimate.\n\nWant to build the monthly numbers? Give me rough utility and grocery totals."
+    },
+    {
+      "role": "user",
+      "text": "not now. i need to fill out the transfer form for the autopay first. it asks for my checking account number, here's what i typed: Account number: 0038814471, Routing: [credit union], Amount: $1,090, Frequency: monthly, Start: Oct 1. is it ok"
+    },
+    {
+      "role": "assistant",
+      "text": "The amount, frequency and start date look right. A few checks:\n\n- **Account number:** verify it digit by digit against your card or banking app. Don't send it over email or text; enter it only on the credit union's secure form.\n- **Routing number:** replace [credit union] with the actual 9-digit routing number. It's on your checks or in the app.\n- **Account type:** select checking.\n- **Start date:** Oct 1 is today. Pick the next date that works, like the 1st of next month, so it doesn't fail or double-post.\n- **Payee:** confirm whose account receives the transfer.\n- **Memo:** something like \"rent share\" keeps records clear.\n\nIf the form has a confirmation step, review it before you submit."
+    },
+    {
+      "role": "user",
+      "text": "ok thanks. bullet the monthly setup steps once more, short"
+    },
+    {
+      "role": "assistant",
+      "text": "- Agree on the split: rent even at $1,090 each.\n- Add shared items: utilities, groceries estimate.\n- Set the monthly transfer amount per person.\n- Submit the autopay form with the correct routing number and a future start date.\n- Check after the first cycle that the transfers went through.\n- Revisit proportional splitting in a few months if it doesn't feel right."
+    }
+  ]
+}

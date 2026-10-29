@@ -1,0 +1,31 @@
+{
+  "id": "jun.s20",
+  "principal": "jun",
+  "start": "2025-09-29T21:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need a plan for the week, money and prep stuff. i just grabbed two more cases of wrappers in aisle 6 at ruiz after my shift and now im wondering if that was too much lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Buying in bulk isn't automatically too much; it depends on how many lumpia you'll make before the wrappers get used. To build a real plan I need a few things:\n\n1. Your total launch budget\n2. How much you've spent so far\n3. How many lumpia you're planning for Saturday\n4. What else you still need to buy (filling ingredients, oil, packaging)\n\nSend whatever you've got, rough numbers are fine."
+    },
+    {
+      "role": "user",
+      "text": "ok so i wanna keep launch costs under $1,800 total thru november. spent a chunk already, the wrappers made my savings dip a bit and i also filled up at the ruel road station again so thats part of the running costs. also my mom has seven dozen coworker orders on the fridge list so i gotta scale the weekend batch up"
+    },
+    {
+      "role": "assistant",
+      "text": "Good, that's enough to work with. Seven dozen is 84 lumpia from those orders alone, before anything you'd sell on top. Here's a plan:\n\n**Money**\n- Keep a running tally against the $1,800 cap. Wrappers, gas, and filling ingredients all count as launch costs, so log the wrapper purchase and the fill-up today.\n- Treat the wrapper cases as prepaid stock. If two cases cover Saturday's batch plus the next one or two, you probably don't need to buy wrappers again for a while, so pause wrapper spending.\n- Set a weekly ceiling: take what's left under $1,800 and divide by the weeks until the end of November. Stay under that each week.\n- Charge enough on the seven dozen to cover ingredients, oil, and gas for the pickup runs.\n\n**Prep this week**\n- Tonight/Tue: confirm the wrapper count per case, so you know how many lumpia the stock makes.\n- Wed: buy the remaining filling ingredients and oil in one trip, so you're not making extra stops.\n- Thu: prep the filling, then refrigerate it.\n- Fri: roll and fry, or roll and freeze, depending on your kitchen time.\n- Sat: pack the coworker orders first, then whatever's left over.\n\nIf you tell me how many wrappers are in a case and your filling cost, I can work out your cost per lumpia and check whether you're on track."
+    },
+    {
+      "role": "user",
+      "text": "sige thats helpful. ok actually can you give me the short version, im squeezing this in after my usual cafe shift and have to be up for the opening again 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- Log wrappers + gas against the $1,800 cap today\n- No more wrapper buys; you're stocked\n- Mon-Tue: count wrappers per case\n- Wed: one shopping trip for filling + oil\n- Thu: make filling\n- Fri: roll and fry\n- Sat: pack the 7 dozen orders first\n\nGet some sleep before that opening shift!"
+    }
+  ]
+}

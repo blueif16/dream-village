@@ -1,0 +1,39 @@
+{
+  "id": "noemi.s65",
+  "principal": "noemi",
+  "start": "2025-11-02T13:41:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need to plan this week around overtime. peak season so im on 1pm to 11:30pm mon-fri plus every other sat. need study blocks (subnetting is still my nerfed stat), meal prep, and i have to fill in a direct deposit form for my new bank account. also nov 15 7pm is blocked, i just booked an anniversary dinner on calle ortega"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Your swings start at 1 p.m., so mornings are your best window. Here's a draft:\n\n**Mon-Fri**\n- 8:30-9:30 a.m.: subnetting and port number drills (your weak spot, so do it while fresh)\n- 9:30-10:15 a.m.: breakfast and a quick prep task\n- 12:15 p.m.: leave for shift\n- After 11:30 p.m.: nothing. Protect your sleep.\n\n**Sunday (today)**\n- Meal prep: 2-3 batches that reheat well (rice bowls, a protein, roasted veg), packed in containers for the swing\n- Do the direct deposit form\n\n**Saturdays**\n- Off Saturday: a longer 90-minute study block, a full practice test\n- Working Saturday: one 45-minute drill in the morning only\n\nIs Nov 15 one of your working Saturdays? If so, you may want to ask for the day off or swap early so the 7 p.m. dinner is safe. Want me to put that on the calendar as a hard block either way?"
+    },
+    {
+      "role": "user",
+      "text": "nov 15 is a sat yeah, ill check which sat is mine. ill ask for it off. ok the form. it wants this:\nName: Noemi Castillo\nAccount type: checking\nRouting #: 121000358\nAccount #: 0048837712094471\nID (driver's license): D7392846\nnot sure if i need all that"
+    },
+    {
+      "role": "assistant",
+      "text": "Most direct deposit forms only need your name, account type, routing number and account number. Check the numbers against a voided check or your bank's app so there are no typos. The ID line is usually not required for direct deposit. If HR insists on it, ask why, and hand it over in person or through their secure portal rather than email.\n\nYou can write \"checking\" for the type, and I'd leave the ID field blank unless they confirm they need it. I'd also have them confirm which pay period the change takes effect, so your first deposit doesn't go to the old account. Since you've only just opened the account, keep the old one open until a deposit lands in the new one."
+    },
+    {
+      "role": "user",
+      "text": "gg. ok also just finished moving all my personal stuff into a password manager yesterday so bank portal gets its own unique login. can u give me a checklist for locking down the new account. tldr bullets pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Bank account lockdown:\n- Generate a unique, long random password in your manager for the bank portal. Don't reuse anything.\n- Use a unique username if the bank allows it.\n- Turn on two-factor, preferably an authenticator app over SMS.\n- Save the backup/recovery codes in your manager, not a screenshot.\n- Turn on alerts for logins, transfers, and low balances.\n- Check that the recovery email on the account is itself locked down with 2FA.\n- Don't log in on shared or work devices, or over public wifi.\n- Set up a bank PIN or phone passcode if offered.\n- Once a month, review the account and linked apps, and remove anything you don't use.\n- Never share codes with anyone who calls or texts, even if they say they're the bank."
+    },
+    {
+      "role": "user",
+      "text": "ty. can u turn the week into a clean list i can paste in my notes"
+    },
+    {
+      "role": "assistant",
+      "text": "**Week plan**\n- Today: meal prep (2-3 reheatable batches), fill in the direct deposit form, set up the bank portal with its own login and 2FA\n- Mon-Fri: 8:30-9:30 a.m. subnetting/ports drills, breakfast, leave ~12:15 for the 1-11:30 swing\n- Saturday: working Saturday gets one 45-min drill; an off Saturday gets a 90-min block and a full practice test\n- To do: find out whether Nov 15 is a working Saturday and request it off if so\n- Nov 15, 7 p.m.: anniversary dinner on Calle Ortega, hard block\n- After the deposit form: confirm the start date for the new account and keep the old one open until the first deposit lands"
+    }
+  ]
+}

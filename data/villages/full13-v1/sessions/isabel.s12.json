@@ -1,0 +1,39 @@
+{
+  "id": "isabel.s12",
+  "principal": "isabel",
+  "start": "2025-09-14T16:17:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "need a week by week ap calc review schedule. nothing crazy, i just need to keep my A. 4.1 weighted rn and a B in calc would mess that up lol. whats the minimum i can do to not lose it"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few things would help me make this realistic: when is your next calc test, what unit is it on, and what else already eats your time each week? If you don't want to answer all that, tell me what has to be worked around and I'll build a lean version of the plan."
+    },
+    {
+      "role": "user",
+      "text": "next test is in like 3 weeks, no idea the unit, just whatever is next. fixed stuff: harper's saturday sat prep at the library plus 2 practice sections a week that i time with the kitchen timer. also dishes every weeknight so nothing after like 8:30 on those. short version pls, i have to get to draft hell again tonight"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a lean 3-week plan that fits around your Saturday SAT prep, your two timed sections, and weeknight dishes. I put calc on short blocks that end by 8:30.\n\nWeek 1 (foundation, about 20 min x 4 days)\n- Mon: reread class notes and the formulas for the current unit. Redo 3 homework problems you missed.\n- Wed: 5 mixed practice problems, untimed.\n- Thu: fix every mistake from Wednesday.\n- Sun: skim the week's notes for 10 min.\n\nWeek 2 (practice, about 25 min x 3 days)\n- Mon: 8 problems from the textbook or a worksheet on the main topics.\n- Wed: one old quiz or test, open notes.\n- Fri: redo only the problems you got wrong.\n\nWeek 3 (test week, about 20 min x 3 days)\n- Mon: one full set of problems, timed. Pair it with one of your SAT math sections that day so the practice overlaps.\n- Tue: review the formula sheet and the mistakes list.\n- Night before: 10 min of the mistakes list, then stop.\n\nSaturday stays clear for SAT prep. The two weekly SAT sections cover some algebra skills too, so they count as light calc maintenance. If a test date moves, shift the weeks back from it and tell me if you'd like me to rearrange."
+    },
+    {
+      "role": "user",
+      "text": "ok thats actually doable. can u cut it to just a checklist i can tape over my desk"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure:\n\nWEEK 1\n[ ] Mon: reread notes + formulas, redo 3 missed problems (20 min)\n[ ] Wed: 5 mixed problems\n[ ] Thu: fix Wednesday's mistakes\n[ ] Sun: 10 min skim\n\nWEEK 2\n[ ] Mon: 8 problems on main topics\n[ ] Wed: one old quiz, open notes\n[ ] Fri: redo wrong ones\n\nWEEK 3\n[ ] Mon: timed problem set\n[ ] Tue: formula sheet + mistakes list\n[ ] Night before: 10 min mistakes list, then done\n\nEvery block ends before 8:30 on weeknights, and Saturdays are left open for SAT prep. Good luck with tonight's writing."
+    },
+    {
+      "role": "user",
+      "text": "ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Bye! Message me if the test date shifts and I'll adjust the checklist."
+    }
+  ]
+}

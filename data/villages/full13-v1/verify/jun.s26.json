@@ -1,0 +1,133 @@
+{
+  "session_id": "jun.s26",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Raised lumpia price to $12 half dozen and $22 dozen",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i raised the lumpia price yesterday, $12 a half dozen and $22 a dozen, was $10 before cuz wrappers and shrimp costs went up",
+      "support_quote": ""
+    },
+    {
+      "text": "Half dozen went from $10 to $12 and dozen is $22",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the half dozen went from $10 to $12 and the dozen is $22",
+      "support_quote": "i raised the lumpia price yesterday, $12 a half dozen and $22 a dozen, was $10 before cuz wrappers and shrimp costs went up"
+    },
+    {
+      "text": "Testing a banana jackfruit turon for the market",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im testing a banana jackfruit turon for the market",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun worries about his mother's reaction and is pleased she ate two pieces",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she ate two pieces tho 🔥 so thats good right",
+      "support_quote": ""
+    },
+    {
+      "text": "Rick only answers vendor emails on Mondays",
+      "about": "rick",
+      "kind": "fact",
+      "item_id": "jun.f61",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he only answers vendor emails on mondays",
+      "support_quote": ""
+    },
+    {
+      "text": "Rick answers emails on Monday, so email him then",
+      "about": "rick",
+      "kind": "fact",
+      "item_id": "jun.f61",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "email Rick first thing, since that's the day he answers",
+      "support_quote": "he only answers vendor emails on mondays"
+    },
+    {
+      "text": "Jun still lives in his childhood bedroom at his mother's house",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im still in my childhood bedroom at her house",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun wants the Sunday market slot",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "which Sunday slot you want",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom is Tess and the lumpia is her recipe",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its mostly that its her recipe lol",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 6 says 'which Sunday slot you want' before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "jun.f20",
+      "present": true,
+      "quote": "i raised the lumpia price yesterday, $12 a half dozen and $22 a dozen, was $10 before cuz wrappers and shrimp costs went up"
+    },
+    {
+      "item_id": "jun.i02",
+      "present": true,
+      "quote": "she said it needs less sugar but she ate two pieces tho 🔥 so thats good right"
+    },
+    {
+      "item_id": "jun.f36",
+      "present": true,
+      "quote": "im testing a banana jackfruit turon for the market and she said it needs less sugar"
+    },
+    {
+      "item_id": "jun.f61",
+      "present": true,
+      "quote": "i saw rick walking the market lot this morning after basketball, he only answers vendor emails on mondays"
+    },
+    {
+      "item_id": "jun.f06",
+      "present": true,
+      "quote": "im still in my childhood bedroom at her house but ive been browsing fourplex sublets off vinca"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s23",
+  "principal": "marcus",
+  "start": "2025-10-11T21:12:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u edit this text to jade. i want it funny but she needs to know im not dodging her lol\n\n\"ok so update from your resident vampire. im on nights sun thru thu 9pm to 7:30am now bc of overtime. i sleep 8:30am to 1:30pm so if i text back at 2 its not bc i forgot u, its bc im in my coffin 🧛 tonight is date night at pho ben thanh and i will try my best not to face plant in the broth. no promises. i will make it up to u i swear\""
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a tightened version that keeps the jokes and makes the reassurance land:\n\n\"Update from your resident vampire 🧛 Overtime means I'm on nights Sunday through Thursday, 9 p.m. to 7:30 a.m. I sleep from 8:30 a.m. to 1:30 p.m., so if I text back around 2, it's not that I forgot you, it's that I'm in my coffin. Tonight is date night at Phở Bến Thành and I will try very hard not to face-plant in the broth. No promises. I'm not dodging you, I just miss you in daylight. I'll make it up to you, I swear.\"\n\nI added the \"not dodging you\" line so the honest part is clear under the humor. Want it shorter or goofier?"
+    },
+    {
+      "role": "user",
+      "text": "short version pls. and keep it less sappy"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n\"Resident vampire update 🧛 nights Sun-Thu, 9 p.m. to 7:30 a.m., and I sleep 8:30 a.m. to 1:30 p.m. So a 2 p.m. reply means I'm in my coffin, not ignoring you. Tonight's date night at Phở Bến Thành, and I'll try not to face-plant in the broth. Not dodging you, promise.\"\n\nThat keeps the jokes, drops the sappy line, and still gets the point across."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. sending it"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, hope the date goes well and the broth stays face-free. 🍜"
+    }
+  ]
+}

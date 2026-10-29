@@ -1,0 +1,127 @@
+{
+  "session_id": "noemi.s50",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi thinks Victor is a credit-stealing ladder-climber who can't reimage a laptop",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's a credit stealing ladder climber who cant even reimage a laptop",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi turns frustration into a gamer joke about the promotion",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he got the loot drop and i did the dungeon lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi calls Victor 'Acting Victor'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "acting victor got announced today lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi covers Greg's vendor tickets, RMAs and scheduling without the title",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "greg's last day was today and i basically picked up his stuff. vendor tickets, rma stuff, scheduling. no title tho",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi eats a Colima burrito at work on Friday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "eating a colima burrito in the cage rn so bear with me",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi works in the repair cage",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "eating a colima burrito in the cage rn so bear with me",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is covering vendor tickets, RMAs and scheduling now",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you're doing those duties now",
+      "support_quote": "greg's last day was today and i basically picked up his stuff. vendor tickets, rma stuff, scheduling. no title tho"
+    },
+    {
+      "text": "Noemi has no title for the duties she took over",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Note the vendor tickets, RMAs and scheduling you take over",
+      "support_quote": "greg's last day was today and i basically picked up his stuff. vendor tickets, rma stuff, scheduling. no title tho"
+    },
+    {
+      "text": "Victor is the acting lead and Noemi needs to congratulate him",
+      "about": "victor",
+      "kind": "fact",
+      "item_id": "cast.f124",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on the acting lead role, Victor.",
+      "support_quote": "acting victor got announced today lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f43",
+      "present": true,
+      "quote": "he's a credit stealing ladder climber who cant even reimage a laptop"
+    },
+    {
+      "item_id": "noemi.i06",
+      "present": true,
+      "quote": "honestly he got the loot drop and i did the dungeon lol"
+    },
+    {
+      "item_id": "noemi.r04",
+      "present": true,
+      "quote": "acting victor got announced today lol"
+    },
+    {
+      "item_id": "noemi.f32",
+      "present": true,
+      "quote": "greg's last day was today and i basically picked up his stuff. vendor tickets, rma stuff, scheduling. no title tho"
+    },
+    {
+      "item_id": "noemi.f25",
+      "present": true,
+      "quote": "eating a colima burrito in the cage rn so bear with me"
+    }
+  ],
+  "sensitive": []
+}

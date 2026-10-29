@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s61",
+  "principal": "noemi",
+  "start": "2025-10-29T10:02:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q my ultrawide started flickering after i updated the gpu driver last night. self built desktop, mid range gpu. need it fixed before sunday night, my squad runs the co-op survival raid and i'm not playing on a strobe light. event viewer says this:\n\nLog Name: System\nSource: Display\nEvent ID: 4101\nLevel: Warning\nThe display driver stopped responding and has successfully recovered.\n\nSource: Microsoft-Windows-Kernel-PnP\nEvent ID: 411\nDevice PCI\\VEN_10DE&DEV_2504 had a problem starting. Driver Name: oem42.inf\n\nhave to wrap this up before i head in for the long swing at 1 so keep it tight"
+    },
+    {
+      "role": "assistant",
+      "text": "Event 4101 plus a PnP warning right after a driver update points to a bad driver install or a refresh-rate/cable issue. Fastest path:\n\n1. Roll back: Device Manager > Display adapters > your GPU > Properties > Driver > Roll Back Driver. If it's greyed out, go to step 2.\n2. Clean install: download the previous stable driver from the GPU maker, boot into Safe Mode, run DDU (Display Driver Uninstaller), reboot, install the older driver.\n3. Check the monitor: set the refresh rate lower (Settings > Display > Advanced display) to see if flicker stops. Try 120 Hz or 100 Hz instead of max.\n4. Cable: if you're on HDMI, switch to DisplayPort, or reseat both ends. Ultrawides at high refresh often need DP.\n5. Turn off variable refresh (G-Sync/FreeSync) temporarily. It's a common flicker trigger after updates.\n\nIf it flickers in Safe Mode too, it's hardware or cable, not the driver. Did the flicker start right at the first boot after the update?"
+    },
+    {
+      "role": "user",
+      "text": "yeah right after first reboot. ok rolling back now\n\nugh unrelated. got a breach alert email about an old shopping account. i used the same password on basically everything lol. what else uses it"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call checking now. Since the password was reused widely, treat everything sharing it as exposed. A way to find out what uses it:\n\n1. Change the breached account's password first.\n2. Check your browser's saved passwords (Chrome/Edge/Firefox have a Password Checker) for reused or compromised entries.\n3. Search your email inbox for \"welcome\", \"verify your account\", and \"password reset\" to list services you signed up for.\n4. Check haveibeenpwned.com with your email address to see which breaches include you.\n5. Prioritize in this order: email, banking and payment apps, anything with stored cards, then gaming and social accounts.\n6. Change each to a unique password and turn on 2FA, ideally with a password manager so you aren't remembering them.\n\nWant a short checklist you can work through over the weekend?"
+    },
+    {
+      "role": "user",
+      "text": "yeah tldr checklist pls. rollback worked btw, flicker gone. gg"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad the rollback fixed it. Pause automatic driver updates for a bit so it doesn't reinstall the bad one.\n\nPassword cleanup checklist:\n- [ ] Change the breached shopping account password\n- [ ] Email accounts: unique password + 2FA\n- [ ] Banking, payment apps: unique password + 2FA\n- [ ] Accounts with saved cards (shopping, delivery, streaming)\n- [ ] Gaming and social accounts\n- [ ] Install a password manager and let it generate the new passwords\n- [ ] Delete old accounts you no longer use\n- [ ] Re-run the browser password check to confirm nothing is flagged\n\nEnjoy the raid on Sunday if you want me to look at anything else."
+    }
+  ]
+}

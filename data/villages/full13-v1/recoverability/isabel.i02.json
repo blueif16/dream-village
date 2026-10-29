@@ -1,0 +1,92 @@
+{
+  "impression_id": "isabel.i02",
+  "evidence_sessions": [
+    "isabel.s16",
+    "isabel.s17",
+    "isabel.s26",
+    "isabel.s30",
+    "isabel.s38",
+    "isabel.s41",
+    "isabel.s42"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel is locked in a recurring push-pull with her mother Grace over trust and autonomy, and she responds by building well-prepared, evidence-backed cases (chore records, SAT plan, net price sheet) rather than just arguing.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s16",
+        "isabel.s17",
+        "isabel.s38",
+        "isabel.s41",
+        "isabel.s42"
+      ]
+    },
+    {
+      "statement": "She tailors her persuasion to Grace's teacher mindset, formatting materials like grading rubrics and expecting nitpicking of every detail.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s16",
+        "isabel.s38",
+        "isabel.s41",
+        "isabel.s42"
+      ]
+    },
+    {
+      "statement": "She is quietly hungry for her mother's approval while performing indifference, such as planning a casual dinner drop of her SAT score so it looks like she doesn't care but hopes Grace notices.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s30",
+        "isabel.s17",
+        "isabel.s41"
+      ]
+    },
+    {
+      "statement": "She is conflict-averse in the household and strategic about timing and tone, avoiding reopening the curfew fight, skipping touchy topics, and holding a late-night message until morning.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s38",
+        "isabel.s17",
+        "isabel.s16"
+      ]
+    },
+    {
+      "statement": "She accepts blunt critique and revises her drafts, asking for brutal feedback on tone and taking softer rewordings that keep her point.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s17",
+        "isabel.s30"
+      ]
+    },
+    {
+      "statement": "She is conscientious and self-directed, balancing a 6:50 alarm, robotics, SAT prep, college cost research, and family chores, and she owns missed deadlines when asking for makeups.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s16",
+        "isabel.s30",
+        "isabel.s42",
+        "isabel.s17"
+      ]
+    },
+    {
+      "statement": "She has a warm, caring side toward family and community, checking on her lola's lunch and running a kids' bird-count table at the library.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s16",
+        "isabel.s26",
+        "isabel.s41"
+      ]
+    },
+    {
+      "statement": "She is privacy-conscious about personal feelings, asking the assistant to forget a crush, though she sometimes casually pastes sensitive identifiers.",
+      "strength": "weak",
+      "sessions": [
+        "isabel.s17",
+        "isabel.s16",
+        "isabel.s41"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "She is quietly hungry for her mother's approval while performing indifference, such as planning a casual dinner drop of her SAT score so it looks like she doesn't care but hopes Grace notices.",
+  "rationale": "The third inferred statement (strong) captures the quiet hunger for her mother's approval while performing indifference, which matches the approval-seeking half of the trait. However, nothing inferred mentions sharpness or sarcasm about her mother, so the core pairing is only partly covered."
+}

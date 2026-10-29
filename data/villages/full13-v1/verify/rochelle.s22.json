@@ -1,0 +1,414 @@
+{
+  "session_id": "rochelle.s22",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "drives mother-in-law to pharmacy Tuesday 3:30",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i drive my mother in law to the pharmacy tuesday 3:30",
+      "support_quote": ""
+    },
+    {
+      "text": "uses term Loretta Tuesdays for the clash",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Loretta Tuesdays keep clashing w the 4 pm study group",
+      "support_quote": ""
+    },
+    {
+      "text": "makes Pedro's group about every other week",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i made Pedro's group maybe every other week",
+      "support_quote": ""
+    },
+    {
+      "text": "went to Okoye's Wednesday 1 pm office hours",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got out of Okoye's wednesday 1 pm office hours",
+      "support_quote": ""
+    },
+    {
+      "text": "puts errands before study and feels behind",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then i cook and do the laundry and pickups then dinner then study if theres time left",
+      "support_quote": ""
+    },
+    {
+      "text": "practical is Oct 17",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the practical is the 17th",
+      "support_quote": ""
+    },
+    {
+      "text": "Andre eats dinner at 5:30 after long days",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": "rochelle.w7.n02",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "andre eats at like 5:30 now since hes home late from his long days",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah works evenings, leaves around 5",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "aaliyah works evenings so she leaves around 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle's study time gets whatever is left",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "your study time is just getting whatever's left",
+      "support_quote": "then i cook and do the laundry and pickups then dinner then study if theres time left"
+    },
+    {
+      "text": "Rochelle drives the 3:30 pharmacy run",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "before you leave for the 3:30 pharmacy run",
+      "support_quote": "i drive my mother in law to the pharmacy tuesday 3:30"
+    },
+    {
+      "text": "Andre's dinner at 5:30",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": "rochelle.w7.n02",
+      "relation": "contradicts",
+      "speaker": "assistant",
+      "quote": "after Andre's 5:30 dinner",
+      "support_quote": "andre eats at like 5:30 now since hes home late from his long days"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "conflict",
+      "item_id": "rochelle.w7.n02",
+      "detail": "unplanned: Andre eats dinner at 5:30 after long days"
+    },
+    {
+      "kind": "conflict",
+      "item_id": "rochelle.w7.n02",
+      "detail": "unplanned: Andre's dinner at 5:30"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 uses the name 'Aaliyah' before the user said it"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 uses the name 'Andre' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "rochelle.f41",
+      "present": true,
+      "quote": "i drive my mother in law to the pharmacy tuesday 3:30"
+    },
+    {
+      "item_id": "rochelle.r05",
+      "present": true,
+      "quote": "Loretta Tuesdays keep clashing w the 4 pm study group"
+    },
+    {
+      "item_id": "rochelle.f22",
+      "present": true,
+      "quote": "i made Pedro's group maybe every other week. missed it again yesterday"
+    },
+    {
+      "item_id": "rochelle.f56",
+      "present": true,
+      "quote": "just got out of Okoye's wednesday 1 pm office hours"
+    },
+    {
+      "item_id": "rochelle.i01",
+      "present": true,
+      "quote": "then i cook and do the laundry and pickups then dinner then study if theres time left. tuesday is chem then the pharmacy run. honestly im so behind"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

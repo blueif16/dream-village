@@ -1,0 +1,39 @@
+{
+  "id": "linh.s29",
+  "principal": "linh",
+  "start": "2025-09-25T12:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi can u help me find the shuttle bus schedule near the tamsen valley campus library? my bike got stolen outside the library last week so im taking the shuttle now"
+    },
+    {
+      "role": "assistant",
+      "text": "Sorry about your bike! I can't browse live schedules, but here's where to find the real one fast:\n\n- Check the college's transportation or parking page for the shuttle route map and timetable\n- Look up the local transit agency's route page, or its app, for live arrival times\n- Ask at the campus information desk or student services for a printed schedule\n\nIf you tell me which stop you board at and what time you need to be on campus, I can help you build a plan around the posted times. Want that?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. kenji drives me tues and thurs so i only need the shuttle mon wed fri. classes are 9am those days\n\nalso how do i report the theft"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, shuttle on Mon/Wed/Fri for 9 a.m. classes.\n\n**Shuttle plan**\n- Find your stop's departure times on the posted schedule\n- Pick the run that gets you to campus 20-30 min before class\n- Save the one after it as a backup\n- Screenshot the timetable so it's on your phone\n\n**Reporting the theft**\n- Non-emergency line of the local police department, or their online report form (usually fine for property theft)\n- Campus police or security if it happened on campus grounds\n- Have ready: when and where it was locked, make/color/description, any serial number, lock type, and photos\n- Get a report number for insurance or renters coverage\n- Check the library entrance for cameras and ask staff if they can share the location of the footage\n\nWant me to draft the description for the report?"
+    },
+    {
+      "role": "user",
+      "text": "ok wait one sec ill eat my rice bowl before i head out\n\nyes draft pls. its a secondhand blue commuter bike"
+    },
+    {
+      "role": "assistant",
+      "text": "Enjoy your lunch! Here's a draft:\n\n**Theft report description**\n- Item: Secondhand blue commuter bicycle\n- Make/model: [if known]\n- Serial number: [check frame under the pedals or receipt]\n- Lock type: [your lock]\n- Location: Bike rack outside the campus library\n- Date/time last seen: [date and time]\n- Date/time discovered missing: [date and time]\n- Distinguishing features: [stickers, scratches, accessories]\n- Contact: [your name and phone]\n\nFill in the brackets and add photos if you have any."
+    },
+    {
+      "role": "user",
+      "text": "thanks. also im saving $700 for a replacement so any cheap options for a bike?"
+    },
+    {
+      "role": "assistant",
+      "text": "With $700 you have good options:\n\n- **Used shops and marketplaces**: local used bike co-ops, Facebook Marketplace, Craigslist. Expect $100-300 for a solid commuter\n- **Bike co-op or community workshop**: refurbished bikes with a tune-up, often $150-350\n- **New entry-level**: hybrid or city bikes run about $350-550\n- **Used e-bike**: sometimes possible near $600-700, but check the battery's age\n\nTips:\n- Budget $50-80 for a good U-lock this time\n- Register the serial number with a bike registry\n- Test ride and ask for proof of ownership on used bikes\n\nWant a short checklist for inspecting a used bike?"
+    }
+  ]
+}

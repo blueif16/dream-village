@@ -1,0 +1,98 @@
+{
+  "impression_id": "arjun.i01",
+  "evidence_sessions": [
+    "arjun.s16",
+    "arjun.s29",
+    "arjun.s40",
+    "arjun.s42",
+    "arjun.s43",
+    "arjun.s55",
+    "arjun.s63",
+    "arjun.s68",
+    "arjun.s76"
+  ],
+  "inferred": [
+    {
+      "statement": "Arjun avoids practicing interview answers out loud, defaulting to rewriting and polishing written material (letters, resumes, answer docs), and he has acknowledged this himself.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s16",
+        "arjun.s29",
+        "arjun.s42",
+        "arjun.s43",
+        "arjun.s63",
+        "arjun.s68",
+        "arjun.s76"
+      ]
+    },
+    {
+      "statement": "He repeatedly blanks on 'tell me about yourself' and attributes interview failures to the resume rather than to delivery, even when the assistant points to delivery.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s42",
+        "arjun.s43",
+        "arjun.s76"
+      ]
+    },
+    {
+      "statement": "He is highly systematic and diligent about job-search logistics, such as versioned resumes, a daily alumni outreach goal logged in a spreadsheet, and planned office-hours visits.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s16",
+        "arjun.s43",
+        "arjun.s55",
+        "arjun.s29"
+      ]
+    },
+    {
+      "statement": "He tends to go into repeated revision loops, asking for multiple rewrites of the same document and looking for it to be 'perfect' before moving on.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s16",
+        "arjun.s55",
+        "arjun.s76",
+        "arjun.s43"
+      ]
+    },
+    {
+      "statement": "He responds best to short, concise, actionable replies and pushes back on length, asking for tl;dr versions, short drafts and quick answers.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s29",
+        "arjun.s40",
+        "arjun.s42",
+        "arjun.s55"
+      ]
+    },
+    {
+      "statement": "He is gradually moving toward spoken practice when it is made low-friction, through weekly mocks with Lena, laundry-room practice and a one-question-at-a-time interviewer roleplay, while still hedging about it.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s63",
+        "arjun.s76",
+        "arjun.s68"
+      ]
+    },
+    {
+      "statement": "He uses self-deprecating humor (💀, 'lol') to cover stress and disappointment, such as a rejection that stung, while still asking for gracious, professional drafts.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s42",
+        "arjun.s76",
+        "arjun.s43"
+      ]
+    },
+    {
+      "statement": "He feels a sense of obligation to people who help him, such as Sunita's referral and Prof. Ashby's letter, and wants to appear prepared for them.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s68",
+        "arjun.s63",
+        "arjun.s29"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Arjun avoids practicing interview answers out loud, defaulting to rewriting and polishing written material (letters, resumes, answer docs), and he has acknowledged this himself.",
+  "rationale": "The first inferred statement, rated strong, captures the same pattern: Arjun avoids rehearsing answers aloud and defaults to polishing written materials. The revision-loop and systematic-prep statements reinforce the written-prep side."
+}

@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s46",
+  "principal": "noemi",
+  "start": "2025-10-13T10:04:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. holiday so i have a free morning but i gotta be at RF-4 by 1 for the 10 hour peak swing. so plan has to wrap by noon. can you split it up for me? coffee run, a couple subnetting drills, and some actual rest"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. It's 10:04 now and you need to be done by noon, so you have roughly two hours. A few quick questions so I don't guess: how long is the coffee run, and do you want to do anything else before you leave for work?"
+    },
+    {
+      "role": "user",
+      "text": "coffee run is like 20 min round trip. i wanna fit in 20 min on the practice test app plus one tabbed chapter from my secondhand study guide. also walked the ulloa boardwalk w iris this morning so wanna keep any more walking short. iris is off today and already suggested we do the coffee thing together first then she'd handle lunch so i don't have to think about it. fit around that pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, that gives us a clean plan. Here's a version that wraps by noon, built around Iris's suggestion:\n\n- 10:05-10:25: Coffee run with Iris (keep it to the 20 minutes, since you've already walked this morning)\n- 10:25-10:50: Practice-test app, 20 minutes, plus a few minutes to review what you missed\n- 10:50-11:15: One tabbed chapter from the study guide. Since you wanted subnetting drills, pick the subnetting chapter and do a few problems from it.\n- 11:15-11:45: Rest. Phone down, no ticket checking, sit or lie down.\n- 11:45-12:00: Lunch from Iris, pack your badge and anything you need for a 10-hour shift, and be out the door by noon.\n\nIf Iris's plan has a different order, like lunch earlier, swap the blocks and keep the study stretch before the rest block so you go into work relaxed. Want me to turn the practice-app slot into a short drill list?"
+    },
+    {
+      "role": "user",
+      "text": "ty that's gg. tldr version for my phone notes?"
+    },
+    {
+      "role": "assistant",
+      "text": "- 10:05 coffee run with Iris (20 min)\n- 10:25 practice app (20 min)\n- 10:50 study guide chapter, subnetting\n- 11:15 rest\n- 11:45 lunch + pack up\n- 12:00 leave for RF-4 (there by 1)"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "thao.s44",
+  "principal": "thao",
+  "start": "2025-11-18T15:31:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 3:31 and i'm walking into the dentist at plaza marisol in a min, so quick one. draft a text to my mom, friendly. i can't call back the stack of voicemails but i'll see her at sunday dinner at her pell road house. ask her to text instead"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n\"Hi Mom! I got your voicemails but I can't call back right now. I'll see you at Sunday dinner at your house though! Can you text me instead of calling? Love you.\"\n\nWant it warmer, shorter, or in Vietnamese?"
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically she calls at 1pm when im mid sleep and leaves long vietnamese voicemails, i'm not gonna listen to them. my voicemail greeting already says to text me, so work that in. if she texts i'll answer right away"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, here's the updated version:\n\n\"Hi Mom! Sorry I haven't called back. I'm usually asleep at 1 when you call, and I'm not able to get through the voicemails. My greeting says to text me, and if you text I'll answer right away. See you at Sunday dinner at your house! Love you.\"\n\nI can make it shorter if you like."
+    },
+    {
+      "role": "user",
+      "text": "shorter pls, they're calling me back"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Hi Mom! I can't call back the voicemails, I'm asleep when you call. Please text me instead, I'll answer right away. See you Sunday for dinner! Love you.\"\n\nGood luck at the dentist!"
+    }
+  ]
+}

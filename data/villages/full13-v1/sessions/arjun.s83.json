@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s83",
+  "principal": "arjun",
+  "start": "2025-11-21T12:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok quick one, i have like 40 min before my career center desk shift starts. need a fast review for th ops management final. safety stock, reorder points, th usual"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Here's the core set:\n\n**Reorder point (ROP)** = (average daily demand × lead time) + safety stock\n\n**Safety stock** = z × σ_d × √L (σ_d = std dev of daily demand, L = lead time in days, z = service-level factor)\n\n**Common z values:** 90% → 1.28, 95% → 1.65, 99% → 2.33\n\n**EOQ** = √(2DS / H) (D = annual demand, S = order cost, H = annual holding cost per unit)\n\nQuick example: demand 50/day, σ_d = 10, lead time 4 days, 95% service. Safety stock = 1.65 × 10 × 2 = 33. ROP = 50 × 4 + 33 = 233 units.\n\nWant me to quiz you, or make this a bigger table?"
+    },
+    {
+      "role": "user",
+      "text": "table pls. im a logistics management junior so i should know this but dr ashby covered a ton of stuff tuesday in th final review and my notes are a mess"
+    },
+    {
+      "role": "assistant",
+      "text": "| Concept | Formula | Use it when |\n|---|---|---|\n| Reorder point | d × L + SS | Deciding when to place an order |\n| Safety stock | z × σ_d × √L | Demand varies, lead time fixed |\n| Safety stock (variable lead time) | z × √(L·σ_d² + d²·σ_L²) | Both demand and lead time vary |\n| EOQ | √(2DS/H) | Balancing order vs. holding cost |\n| Cycle service level | P(demand during lead time ≤ ROP) | Picking z |\n| Inventory turnover | COGS / avg inventory | Comparing efficiency |\n\nTip: if a problem gives weekly demand but daily lead time, convert units first. That's the classic exam trap.\n\nIf you tell me the other topics from the review, I can add rows."
+    },
+    {
+      "role": "user",
+      "text": "th review was also forecasting error (MAD, MAPE) and bullwhip. ngl omar was talking about his internship again at lunch and its lowkey making me want to over-study 💀 how do other ppl usually prep for these finals"
+    },
+    {
+      "role": "assistant",
+      "text": "Added rows:\n\n| Concept | Formula / idea |\n|---|---|\n| MAD | Σ|actual − forecast| / n |\n| MAPE | (Σ|error| / actual) / n × 100 |\n| Bullwhip | Order variability grows upstream; causes: batching, demand signal processing, price swings, shortage gaming |\n| Fixes | Share demand data, smaller batches, stable pricing |\n\nHow students typically prep for quantitative finals like this:\n- Redo practice problems from scratch rather than rereading solutions\n- Make a one-page formula sheet, then test whether you can rebuild it from memory\n- Do a timed mixed set so you practice picking the right formula\n- Explain each concept aloud in a sentence or two\n\nWith 40 minutes, I'd do three timed problems: one safety stock, one EOQ, one MAPE. Want me to write them?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls, one each. keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "**1. Safety stock/ROP:** Demand 80/day, σ_d = 12, lead time 9 days, 95% service. Find safety stock and ROP.\n\n**2. EOQ:** Annual demand 4,800, order cost $50, holding cost $6/unit/year. Find EOQ.\n\n**3. MAPE:** Actuals 100, 120, 80; forecasts 90, 130, 100. Find MAPE.\n\nSend your answers and I'll check them."
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "session_id": "elliot.s60",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Theo's evening crying runs 5-8 pm",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "5-8 pm straight and then he was unsettled until like 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot refers to the witching hour",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the witching hour was brutal again last night",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo sleeps in crib in nursery half of spare room with white noise on rain",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "crib in the nursery half of the spare room, white noise machine on 'rain'",
+      "support_quote": ""
+    },
+    {
+      "text": "Camera monitor drops connection when microwave runs",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the camera monitor dropped connection when the microwave ran at like 11",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is 3.5 months old",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "theo is 3.5 months",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot jokes about losing to the microwave while overwhelmed",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "scoreboard: dad 0, microwave 1 🙃",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says white noise on rain is set up",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**White noise on 'rain'** is a good choice.",
+      "support_quote": "crib in the nursery half of the spare room, white noise machine on 'rain'"
+    },
+    {
+      "text": "Assistant says monitor drops out",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Monitor dropping out:**",
+      "support_quote": "the camera monitor dropped connection when the microwave ran at like 11"
+    },
+    {
+      "text": "Assistant says Elliot sprinted at dropped feed",
+      "about": "elliot",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Sprinting at a dropped feed is a very understandable reflex.",
+      "support_quote": "i basically sprinted in there thinking something was wrong"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "5-8 pm straight and then he was unsettled until like 1"
+    },
+    {
+      "item_id": "elliot.r03",
+      "present": true,
+      "quote": "the witching hour was brutal again last night"
+    },
+    {
+      "item_id": "elliot.f12",
+      "present": true,
+      "quote": "crib in the nursery half of the spare room, white noise machine on 'rain'"
+    },
+    {
+      "item_id": "elliot.f32",
+      "present": true,
+      "quote": "the camera monitor dropped connection when the microwave ran at like 11"
+    }
+  ],
+  "sensitive": []
+}

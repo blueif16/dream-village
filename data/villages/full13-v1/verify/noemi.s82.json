@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s82",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "RF-4 has about 620 handhelds and the cage fills up every peak",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we have about 620 handhelds and the cage fills up every peak",
+      "support_quote": ""
+    },
+    {
+      "text": "uses the term 'the cage' for the repair cage",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "keep it as the cage in both, everyone says that",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao will test it at the Thursday 3-5 training block",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bao is gonna test it at the thursday 3-5 block today",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao only does battery and trigger board swaps",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he only does battery and trigger board swaps",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao will be testing the sheet",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since Bao will be testing it, ask him afterward which step he hesitated on",
+      "support_quote": "bao is gonna test it at the thursday 3-5 block today"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "we have about 620 handhelds and the cage fills up every peak"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "if no boot, drop it at the cage w/ a red tag"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "bao is gonna test it at the thursday 3-5 block today"
+    },
+    {
+      "item_id": "noemi.f48",
+      "present": true,
+      "quote": "he only does battery and trigger board swaps"
+    }
+  ],
+  "sensitive": []
+}

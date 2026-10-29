@@ -1,0 +1,92 @@
+{
+  "session_id": "thao.s40",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Buying a burr grinder for sister's December birthday, budget $150",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need to pick between 2 burr grinders for my sister's bday in december. budget is $150 max.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao handles Linh's gift secretly, keeping it from Linh and their mother",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she'd be suspicious if i said anything, and def dont want my mom hearing about it either",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is about to sleep after shift at 8:24 a.m.",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's 8:24 and i'm about to crash.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao makes a cà phê sữa đá thermos before her shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gotta make my cà phê sữa đá thermos before tonight's shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Sister is a barista",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "she's a barista so she'll notice.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao should make her thermos and sleep",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Go make your thermos and get some sleep.",
+      "support_quote": "gotta make my cà phê sữa đá thermos before tonight's shift"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i02",
+      "present": true,
+      "quote": "she'd be suspicious if i said anything, and def dont want my mom hearing about it either"
+    },
+    {
+      "item_id": "thao.f58",
+      "present": true,
+      "quote": "need to pick between 2 burr grinders for my sister's bday in december. budget is $150 max."
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "it's 8:24 and i'm about to crash."
+    },
+    {
+      "item_id": "thao.f11",
+      "present": true,
+      "quote": "gotta make my cà phê sữa đá thermos before tonight's shift but wanted this decided first"
+    }
+  ],
+  "sensitive": []
+}

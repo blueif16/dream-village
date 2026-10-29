@@ -1,0 +1,102 @@
+{
+  "session_id": "elliot.s18",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Theo is moving into the crib in the nursery corner of the spare room with white noise on rain",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "into the crib in the nursery corner of the spare room. white-noise machine is on 'rain'",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo slept in the bassinet beside parents' bed until now",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo's moving out of the bassinet beside our bed (where he's slept since he came home)",
+      "support_quote": ""
+    },
+    {
+      "text": "Wi-Fi camera monitor drops when microwave runs",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the wifi camera monitor dropped out right in the middle because i ran the microwave. it does that every time",
+      "support_quote": ""
+    },
+    {
+      "text": "Jokes about being down in the game after the first crib nap, masking stress",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "scoreboard: top of the first, dad is down 0-2 and the umpire is a white-noise machine",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo's first crib nap lasted 40 minutes",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "he did 40 min though which i'm counting as a rally",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Theo's first nap in the new spot was 40 minutes",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "A 40-minute first nap in a new spot is a legitimately good rally.",
+      "support_quote": "he did 40 min though which i'm counting as a rally"
+    },
+    {
+      "text": "Assistant refers to the microwave interfering with Elliot's camera",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The microwave dropout is common.",
+      "support_quote": "the wifi camera monitor dropped out right in the middle because i ran the microwave. it does that every time"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f12",
+      "present": true,
+      "quote": "into the crib in the nursery corner of the spare room. white-noise machine is on 'rain'"
+    },
+    {
+      "item_id": "elliot.f11",
+      "present": true,
+      "quote": "theo's moving out of the bassinet beside our bed (where he's slept since he came home)"
+    },
+    {
+      "item_id": "elliot.f32",
+      "present": true,
+      "quote": "the wifi camera monitor dropped out right in the middle because i ran the microwave. it does that every time"
+    },
+    {
+      "item_id": "elliot.i02",
+      "present": true,
+      "quote": "scoreboard: top of the first, dad is down 0-2 and the umpire is a white-noise machine"
+    }
+  ],
+  "sensitive": []
+}

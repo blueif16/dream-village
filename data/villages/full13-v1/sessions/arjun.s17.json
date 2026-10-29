@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s17",
+  "principal": "arjun",
+  "start": "2025-09-12T22:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so i missed an application cutoff by like an hour. it was 5pm pacific and i woke up and it had passed. my calendar was set to the wrong time zone, fixed it now. should i email them or just let it go"
+    },
+    {
+      "role": "assistant",
+      "text": "Worth a short email, since it costs you almost nothing. The worst case is a no, and some companies do quietly accept late applications, especially when it's only an hour. A few things help your odds:\n\n- Send it soon, ideally tomorrow morning, while the cutoff is still fresh.\n- Keep it brief and own it without over-explaining. One sentence on the cause is plenty.\n- Attach everything they asked for so they can say yes without a back-and-forth.\n- Don't ask for an exception as if you're owed one. Ask if they'd still be able to consider you.\n\nWant me to draft it? If so, tell me the role and company name and I'll fill in the rest."
+    },
+    {
+      "role": "user",
+      "text": "yeah pls. role is supply chain analyst intern at a freight company, i'll fill in the name. lowkey tldr version, 4 lines max"
+    },
+    {
+      "role": "assistant",
+      "text": "Subject: Late application, Supply Chain Analyst Intern\n\nHi [recruiter name],\n\nI missed the application deadline by about an hour because my calendar was set to the wrong time zone. I've attached my resume and application materials in case you're able to still consider me. I'm very interested in the role and would appreciate it.\n\nThank you,\n[your name]\n\nIf you want it shorter still, I can cut the middle line."
+    },
+    {
+      "role": "user",
+      "text": "good. ngl i'm kinda mad at myself, i never miss these. th spreadsheet has a two day buffer column and that's still running so this was a one off, just the time zone thing. i'll mark it as missed in th tracker, it's at 63 apps now"
+    },
+    {
+      "role": "assistant",
+      "text": "A buffer column plus a one-off calendar setting is a pretty easy thing to patch. Since the fix is already in, a couple of small extras will keep it from happening again:\n\n1. Put the deadline's time zone in its own column in your tracker, next to the buffer, so you never rely on the calendar alone.\n2. Write deadlines in the company's local time in the event title, e.g. \"5pm PT.\"\n3. Add a second reminder 24 hours before the cutoff, separate from the buffer date.\n4. For anything that matters, submit a day early and screenshot the confirmation.\n\nMarking this one as missed is the right call. Log whether they reply to the email too, so the tracker shows how late applications tend to go."
+    },
+    {
+      "role": "user",
+      "text": "thx. settling my chai tab with anh rn on th ride home btw, so typing this on th train. do th time zone column thing, that's easy"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, that column takes about two minutes. Add a header like \"Deadline TZ,\" and if you want, a formula that converts the cutoff to your local time so you can see how much time you really have.\n\nSend the email tomorrow morning and then move on. One missed application won't sink the rest of your list."
+    }
+  ]
+}

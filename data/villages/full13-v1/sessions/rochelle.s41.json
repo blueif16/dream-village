@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s41",
+  "principal": "rochelle",
+  "start": "2025-11-17T07:22:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok quick one im in the van in Lot C eating my cooler leftovers lol. need the 12 cranial nerves split into sensory motor or both. i have like 40 min before the 9am lecture"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the split:\n\n**Sensory only:** I Olfactory, II Optic, VIII Vestibulocochlear\n\n**Motor only:** III Oculomotor, IV Trochlear, VI Abducens, XI Accessory, XII Hypoglossal\n\n**Both:** V Trigeminal, VII Facial, IX Glossopharyngeal, X Vagus\n\nClassic mnemonic for the pattern, in order I to XII: Some Say Marry Money, But My Brother Says Big Brains Matter More. (S = sensory, M = motor, B = both.)"
+    },
+    {
+      "role": "user",
+      "text": "ok be honest is that mnemonic right or did u make it up. also wednesday lab practical is coming up so i need this solid"
+    },
+    {
+      "role": "assistant",
+      "text": "It's the standard one, and it matches the list above:\n\nI S, II S, III M, IV M, V B, VI M, VII B, VIII S, IX B, X B, XI M, XII M\n\nSome (I) Say (II) Marry (III) Money (IV), But (V) My (VI) Brother (VII) Says (VIII) Big (IX) Brains (X) Matter (XI) More (XII).\n\nFor the lab practical, expect to name the nerve from its function or location too, so it's worth pairing each name with what it does, not just its number."
+    },
+    {
+      "role": "user",
+      "text": "give me the short version of what each motor only one does. no essay"
+    },
+    {
+      "role": "assistant",
+      "text": "- III Oculomotor: moves the eye, lifts the eyelid, constricts the pupil\n- IV Trochlear: moves the eye down and in (superior oblique)\n- VI Abducens: moves the eye outward (lateral rectus)\n- XI Accessory: shoulder shrug and head turn (trapezius, sternocleidomastoid)\n- XII Hypoglossal: moves the tongue"
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck in lecture and on Wednesday."
+    }
+  ]
+}

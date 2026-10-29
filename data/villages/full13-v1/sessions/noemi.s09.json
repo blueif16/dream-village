@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s09",
+  "principal": "noemi",
+  "start": "2025-09-02T12:38:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you design a small welcome card for a new hire to tape to his repair bench. his name is bao. needs bench rules + his training times. goes at his bench in the cage, the one next to the outbound break room. keep it short, half page"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A couple of quick things so the card is accurate: what are the bench rules you want on it, and what are Bao's training times? If you'd rather I draft sensible defaults, I can do that and you edit.\n\nHere's a starting layout while you decide:\n\n[Image: a half-page landscape card with a dark blue header band reading \"Welcome, Bao!\" Under it, two columns: left column titled \"Bench Rules\" with placeholder bullets, right column titled \"Training Times\" with a small calendar-style box. A footer line reads \"Location: Bench, the cage, next to the outbound break room.\"]\n\nSend me the rules and times and I'll fill it in."
+    },
+    {
+      "role": "user",
+      "text": "training is tue/thu 3-5pm with me. first stuff he does is battery swaps and trigger boards. reimaging comes later, not yet. rules: tag every scanner before it hits the bench, no loose batteries on the bench, log it in the queue before you close it out, ask if unsure. ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the finished card:\n\n[Image: a half-page landscape welcome card, clean white background with a dark blue header band reading \"Welcome to the team, Bao!\" in white bold text.\n\nLeft column, \"Bench Rules\" with checkbox icons:\n1. Tag every scanner before it hits the bench\n2. No loose batteries on the bench\n3. Log it in the queue before you close it out\n4. Not sure? Ask\n\nRight column, \"Training Times\" in a boxed calendar strip: TUE and THU highlighted, 3:00-5:00 PM, with [your name] listed as trainer.\n\nBelow that, a green \"Start Here\" banner: Battery swaps and trigger boards. A grayed-out \"Coming Later\" tag beneath it: Reimaging.\n\nFooter in small gray text: \"Bench location: the cage, next to the outbound break room.\"]\n\nA few notes: I left your name as a placeholder, so swap it in before printing. If you laminate it, clear packing tape on the corners keeps it from peeling off the bench. Want a version with a small checklist for his first week, or a Spanish/English split?"
+    },
+    {
+      "role": "user",
+      "text": "nah this is gg. tldr print instructions? want it on cardstock"
+    },
+    {
+      "role": "assistant",
+      "text": "tldr:\n- Print at 100% scale, landscape, no \"fit to page\"\n- Use matte cardstock, around 65-80 lb\n- Color setting on, so the blue header and green banner show\n- Trim to half page, clear packing tape on the corners at the bench\n\nDone."
+    }
+  ]
+}

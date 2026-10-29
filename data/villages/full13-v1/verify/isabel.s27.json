@@ -1,0 +1,107 @@
+{
+  "session_id": "isabel.s27",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel is mechanical lead on robotics",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im mechanical lead so i have to explain our drivetrain choice to the team tmrw",
+      "support_quote": ""
+    },
+    {
+      "text": "Robotics ran 3:30 to 6 in C7",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "robotics ran 3:30 to 6 in C7 today",
+      "support_quote": ""
+    },
+    {
+      "text": "Alarm at 6:50 and up past midnight",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "alarm is 6:50 lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses her dad's old desktop for essays at night",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im on my dads old desktop after polishing my essay for like 2 hrs",
+      "support_quote": ""
+    },
+    {
+      "text": "Competitive with Lucas, wants her math to beat his",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want my math to beat whatever he came up with lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel polishes her essay endlessly",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "after polishing my essay for like 2 hrs",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel and Lucas chose the 8.45:1 ratio, Lucas's pick",
+      "about": "lucas",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "that matches Lucas's number as a ceiling",
+      "support_quote": "lucas wanted that"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f15",
+      "present": true,
+      "quote": "im mechanical lead so i have to explain our drivetrain choice to the team tmrw"
+    },
+    {
+      "item_id": "isabel.f16",
+      "present": true,
+      "quote": "robotics ran 3:30 to 6 in C7 today"
+    },
+    {
+      "item_id": "isabel.f33",
+      "present": true,
+      "quote": "alarm is 6:50 lol"
+    },
+    {
+      "item_id": "isabel.f25",
+      "present": true,
+      "quote": "im on my dads old desktop after polishing my essay for like 2 hrs"
+    },
+    {
+      "item_id": "isabel.i04",
+      "present": true,
+      "quote": "i want my math to beat whatever he came up with lol"
+    }
+  ],
+  "sensitive": []
+}

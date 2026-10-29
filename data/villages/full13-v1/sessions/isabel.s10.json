@@ -1,0 +1,39 @@
+{
+  "id": "isabel.s10",
+  "principal": "isabel",
+  "start": "2025-09-10T23:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "need a plan for applying to a state university summer engineering institute. deadline is nov 15. im reading the requirements page on my dad's old desktop rn bc the school laptop is not for this. can u give me a step by step timeline"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few things would help me tailor it: what does the application require (essay, recommendations, transcript, short answers)? And what does your usual week look like? Until you answer, here's a general backbone working back from Nov 15:\n\n**Now to Sept 20:** Read the requirements page twice and make a checklist of every component, fee, and portal login. Note whether recommenders need to submit anything separately.\n**Sept 21 to Oct 5:** Gather the easy parts: transcript request, activity list, any short factual fields. Decide who you'll ask for a recommendation.\n**Oct 6 to 12:** Ask recommenders, giving them at least 4 weeks' notice, plus a brief summary of what you want them to highlight.\n**Oct 13 to Oct 26:** Draft the essay or short answers. Aim for a rough version first, then one real revision.\n**Oct 27 to Nov 5:** Get feedback from one person you trust, then revise.\n**Nov 6 to 10:** Final proofread and fill out the form.\n**Nov 11 to 12:** Submit, 3 days early in case the portal acts up.\n**Nov 13 to 15:** Buffer only.\n\nSend me your week and the requirements and I'll fit the steps into real time slots."
+    },
+    {
+      "role": "user",
+      "text": "requirements are an essay, 2 recs, transcript, activities list. my week: robotics tue/thu 3:30-6 in room C7. and wednesdays i tutor a 7th grader at kessler middle 4-5, $20, so that hour is blocked. honestly wiped from mateo math today so the plan cant eat into that slot ever. also make the schedule not assume i sleep before 1am lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Wednesday 4 to 5 is protected, Tuesdays and Thursdays from 3:30 to 6 are blocked, and nothing gets scheduled to require sleeping before 1 a.m. Here's a weekly rhythm that works with that:\n\n**Monday:** 45 min after school. Best for checklist items and logistics like the transcript request and activities list.\n**Tuesday and Thursday:** Nothing before 7 p.m. After robotics, do one 30-minute task max, such as editing a paragraph.\n**Wednesday:** Keep 4 to 5 clear. Do a short 25-minute session after dinner, light work only, so it doesn't pile on top of a tiring day.\n**Friday:** Rest or 30 minutes of cleanup.\n**Saturday:** Your main block, 90 minutes to 2 hours, for essay drafting.\n**Sunday:** 45 minutes for review and planning the coming week.\n\nLate-night sessions are fine, but I'd cap them at 11:30 to 12:30 for writing and leave the last half hour before bed for something low-effort, like tidying your checklist. That way your pace holds without relying on sleep you won't get.\n\nMilestones stay as in the timeline. The two that need external people are the recommendation requests (ask by Oct 6 to 12) and the transcript. Send those first, since they depend on other people's schedules.\n\nWant me to turn this into a calendar-style list with dates through Nov 15?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. short version"
+    },
+    {
+      "role": "assistant",
+      "text": "**Sept**\n- Sept 15: Checklist done, portal login made\n- Sept 22: Transcript requested\n- Sept 29: Activities list drafted\n\n**Oct**\n- Oct 6: Recommenders chosen and asked\n- Oct 13: Essay outline\n- Oct 20: Rough essay draft\n- Oct 27: Revision, feedback requested\n\n**Nov**\n- Nov 3: Second revision\n- Nov 8: Final proofread, form filled\n- Nov 12: Submit\n- Nov 13 to 15: Buffer\n\nWednesdays 4 to 5 stay empty throughout. Weekly work follows the rhythm above."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with it. Come back anytime to work on the essay or tighten the schedule."
+    }
+  ]
+}

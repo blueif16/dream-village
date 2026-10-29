@@ -1,0 +1,86 @@
+{
+  "impression_id": "isabel.i04",
+  "evidence_sessions": [
+    "isabel.s09",
+    "isabel.s22",
+    "isabel.s27",
+    "isabel.s32",
+    "isabel.s37"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel measures herself against Lucas, a teammate who is also an applicant to her schools, and keeps asking how to come out ahead of him.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s09",
+        "isabel.s22",
+        "isabel.s27",
+        "isabel.s32",
+        "isabel.s37"
+      ]
+    },
+    {
+      "statement": "She wants short, direct answers with no padding, and often says 'short version' or asks for just the numbers.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s09",
+        "isabel.s22",
+        "isabel.s27",
+        "isabel.s32",
+        "isabel.s37"
+      ]
+    },
+    {
+      "statement": "She does not want reassurance or pep talks about comparing herself to others, and asks explicitly for facts without emotional framing.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s32"
+      ]
+    },
+    {
+      "statement": "She works late into the night, often past 11pm or midnight, and keeps pushing on college and robotics tasks despite tiredness and early alarms.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s22",
+        "isabel.s27",
+        "isabel.s32",
+        "isabel.s37"
+      ]
+    },
+    {
+      "statement": "She is driven to build a standout record for environmental engineering admissions through robotics, essays and test scores, and she gives the topic a lot of thought.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s09",
+        "isabel.s22",
+        "isabel.s27",
+        "isabel.s32"
+      ]
+    },
+    {
+      "statement": "She is mindful of money and the limits of her situation, noting that she has an SAT fee waiver but not application waivers, and checking the ED fee and parent signature.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s22"
+      ]
+    },
+    {
+      "statement": "She wants substantive, defensible arguments backed by numbers for her ideas, and uses the assistant to prepare for presenting to others.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s27",
+        "isabel.s37"
+      ]
+    },
+    {
+      "statement": "She worries about how she comes across, for example not wanting to sound desperate when asking her coach for more responsibility.",
+      "strength": "weak",
+      "sessions": [
+        "isabel.s09"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Isabel measures herself against Lucas, a teammate who is also an applicant to her schools, and keeps asking how to come out ahead of him.",
+  "rationale": "The first inferred statement, rated strong, says Isabel measures herself against Lucas and keeps asking how to come out ahead of him. This matches the intended trait of comparing herself to Lucas and being competitive about his plans."
+}

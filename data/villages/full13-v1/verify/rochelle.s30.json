@@ -1,0 +1,123 @@
+{
+  "session_id": "rochelle.s30",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Rochelle's husband takes every overtime shift",
+      "about": "andre",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "he doesnt have to take every overtime shift. its voluntary-ish at his job but he takes all of them",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle keeps money worries from Andre to protect his pride as provider",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i wont mention the bills at all. he gets weird about being the provider.",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle shops at Ruiz Family Market",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just got back from ruiz family market for tomorrows cooking",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle works Saturday senior lunch shifts at $18/hr",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just finished my saturday shift at the senior lunch at the community center, 18 an hour",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle has a sore back",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my back is sore",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle has a back strain",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f19",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Standing for hours is rough on a strain",
+      "support_quote": "my back is sore"
+    },
+    {
+      "text": "Rochelle works Saturdays at the senior lunch",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm picking up my Saturdays and it's working out fine",
+      "support_quote": "i just finished my saturday shift at the senior lunch at the community center, 18 an hour"
+    },
+    {
+      "text": "Rochelle is cooking tomorrow",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "enjoy the cooking tomorrow",
+      "support_quote": "for tomorrows cooking"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.i06",
+      "present": true,
+      "quote": "i wont mention the bills at all. he gets weird about being the provider."
+    },
+    {
+      "item_id": "rochelle.f07",
+      "present": true,
+      "quote": "i just finished my saturday shift at the senior lunch at the community center, 18 an hour, it helps a little"
+    },
+    {
+      "item_id": "rochelle.f19",
+      "present": true,
+      "quote": "my back is sore"
+    },
+    {
+      "item_id": "rochelle.f37",
+      "present": true,
+      "quote": "i just got back from ruiz family market for tomorrows cooking and stayed under budget"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

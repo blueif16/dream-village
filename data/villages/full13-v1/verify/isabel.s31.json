@@ -1,0 +1,98 @@
+{
+  "session_id": "isabel.s31",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Her list is 12 schools: 6 out of state, 4 UC, Bayshore State and an in-state polytechnic as safeties",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "12 now. 6 out of state, 4 UC, and bayshore state and one in state polytechnic as safeties",
+      "support_quote": ""
+    },
+    {
+      "text": "Got an SAT fee waiver but won't get app fee waivers at most private schools",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got a fee waiver for the sat but wont get app fee waivers at most private schools",
+      "support_quote": ""
+    },
+    {
+      "text": "She has saved $160 for application fees",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ive saved 160",
+      "support_quote": ""
+    },
+    {
+      "text": "She is building the Mom sheet for Grace",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its for the mom sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Her list has 6 out-of-state schools, 4 UCs and two safeties",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Section A: Out-of-state (6 schools)**",
+      "support_quote": "12 now. 6 out of state, 4 UC, and bayshore state and one in state polytechnic as safeties"
+    },
+    {
+      "text": "She has $160 saved",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With $160, that's about 2 applications",
+      "support_quote": "ive saved 160"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.r03",
+      "present": true,
+      "quote": "its for the mom sheet, needs to be in a format grace will actually take seriously"
+    },
+    {
+      "item_id": "isabel.f06",
+      "present": true,
+      "quote": "12 now. 6 out of state, 4 UC, and bayshore state and one in state polytechnic as safeties"
+    },
+    {
+      "item_id": "isabel.f43",
+      "present": true,
+      "quote": "i got a fee waiver for the sat but wont get app fee waivers at most private schools so fees matter"
+    },
+    {
+      "item_id": "isabel.f30",
+      "present": true,
+      "quote": "ive saved 160, how many apps does that cover"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

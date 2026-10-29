@@ -1,0 +1,107 @@
+{
+  "session_id": "marcus.s14",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has afternoon section Mon/Wed/Thu",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "have to catch the afternoon section mon/wed/thu",
+      "support_quote": ""
+    },
+    {
+      "text": "Biomechanics is one of four courses with Ex Phys, Stats, Intro Psych",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "biomechanics is one of my 4 classes this term w ex phys stats and intro psych",
+      "support_quote": ""
+    },
+    {
+      "text": "Phone battery nearly dead",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my phone is almost dead so keep it short",
+      "support_quote": ""
+    },
+    {
+      "text": "Fatima shares Google Doc notes",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fatima shares her google doc notes",
+      "support_quote": ""
+    },
+    {
+      "text": "Just woke up around 1 p.m.",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just woke up like 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Fatima has a notes doc Marcus will check",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "When you check Fatima's doc, look for these:",
+      "support_quote": "fatima shares her google doc notes so ill compare to that for the stuff i slept thru"
+    },
+    {
+      "text": "Assistant says Marcus has a phone with low battery",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "plug in that phone if you can",
+      "support_quote": "my phone is almost dead so keep it short"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "have to catch the afternoon section mon/wed/thu so i gotta leave soon"
+    },
+    {
+      "item_id": "marcus.f24",
+      "present": true,
+      "quote": "biomechanics is one of my 4 classes this term w ex phys stats and intro psych"
+    },
+    {
+      "item_id": "marcus.f30",
+      "present": true,
+      "quote": "took notes on my phone half asleep monday and half of them are garbled lol"
+    },
+    {
+      "item_id": "marcus.f55",
+      "present": true,
+      "quote": "fatima shares her google doc notes so ill compare to that for the stuff i slept thru"
+    },
+    {
+      "item_id": "marcus.f08",
+      "present": true,
+      "quote": "i just woke up like 1"
+    }
+  ],
+  "sensitive": []
+}

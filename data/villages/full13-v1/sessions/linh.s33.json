@@ -1,0 +1,47 @@
+{
+  "id": "linh.s33",
+  "principal": "linh",
+  "start": "2025-09-29T16:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok can u turn this into a week plan w times pls. just got off my monday 12-6 shift at the cafe, last week of that schedule bc wednesday it switches to closing 3-9"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few quick things so the times are right: what classes do you have this week, and is there anything else fixed (study group, weekend shifts)? Also, how are you getting around?"
+    },
+    {
+      "role": "user",
+      "text": "anatomy MWF 9, chem TTh 11, stats is online. study group tuesday 4 at the library. no bike rn (stolen) so its the shuttle bus or kenji gives me rides tue/thu"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a draft based on what you've told me. Shuttle times are placeholders since I don't know the schedule.\n\n**Mon (tonight)**\n- 6:30 dinner\n- 7:30-9:00 anatomy review\n- 9:00-9:30 prep for Tues\n- 10:30 bed\n\n**Tue**\n- Ride with your friend to campus\n- 11:00 Chem\n- 12:00 lunch (actually eat)\n- 1:00-3:30 stats online\n- 4:00 study group, library\n- Evening: chem problems\n\n**Wed (closing starts)**\n- 9:00 Anatomy (shuttle: [time])\n- 10:00-1:30 stats or review\n- 1:30 lunch\n- 3:00-9:00 shift\n\n**Thu**\n- Ride w/ your friend\n- 11:00 Chem\n- Afternoon: stats + anatomy review\n- Evening: free\n\n**Fri**\n- 9:00 Anatomy\n- Afternoon: catch-up block\n\nWant weekend shift blocks added?"
+    },
+    {
+      "role": "user",
+      "text": "too long lol just bullets. and yes add sat/sun 6:30-1. i usually fill in my paper planner w washi tape so i need it to copy over easy"
+    },
+    {
+      "role": "assistant",
+      "text": "Planner-friendly, one line per block:\n\n**MON** 6:30 dinner | 7:30-9 anatomy | 10:30 bed\n**TUE** 11 chem | 12 lunch | 1-3:30 stats | 4 study group | eve chem problems\n**WED** 9 anatomy | 10-1:30 stats/review | 1:30 lunch | 3-9 shift\n**THU** 11 chem | pm anatomy + stats | eve free\n**FRI** 9 anatomy | pm catch-up\n**SAT** 6:30-1 shift | pm rest or light review\n**SUN** 6:30-1 shift | pm weekly planning\n\nI can suggest washi tape color per block if you like."
+    },
+    {
+      "role": "user",
+      "text": "yes pls. pink muscles blue bones green nerves for anatomy topics, yellow for whatever is on the practical"
+    },
+    {
+      "role": "assistant",
+      "text": "Color tags:\n\n- **Mon 7:30 anatomy**: blue (bones)\n- **Wed 10-1:30 review**: pink (muscles)\n- **Thu pm anatomy**: green (nerves)\n- **Fri catch-up**: yellow, practical-priority items\n- **Chem and stats**: no tape, or a neutral color\n- **Shifts**: one color of your choice\n\nIf you tell me which structures are likely on the practical, I can match them to the right days."
+    },
+    {
+      "role": "user",
+      "text": "ok perfect thank u. ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan. Eat well, and good luck this week!"
+    }
+  ]
+}

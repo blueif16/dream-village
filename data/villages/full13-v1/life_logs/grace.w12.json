@@ -1,0 +1,283 @@
+{
+  "principal": "grace",
+  "week": 12,
+  "entries": [
+    {
+      "id": "grace.w12.l01",
+      "date": "2025-11-10",
+      "what": "Grace arrives at 7:20 to beat the Vinca drop-off line and teaches periods 1, 2, 3, 5 and 6 in B12, covering Unit 3 bonding and moles. Dana eats lunch with her in B12 during prep and vents about her evaluations.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Got through the unit lesson and a vent session at lunch.",
+      "feeling": "busy but steady",
+      "facts": [
+        "grace.f01",
+        "grace.f02",
+        "grace.f11",
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l02",
+      "date": "2025-11-10",
+      "what": "After school Grace stops at the Vinca Avenue drugstore for Corazón's prescriptions, then makes dinner and watches the teleserye with her mother at 9.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Pills picked up and sorted.",
+      "feeling": "tired, dutiful",
+      "facts": [
+        "grace.f38",
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l03",
+      "date": "2025-11-11",
+      "what": "Veterans Day: school is closed. Grace sleeps a little later, then uses the morning to grade Unit 3 quizzes at the kitchen table.",
+      "with": [],
+      "outcome": "Cleared most of the quiz stack.",
+      "feeling": "relieved by the day off",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l04",
+      "date": "2025-11-11",
+      "what": "Grace takes Corazón on a short errand and attends the quiet afternoon at home, then goes over the car budget with Ramón before his shift.",
+      "with": [
+        "corazon",
+        "ramon"
+      ],
+      "outcome": "Agreed the first car payment is covered.",
+      "feeling": "calm, a bit anxious about money",
+      "facts": [
+        "grace.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l05",
+      "date": "2025-11-12",
+      "what": "Regular teaching day in B12 with a moles practice lab for third period, which includes Dulce and Karina at their rebuilt lab pairs.",
+      "with": [
+        "dulce",
+        "karina"
+      ],
+      "outcome": "Lab finished without spills.",
+      "feeling": "focused",
+      "facts": [
+        "grace.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l06",
+      "date": "2025-11-12",
+      "what": "After school Grace runs the Wednesday errands, makes dinner and sits with Isabel's laptop about her essay deadline questions.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Short, mostly calm talk.",
+      "feeling": "wary",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l07",
+      "date": "2025-11-13",
+      "what": "First fall storm: heavy rain slows the drive to school and the Vinca drop-off line backs up. Grace teaches in B12 and covers the wet-floor mess at the door.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "School ran on schedule despite the rain.",
+      "feeling": "harried",
+      "facts": [
+        "grace.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l08",
+      "date": "2025-11-13",
+      "what": "Grace eats lunch with Dana in B12 and starts drafting conference logs ahead of the Nov 18-20 slots.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Logs started.",
+      "feeling": "efficient, grumbling",
+      "facts": [
+        "grace.f27",
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l09",
+      "date": "2025-11-13",
+      "what": "Evening in the rain: dinner, then the teleserye with Nanay.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Quiet night in.",
+      "feeling": "cozy",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l10",
+      "date": "2025-11-14",
+      "what": "The storm continues; Grace teaches all day and submits the Friday form from her spreadsheet at 3:30.",
+      "with": [],
+      "outcome": "Report submitted on time.",
+      "feeling": "routine, slightly irritated",
+      "facts": [
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l11",
+      "date": "2025-11-14",
+      "what": "Grace drives home through puddles, picks up takeout and spends the evening with Isabel and Corazón.",
+      "with": [
+        "isabel",
+        "corazon"
+      ],
+      "outcome": "Relaxed dinner.",
+      "feeling": "tired",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l12",
+      "date": "2025-11-15",
+      "what": "Saturday groceries at Ruiz Family Market, then rolls and conchas from Panadería Las Hermanas.",
+      "with": [],
+      "outcome": "Pantry restocked.",
+      "feeling": "productive",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l13",
+      "date": "2025-11-15",
+      "what": "Grace makes the first $318 payment on the hatchback, due today, and checks the account twice afterward.",
+      "with": [],
+      "outcome": "Payment went through.",
+      "feeling": "relieved but uneasy",
+      "facts": [
+        "grace.f10",
+        "grace.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l14",
+      "date": "2025-11-15",
+      "what": "Evening at home with Ramón's Bronco parts on the garage shelf annoying her again, and a quiet dinner with the family.",
+      "with": [
+        "ramon",
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "Dinner together.",
+      "feeling": "content",
+      "facts": [
+        "grace.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l15",
+      "date": "2025-11-16",
+      "what": "Grace takes Corazón to Tagalog Mass at 9 at Our Lady of the Marsh, then Lola Cora cooks sinigang for lunch.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Mass and family lunch done.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f59"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w12.l16",
+      "date": "2025-11-16",
+      "what": "At the kitchen table Grace grades, then asks the assistant for conference talking points as bullets, three per kid, no fluff, praising effort. Afterward she grumbles that Isabel's 4.1 isn't the point if she can't manage her time.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Got the bullet lists; irritation at Isabel stayed unresolved.",
+      "feeling": "brisk, then irritated",
+      "facts": [
+        "grace.f12",
+        "grace.f27"
+      ],
+      "impressions": [
+        "grace.i01",
+        "grace.i05"
+      ]
+    },
+    {
+      "id": "grace.w12.l17",
+      "date": "2025-11-16",
+      "what": "Grace finishes the conference logs and preps materials for the week.",
+      "with": [],
+      "outcome": "Ready for conferences.",
+      "feeling": "prepared, tired",
+      "facts": [],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w12.n01",
+      "subject": "grace",
+      "attribute": "rain_gear",
+      "value": "bought a new umbrella after the storm broke her old one",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w12.n02",
+      "subject": "grace",
+      "attribute": "quiz_return",
+      "value": "returned Unit 3 quizzes to third period on Nov 12",
+      "valid_from": "2025-11-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w12.n03",
+      "subject": "grace",
+      "attribute": "conference_prep",
+      "value": "finished conference logs the evening of Nov 16",
+      "valid_from": "2025-11-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w12.n04",
+      "subject": "corazon",
+      "attribute": "sunday_dish",
+      "value": "made sinigang with extra tamarind on Nov 16",
+      "valid_from": "2025-11-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

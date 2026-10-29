@@ -1,0 +1,348 @@
+{
+  "session_id": "rochelle.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Registered for 1-unit online medical terminology class plus anatomy and chemistry",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just registered for the 1 unit online medical terminology class on top of anatomy and chemistry",
+      "support_quote": ""
+    },
+    {
+      "text": "Denny's plan showed the course fit her sequence",
+      "about": "denny",
+      "kind": "fact",
+      "item_id": "rochelle.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "denny's plan showed this course fit my sequence",
+      "support_quote": ""
+    },
+    {
+      "text": "Drives mother-in-law to pharmacy Tuesdays at 3:30",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tuesdays i drive my mother in law to the pharmacy at 3:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Back flares if she sits over two hours",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my back flares if i sit over two hours",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses sort-line analogy to learn the nephron",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "is the kidney nephron basically a sort line with rejects going back on the belt lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes anatomy and chemistry classes; plans around them",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Skip studying after the 3:30 drive.",
+      "support_quote": "tuesdays i drive my mother in law to the pharmacy at 3:30"
+    },
+    {
+      "text": "Needs short study blocks due to back",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f19",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "blocks of 45 minutes or less so you're never sitting long",
+      "support_quote": "my back flares if i sit over two hours so keep the study blocks short pls"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f03",
+      "present": true,
+      "quote": "i just registered for the 1 unit online medical terminology class on top of anatomy and chemistry"
+    },
+    {
+      "item_id": "rochelle.i07",
+      "present": true,
+      "quote": "is the kidney nephron basically a sort line with rejects going back on the belt lol"
+    },
+    {
+      "item_id": "rochelle.f57",
+      "present": true,
+      "quote": "denny's plan showed this course fit my sequence"
+    },
+    {
+      "item_id": "rochelle.f19",
+      "present": true,
+      "quote": "my back flares if i sit over two hours so keep the study blocks short pls"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

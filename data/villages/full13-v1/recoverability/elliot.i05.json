@@ -1,0 +1,75 @@
+{
+  "impression_id": "elliot.i05",
+  "evidence_sessions": [
+    "elliot.s32",
+    "elliot.s36",
+    "elliot.s55",
+    "elliot.s76"
+  ],
+  "inferred": [
+    {
+      "statement": "Elliot prefers terse, efficient, no-fluff replies and gives clipped instructions like \"next\" and \"short version\", often asking for structured table formats.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s32",
+        "elliot.s36",
+        "elliot.s55",
+        "elliot.s76"
+      ]
+    },
+    {
+      "statement": "Elliot fits work tasks into the gaps of caring for his infant son Theo, such as night feeds, naps and one-handed typing, and often apologizes for it.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s32",
+        "elliot.s36",
+        "elliot.s76"
+      ]
+    },
+    {
+      "statement": "Elliot is conscientious about returning to work from parental leave and repeatedly prepares ahead of his January return with training, rules summaries and a handoff document, though he tends to put things off and fall behind.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s32",
+        "elliot.s36",
+        "elliot.s55",
+        "elliot.s76"
+      ]
+    },
+    {
+      "statement": "Elliot uses dry, self-deprecating humor and emoji to lighten stress, such as \"me 0, inbox 7\" and the 🙃 emoji.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s32",
+        "elliot.s55"
+      ]
+    },
+    {
+      "statement": "Elliot learns actively and quickly through quizzes and tables, answers accurately and asks for more questions when done.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s32",
+        "elliot.s55",
+        "elliot.s76"
+      ]
+    },
+    {
+      "statement": "Elliot is anxious about looking behind or unprepared to his supervisor Brenda, and asks for help wording honest, professional messages to her.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s32",
+        "elliot.s36"
+      ]
+    },
+    {
+      "statement": "Elliot has a conscientious, thorough work style in appeals, wanting a complete handoff for his covering colleague, and decompresses with hobbies like a lighthouse puzzle.",
+      "strength": "weak",
+      "sessions": [
+        "elliot.s55"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "Elliot is conscientious about returning to work from parental leave and repeatedly prepares ahead of his January return with training, rules summaries and a handoff document, though he tends to put things off and fall behind.",
+  "rationale": "The intended trait is being checked out from work and not caring about returning. The reader inferred the opposite: Elliot is conscientious about returning and prepares diligently. No statement captures disengagement, so the trait was not recovered."
+}

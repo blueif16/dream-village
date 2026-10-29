@@ -1,0 +1,87 @@
+{
+  "session_id": "elliot.s58",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Judith redid the fridge labels in librarian handwriting and moved things",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom redid the fridge labels again in her librarian handwriting and moved everything around",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot is doing the 2 a.m. feed",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "2:22 am update, typing one-handed sorry, mid bottle",
+      "support_quote": ""
+    },
+    {
+      "text": "Grandma effect: Theo sleeps well at Judith's only",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the grandma effect works on everything except my own fridge",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot quietly relabels to undo his mother's changes without confronting her",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want to relabel the milk and bins so they look like her system but aren't",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot uses humor to cover stress",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "scoreboard: dad 1, fridge 0",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot does the 2 a.m. feed",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "designed so a 2 a.m. grab takes five seconds",
+      "support_quote": "milk should be front left so i can grab it at the 2 am feed"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f47",
+      "present": true,
+      "quote": "my mom redid the fridge labels again in her librarian handwriting and moved everything around"
+    },
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "2:22 am update, typing one-handed sorry, mid bottle"
+    },
+    {
+      "item_id": "elliot.r04",
+      "present": true,
+      "quote": "the grandma effect works on everything except my own fridge"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,112 @@
+{
+  "session_id": "elliot.s53",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Return date moved to Monday Jan 5 after adding three weeks of vacation, first month hybrid",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i added three weeks of vacation, so my supervisor approved moving my return to monday jan 5. first month is supposed to be hybrid.",
+      "support_quote": ""
+    },
+    {
+      "text": "Must finish training before returning",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to finish the online reassessment-software training before i go back",
+      "support_quote": ""
+    },
+    {
+      "text": "Has finished only the first training module",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w9.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i've only done the first module",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith is staying with them during the week and moved the mugs to the high shelf",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "cast.f73",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom is staying with us during the week and she moved the mugs to the high shelf",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith moved the mugs",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she moved the mugs to the high shelf",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks for gentle way to ask mother to undo change, then won't send it",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll probably not send it though.",
+      "support_quote": ""
+    },
+    {
+      "text": "Return is Jan 5, 2026 with three weeks vacation added, first month hybrid",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "my return date is Monday, January 5, 2026, after adding three weeks of vacation to my parental leave, with the first month on a hybrid schedule.",
+      "support_quote": "i added three weeks of vacation, so my supervisor approved moving my return to monday jan 5. first month is supposed to be hybrid."
+    },
+    {
+      "text": "Training must be completed before return",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "will have it completed before I return.",
+      "support_quote": "i have to finish the online reassessment-software training before i go back"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f04",
+      "present": true,
+      "quote": "i added three weeks of vacation, so my supervisor approved moving my return to monday jan 5. first month is supposed to be hybrid."
+    },
+    {
+      "item_id": "elliot.w9.n04",
+      "present": true,
+      "quote": "i've only done the first module. no idea how many hours the rest is."
+    },
+    {
+      "item_id": "elliot.i03",
+      "present": true,
+      "quote": "can you write a gentle, non-offensive way to ask her to put them back on the low shelf?"
+    },
+    {
+      "item_id": "elliot.f57",
+      "present": true,
+      "quote": "i have to finish the online reassessment-software training before i go back"
+    }
+  ],
+  "sensitive": []
+}

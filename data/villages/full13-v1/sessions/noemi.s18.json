@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s18",
+  "principal": "noemi",
+  "start": "2025-09-12T12:03:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. just booked the exam for sat nov 8, 9am, testing center in tamsen city. need a weekly study plan around work and how many practice tests i should take before then. practice tests are averaging 71% and pass line is like 75. subnetting and port numbers keep dragging my score down. eating taqueria colima in the cage rn so keep it short lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, booking it makes it real. You have about 8 weeks from now to Nov 8. I don't know your work hours yet, so tell me your shift times and I'll fit blocks around them. Here's a starter plan:\n\n**Weekly (about 6-7 hrs total)**\n- 3 weekday sessions, 45-60 min each, before or after work: one drill block for subnetting, one for port numbers/protocols, one for mixed review of other chapters\n- 1 longer weekend session, 90-120 min: a timed practice test, then review every miss\n- Flashcards for port numbers in dead time, 10 min a day\n\n**Practice tests (your weak spots are the lever)**\n- Weeks 1-3: skip full tests except one to re-baseline. Drill subnetting and ports directly, since the 4-point gap is likely coming from those\n- Weeks 4-7: one full timed test per week, about 4 total\n- Final week: one last test about 4-5 days out, then light review only\n- Total: about 5-6 full tests. Aim for 78-80% consistently before test day so you have a cushion over the 75 line\n\n**Rule:** a test only counts if you review every wrong answer and log the topic. Taking more tests without review won't move the score.\n\nSend me your shift times and I'll put this on an actual calendar."
+    },
+    {
+      "role": "user",
+      "text": "ty. tldr on what to drill for subnetting, i have like 5 min"
+    },
+    {
+      "role": "assistant",
+      "text": "TLDR subnetting drill:\n- Memorize the powers of 2 up to 256 and the CIDR-to-mask table (/24 to /30)\n- Practice 3 problem types: find the network address, find the broadcast address, count usable hosts\n- Do 10 problems a session, timed at 90 seconds each\n- Ports: flashcard the common ones (HTTP, HTTPS, SSH, DNS, DHCP, SMTP, RDP) first, then the rest\n\nWant me to generate a set of problems when you're back?"
+    }
+  ]
+}

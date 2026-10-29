@@ -1,0 +1,358 @@
+{
+  "session_id": "jun.s24",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "On Tue-Sat cafe schedule with openers and 2-9 closers",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm on tue-sat at the cafe now since they extended hours",
+      "support_quote": ""
+    },
+    {
+      "text": "Standing Friday 5-9 commissary block",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "friday i have my standing 5-9 block at the ruel road commissary for prep",
+      "support_quote": ""
+    },
+    {
+      "text": "Logs receipts in shared spreadsheet",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "been logging receipts in the shared spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Buys wrapper cases in aisle 6 at Ruiz Family Market",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gotta buy wrapper cases again, aisle 6 at ruiz family market",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun closes 2-9 tonight",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you're closing tonight (2-9)",
+      "support_quote": "tonight i close"
+    },
+    {
+      "text": "Jun has Friday commissary 5-9 block",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Friday (commissary 5-9 p.m.)**",
+      "support_quote": "friday i have my standing 5-9 block at the ruel road commissary for prep"
+    },
+    {
+      "text": "Jun buys wrappers at aisle 6 Ruiz",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Buy wrapper cases, aisle 6, before 2 p.m.",
+      "support_quote": "aisle 6 at ruiz family market"
+    },
+    {
+      "text": "Jun logs receipts in spreadsheet",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Log receipt in spreadsheet after close",
+      "support_quote": "been logging receipts in the shared spreadsheet"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f03",
+      "present": true,
+      "quote": "i'm on tue-sat at the cafe now since they extended hours, so its openers and two 2-9 closers"
+    },
+    {
+      "item_id": "jun.f16",
+      "present": true,
+      "quote": "friday i have my standing 5-9 block at the ruel road commissary for prep"
+    },
+    {
+      "item_id": "jun.f24",
+      "present": true,
+      "quote": "been logging receipts in the shared spreadsheet and wrapper and shrimp costs are creeping up grabe"
+    },
+    {
+      "item_id": "jun.f34",
+      "present": true,
+      "quote": "also gotta buy wrapper cases again, aisle 6 at ruiz family market"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

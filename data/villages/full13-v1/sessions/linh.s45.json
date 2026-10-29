@@ -1,0 +1,39 @@
+{
+  "id": "linh.s45",
+  "principal": "linh",
+  "start": "2025-10-11T22:36:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok im so tired lol. bought a used e-bike today for $640 so my savings are basically gone, rebuilding to $1500 now for spring textbooks and transfer fees 🫠 gonna charge it behind the cafe counter. anyway can u help me with cranial nerves, the practical is next friday and i need to nail the nerves"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on the e-bike! Happy to help with the nerves. Here's a quick map of all 12:\n\n- I Olfactory: smell\n- II Optic: vision\n- III Oculomotor: most eye movement, pupil constriction, eyelid\n- IV Trochlear: superior oblique\n- V Trigeminal: face sensation, chewing\n- VI Abducens: lateral rectus\n- VII Facial: expression, taste (front 2/3 of tongue)\n- VIII Vestibulocochlear: hearing, balance\n- IX Glossopharyngeal: throat, taste (back of tongue)\n- X Vagus: heart, lungs, gut\n- XI Accessory: trapezius, SCM\n- XII Hypoglossal: tongue movement\n\nWant a memory trick, or a quiz?"
+    },
+    {
+      "role": "user",
+      "text": "can u tag the nerves green to match my notes pls. too long otherwise lol. and then quiz me on the yellow list, i trimmed it to 40 structures"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the green-tagged version, short:\n\n🟢 I smell\n🟢 II sight\n🟢 III eye moves + pupil\n🟢 IV superior oblique\n🟢 V face feeling + chewing\n🟢 VI lateral rectus\n🟢 VII expression + taste\n🟢 VIII hearing + balance\n🟢 IX throat + back taste\n🟢 X vagus, organs\n🟢 XI shoulder shrug\n🟢 XII tongue\n\nFor the quiz, I don't have your yellow list yet. Paste the 40 structures, or tell me a few and I'll start. Meanwhile, warm-up: which nerve controls the lateral rectus, and which one is the only one that exits the brainstem dorsally?"
+    },
+    {
+      "role": "user",
+      "text": "VI for lateral rectus. and trochlear? IV"
+    },
+    {
+      "role": "assistant",
+      "text": "Both correct! 🟢 VI abducens and 🟢 IV trochlear, the only one exiting dorsally.\n\nNext round:\n1. Which nerve is damaged if someone can't smile on one side?\n2. Which nerve carries hearing and balance?\n3. Which nerve moves the tongue?\n\nPaste the yellow list whenever you're ready and I'll quiz in batches of 10 so it's not overwhelming."
+    },
+    {
+      "role": "user",
+      "text": "VII, VIII, XII. ok pasting the list tmrw, brain is mush. thanks!! ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "All three right! You're in good shape. Rest up, paste the list tomorrow, and we'll go through it in batches. Enjoy your food! ☕"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "impression_id": "arjun.i06",
+  "evidence_sessions": [
+    "arjun.s11",
+    "arjun.s17",
+    "arjun.s35",
+    "arjun.s82"
+  ],
+  "inferred": [
+    {
+      "statement": "Arjun runs his internship search through a systematic tracker with buffer columns and early-submission habits, and keeps refining it as the search grows.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s11",
+        "arjun.s17",
+        "arjun.s82"
+      ]
+    },
+    {
+      "statement": "He wants short, practical, ready-to-use output, such as checklists, tables, and drafts capped at a set number of lines, and asks for brevity explicitly.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s17",
+        "arjun.s82",
+        "arjun.s35"
+      ]
+    },
+    {
+      "statement": "He is conscientious and holds himself to a high standard, getting annoyed at himself over a single missed deadline and finishing group work a day early.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s17",
+        "arjun.s82"
+      ]
+    },
+    {
+      "statement": "He responds to mistakes by fixing the system and moving on, patching the cause and logging the miss rather than dwelling on it.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s17",
+        "arjun.s11"
+      ]
+    },
+    {
+      "statement": "He keeps control of his own wording and facts, overriding the assistant's edits when they change something he wants to stay, such as the $1,090 figure.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s35"
+      ]
+    },
+    {
+      "statement": "He is proactive about relationships and professional courtesy, thanking his recommender in person and by email and writing to the landlord politely but firmly, while asserting that he pays on time.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s82",
+        "arjun.s35"
+      ]
+    },
+    {
+      "statement": "He is anxious about the uncertainty of waiting on job decisions and wants structure to channel it productively.",
+      "strength": "weak",
+      "sessions": [
+        "arjun.s82"
+      ]
+    },
+    {
+      "statement": "He writes in a casual, lowercase, typo-tolerant style and fits tasks into commutes and late nights, so he wants quick answers that work on a phone.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s11",
+        "arjun.s17",
+        "arjun.s82",
+        "arjun.s35"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The decoy is carelessness about deadlines. The reader inferred the opposite: Arjun is systematic, conscientious, and submits early. No strong or moderate statement asserts he is careless about deadlines, so he was not wrongly generalized."
+}

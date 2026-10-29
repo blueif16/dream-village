@@ -1,0 +1,137 @@
+{
+  "session_id": "linh.s54",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Chem midterm was at 8 a.m. today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "chem midterm was at 8 this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Closes at the cafe 3-9 tonight",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i close at the cafe 3-9 tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Has anatomy at 9 MWF",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anatomy is at 9 right after chem, mwf",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a Sunday-prepped rice bowl to eat before shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have my sunday rice bowl packed",
+      "support_quote": ""
+    },
+    {
+      "text": "Bikes to the cafe, about 15 minutes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bike to the cafe takes like 15 min",
+      "support_quote": ""
+    },
+    {
+      "text": "Likes short bullet plans with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u make me a plan for the rest of today w times pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Closing shift 3:00-9:00",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "3:00-9:00 – Closing shift",
+      "support_quote": "i close at the cafe 3-9 tonight"
+    },
+    {
+      "text": "Anatomy at 9 right after the exam, no gap",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Got it, so no gap between the exam and anatomy.",
+      "support_quote": "anatomy is at 9 right after chem, mwf. no gap lol"
+    },
+    {
+      "text": "Has a rice bowl to eat before shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I put the rice bowl well ahead of the shift",
+      "support_quote": "i have my sunday rice bowl packed, need to actually eat it before the shift"
+    },
+    {
+      "text": "Bikes to the cafe",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "2:40-2:55 – Bike to the cafe",
+      "support_quote": "bike to the cafe takes like 15 min"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f20",
+      "present": true,
+      "quote": "chem midterm was at 8 this morning and im fried"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "i close at the cafe 3-9 tonight"
+    },
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "anatomy is at 9 right after chem, mwf. no gap lol"
+    },
+    {
+      "item_id": "linh.f30",
+      "present": true,
+      "quote": "i have my sunday rice bowl packed, need to actually eat it before the shift"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "ok perfect thats exactly what i needed"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "marcus.s41",
+  "principal": "marcus",
+  "start": "2025-11-16T14:25:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick need help w spring registration at bayshore state. im doing 12 units and the window opens nov 18. how does the unit thing work and whats the deal with the gpa rule for staying in kinesiology"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Quick note: policies vary by school, so confirm the specifics in your catalog or with your advisor.\n\nUnits:\n- 12 units is usually the minimum for full-time status, so it's a good floor for financial aid.\n- Most classes are 3 units, so 12 is about four classes. A 4-unit lab course counts as 4.\n- Going over 15-16 often needs approval, so you're fine at 12.\n\nRegistration on the 18th:\n- Check for holds first (advising, billing). Those block registration.\n- Put your top choices in your cart ahead of time and have backup sections ready.\n- Log in right when your window opens. Popular sections fill fast.\n\nGPA rule: majors often require a minimum GPA, either overall or in major courses. Which one applies is exactly what to confirm with your department. What's the requirement you're working with?"
+    },
+    {
+      "role": "user",
+      "text": "holts number. 2.7. how is that actually calculated"
+    },
+    {
+      "role": "assistant",
+      "text": "Most schools use a weighted average:\n\n1. Each grade converts to points: A = 4.0, B = 3.0, C = 2.0, D = 1.0, F = 0. Plus/minus adjusts it, like B+ = 3.3 and C+ = 2.3.\n2. Multiply each course's points by its units.\n3. Add those up and divide by total units attempted.\n\nSo a 4-unit class moves your GPA more than a 3-unit one. Also check whether the 2.7 is cumulative or based only on major courses, and whether retaking a class replaces the old grade. Your advisor can tell you which."
+    },
+    {
+      "role": "user",
+      "text": "my stats grade is a c+ now after tutoring. how does that affect it"
+    },
+    {
+      "role": "assistant",
+      "text": "A C+ is 2.3 points, so it's below 2.7 and pulls your average down a bit. But it's far better than a D or F, and it's not hurting you as much as the lower grade would have. If your other classes are B range, they'll offset it.\n\nTo see what you need, use this:\n(current GPA x units completed + new grade points x new units) / total units.\n\nIf you tell me your current cumulative GPA and units completed, I can run the numbers for different spring outcomes. Also ask whether Stats can be retaken to replace the grade."
+    },
+    {
+      "role": "user",
+      "text": "ok will do. also i need to pick sections that dont clash with my current afternoon classes and my night shifts. i work nights so mornings are for sleeping. how do i plan that"
+    },
+    {
+      "role": "assistant",
+      "text": "Good constraint to plan around. Try this:\n\n1. Block out your work shifts and sleep window on a weekly grid first, so everything else fits in the gaps.\n2. Look for sections in the afternoon or early evening, and avoid anything starting before your sleep ends.\n3. Cluster classes on as few days as possible so you get full rest days.\n4. Pick 2 backup sections for each required course. If a time slot fills, you have alternatives.\n5. Check for hybrid or online sections for the courses where timing is tight.\n6. Keep travel time in mind between classes and between class and work.\n\nIf you send me the courses you need and the section times, I'll help you find a combo that fits."
+    },
+    {
+      "role": "user",
+      "text": "nice. also the registration form wants a gov id number for the financial aid part. my license is D7392841 can u help me fill it out"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. For the ID field, enter your license number exactly as it appears on the card, with no spaces or dashes unless the form shows a specific format. I won't repeat it here, but you can paste it in directly.\n\nTips for the rest of that section:\n- Make sure the name matches what's on your ID and your school record.\n- Double-check the issuing state is selected, and that the card isn't expired.\n- Look over each field before you submit, since a typo can delay aid processing.\n\nIf you want, tell me what other fields are on the form and I'll walk you through them."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck on the 18th! Get your cart ready tonight and check for holds so you're set when the window opens."
+    }
+  ]
+}

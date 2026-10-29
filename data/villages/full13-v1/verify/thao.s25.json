@@ -1,0 +1,122 @@
+{
+  "session_id": "thao.s25",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao sleeps 8:30 to 3 after shifts with blackout curtains and a box fan",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i sleep 8:30 to 3 after shifts. blackout curtains, box fan.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wakes groggy",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "still wake up groggy tho",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao uses earplugs and white noise against noise through the wall from 209",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "209 through the wall again. earplugs + white noise, is that enough or do i need something else",
+      "support_quote": ""
+    },
+    {
+      "text": "209 means the neighbors' noise through the wall",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "209 through the wall again.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao drinks a big thermos of iced coffee during shift, sometimes two",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i drink a big thermos of iced coffee during shift, sometimes two",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao sleeps about 6.5 hours",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That's about 6.5 hours, which is on the short side",
+      "support_quote": "i sleep 8:30 to 3 after shifts."
+    },
+    {
+      "text": "Assistant says a baby's crying gets through the wall",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f40",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If a baby's crying still gets through",
+      "support_quote": "209 through the wall again."
+    },
+    {
+      "text": "Assistant says Thao drinks two thermoses some nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "On a two-thermos night, put the second one early, not late",
+      "support_quote": "i drink a big thermos of iced coffee during shift, sometimes two"
+    },
+    {
+      "text": "Assistant says Thao sleeps at 8:30 a.m.",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If you sleep at 8:30 a.m.",
+      "support_quote": "i sleep 8:30 to 3 after shifts."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "i sleep 8:30 to 3 after shifts. blackout curtains, box fan. still wake up groggy tho"
+    },
+    {
+      "item_id": "thao.f40",
+      "present": true,
+      "quote": "earplugs + white noise, is that enough or do i need something else"
+    },
+    {
+      "item_id": "thao.f11",
+      "present": true,
+      "quote": "i drink a big thermos of iced coffee during shift, sometimes two"
+    },
+    {
+      "item_id": "thao.r04",
+      "present": true,
+      "quote": "209 through the wall again."
+    }
+  ],
+  "sensitive": []
+}

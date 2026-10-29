@@ -1,0 +1,102 @@
+{
+  "session_id": "elliot.s46",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Finished module 3 of the training",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w8.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "finished module 3 of the reassessment-software training this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Training must be finished before returning to work",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the online training has to be done before i go back to work",
+      "support_quote": ""
+    },
+    {
+      "text": "Return date is Monday Dec 1",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my return date is monday dec 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo naps at 12:30 and 4 in the crib",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my son's 12:30 and 4 o'clock crib naps",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot finished module 3",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w8.n02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice work on module 3.",
+      "support_quote": "finished module 3 of the reassessment-software training this morning"
+    },
+    {
+      "text": "Elliot returns Dec 1",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "working back from a Dec 1 return",
+      "support_quote": "my return date is monday dec 1"
+    },
+    {
+      "text": "Elliot studies during the 12:30 and 4:00 naps",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the 12:30 and 4:00 naps",
+      "support_quote": "i can only study during my son's 12:30 and 4 o'clock crib naps"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.w8.n02",
+      "present": true,
+      "quote": "finished module 3 of the reassessment-software training this morning"
+    },
+    {
+      "item_id": "elliot.f57",
+      "present": true,
+      "quote": "the online training has to be done before i go back to work"
+    },
+    {
+      "item_id": "elliot.f16",
+      "present": true,
+      "quote": "i can only study during my son's 12:30 and 4 o'clock crib naps"
+    },
+    {
+      "item_id": "elliot.f03",
+      "present": true,
+      "quote": "my return date is monday dec 1, so i'm counting back from that to set deadlines for the modules"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,108 @@
+{
+  "session_id": "rochelle.s17",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Van is in the shop on Ruel Road and Keisha is driving her",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my van is still in the shop on ruel road and keisha is driving me all week",
+      "support_quote": ""
+    },
+    {
+      "text": "Keisha is driving Rochelle",
+      "about": "keisha",
+      "kind": "fact",
+      "item_id": "rochelle.w5.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "keisha is driving me all week",
+      "support_quote": ""
+    },
+    {
+      "text": "Drives a 2011 Nissan minivan with 186,000 miles",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its a 2011 nissan minivan 186,000 miles",
+      "support_quote": ""
+    },
+    {
+      "text": "Cooking red beans and rice",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "typing this while the red beans and rice cooks btw",
+      "support_quote": ""
+    },
+    {
+      "text": "Skipping 11 a.m. church for errands and cooking",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "skipping the 11 church service again for errands and cooking",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle's van has 186,000 miles",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a van with 186,000 miles can keep going",
+      "support_quote": "its a 2011 nissan minivan 186,000 miles"
+    },
+    {
+      "text": "Rochelle is having red beans and rice",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "enjoy the red beans and rice",
+      "support_quote": "typing this while the red beans and rice cooks btw"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f16",
+      "present": true,
+      "quote": "my van is still in the shop on ruel road and keisha is driving me all week"
+    },
+    {
+      "item_id": "rochelle.f36",
+      "present": true,
+      "quote": "typing this while the red beans and rice cooks btw"
+    },
+    {
+      "item_id": "rochelle.f40",
+      "present": true,
+      "quote": "skipping the 11 church service again for errands and cooking"
+    },
+    {
+      "item_id": "rochelle.f14",
+      "present": true,
+      "quote": "its a 2011 nissan minivan 186,000 miles. is it even worth fixing"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

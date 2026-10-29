@@ -1,0 +1,67 @@
+{
+  "session_id": "linh.s44",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh has about $700 saved for a replacement bike",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have about $700 saved for a replacement bike",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh relies on the shuttle and Kenji's rides",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just tired of relying on the shuttle and kenjis rides",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh asks to forget her crush on Pedro",
+      "about": "linh",
+      "kind": "forget_request",
+      "item_id": "linh.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pls forget i said i have a crush on pedro from study group. dont keep that",
+      "support_quote": ""
+    },
+    {
+      "text": "$640 is within Linh's budget",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "$640 is within your budget",
+      "support_quote": "i have about $700 saved for a replacement bike"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f43",
+      "present": true,
+      "quote": "pls forget i said i have a crush on pedro from study group. dont keep that"
+    },
+    {
+      "item_id": "linh.f12",
+      "present": true,
+      "quote": "i have about $700 saved for a replacement bike and im seeing this one tomorrow for $640"
+    },
+    {
+      "item_id": "linh.f10",
+      "present": true,
+      "quote": "honestly just tired of relying on the shuttle and kenjis rides"
+    }
+  ],
+  "sensitive": []
+}

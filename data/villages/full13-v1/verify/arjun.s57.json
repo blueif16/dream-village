@@ -1,0 +1,363 @@
+{
+  "session_id": "arjun.s57",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sunita's former colleague is referring him into Harrowgate",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "arjun.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "My sister's former colleague is referring me into Harrowgate",
+      "support_quote": ""
+    },
+    {
+      "text": "Using resume v19 tailored for this application",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tailored resume v19 for this one already",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants a summer 2026 supply chain analyst internship in the Bay Area",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I am wanting a summer 2026 supply chain analyst internship in the Bay Area",
+      "support_quote": ""
+    },
+    {
+      "text": "Application 82 goes in the color-coded spreadsheet",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "this will be app 82 in the spreadsheet, color coded row and everything",
+      "support_quote": ""
+    },
+    {
+      "text": "Jokes to deflect about the application being a message in a bottle",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "another message in a bottle but with a lifeguard this time",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the spreadsheet term for his tracker",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "this will be app 82 in the spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Sister's former colleague referred him",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "arjun.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a former colleague of my sister's, suggested I apply",
+      "support_quote": "My sister's former colleague is referring me into Harrowgate"
+    },
+    {
+      "text": "He is a junior in logistics at Bayshore State",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm a junior in logistics management at Bayshore State",
+      "support_quote": "I'm a junior in logistics management at Bayshore State"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f51",
+      "present": true,
+      "quote": "My sister's former colleague is referring me into Harrowgate"
+    },
+    {
+      "item_id": "arjun.f38",
+      "present": true,
+      "quote": "tailored resume v19 for this one already"
+    },
+    {
+      "item_id": "arjun.f48",
+      "present": true,
+      "quote": "I am wanting a summer 2026 supply chain analyst internship in the Bay Area"
+    },
+    {
+      "item_id": "arjun.f09",
+      "present": true,
+      "quote": "this will be app 82 in the spreadsheet, color coded row and everything"
+    },
+    {
+      "item_id": "arjun.i04",
+      "present": true,
+      "quote": "another message in a bottle but with a lifeguard this time"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

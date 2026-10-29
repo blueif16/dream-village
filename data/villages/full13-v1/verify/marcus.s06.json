@@ -1,0 +1,123 @@
+{
+  "session_id": "marcus.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Marcus's student ID is 918-442-7065",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "student id 918-442-7065",
+      "support_quote": ""
+    },
+    {
+      "text": "Jade is off Fridays and has labs Tue/Thu mornings",
+      "about": "jade",
+      "kind": "fact",
+      "item_id": "marcus.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shes off fridays and her labs are tue/thu mornings",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus takes Stats 120 and Biomechanics",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "courses stats 120 and biomechanics",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus and Jade's usual date is Saturday evening at Phở Bến Thành",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "our usual is saturday evening at phở bến thành",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus wants a funny, not heavy, text to Jade after tension",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "want something funny but still sincere, not a heavy apology",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus's schedule has him living like a vampire",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "My schedule has me living like a vampire",
+      "support_quote": "she was kinda short with me about my schedule lol"
+    },
+    {
+      "text": "Marcus's usual plan is Saturday evening at Phở Bến Thành",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Saturday evening, Phở Bến Thành, my treat.",
+      "support_quote": "our usual is saturday evening at phở bến thành"
+    },
+    {
+      "text": "Marcus is taking Stats 120 and Biomechanics and is behind",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Courses: Stats 120, Biomechanics",
+      "support_quote": "courses stats 120 and biomechanics"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f47",
+      "present": true,
+      "quote": "student id 918-442-7065"
+    },
+    {
+      "item_id": "marcus.f51",
+      "present": true,
+      "quote": "shes off fridays and her labs are tue/thu mornings"
+    },
+    {
+      "item_id": "marcus.f24",
+      "present": true,
+      "quote": "courses stats 120 and biomechanics"
+    },
+    {
+      "item_id": "marcus.f45",
+      "present": true,
+      "quote": "our usual is saturday evening at phở bến thành"
+    },
+    {
+      "item_id": "marcus.i04",
+      "present": true,
+      "quote": "want something funny but still sincere, not a heavy apology"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "student id 918-442-7065",
+      "assistant_quote": ""
+    }
+  ]
+}

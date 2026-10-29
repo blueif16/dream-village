@@ -1,0 +1,136 @@
+################################################################################
+# Configuration File Template for Memora Application                          #
+#                                                                              #
+################################################################################
+
+# General configuration
+general:
+  # Path to the main repository directory
+  # Replace with the path to your local Memora project
+  project_path: ./
+
+  # Logging level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  log_level: "INFO"
+
+  # Data path
+  data_path: ${general.project_path}/data
+
+  # Path to saved model outputs
+  output_path: ${general.project_path}/outputs
+
+  # Path to results
+  results_path: ${general.project_path}/results
+
+  # memory store path
+  memory_store_path: ${general.project_path}/memory_store
+
+  # Path to log
+  logs_path: ${general.output_path}/logs
+
+  # Path to cache directory
+  cache_path: ${general.output_path}/cache
+
+  # debug mode: use a smaller dataset for quick testing
+  debug: false
+
+# LLM configuration
+llm:
+  # Model name: "gpt-4.1-mini", "gpt-4o-mini", "gpt-4.1", "gpt-5", "gpt-5-mini" (uses OpenAI)
+  #             "Qwen3-8B", "Qwen/Qwen3-8B" (uses Hugging Face local model)
+  model: ${oc.env:MEMOBENCH_MODEL,claude-haiku-5-5}
+
+  seed: 42 # random seed for reproducibility
+
+openai:
+  # OpenAI/Azure OpenAI configuration (only used when llm.model is a GPT model)
+  api_type: "azure" # "azure" or "openai"
+  managed_identity: "${oc.env:AZURE_MANAGED_IDENTITY_CLIENT_ID,}" # Azure Managed Identity client ID
+  api_key: "${oc.env:OPENAI_API_KEY,}" # OpenAI API key (for api_type: "openai")
+
+  # LLM API for GPT-4 or the other models
+  llm_api_base: "${oc.env:AZURE_OPENAI_ENDPOINT,}" # Your Azure OpenAI endpoint, e.g. https://<resource>.openai.azure.com/
+  llm_api_version: "2024-12-01-preview"
+
+  deployment_name: "${llm.model}"
+
+  # Text embedding API
+  embedding_api_base: "${oc.env:AZURE_OPENAI_ENDPOINT,}" # Your Azure OpenAI endpoint for embeddings
+  embedding_api_version: "2024-12-01-preview"
+
+  embedding_deployment_name: "text-embedding-3-small" # text-embedding-3-large, text-embedding-3-small
+  embedding_model: "${openai.embedding_deployment_name}"
+
+memory:
+  type: "memora" # memora (run_memora.py); rag, full_context (run_experiments.py)
+  memory_store: "memora_debug"
+  persist_path: "${general.memory_store_path}/${memory.memory_store}"
+
+  collection_name: "agent_memory"
+  distance: "cosine"
+  query_score_threshold: 0.4
+  update_score_threshold: 0.8
+
+  top_k: 30
+
+  force_rebuild: false
+  skip_existing: false # if True, skip questions that already have memories in ChromaDB (useful for retrying failed questions)
+  return_history: true
+  enhance_query: false
+
+  # cue index
+  enable_cue_index: true # enable cue indexing for Memora
+  cue_top_k: 20 # top-k memories to retrieve from cue index
+
+  # RAG specific configurations (memo-bench: 500-token chunks, top 3, as for LoCoMo; repo default was 1000 / 1)
+  chunk_size: 500
+  num_chunks: 3
+
+  # Hybrid search configuration
+  enable_hybrid_search: true # Enable hybrid search combining semantic + keyword/BM25 search
+  hybrid_search_method: "bm25" # Choose "keyword" for keyword matching or "bm25" for BM25 ranking
+  hybrid_top_k: 10 # Number of results to retrieve from keyword/BM25 search (before merging with semantic results)
+  bm25_score_threshold: 0.4 # Minimum BM25 score threshold for filtering results
+
+  # Episodic memory
+  enable_episodic_memory: true # Enable episodic memory extraction alongside factual memories
+  use_segments_as_episodic: false # Use conversation segments directly as episodic memories (no LLM summarization)
+  use_segments_as_episodic_include_factual: true # Include factual memories alongside segment-based episodic memories
+
+  # Memory presentation (episodic and factual are always separated)
+  enable_episodic: true # Include episodic memories in retrieval results
+  enable_factual: true # Include factual memories in retrieval results
+
+  # Episodic format options: "original_text", "hybrid", "extracted", "user_text_only"
+  # - original_text: Use full original conversation text (user + assistant)
+  # - hybrid: Combine user messages from original + extracted episodic summary
+  # - extracted: Use only the extracted episodic summary
+  # - user_text_only: Extract and show only user messages from original text
+  episodic_format: "hybrid"
+
+retrieval:
+  strategy: "prompt" # options: semantic, prompt, grpo
+
+  prompted_policy:
+    max_steps: 4
+
+  # LLM-based filtering configuration
+  enable_llm_filter: false # Enable LLM-based filtering to remove irrelevant retrieved memories
+
+  # Relaxed frontier expansion
+  enable_relaxed_frontier: false # Enable expanding frontier via similar cue indices
+
+eval:
+  # multi-threading workers
+  max_workers: 10
+
+  model: ${oc.env:MEMOBENCH_MODEL,claude-haiku-5-5} # judge: LongMemEval evaluate_qa.py prompt, effort low, batch; the paper used gpt-4o-mini
+
+  subset_idx: -1 #  dataset subset index (1-500) for quick testing, -1 for full dataset. Supports ranges: "1:100", comma-separated: "1,5,10"
+
+  use_question_type_eval: true # always on: the judge is LongMemEval's own evaluate_qa.py prompt (metrics/anscheck.py)
+
+  # Answer template: "nemori" (concise), "evermemos" (chain-of-thought), "longmemeval" (detailed CoT)
+  answer_template: "longmemeval"
+
+  # Parallel search: process questions in parallel during inference (recommended for large splits)
+  parallel_search: false

@@ -1,0 +1,368 @@
+{
+  "session_id": "elliot.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Does groceries at Ruiz Family Market on Saturdays with Theo in the carrier; delivery only for diapers",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "delivery is only for diapers now so i have to order ahead and not run out",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo started gentle formula this week",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we started the gentle formula this week",
+      "support_quote": ""
+    },
+    {
+      "text": "Trying to keep monthly spending under $5,200 on leave pay",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm also trying to keep monthly spending under $5,200 while we're on leave pay",
+      "support_quote": ""
+    },
+    {
+      "text": "Leave pay arrives every two weeks at about 70% of salary",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "which comes in every two weeks and is about 70% of my salary",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo is 7 weeks old, born July 19",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "cast.f69",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo is 7 weeks (born july 19)",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo weighed 12 lb 3 oz at 2 month visit",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "last weigh in was 12 lb 3 oz at his 2 month",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo fits sizes 1 and 2 at 12 lb 3 oz",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "at 12 lb 3 oz he fits both 1 and 2",
+      "support_quote": "last weigh in was 12 lb 3 oz at his 2 month"
+    },
+    {
+      "text": "Elliot orders diapers ahead for delivery",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you order ahead, I'd place the reorder",
+      "support_quote": "delivery is only for diapers now so i have to order ahead and not run out"
+    },
+    {
+      "text": "Elliot gets paychecks every two weeks",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With paychecks every two weeks",
+      "support_quote": "which comes in every two weeks and is about 70% of my salary"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "we don't do delivery for groceries anymore, i go to ruiz family market saturdays with him in the carrier. delivery is only for diapers now so i have to order ahead and not run out"
+    },
+    {
+      "item_id": "elliot.f14",
+      "present": true,
+      "quote": "we started the gentle formula this week, could that change diaper output?"
+    },
+    {
+      "item_id": "elliot.f55",
+      "present": true,
+      "quote": "i'm also trying to keep monthly spending under $5,200 while we're on leave pay"
+    },
+    {
+      "item_id": "elliot.f07",
+      "present": true,
+      "quote": "leave pay, which comes in every two weeks and is about 70% of my salary"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

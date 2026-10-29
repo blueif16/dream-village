@@ -1,0 +1,112 @@
+{
+  "session_id": "rochelle.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "picks up mother-in-law at 3:30 Tuesdays for pharmacy and checkups",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i pick her up 3:30 tuesdays for the pharmacy and her checkups",
+      "support_quote": ""
+    },
+    {
+      "text": "mother-in-law is 71 and lives alone in a fourplex off Vinca",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's 71 and lives alone in a fourplex off Vinca",
+      "support_quote": ""
+    },
+    {
+      "text": "missed 4pm study group because of Loretta Tuesdays",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i missed the 4pm study group today bc of Loretta Tuesdays",
+      "support_quote": ""
+    },
+    {
+      "text": "uses term Loretta Tuesdays",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Loretta Tuesdays and it keeps clashing",
+      "support_quote": ""
+    },
+    {
+      "text": "puts Loretta first and is behind on studying",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she shouldnt feel bad. put her first",
+      "support_quote": ""
+    },
+    {
+      "text": "assistant says she picks up Loretta Tuesdays at 3:30 for pharmacy and checkups",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll pick you up at 3:30 on Tuesdays for the pharmacy and your checkups",
+      "support_quote": "i pick her up 3:30 tuesdays for the pharmacy and her checkups"
+    },
+    {
+      "text": "assistant says she is behind on studying",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Good luck catching up on your studying!",
+      "support_quote": "i'm so behind now tho lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f41",
+      "present": true,
+      "quote": "i pick her up 3:30 tuesdays for the pharmacy and her checkups"
+    },
+    {
+      "item_id": "rochelle.f42",
+      "present": true,
+      "quote": "she's 71 and lives alone in a fourplex off Vinca"
+    },
+    {
+      "item_id": "rochelle.r05",
+      "present": true,
+      "quote": "i missed the 4pm study group today bc of Loretta Tuesdays and it keeps clashing"
+    },
+    {
+      "item_id": "rochelle.f22",
+      "present": true,
+      "quote": "i missed the 4pm study group today bc of Loretta Tuesdays"
+    },
+    {
+      "item_id": "rochelle.i01",
+      "present": true,
+      "quote": "can u make it more sorry. like really sorry about the coffee."
+    },
+    {
+      "item_id": "rochelle.i01",
+      "present": true,
+      "quote": "i'm so behind now tho lol"
+    }
+  ],
+  "sensitive": []
+}

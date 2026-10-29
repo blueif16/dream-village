@@ -1,0 +1,55 @@
+{
+  "id": "linh.s79",
+  "principal": "linh",
+  "start": "2025-11-18T16:41:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok just came from pedros 4pm group at the library and i wanna drill the digestive system off his quiz sheet. can u quiz me? one q at a time pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Starting easy: what is the path food takes from the mouth to the anus? List the organs in order, including the accessory organs that don't touch the food directly if you can."
+    },
+    {
+      "role": "user",
+      "text": "mouth pharynx esophagus stomach small intestine (duodenum jejunum ileum) large intestine rectum anus. accessory: salivary glands liver gallbladder pancreas"
+    },
+    {
+      "role": "assistant",
+      "text": "Perfect, nothing missing. Next: which cells in the stomach secrete HCl, and which secrete pepsinogen?"
+    },
+    {
+      "role": "user",
+      "text": "parietal = HCl, chief = pepsinogen. ok this is weirdly fun rn bc i got into intro to nutrition this morning so the digestion unit actually feels like it means something ☕"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting the seat! Nice that the material connects. Next: where does most nutrient absorption happen, and what structures increase the surface area there?"
+    },
+    {
+      "role": "user",
+      "text": "small intestine, mostly jejunum. villi and microvilli and the circular folds"
+    },
+    {
+      "role": "assistant",
+      "text": "Right on all counts. Want me to keep going, or turn this into a plan for the next lab?"
+    },
+    {
+      "role": "user",
+      "text": "plan pls. too long just bullets. and also a script for mentioning the nutrition class at home. i dont want it to turn into a whole convo lol, just kinda mention it in passing"
+    },
+    {
+      "role": "assistant",
+      "text": "Quiz plan (20-minute blocks):\n- 0:00-0:20: Organ order + accessory organs, from memory on a blank page\n- 0:20-0:40: Stomach and small intestine: cell types, enzymes, secretions\n- 0:40-1:00: Liver, gallbladder, pancreas: what each secretes and where it enters\n- 1:00-1:20: Large intestine + absorption/hormone review\n- 1:20-1:40: Re-quiz everything you missed\n\nHome script (low-key, said while doing something else like setting the table):\n- \"Oh, I registered for my spring classes today. One's Intro to Nutrition.\"\n- If asked why: \"It fit my schedule and I liked the digestion unit.\"\n- Then change the subject: \"What's for dinner?\"\n\nTiming:\n- Say it at dinner, mid-meal, not at the start\n- Keep it to one sentence and don't add explanations unless asked\n- Keep it as a passing remark, not an announcement"
+    },
+    {
+      "role": "user",
+      "text": "ok that actually helps a lot. the timed blocks are perfect 😭 thank u. ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Go eat, and good luck with the next lab. Come back anytime for more quizzing."
+    }
+  ]
+}

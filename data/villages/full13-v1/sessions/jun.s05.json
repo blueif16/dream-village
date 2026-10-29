@@ -1,0 +1,31 @@
+{
+  "id": "jun.s05",
+  "principal": "jun",
+  "start": "2025-09-04T05:57:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need help with the cottage food permit form, shift starts at 6:15 at the cafe so i have like 10 min. its been open in a tab for two weeks lol, still not filed. i make fried lumpia with pork and shrimp and sell at a counter. can you just tell me which boxes to check? i can charm anyone but not a form 🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, happy to be your form translator. Quick caveat: I can't see the actual form, and the categories vary a bit by county, so these are the usual ones:\n\n- Food category: pick the one for prepared foods that are cooked/fried and need refrigeration or are not shelf-stable. Fried lumpia with pork and shrimp is a meat and seafood product, so don't pick 'baked goods' or 'dry mixes'.\n- Sales channel: direct sales to customers at a counter/table.\n- Ingredients list: pork, shrimp, wrappers, vegetables, oil, seasonings.\n\nHeads up: many counties limit cottage food to low-risk, shelf-stable items. Meat and shrimp could get flagged, so look for a note on 'potentially hazardous foods' or call the county environmental health office to ask before you pay. Want the short plan to actually file it?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls short version. also the cost section wants receipts totals and those are all still in the shoebox, havent sorted any of it. and theres an owner ID part, i'm gonna paste it so you can tell me which field: 612-48-3095"
+    },
+    {
+      "role": "assistant",
+      "text": "Please don't paste that number into chats, and I'd suggest not sharing it again here. I won't repeat it. On the form, it goes in the field labeled for the owner's tax ID or government ID number, usually under the owner/applicant section. Type it directly into the form yourself and double check it there.\n\nShort plan:\n1. Tonight (15 min): dump the shoebox on a table, sort receipts into piles: wrappers, shrimp/pork, oil, other. Total each pile.\n2. Tomorrow on a break: call or email county environmental health and ask if fried lumpia with pork and shrimp qualifies as cottage food or needs a commissary permit.\n3. This weekend: fill in the form with your totals and the ID field, and file it.\n4. Set a reminder to follow up in a week.\n\nWant a checklist you can tape up?"
+    },
+    {
+      "role": "user",
+      "text": "sige thanks that helps a ton 🔥 ok actually yeah make it a checklist, running to open now"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n☐ Sort the shoebox receipts into 4 piles\n☐ Write a total for each pile\n☐ Ask county environmental health if pork and shrimp lumpia qualifies\n☐ List ingredients on the form\n☐ Check: direct sales, prepared/fried food category\n☐ Enter your owner ID in the right field yourself\n☐ Submit and save the confirmation\n☐ Follow up in one week\n\nHave a good shift!"
+    }
+  ]
+}

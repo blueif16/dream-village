@@ -1,0 +1,362 @@
+{
+  "principal": "marcus",
+  "week": 8,
+  "entries": [
+    {
+      "id": "marcus.w8.l01",
+      "date": "2025-10-13",
+      "what": "Came off a double overtime night at Ridgeline and slept through the morning. With classes closed for the holiday he skipped the assigned Biomechanics reading entirely because he was too wiped to focus.",
+      "with": [],
+      "outcome": "Reading left undone, planned to catch up from Fatima's notes later in the week.",
+      "feeling": "wrecked, a little guilty",
+      "facts": [
+        "marcus.f05",
+        "marcus.f09"
+      ],
+      "impressions": [
+        "marcus.i05"
+      ]
+    },
+    {
+      "id": "marcus.w8.l02",
+      "date": "2025-10-13",
+      "what": "Made chicken and rice at the Marisol Gardens apartment and hung out with Arjun before the evening ride to Ridgeline.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Ate, packed his bag, left with Trevor at 8:15 p.m.",
+      "feeling": "low-key, tired",
+      "facts": [
+        "marcus.f18",
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l03",
+      "date": "2025-10-13",
+      "what": "Carpooled with Trevor in the Corolla for the 9 p.m. start of the ten-hour night shift on the cold dock.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Shift started on time, $20 weekly gas covered.",
+      "feeling": "groggy",
+      "facts": [
+        "marcus.f18",
+        "marcus.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l04",
+      "date": "2025-10-14",
+      "what": "Fell behind rate on the cold dock during the night shift and got his first rate write-up from Carla, with José watching.",
+      "with": [
+        "carla",
+        "jose"
+      ],
+      "outcome": "One rate write-up went on file; a second would mean a final warning.",
+      "feeling": "angry, embarrassed",
+      "facts": [
+        "marcus.f42",
+        "marcus.f48",
+        "marcus.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l05",
+      "date": "2025-10-14",
+      "what": "Got home after the shift and vented to his assistant that Carla is unfair and plays favorites, then slept from about 8:30 a.m.",
+      "with": [],
+      "outcome": "Slept a few hours, still stewing.",
+      "feeling": "resentful",
+      "facts": [
+        "marcus.f59",
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l06",
+      "date": "2025-10-14",
+      "what": "Woke up in the afternoon and ate eggs and rice, then Arjun offered advice about the write-up and Marcus brushed it off before heading to work.",
+      "with": [
+        "arjun",
+        "trevor"
+      ],
+      "outcome": "Tense but quick exchange, carpooled to Ridgeline.",
+      "feeling": "prickly",
+      "facts": [
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l07",
+      "date": "2025-10-15",
+      "what": "Slept after shift until midday, then took the Tule Line to Bayshore State for the 2 p.m. Wednesday section and the stats tutoring center at 12:30.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Went through stats practice problems and borrowed Fatima's Biomechanics notes.",
+      "feeling": "foggy but determined",
+      "facts": [
+        "marcus.f28",
+        "marcus.f02",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l08",
+      "date": "2025-10-15",
+      "what": "Spent the evening cramming Biomechanics at the apartment before heading in for the night shift.",
+      "with": [],
+      "outcome": "Got through most of the notes.",
+      "feeling": "stressed",
+      "facts": [
+        "marcus.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l09",
+      "date": "2025-10-15",
+      "what": "Worked the ten-hour night on the cold dock, 9 p.m. to 7:30 a.m., trying to stay above rate.",
+      "with": [
+        "trevor",
+        "jose"
+      ],
+      "outcome": "Stayed on rate with no new write-up.",
+      "feeling": "focused, cold",
+      "facts": [
+        "marcus.f05",
+        "marcus.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l10",
+      "date": "2025-10-16",
+      "what": "Slept briefly after shift, then went to the Biomechanics midterm at Bayshore State on very little sleep.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Finished the exam, unsure how it went.",
+      "feeling": "nervous, exhausted",
+      "facts": [
+        "marcus.f25",
+        "marcus.f02",
+        "marcus.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l11",
+      "date": "2025-10-16",
+      "what": "Caught up with Jade over text on the train home between classes, and she complained he'd been unreachable all week.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Promised a call on Saturday.",
+      "feeling": "guilty",
+      "facts": [
+        "marcus.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l12",
+      "date": "2025-10-16",
+      "what": "Took a quick nap, then carpooled in for the Thursday night shift.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Clocked in at 9 p.m.",
+      "feeling": "running on fumes",
+      "facts": [
+        "marcus.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l13",
+      "date": "2025-10-17",
+      "what": "Ridgeline payday. After shift he checked his balance and decided to raise the mom fund to $250 to cover Denise's electric bill, then asked his assistant how to word the Venmo note so she won't refuse it.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "Sent $250 with a casual note and she took it as a loan for her notebook.",
+      "feeling": "relieved but tight on money",
+      "facts": [
+        "marcus.f14",
+        "marcus.f13",
+        "marcus.f15",
+        "marcus.f49"
+      ],
+      "impressions": [
+        "marcus.i02"
+      ]
+    },
+    {
+      "id": "marcus.w8.l14",
+      "date": "2025-10-17",
+      "what": "Slept until early afternoon, then went to Iron Flats Fitness for one of his two weekly lifts.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Got through a lighter session on the 5/3/1 program.",
+      "feeling": "sore, steady",
+      "facts": [
+        "marcus.f21",
+        "marcus.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l15",
+      "date": "2025-10-17",
+      "what": "Heard from a coworker that the IT desk had a shake-up as Greg left and Victor was named acting lead.",
+      "with": [
+        "noemi"
+      ],
+      "outcome": "Nothing changed for him beyond needing a scanner swap.",
+      "feeling": "indifferent",
+      "facts": [
+        "cast.f51",
+        "cast.f124"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l16",
+      "date": "2025-10-18",
+      "what": "After a morning of rest, he bought a $240 sneaker release after the write-up week and asked his assistant how to flip them later, calling it an investment.",
+      "with": [],
+      "outcome": "Pair ordered, added to the box wall.",
+      "feeling": "treating himself, a bit defensive",
+      "facts": [
+        "marcus.f32",
+        "marcus.f33"
+      ],
+      "impressions": [
+        "marcus.i03"
+      ]
+    },
+    {
+      "id": "marcus.w8.l17",
+      "date": "2025-10-18",
+      "what": "Hit a Saturday morning gym session at Iron Flats before sleeping.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Second lift of the week done.",
+      "feeling": "good",
+      "facts": [
+        "marcus.f21"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l18",
+      "date": "2025-10-18",
+      "what": "Saturday dinner with Jade at Phở Bến Thành, joking about vampire hours to ease her frustration.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Good evening, she was less annoyed.",
+      "feeling": "warm, relieved",
+      "facts": [
+        "marcus.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l19",
+      "date": "2025-10-19",
+      "what": "Sunday meal prep of chicken and rice, five containers, and a quick call with his mom.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "Containers done for the week ahead.",
+      "feeling": "productive",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l20",
+      "date": "2025-10-19",
+      "what": "Studied for the Ex Phys midterm on Wednesday with Fatima's notes before getting ready for the night shift.",
+      "with": [
+        "fatima"
+      ],
+      "outcome": "Made a rough review plan.",
+      "feeling": "anxious",
+      "facts": [
+        "marcus.f25",
+        "marcus.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w8.l21",
+      "date": "2025-10-19",
+      "what": "Carpooled with Trevor to Ridgeline for the Sunday night start of the week.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Clocked in at 9 p.m.",
+      "feeling": "tired",
+      "facts": [
+        "marcus.f18",
+        "marcus.f05"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w8.n01",
+      "subject": "marcus",
+      "attribute": "sneaker_purchase",
+      "value": "bought a $240 sneaker release on Oct 18",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w8.n02",
+      "subject": "marcus",
+      "attribute": "midterm_review",
+      "value": "studying for Ex Phys midterm with Fatima's notes",
+      "valid_from": "2025-10-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.w8.n03",
+      "subject": "marcus",
+      "attribute": "venmo_note",
+      "value": "sent the $250 Venmo with a casual note, no mention of the electric bill",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w8.n04",
+      "subject": "trevor",
+      "attribute": "carpool_habit",
+      "value": "picks Marcus up at 8:15 p.m. for Ridgeline",
+      "valid_from": "2025-10-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

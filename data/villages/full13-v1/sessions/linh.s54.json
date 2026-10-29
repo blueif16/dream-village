@@ -1,0 +1,31 @@
+{
+  "id": "linh.s54",
+  "principal": "linh",
+  "start": "2025-10-20T07:27:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so chem midterm was at 8 this morning and im fried 🫠 can u make me a plan for the rest of today w times pls. i close at the cafe 3-9 tonight and i have my sunday rice bowl packed, need to actually eat it before the shift. bullets only"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting through it! Before I build this, what time does your next class start, and how long is your commute to the cafe? If you tell me, I'll fit everything around them. Here's a draft in the meantime:\n\n- 8:00-9:00 – Midterm\n- 9:00-10:00 – Next class\n- 10:00-10:15 – Breather, water, snack\n- 10:15-12:00 – Open block (rest, notes, errands)\n- 12:00-12:30 – Rice bowl, sitting down\n- 12:30-2:15 – Study or nap\n- 2:15-2:45 – Pack up, head to the cafe\n- 3:00-9:00 – Closing shift\n\nTell me your class time and I'll adjust."
+    },
+    {
+      "role": "user",
+      "text": "anatomy is at 9 right after chem, mwf. no gap lol. then free til work. bike to the cafe takes like 15 min"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, so no gap between the exam and anatomy. Here's the tightened version:\n\n- 8:00-9:00 – Chem midterm\n- 9:00-10:00 – Anatomy (grab water on the way)\n- 10:00-10:30 – Decompress: snack, walk, no studying\n- 10:30-11:45 – Anatomy review, quick pass over today's notes\n- 11:45-12:30 – Rice bowl, phone away\n- 12:30-1:45 – Rest or nap\n- 1:45-2:30 – Light flashcards or errands\n- 2:30-2:40 – Pack up\n- 2:40-2:55 – Bike to the cafe\n- 3:00-9:00 – Closing shift\n\nI put the rice bowl well ahead of the shift so you're not running on empty at the espresso machine."
+    },
+    {
+      "role": "user",
+      "text": "ok perfect thats exactly what i needed ☕ ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helps! Enjoy the rice bowl and good luck tonight."
+    }
+  ]
+}

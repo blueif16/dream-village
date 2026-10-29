@@ -1,0 +1,363 @@
+{
+  "session_id": "arjun.s59",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Meal-preps rajma and rice, four containers",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need time for th rajma and rice prep, four containers",
+      "support_quote": ""
+    },
+    {
+      "text": "Promised to help sister sort wedding vendor spreadsheet",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i promised my sister i'd help sort her wedding vendor spreadsheet by price",
+      "support_quote": ""
+    },
+    {
+      "text": "Mother's Sunday call this evening",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sunday call from my mom is this evening",
+      "support_quote": ""
+    },
+    {
+      "text": "Goes to parents' Pell Road place for dinner and dal",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gonna head to my parents place on pell road for dinner and grab dal after",
+      "support_quote": ""
+    },
+    {
+      "text": "Offers extra help to sister despite full day",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i can also take over her venue comparison tab if she wants, she's behind on everything",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he heads to parents' place for dinner and dal",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Head to your parents' place for dinner, pick up the dal",
+      "support_quote": "gonna head to my parents place on pell road for dinner and grab dal after"
+    },
+    {
+      "text": "Assistant says mom calls this evening",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your mom's call",
+      "support_quote": "sunday call from my mom is this evening so i wanna be done by then"
+    },
+    {
+      "text": "Assistant says he's sorting sister's vendor sheet by price",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f42",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Finishing the vendor sheet sorted by price today.",
+      "support_quote": "i promised my sister i'd help sort her wedding vendor spreadsheet by price"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f29",
+      "present": true,
+      "quote": "i need time for th rajma and rice prep, four containers"
+    },
+    {
+      "item_id": "arjun.f42",
+      "present": true,
+      "quote": "i promised my sister i'd help sort her wedding vendor spreadsheet by price"
+    },
+    {
+      "item_id": "arjun.r06",
+      "present": true,
+      "quote": "sunday call from my mom is this evening so i wanna be done by then"
+    },
+    {
+      "item_id": "arjun.f41",
+      "present": true,
+      "quote": "gonna head to my parents place on pell road for dinner and grab dal after"
+    },
+    {
+      "item_id": "arjun.i05",
+      "present": true,
+      "quote": "oh and i can also take over her venue comparison tab if she wants, she's behind on everything"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "impression_id": "jun.i03",
+  "evidence_sessions": [
+    "jun.s11",
+    "jun.s21",
+    "jun.s29",
+    "jun.s38",
+    "jun.s45"
+  ],
+  "inferred": [
+    {
+      "statement": "Feels guilty about leaning on his coworker Linh for help and repeatedly tries to reduce how much he needs to ask her, by building systems, learning the math himself and leaving her color coding untouched.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s11",
+        "jun.s21",
+        "jun.s29",
+        "jun.s45"
+      ]
+    },
+    {
+      "statement": "Over-apologizes and downplays his requests when asking others for things, as in the stacked 'sorry again' and 'no pressure' lines in his draft message to Linh.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s38",
+        "jun.s21",
+        "jun.s11"
+      ]
+    },
+    {
+      "statement": "Wants to understand and own the business numbers himself rather than just get answers, and he learns best from step-by-step explanations with concrete figures and reusable templates.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s45",
+        "jun.s11",
+        "jun.s21"
+      ]
+    },
+    {
+      "statement": "Prefers short, practical, low-fluff replies, often asking for the 'short version' when tired or short on time, and tends to work on this late at night or around shifts.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s11",
+        "jun.s21",
+        "jun.s38",
+        "jun.s45"
+      ]
+    },
+    {
+      "statement": "Is growing a side lumpia business with ambition and energy, moving from counter sales to a market stall and preorders, and getting excited when it succeeds.",
+      "strength": "strong",
+      "sessions": [
+        "jun.s11",
+        "jun.s21",
+        "jun.s38",
+        "jun.s45"
+      ]
+    },
+    {
+      "statement": "Wants to show appreciation and keep relationships fair, offering to pay Linh and asking for thank-you gift ideas, so he is not just taking.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s21",
+        "jun.s38",
+        "jun.s11"
+      ]
+    },
+    {
+      "statement": "Casual and friendly in tone with the assistant, using 'boss', 'sige', emojis and 'lol', and he seems comfortable sharing personal details, including a government ID number.",
+      "strength": "moderate",
+      "sessions": [
+        "jun.s29",
+        "jun.s21",
+        "jun.s38",
+        "jun.s45"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Feels guilty about leaning on his coworker Linh for help and repeatedly tries to reduce how much he needs to ask her, by building systems, learning the math himself and leaving her color coding untouched.",
+  "rationale": "The first inferred statement, rated strong, captures the core pattern: Jun relies on Linh and feels guilty or sheepish about it, trying to reduce how much he asks. It is substantially the same as the intended trait."
+}

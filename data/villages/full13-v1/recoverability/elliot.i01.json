@@ -1,0 +1,120 @@
+{
+  "impression_id": "elliot.i01",
+  "evidence_sessions": [
+    "elliot.s02",
+    "elliot.s03",
+    "elliot.s12",
+    "elliot.s17",
+    "elliot.s19",
+    "elliot.s26",
+    "elliot.s33",
+    "elliot.s39",
+    "elliot.s40",
+    "elliot.s41",
+    "elliot.s45",
+    "elliot.s62",
+    "elliot.s67",
+    "elliot.s75",
+    "elliot.s77"
+  ],
+  "inferred": [
+    {
+      "statement": "Elliot repeatedly asks for answers in table form and says he thinks better in tables, so structured, scannable output suits him.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s02",
+        "elliot.s12",
+        "elliot.s17",
+        "elliot.s19",
+        "elliot.s26",
+        "elliot.s40",
+        "elliot.s45",
+        "elliot.s62",
+        "elliot.s67",
+        "elliot.s77"
+      ]
+    },
+    {
+      "statement": "He approaches parenting analytically, building logs, spreadsheets, formulas and test plans to find what predicts good naps, feed sizes or evening fussing, and he dislikes guessing.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s02",
+        "elliot.s03",
+        "elliot.s17",
+        "elliot.s19",
+        "elliot.s33",
+        "elliot.s39",
+        "elliot.s45",
+        "elliot.s77"
+      ]
+    },
+    {
+      "statement": "He copes with the strain of new-parent exhaustion through self-deprecating humor (the one-handed typing apologies, 'scoreboard: dad 1', the 🙃 emoji) and tends to apologize for minor inconveniences.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s02",
+        "elliot.s12",
+        "elliot.s17",
+        "elliot.s19",
+        "elliot.s26",
+        "elliot.s40",
+        "elliot.s41",
+        "elliot.s45",
+        "elliot.s62",
+        "elliot.s67",
+        "elliot.s77"
+      ]
+    },
+    {
+      "statement": "He is a hands-on, committed parent who takes the night feed, tracks the baby's routines closely, and works to keep Hana and his mom in sync on logging and care.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s02",
+        "elliot.s19",
+        "elliot.s33",
+        "elliot.s39",
+        "elliot.s40",
+        "elliot.s45",
+        "elliot.s67"
+      ]
+    },
+    {
+      "statement": "He is budget-conscious while on leave pay and wants to avoid being overcharged, asking for low-cost options and cost breakdowns.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s40",
+        "elliot.s62",
+        "elliot.s12"
+      ]
+    },
+    {
+      "statement": "He is polite and brisk with the assistant, usually adding 'please and thanks' and asking for short versions when tired.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s02",
+        "elliot.s03",
+        "elliot.s17",
+        "elliot.s41",
+        "elliot.s67"
+      ]
+    },
+    {
+      "statement": "He is a modest cook (eggs, boxed pasta, chili) who relies on takeout and frozen meals and wants realistic, low-effort dinner plans, within lactose-free limits.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s12",
+        "elliot.s62"
+      ]
+    },
+    {
+      "statement": "He prefers muted, calm aesthetics and careful practical detail in printed materials, such as sage/gray/cream palettes and larger type for night reading.",
+      "strength": "weak",
+      "sessions": [
+        "elliot.s33"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He approaches parenting analytically, building logs, spreadsheets, formulas and test plans to find what predicts good naps, feed sizes or evening fussing, and he dislikes guessing.",
+  "rationale": "The second inferred statement, rated strong, says he approaches parenting analytically with logs, spreadsheets, formulas and test plans to predict naps, feeds and fussing, and dislikes guessing. That is substantially the same as turning uncertainty into a research project to make the baby predictable."
+}

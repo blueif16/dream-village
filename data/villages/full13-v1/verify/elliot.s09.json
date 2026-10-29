@@ -1,0 +1,368 @@
+{
+  "session_id": "elliot.s09",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot's old Android has a cracked corner",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the corner of my old android is cracked and the screen flickers around where the timeline is",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot took Theo to library baby story time today",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f54",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we went to the library baby story time for the first time today",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has a secondhand jogging stroller from a yard sale",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "theo in the secondhand jogging stroller (got it at a neighbor's yard sale)",
+      "support_quote": ""
+    },
+    {
+      "text": "Stroller front wheel squeaks",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "something about the squeaky front wheel, it announces us everywhere we go",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo's crying stretch is the witching hour",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "caption it as filmed during the witching hour",
+      "support_quote": ""
+    },
+    {
+      "text": "Video is for Hana's parents who live an hour away",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "slideshow video of theo for hana's parents. they're about an hour away",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant references cracked phone screen",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A cracked screen can make touch targets misbehave near the damaged edge.",
+      "support_quote": "the corner of my old android is cracked"
+    },
+    {
+      "text": "Theo's stroller front wheel squeaks",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f43",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The front wheel squeaks, so everyone knows he's coming.",
+      "support_quote": "something about the squeaky front wheel"
+    },
+    {
+      "text": "Used the witching hour term",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Filmed during the witching hour. Final score: Theo 10, Everyone Else 0.",
+      "support_quote": "caption it as filmed during the witching hour"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f31",
+      "present": true,
+      "quote": "the corner of my old android is cracked and the screen flickers around where the timeline is"
+    },
+    {
+      "item_id": "elliot.f54",
+      "present": true,
+      "quote": "we went to the library baby story time for the first time today"
+    },
+    {
+      "item_id": "elliot.f43",
+      "present": true,
+      "quote": "theo in the secondhand jogging stroller (got it at a neighbor's yard sale)"
+    },
+    {
+      "item_id": "elliot.r03",
+      "present": true,
+      "quote": "caption it as filmed during the witching hour"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s39",
+  "principal": "marcus",
+  "start": "2025-11-12T13:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick, only got like 4 hrs after shift 😮‍💨 need a short plan. thanksgiving is at my moms duplex and im bringing mac and cheese. i wanna buy the turkey sides and canned goods and just drop em off without her making a thing of it"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: buy it all in one trip and drop it off before the holiday when she's out or busy, so the groceries are just there. A few questions so I can pin down timing: when is she usually home or out, and when can you get there?"
+    },
+    {
+      "role": "user",
+      "text": "shes at work most days. i got section wed 2-5:15 today so cant do it then. she calls my money loans and writes it all in a notebook lol so i dont want this in there. also dont want her to know what it costs me"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's the plan:\n\n1. Shop: buy sides and canned goods in one run, ideally Thursday or Friday so the cold stuff stays fresh.\n2. Drop-off: go while she's at work, since you'll be in class today. Stack the bags by the door or inside if you have a way in.\n3. Keep it off the books: skip Venmo and pay with your own card or cash. Don't send a note or a total. If she asks, say it's part of your Thanksgiving contribution, not a loan.\n4. Cost: toss the receipt so there's no number for her to find. Write down your total in your own budget instead.\n5. Cover text, optional: 'dropped some stuff by for thursday, no big deal, see you with the mac and cheese.'\n\nWant a shopping list to go with it?"
+    },
+    {
+      "role": "user",
+      "text": "nah short version was perfect. lol ok that helped"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice. Go get some sleep before class. Easy drop-off, then mac and cheese on the big day."
+    }
+  ]
+}

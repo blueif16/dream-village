@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s69",
+  "principal": "noemi",
+  "start": "2025-11-06T18:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. what keywords do network tech postings usually list, and how do i tell must-haves from nice-to-haves in a job description. just checking other servers rn lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Common keywords in network technician postings:\n\n**Core skills:** TCP/IP, DHCP, DNS, VLANs, subnetting, routing and switching, LAN/WAN, Wi-Fi/wireless troubleshooting, VPN, firewalls\n**Tools and gear:** Cisco/Meraki/Aruba/Ubiquiti, network monitoring (SolarWinds, PRTG, Nagios), ticketing systems (ServiceNow, Jira), cabling and patch panels\n**Certs:** CompTIA Network+ (most common entry level), CCNA, sometimes Security+\n**Soft/process terms:** documentation, escalation, vendor management, on-call, SLAs, change management\n\n**Reading must-haves vs nice-to-haves:**\n- Must-haves: \"required,\" \"must have,\" \"minimum qualifications,\" and anything in the first few bullets of a list\n- Nice-to-haves: \"preferred,\" \"a plus,\" \"ideally,\" \"familiarity with,\" \"or equivalent experience\"\n- Years of experience are often soft. If you hit about 70% of the required list, apply anyway\n- A cert listed as \"or working toward\" usually means in-progress counts\n\nWant me to match these against your own experience once you paste a posting?"
+    },
+    {
+      "role": "user",
+      "text": "tldr version of the must-have part? and also pls check something. acting victor emailed me, he works days 7 to 3:30 so it landed before my swing started. i rewrote this reply 3 times to cut the sarcasm. does it still sound curt\n\n\"Hi Victor, thanks for flagging. The vendor tickets are updated in the queue and the RMA list is current as of last night. Scanner swaps for outbound are done. Let me know if you need anything else.\""
+    },
+    {
+      "role": "assistant",
+      "text": "**TLDR on must-haves:** anything under \"required\" or \"minimum qualifications,\" plus any cert or tool named without \"preferred\" or \"a plus.\" Treat years of experience as flexible.\n\nYour reply: it's professional and clear, not rude. It reads a little clipped because every sentence is a status line and \"Let me know if you need anything else\" is a stock closer. To warm it slightly without adding fluff:\n\n\"Hi Victor, thanks for flagging. The vendor tickets are updated in the queue, and the RMA list is current as of last night. The scanner swaps for outbound are done. Happy to dig into anything else if you want more detail.\"\n\nIf you'd rather keep it as is, it's fine to send. It's neutral, not curt."
+    },
+    {
+      "role": "user",
+      "text": "gg ty. keeping the second one"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. If you paste a posting you're eyeing, I can sort the must-haves from the nice-to-haves and flag which of your skills to put up front."
+    }
+  ]
+}

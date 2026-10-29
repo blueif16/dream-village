@@ -1,0 +1,87 @@
+{
+  "session_id": "linh.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Prefers oat cortado with no sugar",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i personally like oat cortado no sugar",
+      "support_quote": ""
+    },
+    {
+      "text": "Judges over-steamed milk",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i judge over-steamed milk way too much lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Opens the cafe tomorrow (Saturday) at 6:30",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i open tmrw 6:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Can pour a heart, working on a rosetta",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i can pour a heart but im still working on a rosetta",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has an opening shift coming up",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the opening shift",
+      "support_quote": "i open tmrw 6:30 so ill put it up then"
+    },
+    {
+      "text": "Linh works at the cafe where Beatrice is the boss and was asked to draft the sign",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "beatrice asked me to draft a sign + short caption for the cafe's iced cortado heat wave special",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f27",
+      "present": true,
+      "quote": "i personally like oat cortado no sugar"
+    },
+    {
+      "item_id": "linh.f03",
+      "present": true,
+      "quote": "i open tmrw 6:30 so ill put it up then"
+    },
+    {
+      "item_id": "linh.f33",
+      "present": true,
+      "quote": "i can pour a heart but im still working on a rosetta"
+    }
+  ],
+  "sensitive": []
+}

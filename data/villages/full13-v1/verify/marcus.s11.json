@@ -1,0 +1,102 @@
+{
+  "session_id": "marcus.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus's phone is a 3-year-old Android with cracked corner that dies by 4am",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its a 3 yr old android with a cracked corner and it dies by 4am every shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus works at the cold dock",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the cold dock kills it",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus was moved to the cold dock and needs a freezer jacket",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got moved there monday and i need a freezer jacket anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Denise's hours were cut to 24 a week at the drugstore",
+      "about": "denise",
+      "kind": "fact",
+      "item_id": "cast.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my moms hours got cut to 24 a week at the drugstore",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus uses the phone for music in one earbud and texts on shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "just music in one earbud and texts",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus won't buy a new phone because of his mom's cut hours (puts mom's needs first)",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my moms hours got cut to 24 a week at the drugstore so im not buying a new phone",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus wants a quick fix, not extended advice",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "short version pls",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f41",
+      "present": true,
+      "quote": "got moved there monday and i need a freezer jacket anyway"
+    },
+    {
+      "item_id": "cast.f42",
+      "present": true,
+      "quote": "my moms hours got cut to 24 a week at the drugstore so im not buying a new phone"
+    },
+    {
+      "item_id": "marcus.r01",
+      "present": true,
+      "quote": "the cold dock kills it"
+    },
+    {
+      "item_id": "marcus.f30",
+      "present": true,
+      "quote": "its a 3 yr old android with a cracked corner and it dies by 4am every shift"
+    }
+  ],
+  "sensitive": []
+}

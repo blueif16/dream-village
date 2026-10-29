@@ -1,0 +1,395 @@
+{
+  "principal": "elliot",
+  "week": 11,
+  "entries": [
+    {
+      "id": "elliot.w11.l01",
+      "date": "2025-11-03",
+      "what": "The night before, Elliot packed Hana's first-day lunch (umeboshi rice balls and miso soup in a thermos). Monday morning Hana left for the 7:20 Tule Line to Bayshore State.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Hana got out the door on time with lunch packed and a pump bag ready.",
+      "feeling": "proud but nervous",
+      "facts": [
+        "cast.f67",
+        "elliot.f44",
+        "elliot.f45",
+        "elliot.f46"
+      ],
+      "impressions": [
+        "elliot.i04"
+      ]
+    },
+    {
+      "id": "elliot.w11.l02",
+      "date": "2025-11-03",
+      "what": "Brenda's 8:15 Monday check-in email landed; Elliot read it and left it unanswered while Theo fussed. Judith arrived at 8 and took over the kitchen.",
+      "with": [
+        "brenda",
+        "judith",
+        "theo"
+      ],
+      "outcome": "Email left for later; Judith helping weekdays.",
+      "feeling": "harried",
+      "facts": [
+        "elliot.f50",
+        "elliot.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l03",
+      "date": "2025-11-03",
+      "what": "First day as the weekday parent: three crib naps logged, Hana's milk rotated into the labeled fridge bin after her first pump.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Got through the day with all feeds logged.",
+      "feeling": "tired, determined",
+      "facts": [
+        "elliot.f20",
+        "elliot.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l04",
+      "date": "2025-11-03",
+      "what": "Hana got home around 6 during the witching hour and took Theo while Elliot ate takeout pho.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Hana's day went fine; both were exhausted.",
+      "feeling": "relieved",
+      "facts": [
+        "elliot.f44",
+        "elliot.f41",
+        "elliot.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l05",
+      "date": "2025-11-04",
+      "what": "Hana's second day back. Theo refused to nap unless held, and Elliot spent the morning pacing the apartment.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Only one short crib nap; he wrote 'day 2 solo, the baby is winning 14-0' and asked for no-hold nap tips.",
+      "feeling": "beaten but joking",
+      "facts": [
+        "elliot.f20"
+      ],
+      "impressions": [
+        "elliot.i02"
+      ]
+    },
+    {
+      "id": "elliot.w11.l06",
+      "date": "2025-11-04",
+      "what": "Election Day: Elliot took Theo in the stroller to the Vinca Avenue Community Center to vote on council seats and Measure K.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Ballot cast; the squeaky stroller wheel drew looks.",
+      "feeling": "civic and sleepy",
+      "facts": [
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l07",
+      "date": "2025-11-04",
+      "what": "Tuesday night baby loads at the card-only laundry room after Hana got home.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Two loads done, folded in front of the TV.",
+      "feeling": "routine, tired",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l08",
+      "date": "2025-11-05",
+      "what": "Elliot planned Thanksgiving with Hana: hosting Judith and Hana's parents at 209, potluck style, on Nov 27.",
+      "with": [
+        "hana",
+        "judith"
+      ],
+      "outcome": "Plan set; he began a dish-assignment list.",
+      "feeling": "ambitious, anxious",
+      "facts": [
+        "elliot.f59"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l09",
+      "date": "2025-11-05",
+      "what": "Stroller walk on the Ulloa Salt Marsh boardwalk, Theo asleep by minute twelve.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo napped in the stroller for 40 minutes.",
+      "feeling": "calm",
+      "facts": [
+        "elliot.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l10",
+      "date": "2025-11-05",
+      "what": "Evening witching hour: Elliot hummed the ballpark organ tune until Theo settled around 7:45.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Crying ended; Hana handled the 5 a.m. feed ahead.",
+      "feeling": "worn but pleased",
+      "facts": [
+        "elliot.f41",
+        "elliot.f42",
+        "elliot.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l11",
+      "date": "2025-11-06",
+      "what": "Thursday library baby story time at 10:30 with Kaitlyn's group; Theo smiled at the puppet.",
+      "with": [
+        "kaitlyn",
+        "theo"
+      ],
+      "outcome": "A little adult conversation; another parent mentioned a daycare with openings.",
+      "feeling": "social, hopeful",
+      "facts": [
+        "elliot.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l12",
+      "date": "2025-11-06",
+      "what": "During Theo's afternoon nap Elliot built a pros and cons table for two daycare centers, including a column for 'vibe'.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Table finished; the decision is still open.",
+      "feeling": "methodical",
+      "facts": [
+        "elliot.f17"
+      ],
+      "impressions": [
+        "elliot.i01"
+      ]
+    },
+    {
+      "id": "elliot.w11.l13",
+      "date": "2025-11-06",
+      "what": "Hana got home and they looked over the daycare table together after dinner.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "They agreed to tour centers soon.",
+      "feeling": "hopeful",
+      "facts": [
+        "elliot.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l14",
+      "date": "2025-11-07",
+      "what": "Judith swaddled Theo again for his nap, which Elliot wants to stop. He drafted a text asking her to stop and asked to frame it as Dr. Fong's idea.",
+      "with": [
+        "judith",
+        "theo"
+      ],
+      "outcome": "Draft saved, not sent; he said nothing to her.",
+      "feeling": "conflict-avoidant",
+      "facts": [
+        "elliot.f47"
+      ],
+      "impressions": [
+        "elliot.i03"
+      ]
+    },
+    {
+      "id": "elliot.w11.l15",
+      "date": "2025-11-07",
+      "what": "Elliot ordered Phở Bến Thành for dinner on the night of the Flats High fall play, which he skipped. Theo had his evening fuss.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Fed, quiet evening in.",
+      "feeling": "content",
+      "facts": [
+        "elliot.f35",
+        "elliot.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l16",
+      "date": "2025-11-07",
+      "what": "Friday night baby laundry at the card-only laundry room.",
+      "with": [],
+      "outcome": "Clothes done.",
+      "feeling": "routine",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l17",
+      "date": "2025-11-08",
+      "what": "Saturday morning trip to Ruiz Family Market with Theo in the carrier, buying ingredients for tomorrow's batch cook.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Got chili ingredients and one new recipe's groceries.",
+      "feeling": "purposeful",
+      "facts": [
+        "elliot.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l18",
+      "date": "2025-11-08",
+      "what": "Back home, Elliot wrote out the Sunday cooking plan while Theo napped, and Hana handled an afternoon walk.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Plan for two dishes done.",
+      "feeling": "organized",
+      "facts": [
+        "elliot.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l19",
+      "date": "2025-11-08",
+      "what": "Unit 211's note turned up taped to the door again, and Elliot filed it with the others.",
+      "with": [
+        "walter"
+      ],
+      "outcome": "No reply sent yet.",
+      "feeling": "wearily amused",
+      "facts": [
+        "elliot.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l20",
+      "date": "2025-11-09",
+      "what": "First Sunday batch cook while Theo napped: his chili plus one new pasta dish, portioned into containers.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Two dishes made for the week; the kitchen was a mess but dinners were covered.",
+      "feeling": "triumphant",
+      "facts": [
+        "elliot.f24",
+        "elliot.f36",
+        "elliot.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l21",
+      "date": "2025-11-09",
+      "what": "Hana ate the first batch for dinner and said it was actually good. Elliot scored it a win.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Scoreboard: dad 1, dinner 1.",
+      "feeling": "proud",
+      "facts": [
+        "elliot.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w11.l22",
+      "date": "2025-11-09",
+      "what": "He put Theo down in the crib and logged the week's summary in the old spreadsheet.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Week summary done.",
+      "feeling": "tired but satisfied",
+      "facts": [
+        "elliot.f10"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w11.n01",
+      "subject": "elliot",
+      "attribute": "lunch_packed_for_hana",
+      "value": "packs Hana's lunch the night before, with a thermos of miso soup",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w11.n02",
+      "subject": "elliot",
+      "attribute": "daycare_comparison",
+      "value": "made a pros and cons table for two daycare centers including a 'vibe' column",
+      "valid_from": "2025-11-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w11.n03",
+      "subject": "elliot",
+      "attribute": "batch_cook_menu",
+      "value": "first Sunday batch: his chili plus a new pasta dish",
+      "valid_from": "2025-11-09",
+      "valid_to": "2025-11-16",
+      "superseded_by": "elliot.w12.n03",
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w11.n04",
+      "subject": "theo",
+      "attribute": "nap_trouble",
+      "value": "refuses to nap unless held on days Hana has just gone back to work",
+      "valid_from": "2025-11-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w11.n05",
+      "subject": "elliot",
+      "attribute": "swaddling_stance",
+      "value": "wants to stop swaddling Theo but hasn't told Judith",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

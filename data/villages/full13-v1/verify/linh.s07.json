@@ -1,0 +1,127 @@
+{
+  "session_id": "linh.s07",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Plans her week on Sunday night in a washi-tape planner",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok its sunday night so im doing my planner for the week (washi tape and all)",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes anatomy MWF 9, gen chem TTh 11, stats online",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anatomy MWF 9am, gen chem TTh 11, stats is online.",
+      "support_quote": ""
+    },
+    {
+      "text": "Works Mon and Wed noon to 6",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work mon and wed noon to 6",
+      "support_quote": ""
+    },
+    {
+      "text": "Told her mom she is set on pharmacy",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i told her im set on pharmacy",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants short bulleted answers with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long lol just bullets w times pls 🫠",
+      "support_quote": ""
+    },
+    {
+      "text": "Avoids the pharmacy conversation with her mom",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "how do i not have the pharmacy convo w my mom this week.",
+      "support_quote": ""
+    },
+    {
+      "text": "Shift starts at noon and ends at 6 on Mon",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "your shift starts at noon",
+      "support_quote": "i work mon and wed noon to 6"
+    },
+    {
+      "text": "Has anatomy at 9 and chem at 11 on Tuesday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Chem is at 11, which leaves the morning open.",
+      "support_quote": "anatomy MWF 9am, gen chem TTh 11, stats is online."
+    },
+    {
+      "text": "Her mom wants to talk about pharmacy",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "linh.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If she brings it up",
+      "support_quote": "she keeps wanting to talk about it.."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "ok its sunday night so im doing my planner for the week (washi tape and all)"
+    },
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "anatomy MWF 9am, gen chem TTh 11, stats is online."
+    },
+    {
+      "item_id": "linh.f14",
+      "present": true,
+      "quote": "i told her im set on pharmacy and she keeps wanting to talk about it.."
+    },
+    {
+      "item_id": "linh.f03",
+      "present": true,
+      "quote": "i work mon and wed noon to 6"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "too long lol just bullets w times pls 🫠"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s32",
+  "principal": "noemi",
+  "start": "2025-09-27T13:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. just got back from my parents' fourplex off vinca, fixed their phones and the printer AGAIN. i'm basically unofficial IT for their phones and printer lol. how do i set it all up so they stop calling me every other day. also walked the marsh boardwalk this morning before heading over so my brain is half mush"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, the free tech support gig. The goal is to make things either fix themselves or be easy enough to follow without you. Here's a setup that usually cuts the calls way down:\n\n**Phones**\n- Turn on automatic app and OS updates so nothing goes stale and breaks.\n- Bump the text size and display zoom up, since a lot of 'it's broken' calls are just 'I can't read it'.\n- Put the 6-8 apps they actually use on the home screen and bury the rest in a folder.\n- Set up a password manager or write passwords in a notebook kept at home, so 'I forgot my password' stops being a call.\n- Turn on remote help (like the built-in screen share on their phone, or a remote support app) so you can fix things without driving over.\n\n**Printer**\n- Give it a fixed IP or a reserved address in the router so it doesn't vanish from the network.\n- Install the manufacturer's app on their phones and test a print from each one.\n- Keep a spare ink or toner cartridge in a drawer.\n- Tape a card to the printer with the wifi name, the reboot steps, and the 'if it says offline, do this' fix.\n\n**The call-reducer**\n- Make a one-page cheat sheet, big font, with the top 5 problems and the fix for each, and stick it on the fridge.\n- Put a screenshot-sized version in their phone's notes or photos.\n\nWant me to draft that cheat sheet? Tell me the printer brand and phone types and I'll make it specific."
+    },
+    {
+      "role": "user",
+      "text": "ok yes the fridge card is gg. printer is an hp inkjet, phones are androids. also i have a practice test tonight, got 73% on the last one so i wanna squeeze in more study. keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version, big font, fridge-ready:\n\n**TECH HELP CARD**\n\n**1. Phone screen is frozen**\nHold the power button for 10 seconds until it restarts.\n\n**2. Phone can't connect to wifi**\nSwipe down from the top, turn wifi off, wait 5 seconds, turn it back on. Still stuck? Restart the phone.\n\n**3. Can't read the text**\nSettings > Display > Font size. (Already set big. Don't change it.)\n\n**4. Printer says offline**\n- Turn the printer off, unplug it for 30 seconds, plug it back in.\n- Wait for the wifi light to stop blinking.\n- Try printing again.\n\n**5. Printer won't print or is out of ink**\n- Check the HP app on your phone for ink levels.\n- Spare cartridge is in the [drawer location].\n\n**Wifi name:** [network name]\n**Wifi password:** [password]\n\n**Still stuck? Text [your name] a photo of the screen first, then call.**\n\nThat last line cuts a lot of calls, since a photo often answers the question without a back-and-forth.\n\nFor tonight, a good move on a 73% is to review the questions you missed on the last test, group them by topic, and drill the weakest group for 20-30 minutes before taking another timed set. Want me to build a quick drill plan if you tell me which topics tripped you up?"
+    }
+  ]
+}

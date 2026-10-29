@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s25",
+  "principal": "marcus",
+  "start": "2025-10-13T13:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick i skipped the biomechanics reading all weekend and the midterm is oct 16. need a plan to catch up without wrecking my sleep"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. A few things so the plan is realistic: what's your work and sleep schedule right now, and how much of the reading is left (chapters or pages)? Also, are there other resources, like shared notes or slides, that cover the material?"
+    },
+    {
+      "role": "user",
+      "text": "im on ten hour nights 9pm to 7:30am sun thru thu so not much time lol. trevor picks me up at 8:15 so anything has to be done before then. sleep is like 8:30 to 1:30 normally. its 4 chapters. i'll lean on fatima's shared notes for the gaps instead of reading the whole textbook"
+    },
+    {
+      "role": "assistant",
+      "text": "That's workable. You have until Thursday, and a study block today has to end before the 8:15 pickup. Here's the plan, built around your sleep.\n\n**Today (Mon), after 1:30 wake-up**\n- 2:00 to 3:30: Chapter 1. Skim headings and summaries and read the shared notes alongside. Write 5 key formulas or concepts from memory on one sheet.\n- 3:30 to 3:45: break and food.\n- 3:45 to 5:15: Chapter 2, same method.\n- Stop by 6:30 to eat and get ready. Leave 8:15 clear.\n\n**Tue**\n- Wake at 1:30. 2:00 to 3:30: Chapter 3. 3:45 to 5:15: Chapter 4.\n- Keep the cutoff well before pickup.\n\n**Wed**\n- One 90-minute block: redo problems or concepts you couldn't write from memory, then a quick pass over the notes.\n\n**Wed night into Thu**\n- No studying on shift or after it. Protect your sleep window. Before bed, spend 10 minutes on your one-page sheet only.\n\n**Thursday**\n- Wake, eat, glance at the sheet for 20 minutes, then go. Don't cram late.\n\nTips: prioritize anything the notes flag as heavily tested, and skip reading dense passages the notes already explain. If you only get one block on a day, do the chapter with the most formulas first.\n\nWant a shorter version, or a one-page sheet template?"
+    },
+    {
+      "role": "user",
+      "text": "short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n- Mon: 2 chapters, 2:00-5:15, done before 6:30\n- Tue: 2 chapters, same blocks\n- Wed: 90 min of problems and weak spots\n- Thu: 20 min on your one-page sheet, then sleep and go\n- Use the shared notes as your guide, skim the book for gaps\n- No studying after 8:15 pickup, protect your sleep"
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. starting the first rep now"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, good luck. Start with the chapter that has the most formulas, and keep the sheet next to you so you're recalling instead of rereading."
+    }
+  ]
+}

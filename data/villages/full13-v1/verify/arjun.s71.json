@@ -1,0 +1,117 @@
+{
+  "session_id": "arjun.s71",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Case comp presentation done, awaiting results",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "case comp presentation is done, we're just waiting on results now",
+      "support_quote": ""
+    },
+    {
+      "text": "Second-round video interview with Harrowgate on Nov 18",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "interview is nov 18, second round video",
+      "support_quote": ""
+    },
+    {
+      "text": "Meal-preps rajma and rice, four containers, tomorrow",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tomorrow i need to meal prep rajma and rice, four containers",
+      "support_quote": ""
+    },
+    {
+      "text": "Sunday dinner at parents' Pell Road house",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then sunday dinner at my parents pell road house",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom's Sunday call will be about Harrowgate",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom will do the sunday call about harrowgate anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Interview is second-round video on Nov 18",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "second-round video interview on Nov 18",
+      "support_quote": "interview is nov 18, second round video"
+    },
+    {
+      "text": "Has rajma simmering and four containers Sunday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f29",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Finish packing the four containers.",
+      "support_quote": "tomorrow i need to meal prep rajma and rice, four containers"
+    },
+    {
+      "text": "Dinner at parents' place Sunday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Evening: dinner at your parents' place.",
+      "support_quote": "then sunday dinner at my parents pell road house"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "case comp presentation is done, we're just waiting on results now"
+    },
+    {
+      "item_id": "arjun.f14",
+      "present": true,
+      "quote": "should i start harrowgate prep tonight or just rest"
+    },
+    {
+      "item_id": "arjun.f29",
+      "present": true,
+      "quote": "tomorrow i need to meal prep rajma and rice, four containers"
+    },
+    {
+      "item_id": "arjun.f41",
+      "present": true,
+      "quote": "then sunday dinner at my parents pell road house"
+    },
+    {
+      "item_id": "arjun.r06",
+      "present": true,
+      "quote": "my mom will do the sunday call about harrowgate anyway"
+    }
+  ],
+  "sensitive": []
+}

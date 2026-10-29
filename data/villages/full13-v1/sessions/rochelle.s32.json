@@ -1,0 +1,55 @@
+{
+  "id": "rochelle.s32",
+  "principal": "rochelle",
+  "start": "2025-10-28T22:39:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need help figuring out how to tell my family about tuesdays. i went to study group today and stayed the WHOLE session. pedro brought gus again lol. i used to only go when errands allowed but im doing every tuesday now"
+    },
+    {
+      "role": "assistant",
+      "text": "Staying the whole session is a solid start. Who's affected by the change? Who used to get covered by you on Tuesdays at 4?"
+    },
+    {
+      "role": "user",
+      "text": "so my daughter aaliyah covers the 4 pm pickups now. and today she drove my mother in law loretta to her pharmacy run at 3:30 instead of me. i used to do that every tuesday. i feel kinda bad like im dumping on her"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: you're not dumping if you ask clearly, give her an out, and show you value it.\n\n1. Make it a real agreement, not an assumption. Ask: \"Can you keep Tuesdays at 3:30 and 4 as yours? Tell me if it stops working.\"\n2. Check her schedule. Does she have anything that could collide with Tuesday afternoons?\n3. Say what it's for: \"This is the one thing I'm protecting so I can get into the program.\"\n4. Thank her in a concrete way, like gas money or covering one of her chores.\n5. Set a check-in after 2 or 3 weeks to see if it's still workable."
+    },
+    {
+      "role": "user",
+      "text": "she works evenings at ridgeline tho. seasonal shifts till 2:30 am 4 nights. so tuesday pickups on little sleep worries me"
+    },
+    {
+      "role": "assistant",
+      "text": "Good thing to flag. Ask her which nights she works and whether Tuesday follows a late night. If it does, you could:\n\n- Have her sleep in on those mornings and keep her afternoons free.\n- Keep a backup, like your sister if she can step in, or Loretta's pharmacy handling a delivery or refill for those weeks.\n- Agree that she can text you by noon if she's wiped, and you'll adjust that week.\n\nThat keeps Tuesday protected without leaving her stretched thin."
+    },
+    {
+      "role": "user",
+      "text": "ok and how do i tell loretta. she's used to me driving her"
+    },
+    {
+      "role": "assistant",
+      "text": "Keep it warm and plain. Something like:\n\n\"Loretta, starting now Aaliyah will take you to the pharmacy and your checkups on Tuesdays. I have a class commitment that day. I'm still around, call me anytime, and I'll still take you other days if you need it.\"\n\nTips: tell her in person or by phone before the next Tuesday, not by text. Frame it as a schedule change rather than you stepping back. Let her ask questions. If she's unsure, suggest Aaliyah ride along with you once so it feels familiar."
+    },
+    {
+      "role": "user",
+      "text": "and the rest of the family? just the short version"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version for everyone else:\n\n\"Heads up: Tuesdays from 4 are my study group time now. Aaliyah's covering pickups and Loretta's pharmacy run. If you need something that day, text me and I'll get back to you after.\"\n\nSend it as a group text or say it at dinner, once, and then stick to it."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck at group next week."
+    }
+  ]
+}

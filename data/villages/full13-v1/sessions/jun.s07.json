@@ -1,0 +1,47 @@
+{
+  "id": "jun.s07",
+  "principal": "jun",
+  "start": "2025-09-07T05:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss it's early and i'm trying to fix my lumpia filling before my mom wakes up. the onion verdict came in last night, she said too much onion, even tho the whole batch sold out saturday lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on selling out! Let's tweak it anyway. Can you tell me what your current filling looks like (rough amounts of pork, shrimp, onion and anything else) and how big a batch you make?"
+    },
+    {
+      "role": "user",
+      "text": "its lumpiang shanghai, pork and shrimp. for about 150 rolls i use like 3 lbs ground pork, 1 lb shrimp chopped, 2 big yellow onions diced, 1 carrot grated, 4 cloves garlic, 2 eggs, salt pepper. served with sweet chili and spiced vinegar"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a version that keeps the sweetness but lets the pork and shrimp lead, for about 150 rolls:\n\n- 3 lbs ground pork\n- 1 lb shrimp, finely chopped\n- 1 large yellow onion, finely diced (down from 2). Squeeze it in a towel so it doesn't add water.\n- 2 carrots, grated (up one, for sweetness and body)\n- 5 cloves garlic\n- 2 eggs\n- 2 tsp salt, 1 tsp pepper, adjust to taste\n\nOne onion for 4 lbs of meat is roughly half of what you had, so the onion will be a background note. Fry a small test piece before you roll the whole batch."
+    },
+    {
+      "role": "user",
+      "text": "hmm is that too little onion tho? do you think she'll like it more? honestly i just want her to taste it and not say anything"
+    },
+    {
+      "role": "assistant",
+      "text": "I can't promise her reaction, but this is a sensible middle ground: you still taste onion, it just doesn't overpower. If you want a hedge, make a small test batch with 1 onion and another with 1.5, fry both, and let her taste them side by side. Then you'll know which one wins instead of guessing."
+    },
+    {
+      "role": "user",
+      "text": "ok actually good idea. she keeps a list of her coworkers' orders on the fridge so i'll put the new ratio there. can you write it as a short note, like a fridge list, short version"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a fridge-ready note:\n\nLUMPIANG SHANGHAI (150 rolls)\n- Pork 3 lbs\n- Shrimp 1 lb\n- Onion 1 large (squeezed dry)\n- Carrots 2\n- Garlic 5 cloves\n- Eggs 2\n- Salt 2 tsp, pepper 1 tsp\n\nTest-fry one first. Dips: sweet chili + spiced vinegar 🥢\n\nWant a 1.5-onion variant listed underneath for the taste test?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yeah add that, sige thanks 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Added:\n\nLUMPIANG SHANGHAI (150 rolls)\n- Pork 3 lbs\n- Shrimp 1 lb\n- Onion 1 large (squeezed dry)\n- Carrots 2\n- Garlic 5 cloves\n- Eggs 2\n- Salt 2 tsp, pepper 1 tsp\n\nTEST B: same, but 1.5 onions\n\nTest-fry both, taste side by side. Dips: sweet chili + spiced vinegar 🥢\n\nGood luck with the taste test!"
+    }
+  ]
+}

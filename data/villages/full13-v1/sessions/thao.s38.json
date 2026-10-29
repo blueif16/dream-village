@@ -1,0 +1,31 @@
+{
+  "id": "thao.s38",
+  "principal": "thao",
+  "start": "2025-11-07T02:43:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 2:43 and i'm mid-shift w my thermos of cà phê sữa đá. linh just sent this, help me reply\n\n\"ok so i have 3 exams next week and i haven't started anatomy flashcards and i skipped lunch again and i think i'm gonna fail everything. nvm don't worry about it im fine\"\n\nshort caring reply pls plus something practical i can do for her"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short reply you can send:\n\n\"Hey, I read that and I'm not letting 'nvm' slide. You're not failing everything. Let's split it into small pieces. Eat something real today and I'll help with the rest. I've got you.\"\n\nPractical fix ideas:\n- Make the next 3 days simple: one exam per day on a rough plan, with flashcards done in 25-minute blocks.\n- Take food off her plate so she doesn't skip meals.\n\nDo you already help her out with groceries or meals? If so, I can build on that."
+    },
+    {
+      "role": "user",
+      "text": "i send her $50 on the 1st every month for groceries. should i add a meal on top of that. like actually bring food. and idk how to do it without my mom finding out, she'd turn it into a whole pharmacy thing"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, adding a meal makes sense. $50 covers groceries, but it doesn't help when she's too busy to cook. Here's a simple plan:\n\n- Batch-cook 4-5 portions of something that reheats well (rice bowls, soup, baked chicken with veg) and freeze them flat in labeled containers.\n- Drop them at Linh's place or hand them off when you see her, with a note like \"extra from my batch.\" That keeps it low-key.\n- Add easy grab-and-go items: hard-boiled eggs, fruit, granola bars, so skipping lunch gets harder.\n- Set a quiet phone reminder for her: \"eat lunch\" at noon.\n\nAs for keeping it from your mom: nothing in this plan needs to involve her. Just send Linh the reply above and treat the food as a casual favor. Want a shopping list for a 5-meal batch?"
+    },
+    {
+      "role": "user",
+      "text": "yes shopping list. bullet it, i have a break in 5"
+    },
+    {
+      "role": "assistant",
+      "text": "5-meal batch list:\n\n- Chicken thighs (2 lb)\n- Rice (big bag)\n- Frozen mixed veg (2 bags)\n- Eggs (1 dozen)\n- Soy sauce, garlic, ginger\n- Chicken broth (2 cartons)\n- Bananas or clementines\n- Granola bars\n- Freezer-safe containers (5-6)\n\nCook the chicken and rice together with veg, portion, label, freeze. Reheats in 3 minutes. Send that text to Linh when you get your break."
+    }
+  ]
+}

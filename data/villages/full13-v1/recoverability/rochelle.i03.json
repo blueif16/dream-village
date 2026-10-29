@@ -1,0 +1,92 @@
+{
+  "impression_id": "rochelle.i03",
+  "evidence_sessions": [
+    "rochelle.s02",
+    "rochelle.s16",
+    "rochelle.s20",
+    "rochelle.s31",
+    "rochelle.s39"
+  ],
+  "inferred": [
+    {
+      "statement": "Converts prices into hours of work on the line (e.g., $160, $640, $120 budget) as a way to judge whether spending is worth it.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s16",
+        "rochelle.s20",
+        "rochelle.s39"
+      ]
+    },
+    {
+      "statement": "Is careful and deliberate with money, hunting used items, comparing options, setting hard budgets, and keeping school funds separate from other expenses.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s16",
+        "rochelle.s31",
+        "rochelle.s39"
+      ]
+    },
+    {
+      "statement": "Wants direct, concise answers and a clear decision, often asking 'which one' or 'just give me the fixed version, skip the explaining'.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s31",
+        "rochelle.s39"
+      ]
+    },
+    {
+      "statement": "Opens requests with 'be honest' and seeks candid feedback or a reality check on her plans and drafts.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s16",
+        "rochelle.s20",
+        "rochelle.s31",
+        "rochelle.s39"
+      ]
+    },
+    {
+      "statement": "Is wary of being overcharged or taken advantage of, and wants things documented (itemized receipts, old parts, written quotes).",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s16",
+        "rochelle.s20"
+      ]
+    },
+    {
+      "statement": "Relies on close family, especially her sister Keisha, and is firm but warm in asking relatives to share the load, assigning each person a dish.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s16",
+        "rochelle.s31",
+        "rochelle.s39"
+      ]
+    },
+    {
+      "statement": "Is a student juggling school, caregiving duties, and tight finances, and often asks for help in short bursts on her phone between tasks.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s16",
+        "rochelle.s39",
+        "rochelle.s02"
+      ]
+    },
+    {
+      "statement": "Closes conversations with a casual, appreciative 'ok bet thank u' and uses light humor ('lol') even when discussing stressful money matters.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s02",
+        "rochelle.s16",
+        "rochelle.s20",
+        "rochelle.s31",
+        "rochelle.s39"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Converts prices into hours of work on the line (e.g., $160, $640, $120 budget) as a way to judge whether spending is worth it.",
+  "rationale": "The first inferred statement, rated strong, says she converts prices into hours of work on the line to judge whether spending is worth it. That is substantially the same as measuring every expense against warehouse hours she used to work."
+}

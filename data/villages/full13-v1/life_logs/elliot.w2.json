@@ -1,0 +1,368 @@
+{
+  "principal": "elliot",
+  "week": 2,
+  "entries": [
+    {
+      "id": "elliot.w2.l01",
+      "date": "2025-09-01",
+      "what": "Labor Day at home with Theo; Hana is on leave too, so they split bottles while Elliot logs feeds in the spreadsheet. Pays rent through the Marisol Gardens portal.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Rent paid, log up to date",
+      "feeling": "calm, slightly groggy",
+      "facts": [
+        "elliot.f06",
+        "elliot.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l02",
+      "date": "2025-09-01",
+      "what": "Afternoon stroller loop near Delgado Park, where families are picnicking for the holiday. Theo naps in the stroller despite the squeaky wheel.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "One rare stroller nap",
+      "feeling": "wistful",
+      "facts": [
+        "cast.f69"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l03",
+      "date": "2025-09-01",
+      "what": "Evening witching hour of crying from 5 to 8; Elliot hums the ballpark organ tune and takeout pho from Phở Bến Thành shows up for dinner.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Theo settles around 8",
+      "feeling": "worn out",
+      "facts": [
+        "elliot.f41",
+        "elliot.f42",
+        "elliot.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l04",
+      "date": "2025-09-02",
+      "what": "Morning feeds and diaper logging; Elliot researches formula options for Theo's fussiness before the pediatrician visit.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "List of questions for Dr. Fong",
+      "feeling": "determined",
+      "facts": [
+        "elliot.f13"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l05",
+      "date": "2025-09-02",
+      "what": "Midday contact nap on the couch while he works on the lighthouse jigsaw one-handed.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Three pieces placed",
+      "feeling": "content",
+      "facts": [
+        "elliot.f15",
+        "elliot.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l06",
+      "date": "2025-09-02",
+      "what": "Tuesday night baby laundry in the card-only Marisol Gardens laundry room.",
+      "with": [],
+      "outcome": "Two loads done",
+      "feeling": "efficient",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l07",
+      "date": "2025-09-03",
+      "what": "Visit with Dr. Fong at the Plaza Marisol clinic about Theo's fussiness; she suggests switching to a gentle partially hydrolyzed formula.",
+      "with": [
+        "alicia",
+        "theo"
+      ],
+      "outcome": "Decides to switch formula",
+      "feeling": "hopeful",
+      "facts": [
+        "elliot.f13",
+        "elliot.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l08",
+      "date": "2025-09-03",
+      "what": "Picks up the gentle formula at Ruiz Family Market-area store run and updates the log with the new formula column.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "First gentle bottle tried",
+      "feeling": "cautiously optimistic",
+      "facts": [
+        "elliot.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l09",
+      "date": "2025-09-03",
+      "what": "Evening crying stretch; Hana takes a shift while Elliot eats leftovers.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Theo asleep by 8:30",
+      "feeling": "tired",
+      "facts": [
+        "elliot.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l10",
+      "date": "2025-09-04",
+      "what": "Takes Theo to Thursday 10:30 baby story time at the library for the first time and meets Kaitlyn, who adds him to the Flats Little Readers group chat.",
+      "with": [
+        "kaitlyn",
+        "theo"
+      ],
+      "outcome": "Joined the parent group chat",
+      "feeling": "pleasantly social",
+      "facts": [
+        "elliot.f53",
+        "elliot.f54",
+        "cast.f135"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l11",
+      "date": "2025-09-04",
+      "what": "Afternoon nap attempts in the bassinet fail; Elliot logs every minute and ends up doing contact naps again.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Short nap on his chest",
+      "feeling": "resigned",
+      "facts": [
+        "elliot.f11",
+        "elliot.f15"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l12",
+      "date": "2025-09-04",
+      "what": "Evening trial of the gentle formula; Theo seems a bit less gassy and Hana and Elliot compare notes.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Small improvement noted",
+      "feeling": "encouraged",
+      "facts": [
+        "elliot.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l13",
+      "date": "2025-09-05",
+      "what": "3 a.m. feed: Theo refuses the bottle and Elliot has put the diaper on backwards twice; he messages the assistant joking about it before asking if bottle refusal is serious.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo eventually takes half a bottle",
+      "feeling": "frazzled but joking",
+      "facts": [
+        "elliot.f56",
+        "elliot.f14"
+      ],
+      "impressions": [
+        "elliot.i02"
+      ]
+    },
+    {
+      "id": "elliot.w2.l14",
+      "date": "2025-09-05",
+      "what": "Morning sleep-deprived stretch; Elliot naps briefly while Hana handles Theo.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Forty-minute rest",
+      "feeling": "foggy",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l15",
+      "date": "2025-09-05",
+      "what": "Friday night baby laundry, with distant sounds of the Egrets football opener drifting from the stadium.",
+      "with": [],
+      "outcome": "Laundry folded",
+      "feeling": "quietly amused",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l16",
+      "date": "2025-09-06",
+      "what": "Saturday morning trip to Ruiz Family Market with Theo in the carrier; delivery now only for diapers.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Groceries bought, wipes remembered",
+      "feeling": "accomplished",
+      "facts": [
+        "elliot.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l17",
+      "date": "2025-09-06",
+      "what": "Afternoon at home; Elliot logs naps and tries the crib mattress in the spare room for a future move.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Crib plan noted",
+      "feeling": "thoughtful",
+      "facts": [
+        "elliot.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l18",
+      "date": "2025-09-06",
+      "what": "Evening witching hour; Hana and Elliot take turns pacing the hallway while a neighbor's door stays shut.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Calm by 8",
+      "feeling": "drained",
+      "facts": [
+        "elliot.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l19",
+      "date": "2025-09-07",
+      "what": "Slow Sunday morning; Elliot takes the 2 a.m. feed aftermath and sleeps in a little while Hana has the 5 a.m.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Extra half hour of sleep",
+      "feeling": "grateful",
+      "facts": [
+        "elliot.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l20",
+      "date": "2025-09-07",
+      "what": "Stroller walk around the complex and a look at the spreadsheet's weekly totals for formula and naps.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Weekly numbers summarized",
+      "feeling": "orderly",
+      "facts": [
+        "elliot.f09",
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w2.l21",
+      "date": "2025-09-07",
+      "what": "Takeout dinner again; he wonders aloud when he will cook a real meal.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Still no real dinner",
+      "feeling": "sheepish",
+      "facts": [
+        "elliot.f23"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w2.n01",
+      "subject": "theo",
+      "attribute": "first_gentle_bottle",
+      "value": "took the first gentle-formula bottle on the evening of Sept 3 without much fuss",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w2.n02",
+      "subject": "elliot",
+      "attribute": "diaper_brand_note",
+      "value": "has to reorder diapers size 2 soon because Theo is outgrowing size 1",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w2.n03",
+      "subject": "theo",
+      "attribute": "bottle_refusal",
+      "value": "refused the bottle at the 3 a.m. feed on Sept 5 before taking half",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w2.n04",
+      "subject": "kaitlyn",
+      "attribute": "story_time_song",
+      "value": "opens baby story time with a hello song and bubbles",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w2.n05",
+      "subject": "elliot",
+      "attribute": "weekend_plan",
+      "value": "plans to try the crib for a trial nap next weekend",
+      "valid_from": "2025-09-06",
+      "valid_to": "2025-10-24",
+      "superseded_by": "elliot.w9.n05",
+      "class": "useful"
+    }
+  ]
+}

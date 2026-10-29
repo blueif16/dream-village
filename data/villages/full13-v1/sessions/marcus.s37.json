@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s37",
+  "principal": "marcus",
+  "start": "2025-11-08T14:40:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u write an email to my stats tutoring coordinator. i got my stats grade up to a C+ and i wanna push it to a B so i need an extra slot every week on top of the one i have"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on the C+, that's real progress. Happy to draft it. A few things so the email fits: what days/times can you actually do, and what's the coordinator's name?"
+    },
+    {
+      "role": "user",
+      "text": "dont know the name just put a placeholder. i have afternoon sections mon wed thu 2-5:15 so it has to be before 2. also im on ten hour nights sun thru thu so im wiped in the mornings and need to sleep. so like late morning/early afternoon at the earliest"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. So something in the early afternoon before your 2:00 sections, on days that work with your sleep. Here's a draft:\n\nSubject: Request for an Additional Weekly Stats Tutoring Slot\n\nHi [coordinator's name],\n\nI've been coming to the stats tutoring center and it's made a real difference. My grade has gone up to a C+ and I'd like to bring it up to a B by the end of the semester.\n\nCould I add a second weekly session? I have afternoon classes Monday, Wednesday and Thursday from 2:00 to 5:15, so anything before 2:00 would work, ideally [your preferred days/times]. I'm also glad to take a cancellation or waitlist spot if that's easier.\n\nThanks for your time,\n[your name]\n[student ID, if they ask for it]\n\nWant it shorter or less formal?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good. i also gotta catch up on biomech and ex phys this weekend off fatimas shared notes so stats is the one i wanna cover with the tutor. can u add that"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Here's the line to add after the first paragraph:\n\n\"I'm keeping up with my other courses on my own using shared class notes, so stats is the one where I'd most like the extra support.\"\n\nI left out the classmate's name since it's not needed, but you can add it if you like. Want a quick study plan for the new slot too?"
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. short version of a plan pls, like what to do in the session"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n1. Bring last week's quiz or homework and flag the problems you missed.\n2. Redo those problems with the tutor, talking through each step.\n3. Do 3-5 fresh practice problems on the same topic.\n4. End by writing down what's coming up next so you can prep.\n\nDo that weekly and a B is a realistic target."
+    }
+  ]
+}

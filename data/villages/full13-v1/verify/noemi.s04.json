@@ -1,0 +1,52 @@
+{
+  "session_id": "noemi.s04",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Subnetting and port numbers are her weak topic",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers are my weak topic for the network cert",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses a practice-test app and a study guide with tabbed chapters",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just finished a couple practice sections in the app and bombed the subnetting ones",
+      "support_quote": ""
+    },
+    {
+      "text": "Is studying for a network certification",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "weak topic for the network cert",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "subnetting and port numbers are my weak topic for the network cert"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "just finished a couple practice sections in the app and bombed the subnetting ones"
+    }
+  ],
+  "sensitive": []
+}

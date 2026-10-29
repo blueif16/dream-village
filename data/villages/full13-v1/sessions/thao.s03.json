@@ -1,0 +1,31 @@
+{
+  "id": "thao.s03",
+  "principal": "thao",
+  "start": "2025-08-28T02:30:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 2:30 am and i'm on break. my phone says voicemail is almost full and i keep getting the notification. also the screen protector is cracked (3 yr old phone) and the touch is glitchy near the bottom edge. help pls, just steps"
+    },
+    {
+      "role": "assistant",
+      "text": "Quick steps:\n\n**Voicemail**\n1. Open the Phone app, then Voicemail.\n2. Delete the old messages you don't need. On most carriers you also have to clear the \"deleted\" folder (look for Deleted Messages, then Clear All).\n3. If the full warning stays, call your carrier's voicemail line once to confirm the box is emptied.\n\n**Touch glitches**\n1. Peel off the cracked screen protector. Cracks often cause dead zones at the edges.\n2. Wipe the screen with a slightly damp microfiber cloth.\n3. Restart the phone.\n4. If it still glitches, check for a software update and try Safe Mode to rule out an app.\n5. If the glass under it is cracked, that's a repair job.\n\nWhat kind of phone is it, iPhone or Android? I can tailor the steps."
+    },
+    {
+      "role": "user",
+      "text": "iphone. ok but realistically i don't want to listen to like 20 of these. most are my mom's, she calls at 1pm when i'm asleep and leaves them in vietnamese. can i just read them as text instead of listening or calling back"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, on iPhone:\n\n1. Open Phone, then Voicemail.\n2. Tap a message. If your carrier supports Visual Voicemail transcription, the text shows under it. Tap \"Transcribe\" if offered.\n3. Tap the message, then the share icon, to save the audio or send it to Notes or Files if you want to keep any.\n\nA caveat: transcription works best in English. Vietnamese messages may come out garbled or not transcribe at all. Workaround: play a message once with the phone near your computer or another device, use a translate app with live voice input, and read the translation. Or play it on speaker and use the Translate app's conversation mode.\n\nTo stop the pile-up, you can also change your greeting to ask callers to text you. Want me to write one?"
+    },
+    {
+      "role": "user",
+      "text": "yes later. last thing. i put in a repair request for the leaking bathroom faucet in 207 and want to track it. property manager office is only open 10-3 weekdays and that's when i'm asleep so calling isn't happening. is there a portal or email way"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call using email. Here's how:\n\n1. Check your lease paperwork or welcome email for a resident portal (many complexes use Yardi, AppFolio, or RentCafe). Log in, go to Maintenance or Service Requests, and you'll see the request's status.\n2. If you can't find a portal, check the property's website for a maintenance email, or look at the email you got when you applied or signed.\n3. Send a written follow-up so there's a timestamp. Here's a draft:\n\nSubject: Follow-up on maintenance request, Unit 207\n\nHello,\n\nI submitted a repair request for a leaking bathroom faucet in unit 207 on [date submitted]. Could you confirm it was received and let me know the expected timeline? I work nights and am usually asleep during office hours, so please reply by email or text at [your number]. Please also let me know the best time for access.\n\nThank you,\n[your name]\n\nKeep screenshots of the submission and any replies. If the leak gets worse, mention that in the email so it's flagged as urgent."
+    }
+  ]
+}

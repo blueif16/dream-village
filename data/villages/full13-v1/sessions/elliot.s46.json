@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s46",
+  "principal": "elliot",
+  "start": "2025-10-15T10:18:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "morning. finished module 3 of the reassessment-software training this morning, so that's a win. the online training has to be done before i go back to work, and my return date is monday dec 1, so i'm counting back from that to set deadlines for the modules. can you help me plan the rest? thing is i can only study during my son's 12:30 and 4 o'clock crib naps, nothing else is reliable. thanks 🙃"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work on module 3. Before I build the plan I need a few details: how many modules are left in total, roughly how long each one takes, and whether there's a final assessment at the end?\n\nIn the meantime, here's the structure I'd use, assuming two study blocks a day (the 12:30 and 4:00 naps) and a Dec 1 return:\n\n1. Set your real finish line about a week before Dec 1, say Friday Nov 21. That leaves a buffer for a bad week, a sick baby or a tech glitch.\n2. Count the available blocks. From now until Nov 21 is about five weeks. If you only use weekday naps, that's roughly 50 blocks, which is likely more than you need.\n3. Assign one module per two or three blocks, depending on length. Put any final assessment or quiz in the last week, not the last day.\n4. Use the 12:30 nap for the harder, new-material sections, since you're fresher. Use the 4:00 nap for review, notes or short quizzes, and as overflow if the earlier block gets cut short.\n5. Keep naps flexible. If a nap ends early, stop at the next section break and pick up at the next block rather than starting something you can't finish.\n\nIf you send me the module list and estimated times, I can turn this into a table with a target date for each one."
+    },
+    {
+      "role": "user",
+      "text": "sure. there are 8 modules total, so 5 left. roughly 90 min each, and then a final quiz after module 8 that's maybe 45 min. table form please, i think better in tables"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the plan, working back from a Dec 1 return with a finish target of Friday Nov 21. Each module is split across two nap blocks of about 45 minutes, so each one takes roughly two blocks.\n\n| Module | Est. time | Blocks | Target finish |\n|---|---|---|---|\n| 4 | 90 min | 2 (12:30 + 4:00) | Fri Oct 17 |\n| 5 | 90 min | 2 | Wed Oct 22 |\n| 6 | 90 min | 2 | Wed Oct 29 |\n| 7 | 90 min | 2 | Wed Nov 5 |\n| 8 | 90 min | 2 | Wed Nov 12 |\n| Final quiz | 45 min | 1 (12:30) | Mon Nov 17 |\n| Buffer / retake / review | open | open | Nov 18–21 |\n\nNotes:\n- Those dates only use one module a week plus a head start, so you're using about four blocks a week out of the ten available. That's deliberate slack.\n- If you want to finish sooner, take modules 4 and 5 back to back this week and everything shifts a week earlier.\n- Do the quiz right after you finish module 8, while the material is fresh, rather than leaving it to the end.\n- Save your progress at the end of each block so a short nap never costs you work.\n- If the training has a hard deadline set by your employer, check it against this table, since it may be earlier than your return date.\n\nWant me to make a version that finishes by early November instead?"
+    }
+  ]
+}

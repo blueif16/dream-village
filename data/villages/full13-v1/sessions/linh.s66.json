@@ -1,0 +1,47 @@
+{
+  "id": "linh.s66",
+  "principal": "linh",
+  "start": "2025-11-03T16:10:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i have an anatomy quiz coming up on digestion. we had it at 9 today w dr. okoye and i have chem tmrw so i only have like tonight. can u walk me thru organ order + enzymes pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure! Here's the path food takes, with the main enzymes:\n\n- **Mouth**: chewing + salivary amylase (starch to smaller sugars), lingual lipase\n- **Pharynx → esophagus**: swallowing, peristalsis (no digestion)\n- **Stomach**: pepsin (proteins), HCl activates it, gastric lipase (a little fat)\n- **Small intestine**: duodenum, jejunum, ileum. Most digestion and absorption happens here\n- **Large intestine**: water absorption, gut bacteria, forms feces\n- **Rectum → anus**: elimination\n\nAccessory organs: salivary glands, liver (bile), gallbladder (stores bile), pancreas (amylase, lipase, proteases, bicarbonate).\n\nWant me to tag it by color?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls!! color coded to match my notes. pink muscles, blue bones, green nerves, yellow for things on the practical. too long lol just bullets"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n🩷 **Muscles**\n- Peristalsis: smooth muscle in the esophagus, stomach, intestines\n- Sphincters: lower esophageal, pyloric, anal\n\n💙 **Bones**\n- Not much here. Ribs and the vertebral column protect the upper organs\n\n💚 **Nerves**\n- Vagus nerve: stimulates digestion\n- Enteric nervous system: the gut's own network\n\n💛 **Practical / quiz**\n- Order: mouth → pharynx → esophagus → stomach → duodenum → jejunum → ileum → colon → rectum\n- Amylase: mouth + pancreas\n- Pepsin: stomach\n- Lipase: pancreas\n- Bile: made by the liver, stored in the gallbladder\n\nWant a practice quiz next?"
+    },
+    {
+      "role": "user",
+      "text": "ok this is so good honestly the digestion unit was my favorite so far. im planning to take intro to nutrition in spring bc of it 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a great fit! The digestion material carries straight into nutrition, since it explains how your body breaks down and absorbs carbs, fats, and proteins. Knowing the enzymes now will make that class easier.\n\nWant me to put tonight's review on a timeline?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls w times. i have like 2 hrs"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a 2-hour plan:\n\n- **0:00-0:20**: Read the color-coded bullets above and say the organ order out loud\n- **0:20-0:45**: Cover the enzyme list, then write each enzyme, where it's made, and its target\n- **0:45-1:00**: Break\n- **1:00-1:25**: Label a blank digestive diagram from memory\n- **1:25-1:45**: Practice quiz: I ask, you answer\n- **1:45-2:00**: Redo anything you missed\n\nShall we start the practice quiz at 1:25?"
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan, fuel up first! Good luck on the quiz."
+    }
+  ]
+}

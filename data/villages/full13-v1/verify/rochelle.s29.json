@@ -1,0 +1,97 @@
+{
+  "session_id": "rochelle.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Family uses a paper wall calendar on the fridge with a color pen per person",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we run on a paper wall calendar on the fridge with a color pen for each person",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah has Ridgeline evening shifts 6pm to 2:30am",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "aaliyah has ridgeline evening shifts 6pm to 2:30am",
+      "support_quote": ""
+    },
+    {
+      "text": "DeShawn is a sophomore",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f61",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "DeShawn is a sophomore",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah's shifts run Thursday to Sunday",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shifts are thurs to sun for aaliyah",
+      "support_quote": ""
+    },
+    {
+      "text": "Rochelle studies after 9pm at the kitchen table plus Tuesday 4pm",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my study blocks are after 9pm at the kitchen table plus tuesday 4pm",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Aaliyah's Ridgeline shifts run 6 p.m.-2:30 a.m. Thursday through Sunday",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Orange Aaliyah band is filled in Thursday through Sunday with \"6 p.m.-2:30 a.m.\"",
+      "support_quote": "shifts are thurs to sun for aaliyah"
+    },
+    {
+      "text": "DeShawn has pickups Mon, Wed, Thu at 5:30",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "pickups mon wed thurs 5:30",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f33",
+      "present": true,
+      "quote": "we run on a paper wall calendar on the fridge with a color pen for each person so i want it to match that"
+    },
+    {
+      "item_id": "rochelle.f50",
+      "present": true,
+      "quote": "aaliyah has ridgeline evening shifts 6pm to 2:30am so dont clash my blocks with those"
+    },
+    {
+      "item_id": "rochelle.f61",
+      "present": true,
+      "quote": "DeShawn is a sophomore and i need his practice pickups in his color"
+    }
+  ],
+  "sensitive": []
+}

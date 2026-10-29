@@ -1,0 +1,383 @@
+{
+  "session_id": "arjun.s65",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sunita got him a referral at Harrowgate through a former colleague",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "arjun.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thx for getting my name in at harrowgate through ur old colleague",
+      "support_quote": ""
+    },
+    {
+      "text": "Sent one-page resume with warehouse sim project",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i sent in th one page resume w the warehouse sim project",
+      "support_quote": ""
+    },
+    {
+      "text": "Had case team practice today",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we had case team practice today",
+      "support_quote": ""
+    },
+    {
+      "text": "Sunita's wedding is in April",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "cast.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ur april wedding timelines",
+      "support_quote": ""
+    },
+    {
+      "text": "Building wedding vendor spreadsheet for Sunita",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill update the vendor spreadsheet im building for u this week",
+      "support_quote": ""
+    },
+    {
+      "text": "Sunita got him in at Harrowgate via former colleague",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "arjun.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "thank you for getting my name in at Harrowgate through your former colleague",
+      "support_quote": "thx for getting my name in at harrowgate through ur old colleague"
+    },
+    {
+      "text": "Sent one-page resume with warehouse sim project",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f38",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I sent in my one-page resume with the warehouse sim project",
+      "support_quote": "i sent in th one page resume w the warehouse sim project"
+    },
+    {
+      "text": "Case team practice today",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm wiped after case team practice today",
+      "support_quote": "we had case team practice today"
+    },
+    {
+      "text": "Sunita's April wedding",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "cast.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "your April wedding timelines",
+      "support_quote": "ur april wedding timelines"
+    },
+    {
+      "text": "Building vendor spreadsheet for Sunita",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f42",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll update the vendor spreadsheet I'm building for you this week",
+      "support_quote": "ill update the vendor spreadsheet im building for u this week"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f51",
+      "present": true,
+      "quote": "thx for getting my name in at harrowgate through ur old colleague"
+    },
+    {
+      "item_id": "arjun.f38",
+      "present": true,
+      "quote": "i sent in th one page resume w the warehouse sim project"
+    },
+    {
+      "item_id": "arjun.f20",
+      "present": true,
+      "quote": "im tired, we had case team practice today"
+    },
+    {
+      "item_id": "cast.f39",
+      "present": true,
+      "quote": "least i can do is not complain about ur april wedding timelines lol"
+    },
+    {
+      "item_id": "arjun.f42",
+      "present": true,
+      "quote": "ill update the vendor spreadsheet im building for u this week"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

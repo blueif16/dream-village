@@ -1,0 +1,368 @@
+{
+  "principal": "isabel",
+  "week": 7,
+  "entries": [
+    {
+      "id": "isabel.w7.l01",
+      "date": "2025-10-06",
+      "what": "Walked to Flats High and sat through AP Calc and APUSH, then did homework at the library homework center after school.",
+      "with": [],
+      "outcome": "Homework finished by 6.",
+      "feeling": "focused, a little tense",
+      "facts": [
+        "isabel.f02",
+        "isabel.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l02",
+      "date": "2025-10-06",
+      "what": "Dishes and dinner at home; Ramón was on shift so she checked that Lola Cora took her lunch and her evening meds.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Lola Cora grumbled but was fine.",
+      "feeling": "routine, tired",
+      "facts": [
+        "isabel.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l03",
+      "date": "2025-10-06",
+      "what": "Meant to draft questions for tomorrow's meeting with Mr. Kim but spent the night on Ramón's old desktop recoloring her college list spreadsheet instead.",
+      "with": [],
+      "outcome": "Spreadsheet looks great, questions still unwritten.",
+      "feeling": "avoidant, restless",
+      "facts": [
+        "isabel.f25",
+        "isabel.f05"
+      ],
+      "impressions": [
+        "isabel.i01"
+      ]
+    },
+    {
+      "id": "isabel.w7.l04",
+      "date": "2025-10-06",
+      "what": "Fell asleep close to 1 a.m. with the alarm set for 6:50.",
+      "with": [],
+      "outcome": "Short sleep before a big day.",
+      "feeling": "wired",
+      "facts": [
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l05",
+      "date": "2025-10-07",
+      "what": "Met Mr. Kim in the counseling office; he talked her through adding safeties, bringing the list to 12 schools including 4 UCs, Bayshore State and an in-state polytechnic.",
+      "with": [
+        "eugene"
+      ],
+      "outcome": "List expanded to 12 schools.",
+      "feeling": "relieved, slightly deflated",
+      "facts": [
+        "isabel.f05",
+        "isabel.f06",
+        "cast.f96"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l06",
+      "date": "2025-10-07",
+      "what": "Robotics in room C7 from 3:30 to 6, working on the drivetrain with Lucas nearby.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Got her subassembly done on schedule.",
+      "feeling": "competitive, engaged",
+      "facts": [
+        "isabel.f16",
+        "cast.f97"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l07",
+      "date": "2025-10-07",
+      "what": "Walked home, ate dinner with the family, and told Lola Cora about the new safety schools. Grace seemed pleased about Bayshore State.",
+      "with": [
+        "grace",
+        "corazon"
+      ],
+      "outcome": "Dinner stayed civil.",
+      "feeling": "guarded",
+      "facts": [
+        "isabel.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l08",
+      "date": "2025-10-08",
+      "what": "Wednesday classes, then tutored Mateo in fractions at Kessler Middle from 4 to 5 for $20.",
+      "with": [],
+      "outcome": "Mateo got through a full worksheet.",
+      "feeling": "patient, content",
+      "facts": [
+        "isabel.f29",
+        "isabel.f60"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l09",
+      "date": "2025-10-08",
+      "what": "Started the Mom sheet that evening, asking for financial aid info without the usual talk-to-your-parents line. Noted her $160 savings goal for application fees and her SAT fee waiver status.",
+      "with": [],
+      "outcome": "First rough version of the cost comparison made.",
+      "feeling": "determined, irritated",
+      "facts": [
+        "isabel.f30",
+        "isabel.f43"
+      ],
+      "impressions": [
+        "isabel.i07"
+      ]
+    },
+    {
+      "id": "isabel.w7.l10",
+      "date": "2025-10-08",
+      "what": "Heard from Nadia about the city council candidate forum at the community center tonight, but skipped it for homework.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Stayed home and finished AP Lang reading.",
+      "feeling": "mildly curious",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l11",
+      "date": "2025-10-09",
+      "what": "Asked Ms. Lugo and her physics teacher Mr. Okafor to be her recommenders.",
+      "with": [
+        "fernanda"
+      ],
+      "outcome": "Both said yes.",
+      "feeling": "relieved, a bit nervous",
+      "facts": [
+        "isabel.f44",
+        "cast.f98"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l12",
+      "date": "2025-10-09",
+      "what": "Thursday robotics in room C7, 3:30 to 6.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Drivetrain test went okay.",
+      "feeling": "energized",
+      "facts": [
+        "isabel.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l13",
+      "date": "2025-10-09",
+      "what": "Did two SAT practice sections with a kitchen timer at night, then worked on the essay.",
+      "with": [],
+      "outcome": "Stopped after midnight.",
+      "feeling": "tired but driven",
+      "facts": [
+        "isabel.f56",
+        "isabel.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l14",
+      "date": "2025-10-10",
+      "what": "Friday at school; Nadia mentioned the homecoming plans and Isabel said she is skipping the dance and will go to the game with her for yearbook photos.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Plan settled for the 24th.",
+      "feeling": "easygoing",
+      "facts": [
+        "isabel.f47",
+        "isabel.f51",
+        "cast.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l15",
+      "date": "2025-10-10",
+      "what": "Got a ride home from Nadia in her brother's beige sedan and picked up jasmine milk tea at Cloud Nine first.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Short break before homework.",
+      "feeling": "relaxed",
+      "facts": [
+        "isabel.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l16",
+      "date": "2025-10-10",
+      "what": "Quiet evening at home listening to film scores while working on essay edits.",
+      "with": [],
+      "outcome": "Small tweaks only.",
+      "feeling": "calm",
+      "facts": [
+        "isabel.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l17",
+      "date": "2025-10-11",
+      "what": "Saturday SAT prep with Harper at the library from 10 to 12.",
+      "with": [
+        "harper"
+      ],
+      "outcome": "Timed sections done; Harper said she is on track.",
+      "feeling": "focused",
+      "facts": [
+        "isabel.f10",
+        "cast.f99"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l18",
+      "date": "2025-10-11",
+      "what": "Photographed egrets at Ulloa Salt Marsh Park in the afternoon and updated her tally notebook.",
+      "with": [],
+      "outcome": "Added a few new birds to the tally.",
+      "feeling": "peaceful",
+      "facts": [
+        "isabel.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l19",
+      "date": "2025-10-11",
+      "what": "Practiced driving in the Ruel Road lots with Ramón on his off day.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Parallel parking is still shaky.",
+      "feeling": "nervous, amused",
+      "facts": [
+        "isabel.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l20",
+      "date": "2025-10-12",
+      "what": "Sunday morning Grace graded papers after Tagalog Mass with Lola Cora while Isabel stayed home to write.",
+      "with": [
+        "grace",
+        "corazon"
+      ],
+      "outcome": "House quiet until lunch.",
+      "feeling": "neutral",
+      "facts": [
+        "cast.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w7.l21",
+      "date": "2025-10-12",
+      "what": "Mocked Grace's lab-safety jokes to Nadia, then asked for a chemistry example for her essay that Grace would find accurate.",
+      "with": [],
+      "outcome": "Found an example about water filtration chemistry.",
+      "feeling": "sarcastic but invested",
+      "facts": [
+        "isabel.f19"
+      ],
+      "impressions": [
+        "isabel.i02"
+      ]
+    },
+    {
+      "id": "isabel.w7.l22",
+      "date": "2025-10-12",
+      "what": "Lola Cora's sinigang for Sunday dinner; Isabel pretended not to care and had two bowls.",
+      "with": [
+        "corazon",
+        "grace",
+        "ramon"
+      ],
+      "outcome": "Full and quietly happy.",
+      "feeling": "content",
+      "facts": [
+        "isabel.f36"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "isabel.w7.n01",
+      "subject": "isabel",
+      "attribute": "practice_driving_issue",
+      "value": "struggles with parallel parking",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w7.n02",
+      "subject": "isabel",
+      "attribute": "essay_chemistry_angle",
+      "value": "considering water filtration chemistry as the example in her essay",
+      "valid_from": "2025-10-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.w7.n03",
+      "subject": "isabel",
+      "attribute": "mom_sheet_status",
+      "value": "first rough version of the Mom sheet started",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.w7.n04",
+      "subject": "isabel",
+      "attribute": "recommender_responses",
+      "value": "Ms. Lugo and Mr. Okafor both agreed to write letters",
+      "valid_from": "2025-10-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.w7.n05",
+      "subject": "andre",
+      "attribute": "overtime_effect",
+      "value": "leaves for Ridgeline before 5 a.m. during mandatory overtime",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

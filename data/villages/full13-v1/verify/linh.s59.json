@@ -1,0 +1,117 @@
+{
+  "session_id": "linh.s59",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Anatomy unit starts Monday at 9",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "next anatomy unit starts monday at 9",
+      "support_quote": ""
+    },
+    {
+      "text": "Has to stop by Lotus Nails front desk 2 to 5",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to stop by lotus nails front desk from 2 to 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses color-coded notes with yellow for likely exam content",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pink muscles, blue bones, green nerves, yellow for stuff thats likely on the exam",
+      "support_quote": ""
+    },
+    {
+      "text": "Attends Pedro's Tuesday group",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i wanna be ready for pedros tuesday group",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant uses her color system",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Here's a color-coded quiz sheet using your system",
+      "support_quote": "pink muscles, blue bones, green nerves, yellow for stuff thats likely on the exam"
+    },
+    {
+      "text": "Interest in nutrient absorption beyond unit shows pull toward food and nutrition",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can i ask something extra, not for the unit. how do nutrients actually get absorbed in the small intestine?",
+      "support_quote": ""
+    },
+    {
+      "text": "Likes short answers",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long lol but ok",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a new unit Monday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck Monday!",
+      "support_quote": "next anatomy unit starts monday at 9"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "next anatomy unit starts monday at 9 and i wanna get ahead"
+    },
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "can u make the quiz sheet color coded like my notes? pink muscles, blue bones, green nerves, yellow for stuff thats likely on the exam"
+    },
+    {
+      "item_id": "linh.f22",
+      "present": true,
+      "quote": "i wanna be ready for pedros tuesday group so i can quiz everyone else for once"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "i have to stop by lotus nails front desk from 2 to 5 so just a short session before i head out"
+    },
+    {
+      "item_id": "linh.i04",
+      "present": true,
+      "quote": "how do nutrients actually get absorbed in the small intestine? like the details"
+    }
+  ],
+  "sensitive": []
+}

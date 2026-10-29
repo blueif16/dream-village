@@ -1,0 +1,92 @@
+{
+  "session_id": "noemi.s48",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Fleet is about 620 handhelds with roughly 30 in repair at peak",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we have about 620 handhelds in the fleet and roughly 30 are in repair at peak",
+      "support_quote": ""
+    },
+    {
+      "text": "Tracks scanner returns in her own RMA spreadsheet, not the ticket queue",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll attach the numbers from my RMA spreadsheet since the ticket queue doesn't track them",
+      "support_quote": ""
+    },
+    {
+      "text": "Dead packs pile up in the cage",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the dead packs keep piling up in the cage",
+      "support_quote": ""
+    },
+    {
+      "text": "Sarcastic toward the director while patient elsewhere; shows zero patience for managers",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "maybe next time ask before rate tanks",
+      "support_quote": ""
+    },
+    {
+      "text": "Fleet is about 620 handhelds, roughly 30 in the repair cage at peak",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Our fleet is about 620 handhelds, and at peak roughly 30 are out of service in the repair cage.",
+      "support_quote": "we have about 620 handhelds in the fleet and roughly 30 are in repair at peak"
+    },
+    {
+      "text": "She attaches numbers from her RMA spreadsheet since ticket queue doesn't track them",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm attaching the numbers from my RMA spreadsheet, since the ticket queue doesn't track returns by unit.",
+      "support_quote": "i'll attach the numbers from my RMA spreadsheet since the ticket queue doesn't track them"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i02",
+      "present": true,
+      "quote": "root cause is that batteries die when you use them. shocking i know."
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "we have about 620 handhelds in the fleet and roughly 30 are in repair at peak"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "the dead packs keep piling up in the cage"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "i'll attach the numbers from my RMA spreadsheet since the ticket queue doesn't track them"
+    }
+  ],
+  "sensitive": []
+}

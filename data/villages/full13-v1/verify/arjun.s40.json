@@ -1,0 +1,358 @@
+{
+  "session_id": "arjun.s40",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Kestrel Cold Chain phone screen is tomorrow, regional 3PL",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kestrel cold chain phone screen is tomorrow. regional 3PL.",
+      "support_quote": ""
+    },
+    {
+      "text": "Takes the 6:48 train since the 7:02 ran late",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im on the 6:48 now since the 7:02 kept running late",
+      "support_quote": ""
+    },
+    {
+      "text": "Refuses spoken practice, will just read",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nah ill just read thru it, thx",
+      "support_quote": ""
+    },
+    {
+      "text": "Asked for a long list of likely questions",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can you list the structure of a 30 min recruiter screen and the common questions? like a long list pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Agreed to build sister's vendor comparison sheet unasked",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my sister got behind on wedding planning so i said id build her vendor comparison sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Building sister Sunita's wedding vendor sheet",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.w6.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i said id build her vendor comparison sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun reads the list on the train tomorrow",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Reading on the train works well for this.",
+      "support_quote": "i'll read it on the train tmrw"
+    },
+    {
+      "text": "Arjun has a call tomorrow",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck on the call tomorrow.",
+      "support_quote": "kestrel cold chain phone screen is tomorrow."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f04",
+      "present": true,
+      "quote": "im on the 6:48 now since the 7:02 kept running late"
+    },
+    {
+      "item_id": "arjun.i01",
+      "present": true,
+      "quote": "nah ill just read thru it, thx"
+    },
+    {
+      "item_id": "arjun.i05",
+      "present": true,
+      "quote": "my sister got behind on wedding planning so i said id build her vendor comparison sheet"
+    },
+    {
+      "item_id": "arjun.f12",
+      "present": true,
+      "quote": "kestrel cold chain phone screen is tomorrow. regional 3PL."
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

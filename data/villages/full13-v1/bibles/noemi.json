@@ -1,0 +1,990 @@
+{
+  "principal": "noemi",
+  "summary": "Noemi Castillo, 26, is an IT support technician on the Ridgeline RF-4 on-site help desk, where she fixes handheld scanners, badge readers and frozen laptops and knows half the night shift by their broken devices. She lives with her girlfriend Iris in a Verdant Commons one-bedroom by Flats Junction and spends weekends studying for a network certification she has quietly been circling for a year. At the start of the horizon her lead Greg is coasting toward the exit, peak season is approaching, and she is training new hire Bao on scanner repairs. She wants the lead job, or at least proof she could do it, but hates asking for things from management. When Greg leaves in October and Victor gets the acting-lead title, she ends up doing Greg's work anyway, and the mandatory-overtime surge makes the scanner fleet her personal fire. She preaches password hygiene at work while reusing one password for everything personal. Her pressing worries are the cert exam date, the lead role, and whether she should start looking outside Ridgeline.",
+  "facts": [
+    {
+      "id": "noemi.f01",
+      "subject": "noemi",
+      "attribute": "job_title",
+      "value": "IT support technician II, Ridgeline RF-4 on-site help desk",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f02",
+      "subject": "noemi",
+      "attribute": "work_schedule",
+      "value": "Mon-Fri 2 p.m. to 10:30 p.m. swing shift covering the night shift handoff",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "noemi.f03",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f03",
+      "subject": "noemi",
+      "attribute": "work_schedule",
+      "value": "peak season 10-hour swings, Mon-Fri 1 p.m. to 11:30 p.m. plus every other Saturday",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f04",
+      "subject": "noemi",
+      "attribute": "hourly_pay",
+      "value": "$29.40 an hour",
+      "valid_from": null,
+      "valid_to": "2025-10-27",
+      "superseded_by": "noemi.f05",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f05",
+      "subject": "noemi",
+      "attribute": "hourly_pay",
+      "value": "$31.90 an hour after a temporary lead-duties differential",
+      "valid_from": "2025-10-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f06",
+      "subject": "noemi",
+      "attribute": "certification_goal",
+      "value": "studying for an entry network certification on weekends",
+      "valid_from": null,
+      "valid_to": "2025-09-12",
+      "superseded_by": "noemi.f07",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f07",
+      "subject": "noemi",
+      "attribute": "certification_exam_date",
+      "value": "exam booked for Saturday Nov 8, 9 a.m., testing center in Tamsen city",
+      "valid_from": "2025-09-12",
+      "valid_to": "2025-10-20",
+      "superseded_by": "noemi.f08",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f08",
+      "subject": "noemi",
+      "attribute": "certification_exam_date_revised",
+      "value": "rescheduled to Saturday Dec 6 because of overtime",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f09",
+      "subject": "noemi",
+      "attribute": "study_method",
+      "value": "practice-test app plus a secondhand study guide with tabbed chapters",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f10",
+      "subject": "noemi",
+      "attribute": "practice_test_score",
+      "value": "averaging 71% on practice exams (pass line ~75%)",
+      "valid_from": "2025-09-12",
+      "valid_to": "2025-11-10",
+      "superseded_by": "noemi.f11",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f11",
+      "subject": "noemi",
+      "attribute": "practice_test_score_latest",
+      "value": "averaging 80% after the subnetting drills",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f12",
+      "subject": "noemi",
+      "attribute": "weak_topic",
+      "value": "subnetting and port numbers",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f13",
+      "subject": "noemi",
+      "attribute": "rent_share",
+      "value": "pays $1,450 of the $2,900 Verdant Commons rent",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f14",
+      "subject": "noemi",
+      "attribute": "commute",
+      "value": "drives a 2014 silver hatchback to Ruel Road, 9 minutes",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f15",
+      "subject": "noemi",
+      "attribute": "car_issue",
+      "value": "check-engine light on, likely O2 sensor",
+      "valid_from": "2025-09-03",
+      "valid_to": "2025-09-20",
+      "superseded_by": "noemi.f16",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f16",
+      "subject": "noemi",
+      "attribute": "car_repair_status",
+      "value": "O2 sensor replaced for $238",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f17",
+      "subject": "noemi",
+      "attribute": "gas_habit",
+      "value": "fills up at the Ruel Road station before shift",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f18",
+      "subject": "noemi",
+      "attribute": "gaming",
+      "value": "plays a co-op survival game with an online squad Sunday nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f19",
+      "subject": "noemi",
+      "attribute": "gaming_handle",
+      "value": "plays as 'packetloss_'",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f20",
+      "subject": "noemi",
+      "attribute": "home_pc",
+      "value": "self-built desktop, mid-range GPU, ultrawide monitor",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f21",
+      "subject": "noemi",
+      "attribute": "phone",
+      "value": "three-year-old Android with a cracked corner",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f22",
+      "subject": "noemi",
+      "attribute": "password_practice",
+      "value": "reuses one password for nearly all personal accounts",
+      "valid_from": null,
+      "valid_to": "2025-11-01",
+      "superseded_by": "noemi.f23",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f23",
+      "subject": "noemi",
+      "attribute": "password_manager",
+      "value": "moved personal accounts into a password manager",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f24",
+      "subject": "noemi",
+      "attribute": "coffee_order",
+      "value": "large iced black coffee, no sweetener",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f25",
+      "subject": "noemi",
+      "attribute": "shift_meal",
+      "value": "usually brings leftover rice bowls; Taquería Colima on Fridays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f26",
+      "subject": "noemi",
+      "attribute": "fitness",
+      "value": "walks the Ulloa marsh boardwalk Saturday mornings",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f27",
+      "subject": "noemi",
+      "attribute": "family",
+      "value": "parents and younger brother live in a fourplex off Vinca Avenue",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f28",
+      "subject": "noemi",
+      "attribute": "family_tech_duty",
+      "value": "unofficial IT for her parents' phones and printer",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f29",
+      "subject": "noemi",
+      "attribute": "brother_plan",
+      "value": "brother Mateo, 17, wants help building his first PC for his December birthday",
+      "valid_from": "2025-10-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f30",
+      "subject": "noemi",
+      "attribute": "career_goal",
+      "value": "wants the RF-4 IT desk lead role",
+      "valid_from": null,
+      "valid_to": "2025-11-05",
+      "superseded_by": "noemi.f31",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f31",
+      "subject": "noemi",
+      "attribute": "job_search",
+      "value": "applying outside Ridgeline for network tech roles, incl. St. Anselm IT",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f32",
+      "subject": "noemi",
+      "attribute": "workload_scope",
+      "value": "covering Greg's duties (vendor tickets, scanner RMA, scheduling) without the title",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f33",
+      "subject": "noemi",
+      "attribute": "ticket_system",
+      "value": "logs desk tickets in an internal queue; tracks scanner RMAs in her own spreadsheet",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f34",
+      "subject": "noemi",
+      "attribute": "scanner_fleet",
+      "value": "about 620 handhelds; ~30 in the repair cage at peak",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f35",
+      "subject": "noemi",
+      "attribute": "training_bao",
+      "value": "trains Bao on scanner repairs Tue/Thu 3-5 p.m.",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f36",
+      "subject": "noemi",
+      "attribute": "lead_application",
+      "value": "submitted application for permanent IT desk lead",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f37",
+      "subject": "noemi",
+      "attribute": "self_review_deadline",
+      "value": "annual self-review due Sept 30",
+      "valid_from": "2025-09-08",
+      "valid_to": "2025-09-30",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f38",
+      "subject": "noemi",
+      "attribute": "savings_goal",
+      "value": "$1,200 cushion for a December trip with Iris",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f39",
+      "subject": "noemi",
+      "attribute": "streaming",
+      "value": "splits one streaming account with Iris",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f40",
+      "subject": "noemi",
+      "attribute": "laundry",
+      "value": "Verdant Commons in-unit stacked washer",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f41",
+      "subject": "noemi",
+      "attribute": "sleep_pattern",
+      "value": "sleeps about 1 a.m. to 9 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f42",
+      "subject": "noemi",
+      "attribute": "bank_account_number",
+      "value": "checking account ending 4471-0938 (full number given while setting up direct deposit)",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "noemi.f43",
+      "subject": "noemi",
+      "attribute": "opinion_of_victor",
+      "value": "thinks Victor is a credit-stealing ladder-climber who can't reimage a laptop",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "noemi.f44",
+      "subject": "iris",
+      "attribute": "sushi_night",
+      "value": "orders sushi every Thursday",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f45",
+      "subject": "iris",
+      "attribute": "budget_tool",
+      "value": "keeps a shared household budget sheet",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f46",
+      "subject": "iris",
+      "attribute": "work_schedule",
+      "value": "Mon-Fri 8 a.m. to 5 p.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f47",
+      "subject": "greg",
+      "attribute": "exit_notice",
+      "value": "gave two weeks' notice Oct 3",
+      "valid_from": "2025-10-03",
+      "valid_to": "2025-10-17",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f48",
+      "subject": "bao",
+      "attribute": "skill_level",
+      "value": "can swap scanner batteries and trigger boards, not yet reimaging",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f49",
+      "subject": "victor",
+      "attribute": "shift",
+      "value": "day shift, 7 a.m. to 3:30 p.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f50",
+      "subject": "rhonda",
+      "attribute": "decision_timeline",
+      "value": "says permanent lead decision comes after peak, mid-December",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f51",
+      "subject": "ana",
+      "attribute": "posting_contact",
+      "value": "handles the internal lead posting paperwork",
+      "valid_from": "2025-10-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f52",
+      "subject": "carla",
+      "attribute": "scanner_complaints",
+      "value": "escalates dead scanners straight to Noemi's cell",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f53",
+      "subject": "noemi",
+      "attribute": "desk_location",
+      "value": "IT cage next to the outbound break room",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f54",
+      "subject": "noemi",
+      "attribute": "resume_status",
+      "value": "resume last updated 2022",
+      "valid_from": null,
+      "valid_to": "2025-10-30",
+      "superseded_by": "noemi.f55",
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f55",
+      "subject": "noemi",
+      "attribute": "resume_version",
+      "value": "new one-page resume listing RF-4 lead-coverage work",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f56",
+      "subject": "noemi",
+      "attribute": "egret_dread",
+      "value": "hates the marsh trail in November because of slick planks",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.f57",
+      "subject": "noemi",
+      "attribute": "anniversary",
+      "value": "three-year anniversary with Iris on Nov 15",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.f58",
+      "subject": "noemi",
+      "attribute": "anniversary_plan",
+      "value": "dinner reservation at a Calle Ortega restaurant Nov 15, 7 p.m.",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "noemi.i01",
+      "statement": "Undersells her own work and asks for recognition only sideways.",
+      "about": "noemi",
+      "evidence": [
+        {
+          "id": "noemi.i01.e1",
+          "date": "2025-09-24",
+          "description": "drafts her self-review and cuts the line about rebuilding the scanner RMA process to 'helped with RMAs'"
+        },
+        {
+          "id": "noemi.i01.e2",
+          "date": "2025-10-20",
+          "description": "asks for help writing an email to Rhonda that 'mentions' she's covering Greg's duties without asking for anything"
+        },
+        {
+          "id": "noemi.i01.e3",
+          "date": "2025-10-30",
+          "description": "needs to be talked into listing lead-coverage duties on her resume as her own"
+        },
+        {
+          "id": "noemi.i01.e4",
+          "date": "2025-11-12",
+          "description": "wants a cover letter that says 'supported the team' instead of 'ran the desk during peak'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "noemi.i02",
+      "statement": "Explains tech with endless patience to people below her but has zero patience for managers.",
+      "about": "noemi",
+      "evidence": [
+        {
+          "id": "noemi.i02.e1",
+          "date": "2025-09-04",
+          "description": "asks for a simple analogy to teach Bao how scanner Wi-Fi roaming works"
+        },
+        {
+          "id": "noemi.i02.e2",
+          "date": "2025-10-08",
+          "description": "wants a quick printout for night pickers on rebooting frozen handhelds, in plain words and Spanish"
+        },
+        {
+          "id": "noemi.i02.e3",
+          "date": "2025-10-14",
+          "description": "vents about a director email demanding a 'root cause' for dead batteries by end of day and asks to make her reply 'less rude'"
+        },
+        {
+          "id": "noemi.i02.e4",
+          "date": "2025-11-06",
+          "description": "rewrites a reply to Victor three times to strip out sarcasm"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "noemi.i03",
+      "statement": "Holds others to security rules she skips herself, until something scares her.",
+      "about": "noemi",
+      "evidence": [
+        {
+          "id": "noemi.i03.e1",
+          "date": "2025-09-10",
+          "description": "asks for a phishing-awareness poster for the break room on the same night she logs into a game with her usual password"
+        },
+        {
+          "id": "noemi.i03.e2",
+          "date": "2025-10-02",
+          "description": "wants help wording a lecture to night shift about sharing badge PINs"
+        },
+        {
+          "id": "noemi.i03.e3",
+          "date": "2025-10-29",
+          "description": "gets a breach alert on an old shopping account and asks what else uses that password"
+        },
+        {
+          "id": "noemi.i03.e4",
+          "date": "2025-11-01",
+          "description": "spends Saturday migrating accounts into a password manager and asks for a checklist"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-11-01",
+      "changed_to": "Actually practices the security hygiene she preaches after a breach scare.",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "noemi.i04",
+      "statement": "Leans on Iris for planning and lets Iris be the organized one at home.",
+      "about": "noemi",
+      "evidence": [
+        {
+          "id": "noemi.i04.e1",
+          "date": "2025-09-14",
+          "description": "asks how to split the car repair cost in Iris's budget sheet"
+        },
+        {
+          "id": "noemi.i04.e2",
+          "date": "2025-10-11",
+          "description": "forwards Iris's suggested study calendar and asks to tweak it around overtime"
+        },
+        {
+          "id": "noemi.i04.e3",
+          "date": "2025-11-02",
+          "description": "books the anniversary dinner only after Iris drops hints and asks what restaurant Iris would pick"
+        },
+        {
+          "id": "noemi.i04.e4",
+          "date": "2025-11-18",
+          "description": "asks for a gift idea that fits Iris's love of lists"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "noemi.i05",
+      "statement": "Gives up on her certification whenever work gets heavy.",
+      "about": "noemi",
+      "evidence": [
+        {
+          "id": "noemi.i05.e1",
+          "date": "2025-10-20",
+          "description": "pushes the exam from Nov 8 to Dec 6 because of overtime"
+        },
+        {
+          "id": "noemi.i05.e2",
+          "date": "2025-09-13",
+          "description": "asks for a 12-week study plan the day after booking the exam"
+        },
+        {
+          "id": "noemi.i05.e3",
+          "date": "2025-10-26",
+          "description": "does subnetting drills between overtime days and asks for harder problems"
+        },
+        {
+          "id": "noemi.i05.e4",
+          "date": "2025-11-10",
+          "description": "shares a practice score jump to 80% and asks what to drill next"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "noemi.i06",
+      "statement": "Turns frustration into dry gamer jokes rather than saying she's hurt.",
+      "about": "noemi",
+      "evidence": [
+        {
+          "id": "noemi.i06.e1",
+          "date": "2025-10-17",
+          "description": "says Victor 'got the loot drop' and asks for help drafting a congrats message"
+        },
+        {
+          "id": "noemi.i06.e2",
+          "date": "2025-10-21",
+          "description": "calls overtime week 'hardcore mode' while asking for a meal-prep list"
+        },
+        {
+          "id": "noemi.i06.e3",
+          "date": "2025-11-05",
+          "description": "describes job searching as 'checking other servers' when asking for job-posting keywords"
+        },
+        {
+          "id": "noemi.i06.e4",
+          "date": "2025-09-30",
+          "description": "calls the self-review 'the boss fight' and asks to cut it down"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "noemi.r01",
+      "term": "the cage",
+      "meaning": "the IT repair cage at RF-4 where broken scanners pile up",
+      "first_use": "2025-08-27"
+    },
+    {
+      "id": "noemi.r02",
+      "term": "the RMA sheet",
+      "meaning": "her personal spreadsheet tracking scanners sent back to the vendor",
+      "first_use": "2025-09-04"
+    },
+    {
+      "id": "noemi.r03",
+      "term": "the boss fight",
+      "meaning": "her certification exam",
+      "first_use": "2025-09-13"
+    },
+    {
+      "id": "noemi.r04",
+      "term": "Acting Victor",
+      "meaning": "Victor Esparza since he got the acting-lead title",
+      "first_use": "2025-10-17"
+    },
+    {
+      "id": "noemi.r05",
+      "term": "red-beep night",
+      "meaning": "a shift where many scanners fail and pickers fall behind rate",
+      "first_use": "2025-10-07"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "noemi.a01",
+      "title": "Doing the lead job without the title",
+      "summary": "Greg exits, Victor gets acting lead, Noemi does the work, gets a pay differential, applies for the role, then hedges by job hunting.",
+      "beats": [
+        {
+          "date": "2025-09-08",
+          "what": "self-review assigned",
+          "facts": [
+            "noemi.f37"
+          ]
+        },
+        {
+          "date": "2025-10-03",
+          "what": "Greg gives notice",
+          "facts": [
+            "noemi.f47"
+          ]
+        },
+        {
+          "date": "2025-10-17",
+          "what": "Greg leaves, Victor named acting lead, Noemi absorbs duties",
+          "facts": [
+            "noemi.f32",
+            "noemi.f43"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "Rhonda sets decision timeline",
+          "facts": [
+            "noemi.f50"
+          ]
+        },
+        {
+          "date": "2025-10-24",
+          "what": "applies for permanent lead",
+          "facts": [
+            "noemi.f36",
+            "noemi.f51"
+          ]
+        },
+        {
+          "date": "2025-10-27",
+          "what": "temporary lead differential",
+          "facts": [
+            "noemi.f04",
+            "noemi.f05"
+          ]
+        },
+        {
+          "date": "2025-10-30",
+          "what": "updates resume",
+          "facts": [
+            "noemi.f54",
+            "noemi.f55"
+          ]
+        },
+        {
+          "date": "2025-11-05",
+          "what": "starts applying outside Ridgeline",
+          "facts": [
+            "noemi.f30",
+            "noemi.f31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noemi.a02",
+      "title": "The certification grind",
+      "summary": "Booking, rescheduling and finally gaining on the network cert exam despite peak overtime.",
+      "beats": [
+        {
+          "date": "2025-09-12",
+          "what": "books exam",
+          "facts": [
+            "noemi.f06",
+            "noemi.f07",
+            "noemi.f10"
+          ]
+        },
+        {
+          "date": "2025-10-06",
+          "what": "mandatory overtime starts",
+          "facts": [
+            "noemi.f02",
+            "noemi.f03"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "reschedules to Dec 6",
+          "facts": [
+            "noemi.f07",
+            "noemi.f08"
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "what": "scores jump",
+          "facts": [
+            "noemi.f10",
+            "noemi.f11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "noemi.a03",
+      "title": "Home life and loose ends",
+      "summary": "Car repair, password scare and anniversary planning with Iris.",
+      "beats": [
+        {
+          "date": "2025-09-03",
+          "what": "check-engine light",
+          "facts": [
+            "noemi.f15"
+          ]
+        },
+        {
+          "date": "2025-09-20",
+          "what": "sensor replaced",
+          "facts": [
+            "noemi.f15",
+            "noemi.f16"
+          ]
+        },
+        {
+          "date": "2025-11-01",
+          "what": "password manager",
+          "facts": [
+            "noemi.f22",
+            "noemi.f23"
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "what": "books anniversary dinner",
+          "facts": [
+            "noemi.f57",
+            "noemi.f58"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "lowercase, few periods, short bursts, occasional 'lol' and 'ugh', gamer slang (gg, nerfed, aggro), rare emoji except 💀",
+    "with_assistant": "direct and terse, pastes error text or emails raw, says 'pls' and 'ty', skims long answers and asks for 'tldr' or bullet versions",
+    "quirks": [
+      "frames work drama in video-game terms",
+      "pastes log snippets without explanation",
+      "asks for a 'less rude' version of drafts",
+      "codes notes with ticket-like numbering",
+      "says 'quick q' then asks three questions"
+    ],
+    "sample_lines": [
+      "quick q how do i explain dhcp to someone who thinks wifi is magic",
+      "make this email less rude pls [pastes]",
+      "tldr version? i have 4 min before night shift floods in",
+      "give me 10 subnetting problems, hard ones, no answers till i ask",
+      "ugh this printer driver is cursed. ideas",
+      "rewrite this so it sounds like i did things without sounding like i'm bragging",
+      "ty that's actually gg"
+    ]
+  },
+  "usage": {
+    "frequency": "daily",
+    "active_hours": [
+      10,
+      12,
+      13,
+      18,
+      23
+    ]
+  }
+}

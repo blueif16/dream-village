@@ -1,0 +1,999 @@
+{
+  "principal": "elliot",
+  "summary": "Elliot Brandt is a 34-year-old analyst at the Tamsen County Assessor's Office on 12 weeks of parental leave. He is home at Marisol Gardens unit 209 with his son Theo, born July 19, and his wife Hana is still on maternity leave when the horizon opens. He treats fatherhood like a property-valuation model: tracking every ounce, nap and diaper in a spreadsheet and researching every rash and sleep regression at 3 a.m. He wants Theo sleeping in stretches longer than three hours. He would like to cook one real dinner, and he wants to go back to work in a way that doesn't leave Hana or Theo short. Pressing on him are his supervisor Brenda's emails about his return date and his mother Judith moving into the spare room in October. Hana goes back to work on November 3, which leaves him as the weekday parent. He jokes his way through all of it, and the jokes get thinner as the weeks go on.",
+  "facts": [
+    {
+      "id": "elliot.f01",
+      "subject": "elliot",
+      "attribute": "job",
+      "value": "property tax analyst, residential reassessments, Tamsen County Assessor's Office",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f02",
+      "subject": "elliot",
+      "attribute": "leave_status",
+      "value": "12 weeks of parental leave plus accrued vacation, started Aug 11",
+      "valid_from": "2025-08-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f03",
+      "subject": "elliot",
+      "attribute": "return_to_work_date",
+      "value": "Monday Dec 1, 2025",
+      "valid_from": "2025-08-11",
+      "valid_to": "2025-10-22",
+      "superseded_by": "elliot.f04",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f04",
+      "subject": "elliot",
+      "attribute": "return_to_work_date",
+      "value": "Monday Jan 5, 2026, after adding three weeks of vacation; first month hybrid",
+      "valid_from": "2025-10-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f05",
+      "subject": "elliot",
+      "attribute": "home",
+      "value": "two-bedroom, Marisol Gardens unit 209, upstairs",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f06",
+      "subject": "elliot",
+      "attribute": "rent",
+      "value": "$2,380/month, due on the 1st, paid via the Marisol Gardens portal",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f07",
+      "subject": "elliot",
+      "attribute": "leave_pay",
+      "value": "state paid family leave at about 70% of salary, deposits every two weeks",
+      "valid_from": "2025-08-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f08",
+      "subject": "elliot",
+      "attribute": "bank_account_number",
+      "value": "credit union checking ending 40-7719-3 used for FSA reimbursements",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "elliot.f09",
+      "subject": "elliot",
+      "attribute": "baby_tracking_tool",
+      "value": "a Google-style spreadsheet with tabs for feeds, naps, diapers and 'incidents'",
+      "valid_from": null,
+      "valid_to": "2025-09-29",
+      "superseded_by": "elliot.f10",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f10",
+      "subject": "elliot",
+      "attribute": "baby_tracking_tool",
+      "value": "a baby-tracker phone app shared with Hana and Judith, plus a weekly summary tab in the old spreadsheet",
+      "valid_from": "2025-09-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f11",
+      "subject": "theo",
+      "attribute": "sleep_location",
+      "value": "bassinet beside Elliot and Hana's bed",
+      "valid_from": null,
+      "valid_to": "2025-09-14",
+      "superseded_by": "elliot.f12",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f12",
+      "subject": "theo",
+      "attribute": "sleep_location",
+      "value": "crib in the nursery half of the spare room, white-noise machine on 'rain'",
+      "valid_from": "2025-09-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f13",
+      "subject": "theo",
+      "attribute": "formula_type",
+      "value": "standard store-brand powder formula",
+      "valid_from": null,
+      "valid_to": "2025-09-03",
+      "superseded_by": "elliot.f14",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f14",
+      "subject": "theo",
+      "attribute": "formula_type",
+      "value": "gentle/partially hydrolyzed formula after Dr. Fong suggested it for fussiness",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f15",
+      "subject": "theo",
+      "attribute": "nap_schedule",
+      "value": "naps on demand, mostly contact naps on Elliot",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "elliot.f16",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f16",
+      "subject": "theo",
+      "attribute": "nap_schedule",
+      "value": "three crib naps around 9, 12:30 and 4, with 90-minute wake windows",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f17",
+      "subject": "theo",
+      "attribute": "childcare_plan",
+      "value": "on waitlists at two daycare centers",
+      "valid_from": null,
+      "valid_to": "2025-11-10",
+      "superseded_by": "elliot.f18",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f18",
+      "subject": "theo",
+      "attribute": "childcare_plan",
+      "value": "infant spot at Little Egrets Learning Center on Pell Road starting Jan 5, $1,850/month",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f19",
+      "subject": "elliot",
+      "attribute": "weekday_role",
+      "value": "shares daytime care with Hana while both are on leave",
+      "valid_from": null,
+      "valid_to": "2025-11-03",
+      "superseded_by": "elliot.f20",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f20",
+      "subject": "elliot",
+      "attribute": "weekday_role",
+      "value": "primary daytime parent while Hana works, Judith helping weekdays",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f21",
+      "subject": "elliot",
+      "attribute": "grocery_method",
+      "value": "app delivery orders two or three times a week",
+      "valid_from": null,
+      "valid_to": "2025-08-30",
+      "superseded_by": "elliot.f22",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f22",
+      "subject": "elliot",
+      "attribute": "grocery_method",
+      "value": "Saturday morning trip to Ruiz Family Market with Theo in the carrier, delivery only for diapers",
+      "valid_from": "2025-08-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f23",
+      "subject": "elliot",
+      "attribute": "dinner_routine",
+      "value": "takeout or frozen meals nearly every night",
+      "valid_from": null,
+      "valid_to": "2025-11-09",
+      "superseded_by": "elliot.f24",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f24",
+      "subject": "elliot",
+      "attribute": "dinner_routine",
+      "value": "Sunday batch-cooking of two dishes for the week while Theo naps",
+      "valid_from": "2025-11-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f25",
+      "subject": "elliot",
+      "attribute": "vehicle",
+      "value": "2014 compact hatchback that barely fits the stroller",
+      "valid_from": null,
+      "valid_to": "2025-10-11",
+      "superseded_by": "elliot.f26",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f26",
+      "subject": "elliot",
+      "attribute": "vehicle",
+      "value": "used 2019 small crossover bought from a Ruel Road dealer for $17,400",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f27",
+      "subject": "elliot",
+      "attribute": "fitness_routine",
+      "value": "none since Theo was born",
+      "valid_from": null,
+      "valid_to": "2025-09-22",
+      "superseded_by": "elliot.f28",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f28",
+      "subject": "elliot",
+      "attribute": "fitness_routine",
+      "value": "40-minute stroller walk on the Ulloa Salt Marsh boardwalk most mornings",
+      "valid_from": "2025-09-22",
+      "valid_to": "2025-11-13",
+      "superseded_by": "elliot.f29",
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f29",
+      "subject": "elliot",
+      "attribute": "fitness_routine",
+      "value": "stroller laps around Delgado Park after the marsh trail flooded",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f30",
+      "subject": "elliot",
+      "attribute": "coffee",
+      "value": "two cups of drip at home; pour-over gear abandoned on top of the fridge",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f31",
+      "subject": "elliot",
+      "attribute": "phone",
+      "value": "three-year-old Android with a cracked corner, white-noise app always running",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f32",
+      "subject": "elliot",
+      "attribute": "baby_monitor",
+      "value": "Wi-Fi camera monitor that drops connection when the microwave runs",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f33",
+      "subject": "elliot",
+      "attribute": "opinion_of_brenda",
+      "value": "told the assistant he thinks Brenda is a clipboard with a pulse who can't let anyone breathe",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "elliot.f34",
+      "subject": "elliot",
+      "attribute": "hobby",
+      "value": "jigsaw puzzles; a 1,000-piece lighthouse half done on the card table since June",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f35",
+      "subject": "elliot",
+      "attribute": "favorite_takeout",
+      "value": "Phở Bến Thành rare beef pho, no tripe",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f36",
+      "subject": "elliot",
+      "attribute": "cooking_skill",
+      "value": "can make scrambled eggs, boxed pasta and one chili recipe",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f37",
+      "subject": "elliot",
+      "attribute": "diet_note",
+      "value": "lactose intolerant, uses oat milk",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f38",
+      "subject": "elliot",
+      "attribute": "laundry",
+      "value": "card-only Marisol Gardens laundry room; does baby loads Tuesday and Friday nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f39",
+      "subject": "theo",
+      "attribute": "pediatric_visits",
+      "value": "four-month well visit with Dr. Fong on Nov 19 at 9:40 a.m.",
+      "valid_from": "2025-09-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f40",
+      "subject": "theo",
+      "attribute": "two_month_checkup",
+      "value": "two-month shots Sept 17; weight 12 lb 3 oz",
+      "valid_from": "2025-09-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f41",
+      "subject": "theo",
+      "attribute": "fussy_period",
+      "value": "evening crying roughly 5-8 p.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f42",
+      "subject": "theo",
+      "attribute": "favorite_song",
+      "value": "calms down to Elliot humming a slowed-down ballpark organ tune",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f43",
+      "subject": "theo",
+      "attribute": "stroller",
+      "value": "secondhand jogging stroller from a neighbor's yard sale, squeaky front wheel",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f44",
+      "subject": "hana",
+      "attribute": "commute",
+      "value": "Tule Line north to Bayshore State, leaves 7:20 a.m., home about 6",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f45",
+      "subject": "hana",
+      "attribute": "pumping_schedule",
+      "value": "pumps twice at work; milk goes in the labeled fridge bin Elliot rotates",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f46",
+      "subject": "hana",
+      "attribute": "comfort_food",
+      "value": "umeboshi rice balls and her mother's miso soup",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f47",
+      "subject": "judith",
+      "attribute": "kitchen_changes",
+      "value": "moved the mugs to the high shelf and labels leftovers in librarian handwriting",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f48",
+      "subject": "judith",
+      "attribute": "weekend_schedule",
+      "value": "drives home to her Tamsen city condo Friday 5 p.m., back Monday 8 a.m.",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f49",
+      "subject": "judith",
+      "attribute": "food_preference",
+      "value": "won't eat cilantro; asks for decaf after noon",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f50",
+      "subject": "brenda",
+      "attribute": "email_habit",
+      "value": "sends a 'quick check-in' email every Monday around 8:15 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f51",
+      "subject": "walter",
+      "attribute": "complaint_method",
+      "value": "tapes handwritten notes to Elliot's door rather than knocking",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f52",
+      "subject": "gloria",
+      "attribute": "open_ticket_with_elliot",
+      "value": "leaking bathroom faucet in 209, reported Aug 28, still unfixed",
+      "valid_from": "2025-08-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f53",
+      "subject": "kaitlyn",
+      "attribute": "group_chat",
+      "value": "runs a 'Flats Little Readers' parent group chat Elliot joined",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f54",
+      "subject": "elliot",
+      "attribute": "story_time",
+      "value": "takes Theo to Thursday 10:30 library baby story time",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f55",
+      "subject": "elliot",
+      "attribute": "budget_target",
+      "value": "trying to keep monthly spending under $5,200 while on leave pay",
+      "valid_from": "2025-08-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f56",
+      "subject": "elliot",
+      "attribute": "sleep_shift",
+      "value": "takes the 2 a.m. feed; Hana takes the 5 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f57",
+      "subject": "elliot",
+      "attribute": "work_training",
+      "value": "must finish online reassessment-software training before returning",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f58",
+      "subject": "elliot",
+      "attribute": "hometown",
+      "value": "grew up in Tamsen city across the valley",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.f59",
+      "subject": "elliot",
+      "attribute": "thanksgiving_plan",
+      "value": "hosting Judith and Hana's parents at 209, potluck style, on Nov 27",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.f60",
+      "subject": "elliot",
+      "attribute": "sports",
+      "value": "follows minor-league baseball; misses going to games",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "elliot.i01",
+      "statement": "Turns every uncertainty into a research project, as if a big enough spreadsheet could make the baby predictable.",
+      "about": "elliot",
+      "evidence": [
+        {
+          "id": "elliot.i01.e1",
+          "date": "2025-08-27",
+          "description": "asks the assistant to build a heat-wave checklist with room temperatures and onesie layers per degree during the 100-degree days"
+        },
+        {
+          "id": "elliot.i01.e2",
+          "date": "2025-09-12",
+          "description": "pastes 9 days of nap times and asks for a regression analysis of wake windows"
+        },
+        {
+          "id": "elliot.i01.e3",
+          "date": "2025-10-09",
+          "description": "wants a weighted comparison matrix of four used crossovers, including rear-door opening angle"
+        },
+        {
+          "id": "elliot.i01.e4",
+          "date": "2025-11-06",
+          "description": "asks for a pros and cons table for two daycare centers with a column for 'vibe'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "elliot.i02",
+      "statement": "Jokes about being incompetent so nobody notices how overwhelmed he actually is.",
+      "about": "elliot",
+      "evidence": [
+        {
+          "id": "elliot.i02.e1",
+          "date": "2025-09-05",
+          "description": "at 3 a.m. opens with 'rate my parenting: I put the diaper on backwards, twice' before asking whether bottle refusal is serious"
+        },
+        {
+          "id": "elliot.i02.e2",
+          "date": "2025-10-02",
+          "description": "calls himself 'Employee of the Month at Burnt Toast Inc.' while asking for a meal plan he can do one-handed"
+        },
+        {
+          "id": "elliot.i02.e3",
+          "date": "2025-11-04",
+          "description": "on Hana's second day back, writes 'day 2 solo, the baby is winning 14-0' and then asks how to get Theo to nap without being held"
+        },
+        {
+          "id": "elliot.i02.e4",
+          "date": "2025-11-14",
+          "description": "after the storm cancels his walk, says 'cool cool cool' and asks for indoor things to do with a four-month-old"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "elliot.i03",
+      "statement": "Avoids confronting his mother directly and quietly undoes what she changes instead.",
+      "about": "elliot",
+      "evidence": [
+        {
+          "id": "elliot.i03.e1",
+          "date": "2025-10-21",
+          "description": "asks for a 'gentle, non-offensive' way to say the mugs go back on the low shelf, then decides not to send it"
+        },
+        {
+          "id": "elliot.i03.e2",
+          "date": "2025-10-28",
+          "description": "asks how to relabel the fridge bins so they look like Judith's system 'but aren't'"
+        },
+        {
+          "id": "elliot.i03.e3",
+          "date": "2025-11-07",
+          "description": "drafts a text to Judith about not swaddling Theo anymore and asks the assistant to make it sound like Dr. Fong's idea"
+        },
+        {
+          "id": "elliot.i03.e4",
+          "date": "2025-11-12",
+          "description": "plans Sunday batch cooking for the weekends partly so Judith isn't there to rearrange it"
+        }
+      ],
+      "formed": "2025-10-20",
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "elliot.i04",
+      "statement": "Quietly takes extra load off Hana and never explains why.",
+      "about": "elliot",
+      "evidence": [
+        {
+          "id": "elliot.i04.e1",
+          "date": "2025-09-18",
+          "description": "asks how to shift the 5 a.m. feed to himself too 'just for a while' without saying it's because she's exhausted"
+        },
+        {
+          "id": "elliot.i04.e2",
+          "date": "2025-10-15",
+          "description": "asks for a script to decline a visit from Hana's coworkers, saying she 'has a lot going on'"
+        },
+        {
+          "id": "elliot.i04.e3",
+          "date": "2025-11-03",
+          "description": "asks for lunch ideas he can pack for Hana the night before her first day back"
+        },
+        {
+          "id": "elliot.i04.e4",
+          "date": "2025-11-10",
+          "description": "schedules daycare tours on a day Hana's at work so she 'doesn't have to think about it'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "elliot.i05",
+      "statement": "Is checked out from his job and doesn't care about going back.",
+      "about": "elliot",
+      "evidence": [
+        {
+          "id": "elliot.i05.e1",
+          "date": "2025-09-29",
+          "description": "lets Brenda's emails go unanswered for a week while Theo has his first cold, then asks for help catching up"
+        },
+        {
+          "id": "elliot.i05.e2",
+          "date": "2025-10-03",
+          "description": "asks for a summary of the new reassessment rules so he isn't behind in January"
+        },
+        {
+          "id": "elliot.i05.e3",
+          "date": "2025-10-24",
+          "description": "drafts transition notes for the colleague covering his appeal files"
+        },
+        {
+          "id": "elliot.i05.e4",
+          "date": "2025-11-15",
+          "description": "asks the assistant to quiz him on training module terms during Theo's nap"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "elliot.i06",
+      "statement": "Over-apologizes to neighbors about the baby's noise, until he starts holding his ground.",
+      "about": "elliot",
+      "evidence": [
+        {
+          "id": "elliot.i06.e1",
+          "date": "2025-08-29",
+          "description": "asks for wording for a sorry note and a pan dulce gift for unit 211 after a crying night"
+        },
+        {
+          "id": "elliot.i06.e2",
+          "date": "2025-09-24",
+          "description": "wants to buy acoustic foam for the shared wall after another taped note"
+        },
+        {
+          "id": "elliot.i06.e3",
+          "date": "2025-10-30",
+          "description": "asks how to word a reply saying babies cry and that he's doing his best"
+        },
+        {
+          "id": "elliot.i06.e4",
+          "date": "2025-11-11",
+          "description": "asks for help with a firm email to Gloria about the faucet, with dates attached and no apology"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-30",
+      "changed_to": "Politely sets boundaries with neighbors and the property manager instead of apologizing",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "elliot.r01",
+      "term": "the log",
+      "meaning": "Elliot's feed/nap/diaper tracking spreadsheet, later its weekly summary tab",
+      "first_use": "2025-08-26"
+    },
+    {
+      "id": "elliot.r02",
+      "term": "211",
+      "meaning": "Walter Chen, the neighbor who tapes complaint notes to his door",
+      "first_use": "2025-08-29"
+    },
+    {
+      "id": "elliot.r03",
+      "term": "the witching hour",
+      "meaning": "Theo's 5-8 p.m. crying stretch",
+      "first_use": "2025-09-02"
+    },
+    {
+      "id": "elliot.r04",
+      "term": "the Grandma effect",
+      "meaning": "Theo sleeping perfectly at Judith's and nowhere else",
+      "first_use": "2025-09-20"
+    },
+    {
+      "id": "elliot.r05",
+      "term": "the Monday email",
+      "meaning": "Brenda's weekly 8:15 a.m. check-in about his return",
+      "first_use": "2025-09-08"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "elliot.a01",
+      "title": "Getting Theo to sleep",
+      "summary": "From contact naps and a bassinet to a crib and a nap schedule, with formula and tracking changes along the way.",
+      "beats": [
+        {
+          "date": "2025-09-03",
+          "what": "Dr. Fong suggests a gentle formula for the fussiness",
+          "facts": [
+            "elliot.f13",
+            "elliot.f14"
+          ]
+        },
+        {
+          "date": "2025-09-14",
+          "what": "Theo moves to the crib in the nursery",
+          "facts": [
+            "elliot.f11",
+            "elliot.f12"
+          ]
+        },
+        {
+          "date": "2025-09-29",
+          "what": "switches to a shared tracker app so Judith and Hana can log too",
+          "facts": [
+            "elliot.f09",
+            "elliot.f10"
+          ]
+        },
+        {
+          "date": "2025-10-06",
+          "what": "a three-nap schedule finally sticks",
+          "facts": [
+            "elliot.f15",
+            "elliot.f16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elliot.a02",
+      "title": "The return-to-work squeeze",
+      "summary": "Brenda's pressure, Judith moving in and Hana going back push Elliot to renegotiate his return and lock in daycare.",
+      "beats": [
+        {
+          "date": "2025-09-08",
+          "what": "the first Monday email arrives and he vents about Brenda",
+          "facts": [
+            "elliot.f50",
+            "elliot.f33"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "Judith starts staying weekdays",
+          "facts": [
+            "elliot.f47",
+            "elliot.f48"
+          ]
+        },
+        {
+          "date": "2025-10-22",
+          "what": "he extends his return to Jan 5",
+          "facts": [
+            "elliot.f03",
+            "elliot.f04"
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "what": "Hana goes back to work and he becomes the weekday parent",
+          "facts": [
+            "elliot.f19",
+            "elliot.f20",
+            "elliot.f44",
+            "elliot.f45"
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "what": "he secures an infant daycare spot",
+          "facts": [
+            "elliot.f17",
+            "elliot.f18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elliot.a03",
+      "title": "Becoming a functioning adult again",
+      "summary": "Groceries, walks, a bigger car and finally cooking.",
+      "beats": [
+        {
+          "date": "2025-08-30",
+          "what": "first Saturday market run with Theo in the carrier",
+          "facts": [
+            "elliot.f21",
+            "elliot.f22"
+          ]
+        },
+        {
+          "date": "2025-09-22",
+          "what": "starts marsh boardwalk stroller walks",
+          "facts": [
+            "elliot.f27",
+            "elliot.f28"
+          ]
+        },
+        {
+          "date": "2025-10-11",
+          "what": "trades the hatchback for a crossover",
+          "facts": [
+            "elliot.f25",
+            "elliot.f26"
+          ]
+        },
+        {
+          "date": "2025-11-09",
+          "what": "first Sunday batch cook",
+          "facts": [
+            "elliot.f23",
+            "elliot.f24",
+            "elliot.f36"
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "what": "the storm floods the marsh trail and walks move to Delgado Park",
+          "facts": [
+            "elliot.f28",
+            "elliot.f29"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "Mostly lowercase with full punctuation out of habit. Medium-length messages, more typos at night ('teh', 'bottel'). Dry self-deprecating jokes, an occasional 🙃, sometimes a sports metaphor.",
+    "with_assistant": "Gives a lot of context and often pastes spreadsheet rows or email text. Says please and thanks. Asks for tables and checklists, and likes long answers if they're structured, but at 3 a.m. he asks for 'the short version'.",
+    "quirks": [
+      "Opens late-night messages with the time ('2:47 am update')",
+      "Scores parenting moments like baseball games",
+      "Asks for things 'in table form'",
+      "Apologizes to the assistant for typing one-handed",
+      "Rounds everything to ounces and minutes"
+    ],
+    "sample_lines": [
+      "3:12 am. short version please: is it normal for a baby to just stare at the ceiling fan like it owes him money",
+      "can you put this in table form, i think better in tables",
+      "ok be honest, is this email too passive aggressive or just regular aggressive",
+      "typing one-handed sorry. what's a dinner i can make with eggs, rice and despair",
+      "thanks, that worked. scoreboard: dad 1, nap 0 → dad 1, nap 1",
+      "give me a checklist for leaving the house with a baby, i forgot the wipes again"
+    ]
+  },
+  "usage": {
+    "frequency": "daily",
+    "active_hours": [
+      2,
+      5,
+      10,
+      14,
+      21
+    ]
+  }
+}

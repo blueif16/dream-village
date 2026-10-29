@@ -1,0 +1,39 @@
+{
+  "id": "rafael.s01",
+  "principal": "rafael",
+  "start": "2025-08-30T22:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "bro need help w a schedule. i work my familys food stand thu-sun at the delgado park lot and i run the griddle plus do the teardown, canopy and generator. but on fridays i gotta pick up my cousin from taqueria colima at 9. her boss efrain has her fridays now 4-9"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. A few details so I can build this to the minute: where is the stand lot, how far is it from the taqueria, and when does the stand normally close on a Friday? How long does teardown usually take, and how many people are there to help?"
+    },
+    {
+      "role": "user",
+      "text": "stand closes at 10 usually. teardown is like 35 min if my dad helps. its about 12 min drive to colima on calle ortega, 15 if traffic. my mom can do the cash box but she cant lift the generator. i drive a 2009 tacoma and i fill up at the ruel road station like every week so does the route pass it"
+    },
+    {
+      "role": "assistant",
+      "text": "Since the stand normally closes at 10, the problem is that 9 is an hour before close. So the plan is that you leave the lot early and your parents finish the last hour.\n\nFriday plan (pickup at 9:00 sharp):\n- 8:00: Start a lighter teardown while the line is slow. Pack the extra supplies, tables and anything not needed for the last orders.\n- 8:30: Hand the griddle to a family member, or shut down all but one burner. Break down the canopy and unplug and cool the generator if someone else can lift it. Your mom keeps the cash box.\n- 8:40: Wheels rolling. Allow 15 minutes for traffic, which puts you on Calle Ortega at about 8:55, five minutes early so she never waits alone outside.\n\nRoute: I don't know the layout of your streets, so tell me where the Ruel Road station sits relative to the lot and Calle Ortega. If it's on the way, fill up Thursday or Saturday instead, since a stop would cost 5 to 8 minutes you don't have on Fridays. If it's a detour, skip it that night.\n\nBackup if the line runs late:\n1. Set a hard cutoff at 8:25. After that, nobody new gets pushed onto the griddle, and any last orders go to whoever is staying.\n2. If you still can't leave by 8:40, text her at 8:35 and ask her to wait inside the restaurant until you arrive. Better late than standing outside.\n3. Have a second person ready as a fallback, like a relative who can grab her in a pinch.\n\nWant me to turn this into a short checklist you can screenshot?"
+    },
+    {
+      "role": "user",
+      "text": "ruel road station is right by the lot on the way, like 2 min. so i fill thursday then. can u do the checklist short version, also for tonight sat. i dont have to leave early sat right"
+    },
+    {
+      "role": "assistant",
+      "text": "Right, going by what you've told me, Saturday has no pickup, so you work the whole shift and do a normal teardown. Here's the short version:\n\nFRIDAY\n- Fill up Thursday (not Friday)\n- 8:00 lighter teardown, pack extras\n- 8:25 last new orders on griddle\n- 8:30 hand off griddle, mom keeps cash box\n- 8:40 leave\n- 8:55 arrive at Colima, 5 min early\n- Late? Text her at 8:35 to wait inside\n\nSATURDAY\n- Full shift, normal close and teardown\n- No pickup, so no early exit\n\nGood luck with the line."
+    },
+    {
+      "role": "user",
+      "text": "thanks bro that helped fr 👍"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Safe driving, and good luck with the rush."
+    }
+  ]
+}

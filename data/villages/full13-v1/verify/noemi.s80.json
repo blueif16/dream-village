@@ -1,0 +1,102 @@
+{
+  "session_id": "noemi.s80",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Iris keeps the shared household budget sheet",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she keeps the shared household budget sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Anniversary with Iris was Saturday (Nov 15)",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f57",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anniversary was saturday and i want a small follow-up gift for iris",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a December trip cushion to keep untouched",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i gotta keep my december trip cushion untouched",
+      "support_quote": ""
+    },
+    {
+      "text": "Trains Bao on Tuesdays",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i train bao on tuesdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris loves lists",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "theme is lists. she loves lists.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the user's anniversary was belated",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Happy belated anniversary!",
+      "support_quote": "anniversary was saturday and i want a small follow-up gift for iris"
+    },
+    {
+      "text": "User's budget is $40-60 cap",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "comfortably under your cap",
+      "support_quote": "budget like $40-60 max"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f45",
+      "present": true,
+      "quote": "she keeps the shared household budget sheet so it has to be something that fits in there without a fight lol"
+    },
+    {
+      "item_id": "noemi.f57",
+      "present": true,
+      "quote": "anniversary was saturday and i want a small follow-up gift for iris"
+    },
+    {
+      "item_id": "noemi.f38",
+      "present": true,
+      "quote": "i gotta keep my december trip cushion untouched so no dipping into that"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "i have to be done by 3 bc i train bao on tuesdays"
+    }
+  ],
+  "sensitive": []
+}

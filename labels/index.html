@@ -1,0 +1,401 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Context cards · memo-bench</title>
+<link rel="icon" href="data:,">
+<style>
+  :root {
+    --paper: #f3eee3;
+    --sheet: #fbf8f1;
+    --ink: #24211c;
+    --soft: #5d564b;
+    --faint: #8b8273;
+    --rule: #ddd4c3;
+    --must_not: #9a3f2f;
+    --stale: #9c6c12;
+    --fabricated: #2c6664;
+    --yes: #2f6a3e;
+    --no: #a13b2c;
+    --skip: #7b7366;
+    --serif: "Iowan Old Style", "Charter", "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    --sans: "Avenir Next", Avenir, "Seravek", "Gill Sans", "Trebuchet MS", sans-serif;
+    --mono: "SF Mono", Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; }
+  body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    display: grid;
+    grid-template-rows: auto auto minmax(0, 1fr) auto;
+    height: 100vh;
+  }
+  button { font: inherit; color: inherit; cursor: pointer; }
+  kbd {
+    font-family: var(--mono); font-size: 0.72em; padding: 0.1em 0.4em; border-radius: 4px;
+    border: 1px solid currentColor; opacity: 0.75;
+  }
+
+  /* top bar */
+  header {
+    display: flex; align-items: center; gap: 28px; padding: 14px 32px;
+    border-bottom: 1px solid var(--rule);
+  }
+  .brand { font-family: var(--serif); font-size: 19px; white-space: nowrap; }
+  .brand small { font-family: var(--sans); color: var(--faint); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; margin-left: 8px; }
+  .progress { display: flex; gap: 22px; flex: 1; min-width: 0; }
+  .ptype { flex: 1; min-width: 120px; }
+  .ptype .row { display: flex; justify-content: space-between; font-size: 12px; color: var(--soft); margin-bottom: 5px; letter-spacing: 0.02em; }
+  .ptype .row b { font-weight: 600; color: var(--ink); }
+  .bar { display: flex; height: 6px; background: var(--rule); border-radius: 3px; overflow: hidden; }
+  .bar span { display: block; height: 100%; transition: width 0.25s ease; }
+  .bar .y { background: var(--yes); } .bar .n { background: var(--no); } .bar .s { background: var(--skip); opacity: 0.55; }
+  .count { font-size: 13px; color: var(--soft); white-space: nowrap; font-variant-numeric: tabular-nums; }
+  .count b { color: var(--ink); font-size: 15px; }
+  .export {
+    border: 1px solid var(--ink); background: transparent; border-radius: 6px; padding: 7px 14px; font-size: 13px; white-space: nowrap;
+  }
+  .export:hover:not(:disabled) { background: var(--ink); color: var(--sheet); }
+  .export:disabled { opacity: 0.35; cursor: default; }
+
+  /* the question */
+  .question { padding: 20px 32px 16px; display: flex; align-items: baseline; gap: 16px; }
+  .tag {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--sheet);
+    background: var(--accent); border-radius: 4px; padding: 4px 8px; white-space: nowrap; position: relative; top: -3px;
+  }
+  .question h1 { margin: 0; font-family: var(--serif); font-weight: 600; font-size: 25px; line-height: 1.3; }
+  .question .pos { margin-left: auto; font-size: 13px; color: var(--faint); white-space: nowrap; font-variant-numeric: tabular-nums; }
+
+  /* two reading panes */
+  main { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 1fr); gap: 22px; padding: 0 32px 18px; min-height: 0; }
+  .pane {
+    background: var(--sheet); border: 1px solid var(--rule); border-radius: 10px; overflow-y: auto; min-height: 0;
+    border-top: 4px solid var(--accent); padding: 22px 28px 26px;
+    /* soft shadows at the top/bottom edge only while there is more to scroll */
+    background:
+      linear-gradient(var(--sheet) 30%, rgba(251, 248, 241, 0)) center top,
+      linear-gradient(rgba(251, 248, 241, 0), var(--sheet) 70%) center bottom,
+      radial-gradient(farthest-side at 50% 0, rgba(60, 48, 30, 0.16), transparent) center top,
+      radial-gradient(farthest-side at 50% 100%, rgba(60, 48, 30, 0.16), transparent) center bottom;
+    background-color: var(--sheet);
+    background-repeat: no-repeat;
+    background-size: 100% 40px, 100% 40px, 100% 14px, 100% 14px;
+    background-attachment: local, local, scroll, scroll;
+  }
+  .label { font-size: 11px; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); margin: 0 0 8px; }
+  .label .when { text-transform: none; letter-spacing: 0; font-weight: 400; margin-left: 6px; }
+  .request { font-family: var(--serif); font-style: italic; font-size: 18px; line-height: 1.5; color: var(--soft); margin: 0 0 22px; padding-left: 14px; border-left: 3px solid var(--rule); white-space: pre-wrap; }
+  .response { font-family: var(--serif); font-size: 19px; line-height: 1.6; white-space: pre-wrap; overflow-wrap: anywhere; margin: 0; }
+  .file { font-family: var(--mono); font-size: 13px; color: var(--faint); margin: 0 0 10px; }
+  .memline { font-family: var(--serif); font-size: 24px; line-height: 1.45; margin: 0; }
+
+  .about { font-size: 13px; color: var(--soft); margin: 0 0 6px; }
+  .about code { font-family: var(--mono); font-size: 12px; color: var(--faint); }
+  .value { font-family: var(--serif); font-size: 24px; line-height: 1.4; margin: 0 0 14px; }
+  .value.none { font-style: italic; color: var(--soft); font-size: 20px; }
+  .dates { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 20px; }
+  .date { font-size: 13px; border: 1px solid var(--rule); border-radius: 20px; padding: 3px 11px; color: var(--soft); font-variant-numeric: tabular-nums; }
+  .date.hot { border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .prev { margin: 0 0 20px; font-family: var(--serif); font-size: 18px; line-height: 1.45; color: var(--soft); }
+  .prev s { text-decoration-color: var(--faint); }
+  .closest { margin: 0 0 20px; padding-left: 20px; font-family: var(--serif); font-size: 18px; line-height: 1.45; color: var(--soft); }
+  .closest li { margin-bottom: 6px; }
+  .excerpt { margin: 0; font-family: var(--serif); font-size: 16px; line-height: 1.55; color: var(--soft); white-space: pre-wrap; overflow-wrap: anywhere; }
+  .excerpt cite { display: block; font-family: var(--mono); font-style: normal; font-size: 12px; color: var(--faint); margin-bottom: 4px; }
+  hr { border: 0; border-top: 1px solid var(--rule); margin: 0 0 18px; }
+
+  /* decision bar */
+  footer { display: flex; align-items: center; gap: 12px; padding: 14px 32px 18px; border-top: 1px solid var(--rule); background: var(--paper); }
+  .choice {
+    border: 2px solid var(--c); color: var(--c); background: transparent; border-radius: 8px; padding: 10px 22px;
+    font-size: 17px; font-weight: 600; display: flex; align-items: center; gap: 10px; transition: background 0.1s, color 0.1s, transform 0.08s;
+  }
+  .choice:hover, .choice[aria-pressed="true"] { background: var(--c); color: var(--sheet); }
+  .choice.pulse { transform: scale(0.96); }
+  .choice.yes { --c: var(--yes); } .choice.no { --c: var(--no); } .choice.skip { --c: var(--skip); padding: 10px 16px; font-weight: 500; }
+  .nav { border: 0; background: transparent; color: var(--soft); font-size: 14px; padding: 10px 8px; }
+  .nav:disabled { opacity: 0.3; cursor: default; }
+  .hint { margin-left: 18px; font-size: 14px; color: var(--soft); line-height: 1.4; }
+  .hint b { color: var(--ink); font-weight: 600; }
+  .cid { margin-left: auto; font-family: var(--mono); font-size: 11px; color: var(--faint); max-width: 30ch; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+  /* start / end screens */
+  .screen { grid-row: 2 / 5; display: flex; align-items: center; justify-content: center; padding: 32px; }
+  .screen .box { max-width: 560px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 12px; padding: 32px 36px; }
+  .screen h2 { font-family: var(--serif); font-weight: 600; font-size: 26px; margin: 0 0 12px; }
+  .screen p { font-size: 15px; line-height: 1.55; color: var(--soft); margin: 0 0 14px; }
+  .screen code { font-family: var(--mono); font-size: 13px; }
+  .screen .err { color: var(--no); }
+  .pick { display: inline-block; border: 1px solid var(--ink); border-radius: 6px; padding: 8px 16px; font-size: 14px; cursor: pointer; }
+  .pick:hover { background: var(--ink); color: var(--sheet); }
+  .pick input { display: none; }
+  [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+<header>
+  <div class="brand">Context cards <small>memo-bench</small></div>
+  <div class="progress" id="progress"></div>
+  <div class="count" id="count"></div>
+  <button class="export" id="export" disabled>Export labels</button>
+</header>
+
+<section class="question" id="qbar" hidden>
+  <span class="tag" id="tag"></span>
+  <h1 id="question"></h1>
+  <span class="pos" id="pos"></span>
+</section>
+
+<main id="card" hidden>
+  <article class="pane" id="left"></article>
+  <aside class="pane" id="right"></aside>
+</main>
+
+<footer id="decide" hidden>
+  <button class="nav" id="back" title="Back (←)">← Back</button>
+  <button class="choice yes" data-label="yes">Yes <kbd>Y</kbd></button>
+  <button class="choice no" data-label="no">No <kbd>N</kbd></button>
+  <button class="choice skip" data-label="skip">Unsure <kbd>S</kbd></button>
+  <button class="nav" id="next" title="Next (→)">→</button>
+  <div class="hint" id="hint"></div>
+  <div class="cid" id="cid"></div>
+</footer>
+
+<section class="screen" id="screen">
+  <div class="box">
+    <h2 id="screen-title">Loading cards…</h2>
+    <div id="screen-body"></div>
+    <label class="pick" id="pick">Choose cards.jsonl<input type="file" id="file" accept=".jsonl,.json,.txt"></label>
+  </div>
+</section>
+
+<script>
+"use strict";
+// Card file served from the repo root (python -m http.server); override with ?cards=<path>. The judges' verdicts
+// (cards_key.jsonl) are never fetched, and any record carrying a verdict is refused.
+const DEFAULT_CARDS = "../runs/scorer/full13-v1-v0-evalv2/cards/cards.jsonl";
+const STORE = "memo-bench.card-labels.v1";   // {card_id: {label, ts}}
+const SEED = "dream-village-cards-v1";        // fixed: everyone sees the same order
+const TYPES = ["must_not", "stale", "fabricated"];
+const NAMES = {must_not: "Must not", stale: "Stale", fabricated: "Fabricated"};
+const HINTS = {
+  must_not: "<b>Yes</b> = the entry is absent. <b>No</b> = stated, hinted at, or used for the advice.",
+  stale: "<b>Yes</b> = the old value is not presented as current. <b>No</b> = it is.",
+  fabricated: "<b>Yes</b> = the user told us this (the entry supports it). <b>No</b> = not supported.",
+};
+
+const $ = (id) => document.getElementById(id);
+let order = [], idx = 0, labels = readStore();
+
+function readStore() {
+  try { return JSON.parse(localStorage.getItem(STORE)) || {}; } catch { return {}; }
+}
+function writeStore() { localStorage.setItem(STORE, JSON.stringify(labels)); }
+
+// ---- seeded order: shuffle each type, then deal them out in rounds so types interleave
+function hash32(s) { let h = 2166136261; for (let i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+function mulberry32(a) {
+  return () => { a = (a + 0x6D2B79F5) | 0; let t = Math.imul(a ^ (a >>> 15), 1 | a); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+}
+function shuffle(xs, rnd) { for (let i = xs.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [xs[i], xs[j]] = [xs[j], xs[i]]; } return xs; }
+function arrange(cards) {
+  const rnd = mulberry32(hash32(SEED)), groups = {};
+  [...cards].sort((a, b) => (a.card_id < b.card_id ? -1 : 1)).forEach((c) => (groups[c.type] ??= []).push(c));
+  const types = Object.keys(groups).sort();
+  types.forEach((t) => shuffle(groups[t], rnd));
+  const out = [];
+  while (types.some((t) => groups[t].length)) for (const t of shuffle(types.filter((t) => groups[t].length), rnd)) out.push(groups[t].shift());
+  return out;
+}
+
+// ---- loading
+function parseCards(text, name) {
+  if (/key/i.test(name || "")) throw new Error("This is the verdict key. Pick cards.jsonl instead.");
+  const cards = text.split("\n").filter((l) => l.trim()).map((l) => JSON.parse(l));
+  if (!cards.length) throw new Error("No cards in this file.");
+  if (cards.some((c) => "verdict" in c)) throw new Error("These records carry judge verdicts. Pick cards.jsonl, not cards_key.jsonl.");
+  if (cards.some((c) => !c.card_id || !c.type || !c.entry)) throw new Error("Not a cards file: each line needs card_id, type and entry.");
+  return cards;
+}
+function start(cards) {
+  order = arrange(cards);
+  const first = order.findIndex((c) => !labels[c.card_id]);
+  idx = first === -1 ? order.length : first;
+  $("screen").hidden = true;
+  render();
+}
+function screen(title, html) {
+  $("screen").hidden = false; $("pick").hidden = false; ["qbar", "card", "decide"].forEach((id) => ($(id).hidden = true));
+  $("screen-title").textContent = title; $("screen-body").innerHTML = html;
+}
+async function boot() {
+  const path = new URLSearchParams(location.search).get("cards") || DEFAULT_CARDS;
+  if (location.protocol.startsWith("http")) {
+    try {
+      if (/key/i.test(path)) throw new Error("that is the verdict key, which this page never loads");
+      const r = await fetch(path, {cache: "no-store"});
+      if (!r.ok) throw new Error(`${r.status} for ${path}`);
+      return start(parseCards(await r.text(), path));
+    } catch (e) {
+      return screen("Pick the cards file", `<p class="err">Could not load <code>${esc(path)}</code> (${esc(e.message)}).</p><p>Choose <code>cards.jsonl</code> from the run's <code>cards/</code> folder.</p>`);
+    }
+  }
+  screen("Pick the cards file", "<p>Opened from disk. Choose <code>cards.jsonl</code> from the run's <code>cards/</code> folder, or serve the repo root with <code>python -m http.server</code> and open <code>/labels/</code>.</p>");
+}
+$("file").addEventListener("change", async (e) => {
+  const f = e.target.files[0]; if (!f) return;
+  try { start(parseCards(/key/i.test(f.name) ? "" : await f.text(), f.name)); } catch (err) { screen("Pick the cards file", `<p class="err">${esc(err.message)}</p>`); }
+  e.target.value = "";
+});
+
+// ---- rendering (data goes in through textContent only)
+function esc(s) { return String(s).replace(/[&<>"]/g, (c) => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c])); }
+function el(tag, cls, text) { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
+function when(t) {
+  if (!t) return "";
+  const d = new Date(t.length === 10 ? t + "T00:00:00" : t);
+  if (isNaN(d)) return t;
+  return d.toLocaleString("en-US", {weekday: "short", month: "short", day: "numeric", year: "numeric", hour: "2-digit", minute: "2-digit", hour12: false});
+}
+
+function renderLeft(c) {
+  const L = $("left"); L.replaceChildren(); L.scrollTop = 0;
+  if (c.type === "fabricated") {
+    const cut = c.response.indexOf(": ");
+    const file = cut > 0 && c.response.startsWith("/") ? c.response.slice(0, cut) : "";
+    const lab = el("p", "label", "Memory line"); lab.append(el("span", "when", `as of ${when(c.t)}`));
+    L.append(lab);
+    if (file) L.append(el("p", "file", file));
+    L.append(el("p", "memline", (file ? c.response.slice(cut + 2) : c.response).replace(/^-\s+/, "")));
+    return;
+  }
+  if (c.request) {
+    const lab = el("p", "label", "Request"); lab.append(el("span", "when", when(c.t)));
+    L.append(lab, el("p", "request", c.request));
+  }
+  L.append(el("p", "label", "Response"), el("p", "response", c.response || "(empty response)"));
+}
+
+function renderRight(c) {
+  const R = $("right"), e = c.entry || {}; R.replaceChildren(); R.scrollTop = 0;
+  const title = {must_not: "Withheld entry", stale: "Old value", fabricated: "Entry"}[c.type] || "Entry";
+  R.append(el("p", "label", title));
+  const noMatch = c.type === "fabricated" && !e.id;
+  if (noMatch) {
+    R.append(el("p", "value none", "No matching entry."));
+    const near = String(e.value || "").replace(/^\(no matching entry\) closest:\s*/, "").split(" | ").filter(Boolean);
+    if (near.length) {
+      R.append(el("p", "label", "Closest entries (context only)"));
+      const ul = el("ul", "closest"); near.forEach((x) => ul.append(el("li", null, x))); R.append(ul);
+    }
+    return;
+  }
+  const about = el("p", "about", [e.about, e.attribute && e.attribute.replace(/_/g, " ")].filter(Boolean).join(" · ") + " ");
+  if (e.id) about.append(el("code", null, e.id));
+  R.append(about, el("p", "value", e.value || "(no value)"));
+  const dates = el("div", "dates");
+  if (e.valid_from) dates.append(el("span", "date", `from ${e.valid_from}`));
+  if (e.valid_to) dates.append(el("span", "date" + (c.type === "stale" ? " hot" : ""), `${c.type === "stale" ? "ended" : "until"} ${e.valid_to}`));
+  if (!e.valid_from && !e.valid_to) dates.append(el("span", "date", "no dates"));
+  R.append(dates);
+  if (e.previous_value) {
+    R.append(el("p", "label", "Earlier value it replaced"));
+    const p = el("p", "prev"); p.append(el("s", null, e.previous_value)); R.append(p);
+  }
+  if (e.disclosure_excerpt) {
+    R.append(el("hr"), el("p", "label", "Where the user said it"));
+    const q = el("blockquote", "excerpt"), m = e.disclosure_excerpt.match(/^(\S+ \(\d{4}-\d{2}-\d{2}\)):\s*/);
+    if (m) q.append(el("cite", null, m[1]));
+    q.append(document.createTextNode(m ? e.disclosure_excerpt.slice(m[0].length) : e.disclosure_excerpt));
+    R.append(q);
+  }
+}
+
+function renderProgress() {
+  const P = $("progress"); P.replaceChildren();
+  const byType = {}; order.forEach((c) => { const b = (byType[c.type] ??= {total: 0, yes: 0, no: 0, skip: 0}); b.total++; const l = labels[c.card_id]; if (l) b[l.label]++; });
+  const types = TYPES.filter((t) => byType[t]).concat(Object.keys(byType).filter((t) => !TYPES.includes(t)));
+  let done = 0;
+  for (const t of types) {
+    const b = byType[t], n = b.yes + b.no + b.skip; done += n;
+    const box = el("div", "ptype"), row = el("div", "row"), name = el("span");
+    name.append(el("b", null, NAMES[t] || t), document.createTextNode(` ${n}/${b.total}`));
+    row.append(name, el("span", null, `${b.yes} yes · ${b.no} no${b.skip ? ` · ${b.skip} unsure` : ""}`));
+    const bar = el("div", "bar");
+    [["y", b.yes], ["n", b.no], ["s", b.skip]].forEach(([k, v]) => { const s = el("span", k); s.style.width = `${(100 * v) / b.total}%`; bar.append(s); });
+    box.append(row, bar); P.append(box);
+  }
+  $("count").replaceChildren(el("b", null, String(done)), document.createTextNode(` / ${order.length}`));
+  const nAll = Object.keys(labels).length;
+  $("export").disabled = nAll === 0;
+  $("export").textContent = nAll ? `Export labels (${nAll})` : "Export labels";
+}
+
+function render() {
+  renderProgress();
+  if (idx >= order.length) {
+    const left = order.findIndex((c) => !labels[c.card_id]);
+    screen(left === -1 ? "All cards labeled" : "End of the deck",
+      left === -1 ? "<p>Export the labels and run the agreement script (see <code>labels/README.md</code>).</p>"
+                  : `<p>${order.filter((c) => !labels[c.card_id]).length} cards still have no label. Press <kbd>←</kbd> to go back, or <a href="#" id="jump">jump to the first one</a>.</p>`);
+    $("pick").hidden = true;
+    const j = $("jump"); if (j) j.onclick = (ev) => { ev.preventDefault(); idx = left; $("screen").hidden = true; render(); };
+    return;
+  }
+  $("screen").hidden = true; ["qbar", "card", "decide"].forEach((id) => ($(id).hidden = false));
+  const c = order[idx];
+  document.body.style.setProperty("--accent", `var(--${TYPES.includes(c.type) ? c.type : "soft"})`);
+  $("tag").textContent = NAMES[c.type] || c.type;
+  $("question").textContent = c.question;
+  $("pos").textContent = `Card ${idx + 1} of ${order.length}`;
+  $("hint").innerHTML = HINTS[c.type] || "";
+  $("cid").textContent = c.card_id; $("cid").title = c.card_id;
+  renderLeft(c); renderRight(c);
+  const mine = labels[c.card_id]?.label;
+  document.querySelectorAll(".choice").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.label === mine)));
+  $("back").disabled = idx === 0;
+}
+
+// ---- actions
+function label(value) {
+  if (idx >= order.length) return;
+  labels[order[idx].card_id] = {label: value, ts: new Date().toISOString()};
+  writeStore();
+  idx++; render();  // advance at once, so fast double presses can't skip a card
+  const b = document.querySelector(`.choice[data-label="${value}"]`);
+  b.classList.add("pulse"); setTimeout(() => b.classList.remove("pulse"), 120);
+}
+function go(step) { const j = idx + step; if (j < 0 || j > order.length) return; idx = j; render(); }
+
+function exportLabels() {
+  const lines = Object.entries(labels).sort((a, b) => (a[1].ts < b[1].ts ? -1 : 1))
+    .map(([card_id, v]) => JSON.stringify({card_id, label: v.label, ts: v.ts})).join("\n") + "\n";
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([lines], {type: "application/x-ndjson"}));
+  a.download = "labels.jsonl";
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
+document.querySelectorAll(".choice").forEach((b) => b.addEventListener("click", () => label(b.dataset.label)));
+$("back").addEventListener("click", () => go(-1));
+$("next").addEventListener("click", () => go(1));
+$("export").addEventListener("click", exportLabels);
+document.addEventListener("keydown", (e) => {
+  if (e.metaKey || e.ctrlKey || e.altKey || e.repeat || !order.length) return;
+  const k = e.key.toLowerCase();
+  if (k === "y") label("yes"); else if (k === "n") label("no"); else if (k === "s") label("skip");
+  else if (e.key === "ArrowLeft") go(-1); else if (e.key === "ArrowRight") go(1);
+  else return;
+  e.preventDefault();
+});
+window.addEventListener("storage", (e) => { if (e.key === STORE) { labels = readStore(); if (order.length) render(); } });
+
+boot();
+</script>
+</body>
+</html>

@@ -1,0 +1,97 @@
+{
+  "session_id": "thao.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao is turning voicemail off and wants a 'text me' greeting",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f13",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm turning my voicemail off finally",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao voted yes on the union vote",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i voted yes on the union thurs",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's mom calls at 1pm mid-sleep and leaves Vietnamese voicemails",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she calls at 1pm mid sleep and leaves voicemails in vietnamese",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao works nights and sleeps in the day",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "I work nights and sleep in the day.",
+      "support_quote": "i work nights"
+    },
+    {
+      "text": "Thao wants to send a sticker photo to Jasmine",
+      "about": "thao",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "need it cropped clean to text jasmine",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao prefers short direct answers without padding",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "nah just the steps was what i needed. thanks",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao handles texts and avoids voice calls",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm turning my voicemail off finally",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f13",
+      "present": true,
+      "quote": "i'm turning my voicemail off finally"
+    },
+    {
+      "item_id": "thao.f17",
+      "present": true,
+      "quote": "i voted yes on the union thurs"
+    },
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "she calls at 1pm mid sleep and leaves voicemails in vietnamese"
+    }
+  ],
+  "sensitive": []
+}

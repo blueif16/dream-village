@@ -1,0 +1,137 @@
+{
+  "session_id": "marcus.s21",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "On mandatory 10-hour nights Sun-Thu 9 pm-7:30 am",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im now on mandatory 10 hour nights sun-thu 9 pm-7:30 am",
+      "support_quote": ""
+    },
+    {
+      "text": "Pay is $24.75 with $1.50 peak bump",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my pay shows 24.75 with the 1.50 peak bump",
+      "support_quote": ""
+    },
+    {
+      "text": "Carpools with Trevor, $20 a week gas",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i carpool with trevor in his corolla now, $20 a week gas",
+      "support_quote": ""
+    },
+    {
+      "text": "Gym cut to two sessions Fri/Sat mornings",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gym is cut to two sessions a week fri/sat mornings during overtime",
+      "support_quote": ""
+    },
+    {
+      "text": "Has class Mon/Wed/Thu afternoons",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have class mon/wed/thu afternoons",
+      "support_quote": ""
+    },
+    {
+      "text": "Sleeps 8:30 am to 1:30 pm, cut short on class days",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my sleep window is 8:30 am to 1:30 pm now and its often cut short on class days",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he works mandatory 10-hour nights Sun-Thu",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm working the mandatory 10-hour nights, Sunday through Thursday, 9 p.m. to 7:30 a.m.",
+      "support_quote": "im now on mandatory 10 hour nights sun-thu 9 pm-7:30 am"
+    },
+    {
+      "text": "Assistant says he carpools",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I carpool to Ridgeline with a coworker",
+      "support_quote": "i carpool with trevor in his corolla now, $20 a week gas"
+    },
+    {
+      "text": "Assistant says he sleeps 8:30-1:30",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I sleep from about 8:30 a.m. to 1:30 p.m., often cut short on class days",
+      "support_quote": "my sleep window is 8:30 am to 1:30 pm now and its often cut short on class days"
+    },
+    {
+      "text": "Assistant says he has classes Mon/Wed/Thu afternoons",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I have classes Monday, Wednesday and Thursday afternoons",
+      "support_quote": "i have class mon/wed/thu afternoons"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f05",
+      "present": true,
+      "quote": "im now on mandatory 10 hour nights sun-thu 9 pm-7:30 am"
+    },
+    {
+      "item_id": "marcus.f07",
+      "present": true,
+      "quote": "my pay shows 24.75 with the 1.50 peak bump"
+    },
+    {
+      "item_id": "marcus.f09",
+      "present": true,
+      "quote": "my sleep window is 8:30 am to 1:30 pm now and its often cut short on class days"
+    },
+    {
+      "item_id": "marcus.f18",
+      "present": true,
+      "quote": "i carpool with trevor in his corolla now, $20 a week gas, so i cant really change start times"
+    },
+    {
+      "item_id": "marcus.f21",
+      "present": true,
+      "quote": "gym is cut to two sessions a week fri/sat mornings during overtime"
+    }
+  ],
+  "sensitive": []
+}

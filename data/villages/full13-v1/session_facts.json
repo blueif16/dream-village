@@ -1,0 +1,1850 @@
+[
+  {
+    "source": "isabel.s08",
+    "quote": "im also filling out the practice test registration form rn",
+    "fact": {
+      "id": "isabel.s08.t01",
+      "subject": "isabel",
+      "attribute": "mentioned_s08_01",
+      "value": "Isabel is filling out the practice test registration form",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "isabel.s11",
+    "quote": "i just checked my status and it says approved",
+    "fact": {
+      "id": "isabel.s11.t01",
+      "subject": "isabel",
+      "attribute": "mentioned_s11_01",
+      "value": "Has an approved SAT fee waiver",
+      "valid_from": "2025-09-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "isabel.s21",
+    "quote": "credit the mechanical subteam",
+    "fact": {
+      "id": "isabel.s21.t01",
+      "subject": "isabel",
+      "attribute": "mentioned_s21_01",
+      "value": "She is on the mechanical subteam",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "isabel.s25",
+    "quote": "dad is off sunday",
+    "fact": {
+      "id": "isabel.s25.t01",
+      "subject": "ramon",
+      "attribute": "mentioned_s25_01",
+      "value": "Dad is off Sunday",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "isabel.s38",
+    "quote": "she grades everything like its a rubric",
+    "fact": {
+      "id": "isabel.s38.t01",
+      "subject": "grace",
+      "attribute": "mentioned_s38_01",
+      "value": "Grace grades everything with rubrics",
+      "valid_from": "2025-11-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "dulce.s03",
+    "quote": "this stays between us pls",
+    "fact": {
+      "id": "dulce.s03.t01",
+      "subject": "dulce",
+      "attribute": "mentioned_s03_01",
+      "value": "Dulce wants the flyer kept private, to avoid weirdness at work",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "dulce.s13",
+    "quote": "my cousin rafael",
+    "fact": {
+      "id": "dulce.s13.t01",
+      "subject": "rafael",
+      "attribute": "mentioned_s13_01",
+      "value": "Rafael is her cousin",
+      "valid_from": "2025-11-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s01",
+    "quote": "iphone.",
+    "fact": {
+      "id": "linh.s01.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s01_01",
+      "value": "Linh has an iPhone",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s05",
+    "quote": "beatrice asked me to draft a sign + short caption for the cafe's iced cortado heat wave special",
+    "fact": {
+      "id": "linh.s05.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s05_01",
+      "value": "Linh works at the cafe where Beatrice is the boss and was asked to draft the sign",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s11",
+    "quote": "im off work and skipping the football game",
+    "fact": {
+      "id": "linh.s11.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s11_01",
+      "value": "Linh is off work and skipping the football game",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s12",
+    "quote": "i'm on register",
+    "fact": {
+      "id": "linh.s12.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s12_01",
+      "value": "Linh is on register",
+      "valid_from": "2025-09-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s13",
+    "quote": "i bought supplies for him (wrappers, oil, ground pork) and he wants to pay me back",
+    "fact": {
+      "id": "linh.s13.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s13_01",
+      "value": "Bought supplies for Jun and he wants to repay her",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s13",
+    "quote": "yeah around 60 a batch",
+    "fact": {
+      "id": "linh.s13.t02",
+      "subject": "jun",
+      "attribute": "mentioned_s13_02",
+      "value": "Batch makes around 60 rolls",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s19",
+    "quote": "shes a night nurse so shes always tired",
+    "fact": {
+      "id": "linh.s19.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s19_01",
+      "value": "Thao is a night nurse who is always tired",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s20",
+    "quote": "ive been putting it off for a while now",
+    "fact": {
+      "id": "linh.s20.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s20_01",
+      "value": "Linh has been putting off the talk",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s21",
+    "quote": "my sisters hospital switched to a new electronic charting system today",
+    "fact": {
+      "id": "linh.s21.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s21_01",
+      "value": "Thao's hospital switched to a new charting system today",
+      "valid_from": "2025-09-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s25",
+    "quote": "a coworker covering my shift tmrw",
+    "fact": {
+      "id": "linh.s25.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s25_01",
+      "value": "Sam is covering Linh's shift tomorrow",
+      "valid_from": "2025-09-21",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s29",
+    "quote": "its a secondhand blue commuter bike",
+    "fact": {
+      "id": "linh.s29.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s29_01",
+      "value": "Her bike is a secondhand blue commuter bike",
+      "valid_from": "2025-09-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s32",
+    "quote": "i was thinking i could make dinner a few nights this week so u dont have to cook so late",
+    "fact": {
+      "id": "linh.s32.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s32_01",
+      "value": "Linh wants to cook dinner for mom a few nights",
+      "valid_from": "2025-09-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s33",
+    "quote": "study group tuesday 4 at the library",
+    "fact": {
+      "id": "linh.s33.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s33_01",
+      "value": "Linh has a study group Tuesday 4 at the library",
+      "valid_from": "2025-09-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s35",
+    "quote": "i have class in the morning",
+    "fact": {
+      "id": "linh.s35.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s35_01",
+      "value": "Has class in the morning",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s36",
+    "quote": "then i close tonight.. wait tomorrow",
+    "fact": {
+      "id": "linh.s36.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s36_01",
+      "value": "Linh closes at work tomorrow",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s51",
+    "quote": "shift ends 7.",
+    "fact": {
+      "id": "linh.s51.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s51_01",
+      "value": "Thao's shift ends at 7",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s58",
+    "quote": "he bailed like an hour before close and i just covered it",
+    "fact": {
+      "id": "linh.s58.t01",
+      "subject": "sam",
+      "attribute": "mentioned_s58_01",
+      "value": "Sam left early and Linh covered his last hour",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s64",
+    "quote": "i opened solo at 6:30 this morning when you swapped out",
+    "fact": {
+      "id": "linh.s64.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s64_01",
+      "value": "She opened solo at 6:30 this morning when Sam swapped out",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "linh.s69",
+    "quote": "jun just sent his numbers for the lumpia pop up",
+    "fact": {
+      "id": "linh.s69.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s69_01",
+      "value": "Jun is running a lumpia pop-up",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s08",
+    "quote": "i handle check-in and book appts, prob 40ish students a day",
+    "fact": {
+      "id": "arjun.s08.t01",
+      "subject": "arjun",
+      "attribute": "mentioned_s08_01",
+      "value": "Handles check-in and books appointments, about 40 students a day",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s12",
+    "quote": "desk shifts tue + fri afternoons",
+    "fact": {
+      "id": "arjun.s12.t01",
+      "subject": "arjun",
+      "attribute": "mentioned_s12_01",
+      "value": "Desk shifts Tue and Fri afternoons",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s22",
+    "quote": "he sleeps like 8am to 1pm ish",
+    "fact": {
+      "id": "arjun.s22.t01",
+      "subject": "arjun",
+      "attribute": "mentioned_s22_01",
+      "value": "roommate works nights and sleeps 8am to 1pm",
+      "valid_from": "2025-09-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s38",
+    "quote": "errands are quick, pharmacy pickup and print a few pages",
+    "fact": {
+      "id": "arjun.s38.t01",
+      "subject": "arjun",
+      "attribute": "mentioned_s38_01",
+      "value": "Arjun has a pharmacy pickup and pages to print",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s39",
+    "quote": "im 20, bday is march 9 2005",
+    "fact": {
+      "id": "arjun.s39.t01",
+      "subject": "arjun",
+      "attribute": "mentioned_s39_01",
+      "value": "Arjun is 20",
+      "valid_from": "2025-10-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s46",
+    "quote": "this month is tight for him",
+    "fact": {
+      "id": "arjun.s46.t01",
+      "subject": "arjun",
+      "attribute": "mentioned_s46_01",
+      "value": "Roommate is stretched this month and dislikes charity",
+      "valid_from": "2025-10-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "arjun.s50",
+    "quote": "marcus said someone new is taking over th IT lead job at ridgeline",
+    "fact": {
+      "id": "arjun.s50.t01",
+      "subject": "victor",
+      "attribute": "mentioned_s50_01",
+      "value": "Marcus said someone new is taking over the IT lead job at Ridgeline",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s11",
+    "quote": "just music in one earbud and texts",
+    "fact": {
+      "id": "marcus.s11.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s11_01",
+      "value": "Marcus uses the phone for music in one earbud and texts on shift",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s12",
+    "quote": "she keeps saying shes fine tho",
+    "fact": {
+      "id": "marcus.s12.t01",
+      "subject": "denise",
+      "attribute": "mentioned_s12_01",
+      "value": "Mom said she's fine and doesn't need help",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s15",
+    "quote": "about 28 done. this sem is 4 classes 3 credits each so 12.",
+    "fact": {
+      "id": "marcus.s15.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s15_01",
+      "value": "Marcus has 28 credits done and 4 classes of 3 credits",
+      "valid_from": "2025-09-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s18",
+    "quote": "nah rooms are about the same",
+    "fact": {
+      "id": "marcus.s18.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s18_01",
+      "value": "Marcus's rooms are about the same size",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s19",
+    "quote": "im 19",
+    "fact": {
+      "id": "marcus.s19.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s19_01",
+      "value": "Is 19 years old",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s20",
+    "quote": "i eat one before shift and one on break",
+    "fact": {
+      "id": "marcus.s20.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s20_01",
+      "value": "Marcus eats one container before shift and one on break",
+      "valid_from": "2025-10-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s27",
+    "quote": "jade is annoyed ive been unreachable lol",
+    "fact": {
+      "id": "marcus.s27.t01",
+      "subject": "jade",
+      "attribute": "mentioned_s27_01",
+      "value": "Jade is annoyed he has been unreachable",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s34",
+    "quote": "im 19",
+    "fact": {
+      "id": "marcus.s34.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s34_01",
+      "value": "Marcus is 19",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s38",
+    "quote": "like 8 people. also im dropping off sides and canned goods for her before the day",
+    "fact": {
+      "id": "marcus.s38.t01",
+      "subject": "marcus",
+      "attribute": "mentioned_s38_01",
+      "value": "Feeding 8 people with $120 budget and dropping off sides for mom",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "marcus.s39",
+    "quote": "shes at work most days",
+    "fact": {
+      "id": "marcus.s39.t01",
+      "subject": "denise",
+      "attribute": "mentioned_s39_01",
+      "value": "His mom is at work most days",
+      "valid_from": "2025-11-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rafael.s05",
+    "quote": "i did compare like 3 prices first, rebuilt was 80 cheaper than new so i went with that",
+    "fact": {
+      "id": "rafael.s05.t01",
+      "subject": "rafael",
+      "attribute": "mentioned_s05_01",
+      "value": "Rafael compared prices to save $80",
+      "valid_from": "2025-09-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s13",
+    "quote": "jasmine texted me \"so is dr mehta paging you tonight or what 😏\"",
+    "fact": {
+      "id": "thao.s13.t01",
+      "subject": "jasmine",
+      "attribute": "mentioned_s13_01",
+      "value": "Jasmine teases Thao about Dr. Mehta paging her",
+      "valid_from": "2025-09-21",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s14",
+    "quote": "i work nights",
+    "fact": {
+      "id": "thao.s14.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s14_01",
+      "value": "Thao works nights",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s16",
+    "quote": "iphone",
+    "fact": {
+      "id": "thao.s16.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s16_01",
+      "value": "Has an iPhone",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s17",
+    "quote": "my boyfriend Tomás moves in tomorrow",
+    "fact": {
+      "id": "thao.s17.t01",
+      "subject": "tomas",
+      "attribute": "mentioned_s17_01",
+      "value": "Tomás moves in tomorrow",
+      "valid_from": "2025-09-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s18",
+    "quote": "my boyfriend moves in tomorrow",
+    "fact": {
+      "id": "thao.s18.t01",
+      "subject": "tomas",
+      "attribute": "mentioned_s18_01",
+      "value": "Boyfriend moves in tomorrow",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s22",
+    "quote": "it's 2am and i'm off tonight so i'm actually awake on purpose",
+    "fact": {
+      "id": "thao.s22.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s22_01",
+      "value": "Thao is off tonight and awake on purpose",
+      "valid_from": "2025-10-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s23",
+    "quote": "she has her anatomy lab practical next friday",
+    "fact": {
+      "id": "thao.s23.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s23_01",
+      "value": "Thao's sister Linh has an anatomy lab practical next Friday",
+      "valid_from": "2025-10-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s24",
+    "quote": "she has her anatomy lab practical friday",
+    "fact": {
+      "id": "thao.s24.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s24_01",
+      "value": "Linh has an anatomy lab practical Friday",
+      "valid_from": "2025-10-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s25",
+    "quote": "still wake up groggy tho",
+    "fact": {
+      "id": "thao.s25.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s25_01",
+      "value": "Thao wakes groggy",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s29",
+    "quote": "need it cropped clean to text jasmine",
+    "fact": {
+      "id": "thao.s29.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s29_01",
+      "value": "Thao wants to send a sticker photo to Jasmine",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s34",
+    "quote": "i work nights",
+    "fact": {
+      "id": "thao.s34.t01",
+      "subject": "thao",
+      "attribute": "mentioned_s34_01",
+      "value": "Thao works nights",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s34",
+    "quote": "iphone.",
+    "fact": {
+      "id": "thao.s34.t02",
+      "subject": "thao",
+      "attribute": "mentioned_s34_02",
+      "value": "Thao has an iPhone",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s40",
+    "quote": "she's a barista so she'll notice.",
+    "fact": {
+      "id": "thao.s40.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s40_01",
+      "value": "Sister is a barista",
+      "valid_from": "2025-11-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "thao.s45",
+    "quote": "for my sister, she has finals",
+    "fact": {
+      "id": "thao.s45.t01",
+      "subject": "linh",
+      "attribute": "mentioned_s45_01",
+      "value": "Sister has finals and café shifts",
+      "valid_from": "2025-11-21",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s01",
+    "quote": "Greg. need to swap fri swing.",
+    "fact": {
+      "id": "noemi.s01.t01",
+      "subject": "greg",
+      "attribute": "mentioned_s01_01",
+      "value": "Greg is her boss",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s02",
+    "quote": "just got home from shift",
+    "fact": {
+      "id": "noemi.s02.t01",
+      "subject": "noemi",
+      "attribute": "mentioned_s02_01",
+      "value": "Just got home from shift near midnight",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s10",
+    "quote": "iris said to get a quote first before doing anything",
+    "fact": {
+      "id": "noemi.s10.t01",
+      "subject": "iris",
+      "attribute": "mentioned_s10_01",
+      "value": "Iris advised getting a quote first",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s25",
+    "quote": "new checking account, just swapping banks",
+    "fact": {
+      "id": "noemi.s25.t01",
+      "subject": "noemi",
+      "attribute": "mentioned_s25_01",
+      "value": "Noemi is changing to a new checking account at a new bank",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s32",
+    "quote": "i have a practice test tonight",
+    "fact": {
+      "id": "noemi.s32.t01",
+      "subject": "noemi",
+      "attribute": "mentioned_s32_01",
+      "value": "Has a practice test tonight",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s32",
+    "quote": "printer is an hp inkjet, phones are androids",
+    "fact": {
+      "id": "noemi.s32.t02",
+      "subject": "noemi",
+      "attribute": "mentioned_s32_02",
+      "value": "Parents have an HP inkjet printer and Android phones",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s39",
+    "quote": "the account holder is my mom, shes sitting right here and can approve it",
+    "fact": {
+      "id": "noemi.s39.t01",
+      "subject": "noemi",
+      "attribute": "mentioned_s39_01",
+      "value": "Noemi's mom is the account holder and is present",
+      "valid_from": "2025-10-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s46",
+    "quote": "iris is off today",
+    "fact": {
+      "id": "noemi.s46.t01",
+      "subject": "iris",
+      "attribute": "mentioned_s46_01",
+      "value": "Iris is off today",
+      "valid_from": "2025-10-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s64",
+    "quote": "my new master passphrase as the example for how to memorize stuff. its 'copper-lantern-tide-ninety' lol",
+    "fact": {
+      "id": "noemi.s64.t01",
+      "subject": "noemi",
+      "attribute": "mentioned_s64_01",
+      "value": "Has a new master passphrase",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s66",
+    "quote": "she likes lists and being organized, kinda the planner of us",
+    "fact": {
+      "id": "noemi.s66.t01",
+      "subject": "iris",
+      "attribute": "mentioned_s66_01",
+      "value": "Iris is the planner of the couple",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s80",
+    "quote": "theme is lists. she loves lists.",
+    "fact": {
+      "id": "noemi.s80.t01",
+      "subject": "iris",
+      "attribute": "mentioned_s80_01",
+      "value": "Iris loves lists",
+      "valid_from": "2025-11-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s81",
+    "quote": "looking for a gift notebook or planner for my gf, she's big on lists",
+    "fact": {
+      "id": "noemi.s81.t01",
+      "subject": "iris",
+      "attribute": "mentioned_s81_01",
+      "value": "Noemi has a girlfriend who loves lists",
+      "valid_from": "2025-11-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s81",
+    "quote": "i have like 10 min before shift",
+    "fact": {
+      "id": "noemi.s81.t02",
+      "subject": "noemi",
+      "attribute": "mentioned_s81_02",
+      "value": "Noemi has a shift soon",
+      "valid_from": "2025-11-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "noemi.s85",
+    "quote": "i eat at work",
+    "fact": {
+      "id": "noemi.s85.t01",
+      "subject": "noemi",
+      "attribute": "mentioned_s85_01",
+      "value": "eats at work",
+      "valid_from": "2025-11-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s02",
+    "quote": "like $240 i think",
+    "fact": {
+      "id": "jun.s02.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s02_01",
+      "value": "Wrappers cost about $240",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s04",
+    "quote": "shift starts soon",
+    "fact": {
+      "id": "jun.s04.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s04_01",
+      "value": "Jun's shift starts soon",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s23",
+    "quote": "before my shift starts, opens at 6:15",
+    "fact": {
+      "id": "jun.s23.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s23_01",
+      "value": "Jun's shift opens at 6:15",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s27",
+    "quote": "the rent is $950 a month, due on the 1st.",
+    "fact": {
+      "id": "jun.s27.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s27_01",
+      "value": "signed a sublet lease for a room at $950 a month",
+      "valid_from": "2025-10-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s37",
+    "quote": "i need it alive for card taps at the market sunday",
+    "fact": {
+      "id": "jun.s37.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s37_01",
+      "value": "Jun has a market Sunday with card taps",
+      "valid_from": "2025-11-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s37",
+    "quote": "texts with paolo",
+    "fact": {
+      "id": "jun.s37.t02",
+      "subject": "jun",
+      "attribute": "mentioned_s37_02",
+      "value": "Jun texts with Paolo",
+      "valid_from": "2025-11-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s42",
+    "quote": "selling fried lumpia hot plus frozen bags for people to take home",
+    "fact": {
+      "id": "jun.s42.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s42_01",
+      "value": "Sells fried lumpia hot and frozen bags",
+      "valid_from": "2025-11-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "jun.s44",
+    "quote": "california. alcaraz flats, bay area ish.",
+    "fact": {
+      "id": "jun.s44.t01",
+      "subject": "jun",
+      "attribute": "mentioned_s44_01",
+      "value": "Jun lives in California, Alcaraz Flats",
+      "valid_from": "2025-11-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s03",
+    "quote": "he's 5 weeks old",
+    "fact": {
+      "id": "elliot.s03.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s03_01",
+      "value": "Theo is 5 weeks old",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s04",
+    "quote": "i'd rather not start a war",
+    "fact": {
+      "id": "elliot.s04.t01",
+      "subject": "elliot",
+      "attribute": "mentioned_s04_01",
+      "value": "Wants to avoid conflict with the property manager",
+      "valid_from": "2025-08-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s07",
+    "quote": "my son Theo is 6 weeks old",
+    "fact": {
+      "id": "elliot.s07.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s07_01",
+      "value": "Theo is 6 weeks old",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s07",
+    "quote": "we see the pediatrician tomorrow",
+    "fact": {
+      "id": "elliot.s07.t02",
+      "subject": "theo",
+      "attribute": "mentioned_s07_02",
+      "value": "Theo has a pediatrician visit tomorrow",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s07",
+    "quote": "wife is resting so it's on me today",
+    "fact": {
+      "id": "elliot.s07.t03",
+      "subject": "hana",
+      "attribute": "mentioned_s07_03",
+      "value": "Hana is resting so Elliot has the baby today",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s09",
+    "quote": "slideshow video of theo for hana's parents. they're about an hour away",
+    "fact": {
+      "id": "elliot.s09.t01",
+      "subject": "hana",
+      "attribute": "mentioned_s09_01",
+      "value": "Video is for Hana's parents who live an hour away",
+      "valid_from": "2025-09-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s10",
+    "quote": "last weigh in was 12 lb 3 oz at his 2 month",
+    "fact": {
+      "id": "elliot.s10.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s10_01",
+      "value": "Theo weighed 12 lb 3 oz at 2 month visit",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s18",
+    "quote": "he did 40 min though which i'm counting as a rally",
+    "fact": {
+      "id": "elliot.s18.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s18_01",
+      "value": "Theo's first crib nap lasted 40 minutes",
+      "valid_from": "2025-09-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s19",
+    "quote": "how long should wake windows be for a two month old?",
+    "fact": {
+      "id": "elliot.s19.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s19_01",
+      "value": "Elliot's baby is two months old",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s19",
+    "quote": "i want to try a 90 minute window this week",
+    "fact": {
+      "id": "elliot.s19.t02",
+      "subject": "theo",
+      "attribute": "mentioned_s19_02",
+      "value": "Elliot plans to test a 90 minute wake window this week",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s23",
+    "quote": "he's out cold in the carrier",
+    "fact": {
+      "id": "elliot.s23.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s23_01",
+      "value": "Theo sleeps in the carrier",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s23",
+    "quote": "a short funny note for my mom asking if she can host theo for a weekend overnight",
+    "fact": {
+      "id": "elliot.s23.t02",
+      "subject": "judith",
+      "attribute": "mentioned_s23_02",
+      "value": "Judith is Elliot's mom",
+      "valid_from": "2025-09-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s25",
+    "quote": "he's up around 6 after the 5 am bottle",
+    "fact": {
+      "id": "elliot.s25.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s25_01",
+      "value": "Theo wakes around 6 after the 5 am bottle",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s25",
+    "quote": "he's 2 months old",
+    "fact": {
+      "id": "elliot.s25.t02",
+      "subject": "theo",
+      "attribute": "mentioned_s25_02",
+      "value": "Theo is 2 months old",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s39",
+    "quote": "tue was 2 of 3 naps on target btw",
+    "fact": {
+      "id": "elliot.s39.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s39_01",
+      "value": "Tuesday had 2 of 3 naps on target",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s39",
+    "quote": "it's for hana and my mom",
+    "fact": {
+      "id": "elliot.s39.t02",
+      "subject": "judith",
+      "attribute": "mentioned_s39_02",
+      "value": "Sheet is for Hana and Elliot's mom",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s45",
+    "quote": "hana does bottles",
+    "fact": {
+      "id": "elliot.s45.t01",
+      "subject": "hana",
+      "attribute": "mentioned_s45_01",
+      "value": "Hana does bottles during the crying stretch",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s47",
+    "quote": "hana has a lot going on right now",
+    "fact": {
+      "id": "elliot.s47.t01",
+      "subject": "hana",
+      "attribute": "mentioned_s47_01",
+      "value": "Hana has a lot going on right now",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s48",
+    "quote": "i'm home with my baby son all day",
+    "fact": {
+      "id": "elliot.s48.t01",
+      "subject": "elliot",
+      "attribute": "mentioned_s48_01",
+      "value": "home with baby son all day",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s48",
+    "quote": "cooking for me and my wife, 2 adults",
+    "fact": {
+      "id": "elliot.s48.t02",
+      "subject": "elliot",
+      "attribute": "mentioned_s48_02",
+      "value": "cooks for himself and his wife, 2 adults",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s49",
+    "quote": "i have to file my FSA reimbursement form for the camera and the bottles",
+    "fact": {
+      "id": "elliot.s49.t01",
+      "subject": "elliot",
+      "attribute": "mentioned_s49_01",
+      "value": "Elliot is filing FSA reimbursement for camera and bottles",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s57",
+    "quote": "scoreboard: dad 1, brenda 0",
+    "fact": {
+      "id": "elliot.s57.t01",
+      "subject": "elliot",
+      "attribute": "mentioned_s57_01",
+      "value": "Elliot is a father/has a baby",
+      "valid_from": "2025-10-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s59",
+    "quote": "what's for hana's pumped milk",
+    "fact": {
+      "id": "elliot.s59.t01",
+      "subject": "hana",
+      "attribute": "mentioned_s59_01",
+      "value": "Hana has pumped milk",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s59",
+    "quote": "she's gone to bed by like 9",
+    "fact": {
+      "id": "elliot.s59.t02",
+      "subject": "judith",
+      "attribute": "mentioned_s59_02",
+      "value": "Judith goes to bed by 9",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s60",
+    "quote": "theo is 3.5 months",
+    "fact": {
+      "id": "elliot.s60.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s60_01",
+      "value": "Theo is 3.5 months old",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s63",
+    "quote": "she leaves the apartment around 7:20 for the train",
+    "fact": {
+      "id": "elliot.s63.t01",
+      "subject": "hana",
+      "attribute": "mentioned_s63_01",
+      "value": "Hana leaves around 7:20 for the train",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s65",
+    "quote": "his wake windows are about 90 min",
+    "fact": {
+      "id": "elliot.s65.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s65_01",
+      "value": "Theo's wake windows are about 90 minutes",
+      "valid_from": "2025-11-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s68",
+    "quote": "my mom keeps swaddling theo again at naps",
+    "fact": {
+      "id": "elliot.s68.t01",
+      "subject": "judith",
+      "attribute": "mentioned_s68_01",
+      "value": "Judith keeps swaddling Theo at naps",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s68",
+    "quote": "dr fong said we should stop swaddling now that he's showing rolling signs",
+    "fact": {
+      "id": "elliot.s68.t02",
+      "subject": "theo",
+      "attribute": "mentioned_s68_02",
+      "value": "Dr. Fong advised stopping swaddling",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s69",
+    "quote": "he's starting to try to roll",
+    "fact": {
+      "id": "elliot.s69.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s69_01",
+      "value": "Theo is starting to try to roll",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s69",
+    "quote": "my mom has been swaddling him for naps",
+    "fact": {
+      "id": "elliot.s69.t02",
+      "subject": "judith",
+      "attribute": "mentioned_s69_02",
+      "value": "Elliot's mom has been swaddling Theo for naps",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s74",
+    "quote": "i've got a 4 month old",
+    "fact": {
+      "id": "elliot.s74.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s74_01",
+      "value": "Theo is 4 months old",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s75",
+    "quote": "doing indoor stuff with a four month old",
+    "fact": {
+      "id": "elliot.s75.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s75_01",
+      "value": "Theo is four months old",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s77",
+    "quote": "what are typical wake windows and nap lengths for a 4 month old?",
+    "fact": {
+      "id": "elliot.s77.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s77_01",
+      "value": "Theo is 4 months old",
+      "valid_from": "2025-11-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s82",
+    "quote": "theo will be 4 months",
+    "fact": {
+      "id": "elliot.s82.t01",
+      "subject": "theo",
+      "attribute": "mentioned_s82_01",
+      "value": "Theo will be 4 months old",
+      "valid_from": "2025-11-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s82",
+    "quote": "it's tiny",
+    "fact": {
+      "id": "elliot.s82.t02",
+      "subject": "elliot",
+      "attribute": "mentioned_s82_02",
+      "value": "Elliot's kitchen is tiny",
+      "valid_from": "2025-11-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "elliot.s82",
+    "quote": "could be done at her condo",
+    "fact": {
+      "id": "elliot.s82.t03",
+      "subject": "judith",
+      "attribute": "mentioned_s82_03",
+      "value": "Judith has a condo",
+      "valid_from": "2025-11-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s09",
+    "quote": "deshawn needs picking up from school after practice",
+    "fact": {
+      "id": "rochelle.s09.t01",
+      "subject": "rochelle",
+      "attribute": "mentioned_s09_01",
+      "value": "DeShawn needs school pickup after practice",
+      "valid_from": "2025-09-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s09",
+    "quote": "practice is mon wed thurs till 5:30",
+    "fact": {
+      "id": "rochelle.s09.t02",
+      "subject": "rochelle",
+      "attribute": "mentioned_s09_02",
+      "value": "DeShawn has practice Mon/Wed/Thu until 5:30",
+      "valid_from": "2025-09-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s14",
+    "quote": "its to my sister",
+    "fact": {
+      "id": "rochelle.s14.t01",
+      "subject": "keisha",
+      "attribute": "mentioned_s14_01",
+      "value": "Keisha is her sister",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s18",
+    "quote": "anatomy MWF 9am and chem tue/thu 11",
+    "fact": {
+      "id": "rochelle.s18.t01",
+      "subject": "rochelle",
+      "attribute": "mentioned_s18_01",
+      "value": "Anatomy is MWF 9am",
+      "valid_from": "2025-09-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s19",
+    "quote": "i explained how a neuron signal works to my daughter the same way i did ATP, its the scanner battery",
+    "fact": {
+      "id": "rochelle.s19.t01",
+      "subject": "aaliyah",
+      "attribute": "mentioned_s19_01",
+      "value": "Explained ATP to daughter using the scanner battery",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s21",
+    "quote": "he gets home mid afternoon but is wiped",
+    "fact": {
+      "id": "rochelle.s21.t01",
+      "subject": "andre",
+      "attribute": "mentioned_s21_01",
+      "value": "Andre gets home mid afternoon but is wiped",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s21",
+    "quote": "im putting the household budget on a sheet with his overtime pay included",
+    "fact": {
+      "id": "rochelle.s21.t02",
+      "subject": "rochelle",
+      "attribute": "mentioned_s21_02",
+      "value": "Rochelle is putting the household budget with Andre's overtime pay on a sheet",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s29",
+    "quote": "pickups mon wed thurs 5:30",
+    "fact": {
+      "id": "rochelle.s29.t01",
+      "subject": "rochelle",
+      "attribute": "mentioned_s29_01",
+      "value": "DeShawn has pickups Mon, Wed, Thu at 5:30",
+      "valid_from": "2025-10-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s30",
+    "quote": "he doesnt have to take every overtime shift. its voluntary-ish at his job but he takes all of them",
+    "fact": {
+      "id": "rochelle.s30.t01",
+      "subject": "andre",
+      "attribute": "mentioned_s30_01",
+      "value": "Rochelle's husband takes every overtime shift",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s33",
+    "quote": "its for my share of the thanksgiving groceries with keisha",
+    "fact": {
+      "id": "rochelle.s33.t01",
+      "subject": "rochelle",
+      "attribute": "mentioned_s33_01",
+      "value": "Rochelle's share of Thanksgiving groceries is with Keisha",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s41",
+    "quote": "also wednesday lab practical is coming up so i need this solid",
+    "fact": {
+      "id": "rochelle.s41.t01",
+      "subject": "rochelle",
+      "attribute": "mentioned_s41_01",
+      "value": "Wednesday lab practical coming up",
+      "valid_from": "2025-11-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "rochelle.s42",
+    "quote": "i have a test in anatomy",
+    "fact": {
+      "id": "rochelle.s42.t01",
+      "subject": "rochelle",
+      "attribute": "mentioned_s42_01",
+      "value": "Has an anatomy test",
+      "valid_from": "2025-11-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "grace.s07",
+    "quote": "That moved my evenings free for my mother.",
+    "fact": {
+      "id": "grace.s07.t01",
+      "subject": "grace",
+      "attribute": "mentioned_s07_01",
+      "value": "Evenings freed for her mother",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "grace.s10",
+    "quote": "Isabel has an iPhone.",
+    "fact": {
+      "id": "grace.s10.t01",
+      "subject": "isabel",
+      "attribute": "mentioned_s10_01",
+      "value": "Isabel has an iPhone",
+      "valid_from": "2025-10-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  },
+  {
+    "source": "grace.s12",
+    "quote": "The $6,150 is both incomes.",
+    "fact": {
+      "id": "grace.s12.t01",
+      "subject": "grace",
+      "attribute": "mentioned_s12_01",
+      "value": "Take-home is $6,150 combining both incomes",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  }
+]

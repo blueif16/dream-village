@@ -1,0 +1,107 @@
+{
+  "session_id": "elliot.s42",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Bought a used 2019 small crossover from a Ruel Road dealer for $17,400",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i bought a used 2019 small crossover today from a dealer on Ruel Road, $17,400",
+      "support_quote": ""
+    },
+    {
+      "text": "Traded in old 2014 hatchback",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i traded in my old 2014 hatchback",
+      "support_quote": ""
+    },
+    {
+      "text": "Jogging stroller fit in the trunk on first try",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f43",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the jogging stroller fit in the trunk on the first try",
+      "support_quote": ""
+    },
+    {
+      "text": "Up for the 2 a.m. feed",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm up for the 2 a.m. feed",
+      "support_quote": ""
+    },
+    {
+      "text": "On 70% pay, trying to stay under $5,200 a month",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm on 70% pay right now and trying to stay under $5,200 a month",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot's budget ceiling is $5,200",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f55",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "compare it to your $5,200 ceiling",
+      "support_quote": "trying to stay under $5,200 a month"
+    },
+    {
+      "text": "Stroller fits on first try",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f43",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Stroller fits on the first try, so it's a solid win for dad.",
+      "support_quote": "the jogging stroller fit in the trunk on the first try"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f26",
+      "present": true,
+      "quote": "i bought a used 2019 small crossover today from a dealer on Ruel Road, $17,400"
+    },
+    {
+      "item_id": "elliot.f25",
+      "present": true,
+      "quote": "i traded in my old 2014 hatchback"
+    },
+    {
+      "item_id": "elliot.f43",
+      "present": true,
+      "quote": "the jogging stroller fit in the trunk on the first try"
+    },
+    {
+      "item_id": "elliot.f56",
+      "present": true,
+      "quote": "i'm up for the 2 a.m. feed and theo is mid-bottle on my left arm"
+    },
+    {
+      "item_id": "elliot.f55",
+      "present": true,
+      "quote": "i'm on 70% pay right now and trying to stay under $5,200 a month"
+    }
+  ],
+  "sensitive": []
+}

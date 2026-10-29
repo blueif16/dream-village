@@ -1,0 +1,47 @@
+{
+  "id": "isabel.s09",
+  "principal": "isabel",
+  "start": "2025-09-09T21:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok random question. does robotics captain look genuinely better to admissions than being a subteam lead. lucas was talking about it at lunch and now i cant stop thinking about it"
+    },
+    {
+      "role": "assistant",
+      "text": "Captain usually reads as a bigger signal, but admissions officers care more about what you did in the role than the title. A subteam lead who rebuilt a drivetrain and can describe the results can beat a captain with a vague story. What's your current role, and what did Lucas say?"
+    },
+    {
+      "role": "user",
+      "text": "im just on the mechanical subteam rn, not even lead. lucas is aiming for captain and applying to the same engineering schools as me. i was in room C7 at practice today on the drivetrain and kept thinking is that enough to stand out"
+    },
+    {
+      "role": "assistant",
+      "text": "Being a regular member of a subteam doesn't have to hurt you. It just means you need concrete things to point to. Hands-on work on a drivetrain is a good example: what did you design, fix or improve, and what changed because of it? Colleges also like seeing growth, so stepping up to subteam lead this year could be a strong move even if captain isn't realistic.\n\nOne question: which kind of engineering are you applying for? What programs want to see varies a little."
+    },
+    {
+      "role": "user",
+      "text": "environmental engineering. so i guess i need more than just showing up to practice. what is lucas gonna have that i wont if he gets captain"
+    },
+    {
+      "role": "assistant",
+      "text": "For environmental engineering, admissions readers will like to see technical depth plus some link to real-world problems. Lucas as captain would have a leadership title and probably management experience. You can match that without the title:\n\n- Ownership of a specific mechanical problem, like the drivetrain, with measurable results\n- Mentoring newer members\n- Documenting what you learned in a way the team can reuse\n- Connecting your engineering skills to environmental interests in your essay or activities list\n\nIf you want to compare roles, ask your coach what the path to subteam lead or captain looks like and what they'd want to see from you. Want help drafting that question?"
+    },
+    {
+      "role": "user",
+      "text": "yeah short version. i dont wanna sound desperate lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n\"Hi Coach, I'd like to take on more responsibility on the team this year. What would you want to see from someone moving into a subteam lead role? I'm working on the drivetrain right now and would love your feedback on where I can grow.\"\n\nThat reads as motivated, not desperate. Adjust the wording to sound like you."
+    },
+    {
+      "role": "user",
+      "text": "ok that works. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the drivetrain. Talk soon."
+    }
+  ]
+}

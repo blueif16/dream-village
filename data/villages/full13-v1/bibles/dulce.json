@@ -1,0 +1,1065 @@
+{
+  "principal": "dulce",
+  "summary": "Dulce Henríquez is a Flats High sophomore who lives with her mom Yesenia in Marisol Gardens unit 114 and just started taking orders at Taquería Colima on Calle Ortega, Fridays 4-9 and Sundays 10-4. She is proud of her first paychecks at $16.50 an hour and is saving for a used phone to replace her cracked hand-me-down, but she keeps spending on boba runs for friends. She sits in Ms. Tolentino's third-period chemistry with her lab partner Karina and is decent at the math parts but shaky on writing lab conclusions. When Brianna and Tyler break up on September 22, Brianna blames Dulce for leaking it to Karina, and the friend group splits, with Sienna on Brianna's side and both camps expecting Dulce to pick. Her cousin Rafael drives her home from late shifts, and she helps her family's pupusa stand when she can. Over the fall she wants to keep her job, pass chemistry, get the phone, and not end up eating lunch alone. What presses on her most is the feeling that everyone wants something from her at once.",
+  "facts": [
+    {
+      "id": "dulce.f01",
+      "subject": "dulce",
+      "attribute": "age",
+      "value": "15",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "dulce.f02",
+      "subject": "dulce",
+      "attribute": "school_program",
+      "value": "Flats High sophomore, general track",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f03",
+      "subject": "dulce",
+      "attribute": "class_schedule",
+      "value": "1st geometry, 2nd English 10, 3rd chemistry with Ms. Tolentino, 4th world history, 5th PE, 6th Spanish for heritage speakers",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f04",
+      "subject": "dulce",
+      "attribute": "job",
+      "value": "counter and order-taker at Taquería Colima",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f05",
+      "subject": "dulce",
+      "attribute": "hourly_wage",
+      "value": "$16.50 an hour",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f06",
+      "subject": "dulce",
+      "attribute": "payday",
+      "value": "paid every other Friday by check, cashes it at the market",
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-10-10",
+      "superseded_by": "dulce.f07",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f07",
+      "subject": "dulce",
+      "attribute": "payday",
+      "value": "every other Friday by direct deposit into a teen checking account her mom co-signed",
+      "valid_from": "2025-10-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f08",
+      "subject": "dulce",
+      "attribute": "bank_account_number",
+      "value": "teen checking account ending 4417, full number on a sticky note in her wallet",
+      "valid_from": "2025-10-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "dulce.f09",
+      "subject": "dulce",
+      "attribute": "phone",
+      "value": "cracked hand-me-down phone from her mom, battery dies by 2 p.m.",
+      "valid_from": null,
+      "valid_to": "2025-11-15",
+      "superseded_by": "dulce.f10",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f10",
+      "subject": "dulce",
+      "attribute": "phone",
+      "value": "used phone bought for $210 from the Plaza Marisol repair shop, mint green case",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f11",
+      "subject": "dulce",
+      "attribute": "phone_savings_goal",
+      "value": "saving $220 for a used phone",
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-11-15",
+      "superseded_by": "dulce.f12",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f12",
+      "subject": "dulce",
+      "attribute": "phone_savings_goal",
+      "value": "goal met; now saving toward a $60 portable charger and a winter jacket",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f13",
+      "subject": "dulce",
+      "attribute": "savings_balance",
+      "value": "about $95 saved toward the phone",
+      "valid_from": "2025-09-26",
+      "valid_to": "2025-10-24",
+      "superseded_by": "dulce.f14",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f14",
+      "subject": "dulce",
+      "attribute": "savings_balance",
+      "value": "about $170 after she stopped buying the group boba",
+      "valid_from": "2025-10-24",
+      "valid_to": "2025-11-15",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f15",
+      "subject": "dulce",
+      "attribute": "lunch_spot",
+      "value": "eats lunch at the planters by the B wing with Brianna, Karina, Sienna",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-23",
+      "superseded_by": "dulce.f16",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f16",
+      "subject": "dulce",
+      "attribute": "lunch_spot",
+      "value": "eats lunch in Ms. Tolentino's room B12 with Karina and Eli",
+      "valid_from": "2025-09-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f17",
+      "subject": "dulce",
+      "attribute": "group_chat",
+      "value": "in the group chat 'las 4 fantásticas' with Brianna, Karina, Sienna",
+      "valid_from": null,
+      "valid_to": "2025-09-24",
+      "superseded_by": "dulce.f18",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f18",
+      "subject": "dulce",
+      "attribute": "group_chat",
+      "value": "removed from 'las 4 fantásticas' by Brianna; now in a new chat 'lab rats' with Karina and Eli",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f19",
+      "subject": "dulce",
+      "attribute": "chemistry_grade",
+      "value": "B in chemistry at progress report",
+      "valid_from": "2025-09-26",
+      "valid_to": "2025-10-31",
+      "superseded_by": "dulce.f20",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f20",
+      "subject": "dulce",
+      "attribute": "chemistry_grade",
+      "value": "C+ after a weak stoichiometry test and missing lab writeups",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f21",
+      "subject": "dulce",
+      "attribute": "study_plan",
+      "value": "library homework center Tuesdays and Thursdays 3:30-5 to catch up on chem before semester midterms",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f22",
+      "subject": "dulce",
+      "attribute": "ride_home",
+      "value": "Rafael picks her up after Friday 9 p.m. close",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f23",
+      "subject": "dulce",
+      "attribute": "commute_to_school",
+      "value": "walks to Flats High on Vinca, about 12 minutes",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f24",
+      "subject": "dulce",
+      "attribute": "commute_to_work",
+      "value": "takes the 22 bus down Calle Ortega or gets dropped by her mom",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f25",
+      "subject": "dulce",
+      "attribute": "home",
+      "value": "shares Marisol Gardens unit 114 with her mom; has the small bedroom by the laundry wall",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f26",
+      "subject": "dulce",
+      "attribute": "household_chore",
+      "value": "Saturday laundry at the card-only laundry room",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f27",
+      "subject": "dulce",
+      "attribute": "boba_order",
+      "value": "taro slush with extra pearls, 50% sugar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f28",
+      "subject": "dulce",
+      "attribute": "favorite_taco",
+      "value": "al pastor with pineapple, no onion",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f29",
+      "subject": "dulce",
+      "attribute": "shift_meal",
+      "value": "gets one free plate per shift, usually a quesadilla",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f30",
+      "subject": "dulce",
+      "attribute": "stand_help",
+      "value": "helps at the family pupusa stand Thursday evenings, folding to-go boxes",
+      "valid_from": "2025-10-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f31",
+      "subject": "dulce",
+      "attribute": "extra_shift",
+      "value": "added Saturday 11-3 shift at Taquería Colima during the fall rush",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f32",
+      "subject": "dulce",
+      "attribute": "halloween_costume",
+      "value": "dressing as a chola Frida with Karina as matching",
+      "valid_from": "2025-10-20",
+      "valid_to": "2025-11-01",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f33",
+      "subject": "dulce",
+      "attribute": "music",
+      "value": "corridos tumbados and K-pop playlists, depending on mood",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f34",
+      "subject": "dulce",
+      "attribute": "hobby",
+      "value": "makes TikTok-style edit videos she never posts",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f35",
+      "subject": "dulce",
+      "attribute": "pe_unit",
+      "value": "volleyball unit in PE until October, then fitness testing",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f36",
+      "subject": "dulce",
+      "attribute": "crush",
+      "value": "has a crush on Eli Moreno from chem",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "dulce.f37",
+      "subject": "dulce",
+      "attribute": "debt_to_camila",
+      "value": "owes Camila $20 for covering a Sunday shift",
+      "valid_from": "2025-09-21",
+      "valid_to": "2025-10-10",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f38",
+      "subject": "dulce",
+      "attribute": "homecoming_plan",
+      "value": "going to the homecoming game with Karina and Eli, not the dance",
+      "valid_from": "2025-10-15",
+      "valid_to": "2025-10-25",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f39",
+      "subject": "dulce",
+      "attribute": "food_drive_volunteer",
+      "value": "signed up to bag groceries at Our Lady of the Marsh Nov 22, 8-11 a.m.",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f40",
+      "subject": "dulce",
+      "attribute": "spanish_class_project",
+      "value": "oral family history interview project, due Nov 14, interviewing Tía Gladys about the stand",
+      "valid_from": "2025-10-27",
+      "valid_to": "2025-11-15",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f41",
+      "subject": "dulce",
+      "attribute": "register_skill",
+      "value": "makes change in her head faster than the register; Efraín lets her count the drawer",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f42",
+      "subject": "dulce",
+      "attribute": "work_permit",
+      "value": "school-issued work permit limiting her to 18 hours on school weeks",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f43",
+      "subject": "dulce",
+      "attribute": "sleep",
+      "value": "usually asleep around 11:30 p.m., later on chat nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f44",
+      "subject": "dulce",
+      "attribute": "dislikes",
+      "value": "hates the smell of the onion bin and getting called 'mija' by customers her age",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f45",
+      "subject": "dulce",
+      "attribute": "opinion_of_hector",
+      "value": "thinks Héctor is a show-off who slows the line with his jokes",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "dulce.f46",
+      "subject": "yesenia",
+      "attribute": "work_schedule",
+      "value": "day shift 6:30 a.m.-3 p.m. Mon-Fri, some Saturdays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f47",
+      "subject": "yesenia",
+      "attribute": "car",
+      "value": "2011 silver Corolla with a squeaky belt",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f48",
+      "subject": "yesenia",
+      "attribute": "money_rule",
+      "value": "Dulce keeps her paycheck but must put $20 per check toward her phone bill",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f49",
+      "subject": "karina",
+      "attribute": "late_night_habit",
+      "value": "texts Dulce after midnight on Sunday nights asking if people are talking about her",
+      "valid_from": "2025-09-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f50",
+      "subject": "karina",
+      "attribute": "lunch_preference",
+      "value": "brings rice and egg leftovers, shares her hot Cheetos",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f51",
+      "subject": "brianna",
+      "attribute": "social_media_habit",
+      "value": "posts vague close-friends stories about 'fake friends' after fights",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f52",
+      "subject": "camila",
+      "attribute": "cover_price",
+      "value": "covers a shift for $20 or a ride to the mall",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f53",
+      "subject": "efrain",
+      "attribute": "pet_peeve",
+      "value": "hates when orders get written in pencil; wants tickets in pen",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f54",
+      "subject": "hector",
+      "attribute": "radio_station",
+      "value": "plays a ranchera AM station on a grease-stained radio",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f55",
+      "subject": "eli",
+      "attribute": "hobby",
+      "value": "plays bass in the school jazz band",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f56",
+      "subject": "sienna",
+      "attribute": "habit",
+      "value": "screenshots chats and sends them to Brianna",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f57",
+      "subject": "kyla",
+      "attribute": "perk",
+      "value": "slips Dulce's group extra pearls when Nadia isn't on shift",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.f58",
+      "subject": "dulce",
+      "attribute": "weekly_boba_spend",
+      "value": "spends about $25 a week buying boba for the group",
+      "valid_from": "2025-09-05",
+      "valid_to": "2025-10-24",
+      "superseded_by": "dulce.f59",
+      "class": "useful"
+    },
+    {
+      "id": "dulce.f59",
+      "subject": "dulce",
+      "attribute": "weekly_boba_spend",
+      "value": "caps herself at one $6 drink a week",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "dulce.i01",
+      "statement": "Says yes to whoever asks first and then scrambles to make everyone else okay with it.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i01.e1",
+          "date": "2025-09-21",
+          "description": "Asks for help writing a message to Efraín after agreeing to cover a shift for Camila and also to go to Brianna's birthday the same night."
+        },
+        {
+          "id": "dulce.i01.e2",
+          "date": "2025-09-25",
+          "description": "Drafts two separate texts, one to Brianna and one to Karina, each saying 'I'm not on anyone's side, I swear,' and asks which sounds less fake."
+        },
+        {
+          "id": "dulce.i01.e3",
+          "date": "2025-10-18",
+          "description": "Takes the extra Saturday shift because Efraín asked, then asks how to tell Tía Gladys she can't help at the stand that weekend."
+        },
+        {
+          "id": "dulce.i01.e4",
+          "date": "2025-11-10",
+          "description": "Signs up for the food drive after Karina mentions it, then asks how to fit it around her shift and the chem study sessions."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "dulce.i02",
+      "statement": "Buys her way into belonging, treating friends as a way to stay included, until she starts protecting her money in October.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i02.e1",
+          "date": "2025-09-05",
+          "description": "Asks for help splitting a $31 boba receipt, then decides she'll just pay it all 'so it's not weird.'"
+        },
+        {
+          "id": "dulce.i02.e2",
+          "date": "2025-09-26",
+          "description": "Asks why her phone fund is only $95 after four paychecks and lists mostly drinks and snacks."
+        },
+        {
+          "id": "dulce.i02.e3",
+          "date": "2025-10-24",
+          "description": "Asks for a polite way to say 'I'm saving' when the new lunch crew wants Cloud Nine after the game."
+        },
+        {
+          "id": "dulce.i02.e4",
+          "date": "2025-11-15",
+          "description": "Asks for a checklist for buying a used phone and brags she paid for it 'all by myself, no boba.'"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-24",
+      "changed_to": "Still generous, but sets a weekly limit and says no to group treats without apologizing much.",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "dulce.i03",
+      "statement": "Freezes on writing-heavy schoolwork while doing numbers instantly.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i03.e1",
+          "date": "2025-09-17",
+          "description": "Gets the molar mass math right in seconds but asks the assistant to 'just tell me what a conclusion is supposed to say' for the lab."
+        },
+        {
+          "id": "dulce.i03.e2",
+          "date": "2025-09-19",
+          "description": "Mentions Efraín let her count the drawer because she was faster than the register."
+        },
+        {
+          "id": "dulce.i03.e3",
+          "date": "2025-10-30",
+          "description": "Pastes a half-page lab writeup with three sentences, asking if it is 'enough' the night before it's due."
+        },
+        {
+          "id": "dulce.i03.e4",
+          "date": "2025-11-12",
+          "description": "Records her family-history interview fine but asks for help turning notes into paragraphs two days before the deadline."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "dulce.i04",
+      "statement": "Reads silence or a missed reply as proof she's being left out.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i04.e1",
+          "date": "2025-09-24",
+          "description": "Asks what it means when you get removed from a group chat 'by accident' and whether she should ask to be added back."
+        },
+        {
+          "id": "dulce.i04.e2",
+          "date": "2025-10-06",
+          "description": "Asks if a 'seen' with no reply from Karina for two hours means she's mad."
+        },
+        {
+          "id": "dulce.i04.e3",
+          "date": "2025-10-20",
+          "description": "Wants help decoding a Brianna close-friends story she thinks is about her because it says 'snakes.'"
+        },
+        {
+          "id": "dulce.i04.e4",
+          "date": "2025-11-04",
+          "description": "Worries Eli didn't sit with them at lunch and asks if she said something weird the day before."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "dulce.i05",
+      "statement": "Uses jokes and memes to back out of a conversation the moment it gets serious.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i05.e1",
+          "date": "2025-09-22",
+          "description": "After explaining the breakup blame, follows with 'anyway lol give me a funny caption for a taco pic.'"
+        },
+        {
+          "id": "dulce.i05.e2",
+          "date": "2025-10-02",
+          "description": "Admits a crush, then immediately types 'jk jk ok help me with geometry.'"
+        },
+        {
+          "id": "dulce.i05.e3",
+          "date": "2025-10-31",
+          "description": "Mentions her chem grade dropped, then asks for Halloween puns instead."
+        },
+        {
+          "id": "dulce.i05.e4",
+          "date": "2025-11-06",
+          "description": "Asks for help telling her mom about the C+ but writes 'just make it sound like it's not a big deal haha.'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "dulce.i06",
+      "statement": "Is lazy about her job and looks for ways to get out of shifts.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i06.e1",
+          "date": "2025-09-21",
+          "description": "Pays Camila $20 to cover a Sunday shift so she can go to Brianna's party."
+        },
+        {
+          "id": "dulce.i06.e2",
+          "date": "2025-09-19",
+          "description": "Proudly reports she counted the drawer to the penny on her own."
+        },
+        {
+          "id": "dulce.i06.e3",
+          "date": "2025-10-18",
+          "description": "Accepts an extra Saturday shift during the rush without being asked twice."
+        },
+        {
+          "id": "dulce.i06.e4",
+          "date": "2025-11-14",
+          "description": "Asks how to learn the Spanish names for every menu item so she stops slowing down tickets."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "dulce.i07",
+      "statement": "Looks to her family's approval as her steadiest ground, especially Rafael's.",
+      "about": "dulce",
+      "evidence": [
+        {
+          "id": "dulce.i07.e1",
+          "date": "2025-08-29",
+          "description": "Wants a thank-you text for her cousin after his first late pickup, worrying it sounds 'cringe.'"
+        },
+        {
+          "id": "dulce.i07.e2",
+          "date": "2025-10-09",
+          "description": "Asks for tips folding to-go boxes faster so Tía Gladys doesn't have to redo them."
+        },
+        {
+          "id": "dulce.i07.e3",
+          "date": "2025-11-08",
+          "description": "Asks how to phrase interview questions for Tía Gladys so she feels proud of the stand."
+        },
+        {
+          "id": "dulce.i07.e4",
+          "date": "2025-11-15",
+          "description": "Wants to send her mom a photo of the new phone with a message saying she paid it herself."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "dulce.r01",
+      "term": "las 4",
+      "meaning": "Her old friend group and its group chat: Brianna, Karina, Sienna and her",
+      "first_use": "2025-09-05"
+    },
+    {
+      "id": "dulce.r02",
+      "term": "the drawer",
+      "meaning": "Counting the Taquería Colima cash drawer at close, a job Efraín trusts her with",
+      "first_use": "2025-09-19"
+    },
+    {
+      "id": "dulce.r03",
+      "term": "the phone fund",
+      "meaning": "Her savings toward a used phone",
+      "first_use": "2025-08-29"
+    },
+    {
+      "id": "dulce.r04",
+      "term": "B12 lunch",
+      "meaning": "Eating lunch in Ms. Tolentino's lab room with Karina and Eli after the split",
+      "first_use": "2025-09-23"
+    },
+    {
+      "id": "dulce.r05",
+      "term": "the snake story",
+      "meaning": "Brianna's vague close-friends post Dulce believes is about her",
+      "first_use": "2025-10-20"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "dulce.a01",
+      "title": "First job, first money",
+      "summary": "Dulce starts at Taquería Colima, learns the counter, burns cash on boba, then learns to save and buys her own phone.",
+      "beats": [
+        {
+          "date": "2025-08-27",
+          "what": "Gets school work permit.",
+          "facts": [
+            "dulce.f42"
+          ]
+        },
+        {
+          "date": "2025-08-29",
+          "what": "First shift; starts the phone fund.",
+          "facts": [
+            "dulce.f04",
+            "dulce.f05",
+            "dulce.f06",
+            "dulce.f11",
+            "dulce.f22",
+            "dulce.f29"
+          ]
+        },
+        {
+          "date": "2025-09-12",
+          "what": "Mom sets $20-per-check phone bill rule.",
+          "facts": [
+            "dulce.f48"
+          ]
+        },
+        {
+          "date": "2025-09-19",
+          "what": "Trusted to count the drawer.",
+          "facts": [
+            "dulce.f41"
+          ]
+        },
+        {
+          "date": "2025-09-26",
+          "what": "Realizes only $95 saved.",
+          "facts": [
+            "dulce.f13",
+            "dulce.f58"
+          ]
+        },
+        {
+          "date": "2025-10-10",
+          "what": "Switches to direct deposit; pays Camila back.",
+          "facts": [
+            "dulce.f06",
+            "dulce.f07",
+            "dulce.f08",
+            "dulce.f37"
+          ]
+        },
+        {
+          "date": "2025-10-18",
+          "what": "Takes extra Saturday shift.",
+          "facts": [
+            "dulce.f31"
+          ]
+        },
+        {
+          "date": "2025-10-24",
+          "what": "Caps boba spending; savings jump.",
+          "facts": [
+            "dulce.f14",
+            "dulce.f58",
+            "dulce.f59"
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "what": "Buys a used phone.",
+          "facts": [
+            "dulce.f09",
+            "dulce.f10",
+            "dulce.f11",
+            "dulce.f12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dulce.a02",
+      "title": "The split",
+      "summary": "Brianna's breakup blows up the friend group; Dulce gets pushed out and builds a new circle with Karina and Eli.",
+      "beats": [
+        {
+          "date": "2025-09-21",
+          "what": "Pays Camila to cover a shift for Brianna's party.",
+          "facts": [
+            "dulce.f37",
+            "dulce.f52"
+          ]
+        },
+        {
+          "date": "2025-09-22",
+          "what": "Breakup; Brianna blames Dulce.",
+          "facts": [
+            "dulce.f51",
+            "dulce.f56"
+          ]
+        },
+        {
+          "date": "2025-09-23",
+          "what": "Moves lunch to B12.",
+          "facts": [
+            "dulce.f15",
+            "dulce.f16"
+          ]
+        },
+        {
+          "date": "2025-09-24",
+          "what": "Removed from las 4 chat.",
+          "facts": [
+            "dulce.f17",
+            "dulce.f18"
+          ]
+        },
+        {
+          "date": "2025-10-02",
+          "what": "Notices a crush on Eli.",
+          "facts": [
+            "dulce.f36"
+          ]
+        },
+        {
+          "date": "2025-10-24",
+          "what": "Homecoming game with new crew.",
+          "facts": [
+            "dulce.f38"
+          ]
+        },
+        {
+          "date": "2025-11-22",
+          "what": "Volunteers at food drive with Karina.",
+          "facts": [
+            "dulce.f39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dulce.a03",
+      "title": "Chemistry slide",
+      "summary": "Shifts and drama eat study time; her chem grade slips and she sets up a catch-up plan before midterms.",
+      "beats": [
+        {
+          "date": "2025-09-26",
+          "what": "B at progress report.",
+          "facts": [
+            "dulce.f19"
+          ]
+        },
+        {
+          "date": "2025-10-31",
+          "what": "Drops to C+.",
+          "facts": [
+            "dulce.f19",
+            "dulce.f20"
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "what": "Starts library study sessions.",
+          "facts": [
+            "dulce.f21"
+          ]
+        },
+        {
+          "date": "2025-11-14",
+          "what": "Turns in Spanish family-history project.",
+          "facts": [
+            "dulce.f40"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "All lowercase, minimal punctuation, lots of 'lol', 'bruh', 'deadass', 'ngl', crying-laughing and skull emoji, sprinkles Spanish ('ay no', 'mija', 'qué oso'). Short bursts of 2-4 messages instead of one long one, typos like 'teh' and 'becuase'.",
+    "with_assistant": "Jumps in with little context, assumes the assistant knows who people are, pastes screenshots' text or drafts. Says 'pls' and 'ty' casually. Skims long answers and asks 'ok but shorter' or 'just tell me what to say'.",
+    "quirks": [
+      "Asks for two versions of a text, 'nice one and real one'",
+      "Ends serious messages with 'anyway lol'",
+      "Counts money out loud in messages to double-check",
+      "Calls the assistant 'bestie' when stressed"
+    ],
+    "sample_lines": [
+      "ok pls make this not sound desperate lol",
+      "whats a nice way to say no without them getting mad",
+      "bestie i have a lab conclusion due tmrw and i have 3 sentences 💀",
+      "can u make a quick budget if i make like 130 every 2 weeks",
+      "ok but shorter",
+      "is it weird to ask someone why they left u on seen ngl",
+      "give me a funny caption for a taco pic anyway lol",
+      "how do i say thank u to my cousin without it being cringe"
+    ]
+  },
+  "usage": {
+    "frequency": "weekly",
+    "active_hours": [
+      16,
+      21,
+      22,
+      23
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "noemi.s41",
+  "principal": "noemi",
+  "start": "2025-10-08T13:55:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. last night was a red-beep night and i need to figure out why so many handhelds dropped off wifi and froze at the same time. about 620 on site and the cage is full of frozen units again, like 30 of them. is there a common cause or is it just 30 separate problems lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Usually it's one shared cause, not 30 separate ones. With a few hundred handhelds on one network, the common culprits are:\n\n1. **Access point overload.** Each AP can only serve so many clients. When too many devices pile onto one AP, they time out, drop and retry, and the app freezes while waiting on the server.\n2. **Bad roaming.** Scanners in motion hang onto a far-away AP instead of switching to a closer one. That causes dropouts at the same spots, like dock doors or aisle ends.\n3. **DHCP lease exhaustion.** If the address pool is too small or lease times are long, new or reconnecting devices can't get an IP.\n4. **Channel interference or RF dead zones.** Metal racks, trucks at the doors and overlapping channels all hurt. Peak shift change makes it worse.\n5. **Server or session timeouts.** The wifi can be fine while the warehouse app or terminal-emulation session hangs under load.\n6. **Firmware or power-save settings.** Mixed firmware versions or aggressive battery-saving can make units fall asleep and not rejoin.\n\nQuick way to tell: check the frozen units in the cage. If they share a firmware version, a batch, or the same last-connected AP in the logs, that points to the cause. Also check timestamps against your AP client counts and DHCP pool usage for last night."
+    },
+    {
+      "role": "user",
+      "text": "ty. carla called my cell about dead units on the dock again so i know the timing was around shift change. tldr version of what to check first? pls"
+    },
+    {
+      "role": "assistant",
+      "text": "TLDR, in order:\n\n1. **AP client counts at shift change.** Look for any AP near its limit when the failures started.\n2. **DHCP pool usage.** Is the pool nearly full, or were there lots of lease failures?\n3. **Last-connected AP in the handheld logs.** Do the frozen units cluster on one or two APs, like the ones by the dock?\n4. **Firmware versions** on the frozen units versus the working ones.\n5. **App server logs** for session timeouts around the same time.\n\nIf 1-3 show a pattern, it's network capacity or roaming. If not, look at firmware and the app server.\n\nIf it helps, paste a few log lines and I can help read them."
+    }
+  ]
+}

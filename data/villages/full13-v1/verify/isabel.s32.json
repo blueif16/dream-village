@@ -1,0 +1,102 @@
+{
+  "session_id": "isabel.s32",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel's SAT is 1450",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "whats the percentile for a 1450 among people applying to engineering programs",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel scored 720 reading and 730 math",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "720 reading 730 math",
+      "support_quote": ""
+    },
+    {
+      "text": "Lucas applying early decision to top engineering school on Isabel's list",
+      "about": "lucas",
+      "kind": "fact",
+      "item_id": "isabel.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hes applying early decision to the top engineering school on my list",
+      "support_quote": ""
+    },
+    {
+      "text": "Lucas's score is a bit higher than Isabel's; she compares herself to him",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "lucas posted his in the group chat and its a bit higher than mine",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel wants just numbers, no pep talk",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "genuinely just the numbers, no advice or pep talk about not comparing myself to people",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel has 720 reading and 730 math",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With a 720 reading and 730 math, here's how that compares",
+      "support_quote": "720 reading 730 math"
+    },
+    {
+      "text": "Isabel's score is 1450",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "so 1450 sits just below that range",
+      "support_quote": "whats the percentile for a 1450 among people applying to engineering programs"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.i04",
+      "present": true,
+      "quote": "lucas posted his in the group chat and its a bit higher than mine"
+    },
+    {
+      "item_id": "isabel.f08",
+      "present": true,
+      "quote": "720 reading 730 math"
+    },
+    {
+      "item_id": "isabel.f55",
+      "present": true,
+      "quote": "hes applying early decision to the top engineering school on my list"
+    },
+    {
+      "item_id": "isabel.i07",
+      "present": true,
+      "quote": "genuinely just the numbers, no advice or pep talk about not comparing myself to people"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,122 @@
+{
+  "session_id": "noemi.s33",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "brings rice bowls to shift and gets Taquería Colima on Fridays",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i bring rice bowls to shift most days and get taqueria colima on fridays",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris keeps a shared household budget sheet",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris keeps a shared household budget sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris leaves at 8 and is home by 5",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she leaves at 8 and is home by 5",
+      "support_quote": ""
+    },
+    {
+      "text": "plays a game with her squad on Sunday nights",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "squad gets on sunday nights",
+      "support_quote": ""
+    },
+    {
+      "text": "went to the farmers market and bought peaches and bell peppers",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w5.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "went to the farmers market this morning and got a bunch of peaches and bell peppers",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris's budget sheet is something Noemi logs groceries in",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "easy to log as a single line in a budget sheet",
+      "support_quote": "iris keeps a shared household budget sheet"
+    },
+    {
+      "text": "Iris is home by 5 so dinners should be ready by 5",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f46",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "ready by 5",
+      "support_quote": "she leaves at 8 and is home by 5"
+    },
+    {
+      "text": "has a squad game tonight",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f18",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You'd be done and cleaned up well before your squad gets on.",
+      "support_quote": "squad gets on sunday nights"
+    },
+    {
+      "text": "brings lunch bowls Mon-Thu",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Portion: 4 lunch bowls Mon-Thu",
+      "support_quote": "i bring rice bowls to shift most days and get taqueria colima on fridays"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f25",
+      "present": true,
+      "quote": "i bring rice bowls to shift most days and get taqueria colima on fridays"
+    },
+    {
+      "item_id": "noemi.f45",
+      "present": true,
+      "quote": "iris keeps a shared household budget sheet so i wanna keep grocery cost low"
+    },
+    {
+      "item_id": "noemi.f46",
+      "present": true,
+      "quote": "she leaves at 8 and is home by 5"
+    },
+    {
+      "item_id": "noemi.f18",
+      "present": true,
+      "quote": "i wanna get all the prep done before my game tonight, squad gets on sunday nights"
+    }
+  ],
+  "sensitive": []
+}

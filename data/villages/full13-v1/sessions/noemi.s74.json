@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s74",
+  "principal": "noemi",
+  "start": "2025-11-11T10:45:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. practice exams jumped to 80% last night after subnetting drills, pass line is around 75. exam is dec 6. what should i drill next? weak spots are still subnetting and port numbers. also how are those usually tested. tldr pls, iris is home today (holiday) and i wanna be done before she wants lunch lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice jump, that's over the line. Here's the short version.\n\nHOW THEY'RE TESTED\n- Port numbers: mostly recall plus scenario. \"Which port does secure remote login use?\" or \"users can't send email, which ports do you check?\" Often paired with TCP vs UDP.\n- Subnetting: given an IP and mask (or CIDR), find network address, broadcast, usable host range, or number of hosts. Harder versions ask you to pick the right mask for X hosts, or spot two devices that aren't on the same subnet.\n\nORDER TO STUDY\n1. Port numbers first (fast win): 20/21 FTP, 22 SSH, 23 Telnet, 25 SMTP, 53 DNS, 67/68 DHCP, 80 HTTP, 110 POP3, 143 IMAP, 443 HTTPS, 3389 RDP. Flashcards, then scenario questions.\n2. Subnetting basics refresh: powers of 2 and the block-size trick (256 minus the mask octet).\n3. Harder subnetting: /25 to /30 ranges, VLSM (different sized subnets from one block), \"which subnet does this host belong to\" questions.\n4. Mixed timed sets so you practice switching between topics.\n\nWant me to make some hard problems?"
+    },
+    {
+      "role": "user",
+      "text": "yes but first how do i line this up with what i have. i got a practice test app and a secondhand study guide with tabbed chapters. app just gives me a score by topic"
+    },
+    {
+      "role": "assistant",
+      "text": "Easy way is to treat the tabs as your map and the app as your checker.\n\n1. Pick the tabs that cover ports/protocols and addressing/subnetting. Skim only those chapters.\n2. In the app, filter by those topics if it allows it. If not, run full tests and note which questions you miss.\n3. For every miss, write the question number plus the topic and the guide tab. Something like \"Q14 / SSH vs Telnet / tab 3\". Then reread just that section.\n4. Once a week, run a full timed test and see whether the topic scores for those two areas rise.\n\nSuggested week: ports and the weak tabs early, harder subnetting mid-week, a full mixed test at the end.\n\nIf you have a window to study before you're busy later, 45 to 60 minutes is enough for step 1 and a first set of problems."
+    },
+    {
+      "role": "user",
+      "text": "i only have the gap before i train bao at 3. so like 1 to 2:30 maybe. then swing starts after that. can you do a 90 min block"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's a 90 minute block:\n\n0:00-0:20 Ports. Flashcard the list above, then say aloud what each protocol does and whether it uses TCP or UDP.\n0:20-0:30 Scenario questions in the app on ports only. Log misses.\n0:30-0:40 Subnetting warmup: powers of 2 and block sizes, written from memory.\n0:40-1:10 Hard subnetting set (below). No peeking at answers until all are done.\n1:10-1:20 Check answers, mark what you got wrong and which tab covers it.\n1:20-1:30 Reread those tab sections and write one-line rules.\n\nHard set:\n1. Find the network and broadcast address for 172.16.45.200/27.\n2. How many usable hosts are in a /26?\n3. A host is 10.1.1.130/25. What are the range and broadcast?\n4. You need 50 hosts per subnet from 192.168.10.0/24. What mask, and how many subnets?\n5. Are 192.168.5.70/26 and 192.168.5.130/26 on the same subnet?\n6. Split 192.168.1.0/24 into one subnet for 100 hosts and one for 50 hosts (VLSM).\n\nTell me when you want the answers."
+    }
+  ]
+}

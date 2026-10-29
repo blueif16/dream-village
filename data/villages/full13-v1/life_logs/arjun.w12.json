@@ -1,0 +1,336 @@
+{
+  "principal": "arjun",
+  "week": 12,
+  "entries": [
+    {
+      "id": "arjun.w12.l01",
+      "date": "2025-11-10",
+      "what": "Rode the 6:48 Tule Line from Flats Junction with a large masala chai from Anh's cart, then sat through his MWF 9-12 classes at Bayshore State.",
+      "with": [
+        "anh"
+      ],
+      "outcome": "Got to class on time and took notes on the ops project.",
+      "feeling": "focused but sleepy",
+      "facts": [
+        "arjun.f04",
+        "arjun.f27",
+        "arjun.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l02",
+      "date": "2025-11-10",
+      "what": "Worked his front desk shift at the Bayshore career center, then spent the evening on the spreadsheet of 40 active targets.",
+      "with": [],
+      "outcome": "Updated the tracker and sent one alum message.",
+      "feeling": "steady",
+      "facts": [
+        "arjun.f07",
+        "arjun.f10",
+        "arjun.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l03",
+      "date": "2025-11-10",
+      "what": "Stayed up past 1 a.m. tweaking resume v19 bullets at the apartment while Marcus was at Ridgeline.",
+      "with": [
+        "marcus"
+      ],
+      "outcome": "Resume bullets tightened, bed after 2 a.m.",
+      "feeling": "wired",
+      "facts": [
+        "arjun.f38",
+        "arjun.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l04",
+      "date": "2025-11-11",
+      "what": "Veterans Day: no classes. Slept in a bit, then did a Harrowgate company research dive at the kitchen table.",
+      "with": [],
+      "outcome": "Filled a page of notes on Harrowgate's distribution network.",
+      "feeling": "productive",
+      "facts": [
+        "arjun.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l05",
+      "date": "2025-11-11",
+      "what": "Walked to Ruiz Family Market for groceries and made a quiet lunch at home while Marcus slept off his night shift.",
+      "with": [
+        "marcus"
+      ],
+      "outcome": "Stocked up for the week and kept the apartment quiet.",
+      "feeling": "calm",
+      "facts": [
+        "arjun.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l06",
+      "date": "2025-11-11",
+      "what": "Worked on the ops management group project modeling Ridgeline-style tote flow in the evening.",
+      "with": [],
+      "outcome": "Finished the flow diagram draft.",
+      "feeling": "absorbed",
+      "facts": [
+        "arjun.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l07",
+      "date": "2025-11-12",
+      "what": "Morning classes at Bayshore after the 6:48 train, with Harrowgate's second-round video interview six days away.",
+      "with": [],
+      "outcome": "Got through class distracted by interview nerves.",
+      "feeling": "nervous",
+      "facts": [
+        "arjun.f14",
+        "arjun.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l08",
+      "date": "2025-11-12",
+      "what": "Late in the evening asked the assistant to play the Harrowgate interviewer and type follow-up questions to his answers, finally practicing instead of rewriting.",
+      "with": [],
+      "outcome": "Worked through several question rounds and noted weak spots on 'tell me about yourself'.",
+      "feeling": "uneasy but determined",
+      "facts": [
+        "arjun.f14",
+        "arjun.f17"
+      ],
+      "impressions": [
+        "arjun.i01"
+      ]
+    },
+    {
+      "id": "arjun.w12.l09",
+      "date": "2025-11-12",
+      "what": "Ate a rajma-and-rice container and checked case team messages before bed.",
+      "with": [],
+      "outcome": "Went to bed around 1:30 a.m.",
+      "feeling": "tired",
+      "facts": [
+        "arjun.f29",
+        "arjun.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l10",
+      "date": "2025-11-13",
+      "what": "First fall storm: rain soaked the walk to Flats Junction and the train ran slow, so he got to Bayshore late for Dr. Ashby's 10:30 operations management class.",
+      "with": [
+        "stephen"
+      ],
+      "outcome": "Slipped into the back row and missed the first few minutes.",
+      "feeling": "damp and annoyed",
+      "facts": [
+        "arjun.f02",
+        "arjun.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l11",
+      "date": "2025-11-13",
+      "what": "Went to Ashby's Thursday office hours at 2 p.m. to ask about the project, then worked a campus desk shift.",
+      "with": [
+        "stephen"
+      ],
+      "outcome": "Got a quick answer on the model assumptions.",
+      "feeling": "relieved",
+      "facts": [
+        "arjun.f56",
+        "arjun.f07"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l12",
+      "date": "2025-11-13",
+      "what": "Did laundry at the card-only room at Marisol Gardens on Thursday night while the rain kept going.",
+      "with": [],
+      "outcome": "Clean clothes and a second mock Q&A in his head.",
+      "feeling": "domestic",
+      "facts": [
+        "arjun.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l13",
+      "date": "2025-11-14",
+      "what": "Second storm day: the Tule Line was delayed and he stood on the platform, texting that the Tule Line was choosing violence as he rescheduled a call.",
+      "with": [],
+      "outcome": "Moved the call to the afternoon and got to campus late.",
+      "feeling": "wry, irritated",
+      "facts": [
+        "arjun.f04"
+      ],
+      "impressions": [
+        "arjun.i04"
+      ]
+    },
+    {
+      "id": "arjun.w12.l14",
+      "date": "2025-11-14",
+      "what": "Attended class and finished a front desk shift, then met up with the case team to wrap up loose ends.",
+      "with": [],
+      "outcome": "Case team agreed on next steps for the project.",
+      "feeling": "busy",
+      "facts": [
+        "arjun.f07",
+        "arjun.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l15",
+      "date": "2025-11-14",
+      "what": "Evening at home reviewing Harrowgate notes while the rain kept hitting the window; Marcus left for his Ridgeline shift.",
+      "with": [
+        "marcus"
+      ],
+      "outcome": "Notes organized into a one-page cheat sheet.",
+      "feeling": "focused",
+      "facts": [
+        "arjun.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l16",
+      "date": "2025-11-15",
+      "what": "Planned his Saturday run on the Ulloa boardwalk but the storm had flooded it, so he switched to the Delgado Park loop instead.",
+      "with": [],
+      "outcome": "Ran about four miles at Delgado Park and decided to keep that route.",
+      "feeling": "adaptable",
+      "facts": [
+        "arjun.f35",
+        "arjun.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l17",
+      "date": "2025-11-15",
+      "what": "Spent the afternoon on the ops project and meal-prepped ahead for the week.",
+      "with": [],
+      "outcome": "Project section done.",
+      "feeling": "productive",
+      "facts": [
+        "arjun.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l18",
+      "date": "2025-11-15",
+      "what": "Evening at the apartment with Marcus before his shift, splitting snacks and talking about work.",
+      "with": [
+        "marcus"
+      ],
+      "outcome": "Easy night, no advice lectures.",
+      "feeling": "relaxed",
+      "facts": [
+        "arjun.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l19",
+      "date": "2025-11-16",
+      "what": "Sunday dinner at his parents' Pell Road house, then home with a tub of dal from his mom.",
+      "with": [
+        "manpreet"
+      ],
+      "outcome": "Got the usual internship questions and a full tub of dal.",
+      "feeling": "warm, slightly pressured",
+      "facts": [
+        "arjun.f41",
+        "arjun.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l20",
+      "date": "2025-11-16",
+      "what": "Sunday call with his mother's check-in about Harrowgate and meal-prepped rajma and rice for the week.",
+      "with": [
+        "manpreet"
+      ],
+      "outcome": "Reassured her he was prepared for Tuesday's interview.",
+      "feeling": "nervous but supported",
+      "facts": [
+        "arjun.f36",
+        "arjun.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "arjun.w12.l21",
+      "date": "2025-11-16",
+      "what": "Rehearsed his Harrowgate answers and went to bed after midnight.",
+      "with": [],
+      "outcome": "Felt a little more ready.",
+      "feeling": "anxious but ready",
+      "facts": [
+        "arjun.f14"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "arjun.w12.n01",
+      "subject": "arjun",
+      "attribute": "rain_gear",
+      "value": "bought a $12 compact umbrella at Ruiz Family Market after the storm soaked him",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.w12.n02",
+      "subject": "arjun",
+      "attribute": "interview_cheat_sheet",
+      "value": "one-page Harrowgate notes sheet",
+      "valid_from": "2025-11-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "arjun.w12.n03",
+      "subject": "arjun",
+      "attribute": "run_distance",
+      "value": "Delgado Park loop runs about four miles",
+      "valid_from": "2025-11-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "arjun.w12.n04",
+      "subject": "arjun",
+      "attribute": "veterans_day_plan",
+      "value": "used the holiday for Harrowgate research",
+      "valid_from": "2025-11-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

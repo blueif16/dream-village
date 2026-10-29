@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s59",
+  "principal": "arjun",
+  "start": "2025-10-26T07:49:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "morning. need to plan my sunday pls. i need time for th rajma and rice prep, four containers. also case team slides (my section) and i promised my sister i'd help sort her wedding vendor spreadsheet by price"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few questions so the plan fits: what time do you want to be done, any fixed commitments today, and roughly how long does each task take you?"
+    },
+    {
+      "role": "user",
+      "text": "sunday call from my mom is this evening so i wanna be done by then. also gonna head to my parents place on pell road for dinner and grab dal after. prep is like 2 hrs mostly waiting on th rajma. slides maybe 3 hrs. spreadsheet 1 hr tops. oh and i can also take over her venue comparison tab if she wants, she's behind on everything"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan, starting around 8:00:\n\n| Time | Task |\n|---|---|\n| 8:00-8:20 | Soak/start the rajma (pressure cook or simmer) |\n| 8:20-10:30 | Slides, block 1: your section's core content while the rajma cooks |\n| 10:30-11:00 | Rice, portion into the four containers, cool, and lid |\n| 11:00-12:00 | Sister's vendor spreadsheet: sort by price, flag the ones missing quotes |\n| 12:00-12:45 | Lunch and a real break |\n| 12:45-2:15 | Slides, block 2: visuals, polish, and a read-through |\n| 2:15-3:00 | Venue comparison tab, if she says yes. Message her first so you don't redo anything |\n| 3:00-4:30 | Buffer, which is your slack for slides or the spreadsheet |\n| ~5:00 | Head to your parents' place for dinner, pick up the dal |\n| Evening | Your mom's call |\n\nTips:\n- Use the rajma's cook time for the slides so the prep doesn't cost you extra hours.\n- Take the extra tab only after the slides are done. If the day runs long, offer it for tomorrow instead.\n\nWant a short message to send your sister about the venue tab?"
+    },
+    {
+      "role": "user",
+      "text": "yeah pls. and thx, tldr th call is gonna be fine, i can mention harrowgate then"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short message:\n\n\"Hey! Finishing the vendor sheet sorted by price today. I can also take your venue comparison tab this week if you want. Just send me whatever you have so far and I'll build it out. 🙂\"\n\nAnd yes, the call is a good spot to share the Harrowgate news. A couple of lines is enough: where you are in the process and what comes next. Good luck with the day!"
+    }
+  ]
+}

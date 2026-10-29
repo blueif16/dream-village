@@ -1,0 +1,88 @@
+{
+  "impression_id": "isabel.i01",
+  "evidence_sessions": [
+    "isabel.s13",
+    "isabel.s23",
+    "isabel.s29",
+    "isabel.s39",
+    "isabel.s40"
+  ],
+  "inferred": [
+    {
+      "statement": "Isabel repeatedly asks for 'one more pass' or a re-check on work that is already good (essay intro, typo check for the third time, flyer finality), seeking reassurance more than real improvement.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s13",
+        "isabel.s29",
+        "isabel.s39",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She asks to be told things bluntly ('be brutal', 'be so for real') and responds well to straight verdicts, often settling once told plainly that something is done or that the original was better.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s13",
+        "isabel.s23",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She tends to undersell her own work, wanting to add 'it's still rough' or 'I know it's not perfect' to messages and joking about 'draft hell', even though her work is strong.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s13",
+        "isabel.s29",
+        "isabel.s39"
+      ]
+    },
+    {
+      "statement": "She procrastinates and works late on deadlines, doing tasks at the last minute (recoloring a spreadsheet instead of writing questions, emailing near 1am, flyer the night before the event).",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s23",
+        "isabel.s29",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She is conscientious and considerate toward the adults who help her, asking for short, respectful thank-you emails that account for their time and constraints (Mr. Kim's 480 students, Ms. Lugo's Friday reading).",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s23",
+        "isabel.s29"
+      ]
+    },
+    {
+      "statement": "She is deeply committed to the local marsh and egret count and has built her essay, summer application, and community event around it, despite saying she hates her town.",
+      "strength": "strong",
+      "sessions": [
+        "isabel.s13",
+        "isabel.s39",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She is busy with family responsibilities and limited resources: she uses her dad's old desktop, helps care for her grandmother while her dad works shifts, and handles college planning largely on her own with some support from friends and teachers.",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s13",
+        "isabel.s39",
+        "isabel.s40"
+      ]
+    },
+    {
+      "statement": "She keeps conversations brief and transactional, ending with a quick 'ok bye' and often delaying outside feedback (not sending her essay yet, 'maybe later').",
+      "strength": "moderate",
+      "sessions": [
+        "isabel.s13",
+        "isabel.s23",
+        "isabel.s29",
+        "isabel.s40"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Isabel repeatedly asks for 'one more pass' or a re-check on work that is already good (essay intro, typo check for the third time, flyer finality), seeking reassurance more than real improvement.",
+  "rationale": "The first statement, rated strong, describes Isabel repeatedly asking for one more pass or re-check on already-good work, seeking reassurance instead of finalizing. This matches the intended trait of polishing endlessly instead of submitting on things she cares about."
+}

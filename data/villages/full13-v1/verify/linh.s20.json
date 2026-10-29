@@ -1,0 +1,107 @@
+{
+  "session_id": "linh.s20",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Linh has to do the pharmacy talk with her mom this week",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i finally have to do the pharmacy talk with my mom this week",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh wants Linh to be a pharmacist",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "cast.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she wants me to be a pharmacist. like really wants it.",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has been putting off the talk",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "ive been putting it off for a while now",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh lives at the Pell Road house in the small front bedroom",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i live there, small front bedroom lol.",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh cooks at 8 and leaves a plate on closing nights",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "linh.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she cooks at 8 and leaves me a plate on closing nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh avoids the disagreement by asking to change the subject",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u give me ways to change the subject at dinner instead.",
+      "support_quote": ""
+    },
+    {
+      "text": "Dinner is the natural time since it's when they overlap",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f51",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That makes dinner the natural moment.",
+      "support_quote": "she cooks at 8 and leaves me a plate on closing nights so dinner is basically the only time we overlap"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "can u give me ways to change the subject at dinner instead. like if it starts to come up. something graceful"
+    },
+    {
+      "item_id": "linh.r04",
+      "present": true,
+      "quote": "i finally have to do the pharmacy talk with my mom this week"
+    },
+    {
+      "item_id": "linh.f07",
+      "present": true,
+      "quote": "at home, pell road. i live there, small front bedroom lol."
+    },
+    {
+      "item_id": "linh.f51",
+      "present": true,
+      "quote": "she cooks at 8 and leaves me a plate on closing nights so dinner is basically the only time we overlap"
+    },
+    {
+      "item_id": "cast.f31",
+      "present": true,
+      "quote": "she wants me to be a pharmacist. like really wants it."
+    }
+  ],
+  "sensitive": []
+}

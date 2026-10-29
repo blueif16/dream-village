@@ -1,0 +1,142 @@
+################################################################################
+# Configuration File Template for Memora Application                          #
+#                                                                              #
+################################################################################
+
+# Hydra configuration - keep working directory as the launch directory
+hydra:
+  run:
+    dir: .
+  output_subdir: null
+
+# General configuration
+general:
+  # Path to the main repository directory
+  # Replace with the path to your local Memora project
+  project_path: ./
+
+  # Logging level: DEBUG, INFO, WARNING, ERROR, CRITICAL
+  log_level: "INFO"
+
+  # Data path
+  data_path: ${general.project_path}/data
+
+  # Path to saved model outputs
+  output_path: ${general.project_path}/outputs
+
+  # Path to results
+  results_path: ${general.project_path}/results
+
+  # memory store path
+  memory_store_path: ${general.project_path}/memory_store
+
+  # Path to log
+  logs_path: ${general.output_path}/logs
+
+  # Path to cache directory
+  cache_path: ${general.output_path}/cache
+
+  # debug mode: use a smaller dataset for quick testing
+  debug: false
+
+# LLM configuration
+llm:
+  # Model name: "gpt-4.1-mini", "gpt-4o-mini", "gpt-4.1", "gpt-5", "gpt-5-mini" (uses OpenAI)
+  #             "Qwen3-8B", "Qwen/Qwen3-8B" (uses Hugging Face local model)
+  model: ${oc.env:MEMOBENCH_MODEL,claude-haiku-5-5}
+  answer_model: null # unused: every system answers through answerer.py (claude-haiku-5-5, effort low)
+
+  seed: 42 # random seed for reproducibility
+
+openai:
+  # OpenAI/Azure OpenAI configuration (only used when llm.model is a GPT model)
+  api_type: "azure" # "azure" or "openai"
+  managed_identity: "${oc.env:AZURE_MANAGED_IDENTITY_CLIENT_ID,}" # Azure Managed Identity client ID
+  api_key: "${oc.env:OPENAI_API_KEY,}" # OpenAI API key (for api_type: "openai")
+
+  # LLM API for GPT-4 or the other models
+  llm_api_base: "${oc.env:AZURE_OPENAI_ENDPOINT,}" # Your Azure OpenAI endpoint, e.g. https://<resource>.openai.azure.com/
+  llm_api_version: "2024-12-01-preview"
+
+  # Text embedding API
+  embedding_api_base: "${oc.env:AZURE_OPENAI_ENDPOINT,}" # Your Azure OpenAI endpoint for embeddings
+  embedding_api_version: "2024-12-01-preview"
+
+  model: "gpt-4.1-mini"
+  embedding_deployment_name: "text-embedding-3-small" # text-embedding-3-large, text-embedding-3-small
+  embedding_model: "${openai.embedding_deployment_name}"
+
+memory:
+  type: "memora" # memora, mem0, rag, full_context
+  memory_store: "memora_debug"
+  persist_path: "${general.memory_store_path}/${memory.memory_store}"
+
+  collection_name: "agent_memory"
+  distance: "cosine"
+  query_score_threshold: 0.4
+  update_score_threshold: 0.8
+
+  top_k: 30
+
+  force_rebuild: false
+  return_history: true
+  enhance_query: false
+
+  multimodal_support: false # Enable multimodal (text + images) processing for memory entries
+
+  # cue index
+  enable_cue_index: true # enable cue indexing for Memora
+  cue_top_k: 20 # top-k memories to retrieve from cue index
+
+  # RAG specific configurations (plan: chunk 500 tokens, k=3)
+  chunk_size: 500
+  num_chunks: 3
+
+  # Smoke tests: use only the first N sessions of each conversation (null = all)
+  max_sessions: null
+
+  # Hybrid search configuration
+  enable_hybrid_search: true # Enable hybrid search combining semantic + keyword/BM25 search
+  hybrid_search_method: "bm25" # Choose "keyword" for keyword matching or "bm25" for BM25 ranking
+  hybrid_top_k: 10 # Number of results to retrieve from keyword/BM25 search (before merging with semantic results)
+  bm25_score_threshold: 0.4 # Minimum BM25 score threshold for filtering results
+
+  # Conversation Segmentation
+  enable_segmentation: true # Enable LLM-based conversation segmentation into topical episodes
+
+  # Episodic memory
+  enable_episodic_memory: true # Enable episodic memory extraction alongside factual memories
+  use_segments_as_episodic: true # Use conversation segments directly as episodic memories (no LLM summarization)
+  use_segments_as_episodic_include_factual: true # Include factual memories alongside segment-based episodic memories
+
+retrieval:
+  strategy: "prompt" # options: semantic, prompt, grpo
+
+  prompted_policy:
+    max_steps: 4
+
+  # LLM-based filtering configuration
+  enable_llm_filter: false # Enable LLM-based filtering to remove irrelevant retrieved memories
+
+  # Relaxed frontier expansion
+  enable_relaxed_frontier: false # Enable expanding frontier via similar cue indices
+
+eval:
+  # multi-threading workers
+  max_workers: 10
+
+  # Combined user mode: use a single user ID combining both speakers
+  # instead of processing each speaker separately (useful for symmetric conversations)
+  use_combined_user: true
+
+  # Prompt template selection: "mem0" or "evermemos"
+  # mem0: mem0 answer prompt template
+  # evermemos: evermemos answer prompt template
+  prompt_template: "mem0"
+
+  model: ${oc.env:MEMOBENCH_MODEL,claude-haiku-5-5} # judge (metrics/llm_judge.py, effort low, batch); the paper used gpt-4o-mini
+
+  subset_idx: -1 # locomo dataset subset index (1-10) for quick testing, -1 for full dataset
+
+  conversations: null # list of 1-based conversation numbers to run, e.g. [1, 2]; null = all
+  max_questions: null # answer at most N questions per conversation (category 5 excluded first); null = all

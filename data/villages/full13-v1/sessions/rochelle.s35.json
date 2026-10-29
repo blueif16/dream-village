@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s35",
+  "principal": "rochelle",
+  "start": "2025-11-05T21:34:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "be honest is this too long. just fix it and cut the extra words, its for my counselor\n\n\"Hi Mr. Wu, thank u so much for meeting with me today!! I wanted to follow up about the TEAS. I think I am going to try to take it in summer 2026 and I saw the fee is $70, I just wanted to ask if that is the right amount and if there is any way to get that waived or if I have to pay it myself. Also I was wondering if maybe it would be possible to fit the TEAS into Denny's map without changing the prereq order? I really want to apply to the RN program in 2027 and hopefully end up working at St. Anselm someday, so I just want to make sure I am doing everything in the right order. Thank you so much for your help!!\""
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, a bit long. Here's the short version:\n\n\"Hi Mr. Wu, thanks for meeting with me today. I plan to take the TEAS in summer 2026. Is the fee $70, and are there any fee waivers? Can the TEAS fit into Denny's map without changing the prereq order? I'm aiming to apply to the RN program in 2027 and hopefully work at St. Anselm, so I want to get the sequence right. Thank you!\"\n\nNote: you wrote \"Denny's map\" in a message to him. If you'd rather say \"the plan you mapped out for me,\" swap that in."
+    },
+    {
+      "role": "user",
+      "text": "lol its his name i call him denny. shorter pls"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Hi Mr. Wu, thanks for meeting today. I plan to take the TEAS in summer 2026. Is the fee $70, and can it be waived? Does it fit into Denny's map without changing the prereq order? I'm aiming to apply to the RN program in 2027. Thank you!\"\n\nIf he's the one who made the plan, you could change \"Denny's map\" to \"my prereq plan\" so it reads naturally."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck with the TEAS plan!"
+    }
+  ]
+}

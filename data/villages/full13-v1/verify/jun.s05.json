@@ -1,0 +1,373 @@
+{
+  "session_id": "jun.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Receipts still in the shoebox, unsorted",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "those are all still in the shoebox, havent sorted any of it",
+      "support_quote": ""
+    },
+    {
+      "text": "Cottage food permit not yet filed",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its been open in a tab for two weeks lol, still not filed",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun works at the cafe, shift starts 6:15",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shift starts at 6:15 at the cafe so i have like 10 min",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun shared his SSN",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "612-48-3095",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun can charm people but stalls on forms",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i can charm anyone but not a form",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun makes fried lumpia with pork and shrimp",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i make fried lumpia with pork and shrimp and sell at a counter",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun has a shoebox of receipts",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "dump the shoebox on a table",
+      "support_quote": "those are all still in the shoebox, havent sorted any of it"
+    },
+    {
+      "text": "Assistant says Jun sells fried lumpia with pork and shrimp",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Fried lumpia with pork and shrimp is a meat and seafood product",
+      "support_quote": "i make fried lumpia with pork and shrimp and sell at a counter"
+    },
+    {
+      "text": "Assistant says Jun has a shift to run to",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Have a good shift!",
+      "support_quote": "running to open now"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.r01",
+      "present": true,
+      "quote": "those are all still in the shoebox, havent sorted any of it"
+    },
+    {
+      "item_id": "jun.f11",
+      "present": true,
+      "quote": "its been open in a tab for two weeks lol, still not filed"
+    },
+    {
+      "item_id": "jun.f01",
+      "present": true,
+      "quote": "shift starts at 6:15 at the cafe so i have like 10 min"
+    },
+    {
+      "item_id": "jun.f47",
+      "present": true,
+      "quote": "612-48-3095"
+    },
+    {
+      "item_id": "jun.i01",
+      "present": true,
+      "quote": "can you just tell me which boxes to check? i can charm anyone but not a form"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "612-48-3095",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

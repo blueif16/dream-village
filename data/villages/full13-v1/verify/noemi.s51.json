@@ -1,0 +1,107 @@
+{
+  "session_id": "noemi.s51",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "subnetting and port numbers are her weak spots",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "those are my weak spots lol",
+      "support_quote": ""
+    },
+    {
+      "text": "averaging 71% on practice exams, pass line about 75",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "averaging 71% on practice exams and pass line is like 75",
+      "support_quote": ""
+    },
+    {
+      "text": "uses practice test app and tabbed secondhand study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "using the practice test app plus a secondhand study guide with tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "working alternating Saturday at RF-4",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its my alternating saturday at rf-4 and im wiped",
+      "support_quote": ""
+    },
+    {
+      "text": "the exam is 'the boss fight'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its the boss fight, entry network cert",
+      "support_quote": ""
+    },
+    {
+      "text": "the gap to passing is close; subnetting and ports are where points hide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That's a close gap, and subnetting and ports are exactly where a few points hide.",
+      "support_quote": "averaging 71% on practice exams and pass line is like 75"
+    },
+    {
+      "text": "she is tired from working tonight",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Working the first six is a solid chunk for a tired brain.",
+      "support_quote": "its my alternating saturday at rf-4 and im wiped"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "quiz me on subnetting and port numbers. hard ones pls, no answers till i ask. those are my weak spots lol"
+    },
+    {
+      "item_id": "noemi.f10",
+      "present": true,
+      "quote": "averaging 71% on practice exams and pass line is like 75"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "using the practice test app plus a secondhand study guide with tabbed chapters"
+    },
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "its my alternating saturday at rf-4 and im wiped"
+    },
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "its the boss fight, entry network cert"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s64",
+  "principal": "elliot",
+  "start": "2025-11-03T05:44:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "5:44 am. short version please, typing one-handed sorry. hana went back to work today, she's back full time as an admissions counselor at Bayshore State, and i'm now the primary daytime parent with my mom helping weekdays. she pumps twice at work and the milk goes in a labeled bin in our fridge that i rotate. she took the 7:20 Tule Line and is home around 6. how long does breast milk keep in a work fridge, and how should i rotate the bottles at home?"
+    },
+    {
+      "role": "assistant",
+      "text": "Big day, congrats to you both. Short version:\n\n**Work fridge (for Hana)**\n- Freshly pumped milk is fine in a fridge at about 4°C / 40°F for up to 4 days (best within 3).\n- Keep it toward the back, not in the door, and label each container with the date.\n- If there's no fridge access, a cooler bag with ice packs holds it for about 24 hours.\n\n**Getting it home**\n- With a commute, keep it in an insulated bag with ice packs so it stays cold the whole ride. Since she's home around 6, that's easy: it goes straight into your fridge when she walks in.\n\n**Rotating at home (first in, first out)**\n- Put the date and time on every bottle or bag.\n- Use the oldest milk first. Store the newest at the back of the bin and pull from the front.\n- Fridge: up to 4 days. Freezer: about 6 months is best, up to 12 is acceptable.\n- Freeze extra in small portions (2-4 oz) so you don't waste any.\n- Thaw in the fridge overnight or under warm running water. Once thawed, use within 24 hours and never refreeze.\n- Once Theo has started drinking from a bottle, finish it within 1-2 hours and toss the rest.\n- Never microwave it. Swirl, don't shake.\n\nWant this as a table you can tape to the fridge?"
+    },
+    {
+      "role": "user",
+      "text": "yes please, table form. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "| Where | How long | Notes |\n|---|---|---|\n| Work fridge | up to 4 days (best within 3) | back of fridge, dated label |\n| Cooler bag + ice packs | ~24 hours | for the commute home |\n| Home fridge bin | up to 4 days | oldest in front, newest at back |\n| Freezer | ~6 months best, up to 12 | 2-4 oz portions, dated |\n| Thawed in fridge | 24 hours | never refreeze |\n| Bottle Theo has started | 1-2 hours | toss leftovers |\n\n**Daily rotation:** when the milk comes home, date-check the bin, move the oldest to the front, and use that first. Anything near day 4 goes in the freezer.\n\nGood luck today. You've got this."
+    }
+  ]
+}

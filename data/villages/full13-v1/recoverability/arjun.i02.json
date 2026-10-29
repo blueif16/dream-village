@@ -1,0 +1,105 @@
+{
+  "impression_id": "arjun.i02",
+  "evidence_sessions": [
+    "arjun.s09",
+    "arjun.s14",
+    "arjun.s20",
+    "arjun.s34",
+    "arjun.s52",
+    "arjun.s54",
+    "arjun.s58",
+    "arjun.s64",
+    "arjun.s70",
+    "arjun.s78",
+    "arjun.s80"
+  ],
+  "inferred": [
+    {
+      "statement": "Arjun chronically stays up until about 2 a.m. and downplays it as normal for him, and he deflects or ignores advice to sleep more even when he asks about sleep himself.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s09",
+        "arjun.s52",
+        "arjun.s54",
+        "arjun.s70",
+        "arjun.s78",
+        "arjun.s80"
+      ]
+    },
+    {
+      "statement": "He urges others (his roommate, teammates, Marcus) to sleep and rest while not following that advice himself, a repeated gap between what he tells others and what he does.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s09",
+        "arjun.s52",
+        "arjun.s58",
+        "arjun.s64",
+        "arjun.s70"
+      ]
+    },
+    {
+      "statement": "He wants brief, scannable answers, often asking for 'tldr', 'shorter' or a table, especially late at night, and uses casual lowercase with 'lol' and 💀 to lighten stress.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s14",
+        "arjun.s20",
+        "arjun.s34",
+        "arjun.s52",
+        "arjun.s64",
+        "arjun.s80"
+      ]
+    },
+    {
+      "statement": "He over-commits to others' needs and takes on extra tasks (his sister's wedding, a teammate's slides, the risk slide intro), then needs help protecting his own time.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s34",
+        "arjun.s64",
+        "arjun.s78"
+      ]
+    },
+    {
+      "statement": "He avoids uncomfortable asks, such as skipping Dr. Ashby's office hours instead of requesting a recommendation letter, and wants low-stakes scripts or drafts for these conversations.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s09",
+        "arjun.s52"
+      ]
+    },
+    {
+      "statement": "He is an ambitious, career-driven business and operations student who juggles case competition, coursework, interviews and a systematic internship search, and prepares methodically with outlines, practice problems and mock interviews.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s14",
+        "arjun.s20",
+        "arjun.s34",
+        "arjun.s54",
+        "arjun.s78",
+        "arjun.s80"
+      ]
+    },
+    {
+      "statement": "He is considerate of the people he lives with and works with, adjusting plans for his roommate's sleep and shift schedule and softening messages to avoid sounding preachy.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s09",
+        "arjun.s34",
+        "arjun.s64",
+        "arjun.s70",
+        "arjun.s78"
+      ]
+    },
+    {
+      "statement": "He prefers realistic plans that account for his actual habits rather than idealized ones, and says so explicitly ('be realistic', 'be honest I will probably edit until 2').",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s78",
+        "arjun.s80",
+        "arjun.s54"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "He urges others (his roommate, teammates, Marcus) to sleep and rest while not following that advice himself, a repeated gap between what he tells others and what he does.",
+  "rationale": "The second inferred statement, rated strong, says he urges others to sleep and rest while not following that advice himself. This is the same pattern as the intended trait of giving advice he doesn't follow, especially about rest."
+}

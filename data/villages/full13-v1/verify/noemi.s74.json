@@ -1,0 +1,153 @@
+{
+  "session_id": "noemi.s74",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Practice exams jumped to 80% after subnetting drills",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "practice exams jumped to 80% last night after subnetting drills",
+      "support_quote": ""
+    },
+    {
+      "text": "Exam is Dec 6",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "exam is dec 6",
+      "support_quote": ""
+    },
+    {
+      "text": "Weak topics are subnetting and port numbers",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "weak spots are still subnetting and port numbers",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses a practice test app and a secondhand tabbed study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got a practice test app and a secondhand study guide with tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "Trains Bao at 3",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i only have the gap before i train bao at 3",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris is home today and will want lunch",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris is home today (holiday)",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi keeps pushing forward on exam prep despite heavy work",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "what should i drill next?",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi has a swing shift after training Bao",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then swing starts after that",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's score is over the pass line",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice jump, that's over the line.",
+      "support_quote": "practice exams jumped to 80% last night after subnetting drills, pass line is around 75"
+    },
+    {
+      "text": "Noemi has a practice app and tabbed guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "treat the tabs as your map and the app as your checker",
+      "support_quote": "i got a practice test app and a secondhand study guide with tabbed chapters"
+    },
+    {
+      "text": "Noemi is busy later with work",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If you have a window to study before you're busy later",
+      "support_quote": "then swing starts after that"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": "noemi.f03",
+      "detail": "assistant turn 4 says \"If you have a window to study before you're busy later\" before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "noemi.i05",
+      "present": true,
+      "quote": "practice exams jumped to 80% last night after subnetting drills, pass line is around 75. exam is dec 6. what should i drill next?"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "weak spots are still subnetting and port numbers"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "i got a practice test app and a secondhand study guide with tabbed chapters"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "i only have the gap before i train bao at 3"
+    },
+    {
+      "item_id": "noemi.f46",
+      "present": true,
+      "quote": "iris is home today (holiday) and i wanna be done before she wants lunch lol"
+    }
+  ],
+  "sensitive": []
+}

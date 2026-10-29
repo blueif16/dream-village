@@ -1,0 +1,31 @@
+{
+  "id": "linh.s11",
+  "principal": "linh",
+  "start": "2025-09-05T16:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi! can u make me a short hour by hour plan for this afternoon pls. im off work and skipping the football game, everyone on my street is heading to it but ill be studying at home in the pell road house. need to review the bones lab walkthrough and fit in a break"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. It's about 4:30 now, so here's a plan through the evening:\n\n- 4:45-5:30: Bones lab walkthrough, first pass (skull, vertebral column, thorax)\n- 5:30-5:45: Break. Stretch, water, snack\n- 5:45-6:30: Walkthrough, second pass (upper and lower limbs)\n- 6:30-7:15: Dinner and a real break\n- 7:15-8:00: Quiz yourself on whatever you missed, then stop\n\nWant me to adjust the timing or add anything?"
+    },
+    {
+      "role": "user",
+      "text": "oh perfect, having times on it helps so much 🫠 can u tag it blue for bones so it matches my notes? blue is bones, pink muscles"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's the plan with blue tags:\n\n🔵 4:45-5:30: Bones lab walkthrough, pass 1 (skull, vertebral column, thorax)\n⚪ 5:30-5:45: Break (water, snack, stretch)\n🔵 5:45-6:30: Bones walkthrough, pass 2 (upper and lower limbs)\n⚪ 6:30-7:15: Dinner, real break\n🔵 7:15-8:00: Self-quiz on weak spots\n\nI used blue circles as stand-ins for your blue pen. Good luck with the review!"
+    },
+    {
+      "role": "user",
+      "text": "thank u!! also my mom asked about pharmacy again at the picnic so i wanna stay busy at my desk lol. ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Staying busy at your desk sounds like a good plan. Eat something first, since the 5:30 break is a solid time for a snack, and enjoy the quiet evening. Good luck with the bones review!"
+    }
+  ]
+}

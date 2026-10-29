@@ -1,0 +1,117 @@
+{
+  "session_id": "noemi.s68",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi is applying outside Ridgeline for network tech roles including St. Anselm IT",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm applying outside ridgeline now for network tech roles, st anselm IT included",
+      "support_quote": ""
+    },
+    {
+      "text": "Subnetting and port numbers are her weak topics",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers are the two things i keep missing",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses practice test app and secondhand tabbed study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i use a practice test app plus a secondhand study guide with tabbed chapters",
+      "support_quote": ""
+    },
+    {
+      "text": "'the boss fight' means her certification exam",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the boss fight is getting closer",
+      "support_quote": ""
+    },
+    {
+      "text": "Averaging 71% on practice exams, pass line about 75",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm averaging like 71% on practice exams and pass line is around 75",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she is about 4 points under the pass line",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since you're ~4 points under the pass line",
+      "support_quote": "i'm averaging like 71% on practice exams and pass line is around 75"
+    },
+    {
+      "text": "Assistant says subnetting is her biggest miss and port numbers second",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "It's your biggest miss and gives the most points back.",
+      "support_quote": "subnetting and port numbers are the two things i keep missing"
+    },
+    {
+      "text": "Assistant references her tabbed study guide",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Tab each question you get wrong in your study guide",
+      "support_quote": "i use a practice test app plus a secondhand study guide with tabbed chapters"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f31",
+      "present": true,
+      "quote": "i'm applying outside ridgeline now for network tech roles, st anselm IT included, so i actually need this cert to land"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "subnetting and port numbers are the two things i keep missing"
+    },
+    {
+      "item_id": "noemi.f09",
+      "present": true,
+      "quote": "i use a practice test app plus a secondhand study guide with tabbed chapters so make the questions like that"
+    },
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "the boss fight is getting closer"
+    },
+    {
+      "item_id": "noemi.f10",
+      "present": true,
+      "quote": "i'm averaging like 71% on practice exams and pass line is around 75"
+    }
+  ],
+  "sensitive": []
+}

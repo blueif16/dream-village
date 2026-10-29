@@ -1,0 +1,113 @@
+{
+  "session_id": "linh.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Bought supplies for Jun and he wants to repay her",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i bought supplies for him (wrappers, oil, ground pork) and he wants to pay me back",
+      "support_quote": ""
+    },
+    {
+      "text": "Her checking account number ends 4471",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my checking number is 0482917364471",
+      "support_quote": ""
+    },
+    {
+      "text": "Did front desk at her mom's nail salon 2 to 5 today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i did front desk at my moms nail salon 2 to 5 today",
+      "support_quote": ""
+    },
+    {
+      "text": "Does Sunday night planner with washi tape",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im doing my sunday night planner (washi tape and all)",
+      "support_quote": ""
+    },
+    {
+      "text": "Walked the marsh boardwalk today",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "went on a walk on the marsh boardwalk before",
+      "support_quote": ""
+    },
+    {
+      "text": "Animated about nutrition per roll, shows interest in food",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "this is actually kinda fun lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Batch makes around 60 rolls",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "yeah around 60 a batch",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f42",
+      "present": true,
+      "quote": "my checking number is 0482917364471"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "i did front desk at my moms nail salon 2 to 5 today"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "im doing my sunday night planner (washi tape and all) and want this on it for week 3"
+    },
+    {
+      "item_id": "linh.f36",
+      "present": true,
+      "quote": "went on a walk on the marsh boardwalk before so im finishing this tonight"
+    },
+    {
+      "item_id": "linh.i04",
+      "present": true,
+      "quote": "also can u do fat and sodium per roll?? like how would i calc that, i kinda want to put it on a label for him"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "linh.f42",
+      "user_quote": "my checking number is 0482917364471",
+      "assistant_quote": ""
+    }
+  ]
+}

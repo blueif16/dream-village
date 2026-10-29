@@ -1,0 +1,122 @@
+{
+  "session_id": "marcus.s27",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Biomechanics midterm was this morning",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it was this morning and idk how it went lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Ex Phys midterm is Oct 22",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ex phys midterm is next on oct 22 so cant fully crash",
+      "support_quote": ""
+    },
+    {
+      "text": "Sleep window gets cut short on class days",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my sleep window gets cut short on class days",
+      "support_quote": ""
+    },
+    {
+      "text": "Jade is annoyed he has been unreachable",
+      "about": "jade",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "jade is annoyed ive been unreachable lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Saturday is his night with Jade; taking her to Phở Bến Thành",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "saturday is our night anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks for a funny text instead of a serious apology to Jade",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u give me a funny text to open with instead of a big serious apology",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus took the exam on almost no sleep",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you showed up and finished an exam on almost no sleep",
+      "support_quote": "got like no sleep before it"
+    },
+    {
+      "text": "Ex Phys midterm is Oct 22",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "start the Oct 22 Ex Phys midterm prep",
+      "support_quote": "ex phys midterm is next on oct 22 so cant fully crash"
+    },
+    {
+      "text": "Saturday he takes Jade to the pho place",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Saturday: take her to the pho place you mentioned",
+      "support_quote": "gonna take her to pho ben thanh and make it up to her"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f25",
+      "present": true,
+      "quote": "ex phys midterm is next on oct 22 so cant fully crash"
+    },
+    {
+      "item_id": "marcus.f09",
+      "present": true,
+      "quote": "got like no sleep before it, my sleep window gets cut short on class days"
+    },
+    {
+      "item_id": "marcus.f45",
+      "present": true,
+      "quote": "ya saturday is our night anyway. gonna take her to pho ben thanh and make it up to her"
+    },
+    {
+      "item_id": "marcus.i04",
+      "present": true,
+      "quote": "can u give me a funny text to open with instead of a big serious apology"
+    }
+  ],
+  "sensitive": []
+}

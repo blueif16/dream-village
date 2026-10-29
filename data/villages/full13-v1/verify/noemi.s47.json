@@ -1,0 +1,107 @@
+{
+  "session_id": "noemi.s47",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Trains Bao in a 3 p.m. Tuesday session",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he reads it before our 3 p.m. session today (tue training block)",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao handles trigger board swaps",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "trigger board swap. grab a board from the cage.",
+      "support_quote": ""
+    },
+    {
+      "text": "Fills up gas at Ruel Road station before shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also gotta grab gas at the ruel road station before i head in so i need it fast",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term 'the cage' for the repair cage",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "grab a board from the cage.",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants a simple, analogy-based kind explanation for Bao",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he gets stuff faster with an analogy. like explain it simple",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she has a gas stop before work",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Safe drive, and enjoy the gas stop.",
+      "support_quote": "also gotta grab gas at the ruel road station before i head in so i need it fast"
+    },
+    {
+      "text": "Assistant says session with Bao is at 3",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "See you at 3!",
+      "support_quote": "he reads it before our 3 p.m. session today (tue training block)"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "he reads it before our 3 p.m. session today (tue training block)"
+    },
+    {
+      "item_id": "noemi.f48",
+      "present": true,
+      "quote": "trigger board swap. grab a board from the cage."
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "grab a board from the cage."
+    },
+    {
+      "item_id": "noemi.f17",
+      "present": true,
+      "quote": "also gotta grab gas at the ruel road station before i head in so i need it fast"
+    },
+    {
+      "item_id": "noemi.i02",
+      "present": true,
+      "quote": "he gets stuff faster with an analogy. like explain it simple"
+    }
+  ],
+  "sensitive": []
+}

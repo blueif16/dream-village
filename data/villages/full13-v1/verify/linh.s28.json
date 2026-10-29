@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s28",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Just came from anatomy at 9 with Dr. Okoye",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just came from anatomy at 9 w dr okoye",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a shift at the cafe starting at noon",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i start at 12 so basically now",
+      "support_quote": ""
+    },
+    {
+      "text": "Her yellow list is two pages so far",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the yellow list is only two pages so far",
+      "support_quote": ""
+    },
+    {
+      "text": "A regular at work calls her Doc because of her flashcards",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "a regular at work calls me Doc bc of my flashcards",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant calls her Doc",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "6/6, Doc earned.",
+      "support_quote": "a regular at work calls me Doc bc of my flashcards"
+    },
+    {
+      "text": "Her yellow list is still two pages",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since your yellow list is still two pages",
+      "support_quote": "the yellow list is only two pages so far"
+    },
+    {
+      "text": "She has a shift at the cafe soon",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "go eat before your shift!",
+      "support_quote": "i only have like a short window before my noon shift at the cafe"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.r02",
+      "present": true,
+      "quote": "the yellow list is only two pages so far"
+    },
+    {
+      "item_id": "linh.f03",
+      "present": true,
+      "quote": "i only have like a short window before my noon shift at the cafe"
+    },
+    {
+      "item_id": "linh.f56",
+      "present": true,
+      "quote": "a regular at work calls me Doc bc of my flashcards"
+    },
+    {
+      "item_id": "linh.f02",
+      "present": true,
+      "quote": "i just came from anatomy at 9 w dr okoye"
+    }
+  ],
+  "sensitive": []
+}

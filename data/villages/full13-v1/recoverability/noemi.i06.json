@@ -1,0 +1,89 @@
+{
+  "impression_id": "noemi.i06",
+  "evidence_sessions": [
+    "noemi.s27",
+    "noemi.s35",
+    "noemi.s50",
+    "noemi.s54",
+    "noemi.s58",
+    "noemi.s69"
+  ],
+  "inferred": [
+    {
+      "statement": "Prefers terse, scannable answers: opens with 'quick q', repeatedly asks for 'tldr' or short steps, and approves with brief replies like 'gg ty'.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s27",
+        "noemi.s35",
+        "noemi.s50",
+        "noemi.s54",
+        "noemi.s58",
+        "noemi.s69"
+      ]
+    },
+    {
+      "statement": "Frames work and life in gaming metaphors (boss fights, nerfing, loot drops, tutorial mode), using humor to lighten stress or frustration.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s27",
+        "noemi.s35",
+        "noemi.s50",
+        "noemi.s54",
+        "noemi.s58",
+        "noemi.s69"
+      ]
+    },
+    {
+      "statement": "Resents doing the work of a higher role without the title or credit, and feels passed over by Victor's acting-lead promotion, but handles it by keeping interactions civil.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s50",
+        "noemi.s58",
+        "noemi.s69"
+      ]
+    },
+    {
+      "statement": "Carefully manages her tone in workplace communication, rewriting messages to remove sarcasm and seeking a check that they sound civil rather than curt.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s50",
+        "noemi.s69"
+      ]
+    },
+    {
+      "statement": "Is quietly hedging her career by applying for the permanent lead role while exploring outside network tech jobs, and is using structured self-study (subnetting and port drills) to build skills.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s54",
+        "noemi.s58",
+        "noemi.s69"
+      ]
+    },
+    {
+      "statement": "Serves as the family's unofficial free tech support, and recognizes that she gives a lot without asking for anything back.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s27",
+        "noemi.s58"
+      ]
+    },
+    {
+      "statement": "Relies on a supportive partner or housemate, Iris, with whom she shares a budget sheet and who offers financial backup for her career decisions.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s54",
+        "noemi.s58"
+      ]
+    },
+    {
+      "statement": "Downplays or questions the value of her own routine work (asks whether ticket logging is 'too basic'), yet takes initiative by building her own tracking systems like the RMA spreadsheet.",
+      "strength": "weak",
+      "sessions": [
+        "noemi.s35"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Frames work and life in gaming metaphors (boss fights, nerfing, loot drops, tutorial mode), using humor to lighten stress or frustration.",
+  "rationale": "The second inferred statement, rated strong, says she uses gaming metaphors and humor to lighten stress or frustration. This matches the intended pattern of turning frustration into dry gamer jokes. It does not mention deflecting from admitting hurt, but the core behavior is substantially the same."
+}

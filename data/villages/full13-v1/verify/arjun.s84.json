@@ -1,0 +1,153 @@
+{
+  "session_id": "arjun.s84",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Helped his mom pack boxes at the gurdwara food drive",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "today i helped my mom pack grocery boxes at the gurdwara for the thanksgiving food drive, was there all afternoon",
+      "support_quote": ""
+    },
+    {
+      "text": "Gurpreet asked about his CDL again",
+      "about": "gurpreet",
+      "kind": "fact",
+      "item_id": "arjun.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also gurpreet asked about my CDL again lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom sends him home with a tub of dal",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she always sends me home with a tub of dal",
+      "support_quote": ""
+    },
+    {
+      "text": "Ran the Delgado Park loop because boardwalk flooded",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i ran the delgado park loop this morning since the boardwalk is still flooded",
+      "support_quote": ""
+    },
+    {
+      "text": "Dinner at parents' Pell Road house",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tmrw im at my parents place on pell road for dinner",
+      "support_quote": ""
+    },
+    {
+      "text": "Classes MWF 9-12 and Tue/Thu 10:30",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "classes mwf 9-12 and tue/thu 10:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Has career center desk shift Friday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "career center desk friday",
+      "support_quote": ""
+    },
+    {
+      "text": "Sunday dinner at parents' place",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Dinner at your parents' place.",
+      "support_quote": "tmrw im at my parents place on pell road for dinner"
+    },
+    {
+      "text": "Mom's dal covers meals",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Bring home the dal for lunches.",
+      "support_quote": "she always sends me home with a tub of dal"
+    },
+    {
+      "text": "Career center desk shift Friday",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Career center desk shift.",
+      "support_quote": "career center desk friday"
+    },
+    {
+      "text": "Runs Delgado Park",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your Delgado Park run, then rest.",
+      "support_quote": "i ran the delgado park loop this morning since the boardwalk is still flooded"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.i05",
+      "present": true,
+      "quote": "today i helped my mom pack grocery boxes at the gurdwara for the thanksgiving food drive, was there all afternoon"
+    },
+    {
+      "item_id": "arjun.f52",
+      "present": true,
+      "quote": "also gurpreet asked about my CDL again lol"
+    },
+    {
+      "item_id": "arjun.f50",
+      "present": true,
+      "quote": "she always sends me home with a tub of dal"
+    },
+    {
+      "item_id": "arjun.f36",
+      "present": true,
+      "quote": "i ran the delgado park loop this morning since the boardwalk is still flooded"
+    },
+    {
+      "item_id": "arjun.f41",
+      "present": true,
+      "quote": "tmrw im at my parents place on pell road for dinner"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

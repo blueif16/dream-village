@@ -1,0 +1,97 @@
+{
+  "session_id": "marcus.s05",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "works Sun-Thu nights 10pm-6:30am",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work sun-thu nights 10pm-6:30am",
+      "support_quote": ""
+    },
+    {
+      "text": "sleeps 8am-1pm",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sleep like 8am-1pm",
+      "support_quote": ""
+    },
+    {
+      "text": "has afternoon sections Mon/Wed/Thu at 2",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got afternoon sections mon wed thu at 2",
+      "support_quote": ""
+    },
+    {
+      "text": "uses Fatima's shared Ex Phys notes",
+      "about": "fatima",
+      "kind": "fact",
+      "item_id": "marcus.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i catch up using fatima's shared ex phys notes",
+      "support_quote": ""
+    },
+    {
+      "text": "usually eats eggs and rice after shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "eggs and rice usually.",
+      "support_quote": ""
+    },
+    {
+      "text": "sleeps a 5-hour block",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a 5-hour sleep block is on the low side",
+      "support_quote": "sleep like 8am-1pm"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f04",
+      "present": true,
+      "quote": "i work sun-thu nights 10pm-6:30am"
+    },
+    {
+      "item_id": "marcus.f08",
+      "present": true,
+      "quote": "sleep like 8am-1pm"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i got afternoon sections mon wed thu at 2 so i gotta be actually sharp by then"
+    },
+    {
+      "item_id": "marcus.f55",
+      "present": true,
+      "quote": "when i miss lecture i catch up using fatima's shared ex phys notes"
+    },
+    {
+      "item_id": "marcus.f36",
+      "present": true,
+      "quote": "eggs and rice usually. is that good."
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,317 @@
+{
+  "principal": "isabel",
+  "week": 3,
+  "entries": [
+    {
+      "id": "isabel.w3.l01",
+      "date": "2025-09-08",
+      "what": "Isabel walked to Flats High, went through AP classes, then studied at the library homework center until Grace could pick her up.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Finished calc problem set early.",
+      "feeling": "focused, tired",
+      "facts": [
+        "isabel.f02",
+        "isabel.f26",
+        "isabel.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l02",
+      "date": "2025-09-08",
+      "what": "Did dishes after dinner, checked that Lola Cora took her lunch-time pills, then worked on a SAT practice section with a kitchen timer.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Practice section done, 2 of 2 for the week started.",
+      "feeling": "dutiful, a bit bored",
+      "facts": [
+        "isabel.f45",
+        "isabel.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l03",
+      "date": "2025-09-09",
+      "what": "At lunch Isabel and Lucas talked about robotics leadership, and she wondered how admissions would see captain versus subteam lead. That evening she worked it over at home.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Left wanting to compare roles.",
+      "feeling": "competitive, restless",
+      "facts": [
+        "isabel.f14"
+      ],
+      "impressions": [
+        "isabel.i04"
+      ]
+    },
+    {
+      "id": "isabel.w3.l04",
+      "date": "2025-09-09",
+      "what": "Robotics practice in room C7 on the drivetrain, then home for a late dinner with the family.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Chassis plate fit checked.",
+      "feeling": "energized",
+      "facts": [
+        "isabel.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l05",
+      "date": "2025-09-10",
+      "what": "Tutored Mateo in fractions at Kessler Middle from 4 to 5, using pizza drawings.",
+      "with": [],
+      "outcome": "Mateo got through a full worksheet and she collected $20.",
+      "feeling": "patient, pleased",
+      "facts": [
+        "isabel.f29",
+        "isabel.f60"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l06",
+      "date": "2025-09-10",
+      "what": "Isabel found a state university summer engineering institute and decided to apply, noting the Nov 15 deadline in her planner.",
+      "with": [],
+      "outcome": "Application plan set.",
+      "feeling": "hopeful",
+      "facts": [
+        "isabel.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l07",
+      "date": "2025-09-10",
+      "what": "Late at night she read about the program on Ramón's old desktop and went to bed around 1.",
+      "with": [],
+      "outcome": "Bookmarked the requirements page.",
+      "feeling": "wired",
+      "facts": [
+        "isabel.f25",
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l08",
+      "date": "2025-09-11",
+      "what": "Made a week-by-week AP Calc review schedule at the library homework center to protect her A before the next test.",
+      "with": [],
+      "outcome": "Schedule posted over her desk.",
+      "feeling": "determined",
+      "facts": [
+        "isabel.f03",
+        "isabel.f32"
+      ],
+      "impressions": [
+        "isabel.i06"
+      ]
+    },
+    {
+      "id": "isabel.w3.l09",
+      "date": "2025-09-11",
+      "what": "Robotics in C7 from 3:30 to 6, working on the mechanical subteam's arm mount.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Prototype mount drilled.",
+      "feeling": "absorbed",
+      "facts": [
+        "isabel.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l10",
+      "date": "2025-09-11",
+      "what": "Ate Lola Cora's dinner with Grace and Corazón, avoiding the bitter melon.",
+      "with": [
+        "grace",
+        "corazon"
+      ],
+      "outcome": "Dinner passed with only one snipe about homework.",
+      "feeling": "mildly irritated",
+      "facts": [
+        "isabel.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l11",
+      "date": "2025-09-12",
+      "what": "Checked the SAT fee waiver status and learned she qualifies for it but not for application waivers at most private schools.",
+      "with": [],
+      "outcome": "Added application fees to her savings tally.",
+      "feeling": "worried about cost",
+      "facts": [
+        "isabel.f43",
+        "isabel.f30"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l12",
+      "date": "2025-09-12",
+      "what": "Turned in an essay draft to Ms. Lugo, who reads one draft per student on Fridays, then went with Nadia to get tea at Cloud Nine.",
+      "with": [
+        "fernanda",
+        "nadia"
+      ],
+      "outcome": "Got jasmine milk tea and a ride home.",
+      "feeling": "relaxed",
+      "facts": [
+        "isabel.f58",
+        "isabel.f34",
+        "isabel.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l13",
+      "date": "2025-09-12",
+      "what": "Spent the evening at the Egrets game-free home night, studying APUSH reading with film scores on.",
+      "with": [],
+      "outcome": "Chapter notes finished.",
+      "feeling": "calm",
+      "facts": [
+        "isabel.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l14",
+      "date": "2025-09-13",
+      "what": "Walked to the library for Harper's Saturday SAT prep, timing each section with the kitchen timer.",
+      "with": [
+        "harper"
+      ],
+      "outcome": "Score on practice math section improved.",
+      "feeling": "steady",
+      "facts": [
+        "isabel.f10",
+        "isabel.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l15",
+      "date": "2025-09-13",
+      "what": "Passed the line of people at the Ridgeline hiring fair on the way home and heard Ramón had a day off, so he took her driving in the Ruel Road lots.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Practiced parallel parking without hitting a cone.",
+      "feeling": "proud",
+      "facts": [
+        "isabel.f27"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l16",
+      "date": "2025-09-13",
+      "what": "Photographed a heron by the marsh at dusk and logged it in her tally notebook.",
+      "with": [],
+      "outcome": "One more bird on the tally.",
+      "feeling": "quietly content",
+      "facts": [
+        "isabel.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l17",
+      "date": "2025-09-14",
+      "what": "Went to Tagalog Mass with Grace and Lola Cora, then helped with Sunday sinigang lunch.",
+      "with": [
+        "grace",
+        "corazon"
+      ],
+      "outcome": "Family lunch went smoothly.",
+      "feeling": "fond, pretending not to be",
+      "facts": [
+        "cast.f09",
+        "isabel.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w3.l18",
+      "date": "2025-09-14",
+      "what": "That night in draft hell she asked for a fourth rewrite of a paragraph already called strong, then said she'd sit on it instead of sending it.",
+      "with": [],
+      "outcome": "Draft 4 left unsent and unshown.",
+      "feeling": "stuck, anxious",
+      "facts": [
+        "isabel.f19",
+        "isabel.f25"
+      ],
+      "impressions": [
+        "isabel.i01"
+      ]
+    },
+    {
+      "id": "isabel.w3.l19",
+      "date": "2025-09-14",
+      "what": "Finished the evening doing dishes and setting the calc schedule for the week.",
+      "with": [],
+      "outcome": "Ready for Monday.",
+      "feeling": "tired",
+      "facts": [
+        "isabel.f45"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "isabel.w3.n01",
+      "subject": "isabel",
+      "attribute": "practice_math_result",
+      "value": "improved on Harper's timed practice math section Sept 13",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w3.n02",
+      "subject": "isabel",
+      "attribute": "bird_sighting",
+      "value": "photographed a heron at the marsh on Sept 13",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w3.n03",
+      "subject": "isabel",
+      "attribute": "driving_practice",
+      "value": "practiced parallel parking in the Ruel Road lots with Ramón on Sept 13",
+      "valid_from": "2025-09-13",
+      "valid_to": "2025-10-17",
+      "superseded_by": "isabel.w8.n04",
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w3.n04",
+      "subject": "isabel",
+      "attribute": "calc_review_schedule",
+      "value": "made a week-by-week AP Calc review schedule",
+      "valid_from": "2025-09-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

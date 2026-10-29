@@ -1,0 +1,87 @@
+{
+  "session_id": "arjun.s31",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sunita's wedding is planned for April",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": "cast.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the april date is only 7 months away",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun offers to handle deposit deadlines unprompted for his sister",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can i add that i'll just handle th deadlines for th deposits too, she didnt ask for that but shes drowning",
+      "support_quote": ""
+    },
+    {
+      "text": "Arjun's phone has a new battery and lasts past 4 p.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "new battery today so it actually survives past 4 now",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Arjun's phone now lasts past 4 p.m.",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f25",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a phone that lasts past 4 p.m. is a real upgrade",
+      "support_quote": "new battery today so it actually survives past 4 now"
+    },
+    {
+      "text": "Assistant notes Arjun offering deadline tracking unprompted",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Offering the deadline tracking unprompted is a nice touch.",
+      "support_quote": "she didnt ask for that but shes drowning"
+    },
+    {
+      "text": "Arjun is the brother of the person getting married",
+      "about": "sunita",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "It sounds like a brother, not a project manager.",
+      "support_quote": "pasting a text from my sister"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "cast.f39",
+      "present": true,
+      "quote": "the april date is only 7 months away"
+    },
+    {
+      "item_id": "arjun.i05",
+      "present": true,
+      "quote": "can i add that i'll just handle th deadlines for th deposits too, she didnt ask for that but shes drowning"
+    },
+    {
+      "item_id": "arjun.f25",
+      "present": true,
+      "quote": "typing this from my phone btw, new battery today so it actually survives past 4 now"
+    }
+  ],
+  "sensitive": []
+}

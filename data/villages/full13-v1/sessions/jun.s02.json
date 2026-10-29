@@ -1,0 +1,47 @@
+{
+  "id": "jun.s02",
+  "principal": "jun",
+  "start": "2025-08-29T23:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i did something kinda dumb lol. bought 12 cases of spring roll wrappers today at ruiz family market, aisle 6, they were on sale and i just grabbed them 🔥 they're in my trunk rn. now what"
+    },
+    {
+      "role": "assistant",
+      "text": "Ha, a trunk full of wrappers is a good problem to have, as long as they don't go to waste. First question: what's your plan for them? Are you making food to sell, and do you have a permit or kitchen lined up yet? Also, do you know how many cases you can fit in a freezer? Wrappers are the easy part to store; it's the filled product that needs care."
+    },
+    {
+      "role": "user",
+      "text": "ok so the plan is lumpia pop-up, lola's roll, selling at the cafe i work at on saturdays hopefully. permit... not filed yet. cottage food permit app is just sitting there. what do i do first"
+    },
+    {
+      "role": "assistant",
+      "text": "Since you haven't filed yet, hold off on selling anything. You can still prep at home for testing and for family, but sales need the permit sorted. Order of operations:\n\n1. Open the cottage food application and read the requirements section first. Many places want a list of products and your recipe/ingredients.\n2. Check with the county health department whether your specific product, fried and filled, fits that category. Ask before you pay fees.\n3. Fill out the form in one sitting and file it. Even a 30-minute session gets it moving.\n4. Ask the cafe owner in writing if you can sell at the counter once you're approved.\n\nWant me to turn that into a short checklist?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls short version. also the money thing. i have like $3,200 saved for the business and it dropped after today. i also set a cap of $1,800 for launch costs thru november and didnt even check it before buying 😬 am i still ok?"
+    },
+    {
+      "role": "assistant",
+      "text": "I can't tell without the receipt total, so here's how to check in two minutes:\n\n1. Add up everything spent so far on the business (today's wrappers, equipment, supplies). Call it [X].\n2. Compare [X] to your $1,800 cap. The difference is what you have left through November.\n3. Subtract today's purchase from your $3,200 to see your new savings balance.\n\nIf the wrappers alone used a big chunk of the cap, you've pre-bought a lot of your supply, which isn't wasted if you use them. But then keep the rest of the budget for the permit fees, kitchen time, and filling ingredients, which are your next costs.\n\nHow much did the 12 cases come to?"
+    },
+    {
+      "role": "user",
+      "text": "like $240 i think. grabe ok that's not as bad as i thought. how do i plan production and storage tho, 12 cases is a lot"
+    },
+    {
+      "role": "assistant",
+      "text": "$240 is manageable, and wrappers are usually the cheapest part to stockpile. Here's a plan:\n\n**Storage**\n- Keep wrappers frozen in their original sealed packaging, then wrap that in a freezer bag to prevent freezer burn.\n- Put only one or two cases in the fridge to thaw at a time. Thaw in the fridge overnight, not on the counter.\n- Label each case with the purchase date, and check the printed date on the packages.\n- Use the oldest first.\n\n**Production**\n- Don't thaw a whole case unless you'll fill it that day.\n- Start with a small test batch, maybe 50-100 rolls, to nail your timing and yield.\n- Fill and roll, then freeze rolled lumpia flat on a tray before bagging. Fry from frozen when it's time to sell.\n- Track how many rolls you get per case so you can plan future batches.\n\n**This week**\n- File the permit application first, before scaling up.\n- Do one test batch only if it's just for tasting.\n\nWant this as a checklist you can tape up by the freezer?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yeah checklist, short, shift is tmrw early lol. sige thanks 🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n**Wrapper + Lumpia Checklist**\n☐ Freeze wrappers sealed, bagged, labeled with date\n☐ Thaw 1-2 cases at a time, in the fridge overnight\n☐ Use oldest first\n☐ Test batch of 50-100 only, for tasting\n☐ Freeze rolled lumpia flat, then bag\n☐ Track rolls per case\n\n**Business**\n☐ Total spent so far vs. $1,800 cap\n☐ Open and read the cottage food application\n☐ Ask the county if your product qualifies before paying\n☐ File the application\n☐ Get the cafe owner's OK in writing before selling\n\nGet some sleep before your shift. Good luck tomorrow!"
+    }
+  ]
+}

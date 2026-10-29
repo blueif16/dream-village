@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s02",
+  "principal": "rochelle",
+  "start": "2025-08-30T22:45:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest. lab manual is $160 at the bookstore. thats like 7 and a half hours on the line lol. im hunting for a used older edition instead. rent is 2950 due on the 1st and landlord takes checks only so i cant be loose with it. does an older edition work or nah"
+    },
+    {
+      "role": "assistant",
+      "text": "Often yes, but it depends on the course. Lab manuals change mostly in page numbers, figures and sometimes the exercises themselves. Before buying an older edition, I'd check three things:\n\n1. Ask your instructor or check the syllabus for the required edition. Some labs use worksheets tied to specific pages.\n2. Compare the table of contents of the older edition against the current one. If the exercise titles match, you're mostly fine.\n3. Check whether the manual has a one-time-use answer section or access code. If it does, a used copy may be missing that part.\n\nIf the exercises line up, an older edition can save you a good chunk. If they don't, it could cost you more in trouble than you'd save, so it's worth confirming first..."
+    },
+    {
+      "role": "user",
+      "text": "ok but which one. buy new or older"
+    },
+    {
+      "role": "assistant",
+      "text": "Older edition, as long as the exercise list matches the current one. Send your instructor a quick email or ask in class before you buy. If it doesn't match, buy a used copy of the current edition rather than new."
+    },
+    {
+      "role": "user",
+      "text": "ok bet. so check with prof first then hunt used. thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, that's the plan. Check with your instructor, then look for a used copy, ideally one without writing in the answer blanks. Since you're paying by check on the 1st for rent, set a firm ceiling for the manual now so you don't overspend if you find a deal that's not really a deal. Good luck with the hunt."
+    }
+  ]
+}

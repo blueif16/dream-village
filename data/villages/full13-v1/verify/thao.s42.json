@@ -1,0 +1,92 @@
+{
+  "session_id": "thao.s42",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao just got off a Friday night shift and is heading to bed",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got off my friday night shift, heading to bed.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao got a flat on Ruel Road in the storm, put on the spare, and needs two new front tires",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got a flat on ruel road during the storm yesterday and put the spare on. i need two new front tires for my 2014 hatchback.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants to avoid calling and had prepared a call script",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also realistically can i skip calling them? i had a whole script ready wednesday lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao changed the tire herself calmly following a step-by-step list",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i did the tire change myself on the shoulder, followed a step by step list. fine.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao works nights and is often asleep during the day",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "as I work nights and am often asleep",
+      "support_quote": "just got off my friday night shift, heading to bed."
+    },
+    {
+      "text": "Thao has a script she wants to skip calling",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Your script can stay in your pocket.",
+      "support_quote": "i had a whole script ready wednesday lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i01",
+      "present": true,
+      "quote": "also realistically can i skip calling them? i had a whole script ready wednesday lol"
+    },
+    {
+      "item_id": "thao.f08",
+      "present": true,
+      "quote": "i got a flat on ruel road during the storm yesterday and put the spare on. i need two new front tires for my 2014 hatchback."
+    },
+    {
+      "item_id": "thao.i03",
+      "present": true,
+      "quote": "i did the tire change myself on the shoulder, followed a step by step list. fine."
+    },
+    {
+      "item_id": "thao.f03",
+      "present": true,
+      "quote": "just got off my friday night shift, heading to bed."
+    }
+  ],
+  "sensitive": []
+}

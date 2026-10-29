@@ -1,0 +1,108 @@
+{
+  "session_id": "marcus.s33",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Jade's birthday is Oct 30",
+      "about": "jade",
+      "kind": "fact",
+      "item_id": "marcus.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its jades birthday today oct 30",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus booked dinner at Phở Bến Thành and bought an $85 silver bracelet for Jade",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already booked dinner at phở bến thành and got the silver bracelet, $85",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a 2-5:15 class section today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have my 2-5:15 section today",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus uses humor about being a vampire boyfriend as Jade gets quiet",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im basically a vampire boyfriend rn lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a booked dinner and a bracelet for Jade",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f58",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A booked dinner plus a bracelet is a solid birthday",
+      "support_quote": "i already booked dinner at phở bến thành and got the silver bracelet, $85"
+    },
+    {
+      "text": "Marcus works nights (shift tonight)",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tonight i cant, shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus is a night worker, a vampire boyfriend, only comes out at night",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "sorry I only come out at night",
+      "support_quote": "tonight i cant, shift"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i04",
+      "present": true,
+      "quote": "im basically a vampire boyfriend rn lol"
+    },
+    {
+      "item_id": "marcus.f52",
+      "present": true,
+      "quote": "its jades birthday today oct 30 and im running behind lol"
+    },
+    {
+      "item_id": "marcus.f58",
+      "present": true,
+      "quote": "i already booked dinner at phở bến thành and got the silver bracelet, $85"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i have my 2-5:15 section today so i can only see her for like a minute before work"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "linh.s20",
+  "principal": "linh",
+  "start": "2025-09-15T23:18:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i need talking points pls. i finally have to do the pharmacy talk with my mom this week"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. To make the points useful, can you tell me a bit about the situation? What do you want her to understand, and what do you think she'll push back on?"
+    },
+    {
+      "role": "user",
+      "text": "she wants me to be a pharmacist. like really wants it. thats why its hard.. and ive been putting it off for a while now"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a tough one when she has a clear hope for you. Here's a short starter set:\n\n- Open with appreciation: she wants a stable future for you, and you know that\n- Be clear but gentle: pharmacy doesn't feel like the right fit for you right now\n- Share what you're exploring instead: [what you're actually interested in]\n- Reassure her: you're still taking school seriously and have a plan\n- Ask for her support: you'd like her to hear you out before reacting\n\nWhere and when do you think you'd bring it up?"
+    },
+    {
+      "role": "user",
+      "text": "at home, pell road. i live there, small front bedroom lol. she cooks at 8 and leaves me a plate on closing nights so dinner is basically the only time we overlap"
+    },
+    {
+      "role": "assistant",
+      "text": "That makes dinner the natural moment. A few tips for it:\n\n- Wait until she's sat down and eaten a bit, not while she's still cooking\n- Start with a low-pressure line: \"Mom, can I talk to you about school for a minute?\"\n- Keep it to 5 minutes the first time; it doesn't have to be a final decision\n- Have your one or two main points ready, from the list above\n\nWant me to turn that into a short script?"
+    },
+    {
+      "role": "user",
+      "text": "hmm actually.. can u give me ways to change the subject at dinner instead. like if it starts to come up. something graceful"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Some easy, warm redirects:\n\n- \"This is so good, what did you put in the broth?\"\n- \"Can we talk about it this weekend? I'm wiped tonight.\"\n- \"How was the day for you?\" (people usually love to answer this)\n- Ask for a small favor or story: \"Remind me how you used to make this?\"\n- Bring up something light that's coming up\n\nIf you do want the talk to happen eventually, a gentle \"let's pick a day\" can keep the door open without forcing it tonight. Want me to draft that line too?"
+    },
+    {
+      "role": "user",
+      "text": "yeah the this weekend one is good. thanks ☕ ok im gonna sleep now"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Rest up, and good luck at dinner. I'm here if you want the script later."
+    }
+  ]
+}

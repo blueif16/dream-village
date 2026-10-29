@@ -1,0 +1,143 @@
+{
+  "session_id": "noemi.s71",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Just finished every-other-Saturday overtime shift and is drained",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got home from the every other saturday overtime shift and im completely drained",
+      "support_quote": ""
+    },
+    {
+      "text": "Brother Mateo wants help building his first PC for December birthday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my brother mateo wants me to help build his first pc for his december birthday",
+      "support_quote": ""
+    },
+    {
+      "text": "Parents live in a fourplex off Vinca",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "they live in a fourplex off vinca",
+      "support_quote": ""
+    },
+    {
+      "text": "Dislikes the marsh trail this month due to damp planks",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f56",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the planks were damp last time and im kinda over that trail this month lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Subnetting is her weak spot",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thats my weak spot rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she is wiped after shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "it's early afternoon and you're wiped",
+      "support_quote": "im completely drained"
+    },
+    {
+      "text": "Assistant references her draining work week ahead",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You've got a draining work week ahead",
+      "support_quote": "im completely drained"
+    },
+    {
+      "text": "Assistant says to visit her parents Sunday",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f27",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "visit your parents",
+      "support_quote": "sunday i also gotta stop by my parents place"
+    },
+    {
+      "text": "Assistant says skip the marsh trail",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f56",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Skip the marsh trail",
+      "support_quote": "the planks were damp last time and im kinda over that trail this month lol"
+    },
+    {
+      "text": "Assistant notes brother wants a PC built",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f29",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "ask your brother about the PC",
+      "support_quote": "my brother mateo wants me to help build his first pc for his december birthday"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "missing",
+      "item_id": "noemi.f12",
+      "detail": "quote not found in a user turn: 'i also need a block for subnetting drills, thats my weak spot rn'"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "just got home from the every other saturday overtime shift and im completely drained"
+    },
+    {
+      "item_id": "noemi.f29",
+      "present": true,
+      "quote": "my brother mateo wants me to help build his first pc for his december birthday and i have no idea when to fit that in"
+    },
+    {
+      "item_id": "noemi.f27",
+      "present": true,
+      "quote": "sunday i also gotta stop by my parents place, they live in a fourplex off vinca"
+    },
+    {
+      "item_id": "noemi.f56",
+      "present": true,
+      "quote": "the planks were damp last time and im kinda over that trail this month lol"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "i also need a block for subnetting drills, thats my weak spot rn"
+    }
+  ],
+  "sensitive": []
+}

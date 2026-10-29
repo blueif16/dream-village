@@ -1,0 +1,340 @@
+{
+  "principal": "grace",
+  "week": 7,
+  "entries": [
+    {
+      "id": "grace.w7.l01",
+      "date": "2025-10-06",
+      "what": "Grace decided to move her walks to dawn so evenings stay free for her mother, and started with a 5:45 a.m. Ulloa Salt Marsh boardwalk walk with Dana, even though it was a Monday.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Sets the Tuesday and Thursday dawn walk routine from here on; evening Delgado Park loops end.",
+      "feeling": "tired but resolved",
+      "facts": [
+        "grace.f32",
+        "grace.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l02",
+      "date": "2025-10-06",
+      "what": "Taught periods 1, 2, 3, 5 and 6 in B12, with atomic structure review in Unit 2, and ate leftover rice and ulam during 4th period prep. Dana joined for lunch on her usual Monday.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Normal day; Dana vented about her evaluations.",
+      "feeling": "steady",
+      "facts": [
+        "grace.f01",
+        "grace.f02",
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l03",
+      "date": "2025-10-06",
+      "what": "Home by evening, Grace made dinner and sat with Corazón for the 9 p.m. teleserye.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Quiet evening free for her mother.",
+      "feeling": "content",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l04",
+      "date": "2025-10-07",
+      "what": "Tuesday dawn walk on the marsh boardwalk with Dana, then the Tuesday lunch lab-makeup session in B12.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Second dawn walk done; the new routine holds.",
+      "feeling": "energized",
+      "facts": [
+        "grace.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l05",
+      "date": "2025-10-07",
+      "what": "Isabel came home from her early-action meeting with counselor Eugene Kim, and Grace sat down afterward to look up net price calculators and run the family's numbers.",
+      "with": [
+        "isabel",
+        "eugene"
+      ],
+      "outcome": "Grace was surprised by the aid estimates and decided to keep gathering tax documents.",
+      "feeling": "surprised, thoughtful",
+      "facts": [
+        "grace.f49",
+        "cast.f96"
+      ],
+      "impressions": [
+        "grace.i04"
+      ]
+    },
+    {
+      "id": "grace.w7.l06",
+      "date": "2025-10-07",
+      "what": "That night she asked the assistant to explain how net price calculators work and what the aid numbers mean.",
+      "with": [],
+      "outcome": "Got a clear explanation and a list of schools to test.",
+      "feeling": "cautiously hopeful",
+      "facts": [
+        "grace.f49"
+      ],
+      "impressions": [
+        "grace.i04"
+      ]
+    },
+    {
+      "id": "grace.w7.l07",
+      "date": "2025-10-08",
+      "what": "Taught all five sections and used prep to run Eli's extended-time test in B12.",
+      "with": [
+        "eli"
+      ],
+      "outcome": "Test done without interruption.",
+      "feeling": "routine",
+      "facts": [
+        "grace.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l08",
+      "date": "2025-10-08",
+      "what": "Grace went to the city council candidate forum at the Vinca Avenue Community Center and listened to the Measure K debate.",
+      "with": [],
+      "outcome": "Decided she will vote yes on Measure K.",
+      "feeling": "decided",
+      "facts": [
+        "grace.f64"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l09",
+      "date": "2025-10-08",
+      "what": "Picked up Corazón's prescriptions at the Vinca Avenue drugstore after school before the forum.",
+      "with": [],
+      "outcome": "Pills restocked.",
+      "feeling": "efficient",
+      "facts": [
+        "grace.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l10",
+      "date": "2025-10-09",
+      "what": "Thursday 5:45 a.m. boardwalk walk with Dana, then she taught periods 1 to 3 including Dulce's third period.",
+      "with": [
+        "dana",
+        "dulce"
+      ],
+      "outcome": "Walk routine established twice a week.",
+      "feeling": "awake",
+      "facts": [
+        "grace.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l11",
+      "date": "2025-10-09",
+      "what": "Ate lunch in B12 with Dana, then 4th period prep went to grading Unit 2 labs.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Stack of grading cut in half.",
+      "feeling": "focused",
+      "facts": [
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l12",
+      "date": "2025-10-09",
+      "what": "The minivan sputtered on the way home and Grace checked used car listings that night.",
+      "with": [],
+      "outcome": "Booked a Saturday lot visit.",
+      "feeling": "stressed",
+      "facts": [
+        "grace.f07"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l13",
+      "date": "2025-10-10",
+      "what": "Taught five sections and filled out the weekly absence form with her spreadsheet template, submitting by 3:30.",
+      "with": [],
+      "outcome": "Friday form turned in on time.",
+      "feeling": "routine",
+      "facts": [
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l14",
+      "date": "2025-10-10",
+      "what": "Ate dinner with the family; Isabel and Grace bickered briefly about weekend plans while Ramón was on shift.",
+      "with": [
+        "isabel",
+        "corazon"
+      ],
+      "outcome": "Dropped it before it escalated.",
+      "feeling": "irritable",
+      "facts": [
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l15",
+      "date": "2025-10-10",
+      "what": "Lesson prep for Unit 2 wrap-up and an early night.",
+      "with": [],
+      "outcome": "In bed by 10.",
+      "feeling": "worn out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l16",
+      "date": "2025-10-11",
+      "what": "Saturday groceries at Ruiz Family Market and rolls from Panadería Las Hermanas, then to a Tamsen lot to buy the 2019 blue hatchback, $14,200 financed.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Bought the hatchback; payments of $318 a month start Nov 15, replacing the dying minivan.",
+      "feeling": "relieved but anxious",
+      "facts": [
+        "grace.f08",
+        "grace.f09",
+        "grace.f10",
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l17",
+      "date": "2025-10-11",
+      "what": "Filled the new car at the Ruel Road station and drove home.",
+      "with": [],
+      "outcome": "Saved the 30 cents a gallon.",
+      "feeling": "satisfied",
+      "facts": [
+        "grace.f65"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l18",
+      "date": "2025-10-11",
+      "what": "Told Corazón and Isabel about the new car over dinner.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "Isabel teased about the color.",
+      "feeling": "relieved",
+      "facts": [
+        "grace.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l19",
+      "date": "2025-10-12",
+      "what": "Tagalog Mass at 9 with Corazón at Our Lady of the Marsh, then lunch.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Usual Sunday.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f59"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l20",
+      "date": "2025-10-12",
+      "what": "Graded at the kitchen table all afternoon while Corazón cooked sinigang.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Grading finished by dinner.",
+      "feeling": "productive",
+      "facts": [
+        "grace.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w7.l21",
+      "date": "2025-10-12",
+      "what": "Evening with the assistant: had a parent email cut to under 120 words with the pleasantry removed, then asked for a script to ask Lola Cora about her meter readings without sounding like she was checking up.",
+      "with": [],
+      "outcome": "Got a short email and a gentle script she plans to use before Ramón gets home.",
+      "feeling": "relieved",
+      "facts": [],
+      "impressions": [
+        "grace.i05",
+        "grace.i03"
+      ]
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w7.n01",
+      "subject": "grace",
+      "attribute": "new_car_color",
+      "value": "blue hatchback, Isabel teased about the shade",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w7.n02",
+      "subject": "grace",
+      "attribute": "lot_visit",
+      "value": "went to the Tamsen lot Saturday morning after groceries",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w7.n03",
+      "subject": "grace",
+      "attribute": "net_price_research",
+      "value": "used net price calculators for several out-of-state schools on Oct 7",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w7.n04",
+      "subject": "dana",
+      "attribute": "walk_buddy",
+      "value": "walks the marsh boardwalk with Grace at 5:45 a.m. Tue/Thu",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "linh.s41",
+  "principal": "linh",
+  "start": "2025-10-07T16:42:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait random question. how do i act normal around someone when i get flustered around them"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! Can you give me a bit of context? Who is it (coworker, classmate, friend), and what happens when you get flustered? Blanking, blushing, rambling?"
+    },
+    {
+      "role": "user",
+      "text": "classmate.. i went to pedro's tuesday 4pm anatomy group at the library today and i think i like him?? i havent told anyone. he quizzes everyone w these 3d printed bones and when he held one up at me i completely blanked. like i KNEW it 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a very relatable moment, and blanking on something you know is super common when your nerves spike. A few things help:\n\n- **Before group:** do a 5-minute warm-up quiz on your own so the material feels fresh and automatic.\n- **Blank moment:** say \"give me a sec\" and take one slow breath. A short pause looks calm, not embarrassed.\n- **Reframe:** it's a quiz game, and everyone blanks sometimes. He's likely not tracking it.\n- **Stay low-key:** treat him like any other group member. Ask the same questions you'd ask anyone.\n\nWant a short script for a quick, easy reply if he quizzes you again?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also is there a way to handle it without like. saying anything or changing anything, i kinda hope it just fades"
+    },
+    {
+      "role": "assistant",
+      "text": "Totally fine to not say anything. Doing nothing is a valid plan, and many crushes fade on their own with some time and normal exposure. Here's the low-key version:\n\n- **Don't change anything:** keep going to group, same seat, same routine.\n- **Stay neutral:** friendly, focused on the material, no big gestures.\n- **Give it a few weeks:** if the flustered feeling shrinks, great. If it doesn't, you can decide then whether you want to do anything.\n\nQuick scripts if he quizzes you:\n- \"Ooh, hang on, I know this one.\"\n- \"Okay that one's tricky, can you give me a hint?\"\n- \"Ha, my brain just left the building. Come back to me?\"\n\nAll of them keep it light and buy you a few seconds."
+    },
+    {
+      "role": "user",
+      "text": "ok those are good lol. thanks ☕ ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad that helps! Go eat, and good luck at the next group. 😊"
+    }
+  ]
+}

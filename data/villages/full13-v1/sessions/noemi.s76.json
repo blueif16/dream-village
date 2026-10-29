@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s76",
+  "principal": "noemi",
+  "start": "2025-11-13T10:43:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q why does heavy rain wreck handheld scanners. we have about 620 handhelds and the storm just dumped a pile of wet ones in the cage. also best way to dry and test water damaged electronics?"
+    },
+    {
+      "role": "assistant",
+      "text": "Rain kills handhelds in a few ways:\n\n- Moisture gets past worn gaskets, charge ports, trigger seals and battery doors.\n- Water on a powered board bridges contacts and causes shorts.\n- Dissolved minerals and dirt leave conductive residue, so corrosion keeps going after it looks dry.\n- Batteries and charging pins can corrode or short.\n- Condensation can form inside when a cold, wet unit moves into a warm room.\n\nTo dry and test them:\n1. Power off and pull the battery right away. Don't charge or boot to see if it works.\n2. Wipe the outside and open the battery door and port covers.\n3. Disassemble as far as is safe. Look for droplets, residue or discolored contacts.\n4. If it was only rainwater, let it air dry with good airflow for 24-48 hours. Silica gel packs in a sealed container also help. Skip the rice, it's slow and leaves dust.\n5. If it was dirty or salty water, clean the board with 90%+ isopropyl alcohol and a soft brush, then dry fully.\n6. Check for corrosion (green or white crust) on the contacts, and replace the battery if it's swollen or discolored.\n7. Test with a known-good battery first. Look for heat, a charging fault or a flaky screen, then run a full test: touch, scan, Wi-Fi, trigger and charging cradle.\n8. Watch it for a day or two, because corrosion failures can show up later.\n\nAnything that still acts up should go to the vendor under warranty."
+    },
+    {
+      "role": "user",
+      "text": "ok. yeah they're all stacked in the cage, i'm adding the dead ones to the RMA sheet. me and bao are testing units thru the whole shift today. tldr checklist i can tape to the bench?"
+    },
+    {
+      "role": "assistant",
+      "text": "Bench checklist:\n\n**WET SCANNER TRIAGE**\n1. Power OFF, pull battery. Don't charge it.\n2. Wipe it down and open all covers.\n3. Check for water, residue or crust. Note it on the tag.\n4. Air dry 24-48 hrs, or with silica gel in a sealed bin.\n5. Dirty or salty water: clean with 90%+ IPA, then dry.\n6. Swap in a known-good battery. Replace any swollen or discolored one.\n7. Test: boot, touch, scan, Wi-Fi, trigger, cradle charge.\n8. Hot, glitchy or corroded: stop and mark it RMA.\n9. Passing units: tag with the date and recheck in 24 hrs.\n\nFor the RMA sheet, log the serial, the symptom, the date and what you found (corrosion, no boot, won't charge) so the vendor can't blame abuse. Want a column layout?"
+    },
+    {
+      "role": "user",
+      "text": "ty. the drive to ruel road took forever this morning too, those potholes were lakes 💀. yeah column layout pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Ugh, that sounds rough. Here are columns for the RMA sheet:\n\n1. Serial number\n2. Asset tag\n3. Date received\n4. Symptom\n5. Water exposure (rain / dirty / unknown)\n6. Corrosion seen (Y/N)\n7. Battery swapped (Y/N)\n8. Test result\n9. Tested by\n10. Retest date\n11. Status (testing / passed / RMA)\n12. RMA number\n13. Date shipped\n14. Notes\n\nColor the Status column so the pile is easy to scan."
+    }
+  ]
+}

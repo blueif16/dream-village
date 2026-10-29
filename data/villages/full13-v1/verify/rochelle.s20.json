@@ -1,0 +1,118 @@
+{
+  "session_id": "rochelle.s20",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Van fixed, paid $640 from savings",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the van is fixed finally, paid 640 from savings this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks shop for itemized receipt on repair",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.w6.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want an itemized receipt showing parts and labor",
+      "support_quote": ""
+    },
+    {
+      "text": "Shares license number D4829175",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.w6.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "for your payment record my license number is D4829175",
+      "support_quote": ""
+    },
+    {
+      "text": "Measures $640 against hours on the warehouse line",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "thats like 30 hrs on the line for me lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'the van' for her minivan",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the van is fixed finally",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants answers short and straight",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok be honest does this email sound dumb",
+      "support_quote": ""
+    },
+    {
+      "text": "Picked up minivan today after solenoid repair and paid $640",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I picked up my minivan today after the transmission solenoid repair and paid $640.",
+      "support_quote": "i picked up my minivan today after the solenoid repair and paid $640"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f17",
+      "present": true,
+      "quote": "the van is fixed finally, paid 640 from savings this morning and drove myself to campus lol"
+    },
+    {
+      "item_id": "rochelle.i03",
+      "present": true,
+      "quote": "thats like 30 hrs on the line for me lol"
+    },
+    {
+      "item_id": "rochelle.r03",
+      "present": true,
+      "quote": "the van is fixed finally"
+    },
+    {
+      "item_id": "rochelle.w6.n01",
+      "present": true,
+      "quote": "i want an itemized receipt showing parts and labor"
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "present": true,
+      "quote": "for your payment record my license number is D4829175"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "for your payment record my license number is D4829175",
+      "assistant_quote": ""
+    }
+  ]
+}

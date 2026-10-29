@@ -1,0 +1,47 @@
+{
+  "id": "jun.s31",
+  "principal": "jun",
+  "start": "2025-10-21T21:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss can you quiz me on sales tax for prepared food. just got home, ate al pastor at taqueria colima on the way lol. i closed tonight till 9, cafe was packed w students bc midterm week"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds like a long night, hope the tacos hit the spot. Happy to teach and quiz you. What's the situation you're trying to handle: what are you selling, and where?"
+    },
+    {
+      "role": "user",
+      "text": "fried lumpia, pork and shrimp, lola's roll. the county told me its not cottage food so i gotta use the commissary and get a county health permit instead. so i need to understand the tax part and the permit terms 🥢"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's the short version.\n\n**Sales tax basics**\n- Hot prepared food (fried and served hot) is generally taxable. Cold packaged groceries often aren't. Frozen, uncooked items may fall under different rules.\n- You collect tax from customers and pass it on to the state. It isn't your income.\n- Many states require a seller's permit to collect it. Check your state's tax agency for the exact rules.\n\n**Permit terms**\n- Commissary: a licensed shared kitchen where you prep and store food.\n- Health permit: the county's approval to sell food to the public.\n- Seller's permit: the tax registration, separate from the health permit.\n\nWant a quick quiz?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. also honestly i spent my slow stretch yesterday at the cafe writing a closing checklist for the new 9pm hours so the night crew isnt stuck, but i wanna put that same energy into this. and i want to keep linh's sheet updated with tax totals so i need to know what to track"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, a checklist is a good habit to bring to this too. Quiz time:\n\n1. You sell a half dozen hot lumpia for $12 and the local tax rate is 9%. How much tax do you collect?\n2. Is the tax part of your income?\n3. What's the difference between a commissary and a health permit?\n4. A customer pays cash for a frozen dozen to reheat at home. Is it taxed the same way as hot food? (Tell me your guess.)\n\nAnswer what you can."
+    },
+    {
+      "role": "user",
+      "text": "1. $1.08? 2. no its not mine, i just hold it. 3. commissary is the kitchen, permit is permission. 4. idk guess no? sige tell me"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work:\n1. Correct, $1.08.\n2. Correct.\n3. Correct.\n4. Often yes, you'd guess right: cold or frozen food to reheat is often not taxed like hot food, but rules vary, so confirm with your state tax agency.\n\n**What to track in your sheet** (add columns):\n- Date\n- Item and whether hot or frozen\n- Pre-tax price\n- Tax collected\n- Payment type\n- A running total of tax owed per month\n\nKeep tax separate from sales so you never spend it by accident. Want a one-page checklist you can tape by the fryer?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yes make it short, bullets only 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "**Tax and permit checklist**\n- Hot item? Add tax.\n- Frozen/reheat item? Check the rule first.\n- Log every sale in the sheet, tax in its own column.\n- Set tax money aside weekly.\n- Keep health permit posted at the stall.\n- Keep commissary booking confirmations.\n- Save all receipts.\n- Check tax filing due dates."
+    }
+  ]
+}

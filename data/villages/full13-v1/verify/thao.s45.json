@@ -1,0 +1,383 @@
+{
+  "session_id": "thao.s45",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sends Linh $50 on the 1st every month",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already send her $50 on the 1st every month",
+      "support_quote": ""
+    },
+    {
+      "text": "Sorts cans at the food drive Saturday 9-12",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f60",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to sort cans at the our lady of the marsh food drive 9-12 saturday",
+      "support_quote": ""
+    },
+    {
+      "text": "Needs to sleep soon after shift at 8:56",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's 8:56 and i need to sleep soon",
+      "support_quote": ""
+    },
+    {
+      "text": "Tomás's chili pot is soaking",
+      "about": "tomas",
+      "kind": "fact",
+      "item_id": "thao.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tomas's chili pot is still soaking from last night",
+      "support_quote": ""
+    },
+    {
+      "text": "Cooks freezer meals for sister Linh instead of voicing worry, practical care",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "figure food in the freezer helps more during finals",
+      "support_quote": ""
+    },
+    {
+      "text": "Sister has finals and café shifts",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "for my sister, she has finals",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers short bulleted answers",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bullet it pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Cooking starts after noon due to food drive",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f60",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since cooking starts after noon",
+      "support_quote": "i have to sort cans at the our lady of the marsh food drive 9-12 saturday so cooking starts after that"
+    },
+    {
+      "text": "Chili pot is soaking at Thao's place",
+      "about": "tomas",
+      "kind": "fact",
+      "item_id": "thao.f46",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The chili pot is out unless you scrub it.",
+      "support_quote": "tomas's chili pot is still soaking from last night"
+    },
+    {
+      "text": "Freezer food helps more than cash",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the freezer will help more than cash during finals",
+      "support_quote": "i already send her $50 on the 1st every month"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.i04",
+      "present": true,
+      "quote": "figure food in the freezer helps more during finals"
+    },
+    {
+      "item_id": "thao.f36",
+      "present": true,
+      "quote": "i already send her $50 on the 1st every month"
+    },
+    {
+      "item_id": "thao.f60",
+      "present": true,
+      "quote": "i have to sort cans at the our lady of the marsh food drive 9-12 saturday so cooking starts after that"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "it's 8:56 and i need to sleep soon"
+    },
+    {
+      "item_id": "thao.f46",
+      "present": true,
+      "quote": "tomas's chili pot is still soaking from last night"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

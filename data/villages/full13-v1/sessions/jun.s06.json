@@ -1,0 +1,39 @@
+{
+  "id": "jun.s06",
+  "principal": "jun",
+  "start": "2025-09-06T14:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss the saturday table sold out by like 1 lol. made about 150 lumpia last night and they were all gone. wes bought two and paid in quarters, grabe 🥢 anyway i have a pile of cash in a coffee cup and zero idea how to total it. can i just guess the number and call it good"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on selling out, that's a great first Saturday! 🔥\n\nYou can guess, but it'll cost you later when you try to figure out your profit, so here's a two-minute way to do it:\n\n1. Dump the cash out and sort by bill type (20s, 10s, 5s, 1s, and the quarters).\n2. Count each pile and multiply: e.g. 3 twenties = $60.\n3. Add up the piles for your total.\n4. Count it a second time, or have someone else do it, to double-check.\n\nIf you tell me your price per lumpia (or per half dozen) and the total, I can also check whether it matches roughly how many you sold."
+    },
+    {
+      "role": "user",
+      "text": "sige. prices were $10 for a half dozen. ok but then where do i write it down, like what's the easiest way. numbers stuff makes my brain tired"
+    },
+    {
+      "role": "assistant",
+      "text": "Keep it dead simple. A notes app entry or a small notebook is plenty for now. One line per Saturday:\n\nDate | Cash counted | Lumpia sold | Notes\n\nExample: Sep 6 | $[your total] | ~150 | sold out by 1, first day\n\nAlso keep the receipts for what you spend on ingredients in one envelope or box so later you can subtract them from your cash total. Since you sold at $10 per half dozen, 150 lumpia would be 25 orders, so around $250 if every one sold at full price. Does your count land near that?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually yeah thats close enough, ill log it tonight. now i wanna do a slightly bigger batch next week, like maybe 180ish? paolo showed up late to friday prep cause of his closing shift so i did most of the rolling lol. also the permit form can wait til next week, the table is working"
+    },
+    {
+      "role": "assistant",
+      "text": "Going from about 150 to around 180 is a smart small step, since you sold out and it's only 30 more.\n\nPlan for 180:\n- Scale your filling by 20% (multiply every ingredient by 1.2) and buy your wrappers accordingly. Buy a few extra wrappers since some tear.\n- Prep earlier in the week: mix and chill the filling Thursday, and roll Friday.\n- Since Paolo's closing shift can make him late, give him a specific job with a set time, like mixing filling on an earlier day, so you aren't doing all the rolling alone.\n- Freeze in batches of 30 so you can count quickly on Saturday.\n\nOne small thing: since you're growing, it's worth putting a date on the permit form for next week so it doesn't slip. Want me to write the plan out as a checklist for the fryer wall?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls checklist, short version 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Lumpia Week Checklist (180)\n\nThu\n☐ Buy wrappers + extras\n☐ Mix filling (1.2x recipe), chill\n\nFri\n☐ Roll 180 (30 per tray)\n☐ Freeze, label trays\n☐ Paolo: [his task + time]\n\nSat\n☐ Fry, set up table\n☐ Count cash by bill\n☐ Log: date, cash, number sold\n\nMon\n☐ Pick a time for the permit form"
+    }
+  ]
+}

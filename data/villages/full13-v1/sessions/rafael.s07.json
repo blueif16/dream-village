@@ -1,0 +1,47 @@
+{
+  "id": "rafael.s07",
+  "principal": "rafael",
+  "start": "2025-10-08T13:11:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "bro need help with my week. schedule is a mess since we moved to the new lot. i work thu-sun 5-10pm at the gas station lot on ruel now so evenings are gone for studying"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. So Thursday through Sunday evenings, 5 to 10, are taken by the stand. What else is fixed in your week? Classes, anything you can't move?"
+    },
+    {
+      "role": "user",
+      "text": "brakes lab mon/wed 8-11. salas class tue/thu 1-4. and fridays i gotta leave the stand at 8:50 to get dulce and be back by 9:20. also setup at the new lot takes me an hour so thats basically 4 too"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's the picture:\n\n- Mon/Wed: brakes lab 8-11\n- Tue/Thu: engine class 1-4\n- Thu-Sun: setup around 4, stand 5-10\n- Friday: stand pauses at 8:50 for the pickup, back by 9:20\n\nWhat do you do for studying right now, and when do you get free time?"
+    },
+    {
+      "role": "user",
+      "text": "i used to reread the chapter the night before and it doesnt stick. what works is i record voice memo flashcards and listen while prepping the griddle. i want more of that. reading the book just goes in one ear lol. also last night i stayed up making a setup checklist for my parents instead of studying so yeah. stand has to be covered first, study goes around it"
+    },
+    {
+      "role": "assistant",
+      "text": "Makes sense, so we'll lock the stand in first and build study around it, using listening and doing instead of reading. Here's a draft:\n\n**Mon/Wed**\n- After lab (11-12): record 5-8 voice memo flashcards from that week's chapter while it's fresh. Say each one the way you'd explain it at the car: question first, then the answer.\n- Evening is free. Do one 15-minute listen-through, then rest.\n\n**Tue**\n- Morning: record flashcards for 20 minutes before class.\n- Evening: free, light listen.\n\n**Thu-Sun, before the stand**\n- During the hour of griddle and setup prep, play your memos. That's 4-5 hours a week of listening without taking any other time.\n- On Thursday, play the Tuesday and Wednesday memos.\n\n**Friday**\n- Put the 8:50-9:20 pickup drive on your listening list too. Half an hour round trip is a good spot for a quiz round. Do a quick \"stand check\" with your parents before you leave so they're covered.\n\n**Setup checklist**\n- Tape it near the generator so your parents don't need you to re-explain it. Then you can stop spending late nights on it.\n\nTo make recording faster: after each lesson, record a short memo of 3-5 flashcards instead of making a long set, and keep the question under 15 seconds. Want me to turn one chapter into a sample set of spoken flashcards?"
+    },
+    {
+      "role": "user",
+      "text": "simón that works. can u make it shorter tho, like just the weekly version"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- **Mon/Wed after lab:** record 5-8 flashcards, 15-minute listen at night\n- **Tue morning:** record 20 minutes, light listen at night\n- **Thu-Sun:** play memos during the hour of prep before the stand\n- **Friday:** quiz round during the 8:50 pickup drive\n- **Setup checklist:** tape it by the generator so the stand runs without you having to explain it\n\nSend me a chapter or a few questions anytime and I'll turn them into spoken-style flashcards."
+    },
+    {
+      "role": "user",
+      "text": "thanks bro that helped fr 👍"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck this week!"
+    }
+  ]
+}

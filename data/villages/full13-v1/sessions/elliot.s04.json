@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s04",
+  "principal": "elliot",
+  "start": "2025-08-28T21:08:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:08 pm update. so i reported a leaking bathroom faucet to the property manager today and got a very confident \"we'll get to it.\" no date, no ticket number read back, nothing. we're in the upstairs unit, 209, and the drip is right near the shared wall with the neighbor, so i'd like it handled before it becomes a bigger problem. how should i handle this? and what do i say if no repair date shows up?"
+    },
+    {
+      "role": "assistant",
+      "text": "A vague \"we'll get to it\" is common, and the fix is to turn it into something written and dated. Here's a plan.\n\n**Tonight / tomorrow**\n1. Document it. Take a short video of the drip and a couple of photos, including the spot near the shared wall, with a visible timestamp if you can.\n2. Contain it. Keep a towel or small bowl under the drip and check it daily. A slow leak near a wall can cause hidden damage, so note any damp spots, staining or smells.\n3. Send a written follow-up (email or the portal) so there's a record. Draft:\n\n> Hi [property manager's name], following up on the leaking bathroom faucet in unit 209 that I reported today, [date]. It's an upstairs unit and the leak is near the shared wall, so I'd like to avoid water damage. Could you confirm the ticket number and an expected repair date? Thanks, [your name]\n\n**If there's no date within 2-3 business days**\nSend a second message:\n\n> Hi [name], I haven't received a repair date for the faucet leak I reported on [date] (ticket # [number]). Please let me know by [date, e.g., end of the week] when a technician will come. I'm happy to share photos. If it's getting worse, I'll let you know right away.\n\n**If it still drags on**\n- Check your lease and local tenant rules for repair timelines and what notice they require.\n- Send a formal written request by whatever method your lease specifies, keeping a copy.\n- If the leak worsens (it speeds up, or you see wall damage), say so in writing and mark it urgent.\n\nWant me to put the timeline in a table, or adjust the tone to be firmer or friendlier?"
+    },
+    {
+      "role": "user",
+      "text": "table form please, i think better in tables. also friendlier for the first message, i'd rather not start a war. thanks!"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go.\n\n| When | Action | Notes |\n|---|---|---|\n| Tonight | Photos and a short video of the drip, including near the shared wall | Keep the timestamp |\n| Tonight | Towel or bowl under the drip, check daily | Note any damp wall or smell |\n| Tomorrow | Send message #1 (friendly) | In writing, so there's a record |\n| 2-3 business days later | Send message #2 asking for a specific date | Include the ticket number if you have it |\n| End of that week | Check lease and local repair rules, send a formal written request | Keep copies of everything |\n| Any time it worsens | Mark it urgent in writing with new photos | Water near a wall can spread |\n\n**Message #1 (friendly):**\n\n> Hi [property manager's name], thanks for taking my report today about the leaking bathroom faucet in unit 209. Since we're upstairs and the drip is near the shared wall, I'd love to get it fixed before it causes any damage. Could you let me know the ticket number and roughly when someone can come by? I really appreciate it. [your name]\n\nIf you want, I can also draft a firmer version of message #2 for later."
+    }
+  ]
+}

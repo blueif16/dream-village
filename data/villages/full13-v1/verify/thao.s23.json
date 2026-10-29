@@ -1,0 +1,77 @@
+{
+  "session_id": "thao.s23",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao sends Linh $50 on the 1st for groceries, not just textbooks",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also the $50 on the 1st is for actual groceries, not just textbooks",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao manages Linh's stress quietly, keeping it from their mother",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "dont mention any of this to mom ok",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's sister Linh has an anatomy lab practical next Friday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "she has her anatomy lab practical next friday",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao sends Linh $50 on the 1st for groceries",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the $50 on the 1st is for real groceries, not just textbooks",
+      "support_quote": "also the $50 on the 1st is for actual groceries, not just textbooks"
+    },
+    {
+      "text": "Linh has been studying for weeks",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "you've been studying for weeks",
+      "support_quote": "you've been studying for weeks"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f36",
+      "present": true,
+      "quote": "also the $50 on the 1st is for actual groceries, not just textbooks"
+    },
+    {
+      "item_id": "thao.i02",
+      "present": true,
+      "quote": "dont mention any of this to mom ok"
+    },
+    {
+      "item_id": "thao.f59",
+      "present": true,
+      "quote": "keep the em bé as is"
+    }
+  ],
+  "sensitive": []
+}

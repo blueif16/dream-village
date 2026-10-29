@@ -1,0 +1,117 @@
+{
+  "session_id": "noemi.s20",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Iris keeps the shared household budget sheet",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris keeps the household one, i just fill in what she set up",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi lets Iris be the organized one with the budget",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris will probably just tell me if i did it wrong lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Check-engine light repair, likely O2 sensor, about $238",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "check engine light thing, it was the o2 sensor probably, ~$238",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi pays $1,450 of the $2,900 rent",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f13",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i pay $1,450 of the $2,900 rent",
+      "support_quote": ""
+    },
+    {
+      "text": "Parents live in a fourplex off Vinca",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "heading to my parents fourplex off vinca for lunch later",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's mom's phone needs fixing, Noemi does tech help for parents",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gotta fix my mom's phone anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's rent share is $1,450 of $2,900",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f13",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your $1,450 share of the $2,900 is a fixed monthly line",
+      "support_quote": "i pay $1,450 of the $2,900 rent"
+    },
+    {
+      "text": "Noemi's repair was an O2 sensor for a check-engine light, $238",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f15",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Item: O2 sensor repair (check-engine light)",
+      "support_quote": "check engine light thing, it was the o2 sensor probably, ~$238"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i04",
+      "present": true,
+      "quote": "iris will probably just tell me if i did it wrong lol"
+    },
+    {
+      "item_id": "noemi.f45",
+      "present": true,
+      "quote": "iris keeps the household one, i just fill in what she set up"
+    },
+    {
+      "item_id": "noemi.f15",
+      "present": true,
+      "quote": "check engine light thing, it was the o2 sensor probably, ~$238"
+    },
+    {
+      "item_id": "noemi.f13",
+      "present": true,
+      "quote": "does it matter that i pay $1,450 of the $2,900 rent"
+    },
+    {
+      "item_id": "noemi.f27",
+      "present": true,
+      "quote": "heading to my parents fourplex off vinca for lunch later, gotta fix my mom's phone anyway"
+    }
+  ],
+  "sensitive": []
+}

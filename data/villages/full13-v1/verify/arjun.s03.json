@@ -1,0 +1,364 @@
+{
+  "session_id": "arjun.s03",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Rides the 7:02 train",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "on the 7:02 rn and its packed",
+      "support_quote": ""
+    },
+    {
+      "text": "Commute is a 20 minute train ride",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "20 min ride.",
+      "support_quote": ""
+    },
+    {
+      "text": "Holding a large masala chai",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "holding a large masala chai in one hand",
+      "support_quote": ""
+    },
+    {
+      "text": "Phone battery dies by 4",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "phone battery usually dies by 4",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says ride is 20 minutes",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Then keep it to a tight 20 minutes with minimal screen time:",
+      "support_quote": "20 min ride."
+    },
+    {
+      "text": "Has a chai with him",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f27",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "finish your chai",
+      "support_quote": "holding a large masala chai in one hand"
+    },
+    {
+      "text": "Phone won't last the day",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a phone that still has juice this afternoon",
+      "support_quote": "phone battery usually dies by 4"
+    },
+    {
+      "text": "Has a tracker for internship contacts",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Jot the 3 names in your tracker later",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": "arjun.r01",
+      "detail": "assistant turn 4 says 'Jot the 3 names in your tracker later' before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "arjun.r03",
+      "present": true,
+      "quote": "on the 7:02 rn and its packed, standing"
+    },
+    {
+      "item_id": "arjun.f03",
+      "present": true,
+      "quote": "20 min ride."
+    },
+    {
+      "item_id": "arjun.f27",
+      "present": true,
+      "quote": "holding a large masala chai in one hand so basically one thumb"
+    },
+    {
+      "item_id": "arjun.f24",
+      "present": true,
+      "quote": "phone battery usually dies by 4 so i cant burn it all on this"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

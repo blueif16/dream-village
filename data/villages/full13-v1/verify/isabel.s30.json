@@ -1,0 +1,127 @@
+{
+  "session_id": "isabel.s30",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "SAT score came out today: 1450, 720 reading, 730 math",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my sat score came out today. 1450, 720 reading 730 math.",
+      "support_quote": ""
+    },
+    {
+      "text": "PSAT-equivalent of 1340 sophomore year",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my psat equivalent sophomore year was 1340",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a snow list of schools",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "which schools on the snow list would care about the score",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants Grace to notice her score while appearing not to care",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so it doesnt look like i care what grace thinks lol. but i kinda want her to notice",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants grade protected after missing a reading response",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i06",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "still need my grade protected",
+      "support_quote": ""
+    },
+    {
+      "text": "Missed APUSH reading response due to a robotics build night",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w8.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i missed a reading response bc of a robotics build night",
+      "support_quote": ""
+    },
+    {
+      "text": "Jump from 1340 to 1450",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A 110-point jump from 1340 to 1450 is solid.",
+      "support_quote": "my psat equivalent sophomore year was 1340"
+    },
+    {
+      "text": "Has a snow list",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I don't know what's on your snow list, so paste it",
+      "support_quote": "which schools on the snow list would care about the score"
+    },
+    {
+      "text": "Math score 730",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f08",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Math was 730, so that's fine for engineering.",
+      "support_quote": "my sat score came out today. 1450, 720 reading 730 math."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f08",
+      "present": true,
+      "quote": "my sat score came out today. 1450, 720 reading 730 math."
+    },
+    {
+      "item_id": "isabel.i02",
+      "present": true,
+      "quote": "i need a throwaway line to drop at dinner about the score so it doesnt look like i care what grace thinks lol. but i kinda want her to notice"
+    },
+    {
+      "item_id": "isabel.i06",
+      "present": true,
+      "quote": "i missed a reading response bc of a robotics build night and want to make it up, still need my grade protected"
+    },
+    {
+      "item_id": "isabel.f07",
+      "present": true,
+      "quote": "my psat equivalent sophomore year was 1340 so how big of a jump is that genuinely"
+    },
+    {
+      "item_id": "isabel.r01",
+      "present": true,
+      "quote": "which schools on the snow list would care about the score"
+    }
+  ],
+  "sensitive": []
+}

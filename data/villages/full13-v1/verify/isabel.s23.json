@@ -1,0 +1,92 @@
+{
+  "session_id": "isabel.s23",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Her college list grew from 9 to 12 schools after meeting Mr. Kim, with 6 out of state, 4 UC, and safeties",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the list went from 9 schools to 12 after the meeting, 6 out of state, 4 UC, and bayshore state + the in-state polytechnic as safeties",
+      "support_quote": ""
+    },
+    {
+      "text": "Mr. Kim has about 480 students and fit her in",
+      "about": "eugene",
+      "kind": "fact",
+      "item_id": "cast.f96",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he has like 480 students and still fit me in",
+      "support_quote": ""
+    },
+    {
+      "text": "She recolored her spreadsheet instead of writing questions, showing stalling",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "instead recolored my spreadsheet lol so i never brought any",
+      "support_quote": ""
+    },
+    {
+      "text": "She is considering switching to early decision and wanted to raise it with Mr. Kim",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w6.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "does early decision still make sense for me?? i wanted to bring that up",
+      "support_quote": ""
+    },
+    {
+      "text": "Her list is now 12 schools: 6 out of state, 4 UC, safeties",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "My list is now 12 schools: 6 out of state, 4 UC campuses, and Bayshore State and an in-state polytechnic as safeties.",
+      "support_quote": "the list went from 9 schools to 12 after the meeting, 6 out of state, 4 UC, and bayshore state + the in-state polytechnic as safeties"
+    },
+    {
+      "text": "She is considering switching to early decision",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.w6.n03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm considering switching to early decision.",
+      "support_quote": "does early decision still make sense for me?? i wanted to bring that up"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f06",
+      "present": true,
+      "quote": "the list went from 9 schools to 12 after the meeting, 6 out of state, 4 UC, and bayshore state + the in-state polytechnic as safeties"
+    },
+    {
+      "item_id": "isabel.i01",
+      "present": true,
+      "quote": "i was supposed to write my questions for the meeting last night and instead recolored my spreadsheet lol so i never brought any"
+    },
+    {
+      "item_id": "cast.f96",
+      "present": true,
+      "quote": "he has like 480 students and still fit me in so keep it short"
+    },
+    {
+      "item_id": "isabel.w6.n03",
+      "present": true,
+      "quote": "does early decision still make sense for me?? i wanted to bring that up"
+    }
+  ],
+  "sensitive": []
+}

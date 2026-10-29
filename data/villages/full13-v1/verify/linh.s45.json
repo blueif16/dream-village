@@ -1,0 +1,127 @@
+{
+  "session_id": "linh.s45",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "bought a used e-bike for $640",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bought a used e-bike today for $640",
+      "support_quote": ""
+    },
+    {
+      "text": "will charge the e-bike behind the cafe counter",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "gonna charge it behind the cafe counter",
+      "support_quote": ""
+    },
+    {
+      "text": "rebuilding savings to $1500 for spring textbooks and transfer fees",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f13",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rebuilding to $1500 now for spring textbooks and transfer fees",
+      "support_quote": ""
+    },
+    {
+      "text": "the practical is next Friday",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the practical is next friday",
+      "support_quote": ""
+    },
+    {
+      "text": "yellow list trimmed to 40 structures",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "quiz me on the yellow list, i trimmed it to 40 structures",
+      "support_quote": ""
+    },
+    {
+      "text": "uses green for nerves in her notes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tag the nerves green to match my notes",
+      "support_quote": ""
+    },
+    {
+      "text": "user bought an e-bike",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Congrats on the e-bike!",
+      "support_quote": "bought a used e-bike today for $640"
+    },
+    {
+      "text": "user has a yellow list she has not yet shared",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I don't have your yellow list yet.",
+      "support_quote": "quiz me on the yellow list, i trimmed it to 40 structures"
+    },
+    {
+      "text": "user will paste the list tomorrow",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Rest up, paste the list tomorrow",
+      "support_quote": "ok pasting the list tmrw, brain is mush"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f11",
+      "present": true,
+      "quote": "bought a used e-bike today for $640"
+    },
+    {
+      "item_id": "linh.f13",
+      "present": true,
+      "quote": "rebuilding to $1500 now for spring textbooks and transfer fees"
+    },
+    {
+      "item_id": "linh.r01",
+      "present": true,
+      "quote": "the practical is next friday and i need to nail the nerves"
+    },
+    {
+      "item_id": "linh.r02",
+      "present": true,
+      "quote": "quiz me on the yellow list, i trimmed it to 40 structures"
+    },
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "can u tag the nerves green to match my notes pls"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s12",
+  "principal": "elliot",
+  "start": "2025-09-07T21:42:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:42 pm sunday update. can you help me set up a weekly plan for the house, in table form? i think better in tables. columns for naps, feeds and meals, one row per day. baby is 7 weeks old, naps are mostly on my chest right now. also need to fill out an FSA reimbursement form this week, thanks in advance"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Here's a starter weekly template you can fill in or adjust:\n\n| Day | Naps | Feeds | Meals (you) | Notes |\n|---|---|---|---|---|\n| Mon | Morning / midday / afternoon (log actual times) | Every 2.5-3.5 hrs, log oz | | |\n| Tue | Same | Same | | |\n| Wed | Same | Same | | |\n| Thu | Same | Same | | |\n| Fri | Same | Same | | |\n| Sat | Same | Same | | |\n| Sun | Same | Same | | Weekly review |\n\nAt this age naps are usually short and unpredictable, so I'd log what actually happens for a week before locking in times. A few things would help me tailor it: what are your dinners looking like, and what fixed commitments or bills fall this month? And send over the FSA form when you're ready."
+    },
+    {
+      "role": "user",
+      "text": "dinners: honestly it's takeout or frozen meals nearly every night. employee of the month at the microwave. when could i realistically cook a real dinner? and i can make scrambled eggs, boxed pasta and one chili recipe. that's the whole repertoire. fixed stuff: rent is $2,380, due on the 1st, paid through the Marisol Gardens portal"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a workable base. Here's a realistic approach:\n\n| Day | Dinner | Effort |\n|---|---|---|\n| Mon | Scrambled eggs + toast + fruit | 10 min |\n| Tue | Takeout | 0 |\n| Wed | Boxed pasta with jarred sauce and frozen veg | 15 min |\n| Thu | Frozen meal | 2 min |\n| Fri | Takeout | 0 |\n| Sat | Eggs or pasta | 10-15 min |\n| Sun | Chili (your one recipe), made in a big batch | 45 min, mostly hands-off |\n\nSunday is your best candidate for a real dinner: a big pot of chili is mostly simmering, and it gives you leftovers for 2-3 nights, which cuts the takeout. Once that feels easy, add one new simple recipe, like a sheet-pan chicken and veggies dish, in a week or two.\n\nFor cash flow, put rent ($2,380 on the 1st via the portal) first on your calendar and set aside the money a few days before, so the other weeks' spending flexes around it. Want me to add a money row to the table?"
+    },
+    {
+      "role": "user",
+      "text": "yes please. ok here's the FSA form, typing one-handed sorry:\n\nFSA Reimbursement Claim\nName: Elliot Brandt\nExpense type: Medical copay\nDate of service: 09/03/2025\nAmount: $[   ]\nDirect deposit - account number: credit union checking ending 40-7719-3\nSignature: [   ]\n\nwhat do i fill in and is there anything that trips people up"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's how to complete it:\n\n| Field | What to enter |\n|---|---|\n| Name | Already filled in |\n| Expense type | Medical copay is fine; attach the receipt or explanation of benefits |\n| Date of service | Check it matches the receipt exactly |\n| Amount | The exact amount you paid out of pocket, from the receipt, not the billed total |\n| Direct deposit - account number | The account number is already entered; before submitting, check it against your bank statement or app, since a single wrong digit is the most common cause of a failed deposit |\n| Signature | Sign and date it yourself |\n\nCommon snags: missing itemized receipts, submitting after your plan's deadline, and claiming something your plan doesn't cover. Also, don't email the form with sensitive details unless your administrator's portal is secure; their upload tool is safer.\n\nAnd here's your updated weekly table with a money row:\n\n| Day | Naps | Feeds | Meals | Money |\n|---|---|---|---|---|\n| Mon-Sun | Log actual times | Log oz | See dinner plan | Set aside rent before the 1st |\n| Sun | Weekly review | Weekly review | Chili batch | Submit FSA claim this week |\n\nWant me to turn the naps and feeds columns into a log you can paste into your spreadsheet?"
+    }
+  ]
+}

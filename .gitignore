@@ -1,0 +1,11 @@
+.env
+runs/
+__pycache__/
+.venv/
+data/*
+!data/SHA256SUMS
+runs-argon/
+viz/public/data/
+viz/node_modules/
+!data/villages/
+!viz/public/data/

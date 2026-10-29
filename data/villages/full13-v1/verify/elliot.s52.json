@@ -1,0 +1,92 @@
+{
+  "session_id": "elliot.s52",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Theo's three crib naps at 9, 12:30, 4 with 90-minute wake windows went by schedule today",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "today the three crib naps at 9, 12:30 and 4 with 90-minute wake windows all went by schedule",
+      "support_quote": ""
+    },
+    {
+      "text": "Tracker app shared with Hana and Judith; exports from summary tab",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i export these numbers from the summary tab, but we log in the tracker app first, it's shared with hana and judith",
+      "support_quote": ""
+    },
+    {
+      "text": "'the log' is Elliot's tracking spreadsheet",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll paste some rows from the log",
+      "support_quote": ""
+    },
+    {
+      "text": "Morning boardwalk stroller walk before nap 1",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we did the morning boardwalk stroller walk before nap 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot turns the nap question into a data-testing project",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want to understand WHY instead of just celebrating",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot has a summary tab in his spreadsheet to add a column to",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "add a \"walk? Y/N\" column to your summary tab",
+      "support_quote": "i export these numbers from the summary tab"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f16",
+      "present": true,
+      "quote": "today the three crib naps at 9, 12:30 and 4 with 90-minute wake windows all went by schedule"
+    },
+    {
+      "item_id": "elliot.f10",
+      "present": true,
+      "quote": "i export these numbers from the summary tab, but we log in the tracker app first, it's shared with hana and judith"
+    },
+    {
+      "item_id": "elliot.r01",
+      "present": true,
+      "quote": "i'll paste some rows from the log"
+    },
+    {
+      "item_id": "elliot.f28",
+      "present": true,
+      "quote": "we did the morning boardwalk stroller walk before nap 1 and he went down so easy"
+    }
+  ],
+  "sensitive": []
+}

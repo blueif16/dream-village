@@ -1,0 +1,47 @@
+{
+  "id": "arjun.s44",
+  "principal": "arjun",
+  "start": "2025-10-11T12:12:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok think out loud with me. finished resume v19 this morning, one page, quantified warehouse-sim project. and then i ran the ulloa marsh boardwalk loop to clear my head, didnt really work"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice work getting v19 done. A one-page resume with a quantified project is a solid asset. Sorry the run didn't clear your head. What's the thing that's still nagging at you? Is it the resume, or something bigger about the search?"
+    },
+    {
+      "role": "user",
+      "text": "bigger. spreadsheet is at 81+ applications, color-coded by stage, and its mostly a wall of red. lowkey wondering if volume applying is even working"
+    },
+    {
+      "role": "assistant",
+      "text": "Fair question. Here's one way to check it:\n\n- **Response rate:** how many of the 81+ got any reply (screen, interview, rejection, anything)?\n- **Where they stall:** are the red rows mostly auto-rejects with no human contact, or do some get past the first look?\n- **Fit:** are they all similar roles, or a wide spread?\n\nIf the replies are low and mostly auto-rejects, volume alone may not be the lever. Fewer, better-tailored applications plus a referral or two often beat a big pile. Do you know roughly how those rows break down?"
+    },
+    {
+      "role": "user",
+      "text": "mostly silence. ngl omar keeps posting about his internship and its like every other day. how many applications do normal people send before an offer anyway"
+    },
+    {
+      "role": "assistant",
+      "text": "There's no single number. Typical ranges I see cited are somewhere from a few dozen to over a hundred applications for a competitive internship, and the spread is wide because it depends on the field, timing, and how targeted each one is. Some people land one off a single referral; others send many more.\n\nSomeone else's posts show only their results, not the dozens of applications, ignored emails, or connections behind them. Comparing your raw count to their highlight doesn't tell you much. What would tell you more is your own conversion data: which kinds of applications got replies."
+    },
+    {
+      "role": "user",
+      "text": "fair. so what do i do next, tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "TL;DR:\n\n1. **Audit the sheet:** tag each row with whether you got any reply, then note what the replies have in common.\n2. **Cut to your best targets:** pick maybe 30-40 that fit best and tailor v19 for each.\n3. **Go through people:** reach out to alumni or contacts at those companies instead of applying cold.\n4. **Practice out loud:** do some spoken practice, not just written prep.\n\nWant me to set up the audit columns for your spreadsheet first?"
+    },
+    {
+      "role": "user",
+      "text": "yeah do the columns, as a table pls"
+    },
+    {
+      "role": "assistant",
+      "text": "| Column | What to enter |\n|---|---|\n| Company / role | Name and title |\n| Date applied | MM/DD |\n| Source | Cold apply / referral / career fair / alumni |\n| Tailored? | Y / N (did you customize the resume?) |\n| Resume version | e.g. v19 |\n| Reply? | None / auto-reject / human reply / screen |\n| Days to reply | Number |\n| Fit score | 1-5 |\n| Next step | Follow up, drop, or prep |\n\nAfter filling it in, sort by Source and Reply to see which approach is actually getting responses."
+    }
+  ]
+}

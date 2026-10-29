@@ -1,0 +1,127 @@
+{
+  "session_id": "thao.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao is coming to Sunday dinner at Hạnh's house tonight with a dish",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm coming to sunday dinner at the house tonight and bringing a dish",
+      "support_quote": ""
+    },
+    {
+      "text": "Hạnh may push Linh toward pharmacy",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "cast.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "are you still thinking about linh and pharmacy?",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says asking about pharmacy gives Hạnh an opening to run with it",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "cast.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "asking about it gives her an opening to run with it",
+      "support_quote": "warm but dont open the door to pharmacy talk"
+    },
+    {
+      "text": "Hạnh leaves voicemails in Vietnamese; Thao prefers texting",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "thao.f51",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "mom left another voicemail in vietnamese",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao prefers text over voicemail",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'd rather text than hear another voicemail lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao quietly gets to Linh before mom to manage her questions",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want to get to her before mom does",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao drives the hatchback with a low tire",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'll drive the hatchback so i should leave early, the tire's been feeling low",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Thao drives the hatchback and tire has felt low",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll drive the hatchback, so I'll leave a bit early since the tire has been feeling low.",
+      "support_quote": "i'll drive the hatchback so i should leave early, the tire's been feeling low"
+    },
+    {
+      "text": "Assistant says Thao sleeps when calls come",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "easier than calls while I'm sleeping",
+      "support_quote": "mom left another voicemail in vietnamese"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f35",
+      "present": true,
+      "quote": "i'm coming to sunday dinner at the house tonight and bringing a dish"
+    },
+    {
+      "item_id": "cast.f31",
+      "present": true,
+      "quote": "warm but dont open the door to pharmacy talk"
+    },
+    {
+      "item_id": "thao.f51",
+      "present": true,
+      "quote": "mom left another voicemail in vietnamese"
+    },
+    {
+      "item_id": "thao.i02",
+      "present": true,
+      "quote": "linh needs to come early, i want to get to her before mom does. keep it vague."
+    },
+    {
+      "item_id": "thao.f07",
+      "present": true,
+      "quote": "i'll drive the hatchback so i should leave early, the tire's been feeling low"
+    }
+  ],
+  "sensitive": []
+}

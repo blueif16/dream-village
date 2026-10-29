@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s60",
+  "principal": "noemi",
+  "start": "2025-10-28T10:34:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q how do dhcp lease times work and what's a sane lease length for warehouse wifi where scanners roam all day. some handhelds keep dropping off the network and i need to explain it properly. i'm IT support tech II on the help desk at RF-4"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: when a device joins the network, the DHCP server \"leases\" it an IP address for a set time.\n\n- At 50% of the lease, the device asks to renew with the same server.\n- At about 87.5%, if that failed, it asks any DHCP server.\n- If the lease fully expires, the device drops the address and has to start over, which looks like a Wi-Fi drop.\n\nRoaming between access points doesn't normally change the lease, as long as everything is on the same subnet/VLAN. If the scanners cross subnets, they may need a new address.\n\nSensible lease length for a warehouse with roaming handhelds:\n- Typical: 4 to 8 hours is a common range for a busy, shared pool. 8 to 24 hours is also fine if the pool is big.\n- Shorter leases (1 to 4 hours) help if you're running low on addresses, since devices that left free up their IPs quickly.\n- Longer leases reduce renewal traffic and make a brief DHCP server outage less painful.\n\nThe real checks: is the pool big enough for every handheld plus shift turnover, and are the scanners on one subnet? If scanners drop off at roughly the lease interval, or you see pool exhaustion, lease time or pool size is the likely culprit.\n\nWant me to put this into a version you could use to teach someone newer?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. i'm training bao in the cage 3 to 5 today. he can swap batteries and trigger boards but isn't reimaging yet so keep it at that level. plain words, no jargon dump"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plain-words version pitched at someone who can swap batteries and trigger boards but isn't reimaging yet:\n\n**The hotel key card analogy**\n- When a scanner joins the Wi-Fi, the network hands it an address, like a hotel giving you a room key.\n- The key works for a set time. That's the \"lease.\"\n- Halfway through, the scanner quietly asks \"can I keep this room?\" Usually the answer is yes and the clock resets.\n- If it can't reach the server to ask, the key expires. The scanner loses its address and drops off the network until it gets a new one.\n\n**What that means in the cage**\n- A scanner that drops off at about the same time interval every time may be a lease/renewal issue, not a broken scanner.\n- Walking between access points shouldn't break the key as long as they're on the same network.\n- A scanner that drops off everywhere, even sitting next to an access point, points more to hardware: the radio, the battery, or the board.\n\n**Rule of thumb for Bao**\n1. Does it fail at predictable intervals or in certain zones? Think network.\n2. Does it fail even on a fresh battery, near a good signal, on a known-good network? Think hardware.\n\nFor a warehouse like yours, leases of around 8 hours are a common setting, so a handheld could lose its address mid-shift if renewal fails.\n\nWant a 3-line cheat sheet version he can keep at the bench?"
+    },
+    {
+      "role": "user",
+      "text": "nah this works. if the ones that keep dropping point to hardware i'll log them on the RMA sheet. ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds like a good plan. Note the failure pattern next to each one on the sheet: when it drops, where, and whether it happens on a fresh battery. That makes it easy to tell vendor-fault units from network issues. Good luck with the session!"
+    }
+  ]
+}

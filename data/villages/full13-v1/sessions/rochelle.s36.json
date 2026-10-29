@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s36",
+  "principal": "rochelle",
+  "start": "2025-11-07T15:14:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need a plan for a timed quiz. its my 1 unit online med terminology course the one i added in sept. pasting the screen:\n\n\"Quiz 4: Word Parts and Body Systems. 20 questions. Time limit: 30 minutes. One attempt only. The timer will continue to run once you begin. Do not use the back button. Questions are shown one at a time. Quiz auto-submits when time expires.\"\n\nlol i was LOUD in anatomy lecture today answering everything but this screen is giving me a stomach ache 👀 does the timer pause if i leave the tab"
+    },
+    {
+      "role": "assistant",
+      "text": "Short answer: no. Your paste says the timer keeps running once you begin, and it auto-submits at 30 minutes. Leaving the tab won't pause it, and some courses flag tab switching, so don't.\n\nPlan:\n\n**Before**\n- Close everything else: other tabs, apps, chat windows. Silence your phone and put it out of reach.\n- Plug the laptop in and check your wifi.\n- Read the instructions once more so nothing surprises you. One attempt, no back button.\n- Get water and a pen and paper for scratch work.\n\n**During**\n- 30 minutes for 20 questions is about 90 seconds each. That's plenty.\n- Do a first pass: answer what you know right away. Since there's no back button, don't leave anything blank. If you're unsure, pick your best guess and move on.\n- Don't stare at the clock. Check it at question 10 (you should be near 15 minutes left) and again at question 15.\n- Break the word first: prefix, root, suffix. Most of these questions can be decoded that way.\n\n**If something goes wrong**\n- If the browser freezes, don't refresh in a panic. Wait about 10 seconds, then reload once. Screenshot any error and email your instructor right away.\n\nWant a quick 2-minute breathing trick for right before you hit start?"
+    },
+    {
+      "role": "user",
+      "text": "yeah short version. also ill take it on the new refurbished laptop w nothing else open. sitting at the kitchen table after 9 when the house is quiet. good?"
+    },
+    {
+      "role": "assistant",
+      "text": "Good setup. Quiet table, one device, nothing else open is exactly right.\n\nBreathing trick, 1 minute:\n1. Breathe in through your nose for 4 counts.\n2. Hold for 4.\n3. Out through your mouth for 6.\n4. Repeat 5 times, then hit start.\n\nA few extras for tonight:\n- Plug in the laptop even if the battery is fine.\n- Start the quiz by 9:30 or so, not at the edge of when you get tired.\n- Skim your word-part notes once beforehand, then close them.\n\nYou've got this."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck tonight!"
+    }
+  ]
+}

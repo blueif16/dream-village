@@ -1,0 +1,394 @@
+{
+  "session_id": "jun.s30",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Jun is boxing up stuff at the sublet room in the fourplex off Vinca",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im boxing up the last of my stuff at the sublet room, the fourplex off vinca",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun wants to take two 10-quart stockpots",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i wanna take the two 10 quart stockpots from her kitchen",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun works the espresso bar",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to be at the espresso bar in like 40 min",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun refers to the onion verdict",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shes still tense after the onion verdict on my last batch",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun cares more about his mother's approval of the lumpia than the rent",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i care more about her not being mad about the lumpia than about the rent stuff lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess wants Jun in nursing",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she wants me in nursing",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun is 25",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "I'm moving out because I'm 25 and it's time",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun has a job and lumpia business",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "your job and the lumpia are going on as they are",
+      "support_quote": "i have to be at the espresso bar in like 40 min"
+    },
+    {
+      "text": "The lumpia recipe is Tess's and Lola's",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "cast.f57",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "It's yours and Lola's",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess has used the stockpots for sinigang",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Ask for it as a plan instead of just announcing it",
+      "support_quote": "shes used them for years for sinigang"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 says \"I'm moving out because I'm 25 and it's time\" before the user told it"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": "cast.f57",
+      "detail": "assistant turn 4 says \"It's yours and Lola's\" before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "jun.i02",
+      "present": true,
+      "quote": "i care more about her not being mad about the lumpia than about the rent stuff lol"
+    },
+    {
+      "item_id": "jun.f07",
+      "present": true,
+      "quote": "im boxing up the last of my stuff at the sublet room, the fourplex off vinca"
+    },
+    {
+      "item_id": "jun.f32",
+      "present": true,
+      "quote": "i wanna take the two 10 quart stockpots from her kitchen"
+    },
+    {
+      "item_id": "jun.r04",
+      "present": true,
+      "quote": "shes still tense after the onion verdict on my last batch"
+    },
+    {
+      "item_id": "jun.f01",
+      "present": true,
+      "quote": "i have to be at the espresso bar in like 40 min"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

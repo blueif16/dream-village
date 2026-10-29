@@ -1,0 +1,358 @@
+{
+  "session_id": "jun.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Sam texts Jun the night before asking to swap Saturday shifts",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "jun.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he texted me last night (he always does this, night before every time lol)",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun is on break and his shift resumes soon",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im on break and my shift starts again in like 10",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun can pour a swan in latte art",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ive been practicing swans in the morning lull all week",
+      "support_quote": ""
+    },
+    {
+      "text": "Tess is off on Wednesdays",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "shes off wednesdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun has the Saturday lumpia table at the counter",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have the saturday table",
+      "support_quote": ""
+    },
+    {
+      "text": "Saturday is Jun's lumpia table at the counter",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Saturday is my lumpia table at the counter",
+      "support_quote": "i have the saturday table"
+    },
+    {
+      "text": "Jun is going to his mom's after work",
+      "about": "tess",
+      "kind": "fact",
+      "item_id": "jun.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Enjoy time at your mom's!",
+      "support_quote": "also i gotta head to my moms after work, shes off wednesdays"
+    },
+    {
+      "text": "Jun can pour a swan like his",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f38",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Or learn to pour a swan like mine and I'll swap no questions asked",
+      "support_quote": "ive been practicing swans in the morning lull all week so say ill swap if he learns to pour a swan like mine"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f58",
+      "present": true,
+      "quote": "he texted me last night (he always does this, night before every time lol)"
+    },
+    {
+      "item_id": "jun.f02",
+      "present": true,
+      "quote": "im on break and my shift starts again in like 10"
+    },
+    {
+      "item_id": "jun.f38",
+      "present": true,
+      "quote": "ive been practicing swans in the morning lull all week so say ill swap if he learns to pour a swan like mine"
+    },
+    {
+      "item_id": "jun.f50",
+      "present": true,
+      "quote": "also i gotta head to my moms after work, shes off wednesdays"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

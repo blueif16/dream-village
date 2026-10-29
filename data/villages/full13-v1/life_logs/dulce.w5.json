@@ -1,0 +1,388 @@
+{
+  "principal": "dulce",
+  "week": 5,
+  "entries": [
+    {
+      "id": "dulce.w5.l01",
+      "date": "2025-09-22",
+      "what": "Walks to Flats High along Vinca; at lunch by the B wing planters Brianna announces her breakup with Tyler and accuses Dulce of leaking it to Karina, while Sienna backs her up.",
+      "with": [
+        "brianna",
+        "sienna",
+        "karina",
+        "tyler"
+      ],
+      "outcome": "Brianna stops speaking to Karina and glares at Dulce; Sienna starts screenshotting chats.",
+      "feeling": "shaken, blamed",
+      "facts": [
+        "cast.f14",
+        "cast.f17",
+        "cast.f101",
+        "dulce.f51",
+        "dulce.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l02",
+      "date": "2025-09-22",
+      "what": "After school Dulce tells her side to the assistant, then changes the subject to a caption for a taco photo.",
+      "with": [],
+      "outcome": "Deflects with a joke instead of finishing the conversation.",
+      "feeling": "avoidant, jokey",
+      "facts": [
+        "dulce.f51"
+      ],
+      "impressions": [
+        "dulce.i05"
+      ]
+    },
+    {
+      "id": "dulce.w5.l03",
+      "date": "2025-09-22",
+      "what": "Eats dinner in Marisol Gardens unit 114 with her mom Yesenia and is home before the 9:30 curfew.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Says nothing about the fight at school.",
+      "feeling": "tense, quiet",
+      "facts": [
+        "cast.f11"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l04",
+      "date": "2025-09-23",
+      "what": "Skips the planters and eats lunch in Ms. Tolentino's room B12 with Karina and Eli, who shares notes from chem.",
+      "with": [
+        "karina",
+        "eli",
+        "grace"
+      ],
+      "outcome": "Has a new lunch spot and a small new circle.",
+      "feeling": "relieved but lonely",
+      "facts": [
+        "dulce.f15",
+        "dulce.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l05",
+      "date": "2025-09-23",
+      "what": "Third-period chemistry with Ms. Tolentino; Dulce does the mole calculations quickly beside Karina.",
+      "with": [
+        "grace",
+        "karina"
+      ],
+      "outcome": "Finishes the math fast and puts off the written part.",
+      "feeling": "focused",
+      "facts": [
+        "cast.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l06",
+      "date": "2025-09-23",
+      "what": "Takes the walk home alone, then does homework in the small bedroom by the laundry wall.",
+      "with": [],
+      "outcome": "Phone battery dies mid-evening.",
+      "feeling": "drained",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l07",
+      "date": "2025-09-24",
+      "what": "Finds she was removed from the 'las 4 fantásticas' chat and Karina adds her to a new chat, 'lab rats', with Eli.",
+      "with": [
+        "brianna",
+        "karina",
+        "eli"
+      ],
+      "outcome": "Joins 'lab rats' and asks the assistant whether to request to be re-added.",
+      "feeling": "hurt, anxious",
+      "facts": [
+        "dulce.f17",
+        "dulce.f18"
+      ],
+      "impressions": [
+        "dulce.i04"
+      ]
+    },
+    {
+      "id": "dulce.w5.l08",
+      "date": "2025-09-24",
+      "what": "Sees Brianna post a vague close-friends story about fake friends and Sienna send screenshots around.",
+      "with": [
+        "brianna",
+        "sienna"
+      ],
+      "outcome": "Stays quiet and doesn't reply.",
+      "feeling": "paranoid",
+      "facts": [
+        "dulce.f51",
+        "dulce.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l09",
+      "date": "2025-09-24",
+      "what": "Eats B12 lunch again, then goes home to eat dinner.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Laughs a little in the new chat that night.",
+      "feeling": "cautiously okay",
+      "facts": [
+        "dulce.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l10",
+      "date": "2025-09-25",
+      "what": "Walks to school and eats lunch in B12 with Karina and Eli.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Normal routine, tension unresolved.",
+      "feeling": "uneasy",
+      "facts": [
+        "dulce.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l11",
+      "date": "2025-09-25",
+      "what": "Wants to smooth things over with both sides and drafts two texts, one to Brianna and one to Karina, each saying she's not on anyone's side.",
+      "with": [
+        "brianna",
+        "karina"
+      ],
+      "outcome": "Asks which version sounds less fake and holds off sending.",
+      "feeling": "torn, people-pleasing",
+      "facts": [],
+      "impressions": [
+        "dulce.i01"
+      ]
+    },
+    {
+      "id": "dulce.w5.l12",
+      "date": "2025-09-25",
+      "what": "Picks up the weekend shift schedule from Efraín's posted sheet and goes to bed late.",
+      "with": [
+        "efrain"
+      ],
+      "outcome": "Knows her Friday and Sunday hours.",
+      "feeling": "tired",
+      "facts": [
+        "cast.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l13",
+      "date": "2025-09-26",
+      "what": "Gets her chemistry progress report from Ms. Tolentino: a B.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Decent grade but she knows the lab conclusions are weak.",
+      "feeling": "relieved, wary",
+      "facts": [
+        "dulce.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l14",
+      "date": "2025-09-26",
+      "what": "Checks her phone fund after her fourth paycheck and sees only about $95; going through the spending, it is mostly boba and snacks for friends.",
+      "with": [],
+      "outcome": "Resolves to rethink the boba runs.",
+      "feeling": "annoyed at herself",
+      "facts": [
+        "dulce.f13",
+        "dulce.f58",
+        "dulce.f11"
+      ],
+      "impressions": [
+        "dulce.i02"
+      ]
+    },
+    {
+      "id": "dulce.w5.l15",
+      "date": "2025-09-26",
+      "what": "Works her Friday 4-9 shift at Taquería Colima taking orders next to Camila and Héctor, eating a quesadilla as her shift meal.",
+      "with": [
+        "efrain",
+        "camila",
+        "hector"
+      ],
+      "outcome": "Smooth shift and no tickets slow-walked.",
+      "feeling": "steady",
+      "facts": [
+        "cast.f20",
+        "dulce.f29"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l16",
+      "date": "2025-09-26",
+      "what": "Rafael picks her up after the 9 p.m. close and drives her home.",
+      "with": [
+        "rafael"
+      ],
+      "outcome": "Gets home before bed.",
+      "feeling": "safe, grateful",
+      "facts": [
+        "dulce.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l17",
+      "date": "2025-09-27",
+      "what": "Does Saturday laundry at the card-only laundry room at Marisol Gardens.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Laundry done and folded.",
+      "feeling": "bored",
+      "facts": [
+        "dulce.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l18",
+      "date": "2025-09-27",
+      "what": "Hangs out in the 'lab rats' chat with Karina and Eli and edits a TikTok-style video she never posts.",
+      "with": [
+        "karina",
+        "eli"
+      ],
+      "outcome": "Leaves the video unposted.",
+      "feeling": "relaxed",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l19",
+      "date": "2025-09-27",
+      "what": "Skips boba and has dinner with her mom.",
+      "with": [
+        "yesenia"
+      ],
+      "outcome": "Keeps her cash.",
+      "feeling": "content",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l20",
+      "date": "2025-09-28",
+      "what": "Takes the 22 bus to Calle Ortega for her Sunday 10-4 shift at Taquería Colima.",
+      "with": [
+        "efrain",
+        "camila"
+      ],
+      "outcome": "Works a busy Sunday lunch rush.",
+      "feeling": "busy",
+      "facts": [
+        "cast.f20",
+        "dulce.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l21",
+      "date": "2025-09-28",
+      "what": "Hears from her mom that the Delgado Park harvest farmers market is packed after church, and the family pupusa stand is there.",
+      "with": [
+        "yesenia",
+        "gladys"
+      ],
+      "outcome": "Misses it because of her shift.",
+      "feeling": "a bit left out",
+      "facts": [
+        "cast.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "dulce.w5.l22",
+      "date": "2025-09-28",
+      "what": "Karina texts after midnight asking if people are talking about her, and Dulce reassures her.",
+      "with": [
+        "karina"
+      ],
+      "outcome": "Goes to sleep late.",
+      "feeling": "sleepy, supportive",
+      "facts": [
+        "dulce.f49"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "dulce.w5.n01",
+      "subject": "dulce",
+      "attribute": "taco_caption",
+      "value": "posted a taco pic caption to her close friends list after getting a joke from the assistant",
+      "valid_from": "2025-09-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w5.n02",
+      "subject": "dulce",
+      "attribute": "lunch_snack",
+      "value": "shares Karina's hot Cheetos at B12 lunch",
+      "valid_from": "2025-09-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w5.n03",
+      "subject": "dulce",
+      "attribute": "chat_name_ritual",
+      "value": "'lab rats' chat started with a shared meme folder",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "dulce.w5.n04",
+      "subject": "dulce",
+      "attribute": "unsent_drafts",
+      "value": "never sent the two 'not on anyone's side' texts",
+      "valid_from": "2025-09-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "dulce.w5.n05",
+      "subject": "dulce",
+      "attribute": "weekend_plan",
+      "value": "wants to skip group boba next weekend to save",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

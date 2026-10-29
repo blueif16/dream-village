@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s05",
+  "principal": "marcus",
+  "start": "2025-09-02T20:02:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u look up how long it takes to recover after a night shift and what to eat after. i work sun-thu nights 10pm-6:30am and sleep like 8am-1pm. is that even enough lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Short version: a 5-hour sleep block is on the low side. Most adults need 7-9 hours in 24 hours, but that doesn't have to be one block. A nap before your shift can close the gap.\n\nRecovery after a run of nights:\n- One short night of sleep: usually back to normal within a day or two if you get a longer sleep after.\n- A full stretch of night shifts: sleep debt can take several days of longer sleep to pay off.\n- Your body clock adapts slowly, so keeping the same sleep time on days off helps.\n\nWhat to eat after a shift:\n- Go for protein plus some slow carbs, and keep it moderate so you can fall asleep. A huge meal can keep you awake.\n- Avoid a lot of sugar and heavy greasy food right before bed.\n\nWhat's your usual meal after shift? And do you need to be up for anything in the afternoon?"
+    },
+    {
+      "role": "user",
+      "text": "eggs and rice usually. is that good. and yeah i got afternoon sections mon wed thu at 2 so i gotta be actually sharp by then not just awake"
+    },
+    {
+      "role": "assistant",
+      "text": "Eggs and rice is a solid recovery meal. Eggs give you protein, and rice gives you slow-ish carbs to refill energy. Add some fruit or veggies if you can, like spinach in the eggs or a banana on the side. Keep the portion moderate so it doesn't mess with sleep.\n\nFor being sharp by 2 p.m. on class days:\n- Get light and some water within 30 minutes of waking. Sunlight is best, since it helps your brain switch on.\n- Wake up at least an hour before class. Grogginess right after waking (sleep inertia) can last 30-60 minutes.\n- Have a small meal or snack with protein after you get up.\n- If you use caffeine, have it after you wake, not before bed.\n- On days you have time, a 20-minute nap before your shift helps more than you'd think.\n\nWant a simple weekly sleep and meal layout?"
+    },
+    {
+      "role": "user",
+      "text": "maybe later. also when i miss lecture i catch up using fatima's shared ex phys notes. any tips for studying off someone elses notes so it actually sticks"
+    },
+    {
+      "role": "assistant",
+      "text": "Good move using shared notes. To make them stick:\n- Don't just reread. Turn each section into 2-3 questions and quiz yourself without looking.\n- Write a short summary in your own words after each topic. That shows you what you actually understand.\n- Compare the notes with the textbook or slides and mark any gaps. Ask your professor or a classmate about those.\n- Do short sessions (25-30 minutes) with breaks. You'll retain more than with one long cram when you're tired.\n- Study right after you wake up and eat, when you're sharpest, not right before your shift.\n- Sketch diagrams or processes from memory, which works well for physiology.\n\nThat's the short version. Want me to put together a quick checklist for this?"
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime! Rest up, and good luck with your classes this week."
+    }
+  ]
+}

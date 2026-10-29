@@ -1,0 +1,316 @@
+{
+  "principal": "elliot",
+  "week": 3,
+  "entries": [
+    {
+      "id": "elliot.w3.l01",
+      "date": "2025-09-08",
+      "what": "Woke at 5 a.m. to Hana's feed, then Brenda's first Monday check-in email landed at 8:15 about his return date. He read it twice with Theo on his chest.",
+      "with": [
+        "theo",
+        "brenda"
+      ],
+      "outcome": "Left it unanswered and vented to the assistant that Brenda is a clipboard with a pulse.",
+      "feeling": "irritated, guilty",
+      "facts": [
+        "elliot.f50",
+        "elliot.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l02",
+      "date": "2025-09-08",
+      "what": "Logged the morning naps in the spreadsheet while Theo contact-napped on him in the apartment.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Got two full naps tracked and ate cold toast.",
+      "feeling": "tired but orderly",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l03",
+      "date": "2025-09-08",
+      "what": "Evening witching hour of crying, then takeout dinner with Hana.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Theo settled around 8 to the ballpark organ hum.",
+      "feeling": "worn out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l04",
+      "date": "2025-09-09",
+      "what": "Stroller errand to pick up diapers and wipes, then a quick rinse of bottles.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Home before the afternoon nap.",
+      "feeling": "productive",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l05",
+      "date": "2025-09-09",
+      "what": "Baby laundry in the card-only Marisol Gardens laundry room Tuesday night.",
+      "with": [],
+      "outcome": "Two loads done, folded while Hana watched Theo.",
+      "feeling": "content",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l06",
+      "date": "2025-09-09",
+      "what": "Took the 2 a.m. feed and logged it in the spreadsheet.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo went back down after 40 minutes.",
+      "feeling": "groggy",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l07",
+      "date": "2025-09-10",
+      "what": "Hana had a rough morning and stayed quiet over breakfast; Elliot took Theo for the day without asking questions.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "She went to an appointment in the afternoon; he let her go without comment.",
+      "feeling": "worried, protective",
+      "facts": [
+        "cast.f68"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l08",
+      "date": "2025-09-10",
+      "what": "Put together a puzzle section on the card table during Theo's nap.",
+      "with": [],
+      "outcome": "Placed eleven lighthouse pieces.",
+      "feeling": "calm",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l09",
+      "date": "2025-09-10",
+      "what": "Ordered diapers by delivery and made boxed pasta for dinner.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Ate together before the evening fuss.",
+      "feeling": "fine",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l10",
+      "date": "2025-09-11",
+      "what": "Took Theo to Thursday 10:30 baby story time at the library with Kaitlyn and the other parents.",
+      "with": [
+        "theo",
+        "kaitlyn"
+      ],
+      "outcome": "Theo stayed alert and smiley the whole session.",
+      "feeling": "upbeat",
+      "facts": [
+        "elliot.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l11",
+      "date": "2025-09-11",
+      "what": "Walked back past Heron-side shops and picked up a pour-over filter he never used.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Pour-over gear stayed on the fridge.",
+      "feeling": "amused at himself",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l12",
+      "date": "2025-09-11",
+      "what": "Evening crying stretch; Elliot hummed and bounced Theo for an hour.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Theo slept in the bassinet until 2.",
+      "feeling": "drained",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l13",
+      "date": "2025-09-12",
+      "what": "Compiled nine days of nap times in the spreadsheet and pasted them to the assistant asking for a regression analysis of wake windows.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Got a rough wake-window estimate to test next week.",
+      "feeling": "hopeful, nerdy",
+      "facts": [],
+      "impressions": [
+        "elliot.i01"
+      ]
+    },
+    {
+      "id": "elliot.w3.l14",
+      "date": "2025-09-12",
+      "what": "Friday night baby laundry run at Marisol Gardens.",
+      "with": [],
+      "outcome": "Done by 9.",
+      "feeling": "routine",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l15",
+      "date": "2025-09-12",
+      "what": "Phở Bến Thành takeout with Hana after Theo went down.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Rare beef pho, no tripe, and a quiet evening.",
+      "feeling": "relieved",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l16",
+      "date": "2025-09-13",
+      "what": "Saturday market run to Ruiz Family Market with Theo in the carrier.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Bought produce and oat milk and avoided delivery.",
+      "feeling": "proud",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l17",
+      "date": "2025-09-13",
+      "what": "Heard from a neighbor that the Ridgeline hiring fair drew long lines on Ruel Road, snarling the drive home.",
+      "with": [],
+      "outcome": "Took the back way along Vinca.",
+      "feeling": "mildly annoyed",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l18",
+      "date": "2025-09-13",
+      "what": "Judith visited, held Theo, and said the crib would be a good idea.",
+      "with": [
+        "judith",
+        "theo"
+      ],
+      "outcome": "Decided to move Theo to the crib Sunday.",
+      "feeling": "nervous, resolved",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l19",
+      "date": "2025-09-14",
+      "what": "Assembled the nursery corner in the spare room and set the white-noise machine to rain.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Crib ready by noon.",
+      "feeling": "anxious",
+      "facts": [
+        "elliot.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l20",
+      "date": "2025-09-14",
+      "what": "Moved Theo from the bassinet to the crib for the afternoon nap and watched the monitor.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "He slept 80 minutes, the monitor dropping once when the microwave ran.",
+      "feeling": "cautiously thrilled",
+      "facts": [
+        "elliot.f11",
+        "elliot.f12",
+        "elliot.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w3.l21",
+      "date": "2025-09-14",
+      "what": "Scored the first night in the crib like a baseball game and logged it.",
+      "with": [
+        "hana",
+        "theo"
+      ],
+      "outcome": "Two wake-ups but both settled.",
+      "feeling": "hopeful",
+      "facts": [
+        "elliot.f12"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w3.n01",
+      "subject": "elliot",
+      "attribute": "puzzle_progress",
+      "value": "placed eleven lighthouse pieces on Sept 10",
+      "valid_from": "2025-09-10",
+      "valid_to": "2025-10-05",
+      "superseded_by": "elliot.w6.n04",
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w3.n02",
+      "subject": "theo",
+      "attribute": "wake_window_test",
+      "value": "plans to test 90-minute wake windows the week of Sept 15",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w3.n03",
+      "subject": "elliot",
+      "attribute": "market_purchase",
+      "value": "buys oat milk at Ruiz Family Market on Saturdays",
+      "valid_from": "2025-09-13",
+      "valid_to": "2025-09-28",
+      "superseded_by": "elliot.w5.n03",
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w3.n04",
+      "subject": "theo",
+      "attribute": "first_crib_nap",
+      "value": "first crib nap lasted 80 minutes on Sept 14",
+      "valid_from": "2025-09-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

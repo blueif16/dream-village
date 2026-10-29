@@ -1,0 +1,157 @@
+{
+  "session_id": "jun.s02",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Bought 12 cases of wrappers at Ruiz Family Market aisle 6",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bought 12 cases of spring roll wrappers today at ruiz family market, aisle 6",
+      "support_quote": ""
+    },
+    {
+      "text": "Bought wrappers impulsively on sale",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "they were on sale and i just grabbed them",
+      "support_quote": ""
+    },
+    {
+      "text": "Runs lumpia pop-up Lola's Roll",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the plan is lumpia pop-up, lola's roll",
+      "support_quote": ""
+    },
+    {
+      "text": "Works at a cafe",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "selling at the cafe i work at on saturdays hopefully",
+      "support_quote": ""
+    },
+    {
+      "text": "Cottage food permit not filed",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "permit... not filed yet.",
+      "support_quote": ""
+    },
+    {
+      "text": "About $3,200 saved for business",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have like $3,200 saved for the business",
+      "support_quote": ""
+    },
+    {
+      "text": "Launch cost cap $1,800 through November",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i also set a cap of $1,800 for launch costs thru november",
+      "support_quote": ""
+    },
+    {
+      "text": "Wrappers cost about $240",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "like $240 i think",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says permit not filed",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you haven't filed yet, hold off on selling anything.",
+      "support_quote": "permit... not filed yet."
+    },
+    {
+      "text": "Assistant references $1,800 cap",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f31",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Compare [X] to your $1,800 cap.",
+      "support_quote": "i also set a cap of $1,800 for launch costs thru november"
+    },
+    {
+      "text": "Assistant references $3,200 savings",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Subtract today's purchase from your $3,200",
+      "support_quote": "i have like $3,200 saved for the business"
+    },
+    {
+      "text": "Assistant says Jun has a shift tomorrow",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Get some sleep before your shift. Good luck tomorrow!",
+      "support_quote": "shift is tmrw early lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.i05",
+      "present": true,
+      "quote": "bought 12 cases of spring roll wrappers today at ruiz family market, aisle 6, they were on sale and i just grabbed them"
+    },
+    {
+      "item_id": "jun.f34",
+      "present": true,
+      "quote": "bought 12 cases of spring roll wrappers today at ruiz family market, aisle 6, they were on sale"
+    },
+    {
+      "item_id": "jun.f30",
+      "present": true,
+      "quote": "i have like $3,200 saved for the business and it dropped after today"
+    },
+    {
+      "item_id": "jun.f31",
+      "present": true,
+      "quote": "i also set a cap of $1,800 for launch costs thru november and didnt even check it before buying"
+    },
+    {
+      "item_id": "jun.f11",
+      "present": true,
+      "quote": "permit... not filed yet. cottage food permit app is just sitting there. what do i do first"
+    }
+  ],
+  "sensitive": []
+}

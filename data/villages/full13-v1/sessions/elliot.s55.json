@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s55",
+  "principal": "elliot",
+  "start": "2025-10-24T21:29:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:29 pm update. quick research question: i'm out until Monday Jan 5 and someone's covering my appeal files at the assessor's office. i do residential reassessment appeals. what should a good handoff doc actually contain? i've started a draft but i keep thinking of more stuff. also how long can appeal files sit before it becomes a problem?"
+    },
+    {
+      "role": "assistant",
+      "text": "Good instinct to be thorough, since a gap that long needs a document that stands on its own. A solid handoff for appeal files usually has:\n\n**1. Inventory**\n- A list of every open appeal: file or parcel ID, appellant, date filed, current status\n- Sorted by urgency (hearing dates and deadlines first)\n\n**2. Deadlines and calendar**\n- Hearing dates, response deadlines, statutory or board filing windows\n- Anything that will fall between now and Jan 5, flagged clearly\n\n**3. Per-file notes**\n- What the appellant is claiming, what the valuation basis is, comps pulled, and what's still missing\n- Any informal conversations or promises made to appellants\n\n**4. Where things live**\n- Folder paths, system names, shared drives, paper files\n- Templates and standard letters you use\n\n**5. Contacts and escalation**\n- Who to ask when the covering colleague gets stuck (supervisor, appraisers, legal or board clerk)\n- Anyone sensitive or difficult, with context\n\n**6. Decision rules**\n- What the colleague can settle or adjust on their own versus what needs sign-off\n\n**7. Your availability**\n- Whether you can be reached during your absence, and how, or an explicit \"not reachable\"\n\n**How long can files sit?** It depends on your jurisdiction's rules, so check your county's appeal procedures or your supervisor. In general, statutory deadlines (response windows, hearing scheduling, decision timelines) are the real constraint, not a fixed idle time. Any file with a hard date should be reassigned or actively worked. Files with no deadline can usually wait, but appellants who hear nothing for weeks tend to call or escalate, so a short holding letter or status note helps.\n\nWant to paste your draft and I'll tell you what's missing, or I can give you a fill-in template as a table?"
+    },
+    {
+      "role": "user",
+      "text": "table form please, i think better in tables. and yes the draft is basically a list of my open reassessment appeals with status for each. i'll add the deadlines column. thanks, once this is sent i can finally go work on the lighthouse puzzle in peace 🙃"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a template you can paste into your doc:\n\n| Parcel / file ID | Appellant | Date filed | Claim summary | Status | Next deadline | Hearing date | Missing items | Folder location | Covering colleague can decide? (Y/N) | Notes / history |\n|---|---|---|---|---|---|---|---|---|---|---|\n| | | | | | | | | | | |\n\nAnd a short header block above it:\n\n| Section | What to include |\n|---|---|\n| Coverage dates | Out through [return date]; back on [date] |\n| Contact during absence | [reachable / not reachable, and how] |\n| Escalation | [supervisor name and who handles anything beyond the colleague's authority] |\n| Templates and systems | Where letters, comp sheets and the appeals database live |\n| Sensitive files | Any appellant needing special handling |\n\nTips: put urgent files at the top, keep each note to a few lines, and finish with a \"first three things to do\" list so your colleague has a clear starting point.\n\nHope the puzzle goes well. Send the draft over if you'd like a final check."
+    }
+  ]
+}

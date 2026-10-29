@@ -1,0 +1,112 @@
+{
+  "session_id": "noemi.s35",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi jokes about her self-review as a boss fight that got nerfed",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "boss fight got nerfed to half hp",
+      "support_quote": ""
+    },
+    {
+      "text": "Annual self-review was due Sept 30 and she submitted a halved draft",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my annual self-review was due yesterday (sept 30) and i already submitted a halved draft",
+      "support_quote": ""
+    },
+    {
+      "text": "She logs all desk tickets in the internal queue",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i log all the desk tickets in the internal queue",
+      "support_quote": ""
+    },
+    {
+      "text": "She tracks scanner RMAs in her own spreadsheet",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i track scanner RMAs in my own spreadsheet",
+      "support_quote": ""
+    },
+    {
+      "text": "She drinks a large iced black coffee before shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "grabbing my large iced black coffee before shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she built and maintains her own RMA tracking system",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "you built and maintain your own tracking system",
+      "support_quote": "i track scanner RMAs in my own spreadsheet"
+    },
+    {
+      "text": "Assistant says she logs desk tickets in the internal queue",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Resolved [X] desk tickets in the internal queue this year",
+      "support_quote": "i log all the desk tickets in the internal queue"
+    },
+    {
+      "text": "Assistant says she has a shift to go to",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Good luck on shift.",
+      "support_quote": "grabbing my large iced black coffee before shift"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i06",
+      "present": true,
+      "quote": "boss fight got nerfed to half hp"
+    },
+    {
+      "item_id": "noemi.f37",
+      "present": true,
+      "quote": "my annual self-review was due yesterday (sept 30) and i already submitted a halved draft lol"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "i log all the desk tickets in the internal queue so theres a real number there"
+    },
+    {
+      "item_id": "noemi.f24",
+      "present": true,
+      "quote": "grabbing my large iced black coffee before shift"
+    }
+  ],
+  "sensitive": []
+}

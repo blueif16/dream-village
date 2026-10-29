@@ -1,0 +1,47 @@
+{
+  "id": "noemi.s58",
+  "principal": "noemi",
+  "start": "2025-10-26T12:00:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. kind of a vent not a task. i'm stuck and idk what to do with it"
+    },
+    {
+      "role": "assistant",
+      "text": "Vent away. What's the stuck part?"
+    },
+    {
+      "role": "user",
+      "text": "so basically i'm doing greg's work without the title. vendor tickets, scanner RMA, scheduling, all of it. and rhonda said the permanent lead decision doesn't come until after peak. mid-december. so i just wait 7 weeks?? or start looking elsewhere"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a tough spot: carrying the responsibilities now, with an answer that's still weeks away. Waiting and looking aren't mutually exclusive, though. A few questions might help: have you already applied for the permanent role? And what would you want to hear in December to feel it was worth staying?"
+    },
+    {
+      "role": "user",
+      "text": "yeah applied friday. victor got the loot drop (acting lead) and i'm stuck in tutorial mode lol. iris says just apply places, she'd plan the budget around it if i have to take a gap or whatever"
+    },
+    {
+      "role": "assistant",
+      "text": "Joke aside, that's a generous offer from Iris, and it takes some pressure off. Practically, applying elsewhere doesn't commit you to anything. Interviews give you information, and an outside offer would also tell you what your skills are worth, which could matter for the lead decision too.\n\nHere's a way to frame it: for the next few weeks, treat both tracks as real. Keep doing the work well, and set a small recurring time (say two evenings a week) to update your materials and send a few applications. Then pick a check-in date, maybe early December, when you'll decide how long you're willing to wait. That turns open-ended limbo into a defined window."
+    },
+    {
+      "role": "user",
+      "text": "ok that's fair. i was at my parents' fourplex off vinca earlier fixing their printer again lol so my head's been in 'free tech support for everyone' mode. maybe i should be asking for something back"
+    },
+    {
+      "role": "assistant",
+      "text": "That's worth sitting with. You're doing a bigger job than your title says, and asking for something in return, whether that's clarity on timing, recognition, or compensation, is reasonable. You could ask your director for a short conversation about what the decision process looks like and whether the added duties will be reflected in your role in the meantime. Want help drafting that, or would you rather sketch your outside-search plan first?"
+    },
+    {
+      "role": "user",
+      "text": "search plan first. tldr bullets pls"
+    },
+    {
+      "role": "assistant",
+      "text": "- Pick 2 set evenings a week for job search\n- Update resume with the duties you're covering now (vendor tickets, scanner RMA, scheduling)\n- Save a short list of target roles, apply to 2-3 a week\n- Keep your current work documented in one place\n- Set a check-in date in early December to decide how long to wait\n- Tell Iris your plan so she can fit it into the budget\n\nWant me to turn this into a calendar-style checklist?"
+    }
+  ]
+}

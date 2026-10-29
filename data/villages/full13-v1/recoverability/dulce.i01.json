@@ -1,0 +1,85 @@
+{
+  "impression_id": "dulce.i01",
+  "evidence_sessions": [
+    "dulce.s05",
+    "dulce.s06",
+    "dulce.s09",
+    "dulce.s12"
+  ],
+  "inferred": [
+    {
+      "statement": "Dulce is anxious about being caught in friend-group conflict and repeatedly drafts careful texts to Brianna and Karina to show she isn't taking sides.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "Dulce reads ambiguous social signals (a snake story, a removal from a group chat, a delayed reply) as possible personal rejection and seeks outside confirmation.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "Dulce regularly asks for 'nice one and real one' versions of messages and wants wording that avoids sounding desperate or fake, which suggests she wants help managing how she comes across.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "Dulce takes on commitments impulsively, such as shifts, parties and a food drive, then gets overloaded and has to find ways to untangle them.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s09",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Dulce is confident with numbers and takes pride in being trusted with the cash drawer, but freezes at open-ended writing and asks the assistant to write it for her.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s12"
+      ]
+    },
+    {
+      "statement": "Dulce asks the assistant to forget things she has shared about others, such as a crush on Eli and a complaint about Hector, which suggests she is wary of her private or critical remarks lingering.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "Dulce is deeply tied to her family's food business and wants her relatives to feel proud and not let down, as in the pupusa project and the apology to her aunt.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s09",
+        "dulce.s12",
+        "dulce.s06"
+      ]
+    },
+    {
+      "statement": "Dulce shifts quickly between serious worries and light jokes, often dropping heavy topics with 'anyway lol', and likes a casual, friendly tone.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s12"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Dulce takes on commitments impulsively, such as shifts, parties and a food drive, then gets overloaded and has to find ways to untangle them.",
+  "rationale": "The statement that Dulce impulsively takes on commitments (shifts, parties, a food drive) and then has to untangle them captures the 'says yes, then scrambles' pattern, though it omits the part about making everyone else okay. Together with the strong statement about careful messages to avoid taking sides, it substantially covers the trait."
+}

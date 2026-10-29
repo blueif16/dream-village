@@ -1,0 +1,112 @@
+{
+  "session_id": "noemi.s17",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi trained Bao in a 3-5 p.m. session today",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "recap from today's 3-5 training",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao can do batteries and trigger boards but not reimaging",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "u can do batteries and trigger boards now no prob, reimaging is next but not yet so dont touch those",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris ordered Thursday sushi",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f44",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris already ordered the thursday sushi",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi uses the RMA sheet term for her vendor-return spreadsheet",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "log it in the RMA sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao can do batteries and trigger boards, reimaging not yet covered",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You've got batteries and trigger boards down now, nice work! Reimaging is the next step, but we haven't covered it yet",
+      "support_quote": "u can do batteries and trigger boards now no prob, reimaging is next but not yet so dont touch those"
+    },
+    {
+      "text": "Noemi had a 3-5 training with Bao today",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Quick recap from today's 3-5 training",
+      "support_quote": "recap from today's 3-5 training"
+    },
+    {
+      "text": "Assistant uses the RMA sheet term",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "log it in the RMA sheet",
+      "support_quote": "log it in the RMA sheet"
+    },
+    {
+      "text": "Iris ordered sushi",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f44",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Enjoy the sushi.",
+      "support_quote": "iris already ordered the thursday sushi"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "recap from today's 3-5 training"
+    },
+    {
+      "item_id": "noemi.f48",
+      "present": true,
+      "quote": "u can do batteries and trigger boards now no prob, reimaging is next but not yet so dont touch those"
+    },
+    {
+      "item_id": "noemi.f44",
+      "present": true,
+      "quote": "iris already ordered the thursday sushi so i wanna finish this fast"
+    },
+    {
+      "item_id": "noemi.r02",
+      "present": true,
+      "quote": "log it in the RMA sheet"
+    }
+  ],
+  "sensitive": []
+}

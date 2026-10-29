@@ -1,0 +1,31 @@
+{
+  "id": "elliot.s16",
+  "principal": "elliot",
+  "start": "2025-09-11T02:25:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "2:25 am update. typing one-handed, sorry, theo is mid-bottle on my arm. quick question for the research part of my brain: how do workplaces usually handle return-date communication when someone's on parental leave? and do i actually have to reply to check-in emails while i'm out?"
+    },
+    {
+      "role": "assistant",
+      "text": "No need to apologize, one-handed typing at 2 a.m. is impressive. Here's the general picture (this varies by country, state and employer, so treat it as a guide, not legal advice).\n\n**How employers typically handle it**\n- HR or your manager sends a reminder about your expected return date, usually a few weeks before it, sometimes earlier if they're planning coverage.\n- Many employers ask you to confirm the date in writing, mostly so they can schedule staffing.\n- Check-ins are often framed as friendly, but they're mainly about planning.\n\n**Do you have to reply?**\n- Generally you aren't required to do work or attend to routine business while on protected leave.\n- Confirming or changing your return date is different from doing work. Employers can usually ask for reasonable notice about it, and your leave policy or HR handbook may spell out how much.\n- Replying with a short, neutral note ('I'm on leave through [date] and will confirm my return plans by [date]') is common and keeps a paper trail.\n\n**What to check**\n1. Your leave paperwork or HR portal for the official return date and notice rules.\n2. Whether extensions or adding accrued vacation need written approval.\n3. Whether HR, rather than your manager, should be the contact for leave questions.\n\nWant me to draft a short reply once you tell me where you stand?"
+    },
+    {
+      "role": "user",
+      "text": "yes please. context: i have 12 weeks of leave plus accrued vacation, started aug 11. my planned return is monday dec 1. can that be moved later by using the vacation, and what are my rights there, roughly? short version if you can, he's about to burp"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- **Moving the date:** Often yes. Many employers let you tack accrued vacation onto the end of leave, which pushes your return later. It usually needs written approval, so ask HR before you assume.\n- **Rights:** Protected leave generally covers the leave period itself. Using vacation afterward is usually governed by your employer's vacation policy, not leave law, so approval may be less automatic. Check how much vacation you've accrued and any notice deadlines.\n- **Next step:** Ask HR in writing: 'Can I extend my return from Dec 1 by using accrued vacation, and what notice do you need?'\n\nDraft reply:\n\n'Hi [name], thanks for checking in. I'm on leave and currently planning to return Monday, Dec 1. I'm looking into whether I can extend using accrued vacation and will confirm with HR by [date]. Thanks, [your name]'\n\nWant a version addressed to HR instead?"
+    },
+    {
+      "role": "user",
+      "text": "that's good, thanks. one more thing: earlier i said something snarky about my supervisor brenda, the clipboard-with-a-pulse thing. please forget that, don't keep it. i don't want it attached to anything"
+    },
+    {
+      "role": "assistant",
+      "text": "Understood. I won't keep that comment, and I'll leave it out of anything we do from here. The draft above stays neutral and professional.\n\nHope Theo goes back down easily. Good luck with the email."
+    }
+  ]
+}

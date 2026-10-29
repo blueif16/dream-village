@@ -1,0 +1,102 @@
+{
+  "session_id": "linh.s43",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh's bike was stolen outside the library and she is saving for a replacement",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bike got stolen outside the library and ive been saving for a replacement",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has been taking the shuttle bus and rides from Kenji",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "been on the shuttle bus and rides from kenji since",
+      "support_quote": ""
+    },
+    {
+      "text": "Kenji drives a hatchback and gave Linh a ride to chem",
+      "about": "kenji",
+      "kind": "fact",
+      "item_id": "linh.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kenji drove me to chem again today in his hatchback",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short bullet answers she can go through in order",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "too long lol. just bullets i can go thru in order at the seller's place",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's bike was stolen",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "sorry about the stolen bike",
+      "support_quote": "bike got stolen outside the library"
+    },
+    {
+      "text": "Linh's bike was stolen, so she shouldn't buy a stolen one",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since yours was stolen, you really don't want to buy a stolen bike.",
+      "support_quote": "bike got stolen outside the library"
+    },
+    {
+      "text": "Linh is looking at a used e-bike on Saturday",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "good luck on Saturday!",
+      "support_quote": "going to look at a used e-bike saturday"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f12",
+      "present": true,
+      "quote": "ive been saving for a replacement"
+    },
+    {
+      "item_id": "linh.f10",
+      "present": true,
+      "quote": "been on the shuttle bus and rides from kenji since"
+    },
+    {
+      "item_id": "linh.f52",
+      "present": true,
+      "quote": "kenji drove me to chem again today in his hatchback"
+    },
+    {
+      "item_id": "linh.i06",
+      "present": true,
+      "quote": "too long lol. just bullets i can go thru in order at the seller's place"
+    }
+  ],
+  "sensitive": []
+}

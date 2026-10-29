@@ -1,0 +1,102 @@
+{
+  "session_id": "marcus.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus picks orders at Ridgeline on nights",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i pick orders at ridgeline on nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a 2pm class section today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a 2pm section today and need to be up for it",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus bought a $25 box fan for the bedroom",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.w1.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just bought a box fan for the bedroom, 25 bucks",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus wants a short version, not a lecture, to pick his own fix",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "not the 8 hours lecture i know. short version pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has a shift tonight",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck in class and on shift tonight.",
+      "support_quote": "i pick orders at ridgeline on nights"
+    },
+    {
+      "text": "Marcus has class today at 2 p.m.",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Before class today (now to 2 p.m.)",
+      "support_quote": "i have a 2pm section today and need to be up for it"
+    },
+    {
+      "text": "Marcus has a fan in his bedroom",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.w1.n01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Cooling the bedroom",
+      "support_quote": "just bought a box fan for the bedroom, 25 bucks"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f03",
+      "present": true,
+      "quote": "i pick orders at ridgeline on nights and i cant sleep in the day with it this hot"
+    },
+    {
+      "item_id": "marcus.f02",
+      "present": true,
+      "quote": "i have a 2pm section today and need to be up for it"
+    },
+    {
+      "item_id": "marcus.w1.n01",
+      "present": true,
+      "quote": "just bought a box fan for the bedroom, 25 bucks, its not enough fr"
+    },
+    {
+      "item_id": "marcus.i01",
+      "present": true,
+      "quote": "not the 8 hours lecture i know. short version pls"
+    }
+  ],
+  "sensitive": []
+}

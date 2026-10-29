@@ -1,0 +1,107 @@
+{
+  "session_id": "grace.s03",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Grace fills out the weekly absence form by hand from the gradebook every Friday",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I fill out the weekly absence form for my principal by hand from the gradebook every Friday.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace thinks Ocampo cares more about attendance graphs than kids and calls her 'the dashboard'",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Ocampo cares more about attendance graphs than about kids. I call her 'the dashboard.'",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace bristles at paperwork but wants every column exactly right",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Forms for the forms.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace requests a gentle note for a student but firm rules for her daughter",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "a firm list of rules to tape to my daughter's door about phone use after 11.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace has a daughter with a bedroom door and phone use rules",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "grace.w2.n03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Phone rules for the door:",
+      "support_quote": "a firm list of rules to tape to my daughter's door about phone use after 11."
+    },
+    {
+      "text": "Grace redesigned the density lab to cost under $40 across five sections",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.w2.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "last Sunday I redesigned my density lab so it costs under $40 for all five sections.",
+      "support_quote": ""
+    },
+    {
+      "text": "Grace teaches chemistry to a third-period class",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I noticed you've been working hard to catch up in chemistry, and it shows.",
+      "support_quote": "a gentle, encouraging note to a struggling third-period student."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "grace.f58",
+      "present": true,
+      "quote": "Ocampo cares more about attendance graphs than about kids. I call her 'the dashboard.'"
+    },
+    {
+      "item_id": "grace.i07",
+      "present": true,
+      "quote": "Forms for the forms."
+    },
+    {
+      "item_id": "grace.i01",
+      "present": true,
+      "quote": "First, a gentle, encouraging note to a struggling third-period student. Second, a firm list of rules to tape to my daughter's door about phone use after 11."
+    },
+    {
+      "item_id": "grace.i06",
+      "present": true,
+      "quote": "last Sunday I redesigned my density lab so it costs under $40 for all five sections"
+    },
+    {
+      "item_id": "grace.f18",
+      "present": true,
+      "quote": "I fill out the weekly absence form for my principal by hand from the gradebook every Friday. Yesterday I submitted it at 3:30 after nearly an hour."
+    }
+  ],
+  "sensitive": []
+}

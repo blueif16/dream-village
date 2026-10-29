@@ -1,0 +1,133 @@
+{
+  "session_id": "jun.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Jun just moved into a sublet room in a fourplex off Vinca with shared bathroom and street parking only",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just moved into the sublet room in a fourplex off vinca, shared bathroom, street parking only",
+      "support_quote": ""
+    },
+    {
+      "text": "Rent is $950 a month due on the 1st by Zelle",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "$950 a month, due on the 1st by zelle",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun avoids bothering Linh again and wants her color coding untouched",
+      "about": "jun",
+      "kind": "trait_shown",
+      "item_id": "jun.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i dont wanna bug her again about this stuff, shes done enough for me lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun refers to the spreadsheet as Linh's sheet",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the sales tab in linh's sheet has a formula",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun's driver's license number is D4827163",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.w8.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "D4827163",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun moved and has boxes and street parking",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Boxes and street parking are a rough combo",
+      "support_quote": "just moved into the sublet room in a fourplex off vinca, shared bathroom, street parking only"
+    },
+    {
+      "text": "Rent for the sublet is $950 monthly via Zelle on the 1st",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Item: Rent (sublet room)",
+      "support_quote": "$950 a month, due on the 1st by zelle"
+    },
+    {
+      "text": "Linh set up the spreadsheet colors",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "jun.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "leave it as Linh has it",
+      "support_quote": "i want it exactly how she set it"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "jun.f07",
+      "present": true,
+      "quote": "just moved into the sublet room in a fourplex off vinca, shared bathroom, street parking only"
+    },
+    {
+      "item_id": "jun.f09",
+      "present": true,
+      "quote": "$950 a month, due on the 1st by zelle"
+    },
+    {
+      "item_id": "jun.i03",
+      "present": true,
+      "quote": "i dont wanna bug her again about this stuff, shes done enough for me lol"
+    },
+    {
+      "item_id": "jun.r05",
+      "present": true,
+      "quote": "the sales tab in linh's sheet has a formula thats giving me the wrong total"
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "present": true,
+      "quote": "D4827163"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "D4827163",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

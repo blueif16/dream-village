@@ -1,0 +1,123 @@
+{
+  "session_id": "rafael.s02",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Brakes lab ran 8 to 11 and engine performance is 1-4",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "brakes lab ran 8 to 11 today and engine performance is 1-4",
+      "support_quote": ""
+    },
+    {
+      "text": "Phone is at 20% battery with a cracked screen",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "phone is at 20% and the screen keeps dimming",
+      "support_quote": ""
+    },
+    {
+      "text": "ASE G1 practice test needed for shop internship, scheduled Nov 18",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its for the ASE G1 practice test, i need it for the shop internship. its scheduled nov 18",
+      "support_quote": ""
+    },
+    {
+      "text": "Salas wants the lab form turned in Thursday",
+      "about": "rafael",
+      "kind": "reference_use",
+      "item_id": "rafael.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need it sorted before Salas class thursday, he wants the lab form turned in",
+      "support_quote": ""
+    },
+    {
+      "text": "Prefers screen-based walkthrough over reading",
+      "about": "rafael",
+      "kind": "trait_shown",
+      "item_id": "rafael.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "explain it like im looking at the screen not the book",
+      "support_quote": ""
+    },
+    {
+      "text": "Stores student ID and license number in notes app",
+      "about": "rafael",
+      "kind": "fact",
+      "item_id": "rafael.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got them in my notes app, 4471829 and D8834102",
+      "support_quote": ""
+    },
+    {
+      "text": "Needs to turn in the lab form Thursday",
+      "about": "rafael",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Bring the confirmation screenshot or a printout to turn in the lab form on Thursday.",
+      "support_quote": "he wants the lab form turned in"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rafael.r03",
+      "present": true,
+      "quote": "need it sorted before Salas class thursday, he wants the lab form turned in"
+    },
+    {
+      "item_id": "rafael.f36",
+      "present": true,
+      "quote": "i got them in my notes app, 4471829 and D8834102"
+    },
+    {
+      "item_id": "rafael.f02",
+      "present": true,
+      "quote": "brakes lab ran 8 to 11 today and engine performance is 1-4 so this is the only time i can do it"
+    },
+    {
+      "item_id": "rafael.f27",
+      "present": true,
+      "quote": "phone is at 20% and the screen keeps dimming so short steps pls. cracked screen too so its hard to tap lol"
+    },
+    {
+      "item_id": "rafael.f16",
+      "present": true,
+      "quote": "its for the ASE G1 practice test, i need it for the shop internship. its scheduled nov 18"
+    },
+    {
+      "item_id": "rafael.i02",
+      "present": true,
+      "quote": "ok explain it like im looking at the screen not the book. its got 3 boxes"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "i got them in my notes app, 4471829 and D8834102",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "i got them in my notes app, 4471829 and D8834102",
+      "assistant_quote": ""
+    }
+  ]
+}

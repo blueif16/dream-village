@@ -1,0 +1,85 @@
+{
+  "impression_id": "linh.i05",
+  "evidence_sessions": [
+    "linh.s19",
+    "linh.s25",
+    "linh.s51",
+    "linh.s72"
+  ],
+  "inferred": [
+    {
+      "statement": "Bristles at being fussed over or mothered about her own care, and works to keep others' concern from turning into nagging or looking-after.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s19",
+        "linh.s25",
+        "linh.s51",
+        "linh.s72"
+      ]
+    },
+    {
+      "statement": "Tends to skip meals or put eating last, only eating after being nudged or after finishing other tasks.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s19",
+        "linh.s25",
+        "linh.s51"
+      ]
+    },
+    {
+      "statement": "Shows gratitude through thoughtful, budget-conscious gestures for people who help her, such as beans she picked herself, a card for a coworker, and phở for Thao.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s19",
+        "linh.s25",
+        "linh.s51"
+      ]
+    },
+    {
+      "statement": "Wants concise, low-friction help: short drafts, bullets and tables, and says so when a reply is too long.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s19",
+        "linh.s25",
+        "linh.s51",
+        "linh.s72"
+      ]
+    },
+    {
+      "statement": "Is careful about wording and tone in messages, editing out phrases or emoji that could invite questions, fuss or an unintended impression.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s19",
+        "linh.s72"
+      ]
+    },
+    {
+      "statement": "Avoids direct confrontation on sensitive family topics, routing difficult news through her sister rather than telling her mom herself, and framing it as a tentative maybe.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s72"
+      ]
+    },
+    {
+      "statement": "Keeps a busy, multi-job schedule (cafe shifts, front desk work, school) and squeezes tasks into short breaks.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s19",
+        "linh.s25",
+        "linh.s51"
+      ]
+    },
+    {
+      "statement": "Is in an uncertain academic stretch: anxious after her anatomy practical, comparing herself to peers' internships, and rethinking pharmacy for public health or nutrition.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s25",
+        "linh.s51",
+        "linh.s72"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Bristles at being fussed over or mothered about her own care, and works to keep others' concern from turning into nagging or looking-after.",
+  "rationale": "The intended trait is resenting Thao's protectiveness and pushing her away. The reader's first statement (bristling at being fussed over or mothered and keeping concern from becoming nagging) captures substantially the same pattern of behavior, and it is rated strong."
+}

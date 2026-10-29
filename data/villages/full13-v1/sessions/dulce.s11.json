@@ -1,0 +1,39 @@
+{
+  "id": "dulce.s11",
+  "principal": "dulce",
+  "start": "2025-11-05T16:17:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "bestie my phone keeps dying like every day by 2pm and its cracked and a hand me down from my mom lol. also my group chat notifs stopped showing. need a quick settings checklist pls i have like 10 min before the library session"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Quick checklist, assuming a typical phone (tell me iPhone or Android if the menus differ):\n\n**Battery**\n1. Turn on Low Power / Battery Saver (Settings > Battery).\n2. Lower screen brightness and turn on auto-brightness.\n3. Settings > Battery: see which apps use the most and restrict background activity for the worst ones.\n4. Turn off Background App Refresh / background data for apps you don't need live.\n5. Set screen timeout to 30 seconds.\n6. Turn off Bluetooth and location when you're not using them.\n7. Check Battery Health. An older phone with a worn battery may just not hold a charge, and a battery replacement can help.\n\n**Notifications**\n1. Settings > Notifications > your messaging app: make sure Allow Notifications is on.\n2. Check that the individual chat isn't muted (open the chat, tap its name, look for Mute).\n3. Turn off Do Not Disturb / Focus and check it isn't on a schedule.\n4. Battery Saver can delay notifications, so exempt your messaging app from battery restrictions.\n5. Restart the phone.\n\nWhich phone is it?"
+    },
+    {
+      "role": "user",
+      "text": "android. ok wait the lab rats chat hasnt buzzed at all today and eli hasnt replied to my msg from last night. did i do something wrong yesterday or is it just the phone"
+    },
+    {
+      "role": "assistant",
+      "text": "Most likely it's the phone. If the whole chat has been silent and notifications stopped showing, check that first, since it's quick:\n\n1. Open the lab rats chat directly. If there are new messages you never got buzzed for, it's a notification problem.\n2. Settings > Apps > [your messaging app] > Notifications: make sure it's on.\n3. Settings > Battery > the app's battery setting: choose Unrestricted, so Battery Saver doesn't hold alerts back.\n4. Open the chat, tap its name, and check it isn't muted.\n\nIf the messages are there and Eli just hasn't answered, that's very common. People miss replies for lots of dull reasons. Open the chat and tell me what you see."
+    },
+    {
+      "role": "user",
+      "text": "ok opened it, theres messages i never got buzzed for 💀 so its the phone. and eli did reply lol. ok yeah my chem grade is a C+ now after the stoichiometry test and the missing lab writeups so i need the phone alive for my study timer and notes app. anyway lol give me a meme style battery saver tip"
+    },
+    {
+      "role": "assistant",
+      "text": "Good news: Eli replied, and the phone is the culprit. Fix the battery restriction for the messaging app and your alerts should come back.\n\nMeme-style battery tip:\n\n**\"Your phone at 2pm: 'I have given everything.'\"**\nSo:\n- Dark mode on\n- Brightness at 40%\n- Battery Saver on from the moment you wake up\n- Close apps you're not using\n\nFor the study session, protect your timer and notes app: leave Battery Saver on, set both apps to Unrestricted so they don't get killed in the background, and keep the screen timeout short. If the phone is almost dead, plug in at the library if there's an outlet, or carry a small charger.\n\nGood luck on the chem catch-up."
+    },
+    {
+      "role": "user",
+      "text": "ty!! ok going in, hopefully it survives till 5 lol"
+    },
+    {
+      "role": "assistant",
+      "text": "It should with those settings on. If it drops fast anyway, that's a sign the battery itself is worn and worth getting replaced later. Have a good session!"
+    }
+  ]
+}

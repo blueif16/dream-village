@@ -1,0 +1,39 @@
+{
+  "id": "linh.s17",
+  "principal": "linh",
+  "start": "2025-09-11T22:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok can u make me a weekend plan w times pls. i have chem problem set review + anatomy chapter review to fit around shifts. short bullets, long paragraphs are too much for me rn 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure! I need a few details first: which days and hours are you working this weekend, and when do you want to stop at night? Also, do you want to do both subjects each day or split them up?"
+    },
+    {
+      "role": "user",
+      "text": "working sat and sun 6:30-1 at the cafe. anatomy tomorrow at 9 so i should do some tonight too. chem is tues/thurs, kenji drives me on thursdays so i studied in the car and after. studied alone in the library today for 2 hrs, i still skip the group sessions lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's a plan that fits around your cafe shifts:\n\n**Tonight (Thu)**\n- 10:50-11:15: Skim your anatomy chapter review notes, pick the 5 weakest topics\n- 11:15: Stop and sleep, since you have class at 9 tomorrow\n\n**Fri**\n- After anatomy (about 10:15): 20 min recap while it's fresh\n- Evening, 7:00-8:00: Chem problem set, first pass, mark the ones you got stuck on\n\n**Sat**\n- Shift: 6:30-1:00\n- 2:30-3:30: Anatomy chapter review, full read plus self-quiz\n- 3:30-3:45: Break and eat something\n- 3:45-4:45: Chem problems you marked\n\n**Sun**\n- Shift: 6:30-1:00\n- 2:30-3:30: Redo anything you missed in chem\n- 3:30-4:15: Anatomy flashcards or a quiz yourself pass\n- 7:00-7:30: Plan Monday and Tuesday\n\nSince you study well alone, this is all solo time. Want me to color-code it or shift anything?"
+    },
+    {
+      "role": "user",
+      "text": "this is great ty. can u make it just the times and subject, like even shorter"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure:\n\n- Thu 10:50pm: anatomy skim\n- Fri 10:15am: anatomy recap\n- Fri 7pm: chem set\n- Sat 2:30pm: anatomy review\n- Sat 3:45pm: chem stuck problems\n- Sun 2:30pm: chem redo\n- Sun 3:30pm: anatomy cards\n- Sun 7pm: plan next week\n\nGood luck tomorrow!"
+    },
+    {
+      "role": "user",
+      "text": "perfect. ok im gonna eat now"
+    },
+    {
+      "role": "assistant",
+      "text": "Good call, go eat! Good luck with anatomy at 9."
+    }
+  ]
+}

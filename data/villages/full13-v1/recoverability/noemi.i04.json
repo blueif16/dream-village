@@ -1,0 +1,91 @@
+{
+  "impression_id": "noemi.i04",
+  "evidence_sessions": [
+    "noemi.s10",
+    "noemi.s20",
+    "noemi.s21",
+    "noemi.s26",
+    "noemi.s45",
+    "noemi.s46",
+    "noemi.s58",
+    "noemi.s66",
+    "noemi.s81"
+  ],
+  "inferred": [
+    {
+      "statement": "Noemi defers to Iris on money and household organization, asking where things go in Iris's budget sheet and checking with her before acting, partly to avoid friction.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s10",
+        "noemi.s20",
+        "noemi.s21",
+        "noemi.s26",
+        "noemi.s45",
+        "noemi.s58"
+      ]
+    },
+    {
+      "statement": "Noemi prefers short, practical replies, often opening with 'quick q' and asking for 'tldr' versions, and wants ready-to-use drafts such as messages, cards, and phone-note bullets.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s10",
+        "noemi.s21",
+        "noemi.s45",
+        "noemi.s46",
+        "noemi.s58",
+        "noemi.s66",
+        "noemi.s81"
+      ]
+    },
+    {
+      "statement": "Noemi is financially careful: her share of the rent is tight, so she seeks the cheap route, gets quotes, and checks whether prices are fair.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s10",
+        "noemi.s20",
+        "noemi.s26",
+        "noemi.s81"
+      ]
+    },
+    {
+      "statement": "Noemi is the informal tech-support person for her family, repeatedly fixing her parents' printer and phone and helping her brother Mateo build a PC, and she begins to wonder whether she should ask for something back.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s20",
+        "noemi.s45",
+        "noemi.s58"
+      ]
+    },
+    {
+      "statement": "Noemi is stretched across heavy swing and overtime shifts, certification study, and personal plans, so she needs schedules and tasks fitted to tight time windows.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s10",
+        "noemi.s45",
+        "noemi.s46",
+        "noemi.s66",
+        "noemi.s81"
+      ]
+    },
+    {
+      "statement": "Noemi feels undervalued at work, doing acting-lead duties without the title while waiting on a promotion decision, and is unsure whether to wait or look elsewhere.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s58",
+        "noemi.s46"
+      ]
+    },
+    {
+      "statement": "Noemi is caring in her relationships but unsure of her own instincts about what her partner and others want, so she asks the assistant to guess preferences for her to avoid getting a gift or plan wrong.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s66",
+        "noemi.s81",
+        "noemi.s21"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Noemi defers to Iris on money and household organization, asking where things go in Iris's budget sheet and checking with her before acting, partly to avoid friction.",
+  "rationale": "The first inferred statement, rated strong, says Noemi defers to Iris on money and household organization and checks with her before acting. That is substantially the same pattern as leaning on Iris for planning and letting her be the organized one."
+}

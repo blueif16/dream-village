@@ -1,0 +1,94 @@
+{
+  "impression_id": "marcus.i06",
+  "evidence_sessions": [
+    "marcus.s07",
+    "marcus.s17",
+    "marcus.s20",
+    "marcus.s22",
+    "marcus.s35",
+    "marcus.s40",
+    "marcus.s45"
+  ],
+  "inferred": [
+    {
+      "statement": "Marcus opens nearly every request with 'real quick' and repeatedly asks for short versions, so he wants concise, direct, practical answers without extra elaboration.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s07",
+        "marcus.s17",
+        "marcus.s20",
+        "marcus.s22",
+        "marcus.s35",
+        "marcus.s40",
+        "marcus.s45"
+      ]
+    },
+    {
+      "statement": "Marcus is cost-conscious and budgets deliberately, using a spending tracker with a sneaker cap, cheap high-protein meal prep, and shared grocery costs, and he converts purchases into hours of work before deciding.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s07",
+        "marcus.s20",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "Marcus organizes his life around fitness and nutrition, with weekly chicken-and-rice prep, a deadlift goal of 405, protein and meal timing questions, and plans to rebuild to four gym sessions.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s07",
+        "marcus.s20",
+        "marcus.s22",
+        "marcus.s45",
+        "marcus.s17"
+      ]
+    },
+    {
+      "statement": "Marcus juggles demanding overnight cold-dock shifts with afternoon classes, and he repeatedly asks for concrete strategies for managing sleep, caffeine, cold and fatigue.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s17",
+        "marcus.s35",
+        "marcus.s40",
+        "marcus.s45"
+      ]
+    },
+    {
+      "statement": "Marcus prefers specific, actionable answers with concrete numbers and timing, and he explicitly rejects generic advice like 'eat healthy'.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s17",
+        "marcus.s40",
+        "marcus.s20"
+      ]
+    },
+    {
+      "statement": "Marcus is self-disciplined and willing to cut back, such as quitting energy drinks and skipping a $230 sneaker drop, while still wrestling with a sneaker habit (a full closet wall of boxes).",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s35",
+        "marcus.s40"
+      ]
+    },
+    {
+      "statement": "Marcus is considerate and conflict-averse with the people around him, wanting his roommate message to sound clear but not bossy, settling up with Trevor, and cooking for his mom's Thanksgiving.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s07",
+        "marcus.s35",
+        "marcus.s45"
+      ]
+    },
+    {
+      "statement": "Marcus is a decisive user who likes choosing from a few options himself and ends chats briefly and casually with thanks.",
+      "strength": "weak",
+      "sessions": [
+        "marcus.s40",
+        "marcus.s45"
+      ]
+    }
+  ],
+  "recovered": false,
+  "matched": "",
+  "rationale": "The reader inferred that Marcus organizes life around fitness and nutrition, and asks for concrete strategies on sleep, caffeine and fatigue amid overnight shifts. Together these touch on the topic, but none captures the core pattern: becoming more methodical about his own body and fuel as overtime wears him down. The fitness statement is a general baseline trait, and the shift-fatigue statement lacks the escalation."
+}

@@ -1,0 +1,47 @@
+{
+  "id": "marcus.s45",
+  "principal": "marcus",
+  "start": "2025-11-23T14:54:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick big ask. tonight is my last 9pm overtime shift of the run. after that i wanna plan the week. i want to sleep a full night once its over, how do i schedule that without wrecking my body clock lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, that's a milestone. To shift your body clock back gradually, here's a simple plan:\n\n- Monday: Finish your shift, then sleep a normal daytime block, but cap it at about 5-6 hours so you're tired by evening. Get outside in daylight after waking.\n- Monday night: Go to bed around 10:30-11 p.m. Dim lights and put your phone away 30 minutes before.\n- Tuesday onward: Aim for 7.5-8 hours at night, with a consistent wake time. Keep the same wake time even on weekends.\n\nWhat time do your classes start and what are your work hours after this week? I can fit it to your actual schedule."
+    },
+    {
+      "role": "user",
+      "text": "classes are afternoons mon wed thu 2-5:15. after tonight i think regular nights are back but not sure yet. just finished my 5 container chicken and rice prep btw so food is covered for the week"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice, that's a solid base for the week. If you're back to regular nights you'll still need a plan, so here's one for now that works either way:\n\n- Wake time: 8:30 a.m. for days with class, which leaves time to eat and get there for 2.\n- Bedtime: 12:30 a.m. at the latest if you're on a day schedule; adjust if a night shift returns.\n- Keep one \"buffer\" night this week with no early alarm.\n\nIf your shifts do come back, tell me the hours and I'll redo it."
+    },
+    {
+      "role": "user",
+      "text": "ok. gym too. ive been down to 2 sessions a week during overtime. want to build back up to like 4 and get my strength back. whats the move, and what should i eat for it"
+    },
+    {
+      "role": "assistant",
+      "text": "Rebuilding methodically works best:\n\n**Week 1:** Stay at 2 sessions but add a third lighter one late in the week. Use about 80-85% of your recent working weights to ease back in.\n**Week 2:** Go to 3 full sessions.\n**Week 3:** Add the 4th, e.g. an upper/lower split (Mon/Tue/Thu/Sat).\n\nTrack your top sets each session in a note so you can see progress and add 5 lb when all reps feel clean.\n\n**Fuel:**\n- Roughly 0.7-1 g protein per lb of bodyweight daily\n- A carb-heavy meal 1-2 hours before lifting (rice, oats, banana)\n- Protein within a couple of hours after\n- Sleep matters as much as food for rebuilding, so your full nights help\n\nWant me to put the protein targets into your meal prep, or just give you a short checklist?"
+    },
+    {
+      "role": "user",
+      "text": "short checklist pls. also add groceries for thanksgiving. im doing mac and cheese at my moms duplex"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n**Weekly checklist**\n- Chicken + rice prep: done ✅\n- Add eggs, oats, bananas, Greek yogurt for breakfasts and pre-lift snacks\n- Protein shake or milk post-workout\n- Lift days: 4, track top sets\n- Wake time fixed, 7.5-8 hrs sleep\n\n**Thanksgiving mac and cheese (serves ~8-10):**\n- 1 lb elbow macaroni\n- 16 oz sharp cheddar (block, shred it yourself)\n- 8 oz Colby Jack or Monterey Jack\n- 4 cups whole milk\n- 4 tbsp butter, 4 tbsp flour\n- Smoked paprika, garlic powder, salt, pepper\n- Breadcrumbs or crushed crackers for topping\n\nCheck your mom's kitchen for a big baking dish and buy the cheese early in the week. Want it split into two shopping trips?"
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. one trip midweek is fine. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Midweek trip, one list. Enjoy the full night of sleep after tonight, you've earned it. Good luck with the last shift!"
+    }
+  ]
+}

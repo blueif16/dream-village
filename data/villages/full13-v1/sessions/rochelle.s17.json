@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s17",
+  "principal": "rochelle",
+  "start": "2025-09-28T07:50:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest how long does a transmission solenoid repair usually take. my van is still in the shop on ruel road and keisha is driving me all week lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Usually it's quick: about 2 to 5 hours of labor on most cars. Shops often keep a vehicle 1 to 3 days because of parts ordering and scheduling. If it's been longer than that, it's fair to call and ask what's holding it up (parts delay, extra diagnosis, or a backlog). Do you know if they're replacing just the solenoid or the whole solenoid pack?"
+    },
+    {
+      "role": "user",
+      "text": "idk they just said solenoid. its a 2011 nissan minivan 186,000 miles. is it even worth fixing 🙏 typing this while the red beans and rice cooks btw"
+    },
+    {
+      "role": "assistant",
+      "text": "Short answer: probably yes, if that's the only problem. A solenoid fix is much cheaper than a transmission rebuild or replacement, and a van with 186,000 miles can keep going if the transmission is otherwise healthy.\n\nRough fair prices:\n- Single solenoid: about $150 to $400 total\n- Full solenoid pack: about $300 to $700, depending on parts and labor\n- Fluid service is often added: $100 to $200\n\nA bill from $400 to $700 is still reasonable for a full pack. Over about $1,000 for just this repair, I'd get a second opinion. Ask the shop for an itemized estimate (parts vs. labor hours) and whether the work has a warranty."
+    },
+    {
+      "role": "user",
+      "text": "so like 700 max. thats a lot of hours on the line tho. ok what should i ask them when i call"
+    },
+    {
+      "role": "assistant",
+      "text": "Ask these:\n1. Is it one solenoid or the full pack?\n2. What's the itemized total: parts, labor hours, fluid, taxes?\n3. When will it be ready?\n4. Is there a warranty on parts and labor?\n5. Are you seeing any other transmission problems, and is anything else needed right now?\n6. Can I get the old part back or see it?\n\nAlso ask them to call you before doing any work that goes over the estimate."
+    },
+    {
+      "role": "user",
+      "text": "ok bet. skipping the 11 church service again for errands and cooking so ill call them first thing. thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds like a plan. Have the estimate in front of you when you call, and write down the name of whoever you talk to. Good luck, and enjoy the red beans and rice."
+    }
+  ]
+}

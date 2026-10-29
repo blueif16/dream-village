@@ -1,0 +1,47 @@
+{
+  "id": "marcus.s20",
+  "principal": "marcus",
+  "start": "2025-10-05T14:24:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick doing my sunday chicken and rice prep, 5 containers. how long do they last in the fridge"
+    },
+    {
+      "role": "assistant",
+      "text": "Cooked chicken and rice keep about 3 to 4 days in the fridge at 40°F or below. Cool them fast and get them into the containers within about an hour of cooking.\n\nWith 5 containers, the last ones would be pushing it. Put the first 2 or 3 in the fridge and freeze the other 2 right away. Frozen, they keep 2 to 3 months, and you can thaw them in the fridge overnight.\n\nReheat until steaming hot, around 165°F, and only reheat the rice once."
+    },
+    {
+      "role": "user",
+      "text": "ok good. i work tonight so i need them done before my shift. also trying to keep food costs low till friday payday. whats cheap and high protein to add to this"
+    },
+    {
+      "role": "assistant",
+      "text": "Cheap protein add-ins that work with chicken and rice:\n\n- Eggs: about 6g protein each, super cheap. Scramble or hard-boil a batch to add on top.\n- Black beans or lentils (canned or dry): around 7 to 9g per half cup, pennies per serving.\n- Chicken thighs instead of breasts: usually cheaper, and they stay juicier when reheated.\n- Frozen edamame: about 9g per half cup.\n- Cottage cheese or Greek yogurt on the side for snacks.\n\nCheap volume: frozen broccoli or a frozen veggie mix, plus a simple sauce like soy sauce, garlic and chili flakes so it doesn't get boring by day 3.\n\nSince you need it done before work, cook the rice and chicken at the same time, and boil eggs while you portion."
+    },
+    {
+      "role": "user",
+      "text": "how much protein per container should i aim for. and does timing matter"
+    },
+    {
+      "role": "assistant",
+      "text": "A good target is about 30 to 40g of protein per container. Roughly:\n\n- 5 oz cooked chicken: ~35-40g\n- 1 cup cooked rice: ~4g\n- 1 hard-boiled egg: ~6g\n- 1/2 cup beans: ~7g\n\nSo 5 oz chicken plus rice and an egg or beans lands you around 45-50g. Drop to 4 oz if you want to stretch the chicken further.\n\nOn timing, spreading protein across your meals, around 25 to 40g each, works better than loading it into one. If you tell me when you eat relative to your shift and training, I can suggest where each container fits."
+    },
+    {
+      "role": "user",
+      "text": "short version pls. i eat one before shift and one on break"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version:\n\n- Before shift: one container, 35 to 45g protein, with rice for energy.\n- On break: one container or a lighter one, like chicken with an egg, 30g or so.\n- Keep the 3 to 4 day rule: eat the first 3 or 4 early in the week, freeze the rest today.\n\nPack it in a cooler bag so it stays cold until break."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helped. Good luck with the prep and the shift tonight."
+    }
+  ]
+}

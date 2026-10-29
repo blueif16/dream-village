@@ -1,0 +1,364 @@
+{
+  "principal": "elliot",
+  "week": 5,
+  "entries": [
+    {
+      "id": "elliot.w5.l01",
+      "date": "2025-09-22",
+      "what": "Elliot takes Theo out in the squeaky jogging stroller for the first 40-minute walk on the Ulloa Salt Marsh boardwalk, the start of a morning routine.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Theo dozed off halfway; Elliot logged it in the spreadsheet.",
+      "feeling": "quietly proud",
+      "facts": [
+        "elliot.f27",
+        "elliot.f28",
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l02",
+      "date": "2025-09-22",
+      "what": "Theo's 5-8 p.m. crying stretch hits; Elliot hums the slowed-down ballpark organ tune and orders Phở Bến Thành for dinner.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Theo settled after 40 minutes; dinner was cold by then.",
+      "feeling": "worn but amused",
+      "facts": [
+        "elliot.f41",
+        "elliot.f42",
+        "elliot.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l03",
+      "date": "2025-09-22",
+      "what": "Elliot takes the 2 a.m. feed and logs it, while Hana takes the 5 a.m.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Theo went back down in the bassinet-turned-crib routine, no fuss.",
+      "feeling": "sleepy",
+      "facts": [
+        "elliot.f56",
+        "elliot.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l04",
+      "date": "2025-09-23",
+      "what": "Second boardwalk walk; egrets were out on the mudflat and Elliot stops to let Theo look.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "The walk came to 40 minutes again, and he thinks it might stick.",
+      "feeling": "hopeful",
+      "facts": [
+        "elliot.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l05",
+      "date": "2025-09-23",
+      "what": "Theo naps on demand, mostly on Elliot's chest, while Elliot puzzles over the half-done lighthouse jigsaw one-handed.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Placed three pieces before Theo woke.",
+      "feeling": "content",
+      "facts": [
+        "elliot.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l06",
+      "date": "2025-09-23",
+      "what": "Baby laundry night in the card-only Marisol Gardens laundry room.",
+      "with": [],
+      "outcome": "Two loads done by 10 p.m.",
+      "feeling": "efficient",
+      "facts": [
+        "elliot.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l07",
+      "date": "2025-09-24",
+      "what": "Elliot finds another handwritten note from Walter taped to his door about the crying.",
+      "with": [
+        "walter"
+      ],
+      "outcome": "He decided against confronting him and started pricing acoustic foam for the shared wall.",
+      "feeling": "guilty and annoyed",
+      "facts": [
+        "elliot.f51"
+      ],
+      "impressions": [
+        "elliot.i06"
+      ]
+    },
+    {
+      "id": "elliot.w5.l08",
+      "date": "2025-09-24",
+      "what": "Marsh walk in the morning, then he asks the assistant for foam panel options and shows it Walter's note.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Added two foam options to the cart, unsure whether to order.",
+      "feeling": "sheepish",
+      "facts": [
+        "elliot.f28",
+        "elliot.f55"
+      ],
+      "impressions": [
+        "elliot.i06"
+      ]
+    },
+    {
+      "id": "elliot.w5.l09",
+      "date": "2025-09-24",
+      "what": "Elliot checks in with Gloria's office about the bathroom faucet in 209, still dripping.",
+      "with": [
+        "gloria"
+      ],
+      "outcome": "Told it's on the list.",
+      "feeling": "resigned",
+      "facts": [
+        "elliot.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l10",
+      "date": "2025-09-25",
+      "what": "Takes Theo to Thursday baby story time at the library with Kaitlyn's group.",
+      "with": [
+        "theo",
+        "kaitlyn"
+      ],
+      "outcome": "Theo smiled at the puppet; Elliot chatted with another dad.",
+      "feeling": "social and glad",
+      "facts": [
+        "elliot.f54",
+        "elliot.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l11",
+      "date": "2025-09-25",
+      "what": "Marsh boardwalk walk before story time, then a nap fight in the afternoon.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Nap won by contact; scoreboard dad 0, nap 1.",
+      "feeling": "tired but joking",
+      "facts": [
+        "elliot.f28"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l12",
+      "date": "2025-09-25",
+      "what": "Reads Brenda's latest email and decides to answer it later.",
+      "with": [],
+      "outcome": "Left it flagged for the weekend.",
+      "feeling": "avoidant",
+      "facts": [
+        "elliot.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l13",
+      "date": "2025-09-26",
+      "what": "Stroller walk on the boardwalk under overcast skies.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Squeaky wheel noticed again; he oiled it later.",
+      "feeling": "steady",
+      "facts": [
+        "elliot.f28",
+        "elliot.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l14",
+      "date": "2025-09-26",
+      "what": "Evening witching hour and baby laundry in the Marisol laundry room.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Hana took over bath so he could finish the loads.",
+      "feeling": "grateful",
+      "facts": [
+        "elliot.f38",
+        "elliot.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l15",
+      "date": "2025-09-26",
+      "what": "Judith's condo is where Theo sleeps best, so Elliot reflects on the Grandma effect on a phone call with her.",
+      "with": [
+        "judith"
+      ],
+      "outcome": "Agreed to bring Theo over for a visit soon.",
+      "feeling": "wistful",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l16",
+      "date": "2025-09-27",
+      "what": "Saturday trip to Ruiz Family Market with Theo in the carrier.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Bought oat milk and produce; delivery only for diapers.",
+      "feeling": "capable",
+      "facts": [
+        "elliot.f22",
+        "elliot.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l17",
+      "date": "2025-09-27",
+      "what": "Theo naps while Elliot reviews the week's spreadsheet log.",
+      "with": [
+        "theo"
+      ],
+      "outcome": "Spotted a longer sleep stretch of about 3 hours at night.",
+      "feeling": "quietly pleased",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l18",
+      "date": "2025-09-27",
+      "what": "Takeout dinner with Hana after Theo's bedtime.",
+      "with": [
+        "hana"
+      ],
+      "outcome": "Both fell asleep on the couch early.",
+      "feeling": "cozy",
+      "facts": [
+        "elliot.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l19",
+      "date": "2025-09-28",
+      "what": "Walks Theo through the Delgado Park harvest farmers market, past the tamale stalls and stone fruit.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Bought peaches and a dozen tamales for the week.",
+      "feeling": "relaxed",
+      "facts": [
+        "elliot.f60"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l20",
+      "date": "2025-09-28",
+      "what": "Sunday afternoon Elliot finally answers a couple of emails, then plans the week on the log.",
+      "with": [],
+      "outcome": "Set up marsh walks for the days ahead.",
+      "feeling": "organized",
+      "facts": [
+        "elliot.f28",
+        "elliot.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "elliot.w5.l21",
+      "date": "2025-09-28",
+      "what": "Evening witching hour, then a 2 a.m. feed plan with Hana.",
+      "with": [
+        "theo",
+        "hana"
+      ],
+      "outcome": "Theo went down by 8:30.",
+      "feeling": "drained but fine",
+      "facts": [
+        "elliot.f56",
+        "elliot.f41"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "elliot.w5.n01",
+      "subject": "elliot",
+      "attribute": "stroller_maintenance",
+      "value": "oiled the squeaky front wheel on the jogging stroller",
+      "valid_from": "2025-09-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w5.n02",
+      "subject": "elliot",
+      "attribute": "foam_shopping",
+      "value": "has two acoustic foam panel kits in his cart for the shared wall with 211",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w5.n03",
+      "subject": "elliot",
+      "attribute": "market_purchase",
+      "value": "bought a dozen tamales and peaches at the harvest farmers market",
+      "valid_from": "2025-09-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "elliot.w5.n04",
+      "subject": "theo",
+      "attribute": "longest_night_sleep",
+      "value": "first night stretch of about three hours",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "elliot.w5.n05",
+      "subject": "elliot",
+      "attribute": "visit_plan",
+      "value": "plans to bring Theo to Judith's condo for a visit soon",
+      "valid_from": "2025-09-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

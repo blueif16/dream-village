@@ -1,0 +1,358 @@
+{
+  "principal": "noemi",
+  "week": 10,
+  "entries": [
+    {
+      "id": "noemi.w10.l01",
+      "date": "2025-10-27",
+      "what": "Slept in until 9, then studied subnetting at the kitchen table in the Verdant Commons apartment while Iris was at work.",
+      "with": [],
+      "outcome": "Finished one chapter of drills before heading out.",
+      "feeling": "focused but tired",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l02",
+      "date": "2025-10-27",
+      "what": "Filled up at the Ruel Road station and drove 9 minutes to start her 1 p.m. to 11:30 p.m. overtime swing. Ana from HR told her the temporary lead-duties differential kicks in this pay period, bringing her to $31.90 an hour.",
+      "with": [
+        "ana"
+      ],
+      "outcome": "Pay bump confirmed, still no title.",
+      "feeling": "relieved, a little wry",
+      "facts": [
+        "noemi.f03",
+        "noemi.f04",
+        "noemi.f05",
+        "noemi.f14",
+        "noemi.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l03",
+      "date": "2025-10-27",
+      "what": "Spent the evening in the cage triaging dead scanners and updating the RMA sheet, with Bao handling battery swaps.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Cleared a dozen handhelds before the night shift ran out of spares.",
+      "feeling": "stretched thin",
+      "facts": [
+        "noemi.f32",
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l04",
+      "date": "2025-10-28",
+      "what": "Quiet morning, then drove to work for the 1 p.m. swing. Trained Bao on scanner repairs from 3 to 5 in the cage.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Bao managed a trigger board swap on his own.",
+      "feeling": "patient, satisfied",
+      "facts": [
+        "noemi.f35",
+        "noemi.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l05",
+      "date": "2025-10-28",
+      "what": "Carla texted her cell about three dead scanners on the outbound dock; Noemi walked over and swapped them out.",
+      "with": [
+        "carla"
+      ],
+      "outcome": "Dock back at rate before the midnight rush.",
+      "feeling": "busy",
+      "facts": [
+        "noemi.f52"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l06",
+      "date": "2025-10-28",
+      "what": "Got home near midnight and ate leftover rice with Iris, who was still up with the budget sheet.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Agreed to talk about the December trip money later.",
+      "feeling": "wiped",
+      "facts": [
+        "noemi.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l07",
+      "date": "2025-10-29",
+      "what": "Studied port numbers with the practice-test app before shift.",
+      "with": [],
+      "outcome": "Still missing a handful on well-known ports.",
+      "feeling": "determined",
+      "facts": [
+        "noemi.f09",
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l08",
+      "date": "2025-10-29",
+      "what": "Worked the overtime swing, handling a battery batch problem and some badge reader tickets.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Tickets closed, RMA sheet updated.",
+      "feeling": "steady",
+      "facts": [
+        "noemi.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l09",
+      "date": "2025-10-29",
+      "what": "On a break she got a breach alert email about an old shopping account and realized she used the same password on it as on nearly everything personal.",
+      "with": [],
+      "outcome": "Changed that one password and started listing which accounts shared it.",
+      "feeling": "spooked",
+      "facts": [
+        "noemi.f22"
+      ],
+      "impressions": [
+        "noemi.i03"
+      ]
+    },
+    {
+      "id": "noemi.w10.l10",
+      "date": "2025-10-30",
+      "what": "Iris and Noemi talked at breakfast about her old resume, last touched in 2022. Noemi hesitated to list the lead-coverage work as her own.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Talked into writing it as her own work, building a new one-page resume that lists RF-4 lead-coverage duties.",
+      "feeling": "awkward, then proud",
+      "facts": [
+        "noemi.f54",
+        "noemi.f55",
+        "noemi.f32"
+      ],
+      "impressions": [
+        "noemi.i01"
+      ]
+    },
+    {
+      "id": "noemi.w10.l11",
+      "date": "2025-10-30",
+      "what": "Drove in for the swing and trained Bao on scanner repairs from 3 to 5. Victor passed along a vendor ticket on his way out.",
+      "with": [
+        "bao",
+        "victor"
+      ],
+      "outcome": "Took the vendor ticket without comment.",
+      "feeling": "irritated",
+      "facts": [
+        "noemi.f35",
+        "noemi.f49"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l12",
+      "date": "2025-10-30",
+      "what": "Late in the shift, she and Bao cleared the cage backlog.",
+      "with": [
+        "bao"
+      ],
+      "outcome": "Cage down to about 25 scanners.",
+      "feeling": "tired but okay",
+      "facts": [
+        "noemi.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l13",
+      "date": "2025-10-31",
+      "what": "Worked the overtime swing on Halloween. Pickers in costume jokes aside, several handhelds froze mid-shift.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Rebooted and reimaged a few; a red-beep night.",
+      "feeling": "harried",
+      "facts": [
+        "noemi.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l14",
+      "date": "2025-10-31",
+      "what": "Got Taquería Colima for shift dinner, her Friday habit.",
+      "with": [],
+      "outcome": "Ate in the cage between tickets.",
+      "feeling": "content",
+      "facts": [
+        "noemi.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l15",
+      "date": "2025-10-31",
+      "what": "Got home after 11:30, and Iris had left candy from the apartment's trick-or-treaters on the counter.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Shared candy and watched part of a show.",
+      "feeling": "cozy",
+      "facts": [
+        "noemi.f39"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l16",
+      "date": "2025-11-01",
+      "what": "Spent Saturday morning migrating personal accounts into a password manager, working through the list from Wednesday's breach scare, with a checklist to track which accounts were done.",
+      "with": [],
+      "outcome": "Most accounts moved over and given unique passwords.",
+      "feeling": "productive, vindicated",
+      "facts": [
+        "noemi.f22",
+        "noemi.f23"
+      ],
+      "impressions": [
+        "noemi.i03"
+      ]
+    },
+    {
+      "id": "noemi.w10.l17",
+      "date": "2025-11-01",
+      "what": "Short walk on the Ulloa marsh boardwalk, careful of slick planks.",
+      "with": [],
+      "outcome": "Cleared her head.",
+      "feeling": "calm",
+      "facts": [
+        "noemi.f26",
+        "noemi.f56"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l18",
+      "date": "2025-11-01",
+      "what": "Afternoon subnetting drills at the home desk.",
+      "with": [],
+      "outcome": "Did a full set before dinner.",
+      "feeling": "grinding",
+      "facts": [
+        "noemi.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l19",
+      "date": "2025-11-02",
+      "what": "Slept late, then went through the last of the password manager imports.",
+      "with": [],
+      "outcome": "All accounts moved.",
+      "feeling": "tidy",
+      "facts": [
+        "noemi.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "noemi.w10.l20",
+      "date": "2025-11-02",
+      "what": "Iris dropped hints about their Nov 15 anniversary; Noemi asked which restaurant Iris would pick and booked a Calle Ortega dinner for 7 p.m.",
+      "with": [
+        "iris"
+      ],
+      "outcome": "Reservation made for Nov 15.",
+      "feeling": "sheepish, happy",
+      "facts": [
+        "noemi.f57",
+        "noemi.f58"
+      ],
+      "impressions": [
+        "noemi.i04"
+      ]
+    },
+    {
+      "id": "noemi.w10.l21",
+      "date": "2025-11-02",
+      "what": "Sunday night co-op survival game with her online squad as packetloss_.",
+      "with": [],
+      "outcome": "Won a long raid.",
+      "feeling": "relaxed",
+      "facts": [
+        "noemi.f18",
+        "noemi.f19"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "noemi.w10.n01",
+      "subject": "noemi",
+      "attribute": "halloween_shift",
+      "value": "worked Halloween with several frozen handhelds",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w10.n02",
+      "subject": "noemi",
+      "attribute": "resume_format",
+      "value": "new resume is one page, written with Iris's help",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w10.n03",
+      "subject": "noemi",
+      "attribute": "breach_alert",
+      "value": "old shopping account flagged in a breach alert",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "noemi.w10.n04",
+      "subject": "noemi",
+      "attribute": "cage_backlog",
+      "value": "cage backlog down to about 25 scanners",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "noemi.w10.n05",
+      "subject": "noemi",
+      "attribute": "anniversary_restaurant_pick",
+      "value": "chose the dinner spot after asking Iris for her pick",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

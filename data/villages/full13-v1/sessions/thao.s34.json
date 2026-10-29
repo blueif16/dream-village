@@ -1,0 +1,31 @@
+{
+  "id": "thao.s34",
+  "principal": "thao",
+  "start": "2025-11-01T17:11:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 5pm and i just woke up lol. my mom called at 1 again mid sleep and left a voicemail in vietnamese, haven't listened. how do i get it transcribed to text"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Which phone do you have, iPhone or Android? Options depend on that, but here's the general picture:\n\n- iPhone: Voicemail tab in the Phone app. Visual Voicemail transcription works only for some languages, and Vietnamese is often not supported. Check Settings > Phone > Voicemail.\n- Android (Pixel): Visual voicemail transcription is mostly English-only too.\n- Workaround that works for any language: play the voicemail on speaker while recording it with another app, e.g. Google Recorder (Pixel), Voice Memos (iPhone) or Otter, then run the audio through a transcription tool that supports Vietnamese, like Google Docs voice typing (set language to Vietnamese) or a speech-to-text app.\n- Then paste the Vietnamese text into Google Translate or Google Translate's conversation mode to get English.\n\nGoogle Translate's mic also lets you hold your phone near the speaker and translate live, though quality drops with background noise."
+    },
+    {
+      "role": "user",
+      "text": "iphone. ok but realistically which is fastest. my mom speaks vietnamese to me and i answer in english with my sister so i need viet to english, not just text"
+    },
+    {
+      "role": "assistant",
+      "text": "Fastest on iPhone:\n\n1. Open the voicemail, tap Share (or the three dots) and save it to Files or send it to yourself as an audio file.\n2. Open Google Translate, tap the mic and choose Vietnamese > English.\n3. Play the voicemail on speaker next to your phone's mic. It will show Vietnamese text with an English translation.\n\nTip: play it in a quiet room and in short pieces, pausing between sentences. If you want a cleaner result, upload the audio to a transcription tool that supports Vietnamese, then paste the text into a translator.\n\nAlso worth knowing: accuracy on names and idioms can be off, so treat the translation as a gist."
+    },
+    {
+      "role": "user",
+      "text": "nice. can i just text her back instead of calling. what's the vietnamese for 'got your voicemail, can you text me, i work nights'"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. A natural version:\n\n\"Con nhận được tin nhắn thoại của mẹ rồi. Mẹ nhắn tin cho con nhé, con đi làm ca đêm.\"\n\nThat uses \"con\" and \"mẹ\" as a child speaking to a mother, which is standard. If you'd like a lighter tone, add \"ạ\" at the end of the sentences. Since this is for family, it's worth having someone fluent glance over it, but it should come across fine."
+    }
+  ]
+}

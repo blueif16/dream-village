@@ -1,0 +1,129 @@
+{
+  "impression_id": "linh.i01",
+  "evidence_sessions": [
+    "linh.s02",
+    "linh.s04",
+    "linh.s10",
+    "linh.s20",
+    "linh.s30",
+    "linh.s37",
+    "linh.s38",
+    "linh.s40",
+    "linh.s41",
+    "linh.s42",
+    "linh.s48",
+    "linh.s56",
+    "linh.s58",
+    "linh.s62",
+    "linh.s64",
+    "linh.s67",
+    "linh.s70",
+    "linh.s72",
+    "linh.s78",
+    "linh.s79",
+    "linh.s83"
+  ],
+  "inferred": [
+    {
+      "statement": "Linh repeatedly softens requests and refusals with hedges like 'maybe', 'if you can' and 'no worries if not', and she pulls back when the assistant makes a message clearer or firmer.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s02",
+        "linh.s04",
+        "linh.s10",
+        "linh.s38",
+        "linh.s42",
+        "linh.s56",
+        "linh.s64",
+        "linh.s70",
+        "linh.s83"
+      ]
+    },
+    {
+      "statement": "She avoids confrontation and often considers dropping or delaying an uncomfortable message (not sending it, only saying hi, 'maybe') because she fears the other person's reaction.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s10",
+        "linh.s38",
+        "linh.s48",
+        "linh.s56",
+        "linh.s58",
+        "linh.s70"
+      ]
+    },
+    {
+      "statement": "She has a persistent pattern of being unable to say no to her coworker Sam's Saturday swap requests, and she lets the unpaid debt of two shifts build up while she rehearses ways to raise it.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s30",
+        "linh.s38",
+        "linh.s42",
+        "linh.s56",
+        "linh.s58",
+        "linh.s64",
+        "linh.s70",
+        "linh.s83"
+      ]
+    },
+    {
+      "statement": "She is hiding her doubts about pharmacy from her mother, who strongly wants her to become a pharmacist, and she deflects or postpones the conversation while testing the ground through her sister and low-key mentions of nutrition.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s20",
+        "linh.s37",
+        "linh.s62",
+        "linh.s67",
+        "linh.s72",
+        "linh.s78",
+        "linh.s79"
+      ]
+    },
+    {
+      "statement": "She is moving toward nutrition, public health or dietitian paths, and her interest is energized by the digestion material.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s67",
+        "linh.s72",
+        "linh.s78",
+        "linh.s79"
+      ]
+    },
+    {
+      "statement": "She works long, tightly scheduled days (early openings, closings, classes) and regularly puts off eating until the end of a conversation, and she accepts the assistant's reminders to eat and rest.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s02",
+        "linh.s38",
+        "linh.s40",
+        "linh.s42",
+        "linh.s48",
+        "linh.s58",
+        "linh.s83"
+      ]
+    },
+    {
+      "statement": "She wants concise, structured help (bullets, timed blocks, short drafts, one question at a time) and she picks a favorite option quickly, which suggests she prefers practical, low-friction answers.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s58",
+        "linh.s67",
+        "linh.s79",
+        "linh.s48",
+        "linh.s40"
+      ]
+    },
+    {
+      "statement": "She trusts and leans on a few people, including her sister, Kenji and Thao, as safer outlets than her mother or coworkers.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s37",
+        "linh.s48",
+        "linh.s72",
+        "linh.s70"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Linh repeatedly softens requests and refusals with hedges like 'maybe', 'if you can' and 'no worries if not', and she pulls back when the assistant makes a message clearer or firmer.",
+  "rationale": "The first inferred statement (strong) says Linh softens requests and refusals with hedges and pulls back from firmer messages, and the second describes her avoiding confrontation by delaying or dropping messages. Both match the intended trait of avoiding direct disagreement and routing it through softer channels or delay."
+}

@@ -1,0 +1,137 @@
+{
+  "session_id": "noemi.s63",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi is covering Greg's duties",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "idk if i should mention that im covering greg's stuff",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi submitted the application for permanent desk lead",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already submitted the application for permanent desk lead",
+      "support_quote": ""
+    },
+    {
+      "text": "Rhonda said the decision comes after peak, mid-December",
+      "about": "rhonda",
+      "kind": "fact",
+      "item_id": "noemi.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she said the decision comes after peak, mid-december",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the application is in and Rhonda gave the timing",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since the application is already in and she's told you the timing",
+      "support_quote": "i already submitted the application for permanent desk lead"
+    },
+    {
+      "text": "Acting Victor passes his vendor tickets to Noemi",
+      "about": "victor",
+      "kind": "reference_use",
+      "item_id": "noemi.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "acting victor keeps passing me his vendor tickets on his way out",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi was talked into listing lead coverage on her resume and wants to raise it only sideways",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i still want to bring it up to rhonda only sideways. can you word it so it doesnt ask for anything",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi has a new resume listing lead coverage",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "putting the lead coverage on my new resume as my own work",
+      "support_quote": ""
+    },
+    {
+      "text": "About 25 scanners in the cage",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w10.n04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fleet is about 25 in the cage right now",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is getting Colima for dinner tonight",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "grabbing colima for dinner tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Noemi handles vendor tickets, RMA tracking and scheduling",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f32",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I've been handling the vendor tickets, scanner RMA tracking and desk scheduling alongside my normal queue",
+      "support_quote": "idk if i should mention that im covering greg's stuff"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i01",
+      "present": true,
+      "quote": "my friend talked me into putting the lead coverage on my new resume as my own work and it felt weird. i still want to bring it up to rhonda only sideways. can you word it so it doesnt ask for anything"
+    },
+    {
+      "item_id": "noemi.f50",
+      "present": true,
+      "quote": "she said the decision comes after peak, mid-december"
+    },
+    {
+      "item_id": "noemi.f36",
+      "present": true,
+      "quote": "i already submitted the application for permanent desk lead"
+    },
+    {
+      "item_id": "noemi.r04",
+      "present": true,
+      "quote": "acting victor keeps passing me his vendor tickets on his way out"
+    },
+    {
+      "item_id": "noemi.f25",
+      "present": true,
+      "quote": "grabbing colima for dinner tonight"
+    }
+  ],
+  "sensitive": []
+}

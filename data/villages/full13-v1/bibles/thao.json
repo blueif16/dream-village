@@ -1,0 +1,985 @@
+{
+  "principal": "thao",
+  "summary": "Thao Pham is a 27-year-old night-shift RN on 4 West at St. Anselm Valley Medical Center, working three 12-hour nights a week and living alone in Marisol Gardens unit 207 at the start of the horizon. She is calm at a code, practical to the bone, and chronically short on sleep, and she quietly carries more of her younger sister Linh's worries than their mother Hạnh does. The September 16 charting go-live is the first thing pressing on her, along with the overtime and longer shifts it brings. Her boyfriend Tomás moves in on October 1, which means splitting rent, fridge space and quiet hours with a cheerful, messy man. The October 23 union vote has her charge nurse Maribel and organizer Terrence pulling at her from one side and her fear of rocking the boat from the other. Her voicemail inbox is a graveyard she keeps meaning to clear. What she wants is simple: enough sleep, a fair staffing ratio, and for Linh to choose a path for herself rather than copy hers.",
+  "facts": [
+    {
+      "id": "thao.f01",
+      "subject": "thao",
+      "attribute": "shift_pattern",
+      "value": "three 12-hour nights a week, 7 p.m.-7:30 a.m., usually Tue/Wed/Sat",
+      "valid_from": null,
+      "valid_to": "2025-09-16",
+      "superseded_by": "thao.f02",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f02",
+      "subject": "thao",
+      "attribute": "shift_pattern",
+      "value": "four 12-hour nights a week during charting go-live coverage, Mon/Tue/Wed/Sat",
+      "valid_from": "2025-09-16",
+      "valid_to": "2025-10-13",
+      "superseded_by": "thao.f03",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f03",
+      "subject": "thao",
+      "attribute": "shift_pattern",
+      "value": "back to three nights, now Mon/Tue/Fri",
+      "valid_from": "2025-10-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f04",
+      "subject": "thao",
+      "attribute": "rent",
+      "value": "$2,180/month for unit 207, paid alone",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "thao.f05",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f05",
+      "subject": "thao",
+      "attribute": "rent",
+      "value": "$2,180/month split $1,090 each with Tomás",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f06",
+      "subject": "thao",
+      "attribute": "sleep_schedule",
+      "value": "sleeps 8:30 a.m. to 3 p.m. after shifts with blackout curtains and a box fan",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f07",
+      "subject": "thao",
+      "attribute": "car",
+      "value": "2014 silver hatchback with a slow passenger tire",
+      "valid_from": null,
+      "valid_to": "2025-11-14",
+      "superseded_by": "thao.f08",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f08",
+      "subject": "thao",
+      "attribute": "car",
+      "value": "same hatchback, now with two new front tires after the storm flat",
+      "valid_from": "2025-11-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f09",
+      "subject": "thao",
+      "attribute": "parking",
+      "value": "parks in the gravel overflow lot and takes the nurse shuttle up Ortega Hill",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f10",
+      "subject": "thao",
+      "attribute": "post_shift_meal",
+      "value": "phở tái at Phở Bến Thành with Jasmine after Saturday nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f11",
+      "subject": "thao",
+      "attribute": "shift_drink",
+      "value": "thermos of cà phê sữa đá made at home, two thermoses on bad nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f12",
+      "subject": "thao",
+      "attribute": "phone",
+      "value": "three-year-old phone, cracked screen protector, voicemail box nearly full",
+      "valid_from": null,
+      "valid_to": "2025-10-25",
+      "superseded_by": "thao.f13",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f13",
+      "subject": "thao",
+      "attribute": "phone",
+      "value": "same phone, voicemail turned off and replaced with a 'text me' greeting",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f14",
+      "subject": "thao",
+      "attribute": "charting_training",
+      "value": "8-hour charting superuser-lite class scheduled Sept 9, paid",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-16",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f15",
+      "subject": "thao",
+      "attribute": "union_vote_intent",
+      "value": "undecided on the union vote",
+      "valid_from": null,
+      "valid_to": "2025-10-20",
+      "superseded_by": "thao.f16",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f16",
+      "subject": "thao",
+      "attribute": "union_vote_intent",
+      "value": "decided to vote yes after the ratio incident",
+      "valid_from": "2025-10-20",
+      "valid_to": "2025-10-23",
+      "superseded_by": "thao.f17",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f17",
+      "subject": "thao",
+      "attribute": "union_vote_intent",
+      "value": "voted yes on Oct 23",
+      "valid_from": "2025-10-23",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f18",
+      "subject": "thao",
+      "attribute": "household",
+      "value": "lives alone in unit 207",
+      "valid_from": null,
+      "valid_to": "2025-10-01",
+      "superseded_by": "thao.f19",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f19",
+      "subject": "thao",
+      "attribute": "household",
+      "value": "lives with Tomás in unit 207",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f20",
+      "subject": "thao",
+      "attribute": "chore_split",
+      "value": "no system; she does everything",
+      "valid_from": "2025-10-01",
+      "valid_to": "2025-10-27",
+      "superseded_by": "thao.f21",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f21",
+      "subject": "thao",
+      "attribute": "chore_split",
+      "value": "whiteboard on the fridge: Tomás does dishes and trash, she does laundry and groceries",
+      "valid_from": "2025-10-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f22",
+      "subject": "thao",
+      "attribute": "savings_goal",
+      "value": "$6,000 emergency fund, at about $3,400",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f23",
+      "subject": "thao",
+      "attribute": "bank_account_number",
+      "value": "checking account ending 4471 at a local credit union, full number 0038814471",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "thao.f24",
+      "subject": "thao",
+      "attribute": "rn_license_renewal",
+      "value": "RN license renewal due Dec 31; needs 30 CE hours, has 18",
+      "valid_from": null,
+      "valid_to": "2025-11-08",
+      "superseded_by": "thao.f25",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f25",
+      "subject": "thao",
+      "attribute": "rn_license_renewal",
+      "value": "CE hours complete (30/30), renewal submitted",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f26",
+      "subject": "thao",
+      "attribute": "certifications",
+      "value": "BLS and ACLS current; ACLS expires March 2026",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f27",
+      "subject": "thao",
+      "attribute": "nursing_school",
+      "value": "BSN from Bayshore State, class of 2020",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f28",
+      "subject": "thao",
+      "attribute": "years_on_unit",
+      "value": "five years on 4 West nights",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f29",
+      "subject": "thao",
+      "attribute": "pay",
+      "value": "about $68/hour base plus night differential",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f30",
+      "subject": "thao",
+      "attribute": "fitness",
+      "value": "walks the Ulloa marsh boardwalk loop before shifts, about 3 times a week",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f31",
+      "subject": "thao",
+      "attribute": "hobby",
+      "value": "keeps pothos and a struggling basil plant on the balcony",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f32",
+      "subject": "thao",
+      "attribute": "comfort_show",
+      "value": "rewatches an old baking competition show to fall asleep",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f33",
+      "subject": "thao",
+      "attribute": "grocery_store",
+      "value": "Ruiz Family Market for fish sauce and produce, Tuesday afternoons",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f34",
+      "subject": "thao",
+      "attribute": "laundry",
+      "value": "Marisol Gardens card-only laundry room, reloads the card $20 at a time",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f35",
+      "subject": "thao",
+      "attribute": "family_dinner",
+      "value": "Sunday dinner at Hạnh's Pell Road house every other week",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f36",
+      "subject": "thao",
+      "attribute": "linh_support",
+      "value": "sends Linh $50 for groceries on the 1st of the month",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f37",
+      "subject": "thao",
+      "attribute": "pto_plan",
+      "value": "requested Thanksgiving week off; denied",
+      "valid_from": "2025-09-03",
+      "valid_to": "2025-11-05",
+      "superseded_by": "thao.f38",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f38",
+      "subject": "thao",
+      "attribute": "pto_plan",
+      "value": "swapped with Jasmine: off Nov 26-28, works Christmas Eve instead",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f39",
+      "subject": "thao",
+      "attribute": "crush",
+      "value": "admitted a lingering crush on Dr. Nikhil Mehta's polite voice on night pages",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "thao.f40",
+      "subject": "thao",
+      "attribute": "neighbor_noise",
+      "value": "earplugs and white noise against Theo's crying through the 207/209 wall",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f41",
+      "subject": "thao",
+      "attribute": "dentist_appointment",
+      "value": "overdue cleaning booked at the Plaza Marisol dentist Nov 18, 3:30 p.m.",
+      "valid_from": "2025-10-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f42",
+      "subject": "thao",
+      "attribute": "scrubs",
+      "value": "navy scrubs, unit requires navy; owns five sets",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f43",
+      "subject": "thao",
+      "attribute": "lunch_on_shift",
+      "value": "packs leftover rice and whatever Hạnh sends, eats at 2 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f44",
+      "subject": "tomas",
+      "attribute": "truck",
+      "value": "white work pickup that Walter complains about blocking the carport",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f45",
+      "subject": "tomas",
+      "attribute": "work_schedule",
+      "value": "apprentice days 6:30 a.m.-3 p.m., so he leaves as she comes home",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f46",
+      "subject": "tomas",
+      "attribute": "cooking",
+      "value": "makes enormous pots of chili and leaves the pot soaking for days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f47",
+      "subject": "jasmine",
+      "attribute": "shift_swap_habit",
+      "value": "swaps shifts with Thao roughly twice a month, settled by text",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f48",
+      "subject": "jasmine",
+      "attribute": "union_stance",
+      "value": "loud yes vote, wears the union button on her badge reel",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f49",
+      "subject": "ruben",
+      "attribute": "charting_tips",
+      "value": "keeps a laminated cheat sheet of charting shortcuts he shares with Thao",
+      "valid_from": "2025-09-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f50",
+      "subject": "maribel",
+      "attribute": "staffing_ratio",
+      "value": "4 West nights running 1:6 on bad nights, Maribel pushing for 1:4",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f51",
+      "subject": "hanh",
+      "attribute": "call_pattern",
+      "value": "calls Thao at 1 p.m., mid-sleep, leaving voicemails in Vietnamese",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f52",
+      "subject": "terrence",
+      "attribute": "contact_pattern",
+      "value": "texts Thao reminder flyers every few days before the vote",
+      "valid_from": "2025-09-01",
+      "valid_to": "2025-10-24",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f53",
+      "subject": "gloria",
+      "attribute": "unit_207_repair",
+      "value": "open request for a leaking bathroom faucet in 207",
+      "valid_from": "2025-08-28",
+      "valid_to": "2025-10-04",
+      "superseded_by": "thao.f54",
+      "class": "useful"
+    },
+    {
+      "id": "thao.f54",
+      "subject": "gloria",
+      "attribute": "unit_207_repair",
+      "value": "faucet finally fixed (Tomás replaced the cartridge; Gloria approved reimbursement)",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f55",
+      "subject": "walter",
+      "attribute": "complaint_pattern",
+      "value": "leaves handwritten notes on Thao's door about the truck",
+      "valid_from": "2025-10-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f56",
+      "subject": "thao",
+      "attribute": "opinion_of_maribel",
+      "value": "vented that Maribel is a hypocrite about charting and 'writes on her glove like it's 1995'",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "thao.f57",
+      "subject": "thao",
+      "attribute": "heat_wave_plan",
+      "value": "no AC; borrowed a portable unit from Hạnh for Aug 27-30",
+      "valid_from": "2025-08-27",
+      "valid_to": "2025-08-31",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f58",
+      "subject": "thao",
+      "attribute": "linh_birthday_gift",
+      "value": "planning a good burr grinder for Linh's December birthday, budget $150",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "thao.f59",
+      "subject": "thao",
+      "attribute": "language",
+      "value": "speaks Vietnamese with Hạnh, English with Linh",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.f60",
+      "subject": "thao",
+      "attribute": "food_drive",
+      "value": "signed up to sort cans at Our Lady of the Marsh food drive Nov 22, 9-12",
+      "valid_from": "2025-11-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "thao.i01",
+      "statement": "Avoids phone calls and lets anything voice-based pile up while handling texts instantly.",
+      "about": "thao",
+      "evidence": [
+        {
+          "id": "thao.i01.e1",
+          "date": "2025-09-02",
+          "description": "asks the assistant to draft a text to the credit union asking if she can handle a card issue by chat instead of calling"
+        },
+        {
+          "id": "thao.i01.e2",
+          "date": "2025-09-21",
+          "description": "mentions 23 unheard voicemails and asks for a way to read them as text instead"
+        },
+        {
+          "id": "thao.i01.e3",
+          "date": "2025-10-25",
+          "description": "asks for a voicemail greeting that says 'please text me, I work nights'"
+        },
+        {
+          "id": "thao.i01.e4",
+          "date": "2025-11-12",
+          "description": "has the assistant write out exactly what to say before calling the tire shop, then asks if they take online booking"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "thao.i02",
+      "statement": "Mothers Linh more than their mother does, often managing Linh's problems behind the scenes.",
+      "about": "thao",
+      "evidence": [
+        {
+          "id": "thao.i02.e1",
+          "date": "2025-09-01",
+          "description": "sets up a recurring $50 transfer to Linh and asks how to label it so Hạnh won't see"
+        },
+        {
+          "id": "thao.i02.e2",
+          "date": "2025-10-14",
+          "description": "asks for a list of anatomy lab practical study tricks to forward Linh before Oct 17"
+        },
+        {
+          "id": "thao.i02.e3",
+          "date": "2025-10-19",
+          "description": "drafts a message to Hạnh deflecting the pharmacy question on Linh's behalf"
+        },
+        {
+          "id": "thao.i02.e4",
+          "date": "2025-11-10",
+          "description": "researches burr grinders for Linh's birthday, comparing grind consistency specs"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "thao.i03",
+      "statement": "Stays steady and procedural in a crisis but stalls on choices that might make waves.",
+      "about": "thao",
+      "evidence": [
+        {
+          "id": "thao.i03.e1",
+          "date": "2025-09-17",
+          "description": "after go-live night one, asks for a clean checklist of charting downtime procedures, no complaints"
+        },
+        {
+          "id": "thao.i03.e2",
+          "date": "2025-10-02",
+          "description": "asks for pros and cons of unionizing three different ways and still says she'll decide later"
+        },
+        {
+          "id": "thao.i03.e3",
+          "date": "2025-10-20",
+          "description": "after a 1:7 night asks for help writing a calm incident summary for Maribel, then says she's voting yes"
+        },
+        {
+          "id": "thao.i03.e4",
+          "date": "2025-11-14",
+          "description": "handles a storm flat on Ruel Road with a step-by-step tire-change list, no panic"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-20",
+      "changed_to": "Still careful, but now willing to take a public position when patient safety is at stake.",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "thao.i04",
+      "statement": "Expresses care through practical fixes rather than words.",
+      "about": "thao",
+      "evidence": [
+        {
+          "id": "thao.i04.e1",
+          "date": "2025-08-29",
+          "description": "asks for a list of heat-safe cold meals to drop at Hạnh's salon during the heat wave"
+        },
+        {
+          "id": "thao.i04.e2",
+          "date": "2025-09-27",
+          "description": "asks how to make a white-noise and soothing playlist to share with the exhausted neighbors in 209"
+        },
+        {
+          "id": "thao.i04.e3",
+          "date": "2025-10-08",
+          "description": "looks up how to label fridge shelves so Tomás has his own instead of saying she's annoyed"
+        },
+        {
+          "id": "thao.i04.e4",
+          "date": "2025-11-19",
+          "description": "makes a freezer-meal plan for Linh's finals week"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "thao.i05",
+      "statement": "Is a disorganized, messy housekeeper.",
+      "about": "thao",
+      "evidence": [
+        {
+          "id": "thao.i05.e1",
+          "date": "2025-10-06",
+          "description": "complains the kitchen is a disaster and asks for a fast cleaning order — it turns out to be Tomás's first-week mess"
+        },
+        {
+          "id": "thao.i05.e2",
+          "date": "2025-09-10",
+          "description": "asks to optimize her already labeled pantry bins by expiration date"
+        },
+        {
+          "id": "thao.i05.e3",
+          "date": "2025-10-27",
+          "description": "designs a fridge whiteboard chore chart with color codes"
+        },
+        {
+          "id": "thao.i05.e4",
+          "date": "2025-11-03",
+          "description": "asks for a laundry routine that fits a three-night week, already tracking card balance"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "thao.i06",
+      "statement": "Prefers short, direct answers and gets impatient with padding when she's post-shift.",
+      "about": "thao",
+      "evidence": [
+        {
+          "id": "thao.i06.e1",
+          "date": "2025-09-18",
+          "description": "replies 'too long, just the steps' to a detailed explanation at 8 a.m."
+        },
+        {
+          "id": "thao.i06.e2",
+          "date": "2025-10-11",
+          "description": "asks for a recipe 'in 5 lines max'"
+        },
+        {
+          "id": "thao.i06.e3",
+          "date": "2025-10-30",
+          "description": "says 'bullet it' when asked a clarifying question about a CE course"
+        },
+        {
+          "id": "thao.i06.e4",
+          "date": "2025-11-08",
+          "description": "thanks the assistant only when it gives a one-line answer about license renewal"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "thao.r01",
+      "term": "go-live",
+      "meaning": "the St. Anselm charting system switchover on Sept 16 and its fallout",
+      "first_use": "2025-09-02"
+    },
+    {
+      "id": "thao.r02",
+      "term": "the box",
+      "meaning": "her overflowing voicemail inbox",
+      "first_use": "2025-09-21"
+    },
+    {
+      "id": "thao.r03",
+      "term": "Ruben's sheet",
+      "meaning": "Rubén's laminated charting shortcut cheat sheet",
+      "first_use": "2025-09-17"
+    },
+    {
+      "id": "thao.r04",
+      "term": "209",
+      "meaning": "Elliot's household next door, mostly the baby's crying through the wall",
+      "first_use": "2025-09-27"
+    },
+    {
+      "id": "thao.r05",
+      "term": "the button",
+      "meaning": "the union vote decision (from Jasmine's union button)",
+      "first_use": "2025-10-02"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "thao.a01",
+      "title": "Charting go-live",
+      "summary": "Training, the Sept 16 switchover, a month of extra nights, and a return to normal.",
+      "beats": [
+        {
+          "date": "2025-09-09",
+          "what": "attends charting training",
+          "facts": [
+            "thao.f14"
+          ]
+        },
+        {
+          "date": "2025-09-16",
+          "what": "go-live; picks up a fourth night",
+          "facts": [
+            "thao.f02",
+            "thao.f49"
+          ]
+        },
+        {
+          "date": "2025-10-13",
+          "what": "returns to three nights",
+          "facts": [
+            "thao.f03"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thao.a02",
+      "title": "Tomás moves in",
+      "summary": "Sharing unit 207: rent, chores, and the neighbors.",
+      "beats": [
+        {
+          "date": "2025-10-01",
+          "what": "Tomás moves in; rent is split",
+          "facts": [
+            "thao.f05",
+            "thao.f19",
+            "thao.f20"
+          ]
+        },
+        {
+          "date": "2025-10-04",
+          "what": "Tomás fixes the faucet",
+          "facts": [
+            "thao.f54"
+          ]
+        },
+        {
+          "date": "2025-10-27",
+          "what": "they start a chore whiteboard",
+          "facts": [
+            "thao.f21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thao.a03",
+      "title": "Union vote",
+      "summary": "Thao moves from undecided to a yes vote after a bad staffing night.",
+      "beats": [
+        {
+          "date": "2025-10-02",
+          "what": "weighs pros and cons",
+          "facts": [
+            "thao.f15"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "after a 1:7 night, decides yes",
+          "facts": [
+            "thao.f16",
+            "thao.f50"
+          ]
+        },
+        {
+          "date": "2025-10-23",
+          "what": "votes",
+          "facts": [
+            "thao.f17"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thao.a04",
+      "title": "Life admin catch-up",
+      "summary": "Phone, license, holiday leave, and the car.",
+      "beats": [
+        {
+          "date": "2025-10-25",
+          "what": "turns off voicemail",
+          "facts": [
+            "thao.f13"
+          ]
+        },
+        {
+          "date": "2025-11-05",
+          "what": "secures the Thanksgiving swap",
+          "facts": [
+            "thao.f38"
+          ]
+        },
+        {
+          "date": "2025-11-08",
+          "what": "finishes CE hours and submits renewal",
+          "facts": [
+            "thao.f25"
+          ]
+        },
+        {
+          "date": "2025-11-14",
+          "what": "replaces tires after the storm flat",
+          "facts": [
+            "thao.f08"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "lowercase, few periods, short bursts; occasional typos from post-shift fatigue; clinical shorthand (pt, q4, nbd); rare emoji, mostly 🙃",
+    "with_assistant": "gives minimal context, gets straight to the task, sometimes pastes screenshots' text; polite but terse; asks to shorten long answers",
+    "quirks": [
+      "says 'ok but realistically'",
+      "timestamps herself like 'it's 7:58 and i'm dead'",
+      "uses nursing abbreviations casually",
+      "asks for checklists"
+    ],
+    "sample_lines": [
+      "ok just the steps pls",
+      "what's a 10 min dinner with eggs and rice",
+      "bullet it, i'm post-shift",
+      "draft a text saying i can't make it, nice but firm",
+      "realistically how long does this take",
+      "is this normal or am i being dramatic 🙃",
+      "make it shorter"
+    ]
+  },
+  "usage": {
+    "frequency": "several_per_week",
+    "active_hours": [
+      2,
+      8,
+      15,
+      17
+    ]
+  }
+}

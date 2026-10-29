@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s34",
+  "principal": "rochelle",
+  "start": "2025-11-04T22:35:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i'm typing this in the car in lot C eating my leftovers outta the blue cooler bag lol. which spring nursing programs actually weight prereq GPA. i'm in anatomy 1 with okoye and intro chem right now so anatomy 2 is next. i want an RN program by fall 2027 ideally ending up at St. Anselm"
+    },
+    {
+      "role": "assistant",
+      "text": "Most competitive RN programs score prerequisite GPA, and many use a points system where it's a big share. Typical patterns:\n\n- Points-based ADN programs: prereq GPA (often just the science courses like A&P, microbiology, chemistry) gets the most points, sometimes alongside an entrance exam score such as the TEAS.\n- Competitive BSN programs: usually look at overall prereq GPA plus a science-only GPA.\n- Lottery or first-come programs: GPA matters less, you mostly just need to clear a minimum.\n\nI can't see current admission rules for specific schools, so check each program's admission page for how they calculate GPA and whether they count repeated courses. Do you have particular programs in mind, or want me to help you build a comparison checklist?"
+    },
+    {
+      "role": "user",
+      "text": "checklist yes. also how much would an A in anatomy 2 raise my GPA. i'll check the programs against denny's map before i register"
+    },
+    {
+      "role": "assistant",
+      "text": "Checklist for each program:\n1. Does it use prereq GPA, science GPA, or both?\n2. Minimum GPA, and what GPA admitted students actually had\n3. Which courses count (A&P I and II, microbiology, chem, etc.)\n4. Points system or lottery?\n5. TEAS required, and minimum score\n6. Application deadline and start term\n7. Course age limits\n\nGPA math: new GPA = (current grade points + new grade points) / (current credits + new credits). An A is 4.0 per unit.\n\nExample with made-up numbers: 10 units at a 3.2 average is 32 grade points. Add a 4-unit Anatomy II with an A: 16 more points. (32 + 16) / 14 = 3.43. So that would raise it about 0.23.\n\nThe bigger your existing credit total, the smaller the jump, and a science-only GPA moves more because it has fewer courses in it. Send me your current units and grade points, or your grades and unit counts per course, and I'll run your real numbers, including an A vs a B in Anatomy II."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u, will do that tonight"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Bring the grades and units whenever you're ready and I'll run both scenarios. Check each program against the plan Denny mapped before you register so the courses line up."
+    }
+  ]
+}

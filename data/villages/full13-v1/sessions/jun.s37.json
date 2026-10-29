@@ -1,0 +1,39 @@
+{
+  "id": "jun.s37",
+  "principal": "jun",
+  "start": "2025-11-06T14:33:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "boss my phone is about dead again and its not even 3 lol. its a 3 yr old thing with a cracked corner and the battery always quits by 4pm. im on break at work (opening shift at heron & grind) so i got like 8 min to try stuff 🔥"
+    },
+    {
+      "role": "assistant",
+      "text": "Let's go fast. Is it an iPhone or Android? Meanwhile, these work on both:\n\n1. Turn on Low Power / Battery Saver mode.\n2. Drop screen brightness and turn on auto-brightness.\n3. Set auto-lock / screen timeout to 30 seconds.\n4. Turn off background app refresh for apps you don't need live.\n5. Check Settings > Battery to see which app is draining it most.\n\nTell me the phone type and I'll give exact menu paths."
+    },
+    {
+      "role": "user",
+      "text": "iphone. i need it alive for card taps at the market sunday, plus i have to take photos of my canopy setup and the stock for sunday, and texts with paolo"
+    },
+    {
+      "role": "assistant",
+      "text": "iPhone steps, in order of payoff:\n\n- Settings > Battery > Low Power Mode on. It also stretches the 30s auto-lock.\n- Settings > Display & Brightness > Auto-Lock > 30 Seconds. Turn on True Tone/Auto-Brightness under Accessibility > Display & Text Size.\n- Settings > General > Background App Refresh > Wi-Fi only, or off for everything except what you need.\n- Settings > Battery: scroll to the app list and see who's eating power. Close or restrict the worst ones.\n- Settings > Privacy & Security > Location Services: set most apps to While Using or Never.\n- Settings > Mail > Fetch New Data > Manual if you don't need instant email.\n\nFor Sunday photos and card taps: Camera is fine on Low Power, but turn off Live Photos (the circle icon in Camera) and skip video. Dim brightness for photos, but turn it up for card taps only if the reader needs it. Bring a small battery pack too. Cracked corner and 3 years of age mean the battery has likely worn down. Check Settings > Battery > Battery Health & Charging for Maximum Capacity. Under 80% means a battery replacement is worth it."
+    },
+    {
+      "role": "user",
+      "text": "ok actually also i update our sales spreadsheet on it, linh set it up with tabs for ingredients, kitchen hours and sales. how do i keep it syncing offline"
+    },
+    {
+      "role": "assistant",
+      "text": "Which app do you use for the sheet, Google Sheets or Excel? Here's the Google Sheets version since that's most common:\n\n1. Open the Sheets app, tap the three dots next to the file > Make available offline. Do this while on Wi-Fi.\n2. Edits made offline save on your phone and sync automatically when you're back online.\n3. To save battery, leave the phone in Low Power Mode. It will still sync when you open the app on signal or Wi-Fi.\n4. At the market, enter the sales in bulk at the end of each hour instead of after every sale. Fewer screen-on moments.\n5. Before leaving, open the sheet once on Wi-Fi to make sure the latest version is downloaded.\n\nFor receipts, snap a photo of each one and enter the totals later in one sitting, so you aren't hunting for signal.\n\nIf it's Excel, tell me and I'll adjust the steps."
+    },
+    {
+      "role": "user",
+      "text": "its sheets. sige thanks that helps a ton 🔥 break's over"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the rest of your shift! Quick checklist for before Sunday: Low Power Mode on, offline sheet downloaded, Live Photos off, battery pack packed, and a full charge the night before. Message me if you want a one-line checklist to tape inside the canopy."
+    }
+  ]
+}

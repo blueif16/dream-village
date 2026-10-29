@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s24",
+  "principal": "noemi",
+  "start": "2025-09-18T13:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. shift starts in like 10 min and tonight is shaping up to be a red-beep night. 14 scanners already in the cage, pickers are already falling behind rate and carla texts my cell the second one dies on the outbound line. how do i order the queue before handoff"
+    },
+    {
+      "role": "assistant",
+      "text": "Sort by how much each dead scanner hurts the floor, not by ticket age.\n\n1. Outbound line first. Anything a picker is waiting on right now gets a spare handheld swapped in immediately. Fixing the dead unit can wait.\n2. Quick fixes next: frozen units, reboots, battery swaps, loose trigger boards. These go back into circulation in minutes and shrink the pile fastest.\n3. Slow repairs after that: units needing reflash, screen or board work.\n4. Last: the ones that are clearly vendor-bound.\n\nTwo habits for a night like this:\n- Pull spares from the cage into a grab bin near the outbound line so you're swapping, not walking.\n- Tell Carla once up front: 'swap first, repair later, expect a short wait on fixes.' That cuts down the one-off texts.\n\nWant a quick tier label scheme for the cage shelves?"
+    },
+    {
+      "role": "user",
+      "text": "yeah. also half of these are probably vendor-bound, need to add them to the RMA sheet before i forget. should i log them as i go or batch at end of shift"
+    },
+    {
+      "role": "assistant",
+      "text": "Do a hybrid: quick-tag as you go, full entry later.\n\n- As you triage, put a sticky or marker label on each vendor-bound unit with its serial and a one-word fault (e.g. 'dead', 'screen', 'no-boot'). That takes about 10 seconds.\n- Keep those units in a separate bin so they don't get mixed back into the repair pile.\n- Batch the entries into the RMA sheet in one sitting, ideally before the night handoff or right after the rush eases, copying from the labels.\n\nLogging each one live breaks your flow when the floor is falling behind. Batching purely at the end risks lost serials or forgotten faults. The labels cover both.\n\nFor your desk queue, close tickets for the swapped units right away and note 'replaced, repair pending' so the open count reflects reality."
+    },
+    {
+      "role": "user",
+      "text": "ty that's actually gg. bins and labels it is"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice. Good luck tonight. Swap fast, label everything, and the pile should stay manageable. If it goes sideways, come back and I can help you draft a quick status note."
+    }
+  ]
+}

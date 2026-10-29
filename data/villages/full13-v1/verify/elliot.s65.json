@@ -1,0 +1,373 @@
+{
+  "session_id": "elliot.s65",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Elliot is alone with Theo all day on day 2 solo",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "day 2 solo, the baby is winning 14-0",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo sleeps in the crib in the nursery with white noise on rain",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he sleeps in the crib in the nursery half of the spare room with the white noise on rain",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot did baby laundry in the card-only laundry room tonight",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i just did the baby laundry tonight in the card-only laundry room downstairs",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot packed his wife's lunch to keep her mornings easy",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.w11.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i also packed my wife's lunch last night so her mornings stay easy",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot jokes about losing to the baby while overwhelmed",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "day 2 solo, the baby is winning 14-0",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot quietly takes load off Hana",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": "elliot.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i also packed my wife's lunch last night so her mornings stay easy",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo's wake windows are about 90 minutes",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "his wake windows are about 90 min",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Elliot uses rain white noise",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Keeping the rain sound you already use is good",
+      "support_quote": "with the white noise on rain"
+    },
+    {
+      "text": "Assistant says Elliot is on day 2 solo",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Day 2 solo is a rough scoreboard",
+      "support_quote": "day 2 solo, the baby is winning 14-0"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.i02",
+      "present": true,
+      "quote": "day 2 solo, the baby is winning 14-0"
+    },
+    {
+      "item_id": "elliot.i04",
+      "present": true,
+      "quote": "i also packed my wife's lunch last night so her mornings stay easy"
+    },
+    {
+      "item_id": "elliot.f20",
+      "present": true,
+      "quote": "day 2 solo, the baby is winning 14-0"
+    },
+    {
+      "item_id": "elliot.f12",
+      "present": true,
+      "quote": "he sleeps in the crib in the nursery half of the spare room with the white noise on rain"
+    },
+    {
+      "item_id": "elliot.f38",
+      "present": true,
+      "quote": "i just did the baby laundry tonight in the card-only laundry room downstairs"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

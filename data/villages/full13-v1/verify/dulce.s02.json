@@ -1,0 +1,158 @@
+{
+  "session_id": "dulce.s02",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Dulce is 15",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it wants my age so i put 15 lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce takes orders at Taquería Colima",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i take orders at taqueria colima",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce paid the whole $31 boba receipt so it wouldn't be weird",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i kinda just paid all of it so it wasnt weird",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce paid the boba from the phone fund",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it came out of the phone fund.",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce's first check was about $130",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.w2.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my first check was about 130",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce is in the group las 4 planning for Brianna's birthday",
+      "about": "dulce",
+      "kind": "reference_use",
+      "item_id": "dulce.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "bday stuff is coming up for brianna with las 4",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce wants to thank Rafael for the ride without it being cringe",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my cousin rafael picked me up friday after my shift and i wanna say thanks without it being cringe",
+      "support_quote": ""
+    },
+    {
+      "text": "Rafael picked Dulce up after Friday shift",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my cousin rafael picked me up friday after my shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Dulce covered the whole $31 boba bill",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f58",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Okay, so you covered the whole $31.",
+      "support_quote": "ya so i kinda just paid all of it so it wasnt weird"
+    },
+    {
+      "text": "Dulce gets about $130 every two weeks",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.w2.n02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "If about $130 comes every two weeks",
+      "support_quote": "how long until it comes back if i get like 130 every 2 weeks"
+    },
+    {
+      "text": "Rafael picked Dulce up after her shift Friday",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "thanks for picking me up after my shift Friday",
+      "support_quote": "my cousin rafael picked me up friday after my shift"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "dulce.i02",
+      "present": true,
+      "quote": "ya so i kinda just paid all of it so it wasnt weird 💀"
+    },
+    {
+      "item_id": "dulce.i07",
+      "present": true,
+      "quote": "my cousin rafael picked me up friday after my shift and i wanna say thanks without it being cringe"
+    },
+    {
+      "item_id": "dulce.r01",
+      "present": true,
+      "quote": "bday stuff is coming up for brianna with las 4"
+    },
+    {
+      "item_id": "dulce.r03",
+      "present": true,
+      "quote": "it came out of the phone fund."
+    },
+    {
+      "item_id": "dulce.f01",
+      "present": true,
+      "quote": "it wants my age so i put 15 lol"
+    },
+    {
+      "item_id": "dulce.f04",
+      "present": true,
+      "quote": "i take orders at taqueria colima, my first check was about 130"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "it wants my age so i put 15 lol",
+      "assistant_quote": ""
+    }
+  ]
+}

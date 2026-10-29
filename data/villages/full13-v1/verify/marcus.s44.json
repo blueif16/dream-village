@@ -1,0 +1,92 @@
+{
+  "session_id": "marcus.s44",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus just got back from his Friday lift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got back from my friday lift so im half asleep lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus pays $20 gas money for carpool with Trevor",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ya my bad i got paid today so ill cover the 20 for gas monday",
+      "support_quote": ""
+    },
+    {
+      "text": "Trevor collects $20 gas money every Monday",
+      "about": "trevor",
+      "kind": "fact",
+      "item_id": "marcus.w7.n02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "yo gas money is due monday same as always. 20 bucks.",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus got paid today",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i got paid today so ill cover the 20 for gas monday",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus got paid today (assistant repeats)",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f15",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Got paid today, so I'll cover the $20 gas money Monday",
+      "support_quote": "i got paid today so ill cover the 20 for gas monday"
+    },
+    {
+      "text": "Marcus lifted today and should rest",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Go get some rest after that lift.",
+      "support_quote": "just got back from my friday lift so im half asleep lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f18",
+      "present": true,
+      "quote": "ya my bad i got paid today so ill cover the 20 for gas monday"
+    },
+    {
+      "item_id": "marcus.w7.n02",
+      "present": true,
+      "quote": "yo gas money is due monday same as always. 20 bucks."
+    },
+    {
+      "item_id": "marcus.f15",
+      "present": true,
+      "quote": "i got paid today so ill cover the 20 for gas monday"
+    },
+    {
+      "item_id": "marcus.f21",
+      "present": true,
+      "quote": "just got back from my friday lift so im half asleep lol"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,379 @@
+{
+  "session_id": "rochelle.s32",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Committed to every Tuesday study group, stayed whole session",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i used to only go when errands allowed but im doing every tuesday now",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah covers the 4 pm pickups",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so my daughter aaliyah covers the 4 pm pickups now",
+      "support_quote": ""
+    },
+    {
+      "text": "Pedro brought Gus to study group",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "pedro brought gus again lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah drove Loretta to her Tuesday pharmacy run; Rochelle used to",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "today she drove my mother in law loretta to her pharmacy run at 3:30 instead of me",
+      "support_quote": ""
+    },
+    {
+      "text": "Feels bad about dumping errands on Aaliyah",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i feel kinda bad like im dumping on her",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah works seasonal evening shifts until 2:30 am, four nights",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "seasonal shifts till 2:30 am 4 nights",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Aaliyah covers Loretta's pharmacy run and pickups",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Aaliyah's covering pickups and Loretta's pharmacy run",
+      "support_quote": "so my daughter aaliyah covers the 4 pm pickups now"
+    },
+    {
+      "text": "Assistant says Rochelle has a class commitment Tuesdays",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Tuesdays from 4 are my study group time now",
+      "support_quote": "i used to only go when errands allowed but im doing every tuesday now"
+    },
+    {
+      "text": "Assistant mentions Rochelle has a sister who could step in",
+      "about": "keisha",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "like your sister if she can step in",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 6 says 'like your sister if she can step in' before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "rochelle.f23",
+      "present": true,
+      "quote": "i used to only go when errands allowed but im doing every tuesday now"
+    },
+    {
+      "item_id": "rochelle.f41",
+      "present": true,
+      "quote": "today she drove my mother in law loretta to her pharmacy run at 3:30 instead of me"
+    },
+    {
+      "item_id": "rochelle.r01",
+      "present": true,
+      "quote": "pedro brought gus again lol"
+    },
+    {
+      "item_id": "rochelle.i01",
+      "present": true,
+      "quote": "i feel kinda bad like im dumping on her"
+    },
+    {
+      "item_id": "rochelle.f50",
+      "present": true,
+      "quote": "she works evenings at ridgeline tho. seasonal shifts till 2:30 am 4 nights. so tuesday pickups on little sleep worries me"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

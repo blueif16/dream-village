@@ -1,0 +1,92 @@
+{
+  "session_id": "thao.s01",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao has a paid 8-hour charting class on Sept 9 and needs that night covered",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need her to swap a shift in 2 weeks so i can go to the paid 8 hr charting class on sept 9, need that night covered",
+      "support_quote": ""
+    },
+    {
+      "text": "Jasmine can swap shifts with Thao",
+      "about": "jasmine",
+      "kind": "fact",
+      "item_id": "cast.f127",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "edit this text to jasmine, friendly but firm. need her to swap a shift in 2 weeks",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao sleeps until 3 p.m. after shifts",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also dont suggest any times before 3pm, i'm asleep. i sleep after shifts",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants short answers without padding",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "make it shorter.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao has a paid charting class Sept 9 and needs that night covered",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I have a paid charting class Sept 9 and need that night covered.",
+      "support_quote": "need her to swap a shift in 2 weeks so i can go to the paid 8 hr charting class on sept 9, need that night covered"
+    },
+    {
+      "text": "Nothing should land before 3 p.m. because Thao sleeps",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f06",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "so nothing lands before 3 p.m.",
+      "support_quote": "also dont suggest any times before 3pm, i'm asleep. i sleep after shifts"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f14",
+      "present": true,
+      "quote": "need her to swap a shift in 2 weeks so i can go to the paid 8 hr charting class on sept 9, need that night covered"
+    },
+    {
+      "item_id": "cast.f127",
+      "present": true,
+      "quote": "edit this text to jasmine, friendly but firm. need her to swap a shift in 2 weeks"
+    },
+    {
+      "item_id": "thao.f06",
+      "present": true,
+      "quote": "also dont suggest any times before 3pm, i'm asleep. i sleep after shifts"
+    },
+    {
+      "item_id": "thao.i06",
+      "present": true,
+      "quote": "make it shorter."
+    }
+  ],
+  "sensitive": []
+}

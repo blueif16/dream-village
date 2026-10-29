@@ -1,0 +1,348 @@
+{
+  "session_id": "elliot.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Elliot thinks Brenda is a clipboard with a pulse who can't let anyone breathe",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "honestly brenda is a clipboard with a pulse who can't let anyone breathe",
+      "support_quote": ""
+    },
+    {
+      "text": "Brenda sends a Monday check-in email at 8:15 a.m.",
+      "about": "brenda",
+      "kind": "fact",
+      "item_id": "elliot.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the Monday email came in at 8:15 this morning, like it does every week",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot uses 'the Monday email' for Brenda's check-in",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "so the Monday email came in at 8:15 this morning",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot is on parental leave since Aug 11",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm on parental leave, started aug 11",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot has been on leave since Aug 11",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "being on leave since Aug 11 means you're not obligated to treat a check-in as urgent",
+      "support_quote": "i'm on parental leave, started aug 11"
+    },
+    {
+      "text": "Assistant recalls Elliot's clipboard-with-a-pulse view of Brenda",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Write the clipboard-with-a-pulse version in a draft you never send",
+      "support_quote": "honestly brenda is a clipboard with a pulse who can't let anyone breathe"
+    },
+    {
+      "text": "Elliot has been avoiding answering the email all day, tempted by sarcasm",
+      "about": "elliot",
+      "kind": "trait_shown",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i have left it unanswered all day",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "elliot.f33",
+      "present": true,
+      "quote": "honestly brenda is a clipboard with a pulse who can't let anyone breathe"
+    },
+    {
+      "item_id": "elliot.r05",
+      "present": true,
+      "quote": "the Monday email came in at 8:15 this morning, like it does every week, and i have left it unanswered all day"
+    },
+    {
+      "item_id": "elliot.f50",
+      "present": true,
+      "quote": "the Monday email came in at 8:15 this morning, like it does every week"
+    },
+    {
+      "item_id": "elliot.f02",
+      "present": true,
+      "quote": "i'm on parental leave, started aug 11"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

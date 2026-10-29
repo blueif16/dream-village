@@ -1,0 +1,55 @@
+{
+  "id": "linh.s34",
+  "principal": "linh",
+  "start": "2025-09-30T16:21:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i need help. going to my anatomy study group at 4 today, its at the library and its my first time. ive been studying alone all semester so idk how to use it right"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! A study group can beat solo studying if you go in with a plan. A few quick questions: what unit are you on, and does the group usually quiz each other or work from notes?"
+    },
+    {
+      "role": "user",
+      "text": "bones rn. pedro runs it, he quizzes everyone w 3d printed bone models i think. i have my notes tho, i color code them. blue is bones"
+    },
+    {
+      "role": "assistant",
+      "text": "That helps. Here's a plan, short version:\n\n**Bring**\n- Your blue bone notes\n- A pen, plus a highlighter for gaps\n- Flashcards or a deck for quick review\n- Water and a snack\n\n**Use the time**\n- First 5 min: ask what bones or markings the group is focusing on\n- Quiz time: say the name and marking out loud when you handle a model\n- Mark every miss in your notes so you can review it later\n- Last 5 min: pick 5 things to drill before the next session\n\nWant me to format your questions to match your color coding?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. blue for the bone marking questions. bullets"
+    },
+    {
+      "role": "assistant",
+      "text": "[Blue] Bone marking questions to ask or test:\n- Which landmarks are the most commonly tested: foramina, processes, fossae?\n- Can you hold the model and name each marking before I check my notes?\n- What's a trick to tell similar markings apart (e.g. a process vs. a tubercle)?\n- Which bones have markings I tend to mix up?\n- Can someone quiz me with the marking hidden, so I have to place it?\n- What are the function and the nearby structure for each one?"
+    },
+    {
+      "role": "user",
+      "text": "ok. also how fast should i be learning the markings compared to everyone else in the group. like where should i be at by now"
+    },
+    {
+      "role": "assistant",
+      "text": "Pace varies a lot, so there's no set benchmark. A solid target: know the main bones and their key markings well enough to name them without notes, then add the finer details. The group is useful because you see what others find hard, but judge yourself by whether you can retrieve each marking correctly, not by speed. Keep a tally of your misses per session; that shows your real progress."
+    },
+    {
+      "role": "user",
+      "text": "ok makes sense. kenji drove me to campus today so i need a way home after tho.. group ends at like 5:30"
+    },
+    {
+      "role": "assistant",
+      "text": "A few options:\n- Ask Kenji if he can pick you up around 5:30, and text him early so he can plan\n- Check whether a shuttle or bus runs near the library at that time\n- Ask someone in the group heading your way for a ride\n- If you have a bike or other option, charge it and plan the route\n\nI'd text your ride request before the session so it's settled. Want a quick message for Kenji? Something like: \"Hey, group ends around 5:30, any chance you can pick me up from the library? If not I'll find another way.\""
+    },
+    {
+      "role": "user",
+      "text": "yes pls thats good. thanks!! ok im gonna go"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck! Bring your blue notes, ask your questions, and mark the misses. Hope the session goes well."
+    }
+  ]
+}

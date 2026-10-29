@@ -1,0 +1,928 @@
+{
+  "principal": "rafael",
+  "summary": "Rafael Henríquez is 19 and in his third semester of Tamsen Valley College's automotive technology program. He lives with his parents Oscar and Gladys and works the family's Pupusería Henríquez stand Thursday through Sunday. He can hear a bad injector across a parking lot, but written multiple-choice tests make him freeze, and the ASE G1 practice exam he needs for a shop internship is looming in November. He wants his own repair shop someday. Even picturing it makes him feel guilty, because the stand needs him, especially once it moves from the Delgado Park market to a permanent Ruel Road lot in October. He is also the family's driver, ferrying his cousin Dulce home from Taquería Colima and running errands in his aging 2009 Tacoma. His girlfriend Ximena pushes him to dream bigger, and his classmate Dante keeps pitching a car-flipping side hustle that tempts him.",
+  "facts": [
+    {
+      "id": "rafael.f01",
+      "subject": "rafael",
+      "attribute": "school_program",
+      "value": "automotive technology certificate at Tamsen Valley College, third semester",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f02",
+      "subject": "rafael",
+      "attribute": "class_schedule",
+      "value": "engine performance Tue/Thu 1-4, brakes lab Mon/Wed 8-11",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f03",
+      "subject": "rafael",
+      "attribute": "home",
+      "value": "lives with his parents in a ranch house off Pell Road, shares a room with a stack of tool catalogs",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f04",
+      "subject": "rafael",
+      "attribute": "vehicle",
+      "value": "2009 Tacoma, 212k miles, bought from Lupe's nephew",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f05",
+      "subject": "rafael",
+      "attribute": "truck_condition",
+      "value": "running fine aside from a slow oil leak",
+      "valid_from": null,
+      "valid_to": "2025-09-18",
+      "superseded_by": "rafael.f06",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f06",
+      "subject": "rafael",
+      "attribute": "truck_condition",
+      "value": "alternator failing, battery light flickers",
+      "valid_from": "2025-09-18",
+      "valid_to": "2025-09-27",
+      "superseded_by": "rafael.f07",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f07",
+      "subject": "rafael",
+      "attribute": "truck_condition",
+      "value": "rebuilt alternator installed himself in the school lab for $95",
+      "valid_from": "2025-09-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f08",
+      "subject": "rafael",
+      "attribute": "stand_hours",
+      "value": "works the stand Thu-Sun; Sundays at the Delgado Park market 8-2",
+      "valid_from": null,
+      "valid_to": "2025-10-04",
+      "superseded_by": "rafael.f09",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f09",
+      "subject": "rafael",
+      "attribute": "stand_hours",
+      "value": "works Thu-Sun 5-10 p.m. at the Ruel Road gas station lot",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f10",
+      "subject": "rafael",
+      "attribute": "stand_role",
+      "value": "runs the griddle and does setup and teardown of the canopy and generator",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f11",
+      "subject": "rafael",
+      "attribute": "pay_from_stand",
+      "value": "$150 a week from Gladys, cash",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f12",
+      "subject": "rafael",
+      "attribute": "savings",
+      "value": "about $1,900 in a credit union savings account, earmarked for tools",
+      "valid_from": null,
+      "valid_to": "2025-10-25",
+      "superseded_by": "rafael.f13",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f13",
+      "subject": "rafael",
+      "attribute": "savings",
+      "value": "about $1,150 after buying a used scan tool and ratchet set",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f14",
+      "subject": "rafael",
+      "attribute": "tool_goal",
+      "value": "wants a professional bidirectional scan tool, around $700 used",
+      "valid_from": null,
+      "valid_to": "2025-10-25",
+      "superseded_by": "rafael.f15",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f15",
+      "subject": "rafael",
+      "attribute": "tool_goal",
+      "value": "owns the scan tool; now saving for a floor jack and creeper",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f16",
+      "subject": "rafael",
+      "attribute": "ase_exam_plan",
+      "value": "ASE G1 practice test required for shop internship, scheduled Nov 18",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f17",
+      "subject": "rafael",
+      "attribute": "practice_test_score",
+      "value": "58% on first G1 practice quiz",
+      "valid_from": "2025-09-10",
+      "valid_to": "2025-10-22",
+      "superseded_by": "rafael.f18",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f18",
+      "subject": "rafael",
+      "attribute": "practice_test_score",
+      "value": "71% on G1 practice quiz after flashcards; 70% needed",
+      "valid_from": "2025-10-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f19",
+      "subject": "rafael",
+      "attribute": "study_method",
+      "value": "rereads the textbook chapter the night before",
+      "valid_from": null,
+      "valid_to": "2025-10-02",
+      "superseded_by": "rafael.f20",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f20",
+      "subject": "rafael",
+      "attribute": "study_method",
+      "value": "voice-memo flashcards he listens to while prepping the griddle",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f21",
+      "subject": "rafael",
+      "attribute": "internship_status",
+      "value": "interested in the Calle Ortega shop internship but hasn't applied",
+      "valid_from": null,
+      "valid_to": "2025-10-30",
+      "superseded_by": "rafael.f22",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f22",
+      "subject": "rafael",
+      "attribute": "internship_status",
+      "value": "applied to a spring internship at Ortega Auto & Tire, pending ASE practice result",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f23",
+      "subject": "rafael",
+      "attribute": "side_hustle_stance",
+      "value": "undecided on Dante's Civic-flipping plan",
+      "valid_from": null,
+      "valid_to": "2025-11-08",
+      "superseded_by": "rafael.f24",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f24",
+      "subject": "rafael",
+      "attribute": "side_hustle_stance",
+      "value": "agreed to do mechanical work on one Civic for 30% of profit, no money in",
+      "valid_from": "2025-11-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f25",
+      "subject": "rafael",
+      "attribute": "dulce_rides",
+      "value": "picks Dulce up from Taquería Colima Fridays at 9 p.m.",
+      "valid_from": "2025-08-29",
+      "valid_to": "2025-10-04",
+      "superseded_by": "rafael.f26",
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f26",
+      "subject": "rafael",
+      "attribute": "dulce_rides",
+      "value": "leaves the Ruel Road stand at 8:50 Fridays to get Dulce, back by 9:20",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f27",
+      "subject": "rafael",
+      "attribute": "phone",
+      "value": "cracked-screen Android, three years old, always on 20% battery",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f28",
+      "subject": "rafael",
+      "attribute": "phone_plan",
+      "value": "on the family plan; Gladys pays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f29",
+      "subject": "rafael",
+      "attribute": "favorite_food",
+      "value": "Gladys's revuelta pupusa with extra curtido, and al pastor from Colima",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f30",
+      "subject": "rafael",
+      "attribute": "drink",
+      "value": "horchata or a Mexican Coke; doesn't drink coffee",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f31",
+      "subject": "rafael",
+      "attribute": "music",
+      "value": "cumbia and old-school rap in the truck",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f32",
+      "subject": "rafael",
+      "attribute": "hobby",
+      "value": "watches engine teardown videos at night",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f33",
+      "subject": "rafael",
+      "attribute": "fitness",
+      "value": "pickup soccer at Delgado Park Monday evenings",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f34",
+      "subject": "rafael",
+      "attribute": "gas_habit",
+      "value": "fills up at the Ruel Road station, $50 a week",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f35",
+      "subject": "rafael",
+      "attribute": "dream",
+      "value": "open a two-bay repair shop in Alcaraz Flats by 30",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f36",
+      "subject": "rafael",
+      "attribute": "school_id_number",
+      "value": "Tamsen Valley student ID and driver's license number stored in his notes app",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "rafael.f37",
+      "subject": "rafael",
+      "attribute": "debt_to_dante",
+      "value": "owes Dante $120 for a set of borrowed sockets he lost",
+      "valid_from": "2025-09-24",
+      "valid_to": "2025-11-08",
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "rafael.f38",
+      "subject": "rafael",
+      "attribute": "work_boots",
+      "value": "steel-toe boots, size 10.5, resoled once",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f39",
+      "subject": "rafael",
+      "attribute": "ximena_birthday_plan",
+      "value": "planning a dinner and gel-manicure gift card for Ximena's Nov 15 birthday",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f40",
+      "subject": "rafael",
+      "attribute": "fair_shift",
+      "value": "working the family booth at the Calle Ortega Street Fair Sept 20",
+      "valid_from": "2025-09-20",
+      "valid_to": "2025-09-21",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f41",
+      "subject": "oscar",
+      "attribute": "griddle_payment",
+      "value": "paying off the $1,400 griddle at $200 a month on a store card",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f42",
+      "subject": "oscar",
+      "attribute": "health_habit",
+      "value": "refuses to wear his back brace on the forklift",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f43",
+      "subject": "gladys",
+      "attribute": "stand_ledger",
+      "value": "tracks every sale in a green spiral notebook",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f44",
+      "subject": "gladys",
+      "attribute": "worry",
+      "value": "afraid the Ruel Road lot is unsafe after dark",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f45",
+      "subject": "ximena",
+      "attribute": "birthday",
+      "value": "November 15",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f46",
+      "subject": "ximena",
+      "attribute": "car",
+      "value": "2012 Corolla Rafael maintains for free",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f47",
+      "subject": "dante",
+      "attribute": "auction_source",
+      "value": "buys from a Tuesday online salvage auction",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f48",
+      "subject": "roberto",
+      "attribute": "grading_style",
+      "value": "docks points for an unclean bay, not just bad diagnosis",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f49",
+      "subject": "roberto",
+      "attribute": "recommendation",
+      "value": "offered to recommend Rafael to Ortega Auto & Tire if he passes the G1 practice",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f50",
+      "subject": "chuy",
+      "attribute": "pork_price",
+      "value": "$2.89/lb family price on pork shoulder for chicharrón",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f51",
+      "subject": "luz",
+      "attribute": "new_spot",
+      "value": "stayed at the Delgado Park market after the fee hike",
+      "valid_from": "2025-10-04",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f52",
+      "subject": "rafael",
+      "attribute": "generator",
+      "value": "stand runs on a 3500W generator he services monthly",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "rafael.f53",
+      "subject": "rafael",
+      "attribute": "sleep",
+      "value": "usually in bed by midnight, up at 6:30 on lab days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f54",
+      "subject": "rafael",
+      "attribute": "storm_plan",
+      "value": "tarps and sandbags for the stand during the Nov 13 storm; stand closed that night",
+      "valid_from": "2025-11-13",
+      "valid_to": "2025-11-15",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "rafael.f55",
+      "subject": "rafael",
+      "attribute": "language",
+      "value": "bilingual; reads Spanish slowly, prefers explanations in English",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "rafael.i01",
+      "statement": "Puts the family stand ahead of his own goals and feels guilty whenever he doesn't",
+      "about": "rafael",
+      "evidence": [
+        {
+          "id": "rafael.i01.e1",
+          "date": "2025-09-11",
+          "description": "asks for help rescheduling a brakes-lab makeup so it won't overlap a Thursday stand shift"
+        },
+        {
+          "id": "rafael.i01.e2",
+          "date": "2025-10-04",
+          "description": "spends the night of the Ruel Road move drafting a setup checklist for his parents instead of studying"
+        },
+        {
+          "id": "rafael.i01.e3",
+          "date": "2025-10-29",
+          "description": "writes in the internship cover letter that he can only start after 'family obligations' and asks if that sounds bad"
+        },
+        {
+          "id": "rafael.i01.e4",
+          "date": "2025-11-16",
+          "description": "asks how to tell his dad he wants one weekend off before the practice test, then says never mind"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rafael.i02",
+      "statement": "Understands things by doing them and gets stuck when he has to read them",
+      "about": "rafael",
+      "evidence": [
+        {
+          "id": "rafael.i02.e1",
+          "date": "2025-09-10",
+          "description": "pastes a G1 question about refrigerant handling and says he knows it on the car but not in the words"
+        },
+        {
+          "id": "rafael.i02.e2",
+          "date": "2025-09-19",
+          "description": "describes the alternator symptoms perfectly by sound and voltage, then asks for the textbook term"
+        },
+        {
+          "id": "rafael.i02.e3",
+          "date": "2025-10-02",
+          "description": "asks to turn a chapter into short spoken flashcards he can record"
+        },
+        {
+          "id": "rafael.i02.e4",
+          "date": "2025-11-05",
+          "description": "requests each practice answer explained as 'what you'd actually see in the bay'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rafael.i03",
+      "statement": "Freezes up and doubts himself on timed written tests, even when he knows the material",
+      "about": "rafael",
+      "evidence": [
+        {
+          "id": "rafael.i03.e1",
+          "date": "2025-09-10",
+          "description": "says he blanked on the first quiz and changed three right answers to wrong ones"
+        },
+        {
+          "id": "rafael.i03.e2",
+          "date": "2025-10-21",
+          "description": "asks for tricks to stop second-guessing during a timed quiz the night before one"
+        },
+        {
+          "id": "rafael.i03.e3",
+          "date": "2025-10-22",
+          "description": "gets 71% but asks whether it was probably luck"
+        },
+        {
+          "id": "rafael.i03.e4",
+          "date": "2025-11-17",
+          "description": "asks for a calm routine for the morning of the practice test, including what to eat"
+        }
+      ],
+      "formed": null,
+      "changed": "2025-10-22",
+      "changed_to": "Still nervous before tests but starts trusting the study system that raised his score",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rafael.i04",
+      "statement": "Shows care for people by doing things for them rather than saying it",
+      "about": "rafael",
+      "evidence": [
+        {
+          "id": "rafael.i04.e1",
+          "date": "2025-08-29",
+          "description": "plans his Friday route so Dulce never waits outside Colima alone"
+        },
+        {
+          "id": "rafael.i04.e2",
+          "date": "2025-09-27",
+          "description": "asks how to bleed Ximena's Corolla brakes after doing his own truck"
+        },
+        {
+          "id": "rafael.i04.e3",
+          "date": "2025-10-20",
+          "description": "wants Ximena's birthday plan to be practical and asks the assistant to word the card for him"
+        },
+        {
+          "id": "rafael.i04.e4",
+          "date": "2025-11-13",
+          "description": "asks how to sandbag the stand area so his mom won't have to lift anything"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "rafael.i05",
+      "statement": "Is careless with money and impulsive about purchases",
+      "about": "rafael",
+      "evidence": [
+        {
+          "id": "rafael.i05.e1",
+          "date": "2025-10-25",
+          "description": "drops $750 on a scan tool and ratchet set in one afternoon"
+        },
+        {
+          "id": "rafael.i05.e2",
+          "date": "2025-09-18",
+          "description": "compares three alternator prices and picks a rebuilt one to save $80"
+        },
+        {
+          "id": "rafael.i05.e3",
+          "date": "2025-10-14",
+          "description": "had researched used scan tools for weeks and set a $700 cap before buying"
+        },
+        {
+          "id": "rafael.i05.e4",
+          "date": "2025-11-08",
+          "description": "refuses to put cash into Dante's car flip, insisting on labor-only terms"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "rafael.i06",
+      "statement": "Is tempted by shortcuts and side deals but backs off from risk",
+      "about": "rafael",
+      "evidence": [
+        {
+          "id": "rafael.i06.e1",
+          "date": "2025-09-24",
+          "description": "asks if Dante's auction-flip math is realistic"
+        },
+        {
+          "id": "rafael.i06.e2",
+          "date": "2025-10-09",
+          "description": "asks whether he needs a dealer license to sell more than a few cars a year"
+        },
+        {
+          "id": "rafael.i06.e3",
+          "date": "2025-11-08",
+          "description": "asks for a simple written agreement for labor-only profit sharing"
+        },
+        {
+          "id": "rafael.i06.e4",
+          "date": "2025-11-10",
+          "description": "asks how to quietly tell Dante he's out if the first car loses money"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "rafael.r01",
+      "term": "the G1",
+      "meaning": "the ASE G1 maintenance and light repair practice exam he must pass for the internship",
+      "first_use": "2025-09-10"
+    },
+    {
+      "id": "rafael.r02",
+      "term": "the new lot",
+      "meaning": "the stand's permanent spot in the Ruel Road gas station lot",
+      "first_use": "2025-10-04"
+    },
+    {
+      "id": "rafael.r03",
+      "term": "Salas",
+      "meaning": "his engine performance instructor Roberto Salas",
+      "first_use": "2025-09-02"
+    },
+    {
+      "id": "rafael.r04",
+      "term": "the Taco",
+      "meaning": "his 2009 Tacoma",
+      "first_use": "2025-09-18"
+    },
+    {
+      "id": "rafael.r05",
+      "term": "Dante's Civics",
+      "meaning": "Dante's auction car-flipping scheme",
+      "first_use": "2025-09-24"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "rafael.a01",
+      "title": "Passing the G1",
+      "summary": "Rafael struggles with written tests, builds an audio-flashcard system, raises his score and applies for an internship.",
+      "beats": [
+        {
+          "date": "2025-09-10",
+          "what": "scores 58% on first practice quiz",
+          "facts": [
+            "rafael.f17",
+            "rafael.f16"
+          ]
+        },
+        {
+          "date": "2025-10-02",
+          "what": "switches to voice-memo flashcards",
+          "facts": [
+            "rafael.f19",
+            "rafael.f20"
+          ]
+        },
+        {
+          "date": "2025-10-16",
+          "what": "Salas offers a recommendation",
+          "facts": [
+            "rafael.f49"
+          ]
+        },
+        {
+          "date": "2025-10-22",
+          "what": "scores 71%",
+          "facts": [
+            "rafael.f18"
+          ]
+        },
+        {
+          "date": "2025-10-30",
+          "what": "applies to Ortega Auto & Tire",
+          "facts": [
+            "rafael.f21",
+            "rafael.f22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rafael.a02",
+      "title": "The stand moves",
+      "summary": "The pupusa stand leaves the farmers market for Ruel Road, reshaping Rafael's hours and Dulce's rides.",
+      "beats": [
+        {
+          "date": "2025-09-20",
+          "what": "works the street fair booth",
+          "facts": [
+            "rafael.f40"
+          ]
+        },
+        {
+          "date": "2025-10-04",
+          "what": "first night on the new lot",
+          "facts": [
+            "rafael.f08",
+            "rafael.f09",
+            "rafael.f26",
+            "rafael.f44"
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "what": "storm closes the stand",
+          "facts": [
+            "rafael.f54"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rafael.a03",
+      "title": "Truck, tools and Dante",
+      "summary": "Truck repair, a long-planned tool purchase, and a cautious deal with Dante.",
+      "beats": [
+        {
+          "date": "2025-09-18",
+          "what": "alternator fails",
+          "facts": [
+            "rafael.f05",
+            "rafael.f06"
+          ]
+        },
+        {
+          "date": "2025-09-27",
+          "what": "fixes it in lab",
+          "facts": [
+            "rafael.f07"
+          ]
+        },
+        {
+          "date": "2025-10-25",
+          "what": "buys scan tool",
+          "facts": [
+            "rafael.f12",
+            "rafael.f13",
+            "rafael.f14",
+            "rafael.f15"
+          ]
+        },
+        {
+          "date": "2025-11-08",
+          "what": "labor-only deal with Dante, repays sockets",
+          "facts": [
+            "rafael.f23",
+            "rafael.f24",
+            "rafael.f37"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "lowercase, little punctuation, short bursts, occasional Spanish ('nel', 'simón', 'ahorita'), misspells technical words, thumbs-up emoji",
+    "with_assistant": "gives minimal context, pastes photos or quiz questions, says thanks bro, skims long answers and asks for the short version",
+    "quirks": [
+      "calls the assistant 'bro'",
+      "asks for answers 'like you'd explain in the shop'",
+      "types from the truck at red lights then apologizes for typos",
+      "says 'never mind' when a question gets personal"
+    ],
+    "sample_lines": [
+      "bro whats the short version of this",
+      "ok explain it like im looking at the car not the book",
+      "can u make this into like 10 flashcards i can say out loud",
+      "is 150 a fair price for this or nah",
+      "thanks bro that helped fr",
+      "wait so which one is it A or C"
+    ]
+  },
+  "usage": {
+    "frequency": "weekly",
+    "active_hours": [
+      7,
+      13,
+      22,
+      23
+    ]
+  }
+}

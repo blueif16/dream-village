@@ -1,0 +1,1122 @@
+{
+  "principal": "grace",
+  "summary": "Grace Tolentino is a 45-year-old chemistry teacher in her 17th year at Alcaraz Flats High, teaching five sections including Dulce Henríquez's third period, sharing lab room B12 with Dana Whitfield. At the start of the fall 2025 semester she is juggling Principal Ocampo's new weekly chronic-absence reports, a lab budget that never stretches, and her daughter Isabel's junior-year college push toward out-of-state engineering schools she fears the family cannot afford. Her mother Corazón lives in the back bedroom, and Grace quietly manages her care, her Sunday Mass and her pharmacy runs. Her husband Ramón works 24-hour dispatch shifts, so most weeknight logistics fall to her. She wants to be a fair, exacting teacher and a good daughter, and she wants Isabel close enough to come home for Sunday sinigang. Money worries, a broken-down minivan, and a department chemistry-lab safety audit press on her through the fall. She uses an assistant weekly, mostly on Sunday evenings after grading, to draft parent emails, rework labs, and sort household logistics.",
+  "facts": [
+    {
+      "id": "grace.f01",
+      "subject": "grace",
+      "attribute": "job",
+      "value": "chemistry teacher at Alcaraz Flats High, 17th year; teaches periods 1, 2, 3, 5 and 6",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f02",
+      "subject": "grace",
+      "attribute": "prep_period",
+      "value": "4th period prep, 11:02-11:55 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f03",
+      "subject": "grace",
+      "attribute": "classroom",
+      "value": "lab room B12, shared with Dana Whitfield",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f04",
+      "subject": "grace",
+      "attribute": "course_load",
+      "value": "three sections of regular Chemistry, two sections of Honors Chemistry",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f05",
+      "subject": "grace",
+      "attribute": "home",
+      "value": "three-bedroom ranch house on Tamarisk Court, owned with Ramón since 2009",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f06",
+      "subject": "grace",
+      "attribute": "mortgage_payment",
+      "value": "$2,380 a month",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f07",
+      "subject": "grace",
+      "attribute": "car",
+      "value": "2012 silver minivan with 168,000 miles",
+      "valid_from": null,
+      "valid_to": "2025-10-11",
+      "superseded_by": "grace.f08",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f08",
+      "subject": "grace",
+      "attribute": "car",
+      "value": "2019 used blue hatchback bought from a Tamsen lot, $14,200 financed",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f09",
+      "subject": "grace",
+      "attribute": "car_payment",
+      "value": "no car payment",
+      "valid_from": null,
+      "valid_to": "2025-10-11",
+      "superseded_by": "grace.f10",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f10",
+      "subject": "grace",
+      "attribute": "car_payment",
+      "value": "$318 a month for 48 months, first payment due Nov 15",
+      "valid_from": "2025-10-11",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f11",
+      "subject": "grace",
+      "attribute": "commute",
+      "value": "drives four minutes to Flats High, arrives 7:20 to beat the Vinca drop-off line",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f12",
+      "subject": "grace",
+      "attribute": "grading_routine",
+      "value": "grades Sunday afternoons at the kitchen table after Tagalog Mass and lunch",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f13",
+      "subject": "grace",
+      "attribute": "coffee",
+      "value": "instant coffee with condensed milk from a thermos, refuses cafe prices",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f14",
+      "subject": "grace",
+      "attribute": "lunch",
+      "value": "leftover rice and ulam in a glass container, eaten in B12 during prep",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f15",
+      "subject": "grace",
+      "attribute": "phone",
+      "value": "four-year-old phone with a cracked corner; uses a laptop issued by the district for school work",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f16",
+      "subject": "grace",
+      "attribute": "lab_supply_budget",
+      "value": "$900 for the semester for all five sections",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-26",
+      "superseded_by": "grace.f17",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f17",
+      "subject": "grace",
+      "attribute": "lab_supply_budget",
+      "value": "$900 plus a $650 parent-club mini-grant approved Sept 26",
+      "valid_from": "2025-09-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f18",
+      "subject": "grace",
+      "attribute": "absence_report_method",
+      "value": "fills Principal Ocampo's weekly absence form by hand from the gradebook every Friday",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-15",
+      "superseded_by": "grace.f19",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f19",
+      "subject": "grace",
+      "attribute": "absence_report_method",
+      "value": "uses a spreadsheet template she built that auto-flags students with 3+ absences; submits Friday 3:30",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f20",
+      "subject": "grace",
+      "attribute": "side_duty",
+      "value": "Science Olympiad co-advisor, Wednesday 3:15-4:30 in B12",
+      "valid_from": null,
+      "valid_to": "2025-10-20",
+      "superseded_by": "grace.f21",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f21",
+      "subject": "grace",
+      "attribute": "side_duty",
+      "value": "dropped Science Olympiad to Dana; now only covers Tuesday lunch lab-makeup sessions",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f22",
+      "subject": "grace",
+      "attribute": "safety_audit",
+      "value": "district chemical-storage audit of B12 scheduled for Oct 30",
+      "valid_from": "2025-09-08",
+      "valid_to": "2025-10-30",
+      "superseded_by": "grace.f23",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f23",
+      "subject": "grace",
+      "attribute": "safety_audit",
+      "value": "passed the Oct 30 audit with one note: relabel the acids cabinet by Dec 1",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f24",
+      "subject": "grace",
+      "attribute": "unit_schedule",
+      "value": "Unit 1 measurement and lab safety through Sept 12; Unit 2 atomic structure through Oct 10; Unit 3 bonding and moles through Nov 21",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f25",
+      "subject": "grace",
+      "attribute": "grading_policy",
+      "value": "late labs lose 10% per day, capped at 50%; retakes allowed once per unit",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f26",
+      "subject": "grace",
+      "attribute": "back_to_school_night",
+      "value": "presented to parents Thursday Sept 4, 6-8 p.m.",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f27",
+      "subject": "grace",
+      "attribute": "parent_conferences",
+      "value": "fall conferences Nov 18-20, minimum days, 12:30-6 p.m. slots",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f28",
+      "subject": "grace",
+      "attribute": "salary",
+      "value": "about $96,000 a year on step 17, paid monthly on the last business day",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f29",
+      "subject": "grace",
+      "attribute": "college_savings",
+      "value": "529 account for Isabel with about $31,000",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f30",
+      "subject": "grace",
+      "attribute": "bank_account_number",
+      "value": "credit union checking account ending 4471-0892-3316",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "grace.f31",
+      "subject": "grace",
+      "attribute": "grocery_routine",
+      "value": "shops Saturday mornings at Ruiz Family Market, stops at Panadería Las Hermanas for pandesal-style rolls and conchas",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f32",
+      "subject": "grace",
+      "attribute": "fitness",
+      "value": "walks Delgado Park loop after dinner three nights a week",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "grace.f33",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f33",
+      "subject": "grace",
+      "attribute": "fitness",
+      "value": "5:45 a.m. walks on the Ulloa Salt Marsh boardwalk with Dana on Tuesdays and Thursdays",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f34",
+      "subject": "grace",
+      "attribute": "hobby",
+      "value": "grows calamansi and tomatoes in backyard pots; uses the library seed library",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f35",
+      "subject": "grace",
+      "attribute": "tv_habit",
+      "value": "watches a Filipino teleserye with Corazón on weeknights at 9",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f36",
+      "subject": "grace",
+      "attribute": "languages",
+      "value": "English and Tagalog; understands classroom Spanish",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f37",
+      "subject": "grace",
+      "attribute": "education",
+      "value": "BS chemistry and teaching credential from Bayshore State",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f38",
+      "subject": "grace",
+      "attribute": "pharmacy_pickup",
+      "value": "picks up Corazón's prescriptions at the Vinca Avenue drugstore every other Wednesday after school",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f39",
+      "subject": "corazon",
+      "attribute": "doctor_appointment",
+      "value": "endocrinology follow-up at St. Anselm clinic, Grace drives her",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f40",
+      "subject": "corazon",
+      "attribute": "favorite_snack",
+      "value": "hides ensaymada from the panadería in her nightstand",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f41",
+      "subject": "corazon",
+      "attribute": "mobility",
+      "value": "walks without help",
+      "valid_from": null,
+      "valid_to": "2025-11-03",
+      "superseded_by": "grace.f42",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f42",
+      "subject": "corazon",
+      "attribute": "mobility",
+      "value": "uses a cane after a slip on the back step Nov 2; Grace installed a grab rail",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f43",
+      "subject": "ramon",
+      "attribute": "bronco_progress",
+      "value": "waiting on a rebuilt carburetor, parts strewn on the garage shelf Grace wants back",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f44",
+      "subject": "ramon",
+      "attribute": "shift_pattern_fall",
+      "value": "24 on, 48 off; next on-days Grace tracks on the fridge calendar",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f45",
+      "subject": "grace",
+      "attribute": "family_budget_cap_college",
+      "value": "told Isabel the family can cover at most $25,000 a year",
+      "valid_from": "2025-09-14",
+      "valid_to": "2025-11-09",
+      "superseded_by": "grace.f46",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f46",
+      "subject": "grace",
+      "attribute": "family_budget_cap_college",
+      "value": "agreed to consider schools up to $32,000 a year net if Isabel takes a campus job",
+      "valid_from": "2025-11-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f47",
+      "subject": "grace",
+      "attribute": "isabel_curfew_rule",
+      "value": "home by 10 p.m. on weekends",
+      "valid_from": null,
+      "valid_to": "2025-10-25",
+      "superseded_by": "grace.f48",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f48",
+      "subject": "grace",
+      "attribute": "isabel_curfew_rule",
+      "value": "home by 11 p.m. on weekends, text at 9 with location",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f49",
+      "subject": "grace",
+      "attribute": "fafsa_task",
+      "value": "collecting 2024 tax documents for an aid estimate; Manpreet Sandhu's office does the family's taxes",
+      "valid_from": "2025-09-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f50",
+      "subject": "dana",
+      "attribute": "lunch_habit",
+      "value": "eats in B12 with Grace Mondays and Thursdays and vents about her own principal evaluations",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f51",
+      "subject": "dana",
+      "attribute": "side_duty",
+      "value": "takes over as sole Science Olympiad advisor",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f52",
+      "subject": "fernanda",
+      "attribute": "rivalry_with_grace",
+      "value": "annual staff bake-off rivalry; Fernanda's ube cheesecake beat Grace's leche flan last spring",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f53",
+      "subject": "patricia",
+      "attribute": "observation_of_grace",
+      "value": "formal classroom observation of Grace's period 2, Oct 16",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f54",
+      "subject": "karina",
+      "attribute": "grade_in_grace_class",
+      "value": "A- in third-period chem, top lab writeups",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f55",
+      "subject": "eli",
+      "attribute": "accommodation",
+      "value": "has extended test time; Grace runs his tests in B12 during her prep",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f56",
+      "subject": "grace",
+      "attribute": "third_period_seating",
+      "value": "lab-pair chart for third period",
+      "valid_from": "2025-08-25",
+      "valid_to": "2025-09-29",
+      "superseded_by": "grace.f57",
+      "class": "useful"
+    },
+    {
+      "id": "grace.f57",
+      "subject": "grace",
+      "attribute": "third_period_seating",
+      "value": "rebuilt lab-pair chart after hallway drama, separating feuding sophomores; posted Sept 29",
+      "valid_from": "2025-09-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f58",
+      "subject": "grace",
+      "attribute": "opinion_of_patricia",
+      "value": "thinks Patricia Ocampo cares more about attendance graphs than about kids and calls her 'the dashboard'",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "grace.f59",
+      "subject": "grace",
+      "attribute": "church",
+      "value": "Tagalog Mass Sundays at 9 with Corazón at Our Lady of the Marsh",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f60",
+      "subject": "grace",
+      "attribute": "food_drive_volunteering",
+      "value": "signed up to pack boxes at Our Lady of the Marsh food drive Nov 22, 8-11 a.m.",
+      "valid_from": "2025-10-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f61",
+      "subject": "grace",
+      "attribute": "thanksgiving_plan",
+      "value": "hosting Thanksgiving for 11 including Ramón's brother's family; turkey plus pancit",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.f62",
+      "subject": "grace",
+      "attribute": "dislike",
+      "value": "cannot stand leaf blowers at 7 a.m. and has emailed the city twice",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f63",
+      "subject": "grace",
+      "attribute": "union_role",
+      "value": "site rep alternate for the teachers association",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f64",
+      "subject": "grace",
+      "attribute": "measure_k_vote",
+      "value": "plans to vote yes on Measure K at the community center",
+      "valid_from": "2025-10-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.f65",
+      "subject": "grace",
+      "attribute": "gas_station",
+      "value": "fills up at the Ruel Road station to save the 30 cents",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "grace.i01",
+      "statement": "Holds her own daughter to a stricter, colder standard than she holds any of her students.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i01.e1",
+          "date": "2025-09-07",
+          "description": "Asks for help writing a gentle, encouraging note to a struggling third-period student, then in the same chat asks for a 'firm list of rules' to tape to Isabel's door about phone use after 11."
+        },
+        {
+          "id": "grace.i01.e2",
+          "date": "2025-09-21",
+          "description": "Gives a student a lab extension without question but wants the assistant to confirm that Isabel missing an essay draft deadline 'shows a pattern'."
+        },
+        {
+          "id": "grace.i01.e3",
+          "date": "2025-10-19",
+          "description": "Rewrites a parent email three times to soften it, but sends Isabel a one-line text 'Dishes. Now.' and asks the assistant whether that was too harsh only after Isabel stops talking to her."
+        },
+        {
+          "id": "grace.i01.e4",
+          "date": "2025-11-16",
+          "description": "Plans conference talking points praising students' effort, then complains Isabel's 4.1 'isn't the point if she can't manage her time'."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "grace.i02",
+      "statement": "Talks about money in terms of fear of the worst case, even when the numbers are fine.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i02.e1",
+          "date": "2025-09-14",
+          "description": "Asks for a tuition comparison and immediately adds a column for 'if Ramón gets hurt' and 'if Nanay needs a care facility'."
+        },
+        {
+          "id": "grace.i02.e2",
+          "date": "2025-10-05",
+          "description": "When the minivan dies she asks for the cheapest possible car and dismisses a reliable option $1,800 more as 'reckless'."
+        },
+        {
+          "id": "grace.i02.e3",
+          "date": "2025-10-26",
+          "description": "Builds a holiday budget then asks whether to skip Thanksgiving extras in case the furnace goes."
+        },
+        {
+          "id": "grace.i02.e4",
+          "date": "2025-11-09",
+          "description": "Agrees to a higher college cap only after asking for a month-by-month cash projection through 2030."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "grace.i03",
+      "statement": "Carries her mother's care as an unspoken private duty she won't share with Ramón.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i03.e1",
+          "date": "2025-09-24",
+          "description": "Asks for help reorganizing Corazón's pill organizer schedule at 10 p.m., noting she'll do it before Ramón gets home so he 'doesn't fuss'."
+        },
+        {
+          "id": "grace.i03.e2",
+          "date": "2025-10-12",
+          "description": "Wants a script to ask Lola Cora about her meter readings without sounding like she's checking up."
+        },
+        {
+          "id": "grace.i03.e3",
+          "date": "2025-11-03",
+          "description": "Researches grab rails and installs one herself the day after the slip rather than waiting for Ramón's day off."
+        },
+        {
+          "id": "grace.i03.e4",
+          "date": "2025-11-23",
+          "description": "Plans Thanksgiving seating so her mother is near the bathroom without saying why to the guests."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "grace.i04",
+      "statement": "Softens on Isabel's out-of-state dream only when evidence, not argument, is in front of her.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i04.e1",
+          "date": "2025-09-14",
+          "description": "Shuts down a conversation about a Colorado school by citing a sticker price."
+        },
+        {
+          "id": "grace.i04.e2",
+          "date": "2025-10-07",
+          "description": "After Isabel's counselor meeting, asks the assistant to explain net price calculators and seems surprised by the aid numbers."
+        },
+        {
+          "id": "grace.i04.e3",
+          "date": "2025-10-25",
+          "description": "Loosens curfew after Isabel shows her a written plan with location check-ins."
+        },
+        {
+          "id": "grace.i04.e4",
+          "date": "2025-11-09",
+          "description": "Raises the budget cap after running three net-price estimates herself."
+        }
+      ],
+      "formed": null,
+      "changed": "2025-11-09",
+      "changed_to": "Starts treating Isabel's far-away college plan as a negotiable project rather than a fantasy.",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "grace.i05",
+      "statement": "Wants precise, numbered steps and gets impatient with hedging or long preambles.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i05.e1",
+          "date": "2025-08-31",
+          "description": "Replies 'just the steps please' when the assistant explains why a lab procedure works before listing it."
+        },
+        {
+          "id": "grace.i05.e2",
+          "date": "2025-09-15",
+          "description": "Asks for spreadsheet formulas and pastes back the one cell that failed with only 'fix'."
+        },
+        {
+          "id": "grace.i05.e3",
+          "date": "2025-10-12",
+          "description": "Asks to cut a parent email to under 120 words and to remove 'I hope this finds you well'."
+        },
+        {
+          "id": "grace.i05.e4",
+          "date": "2025-11-16",
+          "description": "Requests conference talking points 'as bullets, three per kid, no fluff'."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "grace.i06",
+      "statement": "Grace is checked out and phoning in her teaching this year.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i06.e1",
+          "date": "2025-10-20",
+          "description": "Drops Science Olympiad advising and asks for a quick, reusable worksheet for a week, which looks like coasting but is because the van and her mother's care ate her afternoons."
+        },
+        {
+          "id": "grace.i06.e2",
+          "date": "2025-09-07",
+          "description": "Spends a Sunday redesigning a density lab so it costs under $40 for all five sections."
+        },
+        {
+          "id": "grace.i06.e3",
+          "date": "2025-10-16",
+          "description": "Prepares a full inquiry lab on flame tests for Patricia's observation and asks for three differentiation tweaks."
+        },
+        {
+          "id": "grace.i06.e4",
+          "date": "2025-11-02",
+          "description": "Builds a mole-concept review game for third period because quiz scores dipped, staying up past 11."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "grace.i07",
+      "statement": "Bristles at administrative paperwork but complies meticulously, then vents sideways.",
+      "about": "grace",
+      "evidence": [
+        {
+          "id": "grace.i07.e1",
+          "date": "2025-09-12",
+          "description": "Asks for help making the absence form faster while muttering about 'forms for the forms'."
+        },
+        {
+          "id": "grace.i07.e2",
+          "date": "2025-09-15",
+          "description": "Builds a template so exact it auto-flags three-absence students, then sends it to Dana but not to the principal."
+        },
+        {
+          "id": "grace.i07.e3",
+          "date": "2025-10-30",
+          "description": "Prepares a color-coded chemical inventory for the audit days ahead of time, then complains that no one will read it."
+        },
+        {
+          "id": "grace.i07.e4",
+          "date": "2025-11-17",
+          "description": "Fills in the required conference logs early but asks the assistant to rephrase a comment so it doesn't sound 'snippy toward the office'."
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "grace.r01",
+      "term": "the Friday form",
+      "meaning": "Principal Ocampo's weekly chronic-absence report Grace submits every Friday",
+      "first_use": "2025-08-29"
+    },
+    {
+      "id": "grace.r02",
+      "term": "Nanay's pills",
+      "meaning": "Corazón's medication schedule and pill organizer that Grace manages",
+      "first_use": "2025-09-24"
+    },
+    {
+      "id": "grace.r03",
+      "term": "the van",
+      "meaning": "the dying 2012 silver minivan, later the car-replacement saga",
+      "first_use": "2025-09-21"
+    },
+    {
+      "id": "grace.r04",
+      "term": "B12",
+      "meaning": "her shared chemistry lab room with Dana",
+      "first_use": "2025-08-31"
+    },
+    {
+      "id": "grace.r05",
+      "term": "the number",
+      "meaning": "the family's annual college-cost cap she and Isabel argue over",
+      "first_use": "2025-09-14"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "grace.a01",
+      "title": "The college number",
+      "summary": "Grace moves from a hard $25k cap and dismissal of out-of-state schools to a conditional higher cap after seeing aid estimates.",
+      "beats": [
+        {
+          "date": "2025-09-14",
+          "what": "Sets the $25,000 cap and starts gathering tax documents.",
+          "facts": [
+            "grace.f45",
+            "grace.f49",
+            "grace.f29"
+          ]
+        },
+        {
+          "date": "2025-10-07",
+          "what": "After Isabel's counselor meeting, she researches net price calculators.",
+          "facts": [
+            "grace.f49"
+          ]
+        },
+        {
+          "date": "2025-10-25",
+          "what": "Relaxes weekend curfew after a written plan from Isabel.",
+          "facts": [
+            "grace.f47",
+            "grace.f48"
+          ]
+        },
+        {
+          "date": "2025-11-09",
+          "what": "Raises the cap to $32,000 net with a campus job condition.",
+          "facts": [
+            "grace.f45",
+            "grace.f46"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grace.a02",
+      "title": "The van dies",
+      "summary": "The old minivan fails, forcing a car purchase and a new monthly payment.",
+      "beats": [
+        {
+          "date": "2025-09-21",
+          "what": "Van stalls on Ruel Road; repair quote $2,600.",
+          "facts": [
+            "grace.f07"
+          ]
+        },
+        {
+          "date": "2025-10-05",
+          "what": "Compares cheap cars against reliable ones.",
+          "facts": [
+            "grace.f07"
+          ]
+        },
+        {
+          "date": "2025-10-11",
+          "what": "Buys the 2019 hatchback with financing.",
+          "facts": [
+            "grace.f08",
+            "grace.f09",
+            "grace.f10"
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "what": "First car payment due.",
+          "facts": [
+            "grace.f10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grace.a03",
+      "title": "A heavier semester at Flats High",
+      "summary": "New absence reporting, a budget scramble, an observation and a chemical audit stretch Grace until she drops an extra duty.",
+      "beats": [
+        {
+          "date": "2025-09-15",
+          "what": "Builds the absence spreadsheet template.",
+          "facts": [
+            "grace.f18",
+            "grace.f19"
+          ]
+        },
+        {
+          "date": "2025-09-26",
+          "what": "Wins the parent-club mini-grant.",
+          "facts": [
+            "grace.f16",
+            "grace.f17"
+          ]
+        },
+        {
+          "date": "2025-09-29",
+          "what": "Reseats third period after the sophomore friend feud.",
+          "facts": [
+            "grace.f56",
+            "grace.f57"
+          ]
+        },
+        {
+          "date": "2025-10-16",
+          "what": "Patricia's observation of period 2.",
+          "facts": [
+            "grace.f53"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "Hands Science Olympiad to Dana.",
+          "facts": [
+            "grace.f20",
+            "grace.f21",
+            "grace.f51"
+          ]
+        },
+        {
+          "date": "2025-10-30",
+          "what": "Passes the chemical-storage audit.",
+          "facts": [
+            "grace.f22",
+            "grace.f23"
+          ]
+        },
+        {
+          "date": "2025-11-18",
+          "what": "Parent conferences.",
+          "facts": [
+            "grace.f27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grace.a04",
+      "title": "Lola Cora's care",
+      "summary": "Grace quietly absorbs more of her mother's care, from appointments to a fall.",
+      "beats": [
+        {
+          "date": "2025-09-24",
+          "what": "Drives Corazón to her endocrinology follow-up.",
+          "facts": [
+            "grace.f39",
+            "grace.f38"
+          ]
+        },
+        {
+          "date": "2025-10-06",
+          "what": "Shifts walks to dawn so evenings are free for her mother.",
+          "facts": [
+            "grace.f32",
+            "grace.f33"
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "what": "Installs grab rail after the slip; Corazón uses a cane.",
+          "facts": [
+            "grace.f41",
+            "grace.f42"
+          ]
+        },
+        {
+          "date": "2025-11-02",
+          "what": "Plans Thanksgiving hosting around her mother.",
+          "facts": [
+            "grace.f61"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "Proper capitalization and full punctuation, like a lab handout; short declarative sentences; occasional 'Ay' or 'naku'; no emoji except a rare thumbs-up; few typos except autocorrected Tagalog words.",
+    "with_assistant": "Gives just enough context, often pastes rubrics, parent emails or gradebook rows; says please once at the start, then turns brisk; asks for bullets or numbered steps and cuts off long answers with 'shorter'.",
+    "quirks": [
+      "Numbers her own questions 1), 2), 3)",
+      "Calls her mother 'Nanay' and 'Lola Cora' interchangeably",
+      "Asks for word counts on every email draft",
+      "Checks chemistry facts the assistant gives against her own memory and corrects units",
+      "Signs off with 'Salamat.' even to the assistant"
+    ],
+    "sample_lines": [
+      "Please rewrite this parent email under 120 words. Firm but kind. Pasting below.",
+      "1) What's a cheap substitute for copper sulfate in a 30-student lab? 2) Safety notes. Bullets.",
+      "Shorter. I have five sections and one prep.",
+      "Ay. The formula returns #REF again. Here is the cell.",
+      "Give me three warm-up questions on significant figures, regular chem level, answers separate.",
+      "Naku, no. Moles, not grams. Redo it.",
+      "Make a weekly dinner plan for 4 adults, one diabetic-friendly, under $120. Salamat."
+    ]
+  },
+  "usage": {
+    "frequency": "weekly",
+    "active_hours": [
+      6,
+      11,
+      16,
+      21,
+      22
+    ]
+  }
+}

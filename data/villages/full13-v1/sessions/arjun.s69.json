@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s69",
+  "principal": "arjun",
+  "start": "2025-11-06T12:32:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so harrowgate distribution emailed, second round video interview is nov 18. what does that usually involve? format, case questions, all of it"
+    },
+    {
+      "role": "assistant",
+      "text": "Congrats on getting to round two! Here's what a second-round video interview with a distribution company usually looks like:\n\n**Format**\n- 45-60 min on Zoom/Teams, often with 1-3 people (hiring manager, a team member, sometimes someone from ops)\n- Mix of behavioral questions, a short case or scenario, and time for your questions\n- Sometimes a quick screen-share if they want you to walk through something in Excel\n\n**Behavioral questions**\n- Tell me about a time you handled a tight deadline or conflicting priorities\n- Describe a project where you used data to make a decision\n- Why distribution/logistics, and why us?\n\n**Typical case questions**\n- Warehouse or DC: orders are shipping late, how do you find the bottleneck?\n- Cost reduction: how would you cut transportation cost 5% without hurting service level?\n- Inventory: how would you decide how much safety stock to hold for a fast-moving SKU?\n- Slotting/layout: where would you put your highest-velocity items?\n\n**How to handle a case**\n1. Restate the problem and ask clarifying questions\n2. Lay out a simple structure (e.g., inbound, storage, outbound)\n3. Name the metrics you'd check (on-time rate, dock-to-stock time, cost per unit)\n4. Give a recommendation and note the tradeoffs\n\n**Video tips**\n- Test camera, audio and the link the day before\n- Keep a notepad handy for the case\n- Prep 3-4 questions for them\n\nWant me to tailor a few likely questions to the job description?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls but first, small q. i stopped by dr ashby's office hours this morning, he said ashby's letter is in progress. should i tell harrowgate its coming or just wait"
+    },
+    {
+      "role": "assistant",
+      "text": "Good news on the letter. Short answer: don't bring it up unless they ask. Recommendation letters usually come up when a company requests references, and a second-round interview is mostly about you and the role.\n\nWhat to do instead:\n- If they ask for references or letters, say it's in progress and you can send it as soon as it's done, and offer the letter writer's name and title.\n- If you want to mention it proactively, a single line in a follow-up email works: \"I've asked a professor for a recommendation and can forward it once it's finalized.\"\n- Check back with the writer a week or so before you'd need it, and share your resume and the job description so the letter fits.\n\nSend over the job description whenever you're ready and I'll draft likely questions."
+    },
+    {
+      "role": "user",
+      "text": "thx. tldr version of the case questions for a distribution co pls, like 5 max"
+    },
+    {
+      "role": "assistant",
+      "text": "1. Orders are shipping late from a DC. How do you find the bottleneck?\n2. How would you cut transportation cost 5% without hurting service?\n3. How do you set safety stock for a fast-moving item?\n4. Where do you slot high-velocity SKUs, and why?\n5. A key carrier misses pickups twice in a week. What do you do?\n\nFor each: clarify, structure, name metrics, recommend. Paste the job description when you're ready and I'll sharpen these."
+    }
+  ]
+}

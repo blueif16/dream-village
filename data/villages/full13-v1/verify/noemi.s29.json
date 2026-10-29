@@ -1,0 +1,107 @@
+{
+  "session_id": "noemi.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Noemi trains Bao Tuesdays and Thursdays 3-5",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i train him tue/thu 3-5",
+      "support_quote": ""
+    },
+    {
+      "text": "Tickets go in the internal queue; she tracks RMAs in her own spreadsheet",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tickets go in the internal queue. the RMA stuff i track in my own spreadsheet, not the queue.",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao only does battery swaps and trigger boards, no reimaging",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he only does battery swaps and trigger boards for now, no reimaging so leave that out.",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'the cage' for the repair cage with the handheld pile",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he's in the cage with the handheld pile",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants patient, simple material for the new hire",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "plain words pls, he's new",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi will add RMA items to the spreadsheet herself",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll add it to the RMA spreadsheet myself, so you don't touch that sheet.",
+      "support_quote": "the RMA stuff i track in my own spreadsheet, not the queue."
+    },
+    {
+      "text": "Bao handles batteries and trigger boards only",
+      "about": "bao",
+      "kind": "fact",
+      "item_id": "noemi.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Battery: swap in a charged one, power on, confirm it holds.",
+      "support_quote": "he only does battery swaps and trigger boards for now, no reimaging so leave that out."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "i train him tue/thu 3-5"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "tickets go in the internal queue. the RMA stuff i track in my own spreadsheet, not the queue."
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "he's in the cage with the handheld pile"
+    },
+    {
+      "item_id": "noemi.f48",
+      "present": true,
+      "quote": "he only does battery swaps and trigger boards for now, no reimaging so leave that out."
+    },
+    {
+      "item_id": "noemi.i02",
+      "present": true,
+      "quote": "plain words pls, he's new"
+    }
+  ],
+  "sensitive": []
+}

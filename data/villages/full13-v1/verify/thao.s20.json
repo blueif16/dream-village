@@ -1,0 +1,97 @@
+{
+  "session_id": "thao.s20",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Thao uses 'the button' for the union vote decision",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hey! still thinking about the button, haven't decided yet.",
+      "support_quote": ""
+    },
+    {
+      "text": "Jasmine wears her union pin on her badge reel every shift",
+      "about": "jasmine",
+      "kind": "fact",
+      "item_id": "thao.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "her pin is on her badge reel every shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Terrence texted Thao a union reminder flyer",
+      "about": "terrence",
+      "kind": "fact",
+      "item_id": "thao.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "here's the flyer terrence texted me, for tone",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is undecided on the union vote",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "still thinking about the button, haven't decided yet.",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants non-committal wording that avoids taking a side",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want to reply to him too, polite but not committing to anything",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant uses 'the button' as Thao's term for the decision",
+      "about": "thao",
+      "kind": "reference_use",
+      "item_id": "thao.r05",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Still thinking about the button, haven't decided yet.",
+      "support_quote": "hey! still thinking about the button, haven't decided yet."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.r05",
+      "present": true,
+      "quote": "hey! still thinking about the button, haven't decided yet."
+    },
+    {
+      "item_id": "thao.f48",
+      "present": true,
+      "quote": "her pin is on her badge reel every shift so i don't want it to land weird"
+    },
+    {
+      "item_id": "thao.f52",
+      "present": true,
+      "quote": "here's the flyer terrence texted me, for tone: \"REMINDER: Union vote is Oct 23."
+    },
+    {
+      "item_id": "thao.f15",
+      "present": true,
+      "quote": "still thinking about the button, haven't decided yet."
+    },
+    {
+      "item_id": "thao.i03",
+      "present": true,
+      "quote": "i want to reply to him too, polite but not committing to anything"
+    }
+  ],
+  "sensitive": []
+}

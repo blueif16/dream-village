@@ -1,0 +1,132 @@
+{
+  "session_id": "thao.s28",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thao decided to vote yes on the union",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i decided i'm voting yes on the union thing",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's unit ran 1:7 with two call-outs",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "after last night's shift (1:7 w two call-outs)",
+      "support_quote": ""
+    },
+    {
+      "text": "Maribel is pushing for 1:4",
+      "about": "maribel",
+      "kind": "fact",
+      "item_id": "thao.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "maribel is pushing for 1:4 and everyone knows it",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao deflects pharmacy question for Linh",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want a script to deflect so my sister doesn't have to deal w it",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao wants a calm procedural summary and hesitates over going public",
+      "about": "thao",
+      "kind": "trait_shown",
+      "item_id": "thao.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i don't want it to be a big thing",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao's mom keeps asking Linh about pharmacy",
+      "about": "hanh",
+      "kind": "fact",
+      "item_id": "cast.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my mom keeps asking my sister if she's set on pharmacy",
+      "support_quote": ""
+    },
+    {
+      "text": "Thao is voting yes",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "after last night i'm voting yes",
+      "support_quote": "i decided i'm voting yes on the union thing"
+    },
+    {
+      "text": "Last night's shift was 1:7 with two call-outs",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "1:7 patient ratio for the shift, with two call-outs",
+      "support_quote": "after last night's shift (1:7 w two call-outs)"
+    },
+    {
+      "text": "Charge nurse stayed late",
+      "about": "maribel",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Charge RN stayed past shift end",
+      "support_quote": "she stayed late last night"
+    },
+    {
+      "text": "Thao has Sunday dinner at her mother's",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "For Sunday, a few lines you can use",
+      "support_quote": "sunday is dinner at her house"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f16",
+      "present": true,
+      "quote": "i decided i'm voting yes on the union thing"
+    },
+    {
+      "item_id": "thao.i02",
+      "present": true,
+      "quote": "i want a script to deflect so my sister doesn't have to deal w it"
+    },
+    {
+      "item_id": "thao.i03",
+      "present": true,
+      "quote": "i want to give her an incident summary. calm, bulleted, no complaining, just what happened"
+    },
+    {
+      "item_id": "thao.f50",
+      "present": true,
+      "quote": "maribel is pushing for 1:4 and everyone knows it"
+    }
+  ],
+  "sensitive": []
+}

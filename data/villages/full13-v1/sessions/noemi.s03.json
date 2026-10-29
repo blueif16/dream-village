@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s03",
+  "principal": "noemi",
+  "start": "2025-08-27T23:36:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you write a short notice for the break room. night pickers need to bring dead scanners during the heat wave and not leave them out in the sun. the cage is full lol, eleven overheated ones tonight 💀"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short version you can print:\n\nHEAT WAVE NOTICE: SCANNERS\n\nIf your handheld overheats, freezes or shuts down, bring it to the cage. Please don't leave it on a dock, a cart or in a truck in the sun. Heat kills batteries and locks up the screens.\n\n- Powered down and hot? Bring it in as is.\n- Keep your scanner out of direct sun between picks.\n- Drink water and take your breaks.\n\nThanks for helping keep the fleet running.\n\nWant it shorter, or a spot for where to find the cage and who to ask?"
+    },
+    {
+      "role": "user",
+      "text": "yeah add that the cage is next to the outbound break room. we've got about 620 handhelds on the floor so also a line about rotating them so the same ones arent cooking all night. tldr style pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Tighter version:\n\nHEAT WAVE: SCANNER NOTICE\n\n- Scanner hot, frozen or dead? Bring it to the cage, next to the outbound break room.\n- Never leave scanners in the sun or on a dock.\n- We have about 620 handhelds on the floor. Swap yours at the cage during the shift so the same units aren't running hot all night.\n- Drink water and take your breaks.\n\nThanks, IT\n\nSwap \"IT\" for your name or team if you'd rather sign it differently."
+    },
+    {
+      "role": "user",
+      "text": "gg ty that works"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works. If you want a Spanish version for the sign, send me the final text and I'll translate it."
+    }
+  ]
+}

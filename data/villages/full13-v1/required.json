@@ -1,0 +1,4907 @@
+[
+  {
+    "session_id": "isabel.s23",
+    "item_id": "isabel.f06",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. college_list is now '12 schools after meeting Mr. Kim: 6 out of state, 4 UC, Bayshore State and one in-state polytechnic as safeties' (was '9 schools, 6 out of state, all in snowy places') since 2025-10-07.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s30",
+    "item_id": "isabel.f08",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. sat_score is now '1450 on the October 4 SAT (720 reading, 730 math), released Oct 24' (was 'PSAT-equivalent 1340 from sophomore year, no SAT yet') since 2025-10-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s16",
+    "item_id": "isabel.f12",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. curfew is now '9 p.m. weekends after coming home at 11:20 from the street fair' (was '10 p.m. weekends, home by 8 on school nights unless robotics') since 2025-09-21.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s34",
+    "item_id": "isabel.f13",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. curfew is now 'back to 10 p.m. weekends, negotiated through Ramón' (was '9 p.m. weekends after coming home at 11:20 from the street fair') since 2025-11-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s18",
+    "item_id": "isabel.f15",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. robotics_role is now 'mechanical subteam lead, chosen over a sophomore by the coach' (was 'mechanical subteam member on Flats High robotics') since 2025-09-26.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s40",
+    "item_id": "isabel.f18",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. summer_program_application is now 'submitted Nov 12 after Nadia sat with her until she hit the button' (was 'planning to apply to a state university summer engineering institute, due Nov 15') since 2025-11-12.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s29",
+    "item_id": "isabel.f20",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. essay_status is now 'personal statement draft 7 shared with Ms. Lugo for feedback' (was 'personal statement about the marsh, draft 4, nobody has seen it') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s14",
+    "item_id": "isabel.f46",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s17",
+    "item_id": "isabel.f46",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the user asks the assistant to forget that crush: 'has a crush on Lucas Ferreira despite calling him her rival'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s17",
+    "item_id": "isabel.f59",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s20",
+    "item_id": "isabel.f59",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the user asks the assistant to forget that opinion_of_mom_teaching: \"told the assistant she thinks Grace's students like her more than Isabel does\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s13",
+    "item_id": "isabel.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode isabel.i01.e1 (2025-09-14): asks for a fourth rewrite of an essay paragraph the assistant already said was strong, then says she'll 'sit on it'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s23",
+    "item_id": "isabel.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode isabel.i01.e2 (2025-10-06): the night before Mr. Kim's meeting, reorganizes her college list spreadsheet colors instead of drafting the questions she meant to bring",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s29",
+    "item_id": "isabel.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode isabel.i01.e3 (2025-10-19): has draft 7 ready for Ms. Lugo but asks for help phrasing the email apologizing that it's 'still rough'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s40",
+    "item_id": "isabel.i01",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode isabel.i01.e4 (2025-11-10): asks the assistant to check her summer program form for typos a third time, two days after saying it was done",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s17",
+    "item_id": "isabel.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode isabel.i02.e1 (2025-09-21): writes a furious vent about the new curfew, then asks how to explain her SAT plan to Grace so she'll 'actually listen'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s26",
+    "item_id": "isabel.i02",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode isabel.i02.e2 (2025-10-12): mocks Grace's lab-safety jokes, then wants a chemistry example for her essay that Grace would find accurate",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s30",
+    "item_id": "isabel.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode isabel.i02.e3 (2025-10-24): after her SAT score, asks for a casual way to mention it at dinner without it looking like she cares what Grace thinks",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s42",
+    "item_id": "isabel.i02",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode isabel.i02.e4 (2025-11-16): asks for out-of-state net-price numbers to put in a one-page sheet for Grace, formatted 'like her grading rubrics'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s04",
+    "item_id": "isabel.i03",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode isabel.i03.e1 (2025-08-28): complains about the heat wave and 'this nothing town' but asks how heat affects egret nesting at Ulloa",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s20",
+    "item_id": "isabel.i03",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode isabel.i03.e2 (2025-09-28): asks for a sinigang recipe card to write out by hand 'in case I'm somewhere with no Filipino stores'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s34",
+    "item_id": "isabel.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode isabel.i03.e3 (2025-10-30): wants help planning a spreadsheet for the egret count with tide times and spots from last year",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s40",
+    "item_id": "isabel.i03",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode isabel.i03.e4 (2025-11-14): after the storm, asks whether the boardwalk flooding damages marsh habitat and whether the count will still happen",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s09",
+    "item_id": "isabel.i04",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode isabel.i04.e1 (2025-09-09): asks whether being robotics captain looks better to admissions than a subteam lead role",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s22",
+    "item_id": "isabel.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode isabel.i04.e2 (2025-10-03): after hearing Lucas is applying early decision, asks if she should switch her plan too, two weeks before deadlines",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s32",
+    "item_id": "isabel.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode isabel.i04.e3 (2025-10-25): wants the percentile for a 1450 'compared to people applying to engineering', after Lucas mentioned his score",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s37",
+    "item_id": "isabel.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode isabel.i04.e4 (2025-11-06): asks for robot drivetrain improvements she can propose before Lucas's design review",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s05",
+    "item_id": "isabel.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode isabel.i05.e1 (2025-09-03): asks for a fun way to teach fractions with pizza drawings before her first session with Mateo",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s14",
+    "item_id": "isabel.i05",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode isabel.i05.e2 (2025-09-17): wants encouraging phrasing for when Mateo says he's 'just dumb at math'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s26",
+    "item_id": "isabel.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode isabel.i05.e3 (2025-10-13): plans a kid-friendly egret fact sheet for the library's Indigenous Peoples' Day family program",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s43",
+    "item_id": "isabel.i05",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode isabel.i05.e4 (2025-11-19): asks for a small game to celebrate Mateo's improved quiz grade",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s12",
+    "item_id": "isabel.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode isabel.i06.e2 (2025-09-11): asks for a week-by-week AP Calc review schedule to protect her A",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s28",
+    "item_id": "isabel.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode isabel.i06.e1 (2025-10-16): says she blew off an APUSH reading quiz and 'doesn't care', because she spent the night on robotics build",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s30",
+    "item_id": "isabel.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode isabel.i06.e3 (2025-10-22): emails her APUSH teacher about a makeup reading response and asks the assistant to check her tone",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s43",
+    "item_id": "isabel.i06",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode isabel.i06.e4 (2025-11-18): requests practice problems on stoichiometry three nights before an AP Chem unit test",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s07",
+    "item_id": "isabel.i07",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode isabel.i07.e1 (2025-09-05): cuts off a long answer about time management with 'ok i didn't ask for a TED talk'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s24",
+    "item_id": "isabel.i07",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode isabel.i07.e2 (2025-10-08): asks for financial aid info 'without the it's important to talk to your parents part'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s34",
+    "item_id": "isabel.i07",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode isabel.i07.e3 (2025-10-28): thanks the assistant for skipping the pep talk when it just lists essay edits",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s43",
+    "item_id": "isabel.i07",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode isabel.i07.e4 (2025-11-20): rewords a question about sleep to say she only wants facts, not advice",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s05",
+    "item_id": "isabel.r01",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the snow list', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s03",
+    "item_id": "isabel.r02",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the count', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s24",
+    "item_id": "isabel.r03",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'the Mom sheet', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s12",
+    "item_id": "isabel.r04",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'draft hell', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "isabel.s10",
+    "item_id": "isabel.r05",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'Mateo math', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s08",
+    "item_id": "dulce.f07",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. payday is now 'every other Friday by direct deposit into a teen checking account her mom co-signed' (was 'paid every other Friday by check, cashes it at the market') since 2025-10-10.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s13",
+    "item_id": "dulce.f10",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. phone is now 'used phone bought for $210 from the Plaza Marisol repair shop, mint green case' (was 'cracked hand-me-down phone from her mom, battery dies by 2 p.m.') since 2025-11-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s13",
+    "item_id": "dulce.f12",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. phone_savings_goal is now 'goal met; now saving toward a $60 portable charger and a winter jacket' (was 'saving $220 for a used phone') since 2025-11-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s10",
+    "item_id": "dulce.f14",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. savings_balance is now 'about $170 after she stopped buying the group boba' (was 'about $95 saved toward the phone') since 2025-10-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.f16",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. lunch_spot is now \"eats lunch in Ms. Tolentino's room B12 with Karina and Eli\" (was 'eats lunch at the planters by the B wing with Brianna, Karina, Sienna') since 2025-09-23.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.f18",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. group_chat is now \"removed from 'las 4 fantásticas' by Brianna; now in a new chat 'lab rats' with Karina and Eli\" (was \"in the group chat 'las 4 fantásticas' with Brianna, Karina, Sienna\") since 2025-09-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s11",
+    "item_id": "dulce.f20",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. chemistry_grade is now 'C+ after a weak stoichiometry test and missing lab writeups' (was 'B in chemistry at progress report') since 2025-10-31.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s10",
+    "item_id": "dulce.f59",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. weekly_boba_spend is now 'caps herself at one $6 drink a week' (was 'spends about $25 a week buying boba for the group') since 2025-10-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s05",
+    "item_id": "cast.f14",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. relationship_status is now 'broke up with Tyler; blames Dulce for leaking it to Karina' (was 'dating Tyler Nunes since July') since 2025-09-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "cast.f24",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. stand_location is now 'permanent spot in the Ruel Road gas station lot, Thu-Sun evenings' (was 'Sunday farmers market lot at Delgado Park') since 2025-10-04.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.f36",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s09",
+    "item_id": "dulce.f36",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that crush: 'has a crush on Eli Moreno from chem'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s03",
+    "item_id": "dulce.f45",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.f45",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user asks the assistant to forget that opinion_of_hector: 'thinks Héctor is a show-off who slows the line with his jokes'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s05",
+    "item_id": "dulce.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode dulce.i01.e1 (2025-09-21): Asks for help writing a message to Efraín after agreeing to cover a shift for Camila and also to go to Brianna's birthday the same night.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i01.e2 (2025-09-25): Drafts two separate texts, one to Brianna and one to Karina, each saying 'I'm not on anyone's side, I swear,' and asks which sounds less fake.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s09",
+    "item_id": "dulce.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode dulce.i01.e3 (2025-10-18): Takes the extra Saturday shift because Efraín asked, then asks how to tell Tía Gladys she can't help at the stand that weekend.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s12",
+    "item_id": "dulce.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode dulce.i01.e4 (2025-11-10): Signs up for the food drive after Karina mentions it, then asks how to fit it around her shift and the chem study sessions.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s02",
+    "item_id": "dulce.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode dulce.i02.e1 (2025-09-05): Asks for help splitting a $31 boba receipt, then decides she'll just pay it all 'so it's not weird.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i02.e2 (2025-09-26): Asks why her phone fund is only $95 after four paychecks and lists mostly drinks and snacks.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s10",
+    "item_id": "dulce.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i02.e3 (2025-10-24): Asks for a polite way to say 'I'm saving' when the new lunch crew wants Cloud Nine after the game.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s13",
+    "item_id": "dulce.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i02.e4 (2025-11-15): Asks for a checklist for buying a used phone and brags she paid for it 'all by myself, no boba.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s05",
+    "item_id": "dulce.i03",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode dulce.i03.e1 (2025-09-17): Gets the molar mass math right in seconds but asks the assistant to 'just tell me what a conclusion is supposed to say' for the lab.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i03.e2 (2025-09-19): Mentions Efraín let her count the drawer because she was faster than the register.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s10",
+    "item_id": "dulce.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i03.e3 (2025-10-30): Pastes a half-page lab writeup with three sentences, asking if it is 'enough' the night before it's due.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s12",
+    "item_id": "dulce.i03",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode dulce.i03.e4 (2025-11-12): Records her family-history interview fine but asks for help turning notes into paragraphs two days before the deadline.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i04.e1 (2025-09-24): Asks what it means when you get removed from a group chat 'by accident' and whether she should ask to be added back.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s07",
+    "item_id": "dulce.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode dulce.i04.e2 (2025-10-06): Asks if a 'seen' with no reply from Karina for two hours means she's mad.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s09",
+    "item_id": "dulce.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode dulce.i04.e3 (2025-10-20): Wants help decoding a Brianna close-friends story she thinks is about her because it says 'snakes.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s11",
+    "item_id": "dulce.i04",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode dulce.i04.e4 (2025-11-04): Worries Eli didn't sit with them at lunch and asks if she said something weird the day before.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s05",
+    "item_id": "dulce.i05",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode dulce.i05.e1 (2025-09-22): After explaining the breakup blame, follows with 'anyway lol give me a funny caption for a taco pic.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i05.e2 (2025-10-02): Admits a crush, then immediately types 'jk jk ok help me with geometry.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s11",
+    "item_id": "dulce.i05",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode dulce.i05.e3 (2025-10-31): Mentions her chem grade dropped, then asks for Halloween puns instead.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s12",
+    "item_id": "dulce.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode dulce.i05.e4 (2025-11-06): Asks for help telling her mom about the C+ but writes 'just make it sound like it's not a big deal haha.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s05",
+    "item_id": "dulce.i06",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode dulce.i06.e2 (2025-09-19): Proudly reports she counted the drawer to the penny on her own.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i06.e1 (2025-09-21): Pays Camila $20 to cover a Sunday shift so she can go to Brianna's party.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s09",
+    "item_id": "dulce.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode dulce.i06.e3 (2025-10-18): Accepts an extra Saturday shift during the rush without being asked twice.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s13",
+    "item_id": "dulce.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i06.e4 (2025-11-14): Asks how to learn the Spanish names for every menu item so she stops slowing down tickets.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s02",
+    "item_id": "dulce.i07",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode dulce.i07.e1 (2025-08-29): Wants a thank-you text for her cousin after his first late pickup, worrying it sounds 'cringe.'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s08",
+    "item_id": "dulce.i07",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode dulce.i07.e2 (2025-10-09): Asks for tips folding to-go boxes faster so Tía Gladys doesn't have to redo them.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s12",
+    "item_id": "dulce.i07",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode dulce.i07.e3 (2025-11-08): Asks how to phrase interview questions for Tía Gladys so she feels proud of the stand.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s13",
+    "item_id": "dulce.i07",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode dulce.i07.e4 (2025-11-15): Wants to send her mom a photo of the new phone with a message saying she paid it herself.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s02",
+    "item_id": "dulce.r01",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'las 4', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s05",
+    "item_id": "dulce.r02",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'the drawer', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s02",
+    "item_id": "dulce.r03",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the phone fund', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s06",
+    "item_id": "dulce.r04",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'B12 lunch', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "dulce.s09",
+    "item_id": "dulce.r05",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the snake story', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s35",
+    "item_id": "linh.f04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. work_schedule is now 'Heron & Grind Mon/Wed 3-9 closing, Sat/Sun 6:30-1' (was 'Heron & Grind Mon/Wed 12-6, Sat/Sun 6:30-1') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s35",
+    "item_id": "linh.f06",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. hourly_pay is now \"$19.25 an hour plus tips after Beatrice's raise for closers\" (was '$18.50 an hour plus tips, about $90 a week in tips') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s23",
+    "item_id": "linh.f10",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. transport is now 'bike stolen outside the library; takes the shuttle bus and rides from Kenji' (was 'secondhand blue commuter bike, rides to campus and Calle Ortega') since 2025-09-18.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s45",
+    "item_id": "linh.f11",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. transport is now 'bought a used e-bike for $640, charges it behind the cafe counter' (was 'bike stolen outside the library; takes the shuttle bus and rides from Kenji') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s45",
+    "item_id": "linh.f13",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. savings_goal is now 'rebuilding savings to $1,500 for spring textbooks and a transfer application fund' (was 'saving $700 toward a replacement bike') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s72",
+    "item_id": "linh.f15",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. stated_career_goal is now 'told Thao she is considering a public health or nutrition transfer instead of pharmacy' (was 'tells family she is set on pharmacy school') since 2025-11-10.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s61",
+    "item_id": "linh.f17",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. transfer_plan is now 'drafted two-track plan with Denny: Bayshore nursing vs. Bayshore public health, decide by Feb' (was 'undecided; needs to pick a track with Denny Wu before spring registration') since 2025-10-29.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s57",
+    "item_id": "linh.f19",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. anatomy_grade is now 'A- after scoring 91 on the Oct 17 lab practical' (was 'B+ going into the first lab practical') since 2025-10-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s34",
+    "item_id": "linh.f22",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. study_group_attendance is now \"attends Pedro's Tuesday 4 p.m. anatomy group at the library\" (was \"skips Pedro's Tuesday group, studies alone\") since 2025-09-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s26",
+    "item_id": "linh.f30",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. lunch_habit is now 'packs a Sunday-prepped rice bowl after nearly fainting at the espresso bar' (was 'often skips lunch on class/work days') since 2025-09-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s35",
+    "item_id": "cast.f64",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. cafe_hours is now 'open 6:30 a.m. to 9 p.m. for student study crowd' (was 'open 6:30 a.m. to 6 p.m.') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s41",
+    "item_id": "linh.f43",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s44",
+    "item_id": "linh.f43",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that crush: 'has a crush on Pedro Alvarado from study group'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s48",
+    "item_id": "linh.f59",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s51",
+    "item_id": "linh.f59",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that opinion_of_beatrice: \"privately thinks Beatrice is stingy for docking the closers' tip jar for breakage\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s10",
+    "item_id": "linh.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i01.e1 (2025-09-04): Asks for help wording a text to Sam declining a third shift swap, then rewrites it to say 'maybe' instead",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s20",
+    "item_id": "linh.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i01.e2 (2025-09-14): Wants talking points for dinner with Hạnh about pharmacy but ends up asking how to change the subject",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s48",
+    "item_id": "linh.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i01.e3 (2025-10-14): Drafts an email to Beatrice about the tip-jar deduction and asks if it's okay to just not send it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s72",
+    "item_id": "linh.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode linh.i01.e4 (2025-11-10): Asks for help telling Thao about public health, and specifically wants Thao to be the one to tell their mom",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s79",
+    "item_id": "linh.i01",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode linh.i01.e5 (2025-11-16): Requests a script for registering for nutrition without 'making it a whole thing' at home",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s30",
+    "item_id": "linh.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i02.e1 (2025-09-26): Asks what percentile a B+ would be in a section where 'a third fail the practicals'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s53",
+    "item_id": "linh.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode linh.i02.e2 (2025-10-18): Mentions Jun's tulip just after asking how to make her own rosetta symmetrical",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s57",
+    "item_id": "linh.i02",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode linh.i02.e3 (2025-10-24): Wants to know if a 91 is 'good enough' and whether the class average is posted",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s80",
+    "item_id": "linh.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i02.e4 (2025-11-18): Sets three alarms for 6:58 to beat everyone into the nutrition section at registration",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s16",
+    "item_id": "linh.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i03.e1 (2025-09-09): Spends a lunch break building Jun's per-roll cost sheet instead of eating",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s26",
+    "item_id": "linh.i03",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode linh.i03.e2 (2025-09-22): Asks for quick lunch ideas only after nearly blacking out pulling shots",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s51",
+    "item_id": "linh.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode linh.i03.e3 (2025-10-16): Plans Thao's grocery list and phở drop-off for her night stretch the night before her own practical",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s76",
+    "item_id": "linh.i03",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode linh.i03.e4 (2025-11-13): Arranges a ride for Pedro's bone kit in the storm while biking herself home soaked",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s16",
+    "item_id": "linh.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i04.e1 (2025-09-09): Gets unusually animated calculating fat and sodium per lumpia for Jun's label",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s61",
+    "item_id": "linh.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode linh.i04.e2 (2025-10-27): Asks for extra reading on gut microbiome after the digestion lecture, unprompted by any test",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s67",
+    "item_id": "linh.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i04.e3 (2025-11-03): Looks up what a registered dietitian does day to day and the Bayshore path to it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s80",
+    "item_id": "linh.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i04.e4 (2025-11-19): Plans a balanced week of family dinners to swap in for Hạnh's late plates",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s19",
+    "item_id": "linh.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i05.e2 (2025-09-13): Asks for a cheap thank-you gift for Thao for covering her bike lock replacement",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s25",
+    "item_id": "linh.i05",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode linh.i05.e1 (2025-09-20): Snaps 'I'm not a patient' in a text draft after Thao reminds her to eat, then deletes it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s51",
+    "item_id": "linh.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode linh.i05.e3 (2025-10-16): Spends an evening planning Thao's post-shift meals and phở breakfast",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s72",
+    "item_id": "linh.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode linh.i05.e4 (2025-11-10): Goes to Thao first with her career doubts before anyone else",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s03",
+    "item_id": "linh.i06",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode linh.i06.e1 (2025-08-26): Asks to turn her first-week syllabi into a single hour-blocked schedule",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s24",
+    "item_id": "linh.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode linh.i06.e2 (2025-09-19): Replies 'too long, just bullets pls' to a paragraph on bus routes",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s46",
+    "item_id": "linh.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode linh.i06.e3 (2025-10-12): Wants a day-by-day countdown to the practical with color tags matching her notes",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s79",
+    "item_id": "linh.i06",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode linh.i06.e4 (2025-11-17): Requests a 7 a.m. registration checklist with backup sections ranked",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s09",
+    "item_id": "linh.r01",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the practical', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s28",
+    "item_id": "linh.r02",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: first use of the shared term 'the yellow list', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s15",
+    "item_id": "linh.r03",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: first use of the shared term \"Jun's sheet\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s20",
+    "item_id": "linh.r04",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the pharmacy talk', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "linh.s36",
+    "item_id": "linh.r05",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: first use of the shared term 'Doc', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s40",
+    "item_id": "arjun.f04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. commute is now '6:48 a.m. Tule Line after the 7:02 kept running late' (was '7:02 a.m. Tule Line from Flats Junction, 20 minutes north') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s27",
+    "item_id": "arjun.f09",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. internship_tracker is now 'spreadsheet at 81 applications, color-coded by stage' (was 'spreadsheet at 63 applications') since 2025-09-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s60",
+    "item_id": "arjun.f10",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. internship_tracker is now 'spreadsheet trimmed to 40 active targets after deciding quality over volume' (was 'spreadsheet at 81 applications, color-coded by stage') since 2025-10-27.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s34",
+    "item_id": "arjun.f12",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. internship_status is now 'phone screen with Kestrel Cold Chain (regional 3PL) scheduled' (was 'no interviews yet') since 2025-09-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s42",
+    "item_id": "arjun.f13",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. internship_status is now 'rejected by Kestrel after a rough phone screen' (was 'phone screen with Kestrel Cold Chain (regional 3PL) scheduled') since 2025-10-09.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s68",
+    "item_id": "arjun.f14",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. internship_status is now 'second-round video interview with Harrowgate Distribution, Nov 18' (was 'rejected by Kestrel after a rough phone screen') since 2025-11-05.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s82",
+    "item_id": "arjun.f15",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. internship_status is now \"awaiting Harrowgate decision, told 'by mid-December'\" (was 'second-round video interview with Harrowgate Distribution, Nov 18') since 2025-11-19.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s47",
+    "item_id": "arjun.f17",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. mock_interview is now 'standing Tuesday 3 p.m. mock interviews with Lena' (was 'mock interview with Lena rescheduled twice') since 2025-10-14.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s53",
+    "item_id": "arjun.f19",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. club_commitments is now 'dropped Model UN; keeps supply chain club, PSA treasurer, case team' (was 'supply chain club, Punjabi Student Association treasurer, case competition team, Model UN') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s49",
+    "item_id": "arjun.f22",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. rec_letter_status is now 'Ashby agreed to write one after office-hours talk' (was 'asked Dr. Ashby for a recommendation letter') since 2025-10-16.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s44",
+    "item_id": "arjun.f38",
+    "mode": "stated",
+    "task_type": "personal_reflection",
+    "note": "Required: the change. resume_version is now 'resume v19, one page, quantified warehouse-sim project' (was 'resume v14') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s23",
+    "item_id": "arjun.f43",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s26",
+    "item_id": "arjun.f43",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the user asks the assistant to forget that crush: 'has a crush on Priya from the case competition team'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s25",
+    "item_id": "arjun.f54",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s28",
+    "item_id": "arjun.f54",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that opinion_held_by_arjun: 'Arjun privately thinks Omar only got his internship through his uncle'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s16",
+    "item_id": "arjun.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode arjun.i01.e1 (2025-09-10): asks for a fourth rewrite of a cover letter the night he was supposed to do Lena's mock interview",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s40",
+    "item_id": "arjun.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode arjun.i01.e2 (2025-10-07): wants a list of likely phone-screen questions but declines to practice answering them out loud",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s43",
+    "item_id": "arjun.i01",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode arjun.i01.e3 (2025-10-09): after the Kestrel call says he 'blanked on the tell me about yourself part' and asks to redo his resume instead",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s76",
+    "item_id": "arjun.i01",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode arjun.i01.e4 (2025-11-12): finally asks the assistant to play the interviewer and type follow-ups to his answers before Harrowgate",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s09",
+    "item_id": "arjun.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i02.e1 (2025-09-04): at 1:40 a.m. asks for an article on sleep hygiene to send his roommate",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s34",
+    "item_id": "arjun.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode arjun.i02.e4 (2025-09-29): builds his sister a timeline telling her to delegate wedding tasks, then takes three himself",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s52",
+    "item_id": "arjun.i02",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode arjun.i02.e2 (2025-10-19): drafts a message telling a teammate to stop pulling all-nighters while finishing slides at 2 a.m.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s70",
+    "item_id": "arjun.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode arjun.i02.e3 (2025-11-06): asks for a 'realistic' schedule for the case comp week that has him sleeping five hours",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s25",
+    "item_id": "arjun.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode arjun.i03.e1 (2025-09-20): asks how competitive freight brokerage internships are the day after a classmate posts his offer",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s44",
+    "item_id": "arjun.i03",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode arjun.i03.e2 (2025-10-10): wants to know the average number of applications 'normal people' send before an offer",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s61",
+    "item_id": "arjun.i03",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode arjun.i03.e4 (2025-10-27): cuts his tracker down while saying 'volume isn't working for me like it does for everyone else'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s67",
+    "item_id": "arjun.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i03.e3 (2025-11-02): compares his LinkedIn headline line-by-line against a club president's",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s05",
+    "item_id": "arjun.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode arjun.i04.e2 (2025-08-29): calls the heat wave 'free sauna with my commute' while asking for a cheap fan setup",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s28",
+    "item_id": "arjun.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode arjun.i04.e4 (2025-09-22): calls application 81 'another message in a bottle'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s43",
+    "item_id": "arjun.i04",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode arjun.i04.e1 (2025-10-09): opens with 'great news, I have been freed from Kestrel' before asking how to write a thank-you after rejection",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s77",
+    "item_id": "arjun.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode arjun.i04.e3 (2025-11-14): reports the train delay as 'the Tule Line choosing violence' while rescheduling a call",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s22",
+    "item_id": "arjun.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i05.e1 (2025-09-16): asks for a quiet-hours note to tape on his door so his roommate can sleep after night shift",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s40",
+    "item_id": "arjun.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode arjun.i05.e2 (2025-10-05): volunteers to build Sunita's vendor comparison sheet the same day she mentions being behind",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s46",
+    "item_id": "arjun.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i05.e3 (2025-10-12): looks up how to split groceries so his roommate pays less during a tight month",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s84",
+    "item_id": "arjun.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i05.e4 (2025-11-22): plans to help his mom pack boxes at the gurdwara for the food drive",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s11",
+    "item_id": "arjun.i06",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode arjun.i06.e2 (2025-09-05): has every application deadline in the spreadsheet with a two-day buffer column",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s17",
+    "item_id": "arjun.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i06.e1 (2025-09-12): misses one application cutoff because his calendar was set to the wrong time zone",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s35",
+    "item_id": "arjun.i06",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode arjun.i06.e3 (2025-10-01): pays rent the morning it opens on the portal, as always",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s82",
+    "item_id": "arjun.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode arjun.i06.e4 (2025-11-19): submits the group project a day early and asks for a checklist for the next one",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s02",
+    "item_id": "arjun.r01",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the spreadsheet', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s08",
+    "item_id": "arjun.r02",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'v-whatever', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s03",
+    "item_id": "arjun.r03",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the 7:02', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s29",
+    "item_id": "arjun.r04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term \"Ashby's letter\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s20",
+    "item_id": "arjun.r05",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'case comp', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "arjun.s06",
+    "item_id": "arjun.r06",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'Sunday call', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s21",
+    "item_id": "marcus.f05",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. shift_schedule is now 'mandatory 10-hour nights Sun-Thu 9 p.m.-7:30 a.m.' (was 'nights Sun-Thu 10 p.m.-6:30 a.m.') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s21",
+    "item_id": "marcus.f07",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. hourly_pay is now '$24.75 with $1.50 peak bump' (was '$23.25 night rate') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s21",
+    "item_id": "marcus.f09",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. sleep_window is now '8:30 a.m. to 1:30 p.m., often cut short on class days' (was '8 a.m. to 1 p.m.') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s12",
+    "item_id": "marcus.f13",
+    "mode": "stated",
+    "task_type": "personal_reflection",
+    "note": "Required: the change. money_to_mom is now '$150 Venmo every other Friday' (was 'none regularly') since 2025-09-19.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s28",
+    "item_id": "marcus.f14",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. money_to_mom is now '$250 every other Friday, covering her electric bill' (was '$150 Venmo every other Friday') since 2025-10-17.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s21",
+    "item_id": "marcus.f18",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. transport is now 'carpools to Ridgeline with Trevor in his Corolla, $20 a week gas' (was 'Tule Line to Bayshore, bike to Ridgeline') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s21",
+    "item_id": "marcus.f21",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. gym is now 'cut to two sessions a week Fri/Sat mornings during overtime' (was 'Iron Flats Fitness, $29/month, lifts at 6:45 a.m. after shift') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s36",
+    "item_id": "marcus.f27",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. stats_grade is now 'C+ after tutoring center sessions' (was 'D after first two quizzes') since 2025-11-07.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s29",
+    "item_id": "marcus.f34",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. sneaker_budget is now 'self-imposed $100 a month cap after a $240 release' (was 'no limit') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s35",
+    "item_id": "marcus.f39",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. drink is now 'one cold brew before shift, quit energy drinks' (was 'two energy drinks a shift') since 2025-11-03.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s11",
+    "item_id": "marcus.f41",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. dock_assignment is now 'cold dock, needs a freezer jacket' (was 'general pick floor') since 2025-09-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s11",
+    "item_id": "cast.f42",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. work_hours is now 'cut to 24 hours a week at the drugstore' (was '36 hours a week as pharmacy tech at a Vinca Avenue drugstore') since 2025-09-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s32",
+    "item_id": "marcus.f48",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s35",
+    "item_id": "marcus.f48",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that debt_to_trevor: 'owes Trevor $60 for gas and a burrito run'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s08",
+    "item_id": "marcus.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode marcus.i01.e1 (2025-09-09): asks for a sleep schedule but adds 'not the 8 hours lecture, i know'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s19",
+    "item_id": "marcus.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode marcus.i01.e2 (2025-09-30): asks how to phrase 'i got it' to his roommate after being handed a printed budget",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s31",
+    "item_id": "marcus.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode marcus.i01.e3 (2025-10-21): rejects a suggested study plan and rewrites it himself, then asks only for proofreading",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s40",
+    "item_id": "marcus.i01",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode marcus.i01.e4 (2025-11-12): says 'just give me options, ill pick' when asking about spring classes",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s13",
+    "item_id": "marcus.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode marcus.i02.e1 (2025-09-19): redoes his monthly budget to squeeze out $150 for her, cutting his own gym supplements",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s28",
+    "item_id": "marcus.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode marcus.i02.e2 (2025-10-17): asks how to word a Venmo note so she won't refuse it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s32",
+    "item_id": "marcus.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode marcus.i02.e3 (2025-10-28): drafts a text telling her he got a raise so she won't worry about the bigger transfer",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s39",
+    "item_id": "marcus.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode marcus.i02.e4 (2025-11-10): plans Thanksgiving groceries he'll buy and drop off quietly",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s16",
+    "item_id": "marcus.i03",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode marcus.i03.e1 (2025-09-27): asks about resale value of a release right after a bad stats quiz",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s28",
+    "item_id": "marcus.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode marcus.i03.e2 (2025-10-18): buys a $240 pair after the write-up and asks how to 'flip later'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s29",
+    "item_id": "marcus.i03",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode marcus.i03.e3 (2025-10-20): asks for a spending tracker with a sneaker line capped at $100",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s40",
+    "item_id": "marcus.i03",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode marcus.i03.e4 (2025-11-15): talks himself out of a drop by asking for the cost in shifts",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s09",
+    "item_id": "marcus.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode marcus.i04.e1 (2025-09-12): asks for a funny text to send after missing her day off",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s23",
+    "item_id": "marcus.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode marcus.i04.e2 (2025-10-09): jokes about being a vampire while asking how to explain the overtime schedule",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s33",
+    "item_id": "marcus.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode marcus.i04.e3 (2025-10-30): plans her birthday and asks if a joke card is enough to apologize for being late",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s43",
+    "item_id": "marcus.i04",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode marcus.i04.e4 (2025-11-19): asks for a sincere message, then requests it 'less corny'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s15",
+    "item_id": "marcus.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode marcus.i05.e2 (2025-09-25): maps out a GPA recovery plan the day after Holt's warning",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s19",
+    "item_id": "marcus.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode marcus.i05.e3 (2025-10-01): books stats tutoring and asks for practice problems",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s26",
+    "item_id": "marcus.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode marcus.i05.e1 (2025-10-13): skips an assigned reading entirely after a double overtime night",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s37",
+    "item_id": "marcus.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode marcus.i05.e4 (2025-11-07): proudly shares his C+ and asks how to push to a B",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s07",
+    "item_id": "marcus.i06",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode marcus.i06.e1 (2025-09-07): asks for a cheap high-protein meal prep list",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s22",
+    "item_id": "marcus.i06",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode marcus.i06.e2 (2025-10-08): asks how to keep strength on two lifts a week",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s35",
+    "item_id": "marcus.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode marcus.i06.e3 (2025-11-03): asks for a plan to taper off energy drinks",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s40",
+    "item_id": "marcus.i06",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode marcus.i06.e4 (2025-11-14): asks about stretching routines for the cold dock",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s11",
+    "item_id": "marcus.r01",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: first use of the shared term 'the cold dock', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s15",
+    "item_id": "marcus.r02",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term \"Holt's number\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s12",
+    "item_id": "marcus.r03",
+    "mode": "stated",
+    "task_type": "personal_reflection",
+    "note": "Required: first use of the shared term 'the mom fund', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s22",
+    "item_id": "marcus.r04",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: first use of the shared term 'vampire week', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "marcus.s16",
+    "item_id": "marcus.r05",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: first use of the shared term 'the box wall', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.f06",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. truck_condition is now 'alternator failing, battery light flickers' (was 'running fine aside from a slow oil leak') since 2025-09-18.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.f07",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. truck_condition is now 'rebuilt alternator installed himself in the school lab for $95' (was 'alternator failing, battery light flickers') since 2025-09-27.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s07",
+    "item_id": "rafael.f09",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. stand_hours is now 'works Thu-Sun 5-10 p.m. at the Ruel Road gas station lot' (was 'works the stand Thu-Sun; Sundays at the Delgado Park market 8-2') since 2025-10-04.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s09",
+    "item_id": "rafael.f13",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. savings is now 'about $1,150 after buying a used scan tool and ratchet set' (was 'about $1,900 in a credit union savings account, earmarked for tools') since 2025-10-25.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s09",
+    "item_id": "rafael.f18",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. practice_test_score is now '71% on G1 practice quiz after flashcards; 70% needed' (was '58% on first G1 practice quiz') since 2025-10-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s07",
+    "item_id": "rafael.f20",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. study_method is now 'voice-memo flashcards he listens to while prepping the griddle' (was 'rereads the textbook chapter the night before') since 2025-10-02.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s11",
+    "item_id": "rafael.f22",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. internship_status is now 'applied to a spring internship at Ortega Auto & Tire, pending ASE practice result' (was \"interested in the Calle Ortega shop internship but hasn't applied\") since 2025-10-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s12",
+    "item_id": "rafael.f24",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. side_hustle_stance is now 'agreed to do mechanical work on one Civic for 30% of profit, no money in' (was \"undecided on Dante's Civic-flipping plan\") since 2025-11-08.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s07",
+    "item_id": "rafael.f26",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. dulce_rides is now 'leaves the Ruel Road stand at 8:50 Fridays to get Dulce, back by 9:20' (was 'picks Dulce up from Taquería Colima Fridays at 9 p.m.') since 2025-10-04.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s11",
+    "item_id": "rafael.w10.n04",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. saturday_plan is now 'plans a Monday study block for the G1 after the weekend stand shifts' (was 'Ximena helps at the stand on Saturday Oct 11') since 2025-11-02.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.f37",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s08",
+    "item_id": "rafael.f37",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that debt_to_dante: 'owes Dante $120 for a set of borrowed sockets he lost'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s04",
+    "item_id": "rafael.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i01.e1 (2025-09-11): asks for help rescheduling a brakes-lab makeup so it won't overlap a Thursday stand shift",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s07",
+    "item_id": "rafael.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i01.e2 (2025-10-04): spends the night of the Ruel Road move drafting a setup checklist for his parents instead of studying",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s11",
+    "item_id": "rafael.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode rafael.i01.e3 (2025-10-29): writes in the internship cover letter that he can only start after 'family obligations' and asks if that sounds bad",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s13",
+    "item_id": "rafael.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i01.e4 (2025-11-16): asks how to tell his dad he wants one weekend off before the practice test, then says never mind",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s04",
+    "item_id": "rafael.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i02.e1 (2025-09-10): pastes a G1 question about refrigerant handling and says he knows it on the car but not in the words",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i02.e2 (2025-09-19): describes the alternator symptoms perfectly by sound and voltage, then asks for the textbook term",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s07",
+    "item_id": "rafael.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i02.e3 (2025-10-02): asks to turn a chapter into short spoken flashcards he can record",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s11",
+    "item_id": "rafael.i02",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode rafael.i02.e4 (2025-11-05): requests each practice answer explained as 'what you'd actually see in the bay'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s04",
+    "item_id": "rafael.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i03.e1 (2025-09-10): says he blanked on the first quiz and changed three right answers to wrong ones",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s09",
+    "item_id": "rafael.i03",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode rafael.i03.e2 (2025-10-21): asks for tricks to stop second-guessing during a timed quiz the night before one",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s10",
+    "item_id": "rafael.i03",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode rafael.i03.e3 (2025-10-22): gets 71% but asks whether it was probably luck",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s01",
+    "item_id": "rafael.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i04.e1 (2025-08-29): plans his Friday route so Dulce never waits outside Colima alone",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i04.e2 (2025-09-27): asks how to bleed Ximena's Corolla brakes after doing his own truck",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s09",
+    "item_id": "rafael.i04",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode rafael.i04.e3 (2025-10-20): wants Ximena's birthday plan to be practical and asks the assistant to word the card for him",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s13",
+    "item_id": "rafael.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i04.e4 (2025-11-13): asks how to sandbag the stand area so his mom won't have to lift anything",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i05.e2 (2025-09-18): compares three alternator prices and picks a rebuilt one to save $80",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s08",
+    "item_id": "rafael.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i05.e3 (2025-10-14): had researched used scan tools for weeks and set a $700 cap before buying",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s10",
+    "item_id": "rafael.i05",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode rafael.i05.e1 (2025-10-25): drops $750 on a scan tool and ratchet set in one afternoon",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s12",
+    "item_id": "rafael.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i05.e4 (2025-11-08): refuses to put cash into Dante's car flip, insisting on labor-only terms",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i06.e1 (2025-09-24): asks if Dante's auction-flip math is realistic",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s08",
+    "item_id": "rafael.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i06.e2 (2025-10-09): asks whether he needs a dealer license to sell more than a few cars a year",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s12",
+    "item_id": "rafael.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rafael.i06.e3 (2025-11-08): asks for a simple written agreement for labor-only profit sharing",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s13",
+    "item_id": "rafael.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rafael.i06.e4 (2025-11-10): asks how to quietly tell Dante he's out if the first car loses money",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s04",
+    "item_id": "rafael.r01",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the G1', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s07",
+    "item_id": "rafael.r02",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the new lot', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s02",
+    "item_id": "rafael.r03",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: first use of the shared term 'Salas', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.r04",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the Taco', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rafael.s05",
+    "item_id": "rafael.r05",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term \"Dante's Civics\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s11",
+    "item_id": "thao.f02",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. shift_pattern is now 'four 12-hour nights a week during charting go-live coverage, Mon/Tue/Wed/Sat' (was 'three 12-hour nights a week, 7 p.m.-7:30 a.m., usually Tue/Wed/Sat') since 2025-09-16.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s24",
+    "item_id": "thao.f03",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. shift_pattern is now 'back to three nights, now Mon/Tue/Fri' (was 'four 12-hour nights a week during charting go-live coverage, Mon/Tue/Wed/Sat') since 2025-10-13.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s19",
+    "item_id": "thao.f05",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. rent is now '$2,180/month split $1,090 each with Tomás' (was '$2,180/month for unit 207, paid alone') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s29",
+    "item_id": "thao.f13",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. phone is now \"same phone, voicemail turned off and replaced with a 'text me' greeting\" (was 'three-year-old phone, cracked screen protector, voicemail box nearly full') since 2025-10-25.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s28",
+    "item_id": "thao.f16",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. union_vote_intent is now 'decided to vote yes after the ratio incident' (was 'undecided on the union vote') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s29",
+    "item_id": "thao.f17",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. union_vote_intent is now 'voted yes on Oct 23' (was 'decided to vote yes after the ratio incident') since 2025-10-23.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s19",
+    "item_id": "thao.f19",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. household is now 'lives with Tomás in unit 207' (was 'lives alone in unit 207') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s31",
+    "item_id": "thao.f21",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. chore_split is now 'whiteboard on the fridge: Tomás does dishes and trash, she does laundry and groceries' (was 'no system; she does everything') since 2025-10-27.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s39",
+    "item_id": "thao.f25",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. rn_license_renewal is now 'CE hours complete (30/30), renewal submitted' (was 'RN license renewal due Dec 31; needs 30 CE hours, has 18') since 2025-11-08.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s37",
+    "item_id": "thao.f38",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. pto_plan is now 'swapped with Jasmine: off Nov 26-28, works Christmas Eve instead' (was 'requested Thanksgiving week off; denied') since 2025-11-05.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s21",
+    "item_id": "thao.w6.n04",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. next_family_dinner is now \"plans to bring Tomás to Hạnh's Sunday dinner in two weeks\" (was \"Sunday dinner at Hạnh's on Aug 31 with Linh\") since 2025-10-05.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s16",
+    "item_id": "thao.w5.n03",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. voicemail_count is now 'voicemail box holds about 23 unheard messages' (was '23 unheard voicemails, mostly from Hạnh') since 2025-09-25.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s19",
+    "item_id": "cast.f34",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. home is now \"moved into Thao's Marisol Gardens unit 207\" (was 'shared house with two roommates off Vinca Avenue') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s26",
+    "item_id": "cast.f51",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. job is now 'IT systems analyst at St. Anselm supporting the new charting system' (was 'IT desk lead at Ridgeline RF-4') since 2025-10-17.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s13",
+    "item_id": "thao.f39",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s16",
+    "item_id": "thao.f39",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that crush: \"admitted a lingering crush on Dr. Nikhil Mehta's polite voice on night pages\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s16",
+    "item_id": "thao.f56",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s19",
+    "item_id": "thao.f56",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the user asks the assistant to forget that opinion_of_maribel: \"vented that Maribel is a hypocrite about charting and 'writes on her glove like it's 1995'\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s04",
+    "item_id": "thao.i01",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode thao.i01.e1 (2025-09-02): asks the assistant to draft a text to the credit union asking if she can handle a card issue by chat instead of calling",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s14",
+    "item_id": "thao.i01",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode thao.i01.e2 (2025-09-21): mentions 23 unheard voicemails and asks for a way to read them as text instead",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s30",
+    "item_id": "thao.i01",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode thao.i01.e3 (2025-10-25): asks for a voicemail greeting that says 'please text me, I work nights'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s42",
+    "item_id": "thao.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode thao.i01.e4 (2025-11-12): has the assistant write out exactly what to say before calling the tire shop, then asks if they take online booking",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s04",
+    "item_id": "thao.i02",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode thao.i02.e1 (2025-09-01): sets up a recurring $50 transfer to Linh and asks how to label it so Hạnh won't see",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s24",
+    "item_id": "thao.i02",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode thao.i02.e2 (2025-10-14): asks for a list of anatomy lab practical study tricks to forward Linh before Oct 17",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s28",
+    "item_id": "thao.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i02.e3 (2025-10-19): drafts a message to Hạnh deflecting the pharmacy question on Linh's behalf",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s40",
+    "item_id": "thao.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i02.e4 (2025-11-10): researches burr grinders for Linh's birthday, comparing grind consistency specs",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s13",
+    "item_id": "thao.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i03.e1 (2025-09-17): after go-live night one, asks for a clean checklist of charting downtime procedures, no complaints",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s21",
+    "item_id": "thao.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i03.e2 (2025-10-02): asks for pros and cons of unionizing three different ways and still says she'll decide later",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s28",
+    "item_id": "thao.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i03.e3 (2025-10-20): after a 1:7 night asks for help writing a calm incident summary for Maribel, then says she's voting yes",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s43",
+    "item_id": "thao.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i03.e4 (2025-11-14): handles a storm flat on Ruel Road with a step-by-step tire-change list, no panic",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s04",
+    "item_id": "thao.i04",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode thao.i04.e1 (2025-08-29): asks for a list of heat-safe cold meals to drop at Hạnh's salon during the heat wave",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s17",
+    "item_id": "thao.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i04.e2 (2025-09-27): asks how to make a white-noise and soothing playlist to share with the exhausted neighbors in 209",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s22",
+    "item_id": "thao.i04",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode thao.i04.e3 (2025-10-08): looks up how to label fridge shelves so Tomás has his own instead of saying she's annoyed",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s45",
+    "item_id": "thao.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i04.e4 (2025-11-19): makes a freezer-meal plan for Linh's finals week",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s09",
+    "item_id": "thao.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode thao.i05.e2 (2025-09-10): asks to optimize her already labeled pantry bins by expiration date",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s22",
+    "item_id": "thao.i05",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode thao.i05.e1 (2025-10-06): complains the kitchen is a disaster and asks for a fast cleaning order — it turns out to be Tomás's first-week mess",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s32",
+    "item_id": "thao.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i05.e3 (2025-10-27): designs a fridge whiteboard chore chart with color codes",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s36",
+    "item_id": "thao.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i05.e4 (2025-11-03): asks for a laundry routine that fits a three-night week, already tracking card balance",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s13",
+    "item_id": "thao.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode thao.i06.e1 (2025-09-18): replies 'too long, just the steps' to a detailed explanation at 8 a.m.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s24",
+    "item_id": "thao.i06",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode thao.i06.e2 (2025-10-11): asks for a recipe 'in 5 lines max'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s33",
+    "item_id": "thao.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode thao.i06.e3 (2025-10-30): says 'bullet it' when asked a clarifying question about a CE course",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s39",
+    "item_id": "thao.i06",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode thao.i06.e4 (2025-11-08): thanks the assistant only when it gives a one-line answer about license renewal",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s04",
+    "item_id": "thao.r01",
+    "mode": "stated",
+    "task_type": "personal_reflection",
+    "note": "Required: first use of the shared term 'go-live', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s13",
+    "item_id": "thao.r02",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the box', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s12",
+    "item_id": "thao.r03",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term \"Ruben's sheet\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s16",
+    "item_id": "thao.r04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term '209', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "thao.s20",
+    "item_id": "thao.r05",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'the button', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s40",
+    "item_id": "noemi.f03",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. work_schedule is now 'peak season 10-hour swings, Mon-Fri 1 p.m. to 11:30 p.m. plus every other Saturday' (was 'Mon-Fri 2 p.m. to 10:30 p.m. swing shift covering the night shift handoff') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s59",
+    "item_id": "noemi.f05",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. hourly_pay is now '$31.90 an hour after a temporary lead-duties differential' (was '$29.40 an hour') since 2025-10-27.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s18",
+    "item_id": "noemi.f07",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. certification_exam_date is now 'exam booked for Saturday Nov 8, 9 a.m., testing center in Tamsen city' (was 'studying for an entry network certification on weekends') since 2025-09-12.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s53",
+    "item_id": "noemi.f08",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. certification_exam_date_revised is now 'rescheduled to Saturday Dec 6 because of overtime' (was 'exam booked for Saturday Nov 8, 9 a.m., testing center in Tamsen city') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s73",
+    "item_id": "noemi.f11",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. practice_test_score_latest is now 'averaging 80% after the subnetting drills' (was 'averaging 71% on practice exams (pass line ~75%)') since 2025-11-10.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s64",
+    "item_id": "noemi.f23",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. password_manager is now 'moved personal accounts into a password manager' (was 'reuses one password for nearly all personal accounts') since 2025-11-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s68",
+    "item_id": "noemi.f31",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. job_search is now 'applying outside Ridgeline for network tech roles, incl. St. Anselm IT' (was 'wants the RF-4 IT desk lead role') since 2025-11-05.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s62",
+    "item_id": "noemi.f55",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. resume_version is now 'new one-page resume listing RF-4 lead-coverage work' (was 'resume last updated 2022') since 2025-10-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s54",
+    "item_id": "noemi.w9.n03",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. study_plan is now 'adds a daily subnetting drill set before each swing' (was 'following a 12-week study plan toward the Nov 8 exam') since 2025-10-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s50",
+    "item_id": "noemi.f43",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s53",
+    "item_id": "noemi.f43",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the user asks the assistant to forget that opinion_of_victor: \"thinks Victor is a credit-stealing ladder-climber who can't reimage a laptop\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s30",
+    "item_id": "noemi.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i01.e1 (2025-09-24): drafts her self-review and cuts the line about rebuilding the scanner RMA process to 'helped with RMAs'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s53",
+    "item_id": "noemi.i01",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode noemi.i01.e2 (2025-10-20): asks for help writing an email to Rhonda that 'mentions' she's covering Greg's duties without asking for anything",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s63",
+    "item_id": "noemi.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i01.e3 (2025-10-30): needs to be talked into listing lead-coverage duties on her resume as her own",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s75",
+    "item_id": "noemi.i01",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode noemi.i01.e4 (2025-11-12): wants a cover letter that says 'supported the team' instead of 'ran the desk during peak'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s12",
+    "item_id": "noemi.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode noemi.i02.e1 (2025-09-04): asks for a simple analogy to teach Bao how scanner Wi-Fi roaming works",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s42",
+    "item_id": "noemi.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode noemi.i02.e2 (2025-10-08): wants a quick printout for night pickers on rebooting frozen handhelds, in plain words and Spanish",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s48",
+    "item_id": "noemi.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode noemi.i02.e3 (2025-10-14): vents about a director email demanding a 'root cause' for dead batteries by end of day and asks to make her reply 'less rude'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s69",
+    "item_id": "noemi.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i02.e4 (2025-11-06): rewrites a reply to Victor three times to strip out sarcasm",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s16",
+    "item_id": "noemi.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i03.e1 (2025-09-10): asks for a phishing-awareness poster for the break room on the same night she logs into a game with her usual password",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s36",
+    "item_id": "noemi.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i03.e2 (2025-10-02): wants help wording a lecture to night shift about sharing badge PINs",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s62",
+    "item_id": "noemi.i03",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode noemi.i03.e3 (2025-10-29): gets a breach alert on an old shopping account and asks what else uses that password",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s65",
+    "item_id": "noemi.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i03.e4 (2025-11-01): spends Saturday migrating accounts into a password manager and asks for a checklist",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s21",
+    "item_id": "noemi.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i04.e1 (2025-09-14): asks how to split the car repair cost in Iris's budget sheet",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s45",
+    "item_id": "noemi.i04",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode noemi.i04.e2 (2025-10-11): forwards Iris's suggested study calendar and asks to tweak it around overtime",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s66",
+    "item_id": "noemi.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i04.e3 (2025-11-02): books the anniversary dinner only after Iris drops hints and asks what restaurant Iris would pick",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s81",
+    "item_id": "noemi.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i04.e4 (2025-11-18): asks for a gift idea that fits Iris's love of lists",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s19",
+    "item_id": "noemi.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i05.e2 (2025-09-13): asks for a 12-week study plan the day after booking the exam",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s53",
+    "item_id": "noemi.i05",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode noemi.i05.e1 (2025-10-20): pushes the exam from Nov 8 to Dec 6 because of overtime",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s59",
+    "item_id": "noemi.i05",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode noemi.i05.e3 (2025-10-26): does subnetting drills between overtime days and asks for harder problems",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s74",
+    "item_id": "noemi.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i05.e4 (2025-11-10): shares a practice score jump to 80% and asks what to drill next",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s35",
+    "item_id": "noemi.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i06.e4 (2025-09-30): calls the self-review 'the boss fight' and asks to cut it down",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s50",
+    "item_id": "noemi.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i06.e1 (2025-10-17): says Victor 'got the loot drop' and asks for help drafting a congrats message",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s54",
+    "item_id": "noemi.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode noemi.i06.e2 (2025-10-21): calls overtime week 'hardcore mode' while asking for a meal-prep list",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s69",
+    "item_id": "noemi.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode noemi.i06.e3 (2025-11-05): describes job searching as 'checking other servers' when asking for job-posting keywords",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s03",
+    "item_id": "noemi.r01",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: first use of the shared term 'the cage', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s11",
+    "item_id": "noemi.r02",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the RMA sheet', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s19",
+    "item_id": "noemi.r03",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the boss fight', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s50",
+    "item_id": "noemi.r04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'Acting Victor', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "noemi.s41",
+    "item_id": "noemi.r05",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'red-beep night', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s21",
+    "item_id": "jun.f03",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. cafe_schedule is now 'Tue-Sat, three openers plus two 2-9 p.m. closers after the cafe extended hours' (was 'Mon-Fri 6:15 a.m. to 2:30 p.m. opening shifts') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s40",
+    "item_id": "jun.f04",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. cafe_schedule is now \"cut to four shifts a week, Tue-Fri openers, to free weekends for Lola's Roll\" (was 'Tue-Sat, three openers plus two 2-9 p.m. closers after the cafe extended hours') since 2025-11-10.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s29",
+    "item_id": "jun.f07",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. home is now 'sublet room in a fourplex off Vinca Avenue, shared bathroom, street parking only' (was \"his childhood bedroom in Tess's house off Vinca Avenue\") since 2025-10-18.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s29",
+    "item_id": "jun.f09",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. rent is now '$950 a month for the sublet room, due on the 1st by Zelle' (was 'pays Tess $400 a month toward the house') since 2025-10-18.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s08",
+    "item_id": "jun.f12",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. cottage_permit_status is now 'application filed with the county, waiting on review' (was 'cottage food permit application not yet filed') since 2025-09-09.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s22",
+    "item_id": "jun.f13",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. cottage_permit_status is now \"told fried lumpia with shrimp doesn't qualify as cottage food; must use a commissary and get a county health permit instead\" (was 'application filed with the county, waiting on review') since 2025-10-02.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s33",
+    "item_id": "jun.f14",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. cottage_permit_status is now 'county health permit approved for commissary-prepared food, permit posted on the stall banner' (was \"told fried lumpia with shrimp doesn't qualify as cottage food; must use a commissary and get a county health permit instead\") since 2025-10-29.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s17",
+    "item_id": "jun.f16",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. commissary_booking is now 'standing Friday 5-9 p.m. block at the Ruel Road commissary' (was 'ad hoc 3-hour blocks at the Ruel Road commissary when he can afford them') since 2025-09-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s35",
+    "item_id": "jun.f18",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. market_slot is now 'assigned a Sunday stall at the Delgado Park farmers market, row C near the bandstand' (was \"on Rick Dominguez's waitlist for a Delgado Park Sunday market slot\") since 2025-11-02.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s26",
+    "item_id": "jun.f20",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. lumpia_price is now '$12 for a half dozen, $22 a dozen, after wrapper and shrimp costs went up' (was '$10 for a half dozen at the Heron & Grind counter') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s35",
+    "item_id": "jun.f22",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. weekly_batch_size is now 'about 400 lumpia a week split between Saturday counter and Sunday market' (was 'about 150 lumpia per Saturday') since 2025-11-02.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s21",
+    "item_id": "jun.f24",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. bookkeeping_method is now 'shared spreadsheet Linh set up, with tabs for ingredients, kitchen hours and sales' (was 'receipts in a shoebox and notes app totals') since 2025-09-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s33",
+    "item_id": "jun.f26",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. payment_method is now 'card reader on his phone under a business account' (was 'cash only plus personal payment app') since 2025-10-25.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s33",
+    "item_id": "jun.f55",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. profit_split is now 'renegotiated to 70/30 Jun/Paolo after missed prep, Paolo keeps Instagram and market setup' (was \"Lola's Roll profits split 60/40 Jun/Paolo\") since 2025-10-26.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s14",
+    "item_id": "jun.f49",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s17",
+    "item_id": "jun.f49",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user asks the assistant to forget that debt_to_paolo: 'owes Paolo $260 for shrimp Paolo fronted in September'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s39",
+    "item_id": "jun.f63",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s42",
+    "item_id": "jun.f63",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the user asks the assistant to forget that crush: 'has a crush on Lourdes, the woman who runs the hot sauce booth at the market'.",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s06",
+    "item_id": "jun.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i01.e1 (2025-09-04): Asks the assistant to just tell him which box to check on the permit form, then admits it's been open in a tab for two weeks",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s19",
+    "item_id": "jun.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i01.e2 (2025-09-27): Pastes a photo-transcribed pile of receipts and asks if he can just 'guess' the September ingredient total",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s23",
+    "item_id": "jun.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i01.e3 (2025-10-02): After the county email says lumpia isn't cottage food, drafts a friendly message to Rick within minutes but leaves the health permit packet unopened until the weekend",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s41",
+    "item_id": "jun.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i01.e4 (2025-11-12): Wants help writing a cheerful preorder post but says he'll 'do the tax part later' when asked about collecting sales tax",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s08",
+    "item_id": "jun.i02",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode jun.i02.e1 (2025-09-07): Rewrites the lumpia filling ratio after Tess calls the batch 'too much onion,' even though it sold out",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s26",
+    "item_id": "jun.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i02.e2 (2025-10-11): Asks for help wording a price-increase sign and worries more about what Tess will say than customers",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s30",
+    "item_id": "jun.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i02.e3 (2025-10-18): Moving into the sublet, asks how to explain to Tess that he's not quitting coffee for nursing, just leaving home",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s36",
+    "item_id": "jun.i02",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode jun.i02.e4 (2025-11-03): Shares a photo caption crediting Tess's recipe and asks if 'Lola-approved, Mom-tested' sounds cheesy",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s43",
+    "item_id": "jun.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i02.e5 (2025-11-16): Mentions Tess came to the market stall and said nothing about the wrappers, which he reads as high praise",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s11",
+    "item_id": "jun.i03",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode jun.i03.e1 (2025-09-12): Asks the assistant to calculate cost per lumpia 'so I don't have to bug my coworker again'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s21",
+    "item_id": "jun.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode jun.i03.e2 (2025-09-30): After Linh builds the spreadsheet, asks for a thank-you gift idea that isn't coffee",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s29",
+    "item_id": "jun.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode jun.i03.e3 (2025-10-17): Wants a formula fixed in the sales tab but says not to change her color coding",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s38",
+    "item_id": "jun.i03",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i03.e4 (2025-11-06): Asks how to offer Linh paid help on market Sundays without making it weird at work",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s14",
+    "item_id": "jun.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i04.e1 (2025-09-19): Asks for a prep plan he can run solo 'in case Paolo's running late again'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s23",
+    "item_id": "jun.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i04.e2 (2025-10-04): Drafts a group text to Paolo, then softens it three times into a joke",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s33",
+    "item_id": "jun.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode jun.i04.e3 (2025-10-24): Rolls 200 lumpia alone at the commissary and asks for hand-stretch tips at midnight",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s34",
+    "item_id": "jun.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i04.e4 (2025-10-26): Asks for help writing a clear proposal changing the profit split, and keeps the firm version",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s43",
+    "item_id": "jun.i04",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i04.e5 (2025-11-15): Sends Paolo a set call time for market setup and doesn't apologize for it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s02",
+    "item_id": "jun.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i05.e1 (2025-08-29): Buys 12 cases of wrappers on sale before he has any permit",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s27",
+    "item_id": "jun.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode jun.i05.e2 (2025-10-15): Signs the sublet lease after one viewing, then asks whether $950 fits his budget",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s34",
+    "item_id": "jun.i05",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode jun.i05.e3 (2025-11-01): Orders the canopy the night before the market slot is confirmed",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s41",
+    "item_id": "jun.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode jun.i05.e4 (2025-11-10): Drops a cafe shift for weekends and only then asks how to make up the rent difference",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s09",
+    "item_id": "jun.i06",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode jun.i06.e2 (2025-09-10): Asks for a training checklist to teach Linh microfoam texture properly",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s25",
+    "item_id": "jun.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode jun.i06.e1 (2025-10-08): Forgets to restock oat milk before a closing shift because he was thinking about the permit; Beatrice leaves a note",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s31",
+    "item_id": "jun.i06",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode jun.i06.e3 (2025-10-20): Wants a better closing checklist for the new 9 p.m. hours so the night crew isn't stuck",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s46",
+    "item_id": "jun.i06",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode jun.i06.e4 (2025-11-19): Asks how to dial in a new bean blend because Wes said the cortado tasted flat",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s05",
+    "item_id": "jun.r01",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the shoebox', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s17",
+    "item_id": "jun.r02",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term \"Joan's fryer rule\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s06",
+    "item_id": "jun.r03",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the Saturday table', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s07",
+    "item_id": "jun.r04",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the onion verdict', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "jun.s21",
+    "item_id": "jun.r05",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term \"Linh's sheet\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s53",
+    "item_id": "elliot.f04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. return_to_work_date is now 'Monday Jan 5, 2026, after adding three weeks of vacation; first month hybrid' (was 'Monday Dec 1, 2025') since 2025-10-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s31",
+    "item_id": "elliot.f10",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. baby_tracking_tool is now 'a baby-tracker phone app shared with Hana and Judith, plus a weekly summary tab in the old spreadsheet' (was \"a Google-style spreadsheet with tabs for feeds, naps, diapers and 'incidents'\") since 2025-09-29.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s18",
+    "item_id": "elliot.f12",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. sleep_location is now \"crib in the nursery half of the spare room, white-noise machine on 'rain'\" (was \"bassinet beside Elliot and Hana's bed\") since 2025-09-14.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s08",
+    "item_id": "elliot.f14",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. formula_type is now 'gentle/partially hydrolyzed formula after Dr. Fong suggested it for fussiness' (was 'standard store-brand powder formula') since 2025-09-03.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s37",
+    "item_id": "elliot.f16",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. nap_schedule is now 'three crib naps around 9, 12:30 and 4, with 90-minute wake windows' (was 'naps on demand, mostly contact naps on Elliot') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s71",
+    "item_id": "elliot.f18",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. childcare_plan is now 'infant spot at Little Egrets Learning Center on Pell Road starting Jan 5, $1,850/month' (was 'on waitlists at two daycare centers') since 2025-11-10.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s64",
+    "item_id": "elliot.f20",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. weekday_role is now 'primary daytime parent while Hana works, Judith helping weekdays' (was 'shares daytime care with Hana while both are on leave') since 2025-11-03.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s06",
+    "item_id": "elliot.f22",
+    "mode": "stated",
+    "task_type": "personal_reflection",
+    "note": "Required: the change. grocery_method is now 'Saturday morning trip to Ruiz Family Market with Theo in the carrier, delivery only for diapers' (was 'app delivery orders two or three times a week') since 2025-08-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s70",
+    "item_id": "elliot.f24",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. dinner_routine is now 'Sunday batch-cooking of two dishes for the week while Theo naps' (was 'takeout or frozen meals nearly every night') since 2025-11-09.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s42",
+    "item_id": "elliot.f26",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. vehicle is now 'used 2019 small crossover bought from a Ruel Road dealer for $17,400' (was '2014 compact hatchback that barely fits the stroller') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s25",
+    "item_id": "elliot.f28",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. fitness_routine is now '40-minute stroller walk on the Ulloa Salt Marsh boardwalk most mornings' (was 'none since Theo was born') since 2025-09-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s74",
+    "item_id": "elliot.f29",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. fitness_routine is now 'stroller laps around Delgado Park after the marsh trail flooded' (was '40-minute stroller walk on the Ulloa Salt Marsh boardwalk most mornings') since 2025-11-13.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s46",
+    "item_id": "elliot.w8.n02",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. training_progress is now 'finished module 3 of the reassessment-software training' (was 'finished first reassessment-software training module') since 2025-10-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s53",
+    "item_id": "elliot.w9.n04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. training_progress is now 'finished the first module of the online reassessment-software training' (was 'finished module 3 of the reassessment-software training') since 2025-10-22.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s75",
+    "item_id": "elliot.w12.n05",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. training_progress is now 'finished first module of reassessment-software training' (was 'finished the first module of the online reassessment-software training') since 2025-11-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s64",
+    "item_id": "cast.f67",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. job_status is now 'back full time as Bayshore State admissions counselor' (was 'on maternity leave from Bayshore State admissions') since 2025-11-03.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s51",
+    "item_id": "cast.f73",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. home is now \"staying weekdays in Elliot's spare room at Marisol Gardens\" (was 'condo in Tamsen city across the valley') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s13",
+    "item_id": "elliot.f33",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s16",
+    "item_id": "elliot.f33",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user asks the assistant to forget that opinion_of_brenda: \"told the assistant he thinks Brenda is a clipboard with a pulse who can't let anyone breathe\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s03",
+    "item_id": "elliot.i01",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode elliot.i01.e1 (2025-08-27): asks the assistant to build a heat-wave checklist with room temperatures and onesie layers per degree during the 100-degree days",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s17",
+    "item_id": "elliot.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i01.e2 (2025-09-12): pastes 9 days of nap times and asks for a regression analysis of wake windows",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s41",
+    "item_id": "elliot.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode elliot.i01.e3 (2025-10-09): wants a weighted comparison matrix of four used crossovers, including rear-door opening angle",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s67",
+    "item_id": "elliot.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode elliot.i01.e4 (2025-11-06): asks for a pros and cons table for two daycare centers with a column for 'vibe'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s11",
+    "item_id": "elliot.i02",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode elliot.i02.e1 (2025-09-05): at 3 a.m. opens with 'rate my parenting: I put the diaper on backwards, twice' before asking whether bottle refusal is serious",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s35",
+    "item_id": "elliot.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode elliot.i02.e2 (2025-10-02): calls himself 'Employee of the Month at Burnt Toast Inc.' while asking for a meal plan he can do one-handed",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s65",
+    "item_id": "elliot.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i02.e3 (2025-11-04): on Hana's second day back, writes 'day 2 solo, the baby is winning 14-0' and then asks how to get Theo to nap without being held",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s75",
+    "item_id": "elliot.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode elliot.i02.e4 (2025-11-14): after the storm cancels his walk, says 'cool cool cool' and asks for indoor things to do with a four-month-old",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s53",
+    "item_id": "elliot.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode elliot.i03.e1 (2025-10-21): asks for a 'gentle, non-offensive' way to say the mugs go back on the low shelf, then decides not to send it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s59",
+    "item_id": "elliot.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i03.e2 (2025-10-28): asks how to relabel the fridge bins so they look like Judith's system 'but aren't'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s69",
+    "item_id": "elliot.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode elliot.i03.e3 (2025-11-07): drafts a text to Judith about not swaddling Theo anymore and asks the assistant to make it sound like Dr. Fong's idea",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s74",
+    "item_id": "elliot.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode elliot.i03.e4 (2025-11-12): plans Sunday batch cooking for the weekends partly so Judith isn't there to rearrange it",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s21",
+    "item_id": "elliot.i04",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode elliot.i04.e1 (2025-09-18): asks how to shift the 5 a.m. feed to himself too 'just for a while' without saying it's because she's exhausted",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s47",
+    "item_id": "elliot.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i04.e2 (2025-10-15): asks for a script to decline a visit from Hana's coworkers, saying she 'has a lot going on'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s65",
+    "item_id": "elliot.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i04.e3 (2025-11-03): asks for lunch ideas he can pack for Hana the night before her first day back",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s72",
+    "item_id": "elliot.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i04.e4 (2025-11-10): schedules daycare tours on a day Hana's at work so she 'doesn't have to think about it'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s32",
+    "item_id": "elliot.i05",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode elliot.i05.e1 (2025-09-29): lets Brenda's emails go unanswered for a week while Theo has his first cold, then asks for help catching up",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s36",
+    "item_id": "elliot.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode elliot.i05.e2 (2025-10-03): asks for a summary of the new reassessment rules so he isn't behind in January",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s55",
+    "item_id": "elliot.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode elliot.i05.e3 (2025-10-24): drafts transition notes for the colleague covering his appeal files",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s76",
+    "item_id": "elliot.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode elliot.i05.e4 (2025-11-15): asks the assistant to quiz him on training module terms during Theo's nap",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s06",
+    "item_id": "elliot.i06",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode elliot.i06.e1 (2025-08-29): asks for wording for a sorry note and a pan dulce gift for unit 211 after a crying night",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s27",
+    "item_id": "elliot.i06",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode elliot.i06.e2 (2025-09-24): wants to buy acoustic foam for the shared wall after another taped note",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s61",
+    "item_id": "elliot.i06",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode elliot.i06.e3 (2025-10-30): asks how to word a reply saying babies cry and that he's doing his best",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s72",
+    "item_id": "elliot.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode elliot.i06.e4 (2025-11-11): asks for help with a firm email to Gloria about the faucet, with dates attached and no apology",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s02",
+    "item_id": "elliot.r01",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'the log', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s05",
+    "item_id": "elliot.r02",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term '211', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s07",
+    "item_id": "elliot.r03",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the witching hour', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s23",
+    "item_id": "elliot.r04",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: first use of the shared term 'the Grandma effect', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "elliot.s13",
+    "item_id": "elliot.r05",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: first use of the shared term 'the Monday email', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s10",
+    "item_id": "rochelle.f03",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. fall_courses is now 'Anatomy & Physiology I plus Intro Chemistry, and added a 1-unit medical terminology online course' (was 'Anatomy & Physiology I (Okoye, MWF 9 a.m. + Wed lab) and Intro Chemistry (Tue/Thu 11 a.m.)') since 2025-09-12.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s24",
+    "item_id": "rochelle.f07",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the change. employment is now 'Saturday shifts at the Vinca Avenue Community Center senior lunch program, 8 a.m.-1 p.m., $18/hr' (was 'not working, full-time student') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s19",
+    "item_id": "rochelle.f11",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. monthly_budget_for_school is now '$175 a month after the car repair; buying used and renting e-texts' (was '$250 a month for books, parking and supplies') since 2025-10-01.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s15",
+    "item_id": "rochelle.f13",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. financial_aid is now 'Pell grant approved, first disbursement $1,980 on Sept 24' (was 'Pell grant application pending; fee waiver approved') since 2025-09-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s16",
+    "item_id": "rochelle.f16",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. car_status is now 'in the shop on Ruel Road for a transmission solenoid; Keisha driving her' (was 'running, check-engine light on and ignored') since 2025-09-26.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s20",
+    "item_id": "rochelle.f17",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. car_status is now 'fixed for $640, paid from savings' (was 'in the shop on Ruel Road for a transmission solenoid; Keisha driving her') since 2025-10-03.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s28",
+    "item_id": "rochelle.f21",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. study_method is now 'index cards plus printed practice quizzes from the library, timing herself with a kitchen timer' (was 'handwritten index cards color-banded by body system') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s32",
+    "item_id": "rochelle.f23",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. study_group_attendance is now 'committed to every Tuesday group; Aaliyah covers the 4 p.m. pickups' (was \"goes to Pedro's Tuesday 4 p.m. group when errands allow, about every other week\") since 2025-10-28.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s27",
+    "item_id": "rochelle.f26",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. grade_anatomy is now 'scored 84 on the Oct 17 lab practical, overall B' (was '72% after first quiz block') since 2025-10-17.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s42",
+    "item_id": "rochelle.f29",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. spring_registration is now 'registered for Anatomy II and Microbiology; microbiology waitlisted #4' (was 'registration window opens Nov 18; plans Anatomy II and Microbiology') since 2025-11-18.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s15",
+    "item_id": "rochelle.f31",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. laptop is now 'refurbished laptop bought for $310 with Pell money' (was 'hand-me-down laptop from Keisha with a cracked hinge and 40-minute battery') since 2025-09-24.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s21",
+    "item_id": "cast.f77",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. shift_schedule is now 'mandatory 10-hour days, 5 a.m. to 3:30 p.m.' (was 'days, 6 a.m. to 2:30 p.m.') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s08",
+    "item_id": "cast.f79",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. job is now 'dispatcher at AFUSD transportation office' (was 'school bus driver for Alcaraz Flats Unified') since 2025-09-08.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s01",
+    "item_id": "rochelle.f47",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s04",
+    "item_id": "rochelle.f47",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the user asks the assistant to forget that debt_to_keisha: \"owes Keisha $300 borrowed for textbooks in August, hasn't told Andre\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s12",
+    "item_id": "rochelle.f59",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s15",
+    "item_id": "rochelle.f59",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the user asks the assistant to forget that opinion_of_okoye: \"thinks Dr. Okoye is cold and 'enjoys watching people sweat'\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s08",
+    "item_id": "rochelle.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode rochelle.i01.e1 (2025-09-09): asks for a quick anatomy summary because she skipped study group to drive Loretta to the pharmacy",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s18",
+    "item_id": "rochelle.i01",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode rochelle.i01.e2 (2025-09-30): rewrites her weekly study plan to fit around picking DeShawn up from practice and Andre's dinner",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s27",
+    "item_id": "rochelle.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i01.e3 (2025-10-14): wants a meal plan for Andre's 10-hour days before she asks anything about the practical three days away",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s40",
+    "item_id": "rochelle.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i01.e4 (2025-11-12): drafts a text telling Keisha she can't help move a couch, deletes it, and asks how to cram the brachial plexus in 40 minutes instead",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s08",
+    "item_id": "rochelle.i02",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode rochelle.i02.e1 (2025-09-05): asks what happens if her browser freezes during a Canvas quiz, before it's even open",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s12",
+    "item_id": "rochelle.i02",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i02.e2 (2025-09-18): says she got 9/10 when Okoye quizzed her out loud but 5/10 on the same material online",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s28",
+    "item_id": "rochelle.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i02.e3 (2025-10-20): asks for printable practice questions so she can 'do them like a real test' with a kitchen timer",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s36",
+    "item_id": "rochelle.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i02.e4 (2025-11-06): pastes a medical terminology quiz instruction screen and asks if the timer pauses if she leaves the tab",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s02",
+    "item_id": "rochelle.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i03.e1 (2025-08-28): calls the $160 lab manual 'seven and a half hours on the line' and asks if an older edition works",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s16",
+    "item_id": "rochelle.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i03.e2 (2025-09-24): compares three refurbished laptops down to the cost of the charger before spending Pell money",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s20",
+    "item_id": "rochelle.i03",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode rochelle.i03.e3 (2025-10-02): asks whether $640 for a solenoid is fair and what she should have asked the shop",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s39",
+    "item_id": "rochelle.i03",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode rochelle.i03.e4 (2025-11-10): wants a Thanksgiving menu for 14 under $120 and asks which sides people can be told to bring",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s02",
+    "item_id": "rochelle.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i04.e1 (2025-08-27): replies 'ok but which one' after a long comparison of two study apps",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s12",
+    "item_id": "rochelle.i04",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i04.e2 (2025-09-16): asks for just the three things to memorize for the heart chambers, 'no essay'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s23",
+    "item_id": "rochelle.i04",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode rochelle.i04.e3 (2025-10-09): says 'just tell me if this email to Denny sounds dumb' and only wants the fix",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s40",
+    "item_id": "rochelle.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i04.e4 (2025-11-14): cuts off a supportive preamble with 'I know I can do it, what's the answer'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s15",
+    "item_id": "rochelle.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode rochelle.i05.e1 (2025-09-22): says 'a C is a C, whatever' after a bad quiz week while the car was acting up",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s27",
+    "item_id": "rochelle.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i05.e2 (2025-10-18): asks how to compute exactly what she needs on the final to keep a B after the 84 on the practical",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s34",
+    "item_id": "rochelle.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i05.e3 (2025-11-04): asks which spring nursing programs weight prereq GPA and how much an A in Anatomy II would raise hers",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s43",
+    "item_id": "rochelle.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i05.e4 (2025-11-19): asks to email Okoye about two points on a lab quiz and wants the wording firm but polite",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s07",
+    "item_id": "rochelle.i06",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode rochelle.i06.e1 (2025-09-03): asks for a way to pay Keisha back in small amounts 'that don't show up on the joint account'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s21",
+    "item_id": "rochelle.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i06.e2 (2025-10-06): builds a budget sheet but labels the car repair 'misc' before showing it to Andre",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s30",
+    "item_id": "rochelle.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i06.e3 (2025-10-25): asks how to tell Andre he doesn't need to take every overtime shift without sounding like money is tight",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s37",
+    "item_id": "rochelle.i06",
+    "mode": "hinted",
+    "task_type": "personal_reflection",
+    "note": "Required: show, never name, through episode rochelle.i06.e4 (2025-11-08): asks if she should take more senior-center hours rather than ask Andre about the propane bill",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s10",
+    "item_id": "rochelle.i07",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode rochelle.i07.e1 (2025-09-11): asks if the kidney nephron is basically a sort line with rejects going back on the belt",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s19",
+    "item_id": "rochelle.i07",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode rochelle.i07.e2 (2025-10-01): explains ATP to Aaliyah as 'the scanner battery' and asks if that's close enough",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s27",
+    "item_id": "rochelle.i07",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i07.e3 (2025-10-16): wants muscle origins and insertions explained like 'which end is bolted down'",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s42",
+    "item_id": "rochelle.i07",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode rochelle.i07.e4 (2025-11-17): asks for a mnemonic for cranial nerves using names of her family members",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s08",
+    "item_id": "rochelle.r01",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'Gus', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s12",
+    "item_id": "rochelle.r02",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the practical', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s04",
+    "item_id": "rochelle.r03",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: first use of the shared term 'the van', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s07",
+    "item_id": "rochelle.r04",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: first use of the shared term \"Denny's map\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "rochelle.s08",
+    "item_id": "rochelle.r05",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: first use of the shared term 'Loretta Tuesdays', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s07",
+    "item_id": "grace.f08",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. car is now '2019 used blue hatchback bought from a Tamsen lot, $14,200 financed' (was '2012 silver minivan with 168,000 miles') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s07",
+    "item_id": "grace.f10",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. car_payment is now '$318 a month for 48 months, first payment due Nov 15' (was 'no car payment') since 2025-10-11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s05",
+    "item_id": "grace.f17",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. lab_supply_budget is now '$900 plus a $650 parent-club mini-grant approved Sept 26' (was '$900 for the semester for all five sections') since 2025-09-26.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s04",
+    "item_id": "grace.f19",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: the change. absence_report_method is now 'uses a spreadsheet template she built that auto-flags students with 3+ absences; submits Friday 3:30' (was \"fills Principal Ocampo's weekly absence form by hand from the gradebook every Friday\") since 2025-09-15.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s09",
+    "item_id": "grace.f21",
+    "mode": "stated",
+    "task_type": "writing_edit",
+    "note": "Required: the change. side_duty is now 'dropped Science Olympiad to Dana; now only covers Tuesday lunch lab-makeup sessions' (was 'Science Olympiad co-advisor, Wednesday 3:15-4:30 in B12') since 2025-10-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s11",
+    "item_id": "grace.f23",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. safety_audit is now 'passed the Oct 30 audit with one note: relabel the acids cabinet by Dec 1' (was 'district chemical-storage audit of B12 scheduled for Oct 30') since 2025-10-30.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s07",
+    "item_id": "grace.f33",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. fitness is now '5:45 a.m. walks on the Ulloa Salt Marsh boardwalk with Dana on Tuesdays and Thursdays' (was 'walks Delgado Park loop after dinner three nights a week') since 2025-10-06.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s11",
+    "item_id": "grace.f42",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. mobility is now 'uses a cane after a slip on the back step Nov 2; Grace installed a grab rail' (was 'walks without help') since 2025-11-03.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s12",
+    "item_id": "grace.f46",
+    "mode": "stated",
+    "task_type": "practical_guidance",
+    "note": "Required: the change. family_budget_cap_college is now 'agreed to consider schools up to $32,000 a year net if Isabel takes a campus job' (was 'told Isabel the family can cover at most $25,000 a year') since 2025-11-09.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s10",
+    "item_id": "grace.f48",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. isabel_curfew_rule is now 'home by 11 p.m. on weekends, text at 9 with location' (was 'home by 10 p.m. on weekends') since 2025-10-25.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s06",
+    "item_id": "grace.f57",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the change. third_period_seating is now 'rebuilt lab-pair chart after hallway drama, separating feuding sophomores; posted Sept 29' (was 'lab-pair chart for third period') since 2025-09-29.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s05",
+    "item_id": "grace.w4.n05",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: the change. essay_status is now 'college essay draft is overdue' (was 'has only an outline for her main college essay') since 2025-09-20.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s10",
+    "item_id": "grace.w9.n03",
+    "mode": "stated",
+    "task_type": "technical_help",
+    "note": "Required: the change. weekend_plan is now 'wrote a one-page weekend plan with check-in times for Grace' (was 'went to the Friday football game with Nadia') since 2025-10-25.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s03",
+    "item_id": "grace.f58",
+    "mode": "stated",
+    "task_type": "tutoring",
+    "note": "Required: the user tells the assistant this.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s06",
+    "item_id": "grace.f58",
+    "mode": "stated",
+    "task_type": "multimedia",
+    "note": "Required: the user asks the assistant to forget that opinion_of_patricia: \"thinks Patricia Ocampo cares more about attendance graphs than about kids and calls her 'the dashboard'\".",
+    "forget_request": true,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s03",
+    "item_id": "grace.i01",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode grace.i01.e1 (2025-09-07): Asks for help writing a gentle, encouraging note to a struggling third-period student, then in the same chat asks for a 'firm list of rules' to tape to Isabel's door about phone use after 11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s05",
+    "item_id": "grace.i01",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode grace.i01.e2 (2025-09-21): Gives a student a lab extension without question but wants the assistant to confirm that Isabel missing an essay draft deadline 'shows a pattern'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s09",
+    "item_id": "grace.i01",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode grace.i01.e3 (2025-10-19): Rewrites a parent email three times to soften it, but sends Isabel a one-line text 'Dishes. Now.' and asks the assistant whether that was too harsh only after Isabel stops talking to her.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s13",
+    "item_id": "grace.i01",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i01.e4 (2025-11-16): Plans conference talking points praising students' effort, then complains Isabel's 4.1 'isn't the point if she can't manage her time'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s04",
+    "item_id": "grace.i02",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode grace.i02.e1 (2025-09-14): Asks for a tuition comparison and immediately adds a column for 'if Ramón gets hurt' and 'if Nanay needs a care facility'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s06",
+    "item_id": "grace.i02",
+    "mode": "hinted",
+    "task_type": "multimedia",
+    "note": "Required: show, never name, through episode grace.i02.e2 (2025-10-05): When the minivan dies she asks for the cheapest possible car and dismisses a reliable option $1,800 more as 'reckless'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s10",
+    "item_id": "grace.i02",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode grace.i02.e3 (2025-10-26): Builds a holiday budget then asks whether to skip Thanksgiving extras in case the furnace goes.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s12",
+    "item_id": "grace.i02",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i02.e4 (2025-11-09): Agrees to a higher college cap only after asking for a month-by-month cash projection through 2030.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s05",
+    "item_id": "grace.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode grace.i03.e1 (2025-09-24): Asks for help reorganizing Corazón's pill organizer schedule at 10 p.m., noting she'll do it before Ramón gets home so he 'doesn't fuss'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s08",
+    "item_id": "grace.i03",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i03.e2 (2025-10-12): Wants a script to ask Lola Cora about her meter readings without sounding like she's checking up.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s11",
+    "item_id": "grace.i03",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode grace.i03.e3 (2025-11-03): Researches grab rails and installs one herself the day after the slip rather than waiting for Ramón's day off.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s04",
+    "item_id": "grace.i04",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode grace.i04.e1 (2025-09-14): Shuts down a conversation about a Colorado school by citing a sticker price.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s07",
+    "item_id": "grace.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i04.e2 (2025-10-07): After Isabel's counselor meeting, asks the assistant to explain net price calculators and seems surprised by the aid numbers.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s10",
+    "item_id": "grace.i04",
+    "mode": "hinted",
+    "task_type": "technical_help",
+    "note": "Required: show, never name, through episode grace.i04.e3 (2025-10-25): Loosens curfew after Isabel shows her a written plan with location check-ins.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s12",
+    "item_id": "grace.i04",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i04.e4 (2025-11-09): Raises the budget cap after running three net-price estimates herself.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s02",
+    "item_id": "grace.i05",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode grace.i05.e1 (2025-08-31): Replies 'just the steps please' when the assistant explains why a lab procedure works before listing it.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s04",
+    "item_id": "grace.i05",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode grace.i05.e2 (2025-09-15): Asks for spreadsheet formulas and pastes back the one cell that failed with only 'fix'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s08",
+    "item_id": "grace.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i05.e3 (2025-10-12): Asks to cut a parent email to under 120 words and to remove 'I hope this finds you well'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s13",
+    "item_id": "grace.i05",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i05.e4 (2025-11-16): Requests conference talking points 'as bullets, three per kid, no fluff'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s03",
+    "item_id": "grace.i06",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode grace.i06.e2 (2025-09-07): Spends a Sunday redesigning a density lab so it costs under $40 for all five sections.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s08",
+    "item_id": "grace.i06",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i06.e3 (2025-10-16): Prepares a full inquiry lab on flame tests for Patricia's observation and asks for three differentiation tweaks.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s09",
+    "item_id": "grace.i06",
+    "mode": "hinted",
+    "task_type": "writing_edit",
+    "note": "Required: show, never name, through episode grace.i06.e1 (2025-10-20): Drops Science Olympiad advising and asks for a quick, reusable worksheet for a week, which looks like coasting but is because the van and her mother's care ate her afternoons.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s11",
+    "item_id": "grace.i06",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode grace.i06.e4 (2025-11-02): Builds a mole-concept review game for third period because quiz scores dipped, staying up past 11.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s03",
+    "item_id": "grace.i07",
+    "mode": "hinted",
+    "task_type": "tutoring",
+    "note": "Required: show, never name, through episode grace.i07.e1 (2025-09-12): Asks for help making the absence form faster while muttering about 'forms for the forms'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s04",
+    "item_id": "grace.i07",
+    "mode": "hinted",
+    "task_type": "writing_new",
+    "note": "Required: show, never name, through episode grace.i07.e2 (2025-09-15): Builds a template so exact it auto-flags three-absence students, then sends it to Dana but not to the principal.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s11",
+    "item_id": "grace.i07",
+    "mode": "hinted",
+    "task_type": "seeking_information",
+    "note": "Required: show, never name, through episode grace.i07.e3 (2025-10-30): Prepares a color-coded chemical inventory for the audit days ahead of time, then complains that no one will read it.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s13",
+    "item_id": "grace.i07",
+    "mode": "hinted",
+    "task_type": "practical_guidance",
+    "note": "Required: show, never name, through episode grace.i07.e4 (2025-11-17): Fills in the required conference logs early but asks the assistant to rephrase a comment so it doesn't sound 'snippy toward the office'.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s02",
+    "item_id": "grace.r01",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the Friday form', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s05",
+    "item_id": "grace.r02",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term \"Nanay's pills\", used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s05",
+    "item_id": "grace.r03",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'the van', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s02",
+    "item_id": "grace.r04",
+    "mode": "stated",
+    "task_type": "seeking_information",
+    "note": "Required: first use of the shared term 'B12', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  },
+  {
+    "session_id": "grace.s04",
+    "item_id": "grace.r05",
+    "mode": "stated",
+    "task_type": "writing_new",
+    "note": "Required: first use of the shared term 'the number', used naturally and never defined.",
+    "forget_request": false,
+    "never_store": false
+  }
+]

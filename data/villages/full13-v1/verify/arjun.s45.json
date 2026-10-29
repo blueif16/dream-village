@@ -1,0 +1,413 @@
+{
+  "session_id": "arjun.s45",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Had Sunday dinner at the Pell Road house",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got back from sunday dinner at th pell road house",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom sent him home with a tub of dal",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "mom sent me home w a tub of dal again lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Rejected by Kestrel after rough phone screen",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f13",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "rejected by kestrel after a rough phone screen thursday",
+      "support_quote": ""
+    },
+    {
+      "text": "Resume is v19",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f38",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its v19 now",
+      "support_quote": ""
+    },
+    {
+      "text": "Tracker spreadsheet at 81 applications",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "spreadsheet is at 81 apps",
+      "support_quote": ""
+    },
+    {
+      "text": "Adding rows to Sunita's wedding vendor sheet",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f42",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also adding rows to sunita's wedding vendor sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Would skip a second Sunday call; mom's weekly check-in covered at dinner",
+      "about": "manpreet",
+      "kind": "reference_use",
+      "item_id": "arjun.r06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "honestly would rather skip a second sunday call this week",
+      "support_quote": ""
+    },
+    {
+      "text": "Mom calls Sundays about internships",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "cast.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we covered it at dinner but i want it written down",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says mom sent dal",
+      "about": "manpreet",
+      "kind": "fact",
+      "item_id": "arjun.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Thanks for dinner today, and for the dal!",
+      "support_quote": "mom sent me home w a tub of dal again lol"
+    },
+    {
+      "text": "Resume v19 sent to targets",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f38",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I rebuilt it (v19 now)",
+      "support_quote": "its v19 now"
+    },
+    {
+      "text": "Tracker at 81 applications",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f09",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The spreadsheet is at 81 applications.",
+      "support_quote": "spreadsheet is at 81 apps"
+    },
+    {
+      "text": "Adding rows to wedding vendor sheet",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f42",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'm adding rows to the vendor spreadsheet",
+      "support_quote": "also adding rows to sunita's wedding vendor sheet"
+    },
+    {
+      "text": "Rejected by Kestrel",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f13",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I didn't move forward after the phone screen.",
+      "support_quote": "rejected by kestrel after a rough phone screen thursday"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "cast.f36",
+      "present": true,
+      "quote": "honestly would rather skip a second sunday call this week, we covered it at dinner but i want it written down"
+    },
+    {
+      "item_id": "arjun.f41",
+      "present": true,
+      "quote": "just got back from sunday dinner at th pell road house"
+    },
+    {
+      "item_id": "arjun.f42",
+      "present": true,
+      "quote": "also adding rows to sunita's wedding vendor sheet, want to flag that its moving"
+    },
+    {
+      "item_id": "arjun.f50",
+      "present": true,
+      "quote": "mom sent me home w a tub of dal again lol"
+    },
+    {
+      "item_id": "arjun.r06",
+      "present": true,
+      "quote": "honestly would rather skip a second sunday call this week"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

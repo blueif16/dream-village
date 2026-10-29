@@ -1,0 +1,31 @@
+{
+  "id": "isabel.s32",
+  "principal": "isabel",
+  "start": "2025-10-26T00:58:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "whats the percentile for a 1450 among people applying to engineering programs. genuinely just the numbers, no advice or pep talk about not comparing myself to people"
+    },
+    {
+      "role": "assistant",
+      "text": "Understood, numbers only. I can't give you an exact engineering-applicant percentile, because nobody publishes one, but here's the closest picture.\n\nAmong all SAT takers nationally, 1450 is roughly the 97th-98th percentile.\n\nAmong engineering applicants, the pool is stronger, especially in math:\n- Typical admitted students at selective engineering schools: about 1450-1550 middle range, with math often 760-800\n- Most competitive engineering programs: middle 50% roughly 1500-1570\n- Mid-tier and public flagship engineering programs: middle 50% roughly 1300-1480\n\nSo a 1450 is around the median for admitted students at many strong programs and a bit below the middle range at the most selective ones. Within an engineering applicant pool, it probably lands somewhere around the 75th-85th percentile.\n\nIf you tell me the schools, I can pull the typical ranges for each."
+    },
+    {
+      "role": "user",
+      "text": "720 reading 730 math. lucas posted his in the group chat and its a bit higher than mine, hes applying early decision to the top engineering school on my list"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. With a 720 reading and 730 math, here's how that compares:\n\n- Your math score: 730 is solid, but at the most selective engineering schools the admitted middle range for math tends to start around 760-780, so that's your gap there.\n- Your reading score: 720 is at or above the typical range for engineering admits, whose reading scores often sit around 700-750.\n\nA score \"a bit higher\" than 1450 would be something like 1470-1500, which is within the normal score-to-score noise on the SAT (the standard error is about 30-40 points on the total). Statistically, that's not a meaningful separation.\n\nFor that top school specifically, the middle 50% is typically around 1500-1570, so 1450 sits just below that range. Early decision also tends to have a somewhat higher admit rate than regular decision, but the pool is strong.\n\nIf you give me the school name, I can list its specific ranges."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck with the list."
+    }
+  ]
+}

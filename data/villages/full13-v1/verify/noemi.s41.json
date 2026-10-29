@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s41",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Last night was a red-beep night (many scanners failed)",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "last night was a red-beep night",
+      "support_quote": ""
+    },
+    {
+      "text": "About 620 handhelds on site, about 30 in the cage",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "about 620 on site and the cage is full of frozen units again, like 30 of them",
+      "support_quote": ""
+    },
+    {
+      "text": "The cage is full of frozen units",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the cage is full of frozen units again",
+      "support_quote": ""
+    },
+    {
+      "text": "Carla called Noemi's cell about dead units",
+      "about": "carla",
+      "kind": "fact",
+      "item_id": "noemi.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "carla called my cell about dead units on the dock again",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi has frozen units in the cage to check",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "check the frozen units in the cage",
+      "support_quote": "the cage is full of frozen units again"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.r05",
+      "present": true,
+      "quote": "last night was a red-beep night"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "about 620 on site and the cage is full of frozen units again, like 30 of them"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "the cage is full of frozen units again"
+    },
+    {
+      "item_id": "noemi.f52",
+      "present": true,
+      "quote": "carla called my cell about dead units on the dock again"
+    }
+  ],
+  "sensitive": []
+}

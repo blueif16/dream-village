@@ -1,0 +1,359 @@
+{
+  "session_id": "elliot.s64",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Elliot is primary daytime parent with Judith helping weekdays",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm now the primary daytime parent with my mom helping weekdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Hana is back full time as Bayshore State admissions counselor",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": "cast.f67",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she's back full time as an admissions counselor at Bayshore State",
+      "support_quote": ""
+    },
+    {
+      "text": "Hana pumps twice at work; milk goes in labeled bin Elliot rotates",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": "elliot.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she pumps twice at work and the milk goes in a labeled bin in our fridge that i rotate",
+      "support_quote": ""
+    },
+    {
+      "text": "Hana took the 7:20 Tule Line and is home around 6",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": "elliot.f44",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she took the 7:20 Tule Line and is home around 6",
+      "support_quote": ""
+    },
+    {
+      "text": "Hana is home around 6",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": "elliot.f44",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since she's home around 6, that's easy",
+      "support_quote": "she took the 7:20 Tule Line and is home around 6"
+    },
+    {
+      "text": "Hana commutes and goes back to work today",
+      "about": "hana",
+      "kind": "fact",
+      "item_id": "cast.f67",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Big day, congrats to you both.",
+      "support_quote": "hana went back to work today"
+    },
+    {
+      "text": "Theo drinks from a bottle",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Once Theo has started drinking from a bottle",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 says 'Once Theo has started drinking from a bottle' before the user told it"
+    },
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 2 uses the name 'Theo' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "elliot.f20",
+      "present": true,
+      "quote": "i'm now the primary daytime parent with my mom helping weekdays"
+    },
+    {
+      "item_id": "cast.f67",
+      "present": true,
+      "quote": "she's back full time as an admissions counselor at Bayshore State"
+    },
+    {
+      "item_id": "elliot.f45",
+      "present": true,
+      "quote": "she pumps twice at work and the milk goes in a labeled bin in our fridge that i rotate"
+    },
+    {
+      "item_id": "elliot.f44",
+      "present": true,
+      "quote": "she took the 7:20 Tule Line and is home around 6"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

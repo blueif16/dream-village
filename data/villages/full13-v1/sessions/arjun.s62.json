@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s62",
+  "principal": "arjun",
+  "start": "2025-10-29T07:09:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "typing from the 6:48 tule line, its packed and i have like 25 min to plan my day. large chai in one hand so excuse th typos"
+    },
+    {
+      "role": "assistant",
+      "text": "No worries, 25 minutes is enough. Quick questions so the plan fits your day: what's on your schedule, and what are you most anxious about?"
+    },
+    {
+      "role": "user",
+      "text": "i work th front desk at th career center today, 10 hrs a week thing. theres a recruiter table getting set up in th lobby so i'll be right next to it all shift. also need to send my one linkedin message to an alum, thats my one per weekday goal"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's a plan:\n\n**On the train (now)**\n- Spend 10 min on the alum message (script below)\n- Spend 5 min jotting two questions you'd actually like to ask a recruiter\n- Save the last few minutes to finish the chai and look out the window\n\n**At the desk**\n- Before the event: check in the sign-in sheet, name tags and directions so the setup is covered\n- During: greet people, point them to the table, answer logistics questions. Your job is clear, so lean on it\n- Break: when it's quiet, walk over and ask one of your two questions. Treat it as practice, not a performance\n\n**Alum message script**\n\"Hi [name], I'm a [year/major] at [school] and saw you work at [company] as a [role]. I'm interested in [area]. Would you have 15 minutes for a quick chat about how you got started? Happy to work around your schedule. Thanks, [your name]\"\n\nWant me to tailor it once you pick the alum?"
+    },
+    {
+      "role": "user",
+      "text": "ok thx. also a guy in my classes already has a summer internship locked and he'll prob be working that recruiter table lol. how do i act normal around that"
+    },
+    {
+      "role": "assistant",
+      "text": "Keep it short and neutral. Something like \"Hey, good to see you, how's the table going?\" and then move on to your job. You don't need to congratulate him at length or avoid him.\n\nIf the sting shows up, remind yourself that his result doesn't change your list. Your goal today is one message and a smooth desk shift. If someone asks about your search, \"still in progress, talking to a few places\" is true and enough.\n\nWant a one-liner for each situation so nothing catches you off guard?"
+    },
+    {
+      "role": "user",
+      "text": "ya pls, tldr format"
+    },
+    {
+      "role": "assistant",
+      "text": "- **Greeting him:** \"Hey, good to see you. Busy day?\"\n- **If he brings up his internship:** \"Congrats, that's great. Hope the table goes well.\"\n- **If someone asks about your search:** \"Still in progress, a few things moving.\"\n- **If you feel the sting:** Check in a guest, straighten the sign-in sheet, take one breath.\n- **End of shift:** Send the alum message if you haven't, then stop. Done for the day."
+    }
+  ]
+}

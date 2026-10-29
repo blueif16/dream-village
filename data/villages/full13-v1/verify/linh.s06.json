@@ -1,0 +1,163 @@
+{
+  "session_id": "linh.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh has a cafe shift 6:30-1 on Sunday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "cafe shift 6:30-1",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh helps at the Lotus Nails front desk Sunday 2-5",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then 2-5 at the front desk at my moms nail salon (lotus nails)",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh finished the blue-highlighted skeleton chapter",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i finished the blue-highlighted skeleton chapter at the library today",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh has a 600-card flashcard deck",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "flashcards, 600 card deck",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh keeps skipping lunch",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f29",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i keep skipping lunch so i need things i can eat fast",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh's sister Thao works night shifts",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my sister is on night shifts",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh had bún bò Huế tonight",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we had bun bo hue tonight",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh puts others' needs first and her own food last",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can that be my sisters breakfast. then i can eat whatever after",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants short structured plan with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok can u help me plan tomorrow pls.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Linh finished the skeleton chapter",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice work finishing the skeleton chapter!",
+      "support_quote": "i finished the blue-highlighted skeleton chapter at the library today"
+    },
+    {
+      "text": "Assistant says Linh has a salon desk shift 2-5",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "2:00-5:00 front desk at the salon",
+      "support_quote": "then 2-5 at the front desk at my moms nail salon (lotus nails)"
+    },
+    {
+      "text": "Assistant says Linh's sister works nights",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "prep your sister's breakfast",
+      "support_quote": "my sister is on night shifts"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f23",
+      "present": true,
+      "quote": "i finished the blue-highlighted skeleton chapter at the library today"
+    },
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "then 2-5 at the front desk at my moms nail salon (lotus nails)"
+    },
+    {
+      "item_id": "linh.f29",
+      "present": true,
+      "quote": "i keep skipping lunch so i need things i can eat fast"
+    },
+    {
+      "item_id": "linh.f31",
+      "present": true,
+      "quote": "we had bun bo hue tonight"
+    },
+    {
+      "item_id": "linh.i03",
+      "present": true,
+      "quote": "can that be my sisters breakfast. then i can eat whatever after"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

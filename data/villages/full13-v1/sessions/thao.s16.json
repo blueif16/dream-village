@@ -1,0 +1,47 @@
+{
+  "id": "thao.s16",
+  "principal": "thao",
+  "start": "2025-09-27T08:28:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:28 and i'm dead. barely slept bc of 209. need to deal w the box before shift tonight. how do i get it down"
+    },
+    {
+      "role": "assistant",
+      "text": "Rough morning. I'm not sure what you mean by 'the box', so is that your voicemail inbox? If so, what phone do you have, iPhone or Android? Steps differ a bit. Quick version for either: open the Phone app > Voicemail, then use Edit/select to delete in bulk. Tell me the phone and I'll give exact taps."
+    },
+    {
+      "role": "user",
+      "text": "yes voicemail. iphone. ok let me count... 23 unheard. most are vietnamese, will the transcription thing work on those"
+    },
+    {
+      "role": "assistant",
+      "text": "Short answer: probably not well. iPhone voicemail transcription mostly handles English, so Vietnamese messages will likely come out garbled or blank.\n\nSteps for 23:\n1. Phone > Voicemail.\n2. Tap Edit (top right), tap the circles for the ones you've dealt with, then Delete.\n3. For ones you want to keep, tap a message > share icon > Save to Files so they don't count against the box.\n4. Deleted ones go to 'Deleted Messages' at the bottom of the list. Tap Clear All there to actually empty it.\n\nIf listening is the hurdle, play them at speaker volume and skim just the first few seconds of each."
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically i'm not listening to 23. also i vented to jasmine wed that maribel is a hypocrite about charting, writes on her glove like it's 1995. kinda regret it. anyway"
+    },
+    {
+      "role": "assistant",
+      "text": "Venting to a coworker at 3 a.m. after a rough night is pretty normal, so I wouldn't lose sleep over it.\n\nFor the voicemails, a more realistic plan: skim the transcripts on the English ones, delete anything stale, and for the rest send one text like 'got your messages, text me, I work nights' and then bulk delete. Want me to word that text?"
+    },
+    {
+      "role": "user",
+      "text": "yes short. also forget i said i have a lingering crush on dr mehta's polite voice on night pages. don't keep that"
+    },
+    {
+      "role": "assistant",
+      "text": "Understood, I won't keep that. Here's the text:\n\n'Hi, got your messages. I work nights and can't always answer calls, so please text me and I'll reply when I'm up. 🙂'\n\nSend that, then Edit > select all > Delete and clear the Deleted Messages folder. Adjust the wording if you want it to sound more like you."
+    },
+    {
+      "role": "user",
+      "text": "perfect. thx"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Get some sleep if you can before your shift."
+    }
+  ]
+}

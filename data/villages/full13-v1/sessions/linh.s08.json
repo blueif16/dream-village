@@ -1,0 +1,39 @@
+{
+  "id": "linh.s08",
+  "principal": "linh",
+  "start": "2025-09-02T22:52:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "hi! how are gen chem midterms usually structured and how many weeks of review should i plan for? syllabus says midterm is oct 20 at 8 am"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help! General chemistry midterms usually run 60-90 minutes and mix multiple choice with some multi-step problems, often with a formula sheet or periodic table provided. Typical coverage: significant figures and unit conversions, stoichiometry, limiting reagents, solution concentrations, gas laws, thermochemistry, atomic structure and periodic trends, and bonding.\n\nFor review, most people plan about 3-4 weeks of steady work rather than cramming, since the problem types need repetition. Do you want me to turn that into a plan? If so, tell me when your classes and other commitments are so I can place study blocks around them."
+    },
+    {
+      "role": "user",
+      "text": "yes pls. i have gen chem TTh at 11 and anatomy MWF at 9 so keep blocks away from those. too long, just bullets pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it, short bullets, planned around Gen Chem TTh 11:00 and Anatomy MWF 9:00. Since the exam is Oct 20, the 4-week plan starts the week of Sept 22.\n\n**Week 1 (Sept 22-28): Foundations**\n- Mon/Wed, 4:00-4:45 pm: redo unit conversions and sig figs problems\n- Sat, 10:00-11:00 am: stoichiometry practice set\n\n**Week 2 (Sept 29-Oct 5): Core topics**\n- Mon/Wed, 4:00-4:45 pm: limiting reagents and solutions\n- Sat, 10:00-11:30 am: 15 mixed problems, check the ones you miss\n\n**Week 3 (Oct 6-12): Heavy topics**\n- Mon/Wed, 4:00-5:00 pm: gas laws and thermochemistry\n- Sat, 10:00 am-12:00 pm: timed practice section\n\n**Week 4 (Oct 13-19): Test mode**\n- Mon: full practice exam, 60-90 min, timed\n- Tue/Wed, 4:00-4:45 pm: review every missed problem\n- Fri: 30 min formula and concept skim\n- Sun, 5:00-5:30 pm: light review, then sleep early\n\n**Oct 20:** exam at 8:00 am, so be up by 6:00 for breakfast.\n\nWant me to adjust the times?"
+    },
+    {
+      "role": "user",
+      "text": "perfect, can u redo it as a weekly list i can tape into my paper planner? just the week 1-4 blocks, smaller"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a compact version that should fit a planner page:\n\n**Chem midterm Oct 20, 8 am**\n\n- **Wk 1 (9/22):** M/W 4:00 conversions, sig figs. Sat 10:00 stoich.\n- **Wk 2 (9/29):** M/W 4:00 limiting reagents, solutions. Sat 10:00 mixed set.\n- **Wk 3 (10/6):** M/W 4:00 gas laws, thermo. Sat 10:00 timed section.\n- **Wk 4 (10/13):** Mon practice exam. Tue/Wed 4:00 fix misses. Fri skim. Sun 5:00 light review.\n- **10/20:** exam at 8:00.\n\nIf you want, I can make a checkbox version for each block."
+    },
+    {
+      "role": "user",
+      "text": "this is great thank you. ok im gonna eat now 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan, go eat! Good luck with the review."
+    }
+  ]
+}

@@ -1,0 +1,1040 @@
+{
+  "principal": "isabel",
+  "summary": "Isabel Tolentino is a Flats High junior with a 4.1 GPA, a robotics team member, and the daughter of chemistry teacher Grace and fire dispatcher Ramón; her grandmother Lola Cora lives in the back bedroom. She wants to study environmental engineering somewhere far away with snow, and she is building a college list, prepping for the SAT with Harper at the library, and drafting essays that Ms. Lugo reads. Home is tense: Grace calls out-of-state tuition fantasy, fights her on curfew and late nights, and Ramón plays the soft parent while quietly preferring Bayshore State. Lucas Ferreira, her robotics captain, is aiming at the same schools, which keeps her competitive edge sharp. She writes polished drafts at midnight and then stalls on submitting anything that matters. She claims to hate Alcaraz Flats but is already counting down to her November egret count at Ulloa Salt Marsh Park. Pressing on her this fall: the October 7 meeting with Mr. Kim, the October SAT, a summer engineering program application, and keeping peace at home long enough to get there.",
+  "facts": [
+    {
+      "id": "isabel.f01",
+      "subject": "isabel",
+      "attribute": "age",
+      "value": "16",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "isabel.f02",
+      "subject": "isabel",
+      "attribute": "school_program",
+      "value": "Flats High junior, AP Chem, AP Lang, AP Calc AB, AP US History, physics",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f03",
+      "subject": "isabel",
+      "attribute": "gpa",
+      "value": "4.1 weighted",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f04",
+      "subject": "isabel",
+      "attribute": "intended_major",
+      "value": "environmental engineering",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f05",
+      "subject": "isabel",
+      "attribute": "college_list",
+      "value": "9 schools, 6 out of state, all in snowy places",
+      "valid_from": null,
+      "valid_to": "2025-10-07",
+      "superseded_by": "isabel.f06",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f06",
+      "subject": "isabel",
+      "attribute": "college_list",
+      "value": "12 schools after meeting Mr. Kim: 6 out of state, 4 UC, Bayshore State and one in-state polytechnic as safeties",
+      "valid_from": "2025-10-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f07",
+      "subject": "isabel",
+      "attribute": "sat_score",
+      "value": "PSAT-equivalent 1340 from sophomore year, no SAT yet",
+      "valid_from": null,
+      "valid_to": "2025-10-24",
+      "superseded_by": "isabel.f08",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f08",
+      "subject": "isabel",
+      "attribute": "sat_score",
+      "value": "1450 on the October 4 SAT (720 reading, 730 math), released Oct 24",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f09",
+      "subject": "isabel",
+      "attribute": "sat_test_date",
+      "value": "registered for the Oct 4 SAT at Tamsen Valley College",
+      "valid_from": null,
+      "valid_to": "2025-10-04",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f10",
+      "subject": "isabel",
+      "attribute": "sat_prep",
+      "value": "Harper's Saturday library sessions plus 2 practice sections a week",
+      "valid_from": "2025-08-30",
+      "valid_to": "2025-10-04",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f11",
+      "subject": "isabel",
+      "attribute": "curfew",
+      "value": "10 p.m. weekends, home by 8 on school nights unless robotics",
+      "valid_from": null,
+      "valid_to": "2025-09-21",
+      "superseded_by": "isabel.f12",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f12",
+      "subject": "isabel",
+      "attribute": "curfew",
+      "value": "9 p.m. weekends after coming home at 11:20 from the street fair",
+      "valid_from": "2025-09-21",
+      "valid_to": "2025-11-01",
+      "superseded_by": "isabel.f13",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f13",
+      "subject": "isabel",
+      "attribute": "curfew",
+      "value": "back to 10 p.m. weekends, negotiated through Ramón",
+      "valid_from": "2025-11-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f14",
+      "subject": "isabel",
+      "attribute": "robotics_role",
+      "value": "mechanical subteam member on Flats High robotics",
+      "valid_from": null,
+      "valid_to": "2025-09-26",
+      "superseded_by": "isabel.f15",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f15",
+      "subject": "isabel",
+      "attribute": "robotics_role",
+      "value": "mechanical subteam lead, chosen over a sophomore by the coach",
+      "valid_from": "2025-09-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f16",
+      "subject": "isabel",
+      "attribute": "robotics_schedule",
+      "value": "Tue/Thu 3:30-6 p.m. in room C7",
+      "valid_from": "2025-09-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f17",
+      "subject": "isabel",
+      "attribute": "summer_program_application",
+      "value": "planning to apply to a state university summer engineering institute, due Nov 15",
+      "valid_from": "2025-09-10",
+      "valid_to": "2025-11-12",
+      "superseded_by": "isabel.f18",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f18",
+      "subject": "isabel",
+      "attribute": "summer_program_application",
+      "value": "submitted Nov 12 after Nadia sat with her until she hit the button",
+      "valid_from": "2025-11-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f19",
+      "subject": "isabel",
+      "attribute": "essay_status",
+      "value": "personal statement about the marsh, draft 4, nobody has seen it",
+      "valid_from": "2025-09-01",
+      "valid_to": "2025-10-20",
+      "superseded_by": "isabel.f20",
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f20",
+      "subject": "isabel",
+      "attribute": "essay_status",
+      "value": "personal statement draft 7 shared with Ms. Lugo for feedback",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f21",
+      "subject": "isabel",
+      "attribute": "volunteer",
+      "value": "annual November egret count at Ulloa Salt Marsh Park with the Audubon-style volunteer group",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f22",
+      "subject": "isabel",
+      "attribute": "egret_count_date",
+      "value": "Saturday Nov 15, 7 a.m. at the boardwalk trailhead",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f23",
+      "subject": "isabel",
+      "attribute": "phone",
+      "value": "hand-me-down phone from Grace with a cracked corner and a battery that dies at 20%",
+      "valid_from": null,
+      "valid_to": "2025-10-18",
+      "superseded_by": "isabel.f24",
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f24",
+      "subject": "isabel",
+      "attribute": "phone",
+      "value": "battery replaced at the Plaza Marisol repair shop for $65",
+      "valid_from": "2025-10-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f25",
+      "subject": "isabel",
+      "attribute": "laptop",
+      "value": "school-issued laptop; uses Ramón's old desktop for essays at night",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f26",
+      "subject": "isabel",
+      "attribute": "transport",
+      "value": "walks to school or gets rides from Grace at 7:30; no license",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f27",
+      "subject": "isabel",
+      "attribute": "drivers_permit",
+      "value": "has a learner's permit; Ramón takes her driving in the Ruel Road lots on his off days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f28",
+      "subject": "isabel",
+      "attribute": "allowance",
+      "value": "$40 a month from Ramón, plus tutoring money",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f29",
+      "subject": "isabel",
+      "attribute": "side_job",
+      "value": "tutors a Kessler Middle seventh-grader in math Wednesdays 4-5 for $20",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f30",
+      "subject": "isabel",
+      "attribute": "savings_goal",
+      "value": "saving $160 for college application fees beyond her fee waivers",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f31",
+      "subject": "isabel",
+      "attribute": "bedroom",
+      "value": "small front bedroom with a window facing the driveway and the Bronco",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f32",
+      "subject": "isabel",
+      "attribute": "study_spot",
+      "value": "library homework center after school, or her bed at midnight",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f33",
+      "subject": "isabel",
+      "attribute": "sleep_pattern",
+      "value": "usually asleep around 1 a.m., alarm at 6:50",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f34",
+      "subject": "isabel",
+      "attribute": "drink_order",
+      "value": "jasmine milk tea, 30% sugar, no ice, at Cloud Nine",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f35",
+      "subject": "isabel",
+      "attribute": "food_dislike",
+      "value": "won't eat bitter melon in Lola Cora's cooking",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f36",
+      "subject": "isabel",
+      "attribute": "favorite_food",
+      "value": "Lola Cora's Sunday sinigang, though she pretends to be indifferent",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f37",
+      "subject": "isabel",
+      "attribute": "diet",
+      "value": "pescatarian-ish since sophomore year, eats chicken at family parties to avoid a fight",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f38",
+      "subject": "isabel",
+      "attribute": "fitness",
+      "value": "runs the Delgado Park loop three mornings a week before school",
+      "valid_from": null,
+      "valid_to": "2025-11-13",
+      "superseded_by": "isabel.f39",
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f39",
+      "subject": "isabel",
+      "attribute": "fitness",
+      "value": "switched to a jump-rope routine in the garage after the storm flooded her route",
+      "valid_from": "2025-11-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f40",
+      "subject": "isabel",
+      "attribute": "music",
+      "value": "listens to film scores while writing, nothing with lyrics",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f41",
+      "subject": "isabel",
+      "attribute": "hobby",
+      "value": "photographs marsh birds on her phone and keeps a tally in a notebook",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f42",
+      "subject": "isabel",
+      "attribute": "dream_location",
+      "value": "wants a campus with real winters; has never seen snow fall",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f43",
+      "subject": "isabel",
+      "attribute": "fee_waiver",
+      "value": "qualified for SAT fee waiver but not application waivers at most private schools",
+      "valid_from": "2025-09-12",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f44",
+      "subject": "isabel",
+      "attribute": "recommenders",
+      "value": "asking Ms. Lugo and her physics teacher Mr. Okafor",
+      "valid_from": "2025-10-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f45",
+      "subject": "isabel",
+      "attribute": "chores",
+      "value": "dishes on weeknights and checking Lola Cora takes her lunch on Ramón's shift days",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f46",
+      "subject": "isabel",
+      "attribute": "crush",
+      "value": "has a crush on Lucas Ferreira despite calling him her rival",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "isabel.f47",
+      "subject": "isabel",
+      "attribute": "homecoming_plan",
+      "value": "skipping the dance, going to the game with Nadia for yearbook photos",
+      "valid_from": "2025-10-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f48",
+      "subject": "isabel",
+      "attribute": "ap_chem_teacher",
+      "value": "takes AP Chem from Mr. Ostrowski, not her mother, by district rule",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f49",
+      "subject": "isabel",
+      "attribute": "thanksgiving_plan",
+      "value": "helping Father Ben's Nov 22 food drive with Lola Cora",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f50",
+      "subject": "isabel",
+      "attribute": "email_habit",
+      "value": "uses a separate college-only email so Grace can't see the shared family inbox",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f51",
+      "subject": "nadia",
+      "attribute": "car",
+      "value": "drives her older brother's beige sedan, gives Isabel rides",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f52",
+      "subject": "nadia",
+      "attribute": "yearbook_deadline",
+      "value": "fall sports spread due Nov 3",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f53",
+      "subject": "corazon",
+      "attribute": "tv_habit",
+      "value": "watches Filipino teleseryes at full volume at 8 p.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f54",
+      "subject": "ramon",
+      "attribute": "bronco_progress",
+      "value": "rebuilding the carburetor; promised Isabel she can drive the Bronco when it runs",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f55",
+      "subject": "lucas",
+      "attribute": "early_application",
+      "value": "applying early decision to the top engineering school on Isabel's list",
+      "valid_from": "2025-10-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f56",
+      "subject": "harper",
+      "attribute": "advice_style",
+      "value": "makes students time every section with a kitchen timer",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f57",
+      "subject": "eugene",
+      "attribute": "email_habit",
+      "value": "replies to Isabel's emails after 10 p.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.f58",
+      "subject": "fernanda",
+      "attribute": "essay_feedback_rule",
+      "value": "reads one draft per student per week, Fridays",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.f59",
+      "subject": "isabel",
+      "attribute": "opinion_of_mom_teaching",
+      "value": "told the assistant she thinks Grace's students like her more than Isabel does",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "isabel.f60",
+      "subject": "isabel",
+      "attribute": "tutee",
+      "value": "tutoring a seventh-grader named Mateo in fractions and ratios",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "isabel.i01",
+      "statement": "Stalls right at the finish line on the things she cares about most, polishing endlessly instead of submitting.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i01.e1",
+          "date": "2025-09-14",
+          "description": "asks for a fourth rewrite of an essay paragraph the assistant already said was strong, then says she'll 'sit on it'"
+        },
+        {
+          "id": "isabel.i01.e2",
+          "date": "2025-10-06",
+          "description": "the night before Mr. Kim's meeting, reorganizes her college list spreadsheet colors instead of drafting the questions she meant to bring"
+        },
+        {
+          "id": "isabel.i01.e3",
+          "date": "2025-10-19",
+          "description": "has draft 7 ready for Ms. Lugo but asks for help phrasing the email apologizing that it's 'still rough'"
+        },
+        {
+          "id": "isabel.i01.e4",
+          "date": "2025-11-10",
+          "description": "asks the assistant to check her summer program form for typos a third time, two days after saying it was done"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "isabel.i02",
+      "statement": "Sharp and sarcastic about her mother, but keeps quietly seeking her approval.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i02.e1",
+          "date": "2025-09-21",
+          "description": "writes a furious vent about the new curfew, then asks how to explain her SAT plan to Grace so she'll 'actually listen'"
+        },
+        {
+          "id": "isabel.i02.e2",
+          "date": "2025-10-12",
+          "description": "mocks Grace's lab-safety jokes, then wants a chemistry example for her essay that Grace would find accurate"
+        },
+        {
+          "id": "isabel.i02.e3",
+          "date": "2025-10-24",
+          "description": "after her SAT score, asks for a casual way to mention it at dinner without it looking like she cares what Grace thinks"
+        },
+        {
+          "id": "isabel.i02.e4",
+          "date": "2025-11-16",
+          "description": "asks for out-of-state net-price numbers to put in a one-page sheet for Grace, formatted 'like her grading rubrics'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "isabel.i03",
+      "statement": "Claims to hate Alcaraz Flats but is deeply attached to the marsh and her grandmother.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i03.e1",
+          "date": "2025-08-28",
+          "description": "complains about the heat wave and 'this nothing town' but asks how heat affects egret nesting at Ulloa"
+        },
+        {
+          "id": "isabel.i03.e2",
+          "date": "2025-09-28",
+          "description": "asks for a sinigang recipe card to write out by hand 'in case I'm somewhere with no Filipino stores'"
+        },
+        {
+          "id": "isabel.i03.e3",
+          "date": "2025-10-30",
+          "description": "wants help planning a spreadsheet for the egret count with tide times and spots from last year"
+        },
+        {
+          "id": "isabel.i03.e4",
+          "date": "2025-11-14",
+          "description": "after the storm, asks whether the boardwalk flooding damages marsh habitat and whether the count will still happen"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "isabel.i04",
+      "statement": "Measures herself against Lucas and gets competitive whenever his plans come up.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i04.e1",
+          "date": "2025-09-09",
+          "description": "asks whether being robotics captain looks better to admissions than a subteam lead role"
+        },
+        {
+          "id": "isabel.i04.e2",
+          "date": "2025-10-03",
+          "description": "after hearing Lucas is applying early decision, asks if she should switch her plan too, two weeks before deadlines"
+        },
+        {
+          "id": "isabel.i04.e3",
+          "date": "2025-10-25",
+          "description": "wants the percentile for a 1450 'compared to people applying to engineering', after Lucas mentioned his score"
+        },
+        {
+          "id": "isabel.i04.e4",
+          "date": "2025-11-06",
+          "description": "asks for robot drivetrain improvements she can propose before Lucas's design review"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "isabel.i05",
+      "statement": "Patient and tender with younger kids in a way she never is with family.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i05.e1",
+          "date": "2025-09-03",
+          "description": "asks for a fun way to teach fractions with pizza drawings before her first session with Mateo"
+        },
+        {
+          "id": "isabel.i05.e2",
+          "date": "2025-09-17",
+          "description": "wants encouraging phrasing for when Mateo says he's 'just dumb at math'"
+        },
+        {
+          "id": "isabel.i05.e3",
+          "date": "2025-10-13",
+          "description": "plans a kid-friendly egret fact sheet for the library's Indigenous Peoples' Day family program"
+        },
+        {
+          "id": "isabel.i05.e4",
+          "date": "2025-11-19",
+          "description": "asks for a small game to celebrate Mateo's improved quiz grade"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "isabel.i06",
+      "statement": "Doesn't really care about grades anymore and is coasting.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i06.e1",
+          "date": "2025-10-16",
+          "description": "says she blew off an APUSH reading quiz and 'doesn't care', because she spent the night on robotics build"
+        },
+        {
+          "id": "isabel.i06.e2",
+          "date": "2025-09-11",
+          "description": "asks for a week-by-week AP Calc review schedule to protect her A"
+        },
+        {
+          "id": "isabel.i06.e3",
+          "date": "2025-10-22",
+          "description": "emails her APUSH teacher about a makeup reading response and asks the assistant to check her tone"
+        },
+        {
+          "id": "isabel.i06.e4",
+          "date": "2025-11-18",
+          "description": "requests practice problems on stoichiometry three nights before an AP Chem unit test"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "isabel.i07",
+      "statement": "Wants to be talked to like an adult and bristles at anything that sounds like a parent or counselor lecture.",
+      "about": "isabel",
+      "evidence": [
+        {
+          "id": "isabel.i07.e1",
+          "date": "2025-09-05",
+          "description": "cuts off a long answer about time management with 'ok i didn't ask for a TED talk'"
+        },
+        {
+          "id": "isabel.i07.e2",
+          "date": "2025-10-08",
+          "description": "asks for financial aid info 'without the it's important to talk to your parents part'"
+        },
+        {
+          "id": "isabel.i07.e3",
+          "date": "2025-10-28",
+          "description": "thanks the assistant for skipping the pep talk when it just lists essay edits"
+        },
+        {
+          "id": "isabel.i07.e4",
+          "date": "2025-11-20",
+          "description": "rewords a question about sleep to say she only wants facts, not advice"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "isabel.r01",
+      "term": "the snow list",
+      "meaning": "her ranked list of out-of-state colleges in cold-winter places",
+      "first_use": "2025-08-31"
+    },
+    {
+      "id": "isabel.r02",
+      "term": "the count",
+      "meaning": "the annual November egret count at Ulloa Salt Marsh Park",
+      "first_use": "2025-08-28"
+    },
+    {
+      "id": "isabel.r03",
+      "term": "the Mom sheet",
+      "meaning": "the one-page cost and aid comparison she's building to convince Grace",
+      "first_use": "2025-10-08"
+    },
+    {
+      "id": "isabel.r04",
+      "term": "draft hell",
+      "meaning": "her personal statement and its endless revisions",
+      "first_use": "2025-09-14"
+    },
+    {
+      "id": "isabel.r05",
+      "term": "Mateo math",
+      "meaning": "her Wednesday tutoring session with the seventh-grader",
+      "first_use": "2025-09-10"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "isabel.a01",
+      "title": "Building the list and the essay",
+      "summary": "Isabel moves from a dream list of snowy schools to a realistic list, sits the SAT, and gets her essay and summer application out the door.",
+      "beats": [
+        {
+          "date": "2025-08-30",
+          "what": "starts Saturday SAT prep with Harper",
+          "facts": [
+            "isabel.f10",
+            "isabel.f09"
+          ]
+        },
+        {
+          "date": "2025-09-14",
+          "what": "stalls on essay draft 4",
+          "facts": [
+            "isabel.f19"
+          ]
+        },
+        {
+          "date": "2025-10-04",
+          "what": "takes the SAT",
+          "facts": [
+            "isabel.f09"
+          ]
+        },
+        {
+          "date": "2025-10-07",
+          "what": "meets Mr. Kim and expands the list with safeties",
+          "facts": [
+            "isabel.f05",
+            "isabel.f06"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "finally shares draft 7 with Ms. Lugo",
+          "facts": [
+            "isabel.f19",
+            "isabel.f20"
+          ]
+        },
+        {
+          "date": "2025-10-24",
+          "what": "gets a 1450",
+          "facts": [
+            "isabel.f07",
+            "isabel.f08"
+          ]
+        },
+        {
+          "date": "2025-11-12",
+          "what": "submits the summer engineering application",
+          "facts": [
+            "isabel.f17",
+            "isabel.f18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "isabel.a02",
+      "title": "Curfew war and the Mom sheet",
+      "summary": "A late night at the street fair tightens her curfew; Isabel works through Ramón and data to win it back and start a real money conversation with Grace.",
+      "beats": [
+        {
+          "date": "2025-09-20",
+          "what": "stays late at the Calle Ortega Street Fair with Nadia",
+          "facts": [
+            "isabel.f11"
+          ]
+        },
+        {
+          "date": "2025-09-21",
+          "what": "Grace drops her curfew to 9",
+          "facts": [
+            "isabel.f11",
+            "isabel.f12"
+          ]
+        },
+        {
+          "date": "2025-10-08",
+          "what": "starts the Mom sheet",
+          "facts": [
+            "isabel.f30",
+            "isabel.f43"
+          ]
+        },
+        {
+          "date": "2025-11-01",
+          "what": "Ramón brokers a return to 10 p.m.",
+          "facts": [
+            "isabel.f12",
+            "isabel.f13"
+          ]
+        },
+        {
+          "date": "2025-11-16",
+          "what": "presents net-price numbers to Grace",
+          "facts": [
+            "isabel.f06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "isabel.a03",
+      "title": "Robotics and the marsh",
+      "summary": "Isabel becomes mechanical lead while sparring with Lucas, and prepares for the egret count through the first storm.",
+      "beats": [
+        {
+          "date": "2025-09-26",
+          "what": "named mechanical subteam lead",
+          "facts": [
+            "isabel.f14",
+            "isabel.f15"
+          ]
+        },
+        {
+          "date": "2025-10-18",
+          "what": "fixes her dying phone so she can photograph the count",
+          "facts": [
+            "isabel.f23",
+            "isabel.f24"
+          ]
+        },
+        {
+          "date": "2025-11-13",
+          "what": "storm floods her running route and the marsh trail",
+          "facts": [
+            "isabel.f38",
+            "isabel.f39"
+          ]
+        },
+        {
+          "date": "2025-11-15",
+          "what": "egret count at Ulloa",
+          "facts": [
+            "isabel.f22",
+            "isabel.f21"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "all lowercase except for emphasis in CAPS, minimal punctuation, occasional '??' and 'lol' used dryly, no emoji except a single skull; messages 1-3 lines, few typos, says 'genuinely' and 'be so for real'",
+    "with_assistant": "pastes whole essay paragraphs with no intro, gives context only when pushed, terse but says thanks; skims long answers and asks for 'the short version'; dislikes being told to talk to her parents",
+    "quirks": [
+      "pastes drafts with 'be brutal'",
+      "asks for numbers and percentiles to settle arguments",
+      "refers to her mom as 'grace' when annoyed",
+      "sends messages after midnight then apologizes for nothing",
+      "ends with 'ok bye' instead of thanks when satisfied"
+    ],
+    "sample_lines": [
+      "be brutal. is this intro cliche or just bad",
+      "short version pls i have calc in 6 hours",
+      "whats the actual difference between early action and early decision, no fluff",
+      "rewrite this so it sounds less like a hallmark card",
+      "can u make a study schedule that doesnt assume i sleep 8 hrs lol",
+      "explain net price calculators like im a tired person not a parent",
+      "ok that helps. ok bye"
+    ]
+  },
+  "usage": {
+    "frequency": "several_per_week",
+    "active_hours": [
+      16,
+      21,
+      23,
+      0
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "session_id": "linh.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Her bike was stolen outside the library and she takes the shuttle",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my bike got stolen outside the library last week so im taking the shuttle now",
+      "support_quote": ""
+    },
+    {
+      "text": "Kenji drives her Tuesdays and Thursdays",
+      "about": "kenji",
+      "kind": "fact",
+      "item_id": "linh.f52",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kenji drives me tues and thurs so i only need the shuttle mon wed fri",
+      "support_quote": ""
+    },
+    {
+      "text": "Has 9am classes on Mon/Wed/Fri",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "classes are 9am those days",
+      "support_quote": ""
+    },
+    {
+      "text": "Saving $700 for a replacement bike",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im saving $700 for a replacement",
+      "support_quote": ""
+    },
+    {
+      "text": "Eating a packed rice bowl before leaving",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ill eat my rice bowl before i head out",
+      "support_quote": ""
+    },
+    {
+      "text": "Her bike is a secondhand blue commuter bike",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "its a secondhand blue commuter bike",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she needs shuttle on Mon/Wed/Fri for 9 a.m. classes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Got it, shuttle on Mon/Wed/Fri for 9 a.m. classes.",
+      "support_quote": "kenji drives me tues and thurs so i only need the shuttle mon wed fri"
+    },
+    {
+      "text": "Assistant says she has $700 to spend on a bike",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "With $700 you have good options:",
+      "support_quote": "im saving $700 for a replacement"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f10",
+      "present": true,
+      "quote": "my bike got stolen outside the library last week so im taking the shuttle now"
+    },
+    {
+      "item_id": "linh.f12",
+      "present": true,
+      "quote": "im saving $700 for a replacement so any cheap options for a bike?"
+    },
+    {
+      "item_id": "linh.f52",
+      "present": true,
+      "quote": "kenji drives me tues and thurs so i only need the shuttle mon wed fri"
+    },
+    {
+      "item_id": "linh.f30",
+      "present": true,
+      "quote": "ill eat my rice bowl before i head out"
+    }
+  ],
+  "sensitive": []
+}

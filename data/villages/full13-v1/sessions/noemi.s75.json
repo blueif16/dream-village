@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s75",
+  "principal": "noemi",
+  "start": "2025-11-12T23:37:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q my cover letter template keeps breaking. margins jump on page 2 and the font changes halfway down. ugh. just got off a ten hour swing so pls keep it simple. its for network tech roles outside ridgeline, st anselm IT is one of them"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help, and good luck with the applications. The usual culprits are pasted text carrying its own formatting, a section break with different margins, and a mismatched style. Try this:\n\n1. Select all (Ctrl+A), then Paste Special > Keep Text Only, or clear formatting (Ctrl+Space in Word).\n2. Layout > Margins > pick one preset (1\" all around) and set 'Apply to: Whole document'.\n3. Home > Styles > right-click Normal > Modify, set your font and size (e.g. Calibri 11), and tick 'New documents based on this template' if you want it saved.\n4. Delete any hidden section breaks: turn on the ¶ button and delete lines that say 'Section Break'.\n\nIf you paste the letter text I can check it for stray formatting and tidy it."
+    },
+    {
+      "role": "user",
+      "text": "ok pasting. also tweak the middle para if u can\n\nSince October I have supported the team by covering vendor tickets and scanner RMA work after our desk lead left. I keep around 620 handhelds running through peak season.\n\nkeep the 'supported the team' part. dont change that"
+    },
+    {
+      "role": "assistant",
+      "text": "Kept 'supported the team' as is. I only tightened the rest:\n\nSince October, I have supported the team by covering vendor tickets and scanner RMA work after our desk lead left. I keep roughly 620 handhelds running through peak season.\n\nFormatting fix: paste that as plain text into a fresh document, set margins and the Normal style as above, and the page 2 jump and font change should disappear. Want a tl;dr checklist, or should I look at the opening and closing paragraphs too?"
+    },
+    {
+      "role": "user",
+      "text": "tldr checklist pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Checklist:\n- Select all > clear formatting\n- Paste as plain text\n- Margins: 1\", whole document\n- Modify Normal style: one font, one size\n- Delete stray section breaks (show ¶)\n- Save as PDF to lock the layout before sending\n\nGood luck with the applications."
+    }
+  ]
+}

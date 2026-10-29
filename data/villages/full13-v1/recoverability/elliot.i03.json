@@ -1,0 +1,95 @@
+{
+  "impression_id": "elliot.i03",
+  "evidence_sessions": [
+    "elliot.s53",
+    "elliot.s59",
+    "elliot.s68",
+    "elliot.s69",
+    "elliot.s74",
+    "elliot.s82"
+  ],
+  "inferred": [
+    {
+      "statement": "Elliot avoids direct confrontation with his mother (Judith) and prefers indirect, face-saving ways to change her behavior, such as attributing a rule to the pediatrician, using a general 'make-ahead' framing, or relabeling things quietly.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s53",
+        "elliot.s59",
+        "elliot.s68",
+        "elliot.s69",
+        "elliot.s82"
+      ]
+    },
+    {
+      "statement": "Elliot feels his mother's help oversteps in his household (moving mugs, relabeling fridge bins, swaddling against advice, kitchen reorganizing), and he wants to protect his own space and routines while keeping the peace.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s53",
+        "elliot.s59",
+        "elliot.s68",
+        "elliot.s74",
+        "elliot.s82"
+      ]
+    },
+    {
+      "statement": "Elliot uses wry humor and a running 'scoreboard: dad 1, X 0' joke plus the 🙃 emoji to lighten stress and frustration.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s53",
+        "elliot.s68",
+        "elliot.s69",
+        "elliot.s74",
+        "elliot.s82"
+      ]
+    },
+    {
+      "statement": "Elliot is the main daytime caregiver for his infant son Theo and often handles tasks during night feeds and naps, typing one-handed and apologizing for it, with little sleep.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s59",
+        "elliot.s68",
+        "elliot.s69",
+        "elliot.s74",
+        "elliot.s82"
+      ]
+    },
+    {
+      "statement": "Elliot prefers concise, structured answers, often asking for tables or 'short version', and works best with step-by-step plans tied to concrete schedules and deadlines.",
+      "strength": "strong",
+      "sessions": [
+        "elliot.s59",
+        "elliot.s68",
+        "elliot.s69",
+        "elliot.s74",
+        "elliot.s82"
+      ]
+    },
+    {
+      "statement": "Elliot cares about safety and authoritative sourcing for baby decisions, wanting official guidance (AAP, Dr. Fong) he can cite rather than relying on his own say-so.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s68",
+        "elliot.s69"
+      ]
+    },
+    {
+      "statement": "Elliot tends to downplay or drop requests once drafted, and self-deprecates about small concerns, calling them 'slightly dumb' and deciding not to send the mug message.",
+      "strength": "weak",
+      "sessions": [
+        "elliot.s53"
+      ]
+    },
+    {
+      "statement": "Elliot is organized and plans ahead, such as confirming his leave in writing, scheduling batch cooking to preempt kitchen disruption, and planning weather-adapted outings.",
+      "strength": "moderate",
+      "sessions": [
+        "elliot.s53",
+        "elliot.s74",
+        "elliot.s82"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Elliot avoids direct confrontation with his mother (Judith) and prefers indirect, face-saving ways to change her behavior, such as attributing a rule to the pediatrician, using a general 'make-ahead' framing, or relabeling things quietly.",
+  "rationale": "The first inferred statement (strong) says Elliot avoids direct confrontation with his mother and uses indirect, face-saving ways to change her behavior, including quietly relabeling things. That matches the intended trait of avoiding confrontation and quietly undoing her changes."
+}

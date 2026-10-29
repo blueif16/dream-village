@@ -1,0 +1,31 @@
+{
+  "id": "arjun.s01",
+  "principal": "arjun",
+  "start": "2025-08-25T01:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok its 1am and i have classes mon wed fri 9-12 plus tue/thu 10:30 ops management with dr ashby. need a tight plan for first week of term. i want to fit in resume tweaking, alum outreach, and applications without wrecking my sleep"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A few quick questions so the plan is realistic: what hours do you work or have other fixed commitments, and when do you usually go to bed? Also, how many of each (alum messages, applications) do you want to hit this week?"
+    },
+    {
+      "role": "user",
+      "text": "i work 10 hrs a week at the career center front desk, hours are flexible-ish. ngl im usually up till 2am tweaking things, even tho its 1 now. resume is on v14 and i want one more pass. aim: 1 alum message per weekday, like 5 apps total"
+    },
+    {
+      "role": "assistant",
+      "text": "Given you're usually up until 2 a.m., I'll build around that instead of pretending you'll sleep at 10. Here's a realistic week:\n\n**Fixed blocks**\n- Mon/Wed/Fri: classes 9-12\n- Tue/Thu: ops management at 10:30\n- Front desk: 10 hrs, split into 3-4 shifts (I'd put them in afternoons so mornings stay free)\n\n**Daily (15 min)**\n- 1 alum message, sent right after class or on a desk lull. Draft 3 templates tonight so each takes 5 min.\n\n**Resume v14 final pass**\n- One 45-min block, Tuesday after class. Hard stop: after this it's v15 and you freeze it for the week.\n\n**Applications (5 total)**\n- Wed: 2 apps, 60 min\n- Thu: 1 app, 30 min\n- Sat: 2 apps, 60 min\n\n**Sleep guardrails**\n- Screens off for work at 1 a.m., lights out by 1:30 on class-heavy mornings\n- Tonight: stop now, since you have class at 9\n- No resume edits after midnight. That's where the time sink happens.\n\nIf 1:30 feels too ambitious, aim for 1:45 and see how mornings go."
+    },
+    {
+      "role": "user",
+      "text": "too long lol tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "TL;DR:\n- Mon-Fri: 1 alum message, 15 min, after class\n- Tue: one resume v14 pass, 45 min, then freeze it\n- Wed/Thu/Sat: 5 apps total\n- Desk shifts in the afternoons\n- Lights out by 1:30, and go to bed now since you have class at 9"
+    }
+  ]
+}

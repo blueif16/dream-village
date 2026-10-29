@@ -1,0 +1,92 @@
+{
+  "session_id": "linh.s31",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Jun sold lumpia at the cafe counter under Beatrice's deal and sold out by 11",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he sold lumpia at the cafe counter this morning under Beatrice's deal and sold out by 11 lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is checking numbers in Jun's sheet",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i wanna double check the numbers in Jun's sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh opened at 6:30 covering Sam's shift and Sam owes her two Saturdays",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i opened at 6:30 today covering sams shift so he owes me two saturdays now",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is deeply into per-roll fat and sodium detail, showing a pull toward food and nutrition",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u break it out per ingredient like a table",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Jun sold out by 11",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice, selling out by 11 is a great sign!",
+      "support_quote": "he sold lumpia at the cafe counter this morning under Beatrice's deal and sold out by 11 lol"
+    },
+    {
+      "text": "Linh is checking a spreadsheet for a label",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you're checking a spreadsheet, here's how to verify the label numbers:",
+      "support_quote": "i wanna double check the numbers in Jun's sheet"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "cast.f65",
+      "present": true,
+      "quote": "he sold lumpia at the cafe counter this morning under Beatrice's deal and sold out by 11 lol"
+    },
+    {
+      "item_id": "linh.r03",
+      "present": true,
+      "quote": "i wanna double check the numbers in Jun's sheet"
+    },
+    {
+      "item_id": "linh.f55",
+      "present": true,
+      "quote": "i opened at 6:30 today covering sams shift so he owes me two saturdays now"
+    },
+    {
+      "item_id": "linh.i04",
+      "present": true,
+      "quote": "does the sodium change depending on how much filling vs wrapper? bc the wrapper has some too right. and whats the saturated fat split, pork vs the frying oil. can u break it out per ingredient like a table"
+    }
+  ],
+  "sensitive": []
+}

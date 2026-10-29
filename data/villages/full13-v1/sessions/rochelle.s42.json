@@ -1,0 +1,47 @@
+{
+  "id": "rochelle.s42",
+  "principal": "rochelle",
+  "start": "2025-11-18T22:07:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i registered tonight for anatomy II and microbiology. anatomy went thru but micro put me at waitlist #4 🙏 how do waitlists even work at tamsen valley"
+    },
+    {
+      "role": "assistant",
+      "text": "Policies vary by college, so check Tamsen Valley's registration page to confirm. Typically:\n\n- Waitlist #4 means three people are ahead of you.\n- When a enrolled student drops, the first person on the list is offered the seat, then the next.\n- Some colleges auto-enroll you; others email you a short window to accept.\n- Waitlists usually move most in the first week or two, as people drop or change schedules.\n\nWant tips on improving your odds?"
+    },
+    {
+      "role": "user",
+      "text": "so its basically a line at the dock door and a spot opens when a truck leaves? and denny said they move the first week, i checked that against denny's map and micro is the one i cant slide. registered on the new laptop and it ran fine btw lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes, that's a good picture. Each dropped seat is one open door, and the first in line gets it. One catch: some colleges skip people who don't respond in time, so a missed email can send your spot to the next person.\n\nWays to improve your odds:\n1. Check your student email and the portal daily, and accept any offer right away.\n2. Ask the instructor about an add code, which some allow at the start of term. Email them politely and mention you're on the waitlist.\n3. Go to the first class meeting if you can. Instructors often give open seats to students who show up.\n4. Ask your counselor whether a different section works as a backup.\n5. Keep a backup course on your schedule so you stay full-time or on track.\n\nGood to know it ran smoothly on your laptop. Registration glitches are the last thing you need."
+    },
+    {
+      "role": "user",
+      "text": "ok thats good. short version of what to do monday morning"
+    },
+    {
+      "role": "assistant",
+      "text": "Monday-morning checklist:\n1. Check email and the portal for a waitlist offer, and accept right away.\n2. Email the instructor asking for an add code, and say you're waitlisted.\n3. Attend the first class meeting.\n4. Ask your counselor for a backup section."
+    },
+    {
+      "role": "user",
+      "text": "ok bet. also random, can u make me a cranial nerve mnemonic w names. andre aaliyah deshawn keisha. i have a test in anatomy"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's one. The 12 cranial nerves are: Olfactory, Optic, Oculomotor, Trochlear, Trigeminal, Abducens, Facial, Vestibulocochlear, Glossopharyngeal, Vagus, Accessory, Hypoglossal.\n\nMnemonic by first letter (O O O T T A F V G V A H):\n\n**Andre, Aaliyah, DeShawn and Keisha Often Offer Oranges To Their Aunt For Very Good Vegetable Atop Hash**\n\nIt's silly, but silly sticks. Keep in mind the names only cover the nerve order, not which are sensory, motor, or both. Want a second one for that?"
+    },
+    {
+      "role": "user",
+      "text": "nah thats good 🙏 thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck with the waitlist and the test!"
+    }
+  ]
+}

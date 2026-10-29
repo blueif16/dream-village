@@ -1,0 +1,137 @@
+{
+  "session_id": "noemi.s30",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Annual self-review is due Sept 30",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "annual self-review is due sept 30",
+      "support_quote": ""
+    },
+    {
+      "text": "RMA sheet is her own spreadsheet that nobody else tracks",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the RMA sheet is my own spreadsheet btw, nobody else tracks it.",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses 'the RMA sheet' for her personal spreadsheet",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the RMA sheet is my own spreadsheet btw",
+      "support_quote": ""
+    },
+    {
+      "text": "Helped keep about 620 handhelds running",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I helped keep about 620 handhelds running through peak prep.",
+      "support_quote": ""
+    },
+    {
+      "text": "Undersold her work by shrinking the RMA rebuild to 'helped with RMAs'",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "'helped with RMAs' was the shortest i could make it.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she built the RMA sheet and nobody else tracks it",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You said you built it and nobody else tracks it",
+      "support_quote": "the RMA sheet is my own spreadsheet btw, nobody else tracks it."
+    },
+    {
+      "text": "Assistant uses 'the RMA sheet' term",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r02",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "what does the RMA sheet do in practice?",
+      "support_quote": "the RMA sheet is my own spreadsheet btw"
+    },
+    {
+      "text": "Keeps roughly 620 handhelds running",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "helped keep roughly 620 handhelds running through peak prep.",
+      "support_quote": "I helped keep about 620 handhelds running through peak prep."
+    },
+    {
+      "text": "She rebuilt the RMA process, replacing emails and sticky notes",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Replacing emails and sticky notes with a tracked system is a concrete change you made",
+      "support_quote": "i rebuilt the whole RMA process, it used to be emails and sticky notes."
+    },
+    {
+      "text": "She trained a new hire on scanner repairs",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "trained a new hire on scanner repairs",
+      "support_quote": "I assisted with training a new hire on scanner repairs."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f37",
+      "present": true,
+      "quote": "annual self-review is due sept 30"
+    },
+    {
+      "item_id": "noemi.f33",
+      "present": true,
+      "quote": "the RMA sheet is my own spreadsheet btw, nobody else tracks it."
+    },
+    {
+      "item_id": "noemi.r02",
+      "present": true,
+      "quote": "the RMA sheet is my own spreadsheet btw"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "I helped keep about 620 handhelds running through peak prep."
+    },
+    {
+      "item_id": "noemi.i01",
+      "present": true,
+      "quote": "'helped with RMAs' was the shortest i could make it."
+    }
+  ],
+  "sensitive": []
+}

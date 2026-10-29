@@ -1,0 +1,108 @@
+{
+  "session_id": "jun.s10",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Paolo runs the Lola's Roll Instagram",
+      "about": "paolo",
+      "kind": "fact",
+      "item_id": "cast.f59",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he runs it but wants me to pick one for tomorrow's announcement",
+      "support_quote": ""
+    },
+    {
+      "text": "Lola's Roll Instagram has about 410 followers",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the like 410 people who already follow us",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term the Saturday table for the lumpia spot at the end of the counter",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "come find me at the saturday table at the end of the counter",
+      "support_quote": ""
+    },
+    {
+      "text": "Lumpia costs $10 for a half dozen",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f19",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its $10 for a half dozen",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant uses the Saturday table term in caption",
+      "about": "jun",
+      "kind": "reference_use",
+      "item_id": "jun.r03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Come find us at the Saturday table at the end of the counter at Heron & Grind.",
+      "support_quote": "tell them to come find me at the saturday table at the end of the counter"
+    },
+    {
+      "text": "Lumpia is $10 for a half dozen",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f19",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "$10 for a half dozen.",
+      "support_quote": "its $10 for a half dozen"
+    },
+    {
+      "text": "Jun has followers on the Lola's Roll account",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "jun.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "To reach beyond your followers",
+      "support_quote": "i want it to reach more than the like 410 people who already follow us"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 4 uses the name 'Heron & Grind' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "cast.f59",
+      "present": true,
+      "quote": "paolo sent me new photos for the lola's roll instagram, he runs it but wants me to pick one for tomorrow's announcement"
+    },
+    {
+      "item_id": "jun.f45",
+      "present": true,
+      "quote": "i want it to reach more than the like 410 people who already follow us lol"
+    },
+    {
+      "item_id": "jun.r03",
+      "present": true,
+      "quote": "tell them to come find me at the saturday table at the end of the counter"
+    },
+    {
+      "item_id": "jun.f19",
+      "present": true,
+      "quote": "its $10 for a half dozen"
+    }
+  ],
+  "sensitive": []
+}

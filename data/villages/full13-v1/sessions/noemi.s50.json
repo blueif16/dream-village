@@ -1,0 +1,39 @@
+{
+  "id": "noemi.s50",
+  "principal": "noemi",
+  "start": "2025-10-17T18:19:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. eating a colima burrito in the cage rn so bear with me. how long do acting lead titles usually last, and what can an acting it desk lead actually do vs not do? acting victor got announced today lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help, enjoy the burrito. Short version:\n\n**How long acting titles last:** There's no universal rule. Most companies treat them as a stopgap while a permanent hire is found, often 1-6 months, sometimes longer if the posting stalls. Some HR policies cap it (e.g. 90-180 days) or require a pay differential after a set period.\n\n**What an acting lead can usually do:**\n- Assign work and set priorities for the team\n- Approve day-to-day things like schedules and shift swaps\n- Be the escalation point for vendors and other departments\n- Sign off on routine tickets and processes\n\n**What they usually can't:**\n- Hire, fire or formally discipline (that stays with the manager/HR)\n- Change budgets or sign big vendor contracts\n- Rewrite policy permanently\n- Do formal performance reviews, in many orgs\n\n**How permanent postings usually work:** HR opens an internal posting first (often 5-10 business days), then interviews internal applicants, and may open it externally if no one fits. The acting person often gets an edge but isn't guaranteed the job. Decisions commonly come after the busy period. Your own company's policy is the real authority, so HR can confirm specifics.\n\nWant a tldr or a checklist of questions to ask HR?"
+    },
+    {
+      "role": "user",
+      "text": "ty. also context, greg's last day was today and i basically picked up his stuff. vendor tickets, rma stuff, scheduling. no title tho"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a lot to absorb on one day. Since you're doing those duties now, a few practical moves:\n\n1. **Keep a log.** Note the vendor tickets, RMAs and scheduling you take over, with dates. It documents the scope of what you're covering.\n2. **Ask who owns what.** Confirm in writing whether those duties are formally yours, shared with the acting lead, or temporary.\n3. **Ask about a differential.** Many companies pay extra when someone covers higher-level duties for a stretch. You can ask HR what the policy is.\n4. **Watch for the posting.** Ask HR when the permanent lead role will be posted and what the internal process looks like.\n\nWant me to draft a short, neutral note to your manager confirming the scope of what you've taken on?"
+    },
+    {
+      "role": "user",
+      "text": "maybe later. honestly he got the loot drop and i did the dungeon lol. he's a credit stealing ladder climber who cant even reimage a laptop. anyway i need to send him a congrats msg. short. civil"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short, civil option:\n\n\"Congrats on the acting lead role, Victor. Let me know how you'd like to handle handoffs and I'll make sure things keep running smoothly.\"\n\nA slightly warmer one:\n\n\"Congratulations on the new role, Victor. Happy to help make the transition smooth.\"\n\nOr the most minimal:\n\n\"Congrats, Victor. Looking forward to working together.\"\n\nWant me to adjust the tone, or add a line about who's handling the vendor tickets and scheduling so that's clear from day one?"
+    },
+    {
+      "role": "user",
+      "text": "first one is gg. ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works. Good luck with the rest of the shift, and if you want to draft that scope-confirmation note or a list of questions for HR later, just ask."
+    }
+  ]
+}

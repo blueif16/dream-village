@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s28",
+  "principal": "elliot",
+  "start": "2025-09-25T02:35:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "2:35 am update. i am officially the worst night nurse in the league, 0 for 1 tonight. short version please: i did the 2 a.m. feed (hana takes the 5), put theo down in the crib with the white noise on rain, and he woke up anyway. i hummed the slow ballpark organ tune and it half worked. how do i get him back down without rocking him?"
+    },
+    {
+      "role": "assistant",
+      "text": "Not a loss yet, extra innings. Short version:\n\n1. Wait 60-90 seconds before going in. Babies often fuss and resettle on their own.\n2. If he keeps going, stay hands-on but don't pick him up: one hand firmly on his chest or tummy, and a gentle side-to-side sway of the hand, not the baby.\n3. Shush or hum low and slow, like the tune you used, right near his ear. Keep the white noise on.\n4. Lights off, no talking, no eye contact. Keep it boring.\n5. If he's still wound up after 10 minutes, pick him up briefly to calm him, then put him back down drowsy but awake.\n6. Also check the basics: burp, diaper, and whether he finished the bottle.\n\nIf he calms, hold the hand there another minute or two before slowly lifting it away."
+    },
+    {
+      "role": "user",
+      "text": "thanks, trying the hand on chest thing now. dad 0, crib 0 → we'll see"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan. Keep the hum going slowly and stay still a couple of minutes after he settles. Good luck, hope he's out soon."
+    }
+  ]
+}

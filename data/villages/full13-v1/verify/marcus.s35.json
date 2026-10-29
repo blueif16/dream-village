@@ -1,0 +1,363 @@
+{
+  "session_id": "marcus.s35",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Quit energy drinks, now one cold brew before shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i quit energy drinks monday and now just have one cold brew before shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Shift is 9pm to 7:30am",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my shift is 9pm to 730am ten hours",
+      "support_quote": ""
+    },
+    {
+      "text": "Trevor picks him up before shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "trevor picks me up before so i grab it around 8:15 while im waiting on him",
+      "support_quote": ""
+    },
+    {
+      "text": "Works the cold dock",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work the cold dock and the cold gets to me",
+      "support_quote": ""
+    },
+    {
+      "text": "Methodical about caffeine intake during overtime",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ok so about 250 prob. cant do math this early lol.",
+      "support_quote": ""
+    },
+    {
+      "text": "Asks to forget owing Trevor $60",
+      "about": "marcus",
+      "kind": "forget_request",
+      "item_id": "marcus.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "forget that i owe trevor $60 for gas and a burrito run, he squared it away",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he drinks a cold brew at 8:15 before a 9 clock-in",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f39",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Sipping it at 8:15 puts the peak right around when you clock in at 9",
+      "support_quote": "i grab it around 8:15 while im waiting on him"
+    },
+    {
+      "text": "Assistant says he works with insulated gloves and cold dock conditions",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Keeping the cold brew at 250 mg and spacing it as above is a reasonable plan.",
+      "support_quote": "ok so about 250 prob."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f39",
+      "present": true,
+      "quote": "i quit energy drinks monday and now just have one cold brew before shift"
+    },
+    {
+      "item_id": "marcus.f48",
+      "present": true,
+      "quote": "forget that i owe trevor $60 for gas and a burrito run, he squared it away"
+    },
+    {
+      "item_id": "marcus.i06",
+      "present": true,
+      "quote": "my shift is 9pm to 730am ten hours. trevor picks me up before so i grab it around 8:15 while im waiting on him"
+    },
+    {
+      "item_id": "marcus.f18",
+      "present": true,
+      "quote": "trevor picks me up before so i grab it around 8:15 while im waiting on him"
+    },
+    {
+      "item_id": "marcus.r01",
+      "present": true,
+      "quote": "i work the cold dock and the cold gets to me"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

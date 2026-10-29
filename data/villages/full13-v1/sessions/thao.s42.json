@@ -1,0 +1,31 @@
+{
+  "id": "thao.s42",
+  "principal": "thao",
+  "start": "2025-11-14T08:19:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "it's 8:19 and i'm dead. just got off my friday night shift, heading to bed. need this sent before i sleep. tighten it pls:\n\n\"hi, i got a flat on ruel road during the storm yesterday and put the spare on. i need two new front tires for my 2014 hatchback. can i book online for sometime this weekend? what times do you have? thanks\"\n\nalso realistically can i skip calling them? i had a whole script ready wednesday lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a tighter version:\n\n\"Hi, I got a flat on Ruel Road during the storm and I'm on the spare. I need two new front tires for my 2014 hatchback. Do you have any openings this weekend? Please reply by text or send an online booking link. Thanks!\"\n\nYes, you can usually skip the call. Most shops take online booking or text requests. Check their website for a booking page, and if there isn't one, send this through their contact form or text line. Your script can stay in your pocket."
+    },
+    {
+      "role": "user",
+      "text": "ok good. i did the tire change myself on the shoulder, followed a step by step list. fine. but now i want a clean checklist for the shop visit so i don't forget anything. short pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Shop visit checklist:\n\n- Confirm both front tires are the same size and brand\n- Ask for the total price with mounting and balancing, in writing\n- Ask whether an alignment is recommended\n- Have the spare checked and the lug nuts torqued\n- Ask them to check the tire pressure on all four\n- Get the old tires' condition noted if you need it for anything\n- Save the receipt and the warranty info\n\nWant it shorter?"
+    },
+    {
+      "role": "user",
+      "text": "nope that works. one more thing, make the text say i just need a confirmation text back, not a call"
+    },
+    {
+      "role": "assistant",
+      "text": "Done:\n\n\"Hi, I got a flat on Ruel Road during the storm and I'm on the spare. I need two new front tires for my 2014 hatchback. Do you have any openings this weekend? Please confirm by text, not a call, as I work nights and am often asleep. Thanks!\"\n\nSend it and get some sleep."
+    }
+  ]
+}

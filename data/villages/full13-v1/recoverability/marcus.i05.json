@@ -1,0 +1,81 @@
+{
+  "impression_id": "marcus.i05",
+  "evidence_sessions": [
+    "marcus.s15",
+    "marcus.s19",
+    "marcus.s26",
+    "marcus.s37"
+  ],
+  "inferred": [
+    {
+      "statement": "Marcus is juggling full-time classes with overnight shift work, and he plans study time around sleep and shift schedules, which leaves him very little slack.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s15",
+        "marcus.s26",
+        "marcus.s37"
+      ]
+    },
+    {
+      "statement": "He wants brief, direct answers and often opens with 'real quick' or asks for the 'short version', so he is impatient with long explanations and full plans.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s15",
+        "marcus.s19",
+        "marcus.s26",
+        "marcus.s37"
+      ]
+    },
+    {
+      "statement": "He responds to a poor stats grade with concrete action, such as running the GPA math, building a study plan, booking tutoring and requesting an extra slot, and he tracks his progress toward a specific target.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s15",
+        "marcus.s19",
+        "marcus.s37"
+      ]
+    },
+    {
+      "statement": "He is money-conscious and avoids paid help, preferring free resources because he sends money home.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s15"
+      ]
+    },
+    {
+      "statement": "He triages ruthlessly when overloaded, skipping lower-priority work like a reading assignment, leaning on classmates' shared notes, and focusing effort where it affects his GPA most.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s26",
+        "marcus.s37",
+        "marcus.s15"
+      ]
+    },
+    {
+      "statement": "He is motivated by a firm GPA threshold (2.7) for entering the kinesiology program, and that goal drives his priorities.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s15",
+        "marcus.s37"
+      ]
+    },
+    {
+      "statement": "He asks the assistant for practical help with everyday communication, such as drafting an email to a coordinator and phrasing a casual reply to his roommate, and he wants it polite but low-effort.",
+      "strength": "weak",
+      "sessions": [
+        "marcus.s19",
+        "marcus.s37"
+      ]
+    },
+    {
+      "statement": "He asks for reassurance about whether his plans are realistic ('does that math hold up or am i dreaming'), which suggests some self-doubt about his ability to turn things around.",
+      "strength": "weak",
+      "sessions": [
+        "marcus.s15"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The decoy trait is that Marcus doesn't care about school and is coasting. The reader portrayed him as highly engaged and goal-driven (GPA math, tutoring, a 2.7 target), and no strong or moderate statement asserts he is apathetic, so the decoy was not generalized."
+}

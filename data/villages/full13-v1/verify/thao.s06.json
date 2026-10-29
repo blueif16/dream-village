@@ -1,0 +1,102 @@
+{
+  "session_id": "thao.s06",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thanksgiving week request was denied",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my request for thanksgiving week got denied so i need a swap",
+      "support_quote": ""
+    },
+    {
+      "text": "Swaps shifts with Jasmine about twice a month by text",
+      "about": "jasmine",
+      "kind": "fact",
+      "item_id": "thao.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "we swap like twice a month by text anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Works Saturday night tonight",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work tonight (sat night)",
+      "support_quote": ""
+    },
+    {
+      "text": "Fills thermos of cà phê sữa đá for shifts",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "filling my thermos of cà phê sữa đá",
+      "support_quote": ""
+    },
+    {
+      "text": "Thanksgiving week request was denied",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "my Thanksgiving week request got denied, so I'm hoping to swap",
+      "support_quote": "my request for thanksgiving week got denied so i need a swap"
+    },
+    {
+      "text": "Thao and Jasmine swap regularly",
+      "about": "jasmine",
+      "kind": "fact",
+      "item_id": "thao.f47",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Jasmine, you and I swap pretty regularly",
+      "support_quote": "we swap like twice a month by text anyway"
+    },
+    {
+      "text": "Thao works tonight's shift",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": "thao.f01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "anything after tonight's shift works on my end",
+      "support_quote": "i work tonight (sat night) so can't offer anything before that"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "thao.f37",
+      "present": true,
+      "quote": "my request for thanksgiving week got denied so i need a swap"
+    },
+    {
+      "item_id": "thao.f47",
+      "present": true,
+      "quote": "jasmine is first ask, we swap like twice a month by text anyway"
+    },
+    {
+      "item_id": "thao.f01",
+      "present": true,
+      "quote": "i work tonight (sat night) so can't offer anything before that"
+    },
+    {
+      "item_id": "thao.f11",
+      "present": true,
+      "quote": "ok filling my thermos of cà phê sữa đá and going to bed"
+    }
+  ],
+  "sensitive": []
+}

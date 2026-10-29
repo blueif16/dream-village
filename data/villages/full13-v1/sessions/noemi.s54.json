@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s54",
+  "principal": "noemi",
+  "start": "2025-10-22T10:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. hardcore mode week lol. my swing is 1pm to 11:30pm now so drills have to happen in the morning. ditching the old 12 week plan, now i do a daily subnetting drill set before each swing. also need a meal prep list for the long shifts. can you build a plan"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. A morning-drill, long-swing week can work well if it's short and consistent. A couple of quick questions: how long do you want the drill block, and what should the drills focus on?"
+    },
+    {
+      "role": "user",
+      "text": "30-40 min. focus on subnetting and port numbers, those are what keep nerfing me. iris will drop the grocery list into our shared budget sheet so keep the list simple"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan.\n\n**Morning drill block (30-40 min, done before you leave for your 1 p.m. swing)**\n- 15 min: subnetting problems. Mix CIDR-to-mask conversions, hosts per subnet, and finding network/broadcast addresses. Do them by hand, no calculator.\n- 10 min: port number flashcards. Group them: web (80, 443), email (25, 110, 143), remote access (22, 23, 3389), file transfer (20/21), DNS (53), DHCP (67/68).\n- 10 min: review the ones you missed. Write the misses on a sticky note and redo them the next morning.\n\n**Day by day**\n- Mon: /24 to /30 problems, plus the web and email ports\n- Tue: variable-length subnetting, plus the remote access ports\n- Wed: network and broadcast addresses, plus a mixed port quiz\n- Thu: hard mixed set, since you'll be warmed up by then\n- Fri: timed set, 10 problems in 10 min, then a light port review\n- Alternate Saturdays: skip drills if you're working, or just do the sticky note misses\n\n**Meal prep for 10-hour swings (cook once, eat all week)**\n- Rice bowls: a big batch of rice plus two proteins, such as chicken thighs and eggs or beans. Add frozen veggies.\n- Portable snacks: nuts, fruit, cheese sticks, granola bars\n- Easy add-ons: salsa, hot sauce, a bag of salad mix\n- Drinks: a big water bottle, and coffee only early in the shift\n\n**Grocery list (short version)**\nRice, chicken thighs, eggs, canned beans, frozen mixed veggies, salsa, nuts, fruit, cheese sticks, granola bars, salad mix\n\nWith a 10-hour shift, pack two small meals plus a snack instead of one big one, and eat the main meal around the middle of the swing. Want me to write a set of starter subnetting problems for tomorrow's block?"
+    },
+    {
+      "role": "user",
+      "text": "ty that's gg. yeah give me 5 hard ones no answers"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go, no answers:\n\n1. Split 192.168.10.0/24 into subnets of at least 30 hosts each. Give the new mask and list the first three network addresses.\n2. What are the network address, broadcast address, and usable host range for 10.4.77.130/27?\n3. How many usable hosts are in a /21? What is the mask in dotted decimal?\n4. You need 6 subnets from 172.16.0.0/16. What mask do you use, and how many hosts does each subnet have?\n5. Is 192.168.5.200/26 in the same subnet as 192.168.5.130/26? Explain why or why not.\n\nSay the word when you want the answers."
+    }
+  ]
+}

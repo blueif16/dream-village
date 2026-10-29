@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s79",
+  "principal": "elliot",
+  "start": "2025-11-19T21:06:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "9:06 pm update. two tech problems, can you help? first, our wifi camera monitor drops connection every single time the microwave runs. i just reheated my pho (rare beef, no tripe, it's the good stuff) and the feed died for like a minute and a half. second, the shared baby tracker app isn't showing hana's or my mom's entries on my phone, and the weekly summary tab in my old spreadsheet looks off. theo had his four-month well visit with dr. fong this morning and i want to export the logged numbers cleanly. short version if possible, i'm typing one-handed 🙃"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Short version for each:\n\n**Camera drops when the microwave runs**\nMicrowaves put out noise on the 2.4 GHz band, which many baby cameras use.\n1. In your router settings, move the camera to the 5 GHz band if it supports it. If not, move the router or camera farther from the microwave.\n2. If the camera is on 2.4 GHz, change the router's channel to 1 or 11. Channel 6 is closest to what microwaves interfere with.\n3. Move the router so it isn't in the same line as the kitchen, or add a cheap Wi-Fi extender near the nursery.\n4. Quick test: run the microwave for 30 seconds and watch the feed.\n\n**Tracker not showing the other entries**\n1. Make sure you're connected to the internet, then pull down to refresh or force-close and reopen the app.\n2. Check that the app is updated, and that your phone's background data and battery saver aren't blocking sync.\n3. In the app's sharing or family settings, confirm that Hana's and your mom's accounts are still linked to the same baby profile. A common cause is that they're logging to a duplicate profile.\n4. If it still lags, log out and back in. Your data stays on the server.\n\n**Summary tab and export**\n- Look in the app's settings for Export or Share Report, usually CSV or PDF, and pick the date range you want.\n- If your summary tab pulls from pasted data, the likely culprits are date format mismatches or duplicate rows once the new entries come in. Paste a few rows here and I can help spot what's off.\n\nWhat app are you using? I can give exact menu steps."
+    },
+    {
+      "role": "user",
+      "text": "it's one of the popular ones, baby tracker with the little moon icon. checked and i think hana's and mom's entries are going to a second baby profile, oh no. ok if i merge them can i still get the export for the whole stretch up to the checkup?"
+    },
+    {
+      "role": "assistant",
+      "text": "Likely yes, with one caveat: merging depends on the app. Here's the safest order:\n\n1. **Export first, before merging.** Export each profile separately for the date range you want. That gives you a backup.\n2. **Look for a merge option** in profile settings or the help section. Some apps merge entries, others only let you move entries or re-log them. If it can't merge, keep the duplicate profile as read-only and combine the exports.\n3. **Combine in your spreadsheet.** Paste both exports into one sheet, sort by date and time, and remove duplicate rows.\n4. **Fix the summary tab** by checking that the date and time columns share one format, and that your formulas cover the full range of rows now.\n5. **Going forward**, have Hana and your mom log out of the duplicate profile and re-accept the invite to the main one.\n\nIf you paste a few rows from each export, I can give you a formula for the summary tab."
+    }
+  ]
+}

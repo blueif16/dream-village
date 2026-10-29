@@ -1,0 +1,101 @@
+{
+  "impression_id": "linh.i04",
+  "evidence_sessions": [
+    "linh.s13",
+    "linh.s16",
+    "linh.s31",
+    "linh.s59",
+    "linh.s61",
+    "linh.s67",
+    "linh.s77",
+    "linh.s80"
+  ],
+  "inferred": [
+    {
+      "statement": "Linh organizes her life through a color-coded, washi-tape paper planner and repeatedly asks for outputs (tables, bullets, schedules) formatted to match that system.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s13",
+        "linh.s16",
+        "linh.s31",
+        "linh.s59",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "She prefers short, bulleted, low-effort answers and signals when responses are too long, often citing tiredness or sleepiness.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s16",
+        "linh.s59",
+        "linh.s61",
+        "linh.s67",
+        "linh.s77",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "Food and nutrition science is a genuine, growing passion: she lights up over calculating nutrients in lumpia, digestion and absorption, and the gut microbiome, and it is steering her toward dietitian, public health or nutrition paths.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s13",
+        "linh.s16",
+        "linh.s59",
+        "linh.s61",
+        "linh.s67",
+        "linh.s77"
+      ]
+    },
+    {
+      "statement": "She readily takes on helping others (Jun's lumpia pricing and labels, covering Sam's shift, family dinner planning) and sometimes neglects her own needs, like skipping lunch, to do so.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s13",
+        "linh.s16",
+        "linh.s31",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "She is juggling a heavy load of work (mom's nail salon front desk, cafe shifts, closing shifts) alongside classes, and plans carefully around those fixed blocks.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s13",
+        "linh.s16",
+        "linh.s59",
+        "linh.s67",
+        "linh.s80"
+      ]
+    },
+    {
+      "statement": "She feels torn about leaving the pharmacy path and avoids telling her mother, feeling guilt and family pressure, with her late father's memory weighing on the decision.",
+      "strength": "strong",
+      "sessions": [
+        "linh.s67",
+        "linh.s77"
+      ]
+    },
+    {
+      "statement": "She often processes feelings late at night or in tentative, understated ways ('which is so dumb', '..idk'), and responds well to warm, validating, gentle replies followed by small concrete next steps.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s61",
+        "linh.s77"
+      ]
+    },
+    {
+      "statement": "She tends to end sessions abruptly with 'ok im gonna eat now' or similar, treating the assistant as a quick practical helper and moving on once her task is done.",
+      "strength": "moderate",
+      "sessions": [
+        "linh.s13",
+        "linh.s16",
+        "linh.s67",
+        "linh.s77",
+        "linh.s80"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Food and nutrition science is a genuine, growing passion: she lights up over calculating nutrients in lumpia, digestion and absorption, and the gut microbiome, and it is steering her toward dietitian, public health or nutrition paths.",
+  "rationale": "The strong statement that food and nutrition science is a growing passion she lights up over, steering her toward dietitian or public health paths, matches the intended drift from nursing/pharmacy toward food and nutrition. A further strong statement on leaving the pharmacy path supports it."
+}

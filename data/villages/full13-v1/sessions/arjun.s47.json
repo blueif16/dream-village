@@ -1,0 +1,39 @@
+{
+  "id": "arjun.s47",
+  "principal": "arjun",
+  "start": "2025-10-14T23:55:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "pls edit this msg to my career advisor, too stiff rn\n\n\"Hi Lena, thank you for today's session. I would like to confirm a standing Tuesday 3 p.m. mock interview slot every week going forward. I appreciate the feedback. Thank you, Arjun\""
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a warmer version:\n\n\"Hi Lena,\n\nThanks so much for today's mock interview. The feedback was really useful. I'd like to lock in a standing Tuesday 3 p.m. slot every week going forward. Does that work on your end?\n\nThanks again,\nArjun\"\n\nI added a question at the end so she knows to confirm. Want it shorter or more casual?"
+    },
+    {
+      "role": "user",
+      "text": "ngl she made me answer 'tell me about yourself' standing up 💀 can you work that in as a joke"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure:\n\n\"Hi Lena,\n\nThanks so much for today's mock interview. The feedback was really useful, even if answering 'tell me about yourself' standing up was humbling. I'd like to lock in a standing Tuesday 3 p.m. slot every week going forward. Does that work on your end?\n\nThanks again,\nArjun\"\n\nWant the joke lighter or removed?"
+    },
+    {
+      "role": "user",
+      "text": "also add that wednesdays th next week need to stay light for me, ops management midterm is on th 23rd. so if she wants to move anything pls not wednesday"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n\"Hi Lena,\n\nThanks so much for today's mock interview. The feedback was really useful, even if answering 'tell me about yourself' standing up was humbling. I'd like to lock in a standing Tuesday 3 p.m. slot every week going forward.\n\nOne heads-up: I need to keep next week's Wednesday light because of my operations management midterm on the 23rd, so if anything needs to move, could we avoid that day? Does the Tuesday slot work on your end?\n\nThanks again,\nArjun\"\n\nIt's a bit longer now. I can trim it to three lines if you'd like."
+    },
+    {
+      "role": "user",
+      "text": "thx this works"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck with the midterm prep. Send it whenever you're ready, and let me know if you want a quick follow-up note if she doesn't reply."
+    }
+  ]
+}

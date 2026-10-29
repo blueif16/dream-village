@@ -1,0 +1,153 @@
+{
+  "session_id": "grace.s07",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Bought a 2019 blue hatchback from a Tamsen lot, $14,200 financed",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f08",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I bought a 2019 blue hatchback from a Tamsen lot this morning, $14,200 financed.",
+      "support_quote": ""
+    },
+    {
+      "text": "Car payment $318 a month for 48 months, first due Nov 15",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "The payment is $318 a month for 48 months. First payment is due Nov 15.",
+      "support_quote": ""
+    },
+    {
+      "text": "Fills up at Ruel Road station for 30 cents savings",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f65",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I fill up at the Ruel Road station for the 30 cents savings.",
+      "support_quote": ""
+    },
+    {
+      "text": "Ran net price calculators after Isabel's counselor meeting, wants figures first",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "After Isabel's counselor meeting I ran the net price calculators myself and was surprised by the aid numbers.",
+      "support_quote": ""
+    },
+    {
+      "text": "Walks the boardwalk with Dana at 5:45 a.m. Tue/Thu",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my 5:45 a.m. Tuesday and Thursday walks on the boardwalk with Dana",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants numbered, short steps",
+      "about": "grace",
+      "kind": "trait_shown",
+      "item_id": "grace.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Numbered, short.",
+      "support_quote": ""
+    },
+    {
+      "text": "Arrives at school at 7:20, four-minute drive",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f11",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "School is a four-minute drive and I arrive at 7:20.",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she fills up at Ruel Road station",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f65",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Fill up on the Ruel Road trip you already make.",
+      "support_quote": "I fill up at the Ruel Road station for the 30 cents savings."
+    },
+    {
+      "text": "Assistant says she walks with Dana Tue/Thu",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f33",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Tue/Thu 5:35: Leave for the boardwalk walk with Dana.",
+      "support_quote": "my 5:45 a.m. Tuesday and Thursday walks on the boardwalk with Dana"
+    },
+    {
+      "text": "Assistant says she arrives at school at 7:20",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": "grace.f11",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Daily 7:20: Arrive at school ahead of the drop-off line.",
+      "support_quote": "School is a four-minute drive and I arrive at 7:20."
+    },
+    {
+      "text": "Evenings freed for her mother",
+      "about": "grace",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "That moved my evenings free for my mother.",
+      "support_quote": ""
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 6 uses the name 'Park' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "grace.f08",
+      "present": true,
+      "quote": "I bought a 2019 blue hatchback from a Tamsen lot this morning, $14,200 financed."
+    },
+    {
+      "item_id": "grace.f10",
+      "present": true,
+      "quote": "The payment is $318 a month for 48 months. First payment is due Nov 15."
+    },
+    {
+      "item_id": "grace.f33",
+      "present": true,
+      "quote": "I need the car sorted around my 5:45 a.m. Tuesday and Thursday walks on the boardwalk with Dana."
+    },
+    {
+      "item_id": "grace.i04",
+      "present": true,
+      "quote": "After Isabel's counselor meeting I ran the net price calculators myself and was surprised by the aid numbers."
+    },
+    {
+      "item_id": "grace.f65",
+      "present": true,
+      "quote": "I fill up at the Ruel Road station for the 30 cents savings."
+    }
+  ],
+  "sensitive": []
+}

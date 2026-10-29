@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s39",
+  "principal": "rochelle",
+  "start": "2025-11-11T15:10:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest can u help me set up a thanksgiving budget spreadsheet on my phone. the app is so awkward on my old android with the cracked corner lol. im hosting 14 people at my house on Nov 27, Alder Court. typing this between driving my mother in law to her checkup and the pharmacy so keep it short 🙏"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes. Quick setup, works in Google Sheets or any phone spreadsheet app:\n\nRow 1 headers: A = Item, B = Store, C = Price, D = Who's bringing it\n\nThen add your items underneath. Want me to give you the formulas too, or are you already stuck on those?"
+    },
+    {
+      "role": "user",
+      "text": "stuck on formulas. my limit is $120 which is like 5 and a half hours on the line when i used to work at the warehouse lol. turkey at ruiz family market is $38 and ham is $27 so thats already like 3 hrs of work gone. bulk stuff like rolls and canned stuff from the discount warehouse store"
+    },
+    {
+      "role": "assistant",
+      "text": "Okay. Put these in:\n\nRows 2-3:\nTurkey | Ruiz Family Market | 38 | me\nHam | Ruiz Family Market | 27 | me\n\nThen your bulk items with Store = discount warehouse store (rolls, canned goods, etc.).\n\nFormulas:\n- Total spent: in C20 type =SUM(C2:C19)\n- Left of budget: in C21 type =120-C20\n- Only Ruiz total: =SUMIF(B2:B19,\"Ruiz Family Market\",C2:C19)\n- Only warehouse store total: =SUMIF(B2:B19,\"discount warehouse store\",C2:C19)\n\nThe text in quotes has to match column B exactly, or SUMIF returns 0. That's the usual reason totals look wrong.\n\nTurkey plus ham is $65 so far, leaving $55."
+    },
+    {
+      "role": "user",
+      "text": "ok my total says 0 for the ruiz one. also which sides can i tell relatives to bring so i dont blow the $120"
+    },
+    {
+      "role": "assistant",
+      "text": "0 means the store name doesn't match. Check for a trailing space or a different spelling in column B. Retype it, or copy one cell and paste it down the column.\n\nSides to assign, since you're covering the meat:\n- Mac and cheese\n- Green beans or collards\n- Cornbread or rolls\n- Sweet potato casserole\n- Desserts (pies, cake)\n- Drinks and ice\n\nFor your column D, write each person's name next to the dish. Then use =COUNTIF(D2:D19,\"me\") to see how many items you're covering yourself.\n\nThat leaves your budget for the turkey, ham, and a few bulk basics."
+    },
+    {
+      "role": "user",
+      "text": "found it it had a space lol. fixed. ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Nice. Your totals should work now. Good luck with the dinner!"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "noemi.s53",
+  "principal": "noemi",
+  "start": "2025-10-21T13:44:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q can you make a printable countdown chart for the wall by the cage. need it to look clean, not cluttered. exam is now saturday dec 6, moved it from nov 8 bc of overtime. weeks countdown, like 6 or so"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's the layout for a clean, one-page printable (landscape, black and white friendly):\n\n[Image: A landscape chart on white. Title across the top: \"NETWORK CERT EXAM: SATURDAY, DEC 6\". Below it, a row of boxes labeled \"Weeks to go\" with a large number in each, starting at 7 and counting down to 0, each box with a small checkbox underneath to tick off. A thin line sits under the row. At the bottom is a blank strip labeled \"Scanner repair queue notes\" with a few ruled lines.]\n\nWant me to change the number of weeks, add a daily tick row, or fill in the queue note? What should it say?"
+    },
+    {
+      "role": "user",
+      "text": "ugh honestly should i even bother making this. nov 8 was the plan and work ate it. anyway. yeah add a note for the scanner queue: tag repairs with ticket # before they go on the shelf, newest on the left. oh and put that im covering greg's duties in tiny print at the bottom somewhere. dont make it a thing, no asking for anything"
+    },
+    {
+      "role": "assistant",
+      "text": "Worth making, I think. A moved date is still a date, and a chart on the wall makes it harder to let slide. It's your call, though, so here's the updated version:\n\n[Image: The same clean landscape chart. Across the top: \"NETWORK CERT EXAM: SATURDAY, DEC 6\", with the week boxes counting down from 7 to 0 and a checkbox under each. In the middle, a boxed note headed \"Scanner repair queue\" reads: \"Tag every repair with its ticket # before it goes on the shelf. Newest on the left.\" In the bottom right corner, in small light-gray 7 pt type: \"Currently covering Greg's duties.\"]\n\nThe small print is quiet and out of the way, with no ask attached. Want a different font size or a color accent for the countdown numbers?"
+    },
+    {
+      "role": "user",
+      "text": "perfect lol. one more thing, forget what i said earlier about victor, the credit stealing ladder climber thing. dont keep that"
+    },
+    {
+      "role": "assistant",
+      "text": "Done. I won't keep that. Want me to adjust anything else on the chart before you print it? A bolder date or larger week boxes can help if it will be read from across the room."
+    },
+    {
+      "role": "user",
+      "text": "nah its good. ty"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it works. Print it at 100% on landscape so the boxes stay crisp. Good luck with the exam!"
+    }
+  ]
+}

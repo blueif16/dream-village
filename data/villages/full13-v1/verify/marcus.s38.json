@@ -1,0 +1,133 @@
+{
+  "session_id": "marcus.s38",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Thanksgiving is at his mom's duplex and he brings mac and cheese",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f44",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its at my moms duplex and im bringing mac and cheese",
+      "support_quote": ""
+    },
+    {
+      "text": "Plans baked mac and cheese with three cheeses",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.w12.n01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "want to make a baked one w 3 cheeses",
+      "support_quote": ""
+    },
+    {
+      "text": "Sends mom $250 every other Friday for electric bill",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i already send her 250 every other friday for her electric bill",
+      "support_quote": ""
+    },
+    {
+      "text": "Calls the transfers 'the mom fund'",
+      "about": "marcus",
+      "kind": "reference_use",
+      "item_id": "marcus.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the mom fund",
+      "support_quote": ""
+    },
+    {
+      "text": "Ridgeline pays every other Friday",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f15",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ridgeline pays every other friday",
+      "support_quote": ""
+    },
+    {
+      "text": "The $250 is earmarked for mom's electric bill",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The $250 is already earmarked for her electric bill",
+      "support_quote": "i already send her 250 every other friday for her electric bill"
+    },
+    {
+      "text": "He gets paid every other Friday",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f15",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you get paid every other Friday",
+      "support_quote": "ridgeline pays every other friday so ill shop after the next payday"
+    },
+    {
+      "text": "Feeding 8 people with $120 budget and dropping off sides for mom",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "like 8 people. also im dropping off sides and canned goods for her before the day",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.f44",
+      "present": true,
+      "quote": "its at my moms duplex and im bringing mac and cheese"
+    },
+    {
+      "item_id": "marcus.w12.n01",
+      "present": true,
+      "quote": "want to make a baked one w 3 cheeses. how much of everything do i buy"
+    },
+    {
+      "item_id": "marcus.f14",
+      "present": true,
+      "quote": "i already send her 250 every other friday for her electric bill"
+    },
+    {
+      "item_id": "marcus.r03",
+      "present": true,
+      "quote": "the mom fund. should groceries come out of that or my own cash"
+    },
+    {
+      "item_id": "marcus.f15",
+      "present": true,
+      "quote": "ridgeline pays every other friday so ill shop after the next payday"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

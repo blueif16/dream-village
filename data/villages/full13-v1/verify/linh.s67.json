@@ -1,0 +1,127 @@
+{
+  "session_id": "linh.s67",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Wants to take Intro to Nutrition in spring after loving the digestion unit",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want intro to nutrition in spring, i loved the digestion unit in anatomy this week",
+      "support_quote": ""
+    },
+    {
+      "text": "Works Mon/Wed 3-9 closing",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i work mon/wed 3-9 closing so nothing can overlap that",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a two-track plan from Denny, nursing vs public health, decide by Feb",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a two-track plan from denny, bayshore nursing vs bayshore public health. decide by feb",
+      "support_quote": ""
+    },
+    {
+      "text": "Researching dietitian path, drifting toward nutrition",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i spent lunch today looking up what a registered dietitian does day to day and the bayshore path for it",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants to tell mom without making it a big deal",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also how do i tell my mom about adding nutrition without making it a whole thing at home",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a two-track plan serving nursing and public health",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "That two-track plan works well here, because a spring semester can serve both tracks",
+      "support_quote": "i have a two-track plan from denny, bayshore nursing vs bayshore public health. decide by feb"
+    },
+    {
+      "text": "Avoid Monday and Wednesday 3-9 for classes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "filter for sections that avoid Monday and Wednesday 3-9",
+      "support_quote": "i work mon/wed 3-9 closing so nothing can overlap that"
+    },
+    {
+      "text": "Works Sat/Sun mornings",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Sat/Sun mornings**: work",
+      "support_quote": "sat/sun mornings too but those dont matter for classes"
+    },
+    {
+      "text": "Statistics is online",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "**Statistics (online)**: needed for both, and it won't clash with work",
+      "support_quote": "stats is online so that one is fine"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.i04",
+      "present": true,
+      "quote": "i spent lunch today looking up what a registered dietitian does day to day and the bayshore path for it"
+    },
+    {
+      "item_id": "linh.f46",
+      "present": true,
+      "quote": "i want intro to nutrition in spring, i loved the digestion unit in anatomy this week"
+    },
+    {
+      "item_id": "linh.f17",
+      "present": true,
+      "quote": "i have a two-track plan from denny, bayshore nursing vs bayshore public health. decide by feb"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "i work mon/wed 3-9 closing so nothing can overlap that"
+    },
+    {
+      "item_id": "linh.i01",
+      "present": true,
+      "quote": "also how do i tell my mom about adding nutrition without making it a whole thing at home"
+    }
+  ],
+  "sensitive": []
+}

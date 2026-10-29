@@ -1,0 +1,92 @@
+{
+  "session_id": "arjun.s81",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has standing Tuesday 3 p.m. mock interviews with Lena",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f17",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "I really appreciate you keeping this standing slot every week.",
+      "support_quote": ""
+    },
+    {
+      "text": "Lena makes him answer 'tell me about yourself' standing up",
+      "about": "lena",
+      "kind": "fact",
+      "item_id": "arjun.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "Making me answer \"tell me about yourself\" standing up felt ridiculous at first",
+      "support_quote": ""
+    },
+    {
+      "text": "Had Harrowgate second-round video interview tonight",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f14",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "My second-round video interview with Harrowgate Distribution was tonight and I just finished it",
+      "support_quote": ""
+    },
+    {
+      "text": "Jokes about surviving the interview with no idea how it went",
+      "about": "arjun",
+      "kind": "trait_shown",
+      "item_id": "arjun.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also i survived, no idea how it went 💀",
+      "support_quote": ""
+    },
+    {
+      "text": "Harrowgate interview wrapped up tonight",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f14",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "My second-round video interview with Harrowgate Distribution wrapped up tonight.",
+      "support_quote": "My second-round video interview with Harrowgate Distribution was tonight and I just finished it"
+    },
+    {
+      "text": "Has standing Tuesday 3 p.m. mock interview with Lena",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f17",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I appreciate having that standing slot each week.",
+      "support_quote": "I really appreciate you keeping this standing slot every week."
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f17",
+      "present": true,
+      "quote": "Thank you so much for the feedback after our Tuesday 3 p.m. mock interview today."
+    },
+    {
+      "item_id": "arjun.f55",
+      "present": true,
+      "quote": "Making me answer \"tell me about yourself\" standing up felt ridiculous at first but it genuinely helped"
+    },
+    {
+      "item_id": "arjun.f14",
+      "present": true,
+      "quote": "My second-round video interview with Harrowgate Distribution was tonight and I just finished it"
+    },
+    {
+      "item_id": "arjun.i04",
+      "present": true,
+      "quote": "also i survived, no idea how it went 💀"
+    }
+  ],
+  "sensitive": []
+}

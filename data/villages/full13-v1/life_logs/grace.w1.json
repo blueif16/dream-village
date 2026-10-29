@@ -1,0 +1,370 @@
+{
+  "principal": "grace",
+  "week": 1,
+  "entries": [
+    {
+      "id": "grace.w1.l01",
+      "date": "2025-08-25",
+      "what": "Arrives at 7:20 to beat the Vinca drop-off line and sets up B12 with Dana for the first day. Teaches periods 1, 2, 3, 5 and 6, with the lab-pair chart for third period, where Karina and Dulce are partners.",
+      "with": [
+        "dana",
+        "karina",
+        "dulce"
+      ],
+      "outcome": "First day ran smoothly, pair chart posted.",
+      "feeling": "busy but steady",
+      "facts": [
+        "grace.f01",
+        "grace.f11",
+        "grace.f56",
+        "cast.f16",
+        "grace.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l02",
+      "date": "2025-08-25",
+      "what": "Eats leftover rice and ulam in B12 during 4th period prep and runs Eli's extended-time test setup.",
+      "with": [
+        "eli"
+      ],
+      "outcome": "Arranged to run Eli's tests in B12 during prep.",
+      "feeling": "focused",
+      "facts": [
+        "grace.f02",
+        "grace.f14",
+        "grace.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l03",
+      "date": "2025-08-25",
+      "what": "Staff meeting where Principal Ocampo explains the new weekly chronic-absence reports. Grace notes the lab budget is $900 for all five sections.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "Knows she must fill the form by hand every Friday.",
+      "feeling": "mildly annoyed",
+      "facts": [
+        "cast.f85",
+        "grace.f16",
+        "grace.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l04",
+      "date": "2025-08-25",
+      "what": "Home at Tamarisk Court, dinner with Nanay and Isabel, then the teleserye with Corazón at 9. Ramón is on shift.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "Quiet evening, short exchange with Isabel about homework.",
+      "feeling": "tired",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l05",
+      "date": "2025-08-26",
+      "what": "Teaches all five sections; Tuesday is a lab safety day. Dulce and Karina work together in third period, Karina turning in a strong write-up.",
+      "with": [
+        "karina",
+        "dulce"
+      ],
+      "outcome": "Karina's early lab work is excellent, an A- start.",
+      "feeling": "satisfied",
+      "facts": [
+        "grace.f54",
+        "grace.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l06",
+      "date": "2025-08-26",
+      "what": "Uses her prep period to plan the Unit 1 measurement labs and counts goggles in B12 with Dana.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Goggle count is short by six; adds to supply list.",
+      "feeling": "worried about budget",
+      "facts": [
+        "grace.f03",
+        "grace.f16"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l07",
+      "date": "2025-08-26",
+      "what": "Fills up the minivan at the Ruel Road station on the way home and picks up groceries.",
+      "with": [],
+      "outcome": "Saved the 30 cents a gallon.",
+      "feeling": "practical",
+      "facts": [
+        "grace.f65"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l08",
+      "date": "2025-08-27",
+      "what": "Heat wave begins and the school holds a minimum day; B12 is stuffy, so she shifts to a demonstration in the morning classes.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Classes cut short, labs postponed.",
+      "feeling": "sweaty and irritated",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l09",
+      "date": "2025-08-27",
+      "what": "Picks up Isabel after school because of the heat, then checks on Corazón, who is resting in the back bedroom.",
+      "with": [
+        "isabel",
+        "corazon"
+      ],
+      "outcome": "Everyone stays inside with fans on.",
+      "feeling": "protective",
+      "facts": [
+        "cast.f07"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l10",
+      "date": "2025-08-27",
+      "what": "Preps next week's lab handouts at the kitchen table in the evening, then the teleserye with her mother.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Handouts drafted.",
+      "feeling": "tired",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l11",
+      "date": "2025-08-28",
+      "what": "Second heat wave day with another minimum schedule; Grace and Dana eat lunch in B12, Dana venting about her principal evaluation.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Shared a cold lunch with Dana.",
+      "feeling": "commiserating",
+      "facts": [
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l12",
+      "date": "2025-08-28",
+      "what": "Runs the Thursday routine and reviews Karina's and Dulce's lab write-ups while heat lingers in B12.",
+      "with": [
+        "karina",
+        "dulce"
+      ],
+      "outcome": "Marked the first stack of write-ups.",
+      "feeling": "focused",
+      "facts": [
+        "grace.f54"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l13",
+      "date": "2025-08-28",
+      "what": "Reminds herself of back-to-school night on Sept 4 and lists what to present to parents.",
+      "with": [],
+      "outcome": "Started a presentation outline.",
+      "feeling": "organized",
+      "facts": [
+        "grace.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l14",
+      "date": "2025-08-29",
+      "what": "Fills Principal Ocampo's absence form by hand from the gradebook, her first Friday form of the year, and turns it in on time.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "Submitted, though it took far longer than she wanted.",
+      "feeling": "resentful but compliant",
+      "facts": [
+        "cast.f85",
+        "grace.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l15",
+      "date": "2025-08-29",
+      "what": "Heat wave continues with a minimum day. Teaches shortened periods and sends students home early.",
+      "with": [],
+      "outcome": "Got through all five sections.",
+      "feeling": "worn out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l16",
+      "date": "2025-08-29",
+      "what": "Takes dinner at home while Isabel mentions Dulce-style friend drama from school; Ramón is off, and they watch a movie.",
+      "with": [
+        "ramon",
+        "isabel"
+      ],
+      "outcome": "Relaxed family evening.",
+      "feeling": "relieved",
+      "facts": [
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l17",
+      "date": "2025-08-30",
+      "what": "Does the Saturday morning shop at Ruiz Family Market and stops at Panadería Las Hermanas for rolls and conchas despite the heat.",
+      "with": [],
+      "outcome": "Stocked the kitchen.",
+      "feeling": "routine contentment",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l18",
+      "date": "2025-08-30",
+      "what": "Waters calamansi and tomato pots in the backyard early to protect them from the heat wave.",
+      "with": [],
+      "outcome": "Plants survived the day.",
+      "feeling": "calm",
+      "facts": [
+        "grace.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l19",
+      "date": "2025-08-30",
+      "what": "Helps Corazón with her pills and keeps her inside during the hottest hours.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Nanay stayed cool and comfortable.",
+      "feeling": "dutiful",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l20",
+      "date": "2025-08-31",
+      "what": "Takes Corazón to Tagalog Mass at 9 at Our Lady of the Marsh, then lunch at home with the family.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "Mass and lunch as usual.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f59",
+        "grace.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w1.l21",
+      "date": "2025-08-31",
+      "what": "Grades at the kitchen table and asks the assistant for a lab procedure; when it explains why the procedure works first, she says just the steps please.",
+      "with": [],
+      "outcome": "Gets a clean numbered procedure for next week's lab.",
+      "feeling": "brisk",
+      "facts": [
+        "grace.f12",
+        "grace.f03"
+      ],
+      "impressions": [
+        "grace.i05"
+      ]
+    },
+    {
+      "id": "grace.w1.l22",
+      "date": "2025-08-31",
+      "what": "Sets up her week, glances at unit dates for the Unit 1 schedule, and notes the mid-November conference dates.",
+      "with": [],
+      "outcome": "Calendar ready for the week.",
+      "feeling": "prepared",
+      "facts": [
+        "grace.f24",
+        "grace.f27"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w1.n01",
+      "subject": "grace",
+      "attribute": "classroom_supplies",
+      "value": "short six pairs of safety goggles for the Unit 1 labs",
+      "valid_from": "2025-08-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w1.n02",
+      "subject": "grace",
+      "attribute": "heat_wave_adjustment",
+      "value": "swapped Unit 1 labs for demonstrations on the hot minimum days",
+      "valid_from": "2025-08-27",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w1.n03",
+      "subject": "grace",
+      "attribute": "first_friday_form",
+      "value": "turned in the first absence form on time Aug 29",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w1.n04",
+      "subject": "grace",
+      "attribute": "garden_care",
+      "value": "watered calamansi and tomato pots early during the heat wave",
+      "valid_from": "2025-08-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w1.n05",
+      "subject": "grace",
+      "attribute": "back_to_school_night_prep",
+      "value": "started a presentation outline for Sept 4",
+      "valid_from": "2025-08-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

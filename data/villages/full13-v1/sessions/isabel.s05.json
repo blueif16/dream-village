@@ -1,0 +1,31 @@
+{
+  "id": "isabel.s05",
+  "principal": "isabel",
+  "start": "2025-09-04T16:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok so i tutor a 7th grader at kessler middle in math, wednesdays 4-5, $20. his name is mateo. first session was yesterday and he laughed at my pizza drawings which was kind of great. next one i need to do equivalent fractions and ratios and i need a gentle way to explain it. he gets discouraged fast"
+    },
+    {
+      "role": "assistant",
+      "text": "Pizza drawings landing with a laugh is a great sign, so build on that. Here's a gentle path for the next session.\n\n**Equivalent fractions**\n- Draw two identical pizzas (or rectangles). Cut one into 2 slices and shade 1. Cut the other into 4 slices and shade 2. Ask: \"Which one has more pizza?\" He'll see they match.\n- Then show the rule: same pizza, just cut into smaller pieces. Multiply top and bottom by the same number and you're cutting each slice into more pieces without changing the amount.\n- Have him make the next one himself (1/3 = ?/6) before you show the answer.\n\n**Ratios**\n- Start with something concrete: 2 pepperoni slices for every 3 cheese. Draw a row of it.\n- Show that doubling the recipe gives 4 pepperoni for 6 cheese, which is the same idea as equivalent fractions: same relationship, bigger or smaller batch.\n- A simple table (1 batch, 2 batches, 3 batches) makes the pattern visible.\n\n**If he gets frustrated**\n- Shrink the problem: \"Let's do an easier one first, then come back.\"\n- Normalize it: \"This is one of those topics that feels slippery until it clicks. Lots of people get stuck here.\"\n- Praise the process, not just the answer: \"I like that you drew it out,\" or \"Your first step was exactly right.\"\n- Let him teach you: \"Pretend I'm confused, how would you explain it?\"\n- Stop on a win. End with a problem he can get right.\n\nWant a short worksheet of 5 problems that ramp up gently?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls. i only have an hour before i go back to working on the snow list tonight so keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a quick set that ramps up:\n\n1. Shade 1/2 of a pizza. Draw another cut into 4 slices. How many slices to shade to match? (2)\n2. 1/3 = ?/6 (2)\n3. 2/5 = ?/10 (4)\n4. Is 3/4 the same as 6/8? Draw or multiply to check. (yes)\n5. A recipe uses 2 cups flour for 3 cups water. How much flour for 6 cups water? (4)\n\nTip: let him pick which problem to start with, and cheer on number 1 hard. Early wins keep the rest feeling doable.\n\nWant a printable version?"
+    },
+    {
+      "role": "user",
+      "text": "no this is good. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Sounds good. Hope the session goes well!"
+    }
+  ]
+}

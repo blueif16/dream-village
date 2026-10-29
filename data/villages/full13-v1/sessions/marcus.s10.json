@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s10",
+  "principal": "marcus",
+  "start": "2025-09-14T20:33:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick, how long does a power bank last on a phone and what size do i need for a 10 hr shift"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. It depends on your phone's battery and how heavily you use it. Can you tell me roughly what phone you have and what you do with it during a shift (music, texting, scanning, etc.)?"
+    },
+    {
+      "role": "user",
+      "text": "cracked-corner android, like 3 yrs old. battery dies by 4 am lol. i carry a power bank on shift now but not sure its big enough. music in one earbud all night. heading to my 10pm to 6:30 shift tonight so kinda need this soon"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. An older battery usually holds less than it did new, and if yours is dead by 4 a.m. it's probably losing about a full charge over that stretch.\n\nRough math:\n- Most phone batteries are around 4,000-5,000 mAh. A power bank delivers only about 60-70% of its rated capacity because of conversion loss.\n- A 5,000 mAh bank gives you roughly 3,000-3,500 mAh usable, about one partial charge, so it's the minimum for your shift.\n- A 10,000 mAh bank gives roughly 6,000-7,000 usable, which is about 1.5 charges. That's the sweet spot for 8-10 hours of music plus some texting, especially with an aging battery.\n- 20,000 mAh is more than you need and heavier in a pocket.\n\nSo check the number printed on yours. If it says 10,000 you're likely fine; if it's 5,000 you'll probably get you to the end of the shift but with little to spare.\n\nCheap options (typical prices, they vary by store):\n- Anker or similar 10,000 mAh slim: about $20-30. Reliable brand and decent cells.\n- Budget brands like INIU or Baseus 10,000 mAh: about $15-22, well reviewed.\n- 20,000 mAh from the same brands: about $25-40 if you want a buffer.\n\nTips: charge the bank fully before you leave, keep your phone on low-power mode, and turn down screen brightness. A short cable is easier in a pocket.\n\nIf you tell me what's printed on yours, I can say whether it'll cover tonight."
+    },
+    {
+      "role": "user",
+      "text": "short version pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: get a 10,000 mAh bank. It covers about 1.5 charges, enough for a 10-hour shift with an old battery. A 5,000 only gives you about one. Good cheap picks are Anker or INIU at roughly $15-30. For tonight, charge yours fully and use low-power mode."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped"
+    },
+    {
+      "role": "assistant",
+      "text": "Glad it helped. Have a good shift!"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "marcus.s14",
+  "principal": "marcus",
+  "start": "2025-09-23T13:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick need help w biomechanics before my thursday section. torque and joint moment arms. i just woke up like 1 and have to catch the afternoon section mon/wed/thu so i gotta leave soon. took notes on my phone half asleep monday and half of them are garbled lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to help. Here's the core idea in a compact form.\n\n**Torque = force x moment arm**\n- Torque is the turning effect of a force around a joint.\n- Moment arm = the perpendicular distance from the joint's axis to the line of action of the force.\n\n**At a joint (like the elbow):**\n- Muscle force pulls on the forearm. Its moment arm is short (the muscle attaches close to the joint).\n- A weight in your hand pulls down with a long moment arm (the distance from elbow to hand).\n- The muscle has to produce enough torque to match the load's torque.\n\n**Key points:**\n1. Same force, longer moment arm = more torque.\n2. Moment arm changes with joint angle. It's largest when the force acts at 90 degrees to the limb, so a curl is hardest around 90 degrees.\n3. Because the muscle's moment arm is short, muscles have to produce way more force than the load weighs.\n\nQuick example: a 10 N weight held 0.3 m from the elbow gives 3 N·m. If the biceps attaches 0.04 m from the joint, it needs 3 / 0.04 = 75 N.\n\nWant me to quiz you on a couple of these?"
+    },
+    {
+      "role": "user",
+      "text": "ok that makes sense. biomechanics is one of my 4 classes this term w ex phys stats and intro psych and i dont wanna fall behind in it. my phone is almost dead so keep it short. fatima shares her google doc notes so ill compare to that for the stuff i slept thru"
+    },
+    {
+      "role": "assistant",
+      "text": "Good plan. When you check Fatima's doc, look for these:\n\n- The torque formula: torque = force x perpendicular distance\n- How moment arm changes with joint angle\n- Any worked examples with numbers, and whether they use N·m\n\nTwo quick checks:\n1. If the moment arm doubles and the force stays the same, what happens to torque?\n2. Why does a muscle need more force than the weight it's holding?\n\nAnswers: 1) it doubles; 2) its moment arm is much shorter than the load's.\n\nIf anything in her notes doesn't match, send it over and I'll sort it out."
+    },
+    {
+      "role": "user",
+      "text": "lol ok that helped. thanks"
+    },
+    {
+      "role": "assistant",
+      "text": "Anytime. Good luck in section, and plug in that phone if you can."
+    }
+  ]
+}

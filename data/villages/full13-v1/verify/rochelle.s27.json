@@ -1,0 +1,142 @@
+{
+  "session_id": "rochelle.s27",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Scored 84 on the anatomy practical and has a B overall",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "got an 84 on the anatomy practical friday and im at a B overall",
+      "support_quote": ""
+    },
+    {
+      "text": "Okoye's cumulative final is Dec 15",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f27",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "okoye's cumulative final is dec 15",
+      "support_quote": ""
+    },
+    {
+      "text": "Worked Saturday senior lunch shift 8 to 1",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "worked the saturday senior lunch shift this morning 8 to 1",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants the minimum final score to keep the B, tracking grades closely",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i05",
+      "relation": "contradicts",
+      "speaker": "user",
+      "quote": "whats the lowest i can score on it and still keep the B",
+      "support_quote": ""
+    },
+    {
+      "text": "Meal prepped for Andre and drove Loretta before studying, then scolds herself",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "should have done this days ago",
+      "support_quote": ""
+    },
+    {
+      "text": "Learns through rate and totes warehouse analogies",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "explain the weighting like rate and totes on the line. i remember stuff better that way",
+      "support_quote": ""
+    },
+    {
+      "text": "Drove Loretta to the pharmacy",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "then drove loretta to the pharmacy",
+      "support_quote": ""
+    },
+    {
+      "text": "Final is on Dec 15",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f27",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Minimum on the Dec 15 final: about 68%.",
+      "support_quote": "okoye's cumulative final is dec 15"
+    },
+    {
+      "text": "Assistant uses warehouse analogy as she asked",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.i07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Think of the semester as a shift.",
+      "support_quote": "explain the weighting like rate and totes on the line"
+    },
+    {
+      "text": "Worked a shift this morning",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Get some rest after that shift!",
+      "support_quote": "worked the saturday senior lunch shift this morning 8 to 1 and im wiped lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f26",
+      "present": true,
+      "quote": "got an 84 on the anatomy practical friday and im at a B overall"
+    },
+    {
+      "item_id": "rochelle.f27",
+      "present": true,
+      "quote": "okoye's cumulative final is dec 15"
+    },
+    {
+      "item_id": "rochelle.i05",
+      "present": true,
+      "quote": "whats the lowest i can score on it and still keep the B"
+    },
+    {
+      "item_id": "rochelle.i01",
+      "present": true,
+      "quote": "only getting to this now bc i meal prepped for andre all afternoon and then drove loretta to the pharmacy. should have done this days ago"
+    },
+    {
+      "item_id": "rochelle.i07",
+      "present": true,
+      "quote": "explain the weighting like rate and totes on the line"
+    },
+    {
+      "item_id": "rochelle.f07",
+      "present": true,
+      "quote": "worked the saturday senior lunch shift this morning 8 to 1 and im wiped lol"
+    }
+  ],
+  "sensitive": []
+}

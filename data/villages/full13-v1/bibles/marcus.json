@@ -1,0 +1,970 @@
+{
+  "principal": "marcus",
+  "summary": "Marcus Bell is a 19-year-old kinesiology sophomore at Bayshore State, Tamsen campus, who picks orders on the Ridgeline RF-4 night shift to cover his half of the Marisol Gardens rent and, since mid-September, to send money to his mom Denise after her drugstore hours were cut. He sleeps from about 8 a.m. to 1 p.m., drags himself to afternoon sections, and leans on classmate Fatima's notes when he sleeps through lecture. His advisor Marissa Holt has already warned him his GPA is slipping, and he wants to stay eligible for the kinesiology major and eventually become a physical therapist or strength coach. His girlfriend Jade resents his schedule, and October's mandatory ten-hour overtime makes everything tighter. He is easygoing with everyone at work but gets prickly when his roommate gives him advice. He budgets carefully on groceries and bills and then blows it on sneakers. Over the fall he tries to keep his grades, his relationship, his mom's rent and his own sleep from collapsing at the same time.",
+  "facts": [
+    {
+      "id": "marcus.f01",
+      "subject": "marcus",
+      "attribute": "school_program",
+      "value": "Bayshore State kinesiology sophomore, Tamsen campus",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f02",
+      "subject": "marcus",
+      "attribute": "class_schedule",
+      "value": "afternoon sections Mon/Wed/Thu 2-5:15 p.m.",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f03",
+      "subject": "marcus",
+      "attribute": "job",
+      "value": "night picker at Ridgeline RF-4 outbound",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f04",
+      "subject": "marcus",
+      "attribute": "shift_schedule",
+      "value": "nights Sun-Thu 10 p.m.-6:30 a.m.",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "marcus.f05",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f05",
+      "subject": "marcus",
+      "attribute": "shift_schedule",
+      "value": "mandatory 10-hour nights Sun-Thu 9 p.m.-7:30 a.m.",
+      "valid_from": "2025-10-06",
+      "valid_to": "2025-11-23",
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f06",
+      "subject": "marcus",
+      "attribute": "hourly_pay",
+      "value": "$23.25 night rate",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "marcus.f07",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f07",
+      "subject": "marcus",
+      "attribute": "hourly_pay",
+      "value": "$24.75 with $1.50 peak bump",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f08",
+      "subject": "marcus",
+      "attribute": "sleep_window",
+      "value": "8 a.m. to 1 p.m.",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "marcus.f09",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f09",
+      "subject": "marcus",
+      "attribute": "sleep_window",
+      "value": "8:30 a.m. to 1:30 p.m., often cut short on class days",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f10",
+      "subject": "marcus",
+      "attribute": "home",
+      "value": "Marisol Gardens two-bedroom unit 132, shared with roommate",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f11",
+      "subject": "marcus",
+      "attribute": "rent_share",
+      "value": "$1,050 a month, due the 1st via the Marisol portal",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f12",
+      "subject": "marcus",
+      "attribute": "money_to_mom",
+      "value": "none regularly",
+      "valid_from": null,
+      "valid_to": "2025-09-19",
+      "superseded_by": "marcus.f13",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f13",
+      "subject": "marcus",
+      "attribute": "money_to_mom",
+      "value": "$150 Venmo every other Friday",
+      "valid_from": "2025-09-19",
+      "valid_to": "2025-10-17",
+      "superseded_by": "marcus.f14",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f14",
+      "subject": "marcus",
+      "attribute": "money_to_mom",
+      "value": "$250 every other Friday, covering her electric bill",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f15",
+      "subject": "marcus",
+      "attribute": "payday",
+      "value": "Ridgeline pays biweekly Fridays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f16",
+      "subject": "marcus",
+      "attribute": "savings_goal",
+      "value": "$1,200 emergency cushion, at about $480",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f17",
+      "subject": "marcus",
+      "attribute": "transport",
+      "value": "Tule Line to Bayshore, bike to Ridgeline",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "marcus.f18",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f18",
+      "subject": "marcus",
+      "attribute": "transport",
+      "value": "carpools to Ridgeline with Trevor in his Corolla, $20 a week gas",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f19",
+      "subject": "marcus",
+      "attribute": "bike",
+      "value": "secondhand gray commuter bike with a squeaky rear brake",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f20",
+      "subject": "marcus",
+      "attribute": "gym",
+      "value": "Iron Flats Fitness, $29/month, lifts at 6:45 a.m. after shift",
+      "valid_from": null,
+      "valid_to": "2025-10-06",
+      "superseded_by": "marcus.f21",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f21",
+      "subject": "marcus",
+      "attribute": "gym",
+      "value": "cut to two sessions a week Fri/Sat mornings during overtime",
+      "valid_from": "2025-10-06",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f22",
+      "subject": "marcus",
+      "attribute": "lift_goal",
+      "value": "405 lb deadlift by end of year, current best 375",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f23",
+      "subject": "marcus",
+      "attribute": "advisor_warning",
+      "value": "Holt warned GPA 2.4 risks major eligibility, needs 2.7",
+      "valid_from": "2025-09-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f24",
+      "subject": "marcus",
+      "attribute": "courses",
+      "value": "Exercise Physiology, Biomechanics, Stats 120, Intro Psych",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f25",
+      "subject": "marcus",
+      "attribute": "midterm_dates",
+      "value": "Biomechanics midterm Oct 16, Ex Phys midterm Oct 22",
+      "valid_from": "2025-08-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f26",
+      "subject": "marcus",
+      "attribute": "stats_grade",
+      "value": "D after first two quizzes",
+      "valid_from": "2025-09-26",
+      "valid_to": "2025-11-07",
+      "superseded_by": "marcus.f27",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f27",
+      "subject": "marcus",
+      "attribute": "stats_grade",
+      "value": "C+ after tutoring center sessions",
+      "valid_from": "2025-11-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f28",
+      "subject": "marcus",
+      "attribute": "tutoring",
+      "value": "Bayshore stats tutoring center Wednesdays 12:30",
+      "valid_from": "2025-10-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f29",
+      "subject": "marcus",
+      "attribute": "career_goal",
+      "value": "physical therapist or strength coach",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f30",
+      "subject": "marcus",
+      "attribute": "phone",
+      "value": "cracked-corner Android, three years old, battery dies by 4 a.m.",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f31",
+      "subject": "marcus",
+      "attribute": "power_bank",
+      "value": "carries a power bank on shift",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f32",
+      "subject": "marcus",
+      "attribute": "sneaker_collection",
+      "value": "about 14 pairs, keeps boxes stacked in closet",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f33",
+      "subject": "marcus",
+      "attribute": "sneaker_budget",
+      "value": "no limit",
+      "valid_from": null,
+      "valid_to": "2025-10-20",
+      "superseded_by": "marcus.f34",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f34",
+      "subject": "marcus",
+      "attribute": "sneaker_budget",
+      "value": "self-imposed $100 a month cap after a $240 release",
+      "valid_from": "2025-10-20",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f35",
+      "subject": "marcus",
+      "attribute": "work_shoes",
+      "value": "black steel-toe-free trainers, replaced every 4 months",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f36",
+      "subject": "marcus",
+      "attribute": "breakfast",
+      "value": "eggs and rice after shift, or Taquería Colima burrito on paydays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f37",
+      "subject": "marcus",
+      "attribute": "meal_prep",
+      "value": "Sunday chicken-and-rice prep, five containers",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f38",
+      "subject": "marcus",
+      "attribute": "drink",
+      "value": "two energy drinks a shift",
+      "valid_from": null,
+      "valid_to": "2025-11-03",
+      "superseded_by": "marcus.f39",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f39",
+      "subject": "marcus",
+      "attribute": "drink",
+      "value": "one cold brew before shift, quit energy drinks",
+      "valid_from": "2025-11-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f40",
+      "subject": "marcus",
+      "attribute": "dock_assignment",
+      "value": "general pick floor",
+      "valid_from": null,
+      "valid_to": "2025-09-15",
+      "superseded_by": "marcus.f41",
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f41",
+      "subject": "marcus",
+      "attribute": "dock_assignment",
+      "value": "cold dock, needs a freezer jacket",
+      "valid_from": "2025-09-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f42",
+      "subject": "marcus",
+      "attribute": "rate_record",
+      "value": "one rate write-up on file",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f43",
+      "subject": "marcus",
+      "attribute": "music",
+      "value": "old-school West Coast rap on shift in one earbud",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f44",
+      "subject": "marcus",
+      "attribute": "thanksgiving_plan",
+      "value": "Thanksgiving at mom's duplex, bringing mac and cheese",
+      "valid_from": "2025-11-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f45",
+      "subject": "marcus",
+      "attribute": "date_night",
+      "value": "Saturday evenings with Jade, usually Phở Bến Thành",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f46",
+      "subject": "marcus",
+      "attribute": "spring_plan",
+      "value": "registering for spring with 12 units, registration window Nov 18",
+      "valid_from": "2025-11-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f47",
+      "subject": "marcus",
+      "attribute": "student_id_number",
+      "value": "Bayshore student ID 918-442-7065",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "never_store"
+    },
+    {
+      "id": "marcus.f48",
+      "subject": "marcus",
+      "attribute": "debt_to_trevor",
+      "value": "owes Trevor $60 for gas and a burrito run",
+      "valid_from": "2025-10-24",
+      "valid_to": "2025-11-07",
+      "superseded_by": null,
+      "class": "forgotten"
+    },
+    {
+      "id": "marcus.f49",
+      "subject": "denise",
+      "attribute": "pride_about_money",
+      "value": "calls Marcus's transfers 'loans' and writes them in a notebook",
+      "valid_from": "2025-09-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f50",
+      "subject": "denise",
+      "attribute": "favorite_dish",
+      "value": "smothered pork chops on Sundays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f51",
+      "subject": "jade",
+      "attribute": "class_schedule",
+      "value": "clinic labs Tue/Thu mornings, off Fridays",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f52",
+      "subject": "jade",
+      "attribute": "birthday",
+      "value": "October 30",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f53",
+      "subject": "trevor",
+      "attribute": "car",
+      "value": "2009 Corolla with a broken passenger window crank",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f54",
+      "subject": "trevor",
+      "attribute": "write_up_count",
+      "value": "on final warning since September",
+      "valid_from": "2025-09-18",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f55",
+      "subject": "fatima",
+      "attribute": "note_sharing",
+      "value": "shares Google Doc notes for Ex Phys and Biomechanics",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f56",
+      "subject": "jose",
+      "attribute": "assignment_habit",
+      "value": "posts dock assignments at 9:40 p.m. on the breakroom board",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f57",
+      "subject": "mike",
+      "attribute": "program_for_marcus",
+      "value": "5/3/1 strength program",
+      "valid_from": null,
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.f58",
+      "subject": "marcus",
+      "attribute": "jade_birthday_gift",
+      "value": "booked dinner at Phở Bến Thành and bought a silver bracelet, $85",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "marcus.f59",
+      "subject": "marcus",
+      "attribute": "crush_opinion",
+      "value": "thinks Carla is unfair and told the assistant she plays favorites",
+      "valid_from": "2025-10-14",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ],
+  "impressions": [
+    {
+      "id": "marcus.i01",
+      "statement": "Bristles at unsolicited advice and wants to arrive at his own fixes.",
+      "about": "marcus",
+      "evidence": [
+        {
+          "id": "marcus.i01.e1",
+          "date": "2025-09-09",
+          "description": "asks for a sleep schedule but adds 'not the 8 hours lecture, i know'"
+        },
+        {
+          "id": "marcus.i01.e2",
+          "date": "2025-09-30",
+          "description": "asks how to phrase 'i got it' to his roommate after being handed a printed budget"
+        },
+        {
+          "id": "marcus.i01.e3",
+          "date": "2025-10-21",
+          "description": "rejects a suggested study plan and rewrites it himself, then asks only for proofreading"
+        },
+        {
+          "id": "marcus.i01.e4",
+          "date": "2025-11-12",
+          "description": "says 'just give me options, ill pick' when asking about spring classes"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "marcus.i02",
+      "statement": "Puts his mom's needs ahead of his own without telling her what it costs him.",
+      "about": "marcus",
+      "evidence": [
+        {
+          "id": "marcus.i02.e1",
+          "date": "2025-09-19",
+          "description": "redoes his monthly budget to squeeze out $150 for her, cutting his own gym supplements"
+        },
+        {
+          "id": "marcus.i02.e2",
+          "date": "2025-10-17",
+          "description": "asks how to word a Venmo note so she won't refuse it"
+        },
+        {
+          "id": "marcus.i02.e3",
+          "date": "2025-10-28",
+          "description": "drafts a text telling her he got a raise so she won't worry about the bigger transfer"
+        },
+        {
+          "id": "marcus.i02.e4",
+          "date": "2025-11-10",
+          "description": "plans Thanksgiving groceries he'll buy and drop off quietly"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "marcus.i03",
+      "statement": "Rationalizes sneaker purchases as investments when he's stressed.",
+      "about": "marcus",
+      "evidence": [
+        {
+          "id": "marcus.i03.e1",
+          "date": "2025-09-27",
+          "description": "asks about resale value of a release right after a bad stats quiz"
+        },
+        {
+          "id": "marcus.i03.e2",
+          "date": "2025-10-18",
+          "description": "buys a $240 pair after the write-up and asks how to 'flip later'"
+        },
+        {
+          "id": "marcus.i03.e3",
+          "date": "2025-10-20",
+          "description": "asks for a spending tracker with a sneaker line capped at $100"
+        },
+        {
+          "id": "marcus.i03.e4",
+          "date": "2025-11-15",
+          "description": "talks himself out of a drop by asking for the cost in shifts"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "marcus.i04",
+      "statement": "Uses humor to deflect when the relationship with Jade gets tense.",
+      "about": "marcus",
+      "evidence": [
+        {
+          "id": "marcus.i04.e1",
+          "date": "2025-09-12",
+          "description": "asks for a funny text to send after missing her day off"
+        },
+        {
+          "id": "marcus.i04.e2",
+          "date": "2025-10-09",
+          "description": "jokes about being a vampire while asking how to explain the overtime schedule"
+        },
+        {
+          "id": "marcus.i04.e3",
+          "date": "2025-10-30",
+          "description": "plans her birthday and asks if a joke card is enough to apologize for being late"
+        },
+        {
+          "id": "marcus.i04.e4",
+          "date": "2025-11-19",
+          "description": "asks for a sincere message, then requests it 'less corny'"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    },
+    {
+      "id": "marcus.i05",
+      "statement": "Doesn't care about school and is coasting.",
+      "about": "marcus",
+      "evidence": [
+        {
+          "id": "marcus.i05.e1",
+          "date": "2025-10-13",
+          "description": "skips an assigned reading entirely after a double overtime night"
+        },
+        {
+          "id": "marcus.i05.e2",
+          "date": "2025-09-25",
+          "description": "maps out a GPA recovery plan the day after Holt's warning"
+        },
+        {
+          "id": "marcus.i05.e3",
+          "date": "2025-10-01",
+          "description": "books stats tutoring and asks for practice problems"
+        },
+        {
+          "id": "marcus.i05.e4",
+          "date": "2025-11-07",
+          "description": "proudly shares his C+ and asks how to push to a B"
+        }
+      ],
+      "formed": null,
+      "changed": null,
+      "changed_to": "",
+      "decoy": true,
+      "sensitive": false
+    },
+    {
+      "id": "marcus.i06",
+      "statement": "Gets more methodical about his own body and fuel once overtime starts grinding him down.",
+      "about": "marcus",
+      "evidence": [
+        {
+          "id": "marcus.i06.e1",
+          "date": "2025-09-07",
+          "description": "asks for a cheap high-protein meal prep list"
+        },
+        {
+          "id": "marcus.i06.e2",
+          "date": "2025-10-08",
+          "description": "asks how to keep strength on two lifts a week"
+        },
+        {
+          "id": "marcus.i06.e3",
+          "date": "2025-11-03",
+          "description": "asks for a plan to taper off energy drinks"
+        },
+        {
+          "id": "marcus.i06.e4",
+          "date": "2025-11-14",
+          "description": "asks about stretching routines for the cold dock"
+        }
+      ],
+      "formed": "2025-09-07",
+      "changed": null,
+      "changed_to": "",
+      "decoy": false,
+      "sensitive": false
+    }
+  ],
+  "references": [
+    {
+      "id": "marcus.r01",
+      "term": "the cold dock",
+      "meaning": "his freezer-area assignment at Ridgeline",
+      "first_use": "2025-09-15"
+    },
+    {
+      "id": "marcus.r02",
+      "term": "Holt's number",
+      "meaning": "the 2.7 GPA he needs for kinesiology eligibility",
+      "first_use": "2025-09-24"
+    },
+    {
+      "id": "marcus.r03",
+      "term": "the mom fund",
+      "meaning": "his biweekly transfers to Denise",
+      "first_use": "2025-09-19"
+    },
+    {
+      "id": "marcus.r04",
+      "term": "vampire week",
+      "meaning": "weeks of overtime nights where he barely sees daylight",
+      "first_use": "2025-10-09"
+    },
+    {
+      "id": "marcus.r05",
+      "term": "the box wall",
+      "meaning": "his stacked sneaker boxes in the closet",
+      "first_use": "2025-09-27"
+    }
+  ],
+  "arcs": [
+    {
+      "id": "marcus.a01",
+      "title": "Overtime grind",
+      "summary": "Peak season reshapes his sleep, gym, transport and pay.",
+      "beats": [
+        {
+          "date": "2025-09-15",
+          "what": "moved to the cold dock",
+          "facts": [
+            "marcus.f40",
+            "marcus.f41"
+          ]
+        },
+        {
+          "date": "2025-10-06",
+          "what": "mandatory 10-hour nights start, carpool with Trevor, gym cut",
+          "facts": [
+            "marcus.f04",
+            "marcus.f05",
+            "marcus.f06",
+            "marcus.f07",
+            "marcus.f08",
+            "marcus.f09",
+            "marcus.f17",
+            "marcus.f18",
+            "marcus.f20",
+            "marcus.f21"
+          ]
+        },
+        {
+          "date": "2025-10-14",
+          "what": "first rate write-up",
+          "facts": [
+            "marcus.f42",
+            "marcus.f59"
+          ]
+        },
+        {
+          "date": "2025-11-03",
+          "what": "quits energy drinks",
+          "facts": [
+            "marcus.f38",
+            "marcus.f39"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marcus.a02",
+      "title": "Grades and the mom fund",
+      "summary": "Supporting Denise while dragging his GPA back toward 2.7.",
+      "beats": [
+        {
+          "date": "2025-09-19",
+          "what": "starts sending money home",
+          "facts": [
+            "marcus.f12",
+            "marcus.f13",
+            "marcus.f49"
+          ]
+        },
+        {
+          "date": "2025-09-24",
+          "what": "Holt's warning",
+          "facts": [
+            "marcus.f23",
+            "marcus.f26"
+          ]
+        },
+        {
+          "date": "2025-10-17",
+          "what": "raises transfers",
+          "facts": [
+            "marcus.f13",
+            "marcus.f14"
+          ]
+        },
+        {
+          "date": "2025-10-20",
+          "what": "sneaker cap after splurge",
+          "facts": [
+            "marcus.f33",
+            "marcus.f34"
+          ]
+        },
+        {
+          "date": "2025-11-07",
+          "what": "stats grade improves",
+          "facts": [
+            "marcus.f26",
+            "marcus.f27",
+            "marcus.f28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "marcus.a03",
+      "title": "Keeping Jade",
+      "summary": "Trying to show up for Jade despite nights.",
+      "beats": [
+        {
+          "date": "2025-10-25",
+          "what": "birthday plans",
+          "facts": [
+            "marcus.f52",
+            "marcus.f58"
+          ]
+        },
+        {
+          "date": "2025-11-10",
+          "what": "Thanksgiving plan",
+          "facts": [
+            "marcus.f44"
+          ]
+        }
+      ]
+    }
+  ],
+  "voice": {
+    "texting_style": "all lowercase, few commas, short bursts, 'lol' and 'fr', occasional 😮‍💨, typos when tired",
+    "with_assistant": "minimal context, blunt asks, says thanks, skims long answers and asks for 'the short version'",
+    "quirks": [
+      "says 'real quick' before big asks",
+      "messages right after shift at 7 a.m.",
+      "asks for costs in shifts",
+      "calls tasks 'reps'"
+    ],
+    "sample_lines": [
+      "real quick can u make this budget not look depressing",
+      "short version pls",
+      "whats a good protein breakfast i can make half asleep",
+      "how do i say no to overtime without sounding lazy",
+      "fr just give me 3 options",
+      "lol ok that helped"
+    ]
+  },
+  "usage": {
+    "frequency": "several_per_week",
+    "active_hours": [
+      7,
+      13,
+      14,
+      20,
+      21
+    ]
+  }
+}

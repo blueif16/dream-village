@@ -1,0 +1,91 @@
+{
+  "impression_id": "rochelle.i02",
+  "evidence_sessions": [
+    "rochelle.s08",
+    "rochelle.s12",
+    "rochelle.s28",
+    "rochelle.s33",
+    "rochelle.s36"
+  ],
+  "inferred": [
+    {
+      "statement": "Rochelle prefers short, concise answers and repeatedly asks for 'short version' or 'no essay' because her time is tight and fragmented.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s12",
+        "rochelle.s28",
+        "rochelle.s33",
+        "rochelle.s36"
+      ]
+    },
+    {
+      "statement": "She is anxious about timed online quizzes and tech failures, repeatedly asking what happens if the browser freezes or times out, and she freezes when a timer starts on a screen.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s12",
+        "rochelle.s28",
+        "rochelle.s33",
+        "rochelle.s36"
+      ]
+    },
+    {
+      "statement": "She performs better in low-pressure, in-person or paper formats (aloud 9/10 vs online 5/10, loud in lecture) and builds her own workarounds such as paper quizzes with a kitchen timer at a quiet table after 9pm.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s12",
+        "rochelle.s28",
+        "rochelle.s33",
+        "rochelle.s36"
+      ]
+    },
+    {
+      "statement": "She juggles school with heavy family duties (cooking dinner for her husband, DeShawn's pickups, Tuesday pharmacy runs with her mother-in-law), which repeatedly squeeze her study time and group sessions.",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s28",
+        "rochelle.s33"
+      ]
+    },
+    {
+      "statement": "She opens with 'ok be honest' and wants direct, candid feedback rather than cushioning, then accepts edits readily with casual thanks ('ok bet').",
+      "strength": "strong",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s12",
+        "rochelle.s28",
+        "rochelle.s33",
+        "rochelle.s36"
+      ]
+    },
+    {
+      "statement": "She tends to blame herself for falling behind and uses humor ('lol') to deflect stress about grades and performance.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s12",
+        "rochelle.s36"
+      ]
+    },
+    {
+      "statement": "She values her sister Keisha and wants to keep the relationship warm while setting boundaries, softening requests with affection and emojis.",
+      "strength": "moderate",
+      "sessions": [
+        "rochelle.s08",
+        "rochelle.s33"
+      ]
+    },
+    {
+      "statement": "She shares sensitive personal details casually, such as typing out her driver's license number to the assistant, suggesting low guardedness about privacy in practical help-seeking.",
+      "strength": "weak",
+      "sessions": [
+        "rochelle.s33"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "She performs better in low-pressure, in-person or paper formats (aloud 9/10 vs online 5/10, loud in lecture) and builds her own workarounds such as paper quizzes with a kitchen timer at a quiet table after 9pm.",
+  "rationale": "The reader's strong statements say she freezes when a timer starts on a screen and does much better aloud or in lecture than online (9/10 vs 5/10, loud in lecture). Together these capture the intended pattern of confident and loud in person but losing nerve on timed screens."
+}

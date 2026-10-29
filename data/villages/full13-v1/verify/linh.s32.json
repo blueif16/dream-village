@@ -1,0 +1,137 @@
+{
+  "session_id": "linh.s32",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Helped at Lotus Nails front desk 2-5 after cafe shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f39",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just got home from the front desk at lotus nails, 2-5 after the cafe",
+      "support_quote": ""
+    },
+    {
+      "text": "Keeps a planner with washi tape notes",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "planner (washi tape notes in brackets):",
+      "support_quote": ""
+    },
+    {
+      "text": "Packed five rice bowls for the week",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i packed five rice bowls for the week so lunch is done",
+      "support_quote": ""
+    },
+    {
+      "text": "Walked the marsh boardwalk this afternoon",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i walked the marsh boardwalk this afternoon to clear my head",
+      "support_quote": ""
+    },
+    {
+      "text": "Postponing the pharmacy talk with her mom",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "kind of part of the pharmacy talk i keep putting off",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a yellow list to review",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "fri - class 9, review yellow list [yellow washi]",
+      "support_quote": ""
+    },
+    {
+      "text": "Packed five rice bowls for lunch",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f30",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Daily** - Rice bowl for lunch (5 packed)",
+      "support_quote": "i packed five rice bowls for the week so lunch is done"
+    },
+    {
+      "text": "Linh works late Mon and Wed",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Mon and Wed I'm working late",
+      "support_quote": "maybe mon wed i work late so i cant"
+    },
+    {
+      "text": "Linh works cafe Sat/Sun 6:30-1",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "**Sat/Sun** - Cafe 6:30-1",
+      "support_quote": "sat/sun - cafe 6:30-1"
+    },
+    {
+      "text": "Linh wants to cook dinner for mom a few nights",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i was thinking i could make dinner a few nights this week so u dont have to cook so late",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f39",
+      "present": true,
+      "quote": "just got home from the front desk at lotus nails, 2-5 after the cafe"
+    },
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "planner (washi tape notes in brackets):"
+    },
+    {
+      "item_id": "linh.f30",
+      "present": true,
+      "quote": "i packed five rice bowls for the week so lunch is done"
+    },
+    {
+      "item_id": "linh.f36",
+      "present": true,
+      "quote": "i walked the marsh boardwalk this afternoon to clear my head"
+    },
+    {
+      "item_id": "linh.r04",
+      "present": true,
+      "quote": "kind of part of the pharmacy talk i keep putting off"
+    }
+  ],
+  "sensitive": []
+}

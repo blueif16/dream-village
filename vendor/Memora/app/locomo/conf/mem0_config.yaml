@@ -1,0 +1,82 @@
+################################################################################
+# Configuration File Template for Memora Application                          #
+#                                                                              #
+################################################################################
+
+# General configuration
+general:
+  # Path to the main repository directory
+  # Replace with the path to your local Memora project
+  project_path: ./
+
+  # Data path
+  data_path: ${general.project_path}/data
+
+  # Path to saved model outputs
+  output_path: ${general.project_path}/outputs
+
+  # Path to results
+  results_path: ${general.project_path}/results
+
+  # memory store path
+  memory_store_path: ${general.project_path}/memory_store
+  
+  # Path to log
+  logs_path: ${general.output_path}/logs
+
+  # Path to cache directory
+  cache_path: ${general.output_path}/cache
+
+  # debug mode: use a smaller dataset for quick testing
+  debug: false
+
+openai:
+  api_type: "azure" # "azure" or "openai"
+  managed_identity: "" # Azure Managed Identity client ID (leave empty to use default credentials)
+
+  # LLM API for GPT-4 or the other models
+  llm_api_base: "" # Your Azure OpenAI endpoint, e.g. https://<resource>.openai.azure.com/
+  llm_api_version: "2024-12-01-preview"
+
+  model: "gpt-4.1-mini" # gpt-4o-mini, gpt-4.1, gpt-4.1-mini, gpt-5, gpt-5-mini
+  deployment_name: "${openai.deployment_name}"
+
+  # Text embedding API
+  embedding_api_base: "" # Your Azure OpenAI endpoint for embeddings
+  embedding_api_version: "2024-12-01-preview"
+
+  embedding_deployment_name: "text-embedding-3-small"  # text-embedding-3-large, text-embedding-3-small
+  embedding_model: "${openai.embedding_deployment_name}"
+
+  seed: 42  # random seed for reproducibility
+
+memory:
+  type: "memora"  # memora, mem0; [TO SUPPORT] rag, langmem, zep, openai
+  memory_store: "memora-debug"
+  persist_path: "${general.memory_store_path}/${memory.memory_store}"
+    
+  collection_name: "agent_memory"
+  distance: "cosine"
+  query_score_threshold: 0.4
+  update_score_threshold: 0.8
+
+  top_k: 30
+
+  filter_memories: false
+
+  force_rebuild: true
+  
+  # RAG specific configurations
+  # chunk_size: 1000
+  # num_chunks: 1
+
+eval:
+
+  # multi-threading workers
+  max_workers: 10
+
+  model: "gpt-4o-mini" # use gpt-4o-mini for evaluation (same as Mem0 and Nemori paper)
+  deployment_name: "${eval.deployment_name}"
+
+  subset_idx: -1  # locomo dataset subset index (1-10) for quick testing, -1 for full dataset
+  

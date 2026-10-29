@@ -1,0 +1,77 @@
+{
+  "impression_id": "dulce.i06",
+  "evidence_sessions": [
+    "dulce.s05",
+    "dulce.s06",
+    "dulce.s09",
+    "dulce.s13"
+  ],
+  "inferred": [
+    {
+      "statement": "Dulce is anxious about being caught in friend-group conflict and repeatedly drafts 'not on anyone's side' messages, and she reads ambiguous signals like a snake emoji, silence, or being removed from a chat as possible signs of being shut out.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She relies on the assistant to draft or polish her messages, often asking for a 'nice one and real one' and for wording that doesn't sound desperate, fake, or cringe, which shows she cares how she comes across.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s09",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She takes pride in earning and managing her own money and in being trusted with responsibility at work (counting the drawer, saving for the phone herself), and she wants that recognized.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She tends to say yes to opportunities or social plans first and then has to untangle the scheduling conflicts and guilt afterward (paying Camila to cover a shift, double-booking the extra shift with her tía's stand).",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She wants personal or sensitive things she lets slip (her crush on Eli, a comment about Hector) retracted right away, saying 'jk' or 'forget that', so she is cautious about what stays on record.",
+      "strength": "strong",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09"
+      ]
+    },
+    {
+      "statement": "She is close to family and tied into the family's food business (Tío Oscar's stand, Tía Gladys, her mom's phone-bill rule), and she tries to keep family relationships smooth and earn their approval.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s06",
+        "dulce.s09",
+        "dulce.s13"
+      ]
+    },
+    {
+      "statement": "She writes in casual, jokey, emoji-laden text and jumps between serious and trivial topics late at night, and she tends to put off tasks she dislikes, like the lab conclusion, while responding well to short, concrete, step-by-step help.",
+      "strength": "moderate",
+      "sessions": [
+        "dulce.s05",
+        "dulce.s06",
+        "dulce.s13"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "",
+  "rationale": "The decoy is the trait of being lazy about her job and dodging shifts. No strong or moderate statement asserts it; the reader framed her shift-covering as overcommitting and scheduling conflicts, and described her as proud of being trusted with work responsibility. The procrastination on a lab conclusion is about schoolwork, not job laziness."
+}

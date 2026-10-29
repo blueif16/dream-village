@@ -1,0 +1,143 @@
+{
+  "session_id": "elliot.s48",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "can cook scrambled eggs, boxed pasta and one chili recipe",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my current repertoire is scrambled eggs, boxed pasta and one chili recipe.",
+      "support_quote": ""
+    },
+    {
+      "text": "takeout or frozen meals nearly every night",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's takeout or frozen meals nearly every night",
+      "support_quote": ""
+    },
+    {
+      "text": "lactose intolerant, uses oat milk",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm lactose intolerant so no dairy please, i use oat milk.",
+      "support_quote": ""
+    },
+    {
+      "text": "never skips rare beef pho with no tripe takeout",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my rare beef pho with no tripe, that's the one takeout i never skip",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo naps around 12:30",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "cooking has to fit inside his nap, which is around 12:30.",
+      "support_quote": ""
+    },
+    {
+      "text": "home with baby son all day",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "i'm home with my baby son all day",
+      "support_quote": ""
+    },
+    {
+      "text": "cooks for himself and his wife, 2 adults",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "user",
+      "quote": "cooking for me and my wife, 2 adults",
+      "support_quote": ""
+    },
+    {
+      "text": "nap at 12:30 is his cooking window",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f16",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since the nap is your window, the trick is to do the hands-on work at 12:30",
+      "support_quote": "cooking has to fit inside his nap, which is around 12:30."
+    },
+    {
+      "text": "his chili recipe",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Your chili, upgraded with a can of corn and a squeeze of lime",
+      "support_quote": "my current repertoire is scrambled eggs, boxed pasta and one chili recipe."
+    },
+    {
+      "text": "wants pho takeout run",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'd leave Saturday open for your pho run",
+      "support_quote": "i'm not giving up my rare beef pho with no tripe, that's the one takeout i never skip."
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 6 uses the name 'Bell' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "elliot.f36",
+      "present": true,
+      "quote": "my current repertoire is scrambled eggs, boxed pasta and one chili recipe."
+    },
+    {
+      "item_id": "elliot.f23",
+      "present": true,
+      "quote": "honestly right now it's takeout or frozen meals nearly every night"
+    },
+    {
+      "item_id": "elliot.f37",
+      "present": true,
+      "quote": "i'm lactose intolerant so no dairy please, i use oat milk."
+    },
+    {
+      "item_id": "elliot.f35",
+      "present": true,
+      "quote": "i'm not giving up my rare beef pho with no tripe, that's the one takeout i never skip."
+    },
+    {
+      "item_id": "elliot.f16",
+      "present": true,
+      "quote": "cooking has to fit inside his nap, which is around 12:30."
+    }
+  ],
+  "sensitive": []
+}

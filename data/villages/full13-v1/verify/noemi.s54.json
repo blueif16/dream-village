@@ -1,0 +1,117 @@
+{
+  "session_id": "noemi.s54",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Noemi's swing is 1pm to 11:30pm",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my swing is 1pm to 11:30pm now",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi now does a daily subnetting drill set before each swing",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.w9.n03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "now i do a daily subnetting drill set before each swing",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi's weak topics are subnetting and port numbers",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "focus on subnetting and port numbers, those are what keep nerfing me",
+      "support_quote": ""
+    },
+    {
+      "text": "Iris will put the grocery list in their shared budget sheet",
+      "about": "iris",
+      "kind": "fact",
+      "item_id": "noemi.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "iris will drop the grocery list into our shared budget sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi uses dry gamer humor about a hard week",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "hardcore mode week lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi works a 1 p.m. swing",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "done before you leave for your 1 p.m. swing",
+      "support_quote": "my swing is 1pm to 11:30pm now"
+    },
+    {
+      "text": "Noemi works 10-hour swings",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Meal prep for 10-hour swings",
+      "support_quote": "my swing is 1pm to 11:30pm now"
+    },
+    {
+      "text": "Noemi struggles with subnetting and port numbers",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "15 min: subnetting problems.",
+      "support_quote": "focus on subnetting and port numbers"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.w9.n03",
+      "present": true,
+      "quote": "now i do a daily subnetting drill set before each swing"
+    },
+    {
+      "item_id": "noemi.i06",
+      "present": true,
+      "quote": "hardcore mode week lol"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "focus on subnetting and port numbers"
+    },
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "my swing is 1pm to 11:30pm now so drills have to happen in the morning"
+    },
+    {
+      "item_id": "noemi.f45",
+      "present": true,
+      "quote": "iris will drop the grocery list into our shared budget sheet"
+    }
+  ],
+  "sensitive": []
+}

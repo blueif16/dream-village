@@ -1,0 +1,384 @@
+{
+  "session_id": "dulce.s12",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Spanish oral family history project due Friday, interviewing Tía Gladys about the stand",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f40",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its the oral family history one, i interviewed my tia gladys about the pupusa stand",
+      "support_quote": ""
+    },
+    {
+      "text": "Birthday is March 9, 2010",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.w12.ns01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its march 9 2010",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant states birth date",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.w12.ns01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "9 de marzo de 2010",
+      "support_quote": "its march 9 2010"
+    },
+    {
+      "text": "Signed up for Nov 22 food drive because Karina brought it up",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i also signed up for the food drive on nov 22 bc karina brought it up",
+      "support_quote": ""
+    },
+    {
+      "text": "Freezes on writing, numbers easy",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "numbers are easy but the writing part i just freeze",
+      "support_quote": ""
+    },
+    {
+      "text": "Deflects with a joke and asks for a funny title",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anyway lol can u give me a funny title for the project",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants Rafael's approval of the writing",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u make it sound like something rafael would be like 'yeah thats us' about",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Dulce is good with numbers",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since you're good with the numbers",
+      "support_quote": "numbers are easy but the writing part i just freeze"
+    },
+    {
+      "text": "Dulce has a chem catch-up to do",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "I can also help you plan the chem catch-up",
+      "support_quote": "my chem grade is slipping too"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "leak",
+      "item_id": "dulce.w12.ns01",
+      "detail": "assistant says '9 de marzo de 2010'"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "dulce.i01",
+      "present": true,
+      "quote": "i also signed up for the food drive on nov 22 bc karina brought it up and now i gotta fit it around my shifts and chem study"
+    },
+    {
+      "item_id": "dulce.i03",
+      "present": true,
+      "quote": "numbers are easy but the writing part i just freeze. can u just write it"
+    },
+    {
+      "item_id": "dulce.i05",
+      "present": true,
+      "quote": "anyway lol can u give me a funny title for the project"
+    },
+    {
+      "item_id": "dulce.i07",
+      "present": true,
+      "quote": "can u make it sound like something rafael would be like 'yeah thats us' about"
+    },
+    {
+      "item_id": "dulce.f40",
+      "present": true,
+      "quote": "its the oral family history one, i interviewed my tia gladys about the pupusa stand"
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "present": true,
+      "quote": "its march 9 2010, can u put it in the spanish way, day month year"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "its march 9 2010",
+      "assistant_quote": "9 de marzo de 2010"
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "session_id": "noemi.s19",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Exam booked for Nov 8",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "booked my exam yesterday, nov 8",
+      "support_quote": ""
+    },
+    {
+      "text": "Calls her certification exam 'the boss fight'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "need a 12 week plan to prep for the boss fight",
+      "support_quote": ""
+    },
+    {
+      "text": "Wants the plan to hold up when work gets crazy",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "also i have to make it hold up when work gets crazy",
+      "support_quote": ""
+    },
+    {
+      "text": "Subnetting and port numbers are her weak topics",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers are the nerfed ones",
+      "support_quote": ""
+    },
+    {
+      "text": "Does a weekend scanner check at RF-4 with about 620 handhelds",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f34",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do a weekend scanner check at rf-4, like 620 handhelds to babysit once it ramps",
+      "support_quote": ""
+    },
+    {
+      "text": "Walked the Ulloa marsh boardwalk Saturday morning",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i walked the ulloa marsh boardwalk this morning and thats my reset",
+      "support_quote": ""
+    },
+    {
+      "text": "Exam is Nov 8",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Counting back twelve weeks from Nov 8",
+      "support_quote": "booked my exam yesterday, nov 8"
+    },
+    {
+      "text": "Subnetting and ports are her weak topics",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Front-load weak topics: subnetting daily in short bursts",
+      "support_quote": "subnetting and port numbers are the nerfed ones"
+    },
+    {
+      "text": "Saturday mornings are free for her",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f26",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Saturday mornings are free; weekend study is afternoon only.",
+      "support_quote": "keep saturday mornings light, i walked the ulloa marsh boardwalk this morning"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.r03",
+      "present": true,
+      "quote": "need a 12 week plan to prep for the boss fight"
+    },
+    {
+      "item_id": "noemi.i05",
+      "present": true,
+      "quote": "also i have to make it hold up when work gets crazy"
+    },
+    {
+      "item_id": "noemi.f07",
+      "present": true,
+      "quote": "booked my exam yesterday, nov 8"
+    },
+    {
+      "item_id": "noemi.f26",
+      "present": true,
+      "quote": "i walked the ulloa marsh boardwalk this morning and thats my reset"
+    },
+    {
+      "item_id": "noemi.f34",
+      "present": true,
+      "quote": "i do a weekend scanner check at rf-4, like 620 handhelds to babysit once it ramps"
+    }
+  ],
+  "sensitive": []
+}

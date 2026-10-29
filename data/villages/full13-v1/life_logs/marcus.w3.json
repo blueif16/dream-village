@@ -1,0 +1,351 @@
+{
+  "principal": "marcus",
+  "week": 3,
+  "entries": [
+    {
+      "id": "marcus.w3.l01",
+      "date": "2025-09-08",
+      "what": "Marcus finishes Sunday night's shift at Ridgeline RF-4 and picks up a power bank at the break room vending kiosk after his phone dies at 4 a.m. again. He eats eggs and rice at Marisol Gardens unit 132 and crashes by 8.",
+      "with": [],
+      "outcome": "Starts carrying the power bank on shift from now on.",
+      "feeling": "tired but relieved",
+      "facts": [
+        "marcus.f31",
+        "marcus.f03",
+        "marcus.f30",
+        "marcus.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l02",
+      "date": "2025-09-08",
+      "what": "Wakes at 1 p.m., grabs a bag and heads to his 2 p.m. afternoon section at Bayshore State, taking the Tule Line.",
+      "with": [],
+      "outcome": "Makes class, fighting sleepiness through the lecture.",
+      "feeling": "groggy",
+      "facts": [
+        "marcus.f02",
+        "marcus.f17",
+        "marcus.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l03",
+      "date": "2025-09-08",
+      "what": "Bikes to Ridgeline for the 10 p.m. shift on the general pick floor with Trevor nearby.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Shift starts on time.",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f04",
+        "marcus.f40",
+        "marcus.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l04",
+      "date": "2025-09-09",
+      "what": "After shift at 7 a.m., Marcus asks his assistant for a workable sleep schedule, adding that he doesn't want the 8-hours lecture. He eats eggs and rice and sleeps 8 to 1.",
+      "with": [],
+      "outcome": "Gets a rough schedule he will tweak himself.",
+      "feeling": "blunt, tired",
+      "facts": [
+        "marcus.f08"
+      ],
+      "impressions": [
+        "marcus.i01"
+      ]
+    },
+    {
+      "id": "marcus.w3.l05",
+      "date": "2025-09-09",
+      "what": "Free Tuesday afternoon: he does laundry, studies Fatima's shared Google Doc notes for Ex Phys, and chats with roommate Arjun in the kitchen.",
+      "with": [
+        "arjun",
+        "fatima"
+      ],
+      "outcome": "Finishes a chapter of notes.",
+      "feeling": "productive",
+      "facts": [
+        "marcus.f55",
+        "marcus.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l06",
+      "date": "2025-09-09",
+      "what": "Bikes to Ridgeline for the night shift; the rear brake squeaks the whole ride.",
+      "with": [],
+      "outcome": "Arrives on time.",
+      "feeling": "annoyed at the bike",
+      "facts": [
+        "marcus.f19",
+        "marcus.f17"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l07",
+      "date": "2025-09-10",
+      "what": "Gets off shift, then sleeps a short night's day, waking at 1 p.m. for tutoring-free Wednesday; he heads to campus for his 2 p.m. section.",
+      "with": [],
+      "outcome": "Attends Biomechanics half-awake.",
+      "feeling": "foggy",
+      "facts": [
+        "marcus.f02",
+        "marcus.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l08",
+      "date": "2025-09-10",
+      "what": "Texts Jade between classes about weekend plans, and she says she wishes he were awake more on her days off.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "They leave it unresolved until Friday.",
+      "feeling": "guilty",
+      "facts": [
+        "marcus.f45",
+        "cast.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l09",
+      "date": "2025-09-10",
+      "what": "Evening: Marcus eats a prepped meal and rides to Ridgeline for the shift, listening to West Coast rap in one earbud.",
+      "with": [],
+      "outcome": "Clocks in at 10.",
+      "feeling": "focused",
+      "facts": [
+        "marcus.f43",
+        "marcus.f03"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l10",
+      "date": "2025-09-11",
+      "what": "Home at 7 a.m., eats, and sleeps. Wakes at 1 p.m. and rides the Tule Line to his Thursday section.",
+      "with": [],
+      "outcome": "Takes notes through Intro Psych.",
+      "feeling": "worn down",
+      "facts": [
+        "marcus.f02",
+        "marcus.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l11",
+      "date": "2025-09-11",
+      "what": "After class he has a quick gym-less afternoon, calls his mom Denise to check in about her cut hours.",
+      "with": [
+        "denise"
+      ],
+      "outcome": "She insists she is fine; he worries quietly.",
+      "feeling": "worried",
+      "facts": [
+        "cast.f42",
+        "marcus.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l12",
+      "date": "2025-09-11",
+      "what": "Last night shift of the work week: Carla reminds the crew about rate on the breakroom board and Jose posts assignments at 9:40.",
+      "with": [
+        "carla",
+        "jose"
+      ],
+      "outcome": "Hits rate.",
+      "feeling": "steady",
+      "facts": [
+        "marcus.f56",
+        "cast.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l13",
+      "date": "2025-09-12",
+      "what": "Marcus misses Jade's day off by sleeping through it after the shift, and asks his assistant for a funny text to send her.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Sends a joke text; she replies with a half-laugh.",
+      "feeling": "sheepish",
+      "facts": [
+        "marcus.f51",
+        "cast.f45"
+      ],
+      "impressions": [
+        "marcus.i04"
+      ]
+    },
+    {
+      "id": "marcus.w3.l14",
+      "date": "2025-09-12",
+      "what": "Payday Friday: he checks his Ridgeline deposit, pays attention to groceries and bills, and picks up a Taquería Colima burrito on Calle Ortega.",
+      "with": [],
+      "outcome": "Budget stays intact.",
+      "feeling": "content",
+      "facts": [
+        "marcus.f15",
+        "marcus.f36"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l15",
+      "date": "2025-09-12",
+      "what": "Lifts at Iron Flats Fitness with Mike on the 5/3/1 program before heading home.",
+      "with": [
+        "mike"
+      ],
+      "outcome": "Solid deadlift session.",
+      "feeling": "energized",
+      "facts": [
+        "marcus.f20",
+        "marcus.f57",
+        "marcus.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l16",
+      "date": "2025-09-13",
+      "what": "Marcus sees the Ridgeline hiring fair crowd on Ruel Road as he leaves shift; Aaliyah Simmons is among the people lined up for seasonal work.",
+      "with": [
+        "aaliyah",
+        "ana"
+      ],
+      "outcome": "He nods hello and keeps going home.",
+      "feeling": "amused",
+      "facts": [
+        "cast.f82",
+        "cast.f123"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l17",
+      "date": "2025-09-13",
+      "what": "Sleeps through the morning, then does a lazy afternoon at the apartment, cleaning his sneakers.",
+      "with": [],
+      "outcome": "Box wall stays tidy.",
+      "feeling": "relaxed",
+      "facts": [
+        "marcus.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l18",
+      "date": "2025-09-13",
+      "what": "Saturday evening with Jade at Phở Bến Thành, making up for the missed day off.",
+      "with": [
+        "jade"
+      ],
+      "outcome": "Good night; she says she appreciates the effort.",
+      "feeling": "warm",
+      "facts": [
+        "marcus.f45",
+        "marcus.f46"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l19",
+      "date": "2025-09-14",
+      "what": "Sunday afternoon: Marcus does his chicken-and-rice meal prep, five containers, in the unit 132 kitchen.",
+      "with": [
+        "arjun"
+      ],
+      "outcome": "Containers done for the week.",
+      "feeling": "accomplished",
+      "facts": [
+        "marcus.f37"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l20",
+      "date": "2025-09-14",
+      "what": "Checks his phone and sees Keisha, now AFUSD dispatch, is no longer driving buses, per Rochelle's family chatter online; he mostly scrolls sneaker news.",
+      "with": [],
+      "outcome": "Nothing bought.",
+      "feeling": "idle",
+      "facts": [
+        "marcus.f32"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "marcus.w3.l21",
+      "date": "2025-09-14",
+      "what": "Bikes to Ridgeline for the Sunday night shift, power bank in his pocket.",
+      "with": [
+        "trevor"
+      ],
+      "outcome": "Starts the week's first night.",
+      "feeling": "ready",
+      "facts": [
+        "marcus.f31",
+        "marcus.f04"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "marcus.w3.n01",
+      "subject": "marcus",
+      "attribute": "energy_drink_brand",
+      "value": "buys a citrus energy drink from the break room machine",
+      "valid_from": "2025-09-08",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w3.n02",
+      "subject": "jade",
+      "attribute": "makeup_dinner",
+      "value": "Saturday Sept 13 dinner at Phở Bến Thành to make up for the missed day off",
+      "valid_from": "2025-09-13",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w3.n03",
+      "subject": "marcus",
+      "attribute": "phone_case",
+      "value": "cracked-corner phone now has a clear tape patch on the corner",
+      "valid_from": "2025-09-10",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "marcus.w3.n04",
+      "subject": "marcus",
+      "attribute": "sleep_schedule_draft",
+      "value": "assistant-suggested sleep schedule he plans to tweak",
+      "valid_from": "2025-09-09",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

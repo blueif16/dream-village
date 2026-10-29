@@ -1,0 +1,93 @@
+{
+  "impression_id": "arjun.i05",
+  "evidence_sessions": [
+    "arjun.s22",
+    "arjun.s31",
+    "arjun.s40",
+    "arjun.s46",
+    "arjun.s53",
+    "arjun.s59",
+    "arjun.s84"
+  ],
+  "inferred": [
+    {
+      "statement": "Arjun quietly takes on extra work to ease other people's load, often offering help nobody asked for (the sister's deposit deadlines and venue tab, covering more of the groceries, his own quiet-hours note).",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s22",
+        "arjun.s31",
+        "arjun.s46",
+        "arjun.s59"
+      ]
+    },
+    {
+      "statement": "He is protective of other people's dignity and avoids making help feel like charity or a big confrontation, preferring low-key systems and habits (a 'staples ratio', passive quiet hours, a casual note).",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s22",
+        "arjun.s46"
+      ]
+    },
+    {
+      "statement": "He wants concise, ready-to-use output and cuts off extras, asking for shorter drafts, 'simple version' tables, and declining offered practice rounds.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s31",
+        "arjun.s40",
+        "arjun.s46",
+        "arjun.s53",
+        "arjun.s84"
+      ]
+    },
+    {
+      "statement": "He has a heavy, tightly scheduled load (classes, career center desk job, clubs, case team, internship search) and is pruning commitments while still stacking tasks, often working late at night.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s40",
+        "arjun.s46",
+        "arjun.s53",
+        "arjun.s59",
+        "arjun.s84"
+      ]
+    },
+    {
+      "statement": "He is close to his family and community, with regular Sunday dinners at his parents' place, calls with his mom, helping at the gurdwara, and wedding planning for his sister.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s31",
+        "arjun.s59",
+        "arjun.s84"
+      ]
+    },
+    {
+      "statement": "He is actively career-driven, pursuing logistics and supply chain internships, iterating on his resume, and preparing carefully for interviews.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s40",
+        "arjun.s46",
+        "arjun.s53",
+        "arjun.s59"
+      ]
+    },
+    {
+      "statement": "He tends to use the assistant for practical drafting of messages and emails because he worries his own wording sounds stiff, and he wants a warm, natural tone with family.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s31",
+        "arjun.s53",
+        "arjun.s84"
+      ]
+    },
+    {
+      "statement": "He is considerate about shared living, adjusting his own habits and thinking about his roommate's sleep and finances before they become issues.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s22",
+        "arjun.s46"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Arjun quietly takes on extra work to ease other people's load, often offering help nobody asked for (the sister's deposit deadlines and venue tab, covering more of the groceries, his own quiet-hours note).",
+  "rationale": "The first inferred statement (strong) says he quietly takes on extra work and offers unasked help to ease others' load, including his sister's deadlines and covering groceries, which matches the loyal, quietly protective favor-doing trait. The roommate-consideration statement also supports it."
+}

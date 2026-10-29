@@ -1,0 +1,349 @@
+{
+  "principal": "grace",
+  "week": 2,
+  "entries": [
+    {
+      "id": "grace.w2.l01",
+      "date": "2025-09-01",
+      "what": "Labor Day: no school. Grace sleeps in a bit, then takes Corazón and Isabel to the Delgado Park picnic, where she watches the bandstand and ignores the grading pile.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "A quiet family day; the grading waits.",
+      "feeling": "relaxed, a little guilty",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l02",
+      "date": "2025-09-01",
+      "what": "Afternoon at home: Grace waters the calamansi and tomato pots and fills in the fridge calendar with Ramón's on-days.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "The week's logistics are mapped out.",
+      "feeling": "orderly",
+      "facts": [
+        "grace.f34",
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l03",
+      "date": "2025-09-01",
+      "what": "Evening: watches the teleserye with Corazón at 9 and skims the Unit 1 quiz plan.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Quiz plan set for Friday.",
+      "feeling": "content",
+      "facts": [
+        "grace.f35"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l04",
+      "date": "2025-09-02",
+      "what": "Arrives at 7:20 to beat the Vinca line, teaches periods 1, 2 and 3 in B12 with Unit 1 measurement review.",
+      "with": [],
+      "outcome": "Smooth lab-safety review, with Dulce's period quiet and attentive.",
+      "feeling": "focused",
+      "facts": [
+        "grace.f01",
+        "grace.f11",
+        "grace.f03",
+        "grace.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l05",
+      "date": "2025-09-02",
+      "what": "Prep period 4: Grace eats leftover rice and ulam in B12 and runs Eli's extended-time test.",
+      "with": [
+        "eli"
+      ],
+      "outcome": "Test finished, lunch eaten at last.",
+      "feeling": "steady",
+      "facts": [
+        "grace.f02",
+        "grace.f14",
+        "grace.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l06",
+      "date": "2025-09-02",
+      "what": "Teaches periods 5 and 6, then collects and grades lab-safety sheets at the kitchen table.",
+      "with": [],
+      "outcome": "Sheets are half graded.",
+      "feeling": "tired",
+      "facts": [
+        "grace.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l07",
+      "date": "2025-09-03",
+      "what": "Wednesday classes; Grace and Dana trade notes on sharing B12 shelf space and lab prep.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "The shelves are split.",
+      "feeling": "cooperative",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l08",
+      "date": "2025-09-03",
+      "what": "Science Olympiad co-advising 3:15-4:30 in B12 with a few early signups.",
+      "with": [],
+      "outcome": "Eight students signed up.",
+      "feeling": "engaged",
+      "facts": [
+        "grace.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l09",
+      "date": "2025-09-03",
+      "what": "Evening: refreshes her back-to-school night slides and asks Isabel about her day; the talk stays short.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Slides done; Isabel retreats to her room.",
+      "feeling": "mildly tense",
+      "facts": [
+        "grace.f26"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l10",
+      "date": "2025-09-04",
+      "what": "Eats lunch in B12 with Dana, who vents about her principal evaluations.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Grace listens and shares a few tips.",
+      "feeling": "sympathetic",
+      "facts": [
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l11",
+      "date": "2025-09-04",
+      "what": "Back-to-School Night, 6-8 p.m.: Grace presents the chemistry syllabus, late-lab policy and lab safety to parents.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "A good turnout; parents ask about retakes.",
+      "feeling": "professional, drained",
+      "facts": [
+        "grace.f26",
+        "grace.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l12",
+      "date": "2025-09-04",
+      "what": "Home at 8:30; Corazón has saved dinner, and Grace eats it standing at the counter.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Early bedtime.",
+      "feeling": "exhausted",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l13",
+      "date": "2025-09-05",
+      "what": "Fills in the weekly absence form by hand from the gradebook and turns it in at 3:30.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "Submitted on time, with muttering about forms.",
+      "feeling": "irritated but compliant",
+      "facts": [
+        "grace.f18"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l14",
+      "date": "2025-09-05",
+      "what": "Grace gives the Unit 1 quiz in periods 5 and 6 and hands out the study guide for next week.",
+      "with": [],
+      "outcome": "Quizzes collected.",
+      "feeling": "busy",
+      "facts": [
+        "grace.f24"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l15",
+      "date": "2025-09-05",
+      "what": "Friday night: skips the Egrets opener because of the grading, while Isabel goes to the game with Nadia.",
+      "with": [
+        "isabel",
+        "nadia",
+        "ramon"
+      ],
+      "outcome": "Quiet house, a few quizzes marked.",
+      "feeling": "relieved, a bit left out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l16",
+      "date": "2025-09-06",
+      "what": "Saturday morning groceries at Ruiz Family Market, then conchas and rolls from Panadería Las Hermanas.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Fridge stocked and bread bought.",
+      "feeling": "routine",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l17",
+      "date": "2025-09-06",
+      "what": "Afternoon: cleans the garage shelf where Ramón's carburetor parts sit and sighs.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "A truce; the parts stay for now.",
+      "feeling": "exasperated, fond",
+      "facts": [
+        "grace.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l18",
+      "date": "2025-09-06",
+      "what": "Evening: Isabel and Grace bicker briefly over a late curfew text.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Isabel gets home by 10.",
+      "feeling": "short-tempered",
+      "facts": [
+        "grace.f47"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l19",
+      "date": "2025-09-07",
+      "what": "Tagalog Mass at 9 with Corazón at Our Lady of the Marsh, then lunch and Sunday sinigang.",
+      "with": [
+        "corazon",
+        "ben"
+      ],
+      "outcome": "Peaceful morning.",
+      "feeling": "grounded",
+      "facts": [
+        "grace.f59",
+        "cast.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w2.l20",
+      "date": "2025-09-07",
+      "what": "Grading at the kitchen table: Grace redesigns the density lab with household substitutes so it costs under $40 for all five sections.",
+      "with": [],
+      "outcome": "A cheap lab ready for the week, with the budget stretched.",
+      "feeling": "productive",
+      "facts": [
+        "grace.f12",
+        "grace.f16"
+      ],
+      "impressions": [
+        "grace.i06"
+      ]
+    },
+    {
+      "id": "grace.w2.l21",
+      "date": "2025-09-07",
+      "what": "Evening chat with the assistant: she drafts a gentle, encouraging note to a struggling third-period student, then asks for a firm list of rules to tape to Isabel's door about phone use after 11.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "The student note is sent; the rules list is printed.",
+      "feeling": "resolute",
+      "facts": [],
+      "impressions": [
+        "grace.i01"
+      ]
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w2.n01",
+      "subject": "grace",
+      "attribute": "labor_day_plan",
+      "value": "took Corazón and Isabel to the Delgado Park picnic on Labor Day",
+      "valid_from": "2025-09-01",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w2.n02",
+      "subject": "grace",
+      "attribute": "density_lab_cost",
+      "value": "redesigned density lab costs under $40 for all five sections",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w2.n03",
+      "subject": "isabel",
+      "attribute": "phone_rule",
+      "value": "Grace posted a no-phone-after-11 rules list on Isabel's door",
+      "valid_from": "2025-09-07",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w2.n04",
+      "subject": "grace",
+      "attribute": "science_olympiad_signups",
+      "value": "eight students signed up for Science Olympiad",
+      "valid_from": "2025-09-03",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w2.n05",
+      "subject": "grace",
+      "attribute": "unit1_quiz",
+      "value": "gave the Unit 1 quiz on Friday Sept 5 in periods 5 and 6",
+      "valid_from": "2025-09-05",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

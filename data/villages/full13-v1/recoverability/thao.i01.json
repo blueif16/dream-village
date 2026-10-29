@@ -1,0 +1,98 @@
+{
+  "impression_id": "thao.i01",
+  "evidence_sessions": [
+    "thao.s03",
+    "thao.s04",
+    "thao.s14",
+    "thao.s18",
+    "thao.s26",
+    "thao.s30",
+    "thao.s34",
+    "thao.s37",
+    "thao.s42",
+    "thao.s44"
+  ],
+  "inferred": [
+    {
+      "statement": "Thao strongly prefers text, chat, email or portals over phone calls and keeps steering tasks (credit union, repair requests, IT tickets, scheduler, tire shop, grocery app) away from calls, even when she had a script ready.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s03",
+        "thao.s04",
+        "thao.s18",
+        "thao.s26",
+        "thao.s37",
+        "thao.s42"
+      ]
+    },
+    {
+      "statement": "Thao works night shifts as a nurse and sleeps roughly 8:30am to 3pm, so she organizes her life around that schedule and often writes in a tired, depleted state.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s03",
+        "thao.s04",
+        "thao.s14",
+        "thao.s18",
+        "thao.s26",
+        "thao.s37",
+        "thao.s42"
+      ]
+    },
+    {
+      "statement": "Thao is caring toward her mother and sister and expresses love through practical acts (meals, money transfers, visits to Sunday dinner) rather than talk, while avoiding her mother's long voicemails.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s04",
+        "thao.s14",
+        "thao.s30",
+        "thao.s34",
+        "thao.s44"
+      ]
+    },
+    {
+      "statement": "Thao wants replies short, stepwise and low-effort, often saying 'just steps', 'short pls' or 'shorter pls', and pushes past hedging with 'ok but realistically'.",
+      "strength": "strong",
+      "sessions": [
+        "thao.s03",
+        "thao.s04",
+        "thao.s14",
+        "thao.s18",
+        "thao.s26",
+        "thao.s34",
+        "thao.s42",
+        "thao.s44"
+      ]
+    },
+    {
+      "statement": "Thao is self-reliant and practical about problems, handling things herself such as changing her own tire from a step list, and she documents things in writing, especially when workplace systems are messy.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s37",
+        "thao.s42",
+        "thao.s26",
+        "thao.s03"
+      ]
+    },
+    {
+      "statement": "Thao feels stretched and overloaded by work, as seen in dread about go-live nights, a denied time-off request and messy scheduling, and she values being allowed to vent.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s04",
+        "thao.s26",
+        "thao.s37"
+      ]
+    },
+    {
+      "statement": "Thao is bilingual and attentive to Vietnamese language and family etiquette, and likes personal touches like playful graphics featuring her balcony plants.",
+      "strength": "moderate",
+      "sessions": [
+        "thao.s14",
+        "thao.s30",
+        "thao.s34"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Thao strongly prefers text, chat, email or portals over phone calls and keeps steering tasks (credit union, repair requests, IT tickets, scheduler, tire shop, grocery app) away from calls, even when she had a script ready.",
+  "rationale": "The first inferred statement, rated strong, says Thao prefers text, chat, email or portals over phone calls and steers tasks away from calls even with a script ready. That matches the intended avoidance of voice-based communication; the voicemail avoidance in another statement supports it."
+}

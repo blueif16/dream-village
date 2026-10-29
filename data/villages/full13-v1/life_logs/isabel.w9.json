@@ -1,0 +1,387 @@
+{
+  "principal": "isabel",
+  "week": 9,
+  "entries": [
+    {
+      "id": "isabel.w9.l01",
+      "date": "2025-10-20",
+      "what": "Isabel wakes at 6:50 after a midnight session on Ramón's old desktop, gets a ride from Grace at 7:30 and eats little at school.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Arrived on time, with the car ride mostly silent.",
+      "feeling": "tired, tense",
+      "facts": [
+        "isabel.f26",
+        "isabel.f33",
+        "isabel.f25"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l02",
+      "date": "2025-10-20",
+      "what": "Between classes she finally emails draft 7 of her marsh personal statement to Ms. Lugo, after drafting an apology that it is still rough.",
+      "with": [
+        "fernanda"
+      ],
+      "outcome": "Draft sent; Ms. Lugo reads one draft a week, so feedback comes Friday.",
+      "feeling": "nervous, relieved",
+      "facts": [
+        "isabel.f19",
+        "isabel.f20",
+        "isabel.f58"
+      ],
+      "impressions": [
+        "isabel.i01"
+      ]
+    },
+    {
+      "id": "isabel.w9.l03",
+      "date": "2025-10-20",
+      "what": "After school she does homework at the library homework center, then walks home and does the dishes.",
+      "with": [],
+      "outcome": "Finished AP Calc problems and cleared the dishes.",
+      "feeling": "focused",
+      "facts": [
+        "isabel.f32",
+        "isabel.f45"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l04",
+      "date": "2025-10-21",
+      "what": "Tuesday robotics in room C7 from 3:30 to 6, working on the drivetrain with Lucas nearby.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Mechanical subteam finished a gearbox mount.",
+      "feeling": "absorbed, competitive",
+      "facts": [
+        "isabel.f16",
+        "isabel.f15"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l05",
+      "date": "2025-10-21",
+      "what": "Ramón is on a 24-hour dispatch shift, so Isabel makes sure Lola Cora takes her lunch and eats dinner with Grace and Lola Cora.",
+      "with": [
+        "corazon",
+        "grace",
+        "ramon"
+      ],
+      "outcome": "Dinner passed with only a small argument over bedtime.",
+      "feeling": "restless",
+      "facts": [
+        "isabel.f45",
+        "cast.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l06",
+      "date": "2025-10-21",
+      "what": "Late evening she studies for the AP Chem unit and sets her alarm for 6:50.",
+      "with": [],
+      "outcome": "Asleep around 1 a.m.",
+      "feeling": "sleepy",
+      "facts": [
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l07",
+      "date": "2025-10-22",
+      "what": "Wednesday classes; at lunch she tells Nadia she needs to make up a missed APUSH reading response from the robotics all-nighter.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Nadia says to just email the teacher.",
+      "feeling": "mildly embarrassed",
+      "facts": [
+        "cast.f04"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l08",
+      "date": "2025-10-22",
+      "what": "She emails her APUSH teacher about a makeup reading response and has the assistant check her tone; it was a one-off after a robotics build night, and she still wants her grade protected.",
+      "with": [],
+      "outcome": "Sent a polite email.",
+      "feeling": "careful",
+      "facts": [
+        "isabel.f02"
+      ],
+      "impressions": [
+        "isabel.i06"
+      ]
+    },
+    {
+      "id": "isabel.w9.l09",
+      "date": "2025-10-22",
+      "what": "Mateo math at 4 p.m.: she tutors Mateo in ratios for $20.",
+      "with": [],
+      "outcome": "Mateo got three problems right in a row.",
+      "feeling": "patient, warm",
+      "facts": [
+        "isabel.f29",
+        "isabel.f60"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l10",
+      "date": "2025-10-23",
+      "what": "Thursday classes and robotics in C7 from 3:30 to 6 testing the drivetrain; Lucas mentions he expects his SAT score soon.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Test run went fine and Isabel noticed Lucas's confidence.",
+      "feeling": "edgy",
+      "facts": [
+        "isabel.f16",
+        "isabel.f55"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l11",
+      "date": "2025-10-23",
+      "what": "Grace comes home talking about the St. Anselm nurses union vote, which is on the news; Isabel half-listens while writing a college list update.",
+      "with": [
+        "grace"
+      ],
+      "outcome": "Quiet evening.",
+      "feeling": "neutral",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l12",
+      "date": "2025-10-23",
+      "what": "She does late-night college list work on the old desktop.",
+      "with": [],
+      "outcome": "Slept around 1 a.m.",
+      "feeling": "tired",
+      "facts": [
+        "isabel.f25",
+        "isabel.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l13",
+      "date": "2025-10-24",
+      "what": "Her SAT score is released: 1450, with 720 reading and 730 math. She checks it in the library before the game and tells Nadia.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Score is up from her 1340 PSAT-equivalent.",
+      "feeling": "thrilled, guarded",
+      "facts": [
+        "isabel.f07",
+        "isabel.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l14",
+      "date": "2025-10-24",
+      "what": "Ms. Lugo returns feedback on draft 7 in the hallway, a few comments with encouragement.",
+      "with": [
+        "fernanda"
+      ],
+      "outcome": "Next revision is manageable.",
+      "feeling": "encouraged",
+      "facts": [
+        "isabel.f20",
+        "isabel.f58"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l15",
+      "date": "2025-10-24",
+      "what": "Before the homecoming game she asks the assistant for a casual way to mention the score at dinner without looking like she cares what Grace thinks.",
+      "with": [],
+      "outcome": "Chose a throwaway line to drop over dinner.",
+      "feeling": "anxious, hopeful",
+      "facts": [
+        "isabel.f08"
+      ],
+      "impressions": [
+        "isabel.i02"
+      ]
+    },
+    {
+      "id": "isabel.w9.l16",
+      "date": "2025-10-24",
+      "what": "She goes to the Egrets homecoming game with Nadia for yearbook photos, skipping the dance.",
+      "with": [
+        "nadia"
+      ],
+      "outcome": "Took photos and was home on time.",
+      "feeling": "happy",
+      "facts": [
+        "isabel.f47",
+        "isabel.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l17",
+      "date": "2025-10-25",
+      "what": "Saturday morning she skips the library SAT prep and sleeps in, since the test is behind her; Lucas mentions his own score in the group chat.",
+      "with": [
+        "lucas"
+      ],
+      "outcome": "Lucas's score is a bit higher than hers.",
+      "feeling": "competitive, annoyed",
+      "facts": [
+        "isabel.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l18",
+      "date": "2025-10-25",
+      "what": "She asks the assistant for the percentile of a 1450 compared with people applying to engineering.",
+      "with": [],
+      "outcome": "Got numbers and felt steadier.",
+      "feeling": "driven",
+      "facts": [
+        "isabel.f08"
+      ],
+      "impressions": [
+        "isabel.i04"
+      ]
+    },
+    {
+      "id": "isabel.w9.l19",
+      "date": "2025-10-25",
+      "what": "Afternoon she photographs marsh birds at Ulloa Salt Marsh Park and logs her tally.",
+      "with": [],
+      "outcome": "Logged a dozen egrets.",
+      "feeling": "peaceful",
+      "facts": [
+        "isabel.f41"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l20",
+      "date": "2025-10-25",
+      "what": "Home by 9 p.m. under her curfew, she watches Lola Cora's teleserye at full volume.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Quiet evening.",
+      "feeling": "content",
+      "facts": [
+        "isabel.f12",
+        "isabel.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l21",
+      "date": "2025-10-26",
+      "what": "Sunday morning Lola Cora goes to Tagalog Mass while Grace grades, and Isabel helps with sinigang prep.",
+      "with": [
+        "corazon",
+        "grace"
+      ],
+      "outcome": "Sinigang for lunch.",
+      "feeling": "cozy",
+      "facts": [
+        "isabel.f36",
+        "cast.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l22",
+      "date": "2025-10-26",
+      "what": "Afternoon she does homework in her room and picks one revision to fix in the essay based on Ms. Lugo's notes.",
+      "with": [],
+      "outcome": "Revised one paragraph.",
+      "feeling": "focused",
+      "facts": [
+        "isabel.f20"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "isabel.w9.l23",
+      "date": "2025-10-26",
+      "what": "Evening she does dishes and tells Ramón her score.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Ramón is proud and quietly hopeful.",
+      "feeling": "warm",
+      "facts": [
+        "isabel.f08",
+        "isabel.f45"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "isabel.w9.n01",
+      "subject": "isabel",
+      "attribute": "essay_feedback",
+      "value": "Ms. Lugo's notes on draft 7 were mostly positive, asking for a tighter ending",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "isabel.w9.n02",
+      "subject": "isabel",
+      "attribute": "sat_percentile_note",
+      "value": "asked how 1450 ranks among engineering applicants",
+      "valid_from": "2025-10-25",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w9.n03",
+      "subject": "isabel",
+      "attribute": "apush_makeup",
+      "value": "emailed her APUSH teacher for a makeup reading response",
+      "valid_from": "2025-10-22",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w9.n04",
+      "subject": "isabel",
+      "attribute": "homecoming_photos",
+      "value": "took yearbook photos at the homecoming game with Nadia",
+      "valid_from": "2025-10-24",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "isabel.w9.n05",
+      "subject": "isabel",
+      "attribute": "sinigang_help",
+      "value": "helps Lola Cora prep Sunday sinigang",
+      "valid_from": "2025-10-26",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

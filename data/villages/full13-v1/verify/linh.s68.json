@@ -1,0 +1,112 @@
+{
+  "session_id": "linh.s68",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Linh does a weekly planner spread with washi tape every Sunday night",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i do a weekly spread w washi tape every sunday night",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh color codes notes: pink muscles, blue bones, green nerves, yellow for the practical",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f23",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i color code: pink muscles, blue bones, green nerves, yellow for stuff thats on the practical",
+      "support_quote": ""
+    },
+    {
+      "text": "Jun sells lumpia at the Heron & Grind counter on Saturdays",
+      "about": "jun",
+      "kind": "fact",
+      "item_id": "cast.f65",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he sells them at the heron & grind counter saturdays",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh built Jun's cost sheet",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i built it for him",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh uses the shared term Jun's sheet",
+      "about": "linh",
+      "kind": "reference_use",
+      "item_id": "linh.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "jun's sheet",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh built the sheet for Jun",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f35",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Nice, that's a handy thing to have built.",
+      "support_quote": "i built it for him"
+    },
+    {
+      "text": "Linh uses a washi-tape weekly spread",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "To make them fit your washi-tape spread",
+      "support_quote": "i do a weekly spread w washi tape every sunday night"
+    },
+    {
+      "text": "Linh double-checked numbers against the sheet",
+      "about": "linh",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Because you've double-checked the numbers against the sheet",
+      "support_quote": "yeah those match"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "linh.f37",
+      "present": true,
+      "quote": "i do a weekly spread w washi tape every sunday night so the stickers need to fit that layout"
+    },
+    {
+      "item_id": "linh.r03",
+      "present": true,
+      "quote": "i'll pull the prices and nutrition from jun's sheet"
+    },
+    {
+      "item_id": "cast.f65",
+      "present": true,
+      "quote": "he sells them at the heron & grind counter saturdays"
+    },
+    {
+      "item_id": "linh.f35",
+      "present": true,
+      "quote": "i built it for him so i should double check the numbers lol"
+    }
+  ],
+  "sensitive": []
+}

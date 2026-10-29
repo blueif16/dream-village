@@ -1,0 +1,23 @@
+{
+  "id": "elliot.s70",
+  "principal": "elliot",
+  "start": "2025-11-09T14:20:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok big news. i just did my first sunday batch cook, two dishes, done while theo naps. one is my chili and the other is a new pasta dish (baked, with sausage and spinach). for context, until now it was takeout or frozen meals nearly every night, and my range was eggs and boxed pasta, so this is a big step 🙃\n\ncan you give me a plan for portioning and storing both so they last through the week? it's about 2:20 and i have to get the kitchen cleaned up before his next nap block ends. in table form please, i think better in tables"
+    },
+    {
+      "role": "assistant",
+      "text": "Congratulations, that's a real step up from eggs and boxed pasta. Here's a plan for both dishes, in table form.\n\n**Portioning and storage**\n\n| | Chili | Baked pasta |\n|---|---|---|\n| Cool first | Spread in a shallow pan or divide into containers right away. Get it into the fridge within 2 hours of cooking. | Cut into squares while still in the pan, then let it cool uncovered for about 20-30 minutes. |\n| Portion size | 1.5-2 cup servings in single-meal containers | 1 square per container, or 2 if you want a bigger dinner |\n| Container | Shallow glass or BPA-free containers, leave about an inch of headspace | Flat containers, or wrap squares individually in foil and put them in a bag |\n| Fridge life | 3-4 days | 3-4 days |\n| Freezer life | Up to 3 months | Up to 2 months |\n\n**How to split the week**\n\n| Day | Where it lives | Eat |\n|---|---|---|\n| Sun-Wed | Fridge | Pasta on Mon and Tue, chili on Sun and Wed |\n| Thu-Sat | Freezer | Whatever is left, frozen today, not on day 4 |\n\nThe rule is to put any portion you won't eat by Wednesday into the freezer today rather than later.\n\n**Tips**\n- Label each container with the dish and the date.\n- Freeze some portions flat in zip bags so they stack and thaw quickly.\n- Thaw overnight in the fridge. Reheat chili until steaming (165°F) and the pasta covered at 350°F, or in the microwave with a splash of water.\n- Leave out any toppings like cheese, sour cream or fresh herbs until serving time.\n\nSince you're racing the nap clock, the quickest order is to portion the chili first and ladle it into containers, then cut the pasta, and wipe down while everything cools. Want a version of this as a checklist you can tick through?"
+    },
+    {
+      "role": "user",
+      "text": "yes checklist pls. also i'll log the week's summary in the log after, so can you give me a few columns for tracking what we ate and what's left? keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "**Cleanup checklist (nap clock edition)**\n- [ ] Ladle chili into containers (1.5-2 cups each)\n- [ ] Cut pasta into squares, leave to cool\n- [ ] Pick the portions for Mon-Wed and put them in the fridge\n- [ ] Put the rest in the freezer, labeled with dish and date\n- [ ] Pasta squares into containers or foil\n- [ ] Soak the pots and pans\n- [ ] Wipe counters and the stove\n- [ ] Put leftover toppings away\n\n**Tracking columns for the log**\n\n| Date | Dish | Portions made | Portions eaten | Left (fridge) | Left (freezer) | Notes |\n|---|---|---|---|---|---|---|\n| Sun 11/9 | Chili | | | | | |\n| Sun 11/9 | Baked pasta | | | | | |\n\nAdd one row per dish each week. Under Notes you can jot down things like \"needed more salt\" or \"good reheated\", so next Sunday's batch cook has your feedback ready.\n\nFill in \"Portions made\" now and tally the rest at the end of the week."
+    }
+  ]
+}

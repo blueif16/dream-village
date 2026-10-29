@@ -1,0 +1,39 @@
+{
+  "id": "noemi.s31",
+  "principal": "noemi",
+  "start": "2025-09-26T23:51:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. need subnetting practice for the boss fight. it's my weak spot along with port numbers. been pulling questions from my practice test app but i keep seeing the same ones. can you give me different ones, hard ones pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Happy to. Fresh, harder subnetting problems it is. Quick calibration so I don't waste your time: how comfortable are you with converting a CIDR prefix to a subnet mask and counting usable hosts? And how are your practice scores looking overall?"
+    },
+    {
+      "role": "user",
+      "text": "cidr to mask is ok, i just choke when it gets to splitting networks. averaging low 70s on practice exams, pass line is like 75 so i'm right under it. ugh"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a fixable gap, since you're only a few points under. Splitting networks is mostly one repeated move. Here are 6 problems, no answers until you ask.\n\n1. Given 192.168.10.0/24, you need at least 6 subnets. What new prefix do you use, and how many usable hosts per subnet?\n2. What are the network address, broadcast address, and usable range for 172.16.45.130/26?\n3. You have 10.0.0.0/22. List the first four /24 subnets inside it.\n4. A department needs 58 hosts. What's the smallest prefix that works? What's the next smaller prefix that would fail, and why?\n5. Is 192.168.5.200/27 in the same subnet as 192.168.5.225/27? Show your work.\n6. Split 203.0.113.0/24 into subnets of 60, 28, and 12 hosts using VLSM. Give the network address and prefix for each.\n\nTip for splitting: find the block size (256 minus the interesting octet of the mask), then list the multiples of it. Everything falls out of that. Want port number drills mixed in too?"
+    },
+    {
+      "role": "user",
+      "text": "ok 1 is /27, 30 hosts. 3 is 10.0.0.0, 10.0.1.0, 10.0.2.0, 10.0.3.0. idk the rest yet. and yes mix in ports, those are nerfed for me"
+    },
+    {
+      "role": "assistant",
+      "text": "Both correct. Number 1 is /27 with 30 usable hosts, and number 3 is exactly right since a /22 holds four /24s.\n\nOn the rest, try block size for #2: a /26 mask's last octet is 192, so the block is 64. Which multiple of 64 sits just below 130?\n\nPort drills, 8 rapid ones. Name the protocol and default port:\n1. Secure remote shell\n2. DNS\n3. HTTPS\n4. DHCP server\n5. SMTP\n6. RDP\n7. Telnet\n8. SNMP\n\nSend what you've got on #2 and the ports, and I'll check them and give you 6 new subnetting problems."
+    },
+    {
+      "role": "user",
+      "text": "2: 128 is the network so .128, broadcast .191, usable .129-.190. ports: ssh 22, dns 53, https 443, dhcp 67, smtp 25, rdp 3389, telnet 23, snmp 161. gg?"
+    },
+    {
+      "role": "assistant",
+      "text": "gg, that's all correct. Subnet #2 is right (network .128, broadcast .191, usable .129 to .190), and all 8 ports are right. DHCP server listens on 67, and clients use 68, which is a common trick question.\n\nThe pattern: when you find the block size first, you don't choke. Do #4 to #6 the same way and send them over. Then I'll make you a harder set mixing VLSM with a few port questions on the trickier ones (TFTP, LDAP, syslog, NTP)."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "session_id": "isabel.s29",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Isabel emailed draft 7 of her marsh personal statement to Ms. Lugo yesterday",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i emailed her draft 7 yesterday, the marsh one",
+      "support_quote": ""
+    },
+    {
+      "text": "Ms. Lugo reads only one draft per student per week, on Fridays",
+      "about": "fernanda",
+      "kind": "fact",
+      "item_id": "isabel.f58",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "she only reads one draft per student a week and its fridays",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel is up late and has to wake at 6:50",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its nearly 1am and i have to be up at 6:50 lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel wants to apologize that the draft is rough and promise a better version after already sending it",
+      "about": "isabel",
+      "kind": "trait_shown",
+      "item_id": "isabel.i01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "add something about how its still rough and i'll send a better version soon",
+      "support_quote": ""
+    },
+    {
+      "text": "Isabel refers to her personal statement revisions as draft hell",
+      "about": "isabel",
+      "kind": "reference_use",
+      "item_id": "isabel.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "back in draft hell lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Feedback from Ms. Lugo is expected on Friday",
+      "about": "fernanda",
+      "kind": "fact",
+      "item_id": "isabel.f58",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "I'll look forward to your feedback whenever it's ready on Friday.",
+      "support_quote": "she only reads one draft per student a week and its fridays"
+    },
+    {
+      "text": "The draft is already sent to Ms. Lugo",
+      "about": "isabel",
+      "kind": "fact",
+      "item_id": "isabel.f20",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "The draft is already sent, and this email is just a thank-you.",
+      "support_quote": "i emailed her draft 7 yesterday, the marsh one"
+    },
+    {
+      "text": "Ms. Lugo reads one draft a week",
+      "about": "fernanda",
+      "kind": "fact",
+      "item_id": "isabel.f58",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "A teacher reading one draft a week will read what's in front of her.",
+      "support_quote": "she only reads one draft per student a week and its fridays"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "isabel.f20",
+      "present": true,
+      "quote": "i emailed her draft 7 yesterday, the marsh one"
+    },
+    {
+      "item_id": "isabel.i01",
+      "present": true,
+      "quote": "add something about how its still rough and i'll send a better version soon"
+    },
+    {
+      "item_id": "isabel.f58",
+      "present": true,
+      "quote": "she only reads one draft per student a week and its fridays so dont make it ask for anything before then"
+    },
+    {
+      "item_id": "isabel.r04",
+      "present": true,
+      "quote": "back in draft hell lol"
+    },
+    {
+      "item_id": "isabel.f33",
+      "present": true,
+      "quote": "its nearly 1am and i have to be up at 6:50 lol"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,349 @@
+{
+  "principal": "grace",
+  "week": 8,
+  "entries": [
+    {
+      "id": "grace.w8.l01",
+      "date": "2025-10-13",
+      "what": "Indigenous Peoples' Day, schools closed. Grace sleeps in a little, then drives Lola Cora to the Vinca drugstore and does laundry at home on Tamarisk Court.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Errands done before noon.",
+      "feeling": "restful but restless",
+      "facts": [
+        "grace.f05"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l02",
+      "date": "2025-10-13",
+      "what": "Spends the afternoon planning the flame test inquiry lab for Thursday's observation, sketching the stations at the kitchen table.",
+      "with": [],
+      "outcome": "Outline of four stations drafted.",
+      "feeling": "focused, a bit nervous",
+      "facts": [
+        "grace.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l03",
+      "date": "2025-10-13",
+      "what": "Watches the evening teleserye with Lola Cora; Ramón is on his 24-hour dispatch shift, so Grace handles dinner and Isabel's homework nagging.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "Quiet night, Isabel stays in her room.",
+      "feeling": "tired but content",
+      "facts": [
+        "cast.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l04",
+      "date": "2025-10-14",
+      "what": "Tuesday 5:45 a.m. boardwalk walk at Ulloa Salt Marsh with Dana, then teaches periods 1, 2 and 3 including Dulce's class.",
+      "with": [
+        "dana",
+        "dulce"
+      ],
+      "outcome": "Walk and morning classes went smoothly.",
+      "feeling": "energized",
+      "facts": [
+        "grace.f33",
+        "grace.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l05",
+      "date": "2025-10-14",
+      "what": "Runs the Tuesday lunch lab-makeup session in B12, then uses prep to gather flame test supplies: splints, salts and goggles.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Supplies counted; budget stayed under limit.",
+      "feeling": "careful",
+      "facts": [
+        "grace.f03",
+        "grace.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l06",
+      "date": "2025-10-14",
+      "what": "Teaches periods 5 and 6, then cooks dinner and checks in with Lola Cora about her evening routine.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Dinner on the table by 6:30.",
+      "feeling": "worn out",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l07",
+      "date": "2025-10-15",
+      "what": "Teaches the morning sections and eats leftover rice and ulam in B12 during prep, rehearsing the observation lesson aloud.",
+      "with": [],
+      "outcome": "Lesson timing trimmed to fit period 2.",
+      "feeling": "anxious",
+      "facts": [
+        "grace.f14",
+        "grace.f02"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l08",
+      "date": "2025-10-15",
+      "what": "Picks up Lola Cora's prescriptions at the Vinca Avenue drugstore after school, then sorts the pills into the organizer.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Pills sorted for two weeks.",
+      "feeling": "dutiful",
+      "facts": [
+        "grace.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l09",
+      "date": "2025-10-15",
+      "what": "Prints the lab handouts and has a short argument with Isabel over her late-night essay drafting.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Truce at bedtime.",
+      "feeling": "irritated",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l10",
+      "date": "2025-10-16",
+      "what": "Patricia Ocampo observes Grace's period 2 with the full flame test inquiry lab she prepared specially for the visit; Grace had asked for three differentiation tweaks for it.",
+      "with": [
+        "patricia"
+      ],
+      "outcome": "Lesson ran on time and students were engaged.",
+      "feeling": "nervous then relieved",
+      "facts": [
+        "grace.f53",
+        "grace.f01"
+      ],
+      "impressions": [
+        "grace.i06"
+      ]
+    },
+    {
+      "id": "grace.w8.l11",
+      "date": "2025-10-16",
+      "what": "Eats lunch in B12 with Dana, who has been venting about her own evaluations, and they debrief the observation.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Dana reassured Grace it went well.",
+      "feeling": "relieved",
+      "facts": [
+        "grace.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l12",
+      "date": "2025-10-16",
+      "what": "Teaches periods 5 and 6, then takes a Thursday dawn-walk follow-up call from Dana about the weekend plans; evening is spent grading lab reports.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Reports graded halfway.",
+      "feeling": "tired",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l13",
+      "date": "2025-10-17",
+      "what": "Teaches her five sections and submits the Friday form with her spreadsheet template at 3:30.",
+      "with": [],
+      "outcome": "Form submitted on time.",
+      "feeling": "routine, mildly resentful",
+      "facts": [
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l14",
+      "date": "2025-10-17",
+      "what": "Hears from Dana at lunch that the district is reassigning IT help, and that the observation notes from Patricia will come next week.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Waiting on Patricia's feedback.",
+      "feeling": "curious",
+      "facts": [
+        "grace.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l15",
+      "date": "2025-10-17",
+      "what": "Takes the hatchback to the Ruel Road station to fill up cheaply, then orders pancit for dinner since she is too tired to cook.",
+      "with": [
+        "ramon"
+      ],
+      "outcome": "Easy family dinner.",
+      "feeling": "relaxed",
+      "facts": [
+        "grace.f65",
+        "grace.f08"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l16",
+      "date": "2025-10-18",
+      "what": "Saturday grocery run at Ruiz Family Market and rolls from Panadería Las Hermanas.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Pantry restocked.",
+      "feeling": "steady",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l17",
+      "date": "2025-10-18",
+      "what": "Works in the backyard on the calamansi and tomato pots while Lola Cora watches from the porch.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Pots repotted.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l18",
+      "date": "2025-10-18",
+      "what": "Pays bills and reviews the car loan and the month's budget on the laptop, worrying about the first payment.",
+      "with": [],
+      "outcome": "Budget sheet updated.",
+      "feeling": "anxious about money",
+      "facts": [
+        "grace.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l19",
+      "date": "2025-10-19",
+      "what": "Attends Tagalog Mass at 9 at Our Lady of the Marsh with Lola Cora, then has lunch.",
+      "with": [
+        "corazon",
+        "ben"
+      ],
+      "outcome": "Family lunch of sinigang.",
+      "feeling": "comforted",
+      "facts": [
+        "grace.f59"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w8.l20",
+      "date": "2025-10-19",
+      "what": "Grades at the kitchen table, rewriting a parent email three times to soften it, then fires off a one-line text to Isabel reading 'Dishes. Now.'",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Isabel stops talking to her; Grace wonders only afterward whether the text was too harsh.",
+      "feeling": "guilty, defensive",
+      "facts": [
+        "grace.f12"
+      ],
+      "impressions": [
+        "grace.i01"
+      ]
+    },
+    {
+      "id": "grace.w8.l21",
+      "date": "2025-10-19",
+      "what": "Evening quiet in the house; Grace sits with Lola Cora and the teleserye and thinks about apologizing to Isabel.",
+      "with": [
+        "corazon",
+        "isabel"
+      ],
+      "outcome": "No apology yet.",
+      "feeling": "unsettled",
+      "facts": [],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w8.n01",
+      "subject": "grace",
+      "attribute": "observation_lab",
+      "value": "flame tests inquiry lab used for Patricia's observation",
+      "valid_from": "2025-10-16",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w8.n02",
+      "subject": "grace",
+      "attribute": "friday_dinner",
+      "value": "ordered pancit takeout after the Friday form",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w8.n03",
+      "subject": "grace",
+      "attribute": "pill_organizer",
+      "value": "refilled Lola Cora's pill organizer for two weeks",
+      "valid_from": "2025-10-15",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w8.n04",
+      "subject": "grace",
+      "attribute": "observation_feedback",
+      "value": "Patricia's written observation notes expected the week of Oct 20",
+      "valid_from": "2025-10-17",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w8.n05",
+      "subject": "isabel",
+      "attribute": "dishes_dispute",
+      "value": "stopped speaking to Grace after the 'Dishes. Now.' text",
+      "valid_from": "2025-10-19",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    }
+  ]
+}

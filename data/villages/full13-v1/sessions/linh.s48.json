@@ -1,0 +1,39 @@
+{
+  "id": "linh.s48",
+  "principal": "linh",
+  "start": "2025-10-14T23:38:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait i drafted an email to my boss about the tip jar thing and now im not sure i should send it.. can u look\n\n\"Hi Beatrice, I wanted to ask about the breakage deduction from the closers' tip jar. I understand things get broken sometimes, but it feels a little unfair that it comes out of tips only. Would it be possible to cover it another way? Thanks, Linh\""
+    },
+    {
+      "role": "assistant",
+      "text": "The draft is polite and clear, and it asks a real question rather than making an accusation. Before deciding whether to send it, can you tell me a bit more? For example, how often does the deduction happen, and has anyone else raised it?"
+    },
+    {
+      "role": "user",
+      "text": "idk like every few shifts, someone chips a mug or drops a pitcher and it comes out of the jar. we closers split it\n\nhonestly i privately think shes kind of stingy about it. like i just got the closer raise, its $19.25 an hour plus tips, so its not like shes not paying me. but docking tips for a mug feels off"
+    },
+    {
+      "role": "assistant",
+      "text": "That's a reasonable thing to feel uneasy about. A raise and a tip deduction are separate things, and tips are usually treated as the staff's money, so asking how the deduction works is a fair question.\n\nSo, to your actual question: is it okay to just not send it? Yes, it's your call. But not sending it means nothing changes. Here are some options:\n\n- **Send as is.** It's already soft and professional.\n- **Say it in person.** A quick 'hey, can I ask about the breakage thing?' at the start of a shift can feel less formal than email.\n- **Wait and track.** Note the dates and amounts for a couple of weeks, so if you do raise it you have specifics.\n- **Don't send.** That's valid too, especially if it's small money and you'd rather keep things smooth. You can keep the draft saved in case you change your mind.\n\nWhat feels most doable to you?"
+    },
+    {
+      "role": "user",
+      "text": "kenji drove me to chem today and i was literally stewing over this the whole ride lol. he said just send it\n\ni think i just want to not send it tonight and maybe wait. is that ok"
+    },
+    {
+      "role": "assistant",
+      "text": "That's totally okay. It's almost midnight, and a message like this is easier to judge when you're rested. Here's a simple plan:\n\n- **Tonight:** leave the draft saved and don't send.\n- **Next few shifts:** jot down any deduction dates and amounts in your phone.\n- **In a week or so:** reread the draft. If it still bugs you, send it or bring it up in person, using your notes.\n- **If it stops bothering you:** let it go, no guilt.\n\nKenji's instinct to just send it is reasonable too, and the draft is ready if you decide he's right. Want me to trim it a little so it's quicker to send later?"
+    },
+    {
+      "role": "user",
+      "text": "yes pls but keep it short\n\nok im gonna sleep now 🫠"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a shorter version:\n\n\"Hi Beatrice, quick question about the breakage deductions from the closers' tip jar. Is there another way to cover those so they don't come out of tips? Happy to talk it over whenever's good. Thanks, Linh\"\n\nSleep well!"
+    }
+  ]
+}

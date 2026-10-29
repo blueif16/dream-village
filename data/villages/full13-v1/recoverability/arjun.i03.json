@@ -1,0 +1,88 @@
+{
+  "impression_id": "arjun.i03",
+  "evidence_sessions": [
+    "arjun.s25",
+    "arjun.s44",
+    "arjun.s61",
+    "arjun.s75",
+    "arjun.s83"
+  ],
+  "inferred": [
+    {
+      "statement": "Compares himself to peers (Omar, the club member who landed a brokerage internship) and feels pressure or discouragement from their visible successes, sometimes discounting them (e.g. 'only got it thru his uncle').",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s25",
+        "arjun.s44",
+        "arjun.s75",
+        "arjun.s83"
+      ]
+    },
+    {
+      "statement": "Repeatedly asks what 'normal people' or others typically do (application counts, depth of study, exam prep), using external benchmarks to gauge whether he is on track.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s25",
+        "arjun.s44",
+        "arjun.s75",
+        "arjun.s83"
+      ]
+    },
+    {
+      "statement": "Prefers terse, structured replies and asks for tight bullets, tables, TL;DRs and short answers, often working in tight time windows between classes or shifts.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s25",
+        "arjun.s44",
+        "arjun.s75",
+        "arjun.s83"
+      ]
+    },
+    {
+      "statement": "Is anxious about the internship search, doubts that volume applying works for him, and manages that by reframing it as deliberate and focused, caring how things look to others.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s44",
+        "arjun.s61",
+        "arjun.s25"
+      ]
+    },
+    {
+      "statement": "Worries about how confident he comes across, wanting his materials to look more assured than he feels or sounded in practice, and hiding self-doubt behind polish and humor.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s61",
+        "arjun.s75"
+      ]
+    },
+    {
+      "statement": "Is diligent and systematic about preparation: iterates resume versions, tracks applications in a color-coded spreadsheet, practices problems, and plans for office hours to look sharp.",
+      "strength": "strong",
+      "sessions": [
+        "arjun.s44",
+        "arjun.s61",
+        "arjun.s75",
+        "arjun.s83"
+      ]
+    },
+    {
+      "statement": "Tends to study or work late and at the last minute, with messy notes and compressed prep time, and tends to overwork when stressed.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s61",
+        "arjun.s83"
+      ]
+    },
+    {
+      "statement": "Responds well to practice problems and checking his own work, engaging actively rather than just receiving explanations.",
+      "strength": "moderate",
+      "sessions": [
+        "arjun.s75",
+        "arjun.s83"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Compares himself to peers (Omar, the club member who landed a brokerage internship) and feels pressure or discouragement from their visible successes, sometimes discounting them (e.g. 'only got it thru his uncle').",
+  "rationale": "The first inferred statement, rated strong, says he compares himself to peers like Omar, feels pressure or discouragement from their successes, and discounts them. This matches the intended trait of measuring himself against peers and quietly stinging at their success."
+}

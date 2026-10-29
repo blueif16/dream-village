@@ -1,0 +1,364 @@
+{
+  "session_id": "elliot.s30",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Elliot misses going to games and follows baseball",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f60",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i miss going to actual games so i keep scoring everything like one lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Elliot takes stroller walks on the marsh boardwalk in the mornings",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f28",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have a few from this week's morning walks, the stroller on the marsh boardwalk",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo sleeps perfectly at Judith's and nowhere else (Grandma effect)",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can you make the caption a joke about the grandma effect?",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo cries starting at 5 in the evening",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i want to send it before the evening crying starts at 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant uses the Grandma effect",
+      "about": "elliot",
+      "kind": "reference_use",
+      "item_id": "elliot.r04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Funny how the Grandma effect only works at Grandma's.",
+      "support_quote": "he sleeps perfectly at her place and nowhere else so can you make the caption a joke about the grandma effect?"
+    },
+    {
+      "text": "Elliot's mother is Judith",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Here are a few captions for your mom",
+      "support_quote": "a version just for my mom, judith"
+    },
+    {
+      "text": "Elliot takes 40-minute walks with Theo",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f28",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "40 minutes of fresh air and absolutely no complaints.",
+      "support_quote": ""
+    },
+    {
+      "text": "Theo has evening fussiness",
+      "about": "theo",
+      "kind": "fact",
+      "item_id": "elliot.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Enjoy it, because the evening shift is another story.",
+      "support_quote": "before the evening crying starts at 5"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": "elliot.f28",
+      "detail": "assistant turn 6 says '40 minutes of fresh air and absolutely no complaints.' before the user told it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "elliot.f60",
+      "present": true,
+      "quote": "i miss going to actual games so i keep scoring everything like one lol"
+    },
+    {
+      "item_id": "elliot.f28",
+      "present": true,
+      "quote": "i have a few from this week's morning walks, the stroller on the marsh boardwalk, with the egrets in the background in one"
+    },
+    {
+      "item_id": "elliot.r04",
+      "present": true,
+      "quote": "can you make the caption a joke about the grandma effect?"
+    },
+    {
+      "item_id": "elliot.f41",
+      "present": true,
+      "quote": "i want to send it before the evening crying starts at 5"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "impression_id": "marcus.i04",
+  "evidence_sessions": [
+    "marcus.s03",
+    "marcus.s06",
+    "marcus.s09",
+    "marcus.s23",
+    "marcus.s27",
+    "marcus.s33",
+    "marcus.s43"
+  ],
+  "inferred": [
+    {
+      "statement": "Marcus repeatedly uses humor, especially a running vampire/nocturnal-creature bit, to soften apologies and reassure his girlfriend Jade about being unavailable.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s03",
+        "marcus.s06",
+        "marcus.s23",
+        "marcus.s27",
+        "marcus.s33",
+        "marcus.s43"
+      ]
+    },
+    {
+      "statement": "His night-shift and overtime work, combined with classes, leaves him chronically short on sleep and keeps causing him to miss or be unreachable during Jade's time, which he keeps having to repair.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s03",
+        "marcus.s06",
+        "marcus.s09",
+        "marcus.s23",
+        "marcus.s27",
+        "marcus.s33",
+        "marcus.s43"
+      ]
+    },
+    {
+      "statement": "He wants the apologies to include real sincerity but dislikes anything sappy, corny, or heavy, and pushes the assistant toward a casual, short tone.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s06",
+        "marcus.s23",
+        "marcus.s33",
+        "marcus.s43"
+      ]
+    },
+    {
+      "statement": "He prefers brief, quick-to-use answers, opening with 'real quick' and asking for short versions, often because he is about to leave for a shift or class.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s03",
+        "marcus.s06",
+        "marcus.s09",
+        "marcus.s23",
+        "marcus.s27",
+        "marcus.s33",
+        "marcus.s43"
+      ]
+    },
+    {
+      "statement": "He cares about the relationship with Jade and tries to make up for lost time with concrete gestures, like regular Phở Bến Thành dinners, a birthday bracelet, and promises to be awake and present.",
+      "strength": "strong",
+      "sessions": [
+        "marcus.s03",
+        "marcus.s06",
+        "marcus.s09",
+        "marcus.s27",
+        "marcus.s33",
+        "marcus.s43"
+      ]
+    },
+    {
+      "statement": "He tends to act at the last minute and leans on the assistant to handle messages, planning and logistics, reaching out for help once things are already running behind.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s27",
+        "marcus.s33",
+        "marcus.s43",
+        "marcus.s09"
+      ]
+    },
+    {
+      "statement": "He is stretched academically, behind in his courses and needing tutoring, and he feels pressure around midterms while still working heavy hours.",
+      "strength": "moderate",
+      "sessions": [
+        "marcus.s06",
+        "marcus.s27"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Marcus repeatedly uses humor, especially a running vampire/nocturnal-creature bit, to soften apologies and reassure his girlfriend Jade about being unavailable.",
+  "rationale": "The first inferred statement, rated strong, says Marcus repeatedly uses humor (a running vampire bit) to soften apologies and reassure Jade when he has let her down. That is substantially the intended pattern of using humor to deflect tension with Jade."
+}

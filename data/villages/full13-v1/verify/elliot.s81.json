@@ -1,0 +1,123 @@
+{
+  "session_id": "elliot.s81",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Does Sunday batch cook of two dishes, chili and baked pasta",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f24",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "it's for my sunday batch cook, two dishes for the week: chili and baked pasta",
+      "support_quote": ""
+    },
+    {
+      "text": "Lactose intolerant",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i'm lactose intolerant",
+      "support_quote": ""
+    },
+    {
+      "text": "Judith leaves for her condo at 5 on Friday",
+      "about": "judith",
+      "kind": "fact",
+      "item_id": "elliot.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "judith just left for her condo at 5",
+      "support_quote": ""
+    },
+    {
+      "text": "Saturday trip to Ruiz Family Market with Theo in the carrier",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "tomorrow's saturday trip to Ruiz Family Market, theo will be in the carrier",
+      "support_quote": ""
+    },
+    {
+      "text": "Witching hour is Theo's crying stretch",
+      "about": "theo",
+      "kind": "reference_use",
+      "item_id": "elliot.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need this done before the witching hour starts and ruins the afternoon",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says Elliot is lactose intolerant",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f37",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "oat milk (1 carton, lactose intolerant, check label for no dairy)",
+      "support_quote": "note oat milk on it, i'm lactose intolerant"
+    },
+    {
+      "text": "Saturday trip to the market is tomorrow",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f22",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since the Saturday trip is tomorrow",
+      "support_quote": "the list should be sorted for tomorrow's saturday trip to Ruiz Family Market"
+    },
+    {
+      "text": "Elliot is a dad doing the Sunday cook",
+      "about": "elliot",
+      "kind": "fact",
+      "item_id": "elliot.f24",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "the cook on Sunday",
+      "support_quote": "it's for my sunday batch cook, two dishes for the week: chili and baked pasta"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 4 uses the name 'Bell' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "elliot.f24",
+      "present": true,
+      "quote": "it's for my sunday batch cook, two dishes for the week: chili and baked pasta"
+    },
+    {
+      "item_id": "elliot.f37",
+      "present": true,
+      "quote": "note oat milk on it, i'm lactose intolerant"
+    },
+    {
+      "item_id": "elliot.f48",
+      "present": true,
+      "quote": "judith just left for her condo at 5 so it's me and theo till monday"
+    },
+    {
+      "item_id": "elliot.f22",
+      "present": true,
+      "quote": "the list should be sorted for tomorrow's saturday trip to Ruiz Family Market, theo will be in the carrier"
+    },
+    {
+      "item_id": "elliot.r03",
+      "present": true,
+      "quote": "i need this done before the witching hour starts and ruins the afternoon"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "isabel.s24",
+  "principal": "isabel",
+  "start": "2025-10-09T16:33:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "the mom sheet needs a tighter aid paragraph. be brutal\n\n\"It is important to understand that I qualified for an SAT fee waiver, but most private schools do not offer me application fee waivers, so I am saving $160 on my own to cover application fees beyond my waivers. Financial aid depends on family income, so grace is collecting our tax documents right now so we can get an actual aid estimate instead of guessing.\""
+    },
+    {
+      "role": "assistant",
+      "text": "Brutal version: \"It is important to understand\" is padding and it's the part that sounds like a lecture. The two sentences also bury the point. Here's a tighter edit:\n\n\"I qualified for an SAT fee waiver, but most private schools won't waive application fees, so I'm saving $160 to cover the ones my waivers don't. Aid estimates depend on family income, so we're gathering tax documents now to get real numbers instead of guessing.\"\n\nChanges: cut the throat-clearing, switched to active voice, and changed \"I am saving on my own\" to just \"I'm saving\" so it reads as a plan, not a complaint. I also swapped \"grace is collecting\" for \"we're gathering\" since this is going on a shared sheet. Want it to say who is collecting them instead?"
+    },
+    {
+      "role": "user",
+      "text": "ok that works. now the line explaining how aid gets calculated, rewrite so it sounds like a tired person wrote it not a counselor handout. and genuinely no 'talk to your parents' stuff\n\n\"Colleges determine financial aid eligibility by evaluating your family's reported income and assets, and families are encouraged to discuss these figures with their parents or guardians.\""
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go, with no parent line:\n\n\"Aid is based on family income and assets. Each school runs the numbers differently, so the same family can get very different offers.\"\n\nShorter option:\n\n\"Schools set aid from family income and assets, and every school does the math differently.\"\n\nBoth stick to facts. If you want, I can add a line pointing to each school's net price calculator as the next step."
+    },
+    {
+      "role": "user",
+      "text": "short one. add the calculator line. ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "\"Schools set aid from family income and assets, and every school does the math differently. Each school's net price calculator gives a real estimate.\"\n\nGood luck with the rest of the sheet."
+    }
+  ]
+}

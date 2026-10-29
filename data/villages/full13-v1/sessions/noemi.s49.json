@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s49",
+  "principal": "noemi",
+  "start": "2025-10-16T13:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q. i have like 4 hrs before shift. should i study port numbers or sort greg's vendor ticket list. his last day is tomorrow and i still need the list from him"
+    },
+    {
+      "role": "assistant",
+      "text": "Short answer: do the ticket list first, but time-box it.\n\nWhy: Greg's last day is tomorrow, so the list can only be handled while he's still around. Port numbers can be studied any day.\n\nSuggested split:\n- Now to about 2:45: Go through the vendor ticket list. Note which tickets are open, who the vendor contact is, and what's waiting on whom. Ask Greg anything unclear today, since you won't be able to tomorrow.\n- 2:45 to 3:15: Text or grab Greg for whatever's missing.\n- Remaining time before shift: 45 minutes on ports.\n\nDo you want a quick template for sorting the ticket list?"
+    },
+    {
+      "role": "user",
+      "text": "yeah ty. also ports keep tripping me up in practice tests, low 70s again yesterday. exam is nov 8 at the tamsen city testing center and the clock is ticking lol. should i just push it"
+    },
+    {
+      "role": "assistant",
+      "text": "Low 70s with several weeks left is a workable spot, and you don't need to decide today. Whatever you decide, the ports are the cheapest points to gain, because they're memorization rather than concepts.\n\nTicket list template (columns):\n1. Ticket # / vendor\n2. Issue\n3. Status (open / waiting on vendor / waiting on you)\n4. Next action + owner\n5. Deadline\n\nSort by deadline first, then by who's blocking.\n\nPorts: only drill the common ones, in small chunks. Flashcards for about 10 at a time: 20/21 FTP, 22 SSH, 23 Telnet, 25 SMTP, 53 DNS, 67/68 DHCP, 80 HTTP, 110 POP3, 143 IMAP, 443 HTTPS, 3389 RDP."
+    },
+    {
+      "role": "user",
+      "text": "ok. also gotta update the RMA sheet before handoff. can u give me a lighter study plan for the next few weeks, nothing crazy, work is heavy rn"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Here's a lighter plan, built around short sessions:\n\nWeekdays (15-20 min):\n- Mon/Wed/Fri: ports flashcards, one new batch of about 10 plus a review of earlier batches.\n- Tue/Thu: 10 subnetting problems, or whatever your practice app offers.\n\nWeekends (45 min total, one sitting):\n- One full practice test or half a test, then review only the questions you missed.\n\nRules to keep it light:\n- Skip a day without guilt. Missing one session doesn't break the plan.\n- Track the practice score weekly. If you're hitting about 75% or higher, keep the date. If not, push the exam then, with a real number behind the choice.\n\nFor today: ticket list first, RMA sheet update before handoff, then ports if there's time. Want a checklist for the RMA sheet update?"
+    }
+  ]
+}

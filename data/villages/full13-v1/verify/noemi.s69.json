@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s69",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Victor Esparza is called 'Acting Victor'",
+      "about": "victor",
+      "kind": "reference_use",
+      "item_id": "noemi.r04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "acting victor emailed me",
+      "support_quote": ""
+    },
+    {
+      "text": "Victor works days 7 to 3:30",
+      "about": "victor",
+      "kind": "fact",
+      "item_id": "noemi.f49",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "he works days 7 to 3:30",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi turns frustration into jokes about checking other servers",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just checking other servers rn lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi rewrites replies to Victor to remove sarcasm, impatient with manager",
+      "about": "noemi",
+      "kind": "trait_shown",
+      "item_id": "noemi.i02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i rewrote this reply 3 times to cut the sarcasm",
+      "support_quote": ""
+    },
+    {
+      "text": "Noemi is job searching for network tech roles",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "what keywords do network tech postings usually list",
+      "support_quote": ""
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.i06",
+      "present": true,
+      "quote": "just checking other servers rn lol"
+    },
+    {
+      "item_id": "noemi.i02",
+      "present": true,
+      "quote": "i rewrote this reply 3 times to cut the sarcasm. does it still sound curt"
+    },
+    {
+      "item_id": "noemi.r04",
+      "present": true,
+      "quote": "acting victor emailed me"
+    },
+    {
+      "item_id": "noemi.f49",
+      "present": true,
+      "quote": "he works days 7 to 3:30 so it landed before my swing started"
+    }
+  ],
+  "sensitive": []
+}

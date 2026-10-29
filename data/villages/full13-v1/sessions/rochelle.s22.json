@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s22",
+  "principal": "rochelle",
+  "start": "2025-10-08T15:23:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need help fitting anatomy study around everything lol. just got out of Okoye's wednesday 1 pm office hours so i have her list of what to focus on for the practical. problem is Loretta Tuesdays keep clashing w the 4 pm study group. i drive my mother in law to the pharmacy tuesday 3:30 and i made Pedro's group maybe every other week. missed it again yesterday"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Quick question first: what's on the list from office hours, and when are the other fixed things? Tell me Andre's dinner time and Aaliyah's shift hours and I'll build the week around them."
+    },
+    {
+      "role": "user",
+      "text": "andre eats at like 5:30 now since hes home late from his long days. aaliyah works evenings so she leaves around 5. the practical is the 17th. okoye said focus on muscles and the bones lists. so heres what i do. mon wed fri class 9 til whenever then i cook and do the laundry and pickups then dinner then study if theres time left. tuesday is chem then the pharmacy run. honestly im so behind"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: you're not behind on effort, your study time is just getting whatever's left. Flip it. Block study first, then fit errands around it.\n\nProposed week (practical is Oct 17):\n- Mon/Wed/Fri: 30 min of muscle cards right after class, before cooking. Do bones cards the same way on alternating days.\n- Tue: after chem, 20 min of cards before you leave for the 3:30 pharmacy run. Bring cards and review them in the car while the pharmacy fills the order.\n- Tue group: since the 4 pm clashes with that run, treat it as a bonus and don't count on it. Ask if the group has notes or a recording you can get afterward.\n- Nightly: 45 min at the kitchen table after Andre's 5:30 dinner, once Aaliyah has left, so the house is quieter.\n- Thu: a timed self-quiz on both lists.\n- Sat/Sun: one 1-hour review of what you missed.\n\nYou could also see if Aaliyah can cover the Tuesday pharmacy run or some pickups. Want a printable version?"
+    },
+    {
+      "role": "user",
+      "text": "can aaliyah do the 3:30 thing, she has class tho. ill ask. give me the printable short. ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\nMON/WED/FRI: 30 min cards after class (muscles, then bones)\nTUE: 20 min cards after chem, review in the car during the pharmacy run\nNIGHTLY: 45 min at the table after dinner\nTHU: timed self-quiz\nSAT/SUN: 1 hr review\nOCT 17: practical\n\nIf Aaliyah can't do the 3:30 run, just keep the car review and get the group's notes afterward. Good luck with the ask."
+    }
+  ]
+}

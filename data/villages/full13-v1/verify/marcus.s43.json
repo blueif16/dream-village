@@ -1,0 +1,82 @@
+{
+  "session_id": "marcus.s43",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Marcus has a 9pm overtime shift",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have to head out for the 9pm overtime shift soon",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus has been sleeping through Jade's days off",
+      "about": "jade",
+      "kind": "fact",
+      "item_id": "cast.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "ive been sleeping thru her days off all week and she's over it lol",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus had a Saturday dinner with Jade at pho place",
+      "about": "marcus",
+      "kind": "fact",
+      "item_id": "marcus.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "one from a saturday dinner at pho ben thanh",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus jokes with vampire apology to Jade",
+      "about": "marcus",
+      "kind": "trait_shown",
+      "item_id": "marcus.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "vampire apology tour 🧛 but still sincere",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus sleeps through Jade's days off",
+      "about": "jade",
+      "kind": "fact",
+      "item_id": "cast.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Sorry I've been out cold on your days off.",
+      "support_quote": "ive been sleeping thru her days off all week and she's over it lol"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "marcus.i04",
+      "present": true,
+      "quote": "lol maybe add something like i promise to stay awake. vampire apology tour 🧛 but still sincere"
+    },
+    {
+      "item_id": "cast.f45",
+      "present": true,
+      "quote": "ive been sleeping thru her days off all week and she's over it lol"
+    },
+    {
+      "item_id": "marcus.f05",
+      "present": true,
+      "quote": "i have to head out for the 9pm overtime shift soon"
+    },
+    {
+      "item_id": "marcus.f45",
+      "present": true,
+      "quote": "one from a saturday dinner at pho ben thanh"
+    }
+  ],
+  "sensitive": []
+}

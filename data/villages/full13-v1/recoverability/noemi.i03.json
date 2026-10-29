@@ -1,0 +1,85 @@
+{
+  "impression_id": "noemi.i03",
+  "evidence_sessions": [
+    "noemi.s16",
+    "noemi.s36",
+    "noemi.s61",
+    "noemi.s62",
+    "noemi.s65"
+  ],
+  "inferred": [
+    {
+      "statement": "Prefers terse, practical answers: opens with 'quick q', repeatedly asks for 'tldr' bullet-only versions, and often works under stated time limits.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s16",
+        "noemi.s36",
+        "noemi.s61",
+        "noemi.s62",
+        "noemi.s65"
+      ]
+    },
+    {
+      "statement": "Was casual about her own password hygiene (reusing one password everywhere, mentioned lightly with 'lol') while preaching security to others, but acts on it once prompted by a breach alert, moving to a password manager and unique logins.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s16",
+        "noemi.s61",
+        "noemi.s62",
+        "noemi.s65"
+      ]
+    },
+    {
+      "statement": "Takes on responsibility in her IT role beyond her title, creating security awareness materials, running huddles, training new techs, and covering lead duties, and cares about colleagues' habits and clear processes.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s16",
+        "noemi.s36",
+        "noemi.s62"
+      ]
+    },
+    {
+      "statement": "Wants authority without alienating coworkers; she asks for talks that are firm but not lecture-like, considering how specific people (e.g., Carla) will receive them.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s36"
+      ]
+    },
+    {
+      "statement": "Is a gamer with a regular co-op survival game squad, and schedules fixes and downtime around raids and play sessions.",
+      "strength": "strong",
+      "sessions": [
+        "noemi.s16",
+        "noemi.s61",
+        "noemi.s65"
+      ]
+    },
+    {
+      "statement": "Is actively upskilling and career-minded: studying networking (subnetting is her weak spot), keeping a one-page resume updated, and planning her week around study blocks.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s62",
+        "noemi.s65"
+      ]
+    },
+    {
+      "statement": "Downplays her own contribution when writing about her work, using casual phrasing, and relies on the assistant to sharpen it into stronger wording.",
+      "strength": "weak",
+      "sessions": [
+        "noemi.s62"
+      ]
+    },
+    {
+      "statement": "Plans around a demanding swing-shift schedule and protects personal commitments such as an anniversary dinner, and handles practical life admin methodically.",
+      "strength": "moderate",
+      "sessions": [
+        "noemi.s36",
+        "noemi.s61",
+        "noemi.s65"
+      ]
+    }
+  ],
+  "recovered": true,
+  "matched": "Was casual about her own password hygiene (reusing one password everywhere, mentioned lightly with 'lol') while preaching security to others, but acts on it once prompted by a breach alert, moving to a password manager and unique logins.",
+  "rationale": "The second inferred statement, rated strong, describes her preaching security to others while reusing one password herself and changing only after a breach alert. That matches the intended trait of holding others to rules she skips until something scares her."
+}

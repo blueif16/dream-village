@@ -1,0 +1,92 @@
+{
+  "session_id": "rochelle.s38",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Her laptop is a refurbished one bought with Pell money",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its the refurbished one i got with my Pell money",
+      "support_quote": ""
+    },
+    {
+      "text": "She is taking an online medical terminology course",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the terminology module for this week is the worst",
+      "support_quote": ""
+    },
+    {
+      "text": "She has anatomy at 9",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f02",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have anatomy at 9",
+      "support_quote": ""
+    },
+    {
+      "text": "She is parked in Lot C with her permit",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "im in Lot C already with my permit on the dash",
+      "support_quote": ""
+    },
+    {
+      "text": "She wants quick, straight answers",
+      "about": "rochelle",
+      "kind": "trait_shown",
+      "item_id": "rochelle.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need the quick fix",
+      "support_quote": ""
+    },
+    {
+      "text": "She will do a timed quiz in the terminology module",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.w3.n01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "do the quiz at home on stable Wi-Fi if you can",
+      "support_quote": "the terminology module for this week is the worst"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f31",
+      "present": true,
+      "quote": "its the refurbished one i got with my Pell money so i cant afford another lol"
+    },
+    {
+      "item_id": "rochelle.f03",
+      "present": true,
+      "quote": "the terminology module for this week is the worst, spinning wheel forever"
+    },
+    {
+      "item_id": "rochelle.f02",
+      "present": true,
+      "quote": "i have anatomy at 9 so i need the quick fix"
+    },
+    {
+      "item_id": "rochelle.f18",
+      "present": true,
+      "quote": "im in Lot C already with my permit on the dash"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": "jun.s26",
+  "principal": "jun",
+  "start": "2025-10-12T14:25:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok wait boss i need help figuring out how to talk to my mom about stuff. i raised the lumpia price yesterday, $12 a half dozen and $22 a dozen, was $10 before cuz wrappers and shrimp costs went up. customers were fine honestly but idk what she's gonna say lol"
+    },
+    {
+      "role": "assistant",
+      "text": "Raising prices when your costs jumped is normal, and it sounds like customers took it fine. Before I suggest how to bring it up with your mom, what's your worry about her reaction? Is it the price itself, or something else about the business? Also, do you want a script or just talking points?"
+    },
+    {
+      "role": "user",
+      "text": "talking points maybe. its mostly that its her recipe lol. also im testing a banana jackfruit turon for the market and she said it needs less sugar but she ate two pieces tho 🔥 so thats good right"
+    },
+    {
+      "role": "assistant",
+      "text": "Two pieces is a pretty good sign. Here are talking points:\n\n1. Lead with the numbers, briefly: wrappers and shrimp cost more, so the half dozen went from $10 to $12 and the dozen is $22. Nobody pushed back.\n2. Keep it about the costs, not about her recipe. You're pricing the business, and the food hasn't changed.\n3. Turon: say you took her sugar note and ask how much she'd cut. Giving her a specific thing to weigh in on usually goes over better than asking for a general verdict.\n4. Do it casually, over food or while she's cooking, not as a formal sit-down.\n\nWant a couple of sample lines?"
+    },
+    {
+      "role": "user",
+      "text": "yeah short version pls. also helping me plan the week, i saw rick walking the market lot this morning after basketball, he only answers vendor emails on mondays so i wanna email him tmrw"
+    },
+    {
+      "role": "assistant",
+      "text": "Sample lines:\n- \"Costs went up on wrappers and shrimp, so it's $12 for six and $22 a dozen now. Nobody flinched.\"\n- \"I cut the sugar like you said, try this batch?\"\n\nWeek plan:\n- Today: adjust the turon sugar and make a small test batch.\n- Monday: email Rick first thing, since that's the day he answers. Keep it short: who you are, what you sell, which Sunday slot you want, and ask what he needs from you.\n- Midweek: log your receipts so you can check the new prices cover costs.\n\nWhat's your work schedule like this week, so I can fit things around it?"
+    },
+    {
+      "role": "user",
+      "text": "ok actually one more thing. im still in my childhood bedroom at her house but ive been browsing fourplex sublets off vinca. should i look at those now or wait"
+    },
+    {
+      "role": "assistant",
+      "text": "Browsing is free, so go ahead and look. It tells you what's out there and what it costs. I'd hold off committing until you know what your income looks like, especially since your business costs are climbing.\n\nThis week:\n- Save a few listings and note rent, what's included, and parking.\n- Compare the rent against what you're making now.\n- Ask each one about lease length, deposit, and whether the sublet is okay with the landlord.\n\nAlso, when you talk to your mom about the prices, keep the move as a separate conversation so it doesn't get tangled up. Want a checklist for viewings?"
+    },
+    {
+      "role": "user",
+      "text": "sige yes checklist, thanks that helps a ton"
+    },
+    {
+      "role": "assistant",
+      "text": "Viewing checklist:\n- Monthly rent, deposit, and when it's due\n- Lease or sublet length, and landlord approval\n- Shared bathroom or kitchen, and with who\n- Parking (street only?) and laundry\n- Utilities and internet: included or split\n- Water pressure, heat, locks, and signs of damage\n- Noise level and neighbors\n- Whether there's space for the stuff you need to store\n\nGood luck with Rick tomorrow and the turon batch!"
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "session_id": "dulce.s11",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Phone dies by 2pm, cracked hand-me-down from mom",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f09",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my phone keeps dying like every day by 2pm and its cracked and a hand me down from my mom",
+      "support_quote": ""
+    },
+    {
+      "text": "Chem grade is a C+ after stoichiometry test and missing writeups",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my chem grade is a C+ now after the stoichiometry test and the missing lab writeups",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a library session for study",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f21",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i have like 10 min before the library session",
+      "support_quote": ""
+    },
+    {
+      "text": "Reads silence in chat as possibly having done something wrong",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "did i do something wrong yesterday or is it just the phone",
+      "support_quote": ""
+    },
+    {
+      "text": "Deflects with a joke and meme request after admitting grade",
+      "about": "dulce",
+      "kind": "trait_shown",
+      "item_id": "dulce.i05",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "anyway lol give me a meme style battery saver tip",
+      "support_quote": ""
+    },
+    {
+      "text": "Is in the lab rats chat with Eli",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f18",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the lab rats chat hasnt buzzed at all today",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says she has a chem catch-up session at the library",
+      "about": "dulce",
+      "kind": "fact",
+      "item_id": "dulce.f21",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck on the chem catch-up.",
+      "support_quote": "my chem grade is a C+ now after the stoichiometry test and the missing lab writeups"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "dulce.f20",
+      "present": true,
+      "quote": "my chem grade is a C+ now after the stoichiometry test and the missing lab writeups so i need the phone alive for my study timer and notes app"
+    },
+    {
+      "item_id": "dulce.i04",
+      "present": true,
+      "quote": "the lab rats chat hasnt buzzed at all today and eli hasnt replied to my msg from last night. did i do something wrong yesterday or is it just the phone"
+    },
+    {
+      "item_id": "dulce.i05",
+      "present": true,
+      "quote": "anyway lol give me a meme style battery saver tip"
+    },
+    {
+      "item_id": "dulce.f09",
+      "present": true,
+      "quote": "my phone keeps dying like every day by 2pm and its cracked and a hand me down from my mom"
+    },
+    {
+      "item_id": "dulce.f21",
+      "present": true,
+      "quote": "i have like 10 min before the library session"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "cast.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f26",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "cast.f68",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.f33",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.f36",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.f23",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.f42",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f47",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.f48",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.f30",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.f08",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "isabel.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "dulce.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "linh.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "arjun.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "marcus.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rafael.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "thao.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "noemi.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "jun.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "elliot.w10.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "rochelle.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w4.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w6.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w8.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    },
+    {
+      "item_id": "grace.w12.ns01",
+      "user_quote": "",
+      "assistant_quote": ""
+    }
+  ]
+}

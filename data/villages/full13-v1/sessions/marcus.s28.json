@@ -1,0 +1,39 @@
+{
+  "id": "marcus.s28",
+  "principal": "marcus",
+  "start": "2025-10-19T13:48:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "real quick can u check my spending till next payday. got paid friday. lowercase typing sorry just woke up lol"
+    },
+    {
+      "role": "assistant",
+      "text": "No problem, happy to. Tell me what's coming in and what's going out before the next paycheck, and I'll lay it out so you can see what's left.\n\nWhat I need: your take-home from this paycheck, your fixed bills, and anything big you've already spent since payday."
+    },
+    {
+      "role": "user",
+      "text": "ok so paid every other friday. rent is 1050 my share due on the 1st thru the marisol portal. the mom fund is now 250 every other friday for her electric bill, was 150 before. i just sent it friday and put the note as like 'for gas money back lol' so she wont say no\nalso grabbed the 240 sneakers yesterday. honestly its basically an investment i can flip them later they hold value"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Here's the structure with your numbers. I don't have your take-home figure yet, so I've left it as a placeholder:\n\n**Paycheck:** [your take-home]\n\n**Already spent or committed:**\n- Mom fund: $250 (sent Friday, next one due in two weeks)\n- Sneakers: $240\n- Rent share: $1,050 due on the 1st, so you need to set aside roughly half of it from each of the next two checks\n\n**Running tally:**\n1. Take-home minus $250 (mom fund) minus $240 (sneakers)\n2. Minus about $525 set aside toward rent\n3. What's left = your cash for groceries, transport and gym until the next payday\n\nThe sneakers can only help the budget if you actually sell them. Until then, treat that $240 as spent, and any resale as a bonus.\n\nIf you tell me your take-home, your gas or carpool cost, and your groceries per week, I'll fill in the real numbers."
+    },
+    {
+      "role": "user",
+      "text": "take home was about 1,480. carpool is 20 a week and food is maybe 60 a week. also im filling out my bayshore financial aid form rn, can u see how aid would change this. pasting it\n\nName: Marcus Bell\nSSN: 612-48-3907\nProgram: Kinesiology, sophomore\nHousehold income: [blank]"
+    },
+    {
+      "role": "assistant",
+      "text": "Thanks. First, a heads up: I won't repeat your Social Security number or any part of it, and you should be careful about pasting it into chats. Fill that field directly in the official form.\n\n**Your budget with the numbers you gave:**\n- Take-home: $1,480\n- Mom fund: -$250\n- Sneakers: -$240\n- Rent set-aside: -$525\n- Carpool, 2 weeks: -$40\n- Food, 2 weeks: -$120\n\n**Left until next payday: about $305** for gym, phone, and anything unexpected.\n\n**On the aid form:** the SSN field is just identity matching, so I'll leave it alone. The blank is household income. Check whether you're filing as independent or dependent, because that decides whether it asks about your parent's income or yours. Aid awards usually arrive as a lump sum applied to tuition or sent as a refund, so don't count it in this budget until it's confirmed.\n\nOnce you know your award, send it over and I'll fold it in."
+    },
+    {
+      "role": "user",
+      "text": "ok that helped. short version of how much cushion i have if i skip the next sneaker"
+    },
+    {
+      "role": "assistant",
+      "text": "Short version: about $305 free until next payday, and skipping sneakers keeps it that way. Anything you'd put toward sneakers could go straight to your emergency cushion instead."
+    }
+  ]
+}

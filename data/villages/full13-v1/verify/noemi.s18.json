@@ -1,0 +1,102 @@
+{
+  "session_id": "noemi.s18",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Booked the certification exam for Sat Nov 8, 9am, Tamsen city testing center",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f07",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "just booked the exam for sat nov 8, 9am, testing center in tamsen city",
+      "support_quote": ""
+    },
+    {
+      "text": "Practice tests average 71%, pass line about 75%",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "practice tests are averaging 71% and pass line is like 75",
+      "support_quote": ""
+    },
+    {
+      "text": "Eating Taqueria Colima in the cage",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f25",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "eating taqueria colima in the cage rn",
+      "support_quote": ""
+    },
+    {
+      "text": "Subnetting and port numbers are her weak topics",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "subnetting and port numbers keep dragging my score down",
+      "support_quote": ""
+    },
+    {
+      "text": "Exam is Nov 8, about 8 weeks away",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f07",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "You have about 8 weeks from now to Nov 8.",
+      "support_quote": "just booked the exam for sat nov 8, 9am, testing center in tamsen city"
+    },
+    {
+      "text": "Her score gap is likely from subnetting and ports",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f12",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "since the 4-point gap is likely coming from those",
+      "support_quote": "subnetting and port numbers keep dragging my score down"
+    },
+    {
+      "text": "Has a 75 pass line to beat",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f10",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "so you have a cushion over the 75 line",
+      "support_quote": "practice tests are averaging 71% and pass line is like 75"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f07",
+      "present": true,
+      "quote": "just booked the exam for sat nov 8, 9am, testing center in tamsen city"
+    },
+    {
+      "item_id": "noemi.f10",
+      "present": true,
+      "quote": "practice tests are averaging 71% and pass line is like 75"
+    },
+    {
+      "item_id": "noemi.f25",
+      "present": true,
+      "quote": "eating taqueria colima in the cage rn"
+    },
+    {
+      "item_id": "noemi.f12",
+      "present": true,
+      "quote": "subnetting and port numbers keep dragging my score down"
+    }
+  ],
+  "sensitive": []
+}

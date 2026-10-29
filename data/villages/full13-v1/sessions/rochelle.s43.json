@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s43",
+  "principal": "rochelle",
+  "start": "2025-11-22T21:01:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest i need help w something. just got off my sat shift at the community center senior lunch 8 to 1 and then dropped food drive groceries at my mother in law Loretta's fourplex so im wiped but looking this up tonight lol\n\nhow do u ask a professor to recheck a lab quiz score. i already emailed her about two points and she said she'd recheck it. what's the usual process"
+    },
+    {
+      "role": "assistant",
+      "text": "Good news: she's already agreed to recheck, so you're in the normal process. Typically:\n\n1. The professor re-reads the quiz against the answer key and rubric.\n2. She emails you the result, usually within a week or so (it can be slower around finals).\n3. If the score changes, she updates the gradebook. If not, she should explain which answers didn't earn credit.\n\nUntil you hear back, you don't need to send anything else. If a week passes with no reply, send a short follow-up. Want me to draft one?"
+    },
+    {
+      "role": "user",
+      "text": "yeah but what if she rechecks and doesnt give the two points back. i have a B overall after the practical and i wanna keep it. how much does 2 points even matter"
+    },
+    {
+      "role": "assistant",
+      "text": "Short answer: probably not much by itself. On a single quiz, two points is usually a small slice of your total grade. It only matters if you're sitting close to a B/C cutoff.\n\nTo check, take your total points earned and divide by total points possible, then compare that to the B cutoff on the syllabus. Add the two points to see the difference.\n\nIf she doesn't restore them:\n- Ask which answers lost credit and why, so you can fix that on the final.\n- Ask whether any extra credit or a drop-lowest-quiz policy applies.\n- Then put the energy into the remaining assignments and the final.\n\nIf you tell me your points so far and the cutoff, I can run the numbers."
+    },
+    {
+      "role": "user",
+      "text": "ok that helps. can u write a follow up email thats firm but polite in case she doesnt reply by next week. short"
+    },
+    {
+      "role": "assistant",
+      "text": "Subject: Follow-up on lab quiz recheck\n\nDear Dr. [Professor's last name],\n\nI wanted to follow up on the lab quiz recheck we discussed. I'd appreciate an update when you have a chance, and if any points aren't restored, could you let me know which answers didn't earn credit? I'd like to understand it before the final.\n\nThank you for your time.\n\nSincerely,\n[Your name]\n[Course and section]"
+    },
+    {
+      "role": "user",
+      "text": "perfect thank u. ok bet"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome! Good luck with the recheck and the rest of the semester."
+    }
+  ]
+}

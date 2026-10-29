@@ -1,0 +1,31 @@
+{
+  "id": "noemi.s68",
+  "principal": "noemi",
+  "start": "2025-11-05T13:56:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "quick q how do i find the subnet of a /26 network. i keep fumbling this and the boss fight is getting closer. also i'm applying outside ridgeline now for network tech roles, st anselm IT included, so i actually need this cert to land"
+    },
+    {
+      "role": "assistant",
+      "text": "Good reason to lock this in. Here's the /26 method:\n\n1. A /26 means 26 network bits, so 6 host bits are left. 2^6 = 64 addresses per subnet.\n2. The subnet mask is 255.255.255.192 (the last octet is 11000000 = 192).\n3. The block size is 256 - 192 = 64. So subnets start at .0, .64, .128, .192 in the last octet.\n4. To find which subnet an IP is in, take the last octet and round down to the nearest multiple of 64.\n\nExample: 192.168.10.137/26. Multiples of 64: 0, 64, 128, 192. 137 falls between 128 and 191, so:\n- Network address: 192.168.10.128\n- First usable: .129\n- Last usable: .190\n- Broadcast: .191\n\nUsable hosts = 64 - 2 = 62.\n\nWant drills? And what are you using to study right now so I can match the style?"
+    },
+    {
+      "role": "user",
+      "text": "ok that clicks. i use a practice test app plus a secondhand study guide with tabbed chapters so make the questions like that, multiple choice. subnetting and port numbers are the two things i keep missing. give me hard ones, no answers till i ask"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a set in multiple-choice style. No answers until you ask.\n\n**Subnetting**\n1. Which network address does host 10.4.77.200/26 belong to?\nA) 10.4.77.128 B) 10.4.77.192 C) 10.4.77.196 D) 10.4.77.64\n\n2. What is the broadcast address for 172.16.5.70/26?\nA) 172.16.5.64 B) 172.16.5.95 C) 172.16.5.127 D) 172.16.5.71\n\n3. How many usable hosts are in a /26?\nA) 64 B) 62 C) 30 D) 126\n\n4. Which pair of hosts is on the SAME /26 subnet?\nA) 192.168.1.60 and 192.168.1.65 B) 192.168.1.130 and 192.168.1.190 C) 192.168.1.127 and 192.168.1.128 D) 192.168.1.63 and 192.168.1.64\n\n5. A /26 mask in dotted decimal is:\nA) 255.255.255.128 B) 255.255.255.192 C) 255.255.255.224 D) 255.255.192.0\n\n**Port numbers**\n6. Which port does SSH use by default?\nA) 22 B) 23 C) 25 D) 53\n\n7. Which protocol uses TCP 443?\nA) HTTP B) FTP C) HTTPS D) SMTP\n\n8. Which port is used by RDP?\nA) 3306 B) 3389 C) 8080 D) 5900\n\n9. DNS queries typically use which port?\nA) 53 B) 67 C) 110 D) 161\n\n10. Which service uses UDP 67/68?\nA) NTP B) DHCP C) SNMP D) TFTP\n\nSay the word when you want answers."
+    },
+    {
+      "role": "user",
+      "text": "ty. i'm averaging like 71% on practice exams and pass line is around 75 so i need to find the gaps fast. what do i prioritize. tldr pls"
+    },
+    {
+      "role": "assistant",
+      "text": "TL;DR priorities, since you're ~4 points under the pass line:\n\n1. **Subnetting first.** It's your biggest miss and gives the most points back. Drill block-size method daily: 10 problems, timed.\n2. **Port numbers second.** Make a flashcard set of about 20 common ports (22, 23, 25, 53, 67/68, 80, 110, 143, 443, 3389) and review in short bursts.\n3. **Review misses, not everything.** Tab each question you get wrong in your study guide and redo only those.\n4. **Take full practice exams weekly** to track your average against the 75% line.\n\nSmall gains in two topics could close that gap. Want answers to the set, or a port flashcard list?"
+    }
+  ]
+}

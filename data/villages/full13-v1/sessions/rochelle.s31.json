@@ -1,0 +1,31 @@
+{
+  "id": "rochelle.s31",
+  "principal": "rochelle",
+  "start": "2025-10-27T15:46:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "be honest does this sound ok. need it friendly but firm. just give me the fixed version, skip the explaining\n\n\"hey keisha thanksgiving is the 27th at my house on Alder Court, plenty of parking out front. u can spare a minute from ur daily 10am break calls to tell me what ur bringing lol. dont just show up empty handed. im not paying for 14 people by myself\""
+    },
+    {
+      "role": "assistant",
+      "text": "Hey Keisha! Thanksgiving is on the 27th at my house on Alder Court, with plenty of parking out front. You can spare a minute from our daily 10 a.m. break calls to tell me what you're bringing 😄 Everybody's pitching in this year, so please don't show up empty-handed. I can't cover all 14 people on my own. Text me what you're making!"
+    },
+    {
+      "role": "user",
+      "text": "good. menu has to stay cheap tho. can u make it so she gets a specific dish, like assign her sides. i want every person on a dish"
+    },
+    {
+      "role": "assistant",
+      "text": "Hey Keisha! Thanksgiving is on the 27th at my house on Alder Court, with plenty of parking out front. You can spare a minute from our daily 10 a.m. break calls to answer this 😄 I'm assigning dishes so nobody's stuck footing the bill for 14 people alone, and you've got [dish, e.g. mac and cheese + a pan of greens]. Please don't show up empty-handed. Text me back to confirm!"
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome! Swap in whatever dish you want to assign her, then send it."
+    }
+  ]
+}

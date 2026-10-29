@@ -1,0 +1,279 @@
+{
+  "principal": "grace",
+  "week": 10,
+  "entries": [
+    {
+      "id": "grace.w10.l01",
+      "date": "2025-10-27",
+      "what": "Grace drives four minutes to Flats High, arriving at 7:20 to beat the Vinca drop-off line, and teaches periods 1, 2 and 3 in B12.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Ordinary Monday; lunch in B12 with Dana during prep.",
+      "feeling": "steady, busy",
+      "facts": [
+        "grace.f01",
+        "grace.f11",
+        "grace.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l02",
+      "date": "2025-10-27",
+      "what": "After school she checks the fridge calendar for Ramón's next dispatch shift and cooks dinner with Lola Cora's meals in mind.",
+      "with": [
+        "corazon",
+        "ramon"
+      ],
+      "outcome": "Dinner done; watched the 9 p.m. teleserye with her mother.",
+      "feeling": "tired but settled",
+      "facts": [
+        "grace.f35",
+        "grace.f44"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l03",
+      "date": "2025-10-28",
+      "what": "Tuesday: Grace covers the lunch lab-makeup session in B12 after morning classes.",
+      "with": [],
+      "outcome": "Three students finished makeups.",
+      "feeling": "efficient",
+      "facts": [
+        "grace.f21"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l04",
+      "date": "2025-10-28",
+      "what": "Teaches periods 5 and 6, then grades a stack of lab reports at home.",
+      "with": [
+        "isabel"
+      ],
+      "outcome": "Short, clipped exchange with Isabel about dishes.",
+      "feeling": "worn down",
+      "facts": [
+        "grace.f01"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l05",
+      "date": "2025-10-29",
+      "what": "Teaches her five sections and picks up Lola Cora's prescriptions at the Vinca Avenue drugstore after school.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Prescriptions collected, pill organizer refilled that night.",
+      "feeling": "dutiful",
+      "facts": [
+        "grace.f38"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l06",
+      "date": "2025-10-29",
+      "what": "Starts printing inventory sheets in B12 for tomorrow's audit and checks every bottle label.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Two bottles needed new labels.",
+      "feeling": "anxious",
+      "facts": [
+        "grace.f22"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l07",
+      "date": "2025-10-30",
+      "what": "Before the district audit she prepares a color-coded chemical inventory of B12, then grumbles to Dana that nobody will read it.",
+      "with": [
+        "dana"
+      ],
+      "outcome": "Inventory binder ready on the counter.",
+      "feeling": "irritated but prepared",
+      "facts": [
+        "grace.f22",
+        "grace.f03"
+      ],
+      "impressions": [
+        "grace.i07"
+      ]
+    },
+    {
+      "id": "grace.w10.l08",
+      "date": "2025-10-30",
+      "what": "The district chemical-storage audit of B12 takes place; Grace passes with one note to relabel the acids cabinet by Dec 1.",
+      "with": [],
+      "outcome": "Passed the audit; relabeling task added to her list.",
+      "feeling": "relieved",
+      "facts": [
+        "grace.f22",
+        "grace.f23"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l09",
+      "date": "2025-10-30",
+      "what": "Eats lunch with Dana, who is relieved for her, then walks the boardwalk at dawn was already done; evening spent at home with Corazón.",
+      "with": [
+        "dana",
+        "corazon"
+      ],
+      "outcome": "Quiet evening.",
+      "feeling": "lighter",
+      "facts": [
+        "grace.f50",
+        "grace.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l10",
+      "date": "2025-10-31",
+      "what": "Halloween: Grace teaches in B12, and students come in costume; she files the Friday form at 3:30.",
+      "with": [],
+      "outcome": "Form submitted on time.",
+      "feeling": "amused, efficient",
+      "facts": [
+        "grace.f19"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l11",
+      "date": "2025-10-31",
+      "what": "Hands out candy at the house on Tamarisol Court to a few neighborhood kids while Isabel goes out with Nadia.",
+      "with": [
+        "isabel",
+        "nadia"
+      ],
+      "outcome": "Isabel checked in by text at 9.",
+      "feeling": "relaxed",
+      "facts": [
+        "grace.f48"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l12",
+      "date": "2025-11-01",
+      "what": "Saturday groceries at Ruiz Family Market and rolls and conchas at Panadería Las Hermanas.",
+      "with": [
+        "corazon"
+      ],
+      "outcome": "Stocked up with diabetic-friendly options for Lola Cora.",
+      "feeling": "content",
+      "facts": [
+        "grace.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l13",
+      "date": "2025-11-01",
+      "what": "Waters calamansi and tomato pots in the backyard and sorts seeds from the library seed library.",
+      "with": [],
+      "outcome": "Pots moved under cover before the cold nights.",
+      "feeling": "peaceful",
+      "facts": [
+        "grace.f34"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l14",
+      "date": "2025-11-02",
+      "what": "Grace takes Corazón to Tagalog Mass at 9 at Our Lady of the Marsh, then makes lunch and sinigang with her mother.",
+      "with": [
+        "corazon",
+        "ben"
+      ],
+      "outcome": "Family Sunday lunch.",
+      "feeling": "warm",
+      "facts": [
+        "grace.f59",
+        "cast.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l15",
+      "date": "2025-11-02",
+      "what": "At the kitchen table she plans Thanksgiving for 11, including Ramón's brother's family, with turkey and pancit, and arranges the layout around her mother's needs.",
+      "with": [
+        "ramon",
+        "corazon"
+      ],
+      "outcome": "Menu and seating draft done.",
+      "feeling": "determined",
+      "facts": [
+        "grace.f61",
+        "grace.f12"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "grace.w10.l16",
+      "date": "2025-11-02",
+      "what": "Because third-period quiz scores on moles dipped, she builds a mole-concept review game and stays up past 11 finishing it.",
+      "with": [],
+      "outcome": "Game ready for Monday.",
+      "feeling": "tired but invested",
+      "facts": [
+        "grace.f24"
+      ],
+      "impressions": [
+        "grace.i06"
+      ]
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "grace.w10.n01",
+      "subject": "grace",
+      "attribute": "halloween_candy",
+      "value": "bought fun-size candy for trick-or-treaters at Ruiz Family Market",
+      "valid_from": "2025-10-31",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w10.n02",
+      "subject": "grace",
+      "attribute": "thanksgiving_menu",
+      "value": "plans to add lumpia to the pancit and turkey spread",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "grace.w10.n03",
+      "subject": "grace",
+      "attribute": "audit_task",
+      "value": "acids cabinet needs new labels by Dec 1",
+      "valid_from": "2025-10-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    },
+    {
+      "id": "grace.w10.n04",
+      "subject": "grace",
+      "attribute": "review_game",
+      "value": "mole-concept review game for third period on Monday",
+      "valid_from": "2025-11-02",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "useful"
+    }
+  ]
+}

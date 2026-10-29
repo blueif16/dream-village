@@ -1,0 +1,329 @@
+{
+  "principal": "thao",
+  "week": 1,
+  "entries": [
+    {
+      "id": "thao.w1.l01",
+      "date": "2025-08-25",
+      "what": "Thao gets home from her night shift on 4 West, rides the nurse shuttle down Ortega Hill, and finds an email confirming the paid 8-hour charting class for Sept 9.",
+      "with": [],
+      "outcome": "Class date saved to her calendar.",
+      "feeling": "tired but relieved",
+      "facts": [
+        "thao.f14"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l02",
+      "date": "2025-08-25",
+      "what": "Sleeps 8:30 to 3 with the blackout curtains and box fan, while Vinca traffic backs up outside for the first day of school.",
+      "with": [],
+      "outcome": "Got about six and a half hours.",
+      "feeling": "groggy",
+      "facts": [
+        "thao.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l03",
+      "date": "2025-08-25",
+      "what": "Makes cà phê sữa đá in the thermos and walks the Ulloa marsh boardwalk loop before heading to her night shift.",
+      "with": [],
+      "outcome": "Arrives at the gravel lot early and takes the shuttle up the hill.",
+      "feeling": "calm",
+      "facts": [
+        "thao.f11",
+        "thao.f30",
+        "thao.f09"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l04",
+      "date": "2025-08-26",
+      "what": "Works the night shift on 4 West with Jasmine and Rubén, with a quiet census, and eats leftover rice at 2 a.m.",
+      "with": [
+        "jasmine",
+        "ruben"
+      ],
+      "outcome": "No incidents.",
+      "feeling": "steady",
+      "facts": [
+        "thao.f43"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l05",
+      "date": "2025-08-26",
+      "what": "After sleeping, Thao goes to Ruiz Family Market on Tuesday afternoon for fish sauce and produce.",
+      "with": [],
+      "outcome": "Stocks up before the heat wave.",
+      "feeling": "practical",
+      "facts": [
+        "thao.f33"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l06",
+      "date": "2025-08-26",
+      "what": "Skips Hạnh's 1 p.m. call mid-sleep and finds another Vietnamese voicemail later.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Voicemail left unheard until evening.",
+      "feeling": "guilty but too tired",
+      "facts": [
+        "thao.f51"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l07",
+      "date": "2025-08-27",
+      "what": "The heat wave starts. Thao comes home from nights to a hot unit 207 with no AC and picks up a portable unit from Hạnh's house on Pell Road.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Portable unit set up in the bedroom for Aug 27-30.",
+      "feeling": "sweaty, grateful",
+      "facts": [
+        "thao.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l08",
+      "date": "2025-08-27",
+      "what": "Works another night with heat cases coming through the ER and sends a couple of patients up to 4 West.",
+      "with": [
+        "jasmine"
+      ],
+      "outcome": "Busy but handled.",
+      "feeling": "focused",
+      "facts": [],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l09",
+      "date": "2025-08-28",
+      "what": "Sleeps badly through the heat despite the portable unit and the box fan.",
+      "with": [],
+      "outcome": "Only about five hours.",
+      "feeling": "wrecked",
+      "facts": [
+        "thao.f57",
+        "thao.f06"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l10",
+      "date": "2025-08-28",
+      "what": "Thao submits a maintenance request to Gloria Ibarra at Marisol Gardens about the leaking bathroom faucet in 207.",
+      "with": [
+        "gloria"
+      ],
+      "outcome": "Request logged as open; Gloria is slow to repair.",
+      "feeling": "resigned",
+      "facts": [
+        "thao.f53"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l11",
+      "date": "2025-08-28",
+      "what": "Hears Theo crying through the 207/209 wall in the evening and puts in earplugs and white noise before her shift.",
+      "with": [],
+      "outcome": "Gets a short rest.",
+      "feeling": "patient",
+      "facts": [
+        "thao.f40"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l12",
+      "date": "2025-08-29",
+      "what": "Post-shift in the heat, Thao asks the assistant for a list of heat-safe cold meals to drop off at Hạnh's nail salon in Plaza Marisol.",
+      "with": [],
+      "outcome": "Picks cold rice-paper rolls and noodle salads from the list.",
+      "feeling": "determined",
+      "facts": [
+        "thao.f57"
+      ],
+      "impressions": [
+        "thao.i04"
+      ]
+    },
+    {
+      "id": "thao.w1.l13",
+      "date": "2025-08-29",
+      "what": "Drops the cold meals at Lotus Nails and hears Hạnh complain about the heat and Linh's café job.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Hạnh accepts the food, grumbling.",
+      "feeling": "caring, a bit drained",
+      "facts": [
+        "cast.f29",
+        "thao.f31"
+      ],
+      "impressions": [
+        "thao.i04"
+      ]
+    },
+    {
+      "id": "thao.w1.l14",
+      "date": "2025-08-29",
+      "what": "Naps in the afternoon and waters the pothos and struggling basil on the balcony.",
+      "with": [],
+      "outcome": "Basil looks worse in the heat.",
+      "feeling": "low-key",
+      "facts": [
+        "thao.f31"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l15",
+      "date": "2025-08-30",
+      "what": "Works Saturday night on 4 West in the last day of the heat wave, and the unit is full of heat cases.",
+      "with": [
+        "jasmine",
+        "maribel"
+      ],
+      "outcome": "Maribel manages a tight ratio and Thao helps cover it.",
+      "feeling": "stretched",
+      "facts": [
+        "thao.f50"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l16",
+      "date": "2025-08-30",
+      "what": "Goes to Phở Bến Thành with Jasmine after shift for phở tái.",
+      "with": [
+        "jasmine"
+      ],
+      "outcome": "Relaxed over breakfast and talked about the upcoming go-live.",
+      "feeling": "comforted",
+      "facts": [
+        "thao.f10"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l17",
+      "date": "2025-08-30",
+      "what": "Sleeps with the portable unit running on its last day.",
+      "with": [],
+      "outcome": "Sleeps better as it cools.",
+      "feeling": "relieved",
+      "facts": [
+        "thao.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l18",
+      "date": "2025-08-31",
+      "what": "Returns the portable unit to Hạnh's Pell Road house as the heat wave breaks and fog rolls back in.",
+      "with": [
+        "hanh"
+      ],
+      "outcome": "Heat plan ends.",
+      "feeling": "cooler, relieved",
+      "facts": [
+        "thao.f57"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l19",
+      "date": "2025-08-31",
+      "what": "Does laundry using the card-only machines at Marisol Gardens and reloads the card $20.",
+      "with": [],
+      "outcome": "Clothes washed and scrubs ready.",
+      "feeling": "productive",
+      "facts": [
+        "thao.f34",
+        "thao.f42"
+      ],
+      "impressions": []
+    },
+    {
+      "id": "thao.w1.l20",
+      "date": "2025-08-31",
+      "what": "Sunday dinner at Hạnh's house with Linh, who talks about starting classes.",
+      "with": [
+        "hanh",
+        "linh"
+      ],
+      "outcome": "Hạnh nudges Linh about pharmacy again, and Thao steers away from it.",
+      "feeling": "protective",
+      "facts": [
+        "thao.f35",
+        "cast.f31"
+      ],
+      "impressions": []
+    }
+  ],
+  "new_facts": [
+    {
+      "id": "thao.w1.n01",
+      "subject": "thao",
+      "attribute": "balcony_plant_status",
+      "value": "basil plant wilting after the heat wave",
+      "valid_from": "2025-08-30",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w1.n02",
+      "subject": "thao",
+      "attribute": "cold_meal_menu",
+      "value": "dropped rice-paper rolls and noodle salads at Lotus Nails",
+      "valid_from": "2025-08-29",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w1.n03",
+      "subject": "hanh",
+      "attribute": "portable_ac",
+      "value": "lent Thao a portable AC, returned Aug 31",
+      "valid_from": "2025-08-27",
+      "valid_to": "2025-08-31",
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w1.n04",
+      "subject": "thao",
+      "attribute": "sleep_during_heat",
+      "value": "got only about five hours on Aug 28 despite the portable AC",
+      "valid_from": "2025-08-28",
+      "valid_to": null,
+      "superseded_by": null,
+      "class": "trivia"
+    },
+    {
+      "id": "thao.w1.n05",
+      "subject": "thao",
+      "attribute": "next_family_dinner",
+      "value": "Sunday dinner at Hạnh's on Aug 31 with Linh",
+      "valid_from": "2025-08-31",
+      "valid_to": "2025-10-05",
+      "superseded_by": "thao.w6.n04",
+      "class": "useful"
+    }
+  ]
+}

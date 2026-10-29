@@ -1,0 +1,39 @@
+{
+  "id": "grace.s10",
+  "principal": "grace",
+  "start": "2025-10-27T06:35:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "Please help with my phone. Isabel's curfew is now 11 p.m. on weekends, and she must text me at 9 with her location. Her location has been showing wrong or not at all on my phone. Which settings do I check? Steps, numbered. Salamat."
+    },
+    {
+      "role": "assistant",
+      "text": "Sure. Tell me whether your phone is an iPhone or Android, and whether Isabel uses the same type. Meanwhile, these steps apply to both:\n\n1) On both phones, turn Location Services (Location) ON.\n2) Open the sharing app you use (Find My, Google Maps, or Family Link) and confirm Isabel's sharing is set to \"Share indefinitely\" or \"Until turned off.\"\n3) On her phone, set the app's location access to \"Always.\"\n4) Turn off Low Power or Battery Saver, or exempt the app from battery limits.\n5) Turn on Precise Location.\n6) Make sure both phones have mobile data or Wi-Fi.\n\nWhich phones are they?"
+    },
+    {
+      "role": "user",
+      "text": "Mine is an older Android with a cracked corner. Isabel has an iPhone. We use a family app and it keeps asking me to verify my account before it will show her. 1) Also, she wrote a one-page weekend plan with check-in times. I only loosened the curfew because she showed me that plan in writing, so I want the phone set up to match the paper exactly. Can you set reminders for the check-in times? Friday and Saturday, 9 p.m. text. 2) I'll need your help with the verify form."
+    },
+    {
+      "role": "assistant",
+      "text": "Understood. Since you agreed based on her written plan, we'll mirror it.\n\nReminders on your Android (Google Clock or Calendar):\n1) Open Calendar > + > Reminder.\n2) Title: \"Isabel 9 p.m. location text.\"\n3) Set it for Friday 8:55 p.m., repeating weekly. Duplicate it for Saturday.\n4) Add a second reminder for the home-by time, 10:45 p.m., so you're not caught off guard at 11.\n5) Set notifications to High priority and turn on Do Not Disturb override for Calendar.\n\nIf her plan has other check-in times, such as arriving somewhere, send them and I'll add them to the list. Which app is the verify prompt coming from? Send the fields it wants."
+    },
+    {
+      "role": "user",
+      "text": "It's the car-registration transfer account the app needs me to verify. Fields: full name, date of birth, driver's license number. Here is my new license number: D4827163. Form won't submit without it. Also Isabel wants location sharing as an add-on to our phone plan. Cheapest option please. I'm also wondering whether to skip Thanksgiving extras in case the furnace goes."
+    },
+    {
+      "role": "assistant",
+      "text": "Thanks. Enter your license number exactly as it appears on the card in that field. I won't repeat it here. For the form, here is what to put in each field:\n\n1) Full name: as printed on your license.\n2) Date of birth: in the format the form shows (check MM/DD/YYYY).\n3) License number: the one you just gave, copied from the card, no spaces.\n4) Check each field, then submit. If it rejects the number, make sure the letter is capitalized.\n\nPlan add-on: first check whether your family app already does location sharing free. If it does, you don't need a paid add-on at all. Carrier location add-ons typically cost a few dollars per line each month, so compare that against the free option and pick the cheapest tier with no contract.\n\nFor Thanksgiving, set a small fixed amount for extras now and hold the rest in a buffer. Then you can decide closer to the date, with real numbers for the furnace, rather than guessing.\n\nWant me to put the reminder times and settings into one short checklist?"
+    },
+    {
+      "role": "user",
+      "text": "Yes. Short. Salamat."
+    },
+    {
+      "role": "assistant",
+      "text": "Checklist:\n\n1) Both phones: Location ON, Precise ON, battery saver OFF.\n2) Isabel's phone: app set to \"Always,\" sharing until turned off.\n3) Your phone: verify the account, then confirm Isabel appears on the map.\n4) Reminders: Fri and Sat 8:55 p.m. (location text), 10:45 p.m. (home soon).\n5) Do a test this week: have her text at 9 and check the map.\n6) Add-on: only if the free app option fails.\n\nSalamat po."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "session_id": "noemi.s44",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Has an every-other-Saturday overtime shift",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my every other saturday ot shift starts",
+      "support_quote": ""
+    },
+    {
+      "text": "Walked the marsh boardwalk Saturday morning",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f26",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i walked the marsh boardwalk this morning before shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Bao does Tue/Thu repair training with Noemi",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f35",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the techs and bao can follow it during their tue/thu repair training",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses the term 'the cage'",
+      "about": "noemi",
+      "kind": "reference_use",
+      "item_id": "noemi.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "one page printable checklist poster for the cage",
+      "support_quote": ""
+    },
+    {
+      "text": "Has a shift ahead, wishes good luck",
+      "about": "noemi",
+      "kind": "fact",
+      "item_id": "noemi.f03",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Good luck with the shift!",
+      "support_quote": "i have like 10 min before my every other saturday ot shift starts"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "noemi.f26",
+      "present": true,
+      "quote": "i walked the marsh boardwalk this morning before shift"
+    },
+    {
+      "item_id": "noemi.f03",
+      "present": true,
+      "quote": "i have like 10 min before my every other saturday ot shift starts"
+    },
+    {
+      "item_id": "noemi.r01",
+      "present": true,
+      "quote": "goes up at the cage so the techs and bao can follow it"
+    },
+    {
+      "item_id": "noemi.f35",
+      "present": true,
+      "quote": "during their tue/thu repair training"
+    }
+  ],
+  "sensitive": []
+}

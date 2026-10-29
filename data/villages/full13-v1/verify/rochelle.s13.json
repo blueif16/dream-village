@@ -1,0 +1,148 @@
+{
+  "session_id": "rochelle.s13",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Aaliyah works four evening Ridgeline shifts 6pm to 2:30am",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "aaliyah's 4 evening shifts at ridgeline 6pm to 2:30am",
+      "support_quote": ""
+    },
+    {
+      "text": "Did Sunday batch cooking with baked chicken",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f36",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "already did sunday batch cooking, baked chicken, so dinners are covered",
+      "support_quote": ""
+    },
+    {
+      "text": "Uses a paper calendar on the fridge with color pens per person",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f33",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i need to copy this onto the paper calendar on the fridge with everybodys color pens",
+      "support_quote": ""
+    },
+    {
+      "text": "Studies with color-banded index cards by body system",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f20",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "my color banded index cards by body system",
+      "support_quote": ""
+    },
+    {
+      "text": "Checking account number ending 4417",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f46",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "its 0048213 4417",
+      "support_quote": ""
+    },
+    {
+      "text": "Refers to her minivan as the van",
+      "about": "rochelle",
+      "kind": "reference_use",
+      "item_id": "rochelle.r03",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the van needs gas money budgeted for the week",
+      "support_quote": ""
+    },
+    {
+      "text": "Aaliyah leaves around 6 pm and returns after 2:30 am",
+      "about": "aaliyah",
+      "kind": "fact",
+      "item_id": "rochelle.f50",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "she's gone by about 6 pm and back after 2:30 am",
+      "support_quote": "aaliyah's 4 evening shifts at ridgeline 6pm to 2:30am"
+    },
+    {
+      "text": "Chicken is already cooked for dinners",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f36",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "chicken is done, so just reheat and add a side",
+      "support_quote": "already did sunday batch cooking, baked chicken, so dinners are covered"
+    },
+    {
+      "text": "Has pharmacy run Tuesday 3:30",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": "rochelle.f41",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Tuesday: 3:30 pharmacy run",
+      "support_quote": "loretta tuesday at 3:30"
+    },
+    {
+      "text": "Rochelle's classes: anatomy MWF 9, chem Tue/Thu 11",
+      "about": "rochelle",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "**Mon:** class 9.",
+      "support_quote": "classes anatomy MWF 9 and chem tue/thu 11"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "rochelle.f50",
+      "present": true,
+      "quote": "aaliyah's 4 evening shifts at ridgeline 6pm to 2:30am"
+    },
+    {
+      "item_id": "rochelle.f36",
+      "present": true,
+      "quote": "already did sunday batch cooking, baked chicken, so dinners are covered"
+    },
+    {
+      "item_id": "rochelle.f33",
+      "present": true,
+      "quote": "i need to copy this onto the paper calendar on the fridge with everybodys color pens"
+    },
+    {
+      "item_id": "rochelle.f20",
+      "present": true,
+      "quote": "card review (my color banded index cards by body system)"
+    },
+    {
+      "item_id": "rochelle.f46",
+      "present": true,
+      "quote": "the form wants my account number its 0048213 4417"
+    },
+    {
+      "item_id": "rochelle.r03",
+      "present": true,
+      "quote": "the van needs gas money budgeted for the week"
+    }
+  ],
+  "sensitive": [
+    {
+      "item_id": "rochelle.f46",
+      "user_quote": "the form wants my account number its 0048213 4417",
+      "assistant_quote": ""
+    }
+  ]
+}

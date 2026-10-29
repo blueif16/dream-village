@@ -1,0 +1,118 @@
+{
+  "session_id": "linh.s82",
+  "model": "claude-sonnet-5-5",
+  "attempt": 2,
+  "claims": [
+    {
+      "text": "Linh signed up to sort at the food drive at Our Lady of the Marsh",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f45",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "the food drive at our lady of the marsh in the afternoon (i signed up to sort)",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh works the cafe shift 6:30-1 on Saturday",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "cafe shift 6:30-1",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh wants phở with Thao after Thao's night shift",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f31",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "phở w my sister after her night shift",
+      "support_quote": ""
+    },
+    {
+      "text": "Sam owes Linh two Saturday shifts",
+      "about": "sam",
+      "kind": "fact",
+      "item_id": "linh.f55",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "sam owes me two saturday shifts",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh likes answers structured with times",
+      "about": "linh",
+      "kind": "trait_shown",
+      "item_id": "linh.i06",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "can u turn tomorrow into a schedule w times pls",
+      "support_quote": ""
+    },
+    {
+      "text": "Linh is cafe shift-working and will sort at food drive 2-5",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f45",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "2:00–5:00 – Food drive sorting",
+      "support_quote": "food drive is 2-5 i think"
+    },
+    {
+      "text": "Linh's sister's shift ends at 7:30",
+      "about": "thao",
+      "kind": "fact",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "Her shift ends at 7:30",
+      "support_quote": "thao gets off at 7:30"
+    },
+    {
+      "text": "Linh has a cafe shift 6:30-1",
+      "about": "linh",
+      "kind": "fact",
+      "item_id": "linh.f04",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "6:30–1:00 – Cafe shift",
+      "support_quote": "cafe shift 6:30-1"
+    }
+  ],
+  "flags": [
+    {
+      "kind": "ungrounded",
+      "item_id": null,
+      "detail": "assistant turn 4 uses the name 'Phở Bến Thành' before the user said it"
+    }
+  ],
+  "passed": false,
+  "checks": [
+    {
+      "item_id": "linh.f45",
+      "present": true,
+      "quote": "the food drive at our lady of the marsh in the afternoon (i signed up to sort)"
+    },
+    {
+      "item_id": "linh.f04",
+      "present": true,
+      "quote": "cafe shift 6:30-1"
+    },
+    {
+      "item_id": "linh.f31",
+      "present": true,
+      "quote": "phở w my sister after her night shift"
+    },
+    {
+      "item_id": "linh.f55",
+      "present": true,
+      "quote": "also sam owes me two saturday shifts and might try to swap out on me again lol"
+    }
+  ],
+  "sensitive": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "isabel.s36",
+  "principal": "isabel",
+  "start": "2025-11-04T21:26:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "need a plan for tonight. i have ap chem review, apush chapters and the mom sheet numbers to get through and i do NOT want another midnight. robotics isnt today so i had the library all afternoon but thursday is c7 and that eats everything. alarm is 6:50 and im usually up till 1 so dont build it around 8 hrs of sleep lol. just the schedule, no sleep lecture"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a plan for tonight, starting at about 9:30 and ending by 12:15, with the heavier work first.\n\n9:30-10:30: AP Chem review\n- Do 45 min of active practice: problem sets, past quiz questions, anything you can check against an answer key.\n- Spend the last 15 min writing down the 3-5 things you missed.\n\n10:30-10:40: Break. Get up, drink some water, don't touch your phone.\n\n10:40-11:30: APUSH chapters\n- Skim headings and summaries first, then read for the main causes and effects.\n- Write a 3-line summary per chapter. That's your review sheet.\n\n11:30-11:40: Break.\n\n11:40-12:15: Mom sheet numbers\n- This is the lowest-brainpower task, so it goes last. Fill in the figures you already have and leave a clear placeholder for anything missing.\n- Stop at 12:15 even if it isn't perfect. A finished 90% version beats a midnight rabbit hole.\n\nLights out by 12:30.\n\nFor Thursday, since robotics at C7 takes the afternoon, do the Chem missed-items list and the APUSH summaries in a 30-min pass in the morning or at lunch, so nothing piles up. Want me to tighten this into a Thursday-only version too?"
+    },
+    {
+      "role": "user",
+      "text": "ok thats actually doable. can u swap so the mom sheet goes in the middle, apush is the one i fall asleep on"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure, here's the revised order:\n\n9:30-10:30: AP Chem review (same as before)\n\n10:30-10:40: Break\n\n10:40-11:20: Mom sheet numbers\n- Aim for finished figures, not polished formatting. Mark anything you still need to look up with a placeholder.\n\n11:20-11:30: Break. Stand up and move around so you're not winding down before APUSH.\n\n11:30-12:15: APUSH chapters\n- Keep it active: write the 3-line summaries as you go instead of reading straight through. Writing keeps you awake better than rereading.\n- If you're fading, switch to answering the end-of-chapter questions out loud or on paper.\n\n12:15-12:30: Pack your bag, lights out.\n\nThe Mom sheet only has 40 minutes, so if you run over, cut it off and finish it on Thursday morning rather than eating into APUSH."
+    },
+    {
+      "role": "user",
+      "text": "ok bye"
+    },
+    {
+      "role": "assistant",
+      "text": "Good luck tonight!"
+    }
+  ]
+}

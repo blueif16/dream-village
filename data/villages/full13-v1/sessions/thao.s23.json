@@ -1,0 +1,23 @@
+{
+  "id": "thao.s23",
+  "principal": "thao",
+  "start": "2025-10-10T15:17:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "edit my text to my sister, she has her anatomy lab practical next friday. warm but short. here's the draft:\n\n\"hey em bé, you've got this. you've been studying for weeks. also the $50 on the 1st is for actual groceries, not just textbooks, so please eat real food that week. try saying each structure out loud while pointing to it on yourself, and quiz with index cards in the shower lol. dont mention any of this to mom ok. proud of you\"\n\nkeep the em bé as is"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a tighter version, with em bé kept exactly as you wrote it:\n\n\"hey em bé, you've got this. you've been studying for weeks 💛 Say each structure out loud while pointing to it on yourself, and quiz with index cards in the shower. Also, the $50 on the 1st is for real groceries, not just textbooks, so please eat a proper meal that week. Keep this between us, okay? Proud of you.\"\n\nI trimmed a few phrases and put the study tips before the groceries note so it ends on warmth. Want it even shorter?"
+    },
+    {
+      "role": "user",
+      "text": "ok but realistically can you cut it to like 3 lines"
+    },
+    {
+      "role": "assistant",
+      "text": "Sure:\n\n\"hey em bé, you've got this, you've studied for weeks 💛\nSay each structure out loud while pointing to it on yourself. And the $50 is for real groceries too, so eat a proper meal before the practical.\nKeep this between us. Proud of you.\"\n\nEm bé is untouched."
+    }
+  ]
+}

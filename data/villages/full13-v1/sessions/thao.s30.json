@@ -1,0 +1,31 @@
+{
+  "id": "thao.s30",
+  "principal": "thao",
+  "start": "2025-10-26T15:27:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok something fun. i turned my voicemail off and want a lock screen graphic that says text me, i work nights. playful. small pothos and basil plant in the corner, like the ones on my balcony"
+    },
+    {
+      "role": "assistant",
+      "text": "Fun one. Here's the design:\n\n[Image: a soft sage-green lock-screen graphic, phone-sized. Big rounded lettering in the center: \"text me, i work nights.\" Underneath in smaller type: \"i'll answer faster than a voicemail ever could.\" In the bottom corner, a little hand-drawn clay pot with trailing pothos vines, next to a slightly droopy basil plant with a tiny bandage on one leaf. A small speech-bubble icon sits top right. Clock-free, so it stays readable under your widgets.]\n\nWant it more minimal, or a different color palette?"
+    },
+    {
+      "role": "user",
+      "text": "love the droopy basil lol. also need a short version i can text my mom. i just texted her to confirm sunday dinner instead of calling and want to send her the graphic with it. message should say i sleep 8:30am to 3pm after shifts"
+    },
+    {
+      "role": "assistant",
+      "text": "Here's a short one:\n\n\"Hi Mẹ, see you at Sunday dinner! Quick note: after my night shifts I sleep from 8:30 a.m. to 3 p.m., so please text me instead of calling. I'll reply right away when I'm up. Love you 🌿\"\n\nI can also write a Vietnamese version if your mom would prefer that. Just say the word."
+    },
+    {
+      "role": "user",
+      "text": "vietnamese pls but keep it short"
+    },
+    {
+      "role": "assistant",
+      "text": "Here you go:\n\n\"Mẹ ơi, hẹn mẹ bữa cơm Chủ Nhật nha! Sau ca đêm con ngủ từ 8:30 sáng đến 3 giờ chiều, nên mẹ nhắn tin cho con thay vì gọi nhé. Con thấy là trả lời liền. Thương mẹ 🌿\"\n\nIf you'd rather use a different way of addressing her, like \"má,\" swap it in at the start and end."
+    }
+  ]
+}

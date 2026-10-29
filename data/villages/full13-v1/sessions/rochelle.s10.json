@@ -1,0 +1,39 @@
+{
+  "id": "rochelle.s10",
+  "principal": "rochelle",
+  "start": "2025-09-12T15:03:00",
+  "turns": [
+    {
+      "role": "user",
+      "text": "ok be honest can u help me plan my week. i just registered for the 1 unit online medical terminology class on top of anatomy and chemistry and i need to fit it in somehow"
+    },
+    {
+      "role": "assistant",
+      "text": "Yes. Quick questions so the plan is real: what are your class times, and how many hours a week does the terminology course expect? Any fixed commitments I should plan around?"
+    },
+    {
+      "role": "user",
+      "text": "anatomy MWF 9 plus lab wed. chem tue/thu 11. denny's plan showed this course fit my sequence so im not worried about that just the time. tuesdays i drive my mother in law to the pharmacy at 3:30. and my back flares if i sit over two hours so keep the study blocks short pls"
+    },
+    {
+      "role": "assistant",
+      "text": "Got it. Since it's 1 unit, expect roughly 2-3 hours a week for terminology. Here's a plan with blocks of 45 minutes or less so you're never sitting long:\n\n**Mon:** After anatomy, 40 min of anatomy cards. Evening: 30 min terminology.\n**Tue:** After chem, 40 min chem problems. Skip studying after the 3:30 drive. Evening: 30 min cards.\n**Wed:** Lab day, so light. 20 min terminology at night.\n**Thu:** After chem, 40 min review. Evening: 30 min terminology.\n**Fri:** 30 min anatomy recap.\n**Sat:** Two 40-min blocks, one anatomy and one terminology, with a walk between.\n**Sun:** 30 min planning and a quick review of the week.\n\nStand up and stretch between blocks. Want me to tweak the evenings?"
+    },
+    {
+      "role": "user",
+      "text": "looks good. also is the kidney nephron basically a sort line with rejects going back on the belt lol. want to put it in the thursday review"
+    },
+    {
+      "role": "assistant",
+      "text": "Pretty close. Blood gets filtered like a sort line: the good stuff (water, glucose, salts) gets pulled back onto the belt through reabsorption, and the waste goes down the chute as urine. Rejects returning to the belt are the useful stuff being reclaimed. Put it in Thursday's 40-minute block as a quick sketch."
+    },
+    {
+      "role": "user",
+      "text": "ok bet thank u"
+    },
+    {
+      "role": "assistant",
+      "text": "You're welcome. Good luck with the week."
+    }
+  ]
+}

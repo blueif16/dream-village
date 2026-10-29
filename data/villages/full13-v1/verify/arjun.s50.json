@@ -1,0 +1,117 @@
+{
+  "session_id": "arjun.s50",
+  "model": "claude-sonnet-5-5",
+  "attempt": 1,
+  "claims": [
+    {
+      "text": "Wants a summer 2026 analyst internship in the Bay Area",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f48",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "all summer 2026 analyst internships in the bay area which is what im after",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says he is after a summer 2026 Bay Area analyst internship",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f48",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "a summer 2026 analyst internship in the Bay Area",
+      "support_quote": "all summer 2026 analyst internships in the bay area which is what im after"
+    },
+    {
+      "text": "Uses 'the spreadsheet' for his application tracker",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "adding two of them to the spreadsheet tonight anyway",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant refers to his tracker",
+      "about": "arjun",
+      "kind": "reference_use",
+      "item_id": "arjun.r01",
+      "relation": "consistent",
+      "speaker": "assistant",
+      "quote": "Since you're logging two in your tracker tonight",
+      "support_quote": "adding two of them to the spreadsheet tonight anyway"
+    },
+    {
+      "text": "Picked up chai on tab at Anh's cart, will settle later",
+      "about": "anh",
+      "kind": "fact",
+      "item_id": "arjun.f53",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "i grabbed chai on tab at anhs cart earlier, ill settle up later",
+      "support_quote": ""
+    },
+    {
+      "text": "Sent his one alum message for the day",
+      "about": "arjun",
+      "kind": "fact",
+      "item_id": "arjun.f47",
+      "relation": "consistent",
+      "speaker": "user",
+      "quote": "already sent my one alum message for today",
+      "support_quote": ""
+    },
+    {
+      "text": "Marcus said someone new is taking over the IT lead job at Ridgeline",
+      "about": "victor",
+      "kind": "fact",
+      "item_id": "cast.f124",
+      "relation": "new",
+      "speaker": "user",
+      "quote": "marcus said someone new is taking over th IT lead job at ridgeline",
+      "support_quote": ""
+    },
+    {
+      "text": "Assistant says the change will be big for Marcus's coworkers",
+      "about": "marcus",
+      "kind": "other",
+      "item_id": null,
+      "relation": "new",
+      "speaker": "assistant",
+      "quote": "I'm sure that's a big change for his coworkers",
+      "support_quote": "marcus said someone new is taking over th IT lead job at ridgeline"
+    }
+  ],
+  "flags": [],
+  "passed": true,
+  "checks": [
+    {
+      "item_id": "arjun.f48",
+      "present": true,
+      "quote": "all summer 2026 analyst internships in the bay area which is what im after"
+    },
+    {
+      "item_id": "arjun.r01",
+      "present": true,
+      "quote": "adding two of them to the spreadsheet tonight anyway"
+    },
+    {
+      "item_id": "arjun.f53",
+      "present": true,
+      "quote": "i grabbed chai on tab at anhs cart earlier, ill settle up later lol"
+    },
+    {
+      "item_id": "arjun.f47",
+      "present": true,
+      "quote": "also already sent my one alum message for today so thats done"
+    },
+    {
+      "item_id": "cast.f124",
+      "present": true,
+      "quote": "marcus said someone new is taking over th IT lead job at ridgeline"
+    }
+  ],
+  "sensitive": []
+}
