@@ -1,4 +1,5 @@
 import { useMemo, useState } from 'react'
+import { messageHtml } from './chat'
 import { commitAt, fmtWhen, ms, parseDiff, short, weekOf } from './data'
 import { MemLine, MemoryFile, Txt } from './text'
 import { systemOrder } from './Village'
@@ -29,6 +30,13 @@ function ModeChip({ it }: { it: PlanItem }) {
   if (it.never_store) return <span className="chip never" title="never-store: the memory must not keep it">never-store</span>
   if (it.forget_request) return <span className="chip forget" title="the user asks the assistant to forget this">forget</span>
   return <span className={`chip ${it.mode}`}>{it.mode}</span>
+}
+
+/** One message, as a chat app shows it: theirs in a bubble on the right as they typed it, the assistant's as plain
+ *  text with its markdown set. The side says who is talking, so no label does. */
+function Msg({ role, text }: { role: string; text: string }) {
+  if (role === 'user') return <div className="msg user"><Txt text={text} /></div>
+  return <div className="msg assistant" dangerouslySetInnerHTML={{ __html: messageHtml(text) }} />
 }
 
 function SessionView({ s, ctx }: { s: Session; ctx: Ctx }) {
@@ -96,12 +104,7 @@ function SessionView({ s, ctx }: { s: Session; ctx: Ctx }) {
       <section className="insp-section">
         <h3>Dialogue</h3>
         <div className="chat">
-          {s.turns.map((t, i) => (
-            <div key={i} className={`bubble ${t.role}`}>
-              <div className="bubble-role">{t.role === 'user' ? ctx.bundle.principal.name.split(' ')[0] : 'assistant'}</div>
-              <Txt text={t.text} />
-            </div>
-          ))}
+          {s.turns.map((t, i) => <Msg key={i} role={t.role} text={t.text} />)}
         </div>
       </section>
     </>
@@ -332,10 +335,7 @@ function ProbeDetail({ p, ctx }: { p: Probe; ctx: Ctx }) {
       <section className="insp-section">
         <h3>Request <span className="count">{p.id}</span></h3>
         <div className="probe-request chat">
-          <div className="bubble user">
-            <div className="bubble-role">{ctx.bundle.principal.name.split(' ')[0]} · {fmtWhen(p.t)}</div>
-            <Txt text={p.request} />
-          </div>
+          <Msg role="user" text={p.request} />
         </div>
         <div className="insp-meta" style={{ marginTop: 8 }}>
           <span className="chip kind">{p.kind}</span>
@@ -403,7 +403,7 @@ function ProbeDetail({ p, ctx }: { p: Probe; ctx: Ctx }) {
                     {!a && <span className="empty">no answer yet</span>}
                     {a?.error && <span className="badge fail">error: {a.error}</span>}
                     {a?.refused && <span className="badge fail">refused</span>}
-                    {a && <Txt text={a.text} />}
+                    {a?.text && <Msg role="assistant" text={a.text} />}
                   </div>
                 </article>
               )

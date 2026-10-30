@@ -1,6 +1,7 @@
 // The live town. React draws the plate once and talks to this through a few methods and two callbacks; the engine
 // owns the scene and the frame loop. Every motion is either periodic (townsfolk, cars, the bus, the train, the day
 // itself) or follows town.json (where each resident is, when they talked to the assistant, when their memory dreamed).
+// All of it runs on the world's own clock, which stops when the town is paused: paused, nothing moves.
 import * as THREE from 'three'
 import { LineMaterial } from 'three/addons/lines/LineMaterial.js'
 import { LineSegments2 } from 'three/addons/lines/LineSegments2.js'
@@ -29,6 +30,7 @@ export interface EngineOpts {
   stage: HTMLElement
   tagHover: HTMLElement
   tagSel: HTMLElement
+  hoverBox: HTMLElement // the box drawn round a resident under the pointer
   labels: HTMLElement
   town: Town
   colors: Map<string, number>
@@ -39,11 +41,21 @@ export interface EngineOpts {
 
 export const MIN_PER_SEC = 8 // at 1×, a day passes in three minutes
 const PIN_PX = 22 // a resident's pin is this tall on screen however far out the view is
+const REACH_PX = 16 // a pointer this close to a resident's figure or pin, on screen, is on them
+const FIG_H = 4 // a resident's figure, feet to the top of the head, in world units
 const CALLOUT_LEAD = 30 // px of hairline between a thing and its callout card (matches .callout in town.css)
 const REDUCED = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches
 const ISO = new THREE.Vector3(1, 1, 1).normalize()
 const ease = (t: number) => t * t * (3 - 2 * t)
 const clamp = (v: number, a: number, b: number) => Math.max(a, Math.min(b, v))
+
+/** Screen distance from a point to a segment (a point, when its ends meet). */
+function segDist(x: number, y: number, [ax, ay]: [number, number], [bx, by]: [number, number]) {
+  const dx = bx - ax
+  const dy = by - ay
+  const k = dx || dy ? clamp(((x - ax) * dx + (y - ay) * dy) / (dx * dx + dy * dy), 0, 1) : 0
+  return Math.hypot(x - ax - k * dx, y - ay - k * dy)
+}
 
 /** 0 by day, 1 by night: dusk 18:30–20:30, dawn 05:30–07:00. */
 export function nightAt(t: number): number {
@@ -88,7 +100,6 @@ interface Resident {
   fig: Figure
   pin: ReturnType<typeof buildPin>
   ring: THREE.Mesh // the pulse while they talk
-  hit: THREE.Mesh
   talks: number[]
   extraTalks: number[] // exact session starts, once loaded for the selected resident
   dreams: number[]
@@ -141,6 +152,7 @@ export class TownEngine {
   private ro: ResizeObserver
   private raf = 0
   private last = performance.now()
+  private world = 0 // seconds of the world's motion: it advances only while the town plays
   private tickAcc = 0
   private fitZoom = 1
   private home = new THREE.Vector3()
@@ -154,7 +166,6 @@ export class TownEngine {
   playing = true
   speed = 1
   sel: Sel = null
-  follow = false
   views: { id: string; label: string; box: [number, number, number, number] }[] = []
 
   constructor(o: EngineOpts) {
@@ -185,14 +196,11 @@ export class TownEngine {
       const pin = buildPin(color)
       const ring = buildRing(color, 1.2, 1.7, 0.8)
       ring.visible = false
-      const hit = new THREE.Mesh(new THREE.BoxGeometry(2.4, 4.4, 2.4).translate(0, 2.2, 0), new THREE.MeshBasicMaterial({ visible: false }))
-      hit.userData.sel = { kind: 'person', id: p.id }
-      pin.group.children[0].userData.sel = { kind: 'person', id: p.id }
       const stem = new LineSegments2(new LineSegmentsGeometry().setPositions([0, 0, 0, 0, 1, 0]), new LineMaterial({ color, linewidth: 1, worldUnits: false, transparent: true, opacity: 0.9 }))
       stem.raycast = () => {}
-      this.scene.add(fig.group, pin.group, ring, hit, stem)
+      this.scene.add(fig.group, pin.group, ring, stem)
       this.residents.push({
-        p, color, fig, pin, ring, hit, talks: talkTimes(p, o.town.days), extraTalks: [], dreams: dreamTimes(p, o.town.days),
+        p, color, fig, pin, ring, talks: talkTimes(p, o.town.days), extraTalks: [], dreams: dreamTimes(p, o.town.days),
         dest: null, walk: null, s: 0, speed: 3, x: 0, y: 0, h: 0, phase: (hash(p.id) % 1000) / 1000, snap: true, fan: 0, stem,
       })
     }
@@ -314,6 +322,11 @@ export class TownEngine {
 
   setTime(t: number) {
     this.t = clamp(t, 0, this.o.town.days.length * DAY_MIN - 1)
+    // a jump in time lands everyone where the data has them: a walk under way ends at its door
+    for (const r of this.residents) if (r.walk) {
+      r.walk = null
+      r.snap = true
+    }
     this.o.onTick(this.t)
   }
   setSpeed(k: number) {
@@ -322,12 +335,8 @@ export class TownEngine {
   setPlaying(on: boolean) {
     this.playing = on
   }
-  setFollow(on: boolean) {
-    this.follow = on && this.sel?.kind === 'person'
-  }
   select(s: Sel) {
     this.sel = s
-    if (s?.kind !== 'person') this.follow = false
     this.drawSelection()
     this.o.onSelect(s)
   }
@@ -342,13 +351,11 @@ export class TownEngine {
     this.goal = { zoom: clamp((this.goal?.zoom ?? this.camera.zoom) * k, this.controls.minZoom, this.controls.maxZoom), target: this.goal?.target }
   }
   resetView() {
-    this.follow = false
     this.goal = { zoom: this.fitZoom, target: this.home.clone() }
   }
   goTo(view: string) {
     const v = this.views.find((x) => x.id === view)
     if (!v) return
-    this.follow = false
     this.goal = this.frame(v.box)
   }
   /** Bring a place or resident into view, close up. */
@@ -453,7 +460,10 @@ export class TownEngine {
       this.t = Math.min(tMax, this.t + dt * MIN_PER_SEC * this.speed)
       if (this.t >= tMax) this.playing = false
     }
-    this.update(dt, now / 1000)
+    // paused, the world's clock stops with the town's: no walking, no traffic, no turning pins
+    const wdt = this.playing ? dt : 0
+    this.world += wdt
+    this.update(wdt, this.world)
     this.camStep(dt)
     if ((this.tickAcc -= dt) <= 0) {
       this.tickAcc = 0.15
@@ -464,10 +474,6 @@ export class TownEngine {
 
   private camStep(dt: number) {
     const k = REDUCED() ? 1 : 1 - Math.exp(-dt * 6)
-    if (this.follow && this.sel?.kind === 'person') {
-      const r = this.residents.find((x) => x.p.id === this.sel!.id)
-      if (r) this.moveTarget(this.controls.target.clone().lerp(W(r.x, r.y, 0), k))
-    }
     if (this.goal) {
       if (this.goal.target) this.moveTarget(this.controls.target.clone().lerp(this.goal.target, k))
       this.camera.zoom += (this.goal.zoom - this.camera.zoom) * k
@@ -554,7 +560,8 @@ export class TownEngine {
         r.fan = k - (rs.length - 1) / 2
         const tx = lot.door[0] + (k - (rs.length - 1) / 2) * 1.8
         const ty = lot.door[1] + (lot.side === 'n' ? -0.4 : 0.4)
-        const f = still || r.snap ? 1 : 1 - Math.exp(-dt * 5)
+        // paused, the world has no time to ease in: a time set by hand puts everyone straight in their place
+        const f = still || r.snap || !this.playing ? 1 : 1 - Math.exp(-dt * 5)
         r.snap = false
         r.x += (tx - r.x) * f
         r.y += (ty - r.y) * f
@@ -571,8 +578,6 @@ export class TownEngine {
       r.fig.legs[1].rotation.z = -swing
       pose(r.fig.group, r.x, r.y, r.h, moving && !still ? Math.abs(Math.sin(secs * 9 + r.phase * 6)) * 0.08 : 0)
       r.fig.group.visible = !indoors
-      r.hit.visible = !indoors
-      pose(r.hit, r.x, r.y)
       // the pin: over their head, or over the roof when they're indoors; a slow turn, never a bounce
       const talking = st.mode === 'talking'
       const k = Math.max(1, PIN_PX / (2.7 * this.camera.zoom)) * (talking ? 1.25 : 1)
@@ -831,9 +836,53 @@ export class TownEngine {
   }
 
   private drawTags() {
+    // a resident can walk out from under a still pointer: look again, so the box always marks what a click would pick
+    if (this.pointer && this.hovered?.kind === 'person' && this.personAt(...this.pointer)?.p.id !== this.hovered.id) {
+      this.setHover(this.hit(...this.pointer))
+    }
     this.placeTag(this.o.tagSel, this.sel)
     const h = this.hovered && (this.hovered.kind !== this.sel?.kind || this.hovered.id !== this.sel?.id) ? this.hovered : null
     this.placeTag(this.o.tagHover, h)
+    this.drawHoverBox()
+  }
+
+  private setHover(s: Sel) {
+    this.hovered = s
+    this.o.canvas.classList.toggle('over', !!s)
+  }
+
+  /** The box round the resident under the pointer: round their figure, or round their pin while they're indoors. */
+  private drawHoverBox() {
+    const el = this.o.hoverBox
+    const h = this.hovered
+    const r = h?.kind === 'person' ? this.residents.find((x) => x.p.id === h.id) : undefined
+    if (!r) {
+      el.hidden = true
+      return
+    }
+    let pts: [number, number][]
+    if (r.fig.group.visible) {
+      pts = []
+      for (const dx of [-0.9, 0.9]) for (const dy of [-0.9, 0.9]) for (const z of [0, FIG_H]) pts.push(this.clientOf(W(r.x + dx, r.y + dy, z)))
+    } else {
+      const [x, y] = this.clientOf(r.pin.group.position)
+      const k = PIN_PX / 2 + 2
+      pts = [[x - k, y - k], [x + k, y + k]]
+    }
+    // never smaller than a fingertip, however far out the view is
+    const s = this.o.stage.getBoundingClientRect()
+    const xs = pts.map((p) => p[0] - s.left)
+    const ys = pts.map((p) => p[1] - s.top)
+    const cx = (Math.min(...xs) + Math.max(...xs)) / 2
+    const cy = (Math.min(...ys) + Math.max(...ys)) / 2
+    const bw = Math.max(28, Math.max(...xs) - Math.min(...xs) + 12)
+    const bh = Math.max(36, Math.max(...ys) - Math.min(...ys) + 12)
+    el.style.left = `${(cx - bw / 2).toFixed(1)}px`
+    el.style.top = `${(cy - bh / 2).toFixed(1)}px`
+    el.style.width = `${bw.toFixed(1)}px`
+    el.style.height = `${bh.toFixed(1)}px`
+    el.style.setProperty('--c', `#${r.color.toString(16).padStart(6, '0')}`)
+    el.hidden = false
   }
 
   private drawSelection() {
@@ -892,14 +941,36 @@ export class TownEngine {
     }
   }
 
+  /** Where a world point falls on the page, in client px. */
+  private clientOf(v: THREE.Vector3): [number, number] {
+    const r = this.o.canvas.getBoundingClientRect()
+    const p = v.clone().project(this.camera)
+    return [r.left + ((p.x + 1) / 2) * r.width, r.top + ((1 - p.y) / 2) * r.height]
+  }
+
+  /** The resident nearest the pointer on screen, if it is within reach of their figure (feet to head) or their pin. */
+  private personAt(cx: number, cy: number): Resident | null {
+    let best: Resident | null = null
+    let reach = REACH_PX
+    for (const r of this.residents) {
+      const pin = this.clientOf(r.pin.group.position)
+      let d = segDist(cx, cy, pin, pin)
+      if (r.fig.group.visible) d = Math.min(d, segDist(cx, cy, this.clientOf(W(r.x, r.y, 0)), this.clientOf(W(r.x, r.y, FIG_H))))
+      if (d < reach) {
+        reach = d
+        best = r
+      }
+    }
+    return best
+  }
+
   private hit(cx: number, cy: number): Sel {
+    // residents first, by distance on screen: they are small, they move, and they are what the town is about
+    const near = this.personAt(cx, cy)
+    if (near) return { kind: 'person', id: near.p.id }
     const r = this.o.canvas.getBoundingClientRect()
     const ndc = new THREE.Vector2(((cx - r.left) / r.width) * 2 - 1, -((cy - r.top) / r.height) * 2 + 1)
     this.raycaster.setFromCamera(ndc, this.camera)
-    // people and pins first: they are small and drawn over everything
-    const people = this.residents.flatMap((x) => (x.fig.group.visible ? [x.hit, x.pin.group.children[0]] : [x.pin.group.children[0]]))
-    const hp = this.raycaster.intersectObjects(people, false)[0]
-    if (hp) return hp.object.userData.sel as Sel
     const moving = [this.bus.group, ...(this.train.group.visible ? [this.train.group] : [])]
     const hv = this.raycaster.intersectObjects(moving, true)[0]
     const hb = this.raycaster.intersectObject(this.buildings, true)[0]
@@ -926,20 +997,15 @@ export class TownEngine {
     this.down = null
   }
   private onMove = (e: PointerEvent) => {
-    if (this.down && Math.hypot(e.clientX - this.down.x, e.clientY - this.down.y) >= 6) {
-      this.goal = null
-      this.follow = false
-    }
+    if (this.down && Math.hypot(e.clientX - this.down.x, e.clientY - this.down.y) >= 6) this.goal = null
     if (e.pointerType === 'mouse' && !e.buttons) {
       this.pointer = [e.clientX, e.clientY]
-      this.hovered = this.hit(...this.pointer)
-      this.o.canvas.classList.toggle('over', !!this.hovered)
+      this.setHover(this.hit(...this.pointer))
     }
   }
   private onLeave = () => {
     this.pointer = null
-    this.hovered = null
-    this.o.canvas.classList.remove('over')
+    this.setHover(null)
   }
   private onWheel = () => {
     this.goal = null

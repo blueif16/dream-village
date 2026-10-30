@@ -142,7 +142,6 @@ export const Minus = () => stroke('M3 8h10')
 export const Fit = () => stroke('M2.5 6V2.5H6M10 2.5h3.5V6M13.5 10v3.5H10M6 13.5H2.5V10')
 export const Close = () => stroke('M4 4l8 8M12 4l-8 8')
 export const Out = () => stroke('M6 3.5h6.5V10M12.5 3.5 4 12')
-export const Follow = () => stroke('M8 1.8v2.4M8 11.8v2.4M1.8 8h2.4M11.8 8h2.4M8 5.2a2.8 2.8 0 1 0 0 5.6 2.8 2.8 0 0 0 0-5.6z')
 export const Sun = () => stroke('M8 5.4a2.6 2.6 0 1 0 0 5.2 2.6 2.6 0 0 0 0-5.2zM8 1.6v1.6M8 12.8v1.6M1.6 8h1.6M12.8 8h1.6M3.5 3.5l1.1 1.1M11.4 11.4l1.1 1.1M3.5 12.5l1.1-1.1M11.4 4.6l1.1-1.1')
 export const GitHub = () => (
   <svg className="ico" viewBox="0 0 16 16" aria-hidden="true">

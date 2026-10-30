@@ -1,17 +1,17 @@
 // The panel on the right for whatever is selected. A resident's is their badge: hung on a cord over the map, their
-// drawn portrait, where they are, their day, what their assistant remembers as of this moment (the lines the latest
-// write added marked in their colour), and their talks.
+// drawn portrait, their season in four counts (talks, writes, dreams, the memory it ends with), and where they are and
+// what their assistant remembers as of this moment.
 import { useMemo, useState } from 'react'
 import { commitAt, ms, parseDiff } from '../data'
 import { MemLine, Txt } from '../text'
 import type { PrincipalBundle } from '../types'
 // Avatar.tsx and avatar.ts differ only in case: name the extension, or a case-insensitive disk picks the wrong one
 import { Avatar } from './Avatar.tsx'
-import { pickLook, residentNo } from './avatar.ts'
+import { pickLook } from './avatar.ts'
 import { cssHex } from './colors'
 import { Dot, capital, clock, isoAt, kindName, memNow, monthDay, statusWord, weekday } from './common'
 import type { Sel, Status, TownEngine } from './engine'
-import { Close, Follow, Next, Out, Prev } from './icons'
+import { Close, Next, Out, Prev } from './icons'
 import { Barcode, Cord, Dither, onColor, roleSplit } from './IdCard'
 import { districtName } from './palette'
 import { DAY_MIN, lineIndexAt, talkTimes } from './schedule'
@@ -169,14 +169,13 @@ export function DayTab({ p, t, d }: { p: TownPerson; t: number; d: string }) {
 
 const count = (n: number, one: string) => `${n} ${one}${n === 1 ? '' : 's'}`
 
-export function PersonDetail({ town, p, t, color, status, places, engine, bundle, maxLines, onSelect, onStep, onClose, onExpand }: {
+export function PersonDetail({ town, p, t, color, status, places, bundle, maxLines, onSelect, onStep, onClose, onExpand }: {
   town: Town
   p: TownPerson
   t: number
   color: number
   status: Status
   places: Map<string, Place>
-  engine: TownEngine
   bundle: PrincipalBundle | null
   maxLines: number
   onSelect: (s: Sel) => void
@@ -192,23 +191,29 @@ export function PersonDetail({ town, p, t, color, status, places, engine, bundle
   const talks = talkTimes(p, town.days).filter((x) => Math.floor(x / DAY_MIN) === day)
   const sessions = (p.sessions[d] ?? []).length
   const done = talks.filter((x) => x <= t)
-  const [following, setFollowing] = useState(engine.follow)
   // their file has every session's start; town.json only the ones that wrote memory
   const exact = bundle ? bundle.sessions.filter((s) => s.start.slice(0, 10) === d).map((s) => s.start) : null
   const talked = exact
     ? !exact.length ? 'No talk today' : exact.some((s) => s <= iso) ? exact.filter((s) => s <= iso).map((s) => s.slice(11, 16)).join(' · ') : `Later, ${exact[0].slice(11, 16)}`
     : sessions === 0 ? 'No talk today' : done.length ? done.map(clock).join(' · ') : talks.length ? `Later, ${clock(talks[0])}` : `${sessions} today`
   const look = useMemo(() => pickLook(p), [p])
-  // the badge's facts: where they live and spend their days, when they first talked, how many talks so far
+  // the badge's facts: where they live and spend their days, when they first talked
   const homes = [...new Set(p.homes.map((h) => places.get(h)?.name ?? h))]
   const anchor = p.anchor ? places.get(p.anchor)?.name ?? p.anchor : null
   const first = Object.keys(p.sessions).filter((k) => p.sessions[k].length).sort()[0] ?? null
-  const before = town.days.slice(0, day).reduce((n, k) => n + (p.sessions[k]?.length ?? 0), 0)
-  const soFar = before + (exact ? exact.filter((s) => s <= iso).length : done.length)
   const [given, ...family] = p.name.split(' ')
   const longest = Math.max(given.length, family.join(' ').length)
   const [head, rest] = roleSplit(capital(p.role))
-  const follow = () => { engine.setFollow(!following); setFollowing(!following) }
+  // their whole season, from their file: how often they talked, how often the assistant wrote and dreamed, and the
+  // memory it ended with
+  const writes = bundle?.commits.filter((c) => c.event === 'write').length
+  const dreams = bundle?.commits.filter((c) => c.event === 'dream').length
+  const season: [string, React.ReactNode, string?][] = [
+    ['Talks', bundle ? bundle.sessions.length : '…'],
+    ['Writes', writes ?? '…'],
+    ['Dreams', dreams ?? '…'],
+    ['Final memory', bundle ? bundle.commits.at(-1)?.lines ?? 0 : '…', 'lines'],
+  ]
   return (
     <aside className="detail idcard" role="region" aria-label={`${p.name}, details`}
       style={{ '--c': cssHex(color), '--c-on': onColor(color) === 'ink' ? '#1a1c1a' : '#ffffff' } as React.CSSProperties}>
@@ -220,25 +225,20 @@ export function PersonDetail({ town, p, t, color, status, places, engine, bundle
             <button onClick={() => onStep(1)} aria-label="Next resident" title="Next resident (])"><Next /></button>
           </span>
           <span className="acts">
-            <button className="follow" aria-pressed={following} onClick={follow} title="Follow on the map (F)"><Follow /> {following ? 'Following' : 'Follow'}</button>
             <button onClick={onClose} aria-label="Close details" title="Close (Esc)"><Close /></button>
           </span>
         </div>
-        <header className="idcard-brand">
-          <span className="town">Dream Village</span>
-          <span className="pill"><Dot color={color} ring={status.mode === 'talking'} /> Resident</span>
-          <span className="no" title="Resident number, from their id">{residentNo(p.id)}</span>
-        </header>
         <div className="idcard-body">
           <div className="idcard-info">
             <dl>
               <div><dt>Home</dt><dd>{homes.join(' · ') || '—'}</dd></div>
               {anchor && <div><dt>Days at</dt><dd>{anchor}</dd></div>}
             </dl>
-            <dl className="r">
-              {first && <div><dt>{first <= d ? 'Since' : 'First talk'}</dt><dd>{monthDay(first)}, {first.slice(0, 4)}</dd></div>}
-              <div><dt>Town</dt><dd>{town.town}</dd></div>
-            </dl>
+            {first && (
+              <dl className="r">
+                <div><dt>{first <= d ? 'Since' : 'First talk'}</dt><dd>{monthDay(first)}, {first.slice(0, 4)}</dd></div>
+              </dl>
+            )}
           </div>
           <section className="idcard-art" aria-label={`${p.name}, drawn`}>
             <Dither height={216} />
@@ -251,7 +251,11 @@ export function PersonDetail({ town, p, t, color, status, places, engine, bundle
           <dl className={p.minor ? 'idcard-meta minor' : 'idcard-meta'}>
             {!p.minor && <div><dt>Age</dt><dd className="num">{p.age ?? '—'}</dd></div>}
             <div className="job"><dt>Role</dt><dd><b>{head}</b>{rest}</dd></div>
-            <div><dt>Talks</dt><dd className="num">{soFar}<small>so far</small></dd></div>
+          </dl>
+          <dl className="idcard-stats" aria-label="Their season">
+            {season.map(([k, v, unit]) => (
+              <div key={k}><dt>{k}</dt><dd>{v}{unit && <small>{unit}</small>}</dd></div>
+            ))}
           </dl>
           <dl className="idcard-live">
             <div><dt>Now</dt><dd>{statusWord(status, places)}</dd></div>
@@ -270,7 +274,6 @@ export function PersonDetail({ town, p, t, color, status, places, engine, bundle
         <footer className="idcard-stub">
           <div className="code">
             <Barcode id={p.id} />
-            <span>{residentNo(p.id)} · {town.town}</span>
           </div>
           <button className="open" onClick={onExpand} title="Their memory, talks and timeline, over the map">
             <span>Expand</span>

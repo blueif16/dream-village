@@ -49,6 +49,7 @@ export function Town({ frame }: { frame?: Frame }) {
   const canvas = useRef<HTMLCanvasElement>(null)
   const tagHover = useRef<HTMLDivElement>(null)
   const tagSel = useRef<HTMLDivElement>(null)
+  const hoverBox = useRef<HTMLDivElement>(null)
   const labels = useRef<HTMLDivElement>(null)
   const [engine, setEngine] = useState<TownEngine | null>(null)
   const [t, setT] = useState(7.5 * 60)
@@ -70,7 +71,7 @@ export function Town({ frame }: { frame?: Frame }) {
   }, [])
 
   useEffect(() => {
-    if (!town || !canvas.current || !stage.current || !tagHover.current || !tagSel.current || !labels.current) return
+    if (!town || !canvas.current || !stage.current || !tagHover.current || !tagSel.current || !hoverBox.current || !labels.current) return
     let e: TownEngine | null = null
     let alive = true
     // the ground labels are drawn in DM Mono, so wait for it (but not for long)
@@ -78,7 +79,7 @@ export function Town({ frame }: { frame?: Frame }) {
       if (!alive) return
       try {
         e = new TownEngine({
-          canvas: canvas.current!, stage: stage.current!, tagHover: tagHover.current!, tagSel: tagSel.current!, labels: labels.current!, town, colors,
+          canvas: canvas.current!, stage: stage.current!, tagHover: tagHover.current!, tagSel: tagSel.current!, hoverBox: hoverBox.current!, labels: labels.current!, town, colors,
           onSelect, onTick: setT, onNight: setNight,
         })
         setEngine(e)
@@ -166,7 +167,6 @@ export function Town({ frame }: { frame?: Frame }) {
         ' ': togglePlay,
         ']': () => step(1),
         '[': () => step(-1),
-        f: () => engine.setFollow(!engine.follow),
         Escape: () => (expanded ? setExpanded(false) : sheet ? setSheet(null) : engine.select(null)),
         '+': () => engine.zoomBy(1.4),
         '=': () => engine.zoomBy(1.4),
@@ -202,10 +202,11 @@ export function Town({ frame }: { frame?: Frame }) {
     <div className={inert ? 'console-app window' : 'console-app'} inert={inert || undefined}
       style={frame && { clipPath: frame.clip, visibility: frame.hidden ? 'hidden' : undefined, transition: frame.animate ? undefined : 'none' }}>
       <div className="shell">
-        <div className={`screen${night ? ' night' : ''}${detail ? ' has-detail' : ''}`} ref={stage}>
+        <div className={`screen${night ? ' night' : ''}${detail ? ' has-detail' : ''}${expanded && person && mine ? ' xp-open' : ''}`} ref={stage}>
           <canvas ref={canvas} tabIndex={0} role="img"
             aria-label="Isometric map of the town and its residents, live through the days of the season. Drag to pan, scroll to zoom, click anyone or any building for details." />
           <div className="labels" ref={labels} aria-hidden="true" />
+          <div className="hoverbox" ref={hoverBox} hidden aria-hidden="true" />
           <Callout el={tagHover} hover />
           <Callout el={tagSel} />
           <div className="maptools" role="group" aria-label="Map">
@@ -217,7 +218,7 @@ export function Town({ frame }: { frame?: Frame }) {
           {detail && (
             person ? (
               <PersonDetail key={person.id} town={town!} p={person} t={t} color={colors.get(person.id) ?? 0x888888} status={engine!.statusOf(person.id)}
-                places={places} engine={engine!} bundle={mine} maxLines={maxLines} onExpand={() => setExpanded(true)}
+                places={places} bundle={mine} maxLines={maxLines} onExpand={() => setExpanded(true)}
                 onSelect={select} onStep={step} onClose={() => engine!.select(null)} />
             ) : place ? (
               <PlaceDetail town={town!} place={place} t={t} engine={engine!} colors={colors} onSelect={select} onClose={() => engine!.select(null)} />

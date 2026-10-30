@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { FACES, HAIRS, pickLook, residentNo, type Who } from './avatar'
+import { FACES, HAIRS, pickLook, type Who } from './avatar'
 
 // today's twelve, as town.json has them
 const TWELVE: Who[] = [
@@ -127,16 +127,5 @@ describe('the outfit, read from the role (first rule that matches wins)', () => 
     ['', 'crew'],
   ] as const)('dresses “%s” in %s', (role, want) => {
     expect(outfit(role)).toBe(want)
-  })
-})
-
-describe('the resident number', () => {
-  it('reads DV· and four base-36 characters', () => {
-    for (const p of TWELVE) expect(residentNo(p.id)).toMatch(/^DV·[0-9A-Z]{4}$/)
-  })
-
-  it('is the same for the same id and differs across today’s twelve', () => {
-    expect(residentNo('thao')).toBe(residentNo('thao'))
-    expect(new Set(TWELVE.map((p) => residentNo(p.id))).size).toBe(12)
   })
 })

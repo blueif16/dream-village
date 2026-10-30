@@ -25,6 +25,22 @@
   }
 }
 
+/* with the expanded panel open beside it, the badge runs the same height: top to the panel's top, foot to its foot */
+@media (min-width: 761px) {
+  .screen.xp-open .idcard.detail {
+    bottom: 12px;
+    max-height: none;
+  }
+
+  .screen.xp-open .idcard-paper {
+    flex: 1 1 auto;
+  }
+
+  .screen.xp-open .idcard-body {
+    flex: 1 1 auto;
+  }
+}
+
 /* hung on, it settles: a short swing about the slot */
 @keyframes idcard-swing {
   0% {
@@ -117,81 +133,21 @@
   color: var(--graphite);
 }
 
-.idcard-hang .follow {
-  width: auto;
-  height: 26px;
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  margin-right: 4px;
-  padding: 0 9px 0 7px;
-  border: 1px solid var(--hair-firm);
-  font: 600 12px var(--read);
-  color: var(--graphite);
-}
-
-.idcard-hang .follow:hover {
-  border-color: var(--graphite);
-  background: var(--sheet);
-}
-
-.idcard-hang .follow[aria-pressed='true'] {
-  background: var(--graphite);
-  border-color: var(--graphite);
-  color: var(--sheet);
-}
-
-.idcard-hang .follow .ico {
-  width: 14px;
-  height: 14px;
-}
-
-/* ---- (b) the brand row */
-
-.idcard-brand {
-  flex: none;
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 0 16px 11px;
-  border-bottom: 1px solid var(--hair-soft);
-  color: var(--graphite);
-}
-
-/* the wordmark, set as the site nav sets it: upright, heavy and tight, in Geist */
-.idcard-brand .town {
-  font: 760 19px/1 'Geist Variable', 'Helvetica Neue', sans-serif;
-  letter-spacing: -0.045em;
-  color: var(--moss);
-}
-
-.idcard-brand .pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  height: 20px;
-  padding: 0 9px 0 7px;
-  border: 1px solid var(--graphite);
-  border-radius: 999px;
-  font: 500 9.5px var(--gauge);
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-}
-
-.idcard-brand .no {
-  margin-left: auto;
-  font: 500 12.5px var(--gauge);
-  letter-spacing: 0.06em;
-}
-
-/* ---- the body, from the info row to the readouts: between the brand row and the stub */
+/* ---- the body, from the info row to the readouts: between the hanger strip and the stub */
 
 .idcard-body {
   --fade: 14px;
   flex: 0 1 auto;
   min-height: 0;
+  display: flex;
+  flex-direction: column;
   overflow: auto;
   padding: 0 16px var(--fade);
+}
+
+/* short of room, the portrait gives way first (down to a strip), so the readouts below it stay in view */
+.idcard-body > * {
+  flex: none;
 }
 
 /* on a short screen the readouts scroll: the paper fades at the edge to say so (over the padding when they don't) */
@@ -200,13 +156,14 @@
   position: sticky;
   bottom: 0;
   display: block;
+  flex: none;
   height: var(--fade);
   margin: 0 -16px calc(-1 * var(--fade));
   background: linear-gradient(rgb(255 255 255 / 0), var(--sheet));
   pointer-events: none;
 }
 
-/* ---- (c) the info row, tiny mono capitals */
+/* ---- (b) the info row, tiny mono capitals */
 
 .idcard-info {
   display: grid;
@@ -243,11 +200,12 @@
   color: var(--pencil);
 }
 
-/* ---- (d) the art panel */
+/* ---- (c) the art panel */
 
 .idcard-art {
   position: relative;
-  height: 216px;
+  flex: 0 1 216px;
+  min-height: 104px;
   margin: 10px -4px 0;
   overflow: hidden;
   border-radius: var(--r-md);
@@ -282,14 +240,18 @@
   display: block;
 }
 
+/* the drawing scales with the panel: its tallest hair (about 0.05 of it down) always clears the panel's top edge */
 .idcard-art .avatar {
   position: absolute;
   right: -10px;
   bottom: -16px;
   display: block;
+  height: calc(100% + 24px);
+  width: auto;
+  aspect-ratio: 1;
 }
 
-/* ---- (e) the meta row and (f) the live readouts, as ticket fields */
+/* ---- (d) the meta row and (f) the live readouts, as ticket fields */
 
 .idcard-meta,
 .idcard-live {
@@ -298,13 +260,13 @@
 }
 
 .idcard-meta {
-  grid-template-columns: 54px minmax(0, 1fr) 68px;
+  grid-template-columns: 54px minmax(0, 1fr);
   margin-top: 4px;
   border-bottom: 1px solid var(--hair-soft);
 }
 
 .idcard-meta.minor {
-  grid-template-columns: minmax(0, 1fr) 68px;
+  grid-template-columns: minmax(0, 1fr);
 }
 
 .idcard-meta > div,
@@ -348,9 +310,39 @@
   color: var(--graphite);
 }
 
-.idcard-meta .num small {
-  display: block;
-  margin-top: 2px;
+/* ---- (e) their season: four small tiles in a row */
+
+.idcard-stats {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(0, 1.5fr);
+  gap: 6px;
+  margin: 10px 0 4px;
+}
+
+.idcard-stats > div {
+  min-width: 0;
+  padding: 6px 9px 7px;
+  border: 1px solid var(--hair-soft);
+  border-radius: var(--r-sm);
+  background: var(--sheet-sunk);
+}
+
+.idcard-stats dt {
+  font: 500 9px var(--gauge);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  color: var(--pencil);
+}
+
+.idcard-stats dd {
+  margin: 3px 0 0;
+  font: 400 20px/1.1 var(--gauge);
+  color: var(--graphite);
+}
+
+.idcard-stats dd small {
+  margin-left: 4px;
   font: 500 9px var(--gauge);
   letter-spacing: 0.1em;
   text-transform: uppercase;
@@ -434,13 +426,6 @@
   shape-rendering: crispEdges;
 }
 
-.idcard-stub .code span {
-  font: 500 9.5px var(--gauge);
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--graphite-2);
-}
-
 .idcard-stub .open {
   display: flex;
   flex-direction: column;
@@ -479,8 +464,7 @@
   border-radius: 2px;
 }
 
-/* a short screen (1280 x 800): the badge rises and tightens, portrait and stub smaller, so all of it still shows.
-   The portrait is sized so the tallest hair (a puff, about 0.05 of the drawing down) clears the panel's top edge. */
+/* a short screen (1280 x 800): the badge rises and tightens, stub smaller, so all of it still shows */
 @media (min-width: 761px) and (max-height: 860px) {
   .idcard.detail {
     top: 28px;
@@ -496,10 +480,6 @@
     padding-top: 3px;
   }
 
-  .idcard-brand {
-    padding-bottom: 8px;
-  }
-
   .idcard-body {
     --fade: 10px;
   }
@@ -510,19 +490,23 @@
   }
 
   .idcard-art {
-    height: 118px;
     margin-top: 8px;
-  }
-
-  .idcard-art .avatar {
-    width: 140px;
-    height: 140px;
-    right: -4px;
-    bottom: -16px;
   }
 
   .idcard-meta {
     margin-top: 2px;
+  }
+
+  .idcard-stats {
+    margin: 6px 0 2px;
+  }
+
+  .idcard-stats > div {
+    padding: 4px 8px 5px;
+  }
+
+  .idcard-stats dd {
+    font-size: 17px;
   }
 
   .idcard-meta > div,

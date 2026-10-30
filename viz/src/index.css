@@ -879,47 +879,137 @@ kbd {
   color: var(--fail);
 }
 
-/* chat */
+/* chat, set as a chat app sets it: their messages in soft bubbles on the right, as typed; the assistant's as plain
+   text across the column, its markdown set (Inspector.tsx Msg, chat.ts) */
 
 .chat {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 22px;
+  max-width: 760px;
+  margin: 4px auto 6px;
 }
 
-.bubble {
-  max-width: 86%;
-  padding: 9px 13px;
-  border-radius: 12px;
-  white-space: pre-wrap;
+.msg {
+  font: 400 14.5px/1.65 var(--sans);
+  color: var(--ink);
   overflow-wrap: anywhere;
-  font-size: 13.5px;
-  line-height: 1.5;
 }
 
-.bubble.user {
+.msg.user {
   align-self: flex-end;
-  background: #e7e1d4;
-  border-bottom-right-radius: 3px;
+  max-width: min(80%, 560px);
+  padding: 10px 16px;
+  border-radius: 20px;
+  background: #eeeae1;
+  white-space: pre-wrap;
 }
 
-.bubble.assistant {
-  align-self: flex-start;
-  background: var(--sheet);
-  border: 1px solid var(--rule);
-  border-bottom-left-radius: 3px;
+.msg.assistant > :first-child {
+  margin-top: 0;
 }
 
-.bubble-role {
-  font-size: 10.5px;
-  text-transform: uppercase;
-  letter-spacing: 0.07em;
+.msg.assistant > :last-child {
+  margin-bottom: 0;
+}
+
+.msg.assistant p,
+.msg.assistant ul,
+.msg.assistant ol,
+.msg.assistant pre,
+.msg.assistant blockquote {
+  margin: 0 0 12px;
+}
+
+.msg.assistant ul,
+.msg.assistant ol {
+  padding-left: 22px;
+}
+
+.msg.assistant li {
+  margin: 4px 0;
+}
+
+.msg.assistant li > p {
+  margin: 0;
+}
+
+.msg.assistant li > ul,
+.msg.assistant li > ol {
+  margin: 4px 0 0;
+}
+
+.msg.assistant li::marker {
   color: var(--muted);
-  margin-bottom: 2px;
 }
 
-.bubble.user .bubble-role {
-  text-align: right;
+.msg.assistant strong {
+  font-weight: 700;
+}
+
+.msg.assistant h1,
+.msg.assistant h2,
+.msg.assistant h3,
+.msg.assistant h4 {
+  margin: 18px 0 8px;
+  font: 700 15px/1.4 var(--sans);
+  letter-spacing: 0;
+  text-transform: none;
+  color: var(--ink);
+}
+
+.msg.assistant code {
+  padding: 1px 5px;
+  border-radius: 5px;
+  background: #efebe3;
+  font: 12.5px var(--mono);
+}
+
+.msg.assistant pre {
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: #efebe3;
+  overflow-x: auto;
+}
+
+.msg.assistant pre code {
+  padding: 0;
+  background: none;
+}
+
+.msg.assistant blockquote {
+  padding-left: 12px;
+  border-left: 3px solid var(--rule);
+  color: var(--ink-2);
+}
+
+.msg.assistant hr {
+  margin: 16px 0;
+  border: 0;
+  border-top: 1px solid var(--rule-2);
+}
+
+/* a table keeps to the column and scrolls sideways when it is wider */
+.msg.assistant table {
+  display: block;
+  max-width: 100%;
+  margin: 0 0 12px;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 13.5px;
+}
+
+.msg.assistant th,
+.msg.assistant td {
+  padding: 7px 14px 7px 0;
+  border-bottom: 1px solid var(--rule-2);
+  text-align: left;
+  vertical-align: top;
+}
+
+.msg.assistant th {
+  font-weight: 700;
+  border-bottom-color: var(--rule);
 }
 
 /* tabs */
@@ -1239,8 +1329,9 @@ details.plan p {
 }
 
 .answer {
-  border: 1px solid var(--rule);
-  border-radius: 6px;
+  border: 1px solid var(--rule-2);
+  border-radius: 14px;
+  overflow: hidden;
   background: #fff;
   display: flex;
   flex-direction: column;
@@ -1274,13 +1365,15 @@ details.plan p {
 }
 
 .answer-text {
-  padding: 9px 11px;
-  font-size: 13px;
-  line-height: 1.5;
-  white-space: pre-wrap;
-  overflow-wrap: anywhere;
+  padding: 12px 14px 14px;
   max-height: 520px; /* long answers scroll in place so the columns stay comparable */
   overflow-y: auto;
+}
+
+/* in a column, an answer is set a size down from the full-width chat */
+.answer-text .msg {
+  font-size: 13.5px;
+  line-height: 1.6;
 }
 
 .checks {

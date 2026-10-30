@@ -113,11 +113,6 @@ export function pickLook(p: Who): Look {
   }
 }
 
-/** The number printed on the badge: DV· and four base-36 characters from the id, never from a position in a list. */
-export function residentNo(id: string): string {
-  return `DV·${(hash(`no:${id}`) % 36 ** 4).toString(36).toUpperCase().padStart(4, '0')}`
-}
-
 /** The stub's barcode as alternating bar and gap widths in modules, from the id: decorative, but the same every time. */
 export function barcode(id: string, n = 46): number[] {
   const r = rng(`bar:${id}`)
